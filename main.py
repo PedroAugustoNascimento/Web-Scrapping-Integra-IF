@@ -10,7 +10,8 @@ def main():
         scrapper.selecionar_filtro_e_buscar("Ciência da Computação")
 
         scrapper.abrir_perfis()
-    
+
+
     except Exception as e:
         print(f"Erro durante a execução: {e}")
 

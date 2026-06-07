@@ -69,7 +69,9 @@ class Scrapper:
             foto_perfil = self.get_foto_perfil()
             nome_arquivo = nome.replace(" ", "_").lower()
             self.baixar_foto(foto_perfil, nome_arquivo)
-
+            print(f"DEBUG - Abrindo dados gerais")
+            self.abrir_dados_gerais()
+            
             #print(f"DEBUG - Nome: {nome}")
             #print(f"DEBUG - Foto de perfil: {foto_perfil}")
 
@@ -117,6 +119,30 @@ class Scrapper:
         except Exception as e:
             print(f"Erro ao salvar foto: {e}")
             return None
-        
+
+    def abrir_dados_gerais(self):
+        try:
+            botao = self.wait.until(
+                EC.element_to_be_clickable(
+                    (By.XPATH, "//button[@data-cy='integra-tab-1']")
+                )
+            )
+
+            self.driver.execute_script(
+                "arguments[0].click();",
+                botao
+            )
+
+            self.wait.until(
+                EC.presence_of_element_located(
+                    (By.XPATH, "//div[@id='integra-tabs-panel-1']")
+                )
+            )
+
+            print("DEBUG -Dados gerais carregados")
+
+        except Exception as e:
+            print(f"Erro ao abrir Dados Gerais: {e}") 
+
     def fechar(self):
         self.driver.quit()
