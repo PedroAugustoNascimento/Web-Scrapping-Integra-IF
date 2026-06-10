@@ -1,6 +1,5 @@
 from scrapper import Scrapper
-from save_csv import SaveCSV
-
+# implementar a chamada da classe JSON para salvar os dados extraídos em um arquivo JSON -> atualmente está sendo chamado na classe Scrapper, fazer quando já tiver todos os dados limpos e higienizados
 def main():
     try:
         scrapper = Scrapper()

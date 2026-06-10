@@ -2,6 +2,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from browser import iniciar_browser
+from cleaner_data import CleanerData
+from save_json import JSON
 import time
 import base64
 import os
@@ -12,6 +14,7 @@ class Scrapper:
         self.driver = iniciar_browser()
         self.driver.implicitly_wait(10) # Espera implícita para elementos carregarem 
         self.wait = WebDriverWait(self.driver, 20)
+        
 
     def acessar_site(self, url):
         self.driver.get(url)
@@ -71,7 +74,11 @@ class Scrapper:
             self.baixar_foto(foto_perfil, nome_arquivo)
             print(f"DEBUG - Abrindo dados gerais")
             self.abrir_dados_gerais()
-            
+            dados_gerais = self.extrair_dados_gerais()
+            cleaner = CleanerData()
+            dados_limpos = cleaner.limpar_dados_gerais(dados_gerais)
+            json = JSON()
+            json.salvar_dados_json(dados_limpos, f"{nome_arquivo}.json")
             #print(f"DEBUG - Nome: {nome}")
             #print(f"DEBUG - Foto de perfil: {foto_perfil}")
 
@@ -144,5 +151,13 @@ class Scrapper:
         except Exception as e:
             print(f"Erro ao abrir Dados Gerais: {e}") 
 
+    def extrair_dados_gerais(self):
+        try:
+            dados = self.driver.find_element(By.XPATH, "//div[@id='integra-tabs-panel-1']")
+            return dados.text.strip()
+        except Exception as e:
+            print(f"Erro ao extrair dados gerais: {e}")
+            return None
+        
     def fechar(self):
         self.driver.quit()
