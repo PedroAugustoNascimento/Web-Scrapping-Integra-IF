@@ -55,13 +55,8 @@ class Scrapper:
         time.sleep(2) 
         print("DEBUG - Resultados carregados")
     
-    def abrir_perfis(self):
-        perfis = self.driver.find_elements(
-            By.XPATH, "//span[@data-cy='integra-item-tittle']/a"
-        )
+    def processar_perfis(self, urls):
 
-        urls = [p.get_attribute("href") for p in perfis]
-        numeracao = 1
         for url in urls:
             print(f"DEBUG -Abrindo perfil: {url}")
             self.driver.get(url)
@@ -82,11 +77,11 @@ class Scrapper:
             #print(f"DEBUG - Nome: {nome}")
             #print(f"DEBUG - Foto de perfil: {foto_perfil}")
 
-            self.driver.back()
+            #self.driver.back()
 
-            self.wait.until(
-                EC.presence_of_element_located((By.CLASS_NAME, "integra-item"))
-            )
+            #self.wait.until(
+                #EC.presence_of_element_located((By.CLASS_NAME, "integra-item"))
+            #)
 
     def get_nome(self):
         try:
@@ -158,6 +153,53 @@ class Scrapper:
         except Exception as e:
             print(f"Erro ao extrair dados gerais: {e}")
             return None
-        
+    
+    def coletar_todas_urls(self):
+        urls = []
+
+        while True:
+            self.wait.until(
+                EC.presence_of_all_elements_located(
+                    (By.XPATH, "//span[@data-cy='integra-item-tittle']/a")
+                )
+            )
+
+            perfis = self.driver.find_elements(
+                By.XPATH,
+                "//span[@data-cy='integra-item-tittle']/a"
+            )
+
+            urls.extend(
+                [p.get_attribute("href") for p in perfis]
+            )
+            print(f"DEBUG - URLs coletadas: {len(urls)}")
+
+            try:
+                btn_proximo = self.driver.find_element(
+                    By.XPATH,
+                    "//button[@data-cy='integra-pagination-btn-proximo']"
+                )
+
+                self.driver.execute_script(
+                    "arguments[0].click();",
+                    btn_proximo
+                )
+
+                time.sleep(2)
+
+                novos_perfis = self.driver.find_elements(
+                By.XPATH,
+                "//span[@data-cy='integra-item-tittle']/a"
+                )
+
+                if len(novos_perfis) == 0:
+                    print("DEBUG - Chegou à página final")
+                    break
+
+            except Exception as e:
+                print(f"DEBUG - Erro de paginação: {e}")
+
+        return urls
+    
     def fechar(self):
         self.driver.quit()
