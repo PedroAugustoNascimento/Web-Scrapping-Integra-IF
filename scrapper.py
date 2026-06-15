@@ -76,6 +76,16 @@ class Scrapper:
             json.salvar_dados_json(dados_limpos, f"{nome_arquivo}.json")
             #print(f"DEBUG - Nome: {nome}")
             #print(f"DEBUG - Foto de perfil: {foto_perfil}")
+            self.abrir_producao_tecnica()
+            producao_tecnica = self.extrair_producao_tecnica()
+            print("DEBUG - Producao tecnica extraida")
+            self.abrir_producao_bibliografica()
+            producao_bibliografica = self.extrair_producao_bibliografica()
+            print("DEBUG - Producao bibliografica extraida")
+            self.abrir_producao_outra()
+            producao_outra = self.extrair_producao_outra()
+            print("DEBUG - Producao outra extraida")
+
 
             #self.driver.back()
 
@@ -201,5 +211,101 @@ class Scrapper:
 
         return urls
     
+    def abrir_producao_tecnica(self):
+        try:
+            botao = self.wait.until(
+                EC.element_to_be_clickable(
+                    (By.XPATH, "//button[@data-cy='integra-tab-3']")
+                )
+            )
+
+            self.driver.execute_script(
+                "arguments[0].click();",
+                botao
+            )
+
+            self.wait.until(
+                EC.presence_of_element_located(
+                    (By.XPATH, "//div[@id='integra-tabs-panel-3']")
+                )
+            )
+
+            print("DEBUG - aba producao tecnica aberta")
+
+        except Exception as e:
+            print(f"Erro ao abrir producao tecnica: {e}")
+
+    def extrair_producao_tecnica(self):
+        try:
+            producao_tecnica = self.driver.find_element(By.XPATH, "//div[@id='integra-tabs-panel-3']")
+            return producao_tecnica.text.strip()
+        except Exception as e:
+            print(f"Erro ao extrair producao tecnica: {e}")
+            return None
+    
+    def abrir_producao_bibliografica(self):
+        try:
+            botao = self.wait.until(
+                EC.element_to_be_clickable(
+                    (By.XPATH, "//button[@data-cy='integra-tab-4']")
+                )
+            )
+
+            self.driver.execute_script(
+                "arguments[0].click();",
+                botao
+            )
+
+            self.wait.until(
+                EC.presence_of_element_located(
+                    (By.XPATH, "//div[@id='integra-tabs-panel-4']")
+                )
+            )
+
+            print("DEBUG - aba producao bibliografica aberta")
+
+        except Exception as e:
+            print(f"Erro ao abrir producao bibliografica: {e}")    
+
+    def extrair_producao_bibliografica(self):
+        try:
+            producao_bibliografica = self.driver.find_element(By.XPATH, "//div[@id='integra-tabs-panel-4']")
+            return producao_bibliografica.text.strip()
+        except Exception as e:
+            print(f"Erro ao extrair producao bibliografica: {e}")
+            return None
+
+    def abrir_producao_outra(self):
+        try:
+            botao = self.wait.until(
+                EC.element_to_be_clickable(
+                    (By.XPATH, "//button[@data-cy='integra-tab-5']")
+                )
+            )
+
+            self.driver.execute_script(
+                "arguments[0].click();",
+                botao
+            )
+
+            self.wait.until(
+                EC.presence_of_element_located(
+                    (By.XPATH, "//div[@id='integra-tabs-panel-5']")
+                )
+            )
+
+            print("DEBUG - aba producao outra aberta")
+
+        except Exception as e:
+            print(f"Erro ao abrir producao outra: {e}")    
+
+    def extrair_producao_outra(self):
+        try:
+            producao_outra = self.driver.find_element(By.XPATH, "//div[@id='integra-tabs-panel-5']")
+            return producao_outra.text.strip()
+        except Exception as e:
+            print(f"Erro ao extrair producao outra: {e}")
+            return None
+
     def fechar(self):
         self.driver.quit()
