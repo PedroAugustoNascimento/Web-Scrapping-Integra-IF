@@ -18,8 +18,26 @@ class Scrapper:
 
     def acessar_site(self, url):
         self.driver.get(url)
+    
+    def aceitar_cookies(self):
+        try:
+            print("DEBUG - Procurando botão de aceitar cookies")
+            aceitar_btn = self.wait.until(
+                EC.element_to_be_clickable((By.XPATH, "//button[contains(@class, 'cookies-btn')]"))
+            )
+            print("DEBUG - Botão encontrado, clicando via JS")
+            self.driver.execute_script("arguments[0].click();", aceitar_btn)
+            
+            # Espera o banner desaparecer de fato
+            self.wait.until(
+                EC.invisibility_of_element(aceitar_btn)
+            )
+            print("DEBUG - Banner de cookies removido")
+        except Exception as e:
+            print(f"DEBUG - Botão de cookies não encontrado ou erro ao clicar: {e}")
 
     def selecionar_filtro_e_buscar(self, curso="Ciência da Computação"):
+        self.aceitar_cookies() # Chama o método para aceitar cookies antes de interagir com o filtro
         filtro = self.wait.until(
             EC.element_to_be_clickable((By.XPATH, "//input[@id='integra-filter-areaAtuacao']"))
         )
