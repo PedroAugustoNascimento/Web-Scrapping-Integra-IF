@@ -82,6 +82,9 @@ class Scrapper:
             time.sleep(2) 
 
             nome = self.get_nome()
+            if nome is None:
+                print(f"DEBUG - pulando perfil (não é docente ou tem erro: {url})")
+                continue
             foto_perfil = self.get_foto_perfil()
             nome_arquivo = nome.replace(" ", "_").lower()
             self.baixar_foto(foto_perfil, nome_arquivo)
@@ -114,7 +117,11 @@ class Scrapper:
     def get_nome(self):
         try:
             nome = self.driver.find_element(By.XPATH, "//h3[@class='titulo-interno__titulo text-muted']")
-            return nome.text.strip().splitlines()[0]
+            if 'Docente' in nome.text:
+                return nome.text.strip().splitlines()[0]
+            else:
+                print("DEBUG - Não é docente")
+                return None
         except Exception as e:
             print(f"Erro ao obter nome: {e}")
             return None
