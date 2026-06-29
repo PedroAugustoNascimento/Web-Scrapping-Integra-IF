@@ -8,7 +8,6 @@ import time
 import base64
 import os
 
-
 class Scrapper:
     def __init__(self):
         self.driver = iniciar_browser()
@@ -85,6 +84,7 @@ class Scrapper:
             if nome is None:
                 print(f"DEBUG - pulando perfil (não é docente ou tem erro: {url})")
                 continue
+            campus = self.get_campus()
             foto_perfil = self.get_foto_perfil()
             nome_arquivo = nome.replace(" ", "_").lower()
             self.baixar_foto(foto_perfil, nome_arquivo)
@@ -125,7 +125,17 @@ class Scrapper:
         except Exception as e:
             print(f"Erro ao obter nome: {e}")
             return None
-    
+        
+    def get_campus(self):
+        try:
+            campus = self.driver.find_element(By.XPATH, "//p[@class='perfil__cargo']/span[@data-cy='integra-cargo-campus']")
+            texto = campus.text.strip()
+            print(f"DEBUG - Campus encontrado: {texto}")
+            return texto
+        except Exception as e:
+            print(f"Erro ao obter campus: {e}")
+            return None
+        
     def get_foto_perfil(self):
         try:
             foto = self.driver.find_element(By.XPATH, "//img[@class='rounded img-fluid w-100 b-img perfil__foto collapsed']")

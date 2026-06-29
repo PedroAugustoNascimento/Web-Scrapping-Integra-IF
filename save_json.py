@@ -18,3 +18,4 @@ class JSON:
 
         except Exception as e:
             print(f"DEBUG - Erro ao salvar dados em JSON: {e}")
+    
