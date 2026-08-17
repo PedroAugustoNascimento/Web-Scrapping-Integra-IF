@@ -1,130 +1,208 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Ciências da Computação",
-            "periodo": "2022 - 2024",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "NoCodeGPT: A No-Code Interface for Building Web Apps with Language Models",
-            "orientador": "Marco Túlio Valente"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Arquitetura de Sistemas Distribuídos",
-            "periodo": "2012 - 2014",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
-            "orientador": "Biharck Araújo"
-        },
-        {
-            "nivel": "Especialização"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Informática na Educação",
-            "periodo": "2017 - 2018",
-            "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
-            "orientador": "Prof"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Bacharel em Sistemas de Informação",
-            "periodo": "2003 - 2007",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Akwan Information Tecnologies (Google Brasil)",
-            "periodo": "2004 - 2004",
-            "cargo": "Técnico da Informação, Atividades exercidas: Atuou nas operações do sistema de busca web, realizando suporte ao sistema de web-clipping, e na administração da base de dados web, suporte ao servidor apache em plataforma Linux, administração de banco de dados MySQL. Criação de scripts em linguagem Perl para melhoramento da coleta das noticias que a cliente realizava.."
-        },
-        {
-            "empresa": "M2S SISTEMAS INFORMACIONAIS LTDA",
-            "periodo": "2006 - 2007",
-            "cargo": "Sócio Fundador, Sócio Fundador, Idealização e desenvolvimento de uma empresa incubada na Fumsoft. Participou das atividades administrativas e da construção do produto a ser comercializado. O produto a ser comercializado seria um software de GED (Gestão Eletrônica de Documentos), o software dispunha de banco de dados especializado com recursos de busca e organização semântica da informação.."
-        },
-        {
-            "empresa": "Companhia de Tecnologia da Informação do Estado de Minas Gerais",
-            "periodo": "2007 - 2010",
-            "cargo": "Analista e Desenvolvimento Sênior, PROJETOS: SIRH: Atuou manutenção e implementação do sistema, realizando correções de Bugs e também construção de novos recursos do sistema responsável pelo gerenciamento das informações do departamento de Recursos Humanos da Polícia Militar. SMPO/SMPP: Atuou no processo manutenção do sistema, realizando correções de Bugs e também a implementação de novos recursos do sistema responsável pelo processo de promoção dos policiais militares. PCnet: Atuou no processo desenvolvimento do sistema, realizando levantamento de requisitos e codificação de vários módulos do sistema, que compunha de um grande nível de regras de negócio. O principal módulo trabalho foi o módulo Acordo de Resultados que integra área de Armazém de Dados do Governo do Estado de Minas Gerais com o sistema PCnet. O módulo Acordo de Resultados trabalha com a base DW (data warehouse) e com cálculos estatísticos para mensuração de metas. SIAC: Atuou no processo desenvolvimento, testes e implantação do sistema. Coordenando as soluções dos Bugs encontrados. Nota Fiscal Avulsa da SEF/MG: Atuou no processo de desenvolvimento do sistema, criando soluções necessárias para o sistema.."
-        },
-        {
-            "empresa": "Algar Tecnologia e Consultoria",
-            "periodo": "2010 - 2016",
-            "cargo": "Arquiteto de Software, PROJETOS: SIGPS - Sistema de Informação e Gestão de Politicas Sociais para Prefeitura de Belo Horizonte ? MG. Atuou como desenvolvedor na construção do projeto de sistema. SGA - Sistema de Gestão de Anúncios para Unimed. Atuou como Arquiteto de Software na construção do projeto de sistema, responsável por controlar as publicações de mensagens, notícias e outras informações nos portais da Unimed BH. Desenvolvido com Metodologia Agil. Hotsite para Empresa Amil Saúde. Atuou como Arquiteto de Software e líder técnico a construção do projeto de sistema, responsável por ofertar serviços personalizados e um Hotsite customizados para as empresas cliente da Amil Saúde. Desenvolvido com Metodologia Agil. SLPCI - Sistema de Integração das Bases de Dados dos Municípios Distritais de Saúde para Prefeitura de Belo Horizonte - MG. Atuou como Arquiteto de Software e líder técnico a construção do projeto de sistema. SMODO - Sistema de Monitoramento Vetorial da Dengue por Ovitrampa para Prefeitura de Belo Horizonte ? MG. Atuou como Arquiteto de Software e líder técnico a construção do projeto de sistema. realizando implementações dos casos de uso e correções de possíveis bugs.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2016",
-            "cargo": "Professor de Informática."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": "",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "C didática de baixo custo. -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mauricio Monteiro da Silva",
-                "Norimar Melo Verticchio",
-                "Evanilton José Alves Barbosa"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Flexíveis. -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mauricio Monteiro da Silva",
-                "Hélio Luiz Simonetti",
-                "Virgil Del Duca Almeida"
-            ]
-        },
-        {
-            "nome": "Astrocultura 2020 -",
-            "periodo": "2020 - 2020",
-            "natureza": "Extensao",
-            "equipe": [
-                "Mauricio Monteiro da Silva",
-                "Leonardo Marques Soares"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Logística -",
-            "periodo": "2019 - 2019",
-            "natureza": "Extensao",
-            "equipe": [
-                "Mauricio Monteiro da Silva"
+    "campus": "- Campus Betim",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2022 - 2024",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "NoCodeGPT: A No-Code Interface for Building Web Apps with Language Models",
+                "orientador": "Marco Túlio Valente"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Arquitetura de Sistemas Distribuídos",
+                "periodo": "2012 - 2014",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+                "orientador": "Biharck Araújo"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Informática na Educação",
+                "periodo": "2017 - 2018",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharel em Sistemas de Informação",
+                "periodo": "2003 - 2007",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Akwan Information Tecnologies (Google Brasil)",
+                "periodo": "2004 - 2004",
+                "cargo": "Técnico da Informação, Atividades exercidas: Atuou nas operações do sistema de busca web, realizando suporte ao sistema de web-clipping, e na administração da base de dados web, suporte ao servidor apache em plataforma Linux, administração de banco de dados MySQL. Criação de scripts em linguagem Perl para melhoramento da coleta das noticias que a cliente realizava.."
+            },
+            {
+                "empresa": "M2S SISTEMAS INFORMACIONAIS LTDA",
+                "periodo": "2006 - 2007",
+                "cargo": "Sócio Fundador, Sócio Fundador, Idealização e desenvolvimento de uma empresa incubada na Fumsoft. Participou das atividades administrativas e da construção do produto a ser comercializado. O produto a ser comercializado seria um software de GED (Gestão Eletrônica de Documentos), o software dispunha de banco de dados especializado com recursos de busca e organização semântica da informação.."
+            },
+            {
+                "empresa": "Companhia de Tecnologia da Informação do Estado de Minas Gerais",
+                "periodo": "2007 - 2010",
+                "cargo": "Analista e Desenvolvimento Sênior, PROJETOS: SIRH: Atuou manutenção e implementação do sistema, realizando correções de Bugs e também construção de novos recursos do sistema responsável pelo gerenciamento das informações do departamento de Recursos Humanos da Polícia Militar. SMPO/SMPP: Atuou no processo manutenção do sistema, realizando correções de Bugs e também a implementação de novos recursos do sistema responsável pelo processo de promoção dos policiais militares. PCnet: Atuou no processo desenvolvimento do sistema, realizando levantamento de requisitos e codificação de vários módulos do sistema, que compunha de um grande nível de regras de negócio. O principal módulo trabalho foi o módulo Acordo de Resultados que integra área de Armazém de Dados do Governo do Estado de Minas Gerais com o sistema PCnet. O módulo Acordo de Resultados trabalha com a base DW (data warehouse) e com cálculos estatísticos para mensuração de metas. SIAC: Atuou no processo desenvolvimento, testes e implantação do sistema. Coordenando as soluções dos Bugs encontrados. Nota Fiscal Avulsa da SEF/MG: Atuou no processo de desenvolvimento do sistema, criando soluções necessárias para o sistema.."
+            },
+            {
+                "empresa": "Algar Tecnologia e Consultoria",
+                "periodo": "2010 - 2016",
+                "cargo": "Arquiteto de Software, PROJETOS: SIGPS - Sistema de Informação e Gestão de Politicas Sociais para Prefeitura de Belo Horizonte ? MG. Atuou como desenvolvedor na construção do projeto de sistema. SGA - Sistema de Gestão de Anúncios para Unimed. Atuou como Arquiteto de Software na construção do projeto de sistema, responsável por controlar as publicações de mensagens, notícias e outras informações nos portais da Unimed BH. Desenvolvido com Metodologia Agil. Hotsite para Empresa Amil Saúde. Atuou como Arquiteto de Software e líder técnico a construção do projeto de sistema, responsável por ofertar serviços personalizados e um Hotsite customizados para as empresas cliente da Amil Saúde. Desenvolvido com Metodologia Agil. SLPCI - Sistema de Integração das Bases de Dados dos Municípios Distritais de Saúde para Prefeitura de Belo Horizonte - MG. Atuou como Arquiteto de Software e líder técnico a construção do projeto de sistema. SMODO - Sistema de Monitoramento Vetorial da Dengue por Ovitrampa para Prefeitura de Belo Horizonte ? MG. Atuou como Arquiteto de Software e líder técnico a construção do projeto de sistema. realizando implementações dos casos de uso e correções de possíveis bugs.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2016",
+                "cargo": "Professor de Informática."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto e construção de uma máquina CNC didática de baixo custo.",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mauricio Monteiro da Silva",
+                    "Norimar Melo Verticchio",
+                    "Evanilton José Alves Barbosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Otimização Topológica Aplicada Em Braços Robóticos Flexíveis.",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mauricio Monteiro da Silva",
+                    "Hélio Luiz Simonetti",
+                    "Virgil Del Duca Almeida"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Astrocultura 2020",
+                "periodo": "2020 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mauricio Monteiro da Silva",
+                    "Leonardo Marques Soares"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Curso de Informatica para Tecnicos em Logística",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mauricio Monteiro da Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Olimpíada Brasileira de Robótica",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Mauricio Monteiro da Silva",
+                    "Virgil Del Duca Almeida",
+                    "Michelle Mendes Santos"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MONTEIRO",
+                    "titulo": "Mauricio da Silva,  ALMEIDA, Virgil Del Duca,  Circuito Robótica - Controle Seu Robô com Aplicativos",
+                    "ano": "2017",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "titulo": "Mauricio da Silva,  Inteligência Artificial",
+                    "ano": "2017",
+                    "instituicao_promotora": "CEFET-MG / Departamento de Educação / GEMATEC."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "titulo": "Mauricio da Silva,  Empreendedorismo e Incubadora de Empresas",
+                    "ano": "2007",
+                    "instituicao_promotora": "Pontifícia Universidade Católica de Minas Gerais - Campus Contagem."
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {
-            "nome": "Robótica -",
-            "periodo": "2019 - 2019",
-            "natureza": "Ensino",
-            "equipe": [
-                "Mauricio Monteiro da Silva",
-                "Virgil Del Duca Almeida",
-                "Michelle Mendes Santos"
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "MONTEIRO",
+                    "evento": "Mauricio da Silva,  SILVA, M. M.,  Olimpíada Brasileira de Informática",
+                    "ano": "2019",
+                    "duracao_semanas": "20",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "evento": "Mauricio da Silva,  Semana de Ciência e Tecnologia ? SNTC - IFMG Campus Betim",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "evento": "Mauricio da Silva,  II Seminário Industrial do IFMG-Campus Betim",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "evento": "Mauricio da Silva,  Mostra de Trabalhos Acadêmicos 2017 do IFMG-Campus Betim",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "evento": "Mauricio da Silva,  I Seminário Industrial do IFMG-Campus Betim",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "MONTEIRO",
+                    "evento": "Mauricio da Silva,  Olimpíada Brasileira de Informática",
+                    "ano": "2017",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SILVA, M. M.",
+                "titulo": "BRANCO, B. C.;  SILVESTRE, S.;  AVELINO, G.;  VALENTE, M. T.;  NoCodeGPT: A No-Code Interface for Building Web Apps With Language Models",
+                "ano": "2025",
+                "periodico": "SOFTWARE: PRACTICE AND EXPERIENCE. ISBN: 1097024X   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

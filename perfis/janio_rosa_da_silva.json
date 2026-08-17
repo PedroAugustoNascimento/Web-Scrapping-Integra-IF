@@ -1,59 +1,114 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Ciência da Computação",
-            "periodo": "2013 - 2015",
-            "instituicao": "Universidade Federal de Uberlândia",
-            "titulo": "Compreensão de Mudanças Estruturais no Código Fonte usando Análise Dinâmica e Estática",
-            "orientador": "Marcelo de Almeida Maia"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Sistemas de Computação",
-            "periodo": "2011 - 2013",
-            "instituicao": "Universidade Federal Fluminense"
+    "campus": "- Campus Ouro Branco",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "periodo": "2013 - 2015",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Compreensão de Mudanças Estruturais no Código Fonte usando Análise Dinâmica e Estática",
+                "orientador": "Marcelo de Almeida Maia"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Computação",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universidade Federal Fluminense"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Uberlândia",
+                "periodo": "2013 - 2016",
+                "cargo": "Coordenador da Div. de Proc. de Inform. e Est."
+            },
+            {
+                "empresa": "Universidade Federal de Uberlândia",
+                "periodo": "2010 - 2013",
+                "cargo": "Desenvolvimento de softwares, BD, Redes."
+            },
+            {
+                "empresa": "Universidade Federal de Uberlândia",
+                "periodo": "2008 - 2010",
+                "cargo": "Analista Desenvolvedor do CEPES-IE-UFU, Bolsista, Atuei como Analista Desenvolvedor, Suporte e Infraestrutura no CEPES-IE-UFU. Contribuí no desenvolvimento/melhoria do IPC, sistema de pesquisa de preços e controle da inflação na região.."
+            },
+            {
+                "empresa": "Universidade Federal de Mato Grosso",
+                "periodo": "2016 - 2016",
+                "cargo": "Professor do Magistério Superior - Engenharia, Ministrei as disciplinas de Programação em C, Programação Orientada a Objetos e Organização e Arquitetura de Computadores.."
+            },
+            {
+                "empresa": "American Express",
+                "periodo": "2001 - 2008",
+                "cargo": "Analista Desenvolvedor, Prestador de Serviço PJ, Prestador de serviços, pessoa jurídica, para a American Express (atualmente comprada pelo Bradesco) através da TreyNet Consultoria.."
+            },
+            {
+                "empresa": "Eletrocomp Informática",
+                "periodo": "1996 - 1999",
+                "cargo": "Gerente da Filial da ELETROCOMP Informática, Gerente da filial da Eletrocomp Informática em João Pinheiro, MG. Empresa de propriedade do Décio Kosminsky. Trabalhei como gerente/diretor da filial da empresa, fazendo atuação desde o marketing, financeiro, recursos humanos e professor de cursos de aperfeiçoamento: Curso de Operação de Computadores (DOS, Windows, Aplicativos de Escritório); Curso de Programação de Computadores com Visual Basic, banco de dados Access, Firebird.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2016",
+                "cargo": "Professor EBTT - Dep. de Computação, Atualmente professor do dep. de Computação do IFMG, campus Ouro Branco. Liderei a criação do curso de Sistemas de Informação, membro da CPA e representante do Dep. de Computação do Campus.."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais - Campus Ouro Branco (2017 - 2019) : Coordenador Do Curso De Sistemas De Informação.\nInstituto Federal Minas Gerais - Campus Ouro Branco (2016 - 2018) : Representante Do Dep. De Computação - Campus Ouro Branco.",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2017) - Sistemas De Informação.\nGraduacao (2016 - 2016) - Engenharia Metalúrgica.\nEnsino-medio (2016) .\nGraduacao (2016 - 2016) - Computação.",
+        "comissoes": ": Instituto Federal Minas Gerais\nPresidente Do Núcleo Docente Estruturante - Nde, Do Curso De Sistemas De Informação (2017 - 2019).\nPresidente Do Colegiado Do Curso De Sistemas De Informação (2017 - 2019).\nMembro Do N.d.e. Do Curso De Licenciatura Em Computação (2017 - 2020).\nMembro Titular E Coordenador Da C.p.a. Local (comissão Permanente De Avaliação Do Campus Ouro Branco) (2016 - 2021).",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Uberlândia",
-            "periodo": "2013 - 2016",
-            "cargo": "Coordenador da Div. de Proc. de Inform. e Est."
-        },
-        {
-            "empresa": "Universidade Federal de Uberlândia",
-            "periodo": "2010 - 2013",
-            "cargo": "Desenvolvimento de softwares, BD, Redes."
-        },
-        {
-            "empresa": "Universidade Federal de Uberlândia",
-            "periodo": "2008 - 2010",
-            "cargo": "Analista Desenvolvedor do CEPES-IE-UFU, Bolsista, Atuei como Analista Desenvolvedor, Suporte e Infraestrutura no CEPES-IE-UFU. Contribuí no desenvolvimento/melhoria do IPC, sistema de pesquisa de preços e controle da inflação na região.."
-        },
-        {
-            "empresa": "Universidade Federal de Mato Grosso",
-            "periodo": "2016 - 2016",
-            "cargo": "Professor do Magistério Superior - Engenharia, Ministrei as disciplinas de Programação em C, Programação Orientada a Objetos e Organização e Arquitetura de Computadores.."
-        },
-        {
-            "empresa": "American Express",
-            "periodo": "2001 - 2008",
-            "cargo": "Analista Desenvolvedor, Prestador de Serviço PJ, Prestador de serviços, pessoa jurídica, para a American Express (atualmente comprada pelo Bradesco) através da TreyNet Consultoria.."
-        },
-        {
-            "empresa": "Eletrocomp Informática",
-            "periodo": "1996 - 1999",
-            "cargo": "Gerente da Filial da ELETROCOMP Informática, Gerente da filial da Eletrocomp Informática em João Pinheiro, MG. Empresa de propriedade do Décio Kosminsky. Trabalhei como gerente/diretor da filial da empresa, fazendo atuação desde o marketing, financeiro, recursos humanos e professor de cursos de aperfeiçoamento: Curso de Operação de Computadores (DOS, Windows, Aplicativos de Escritório); Curso de Programação de Computadores com Visual Basic, banco de dados Access, Firebird.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2016",
-            "cargo": "Professor EBTT - Dep. de Computação, Atualmente professor do dep. de Computação do IFMG, campus Ouro Branco. Liderei a criação do curso de Sistemas de Informação, membro da CPA e representante do Dep. de Computação do Campus.."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais - Campus Ouro Branco (2017 - 2019) : Coordenador Do Curso De Sistemas De Informação.\nInstituto Federal Minas Gerais - Campus Ouro Branco (2016 - 2018) : Representante Do Dep. De Computação - Campus Ouro Branco.",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2017) - Sistemas De Informação.\nGraduacao (2016 - 2016) - Engenharia Metalúrgica.\nEnsino-medio (2016) .\nGraduacao (2016 - 2016) - Computação.",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Do N.d.e. Do Curso De Licenciatura Em Computação (2017 - 2020).\nPresidente Do Núcleo Docente Estruturante - Nde, Do Curso De Sistemas De Informação (2017 - 2019).\nPresidente Do Colegiado Do Curso De Sistemas De Informação (2017 - 2019).\nMembro Titular E Coordenador Da C.p.a. Local (comissão Permanente De Avaliação Do Campus Ouro Branco) (2016 - 2021).",
-    "projetos": []
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SILVA, LUCIANA LOURDES",
+                "titulo": "SANTOS, FABIANO MARINHO CINDRA;  ROSA DA SILVA, JANIO;  A Plataforma Khan Academy no ensino fundamental para aulas de matemática",
+                "ano": "2022",
+                "periodico": "FORSCIENCE. ISBN: 23186356   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Marcelo dos Santos Prado",
+                "titulo": "Projeto de Bolsas de Graduação - PBG, nº 2014PBG000799",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Uberlândia"
+            },
+            {
+                "orientando": "Katia Yuriko Akamine",
+                "titulo": "Projeto de Bolsas de Graduação - PBG, nº 2014PBG000799",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal de Uberlândia"
+            },
+            {
+                "orientando": "Thiago Amorim",
+                "titulo": "Projeto de Bolsa de Graduação - PBG - nº2013PBG000639",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal de Uberlândia"
+            },
+            {
+                "orientando": "Bruna Andrade Silva",
+                "titulo": "Projeto de Bolsa de Graduação - PBG - nº2013PBG000639",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal de Uberlândia"
+            }
+        ]
+    }
 }

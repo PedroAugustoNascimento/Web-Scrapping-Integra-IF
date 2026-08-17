@@ -1,144 +1,386 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "CIÊNCIA DA COMPUTAÇÃO",
-            "periodo": "2016 - 2018",
-            "instituicao": "Universidade Federal de Lavras",
-            "titulo": "BigFeel - Uma Ambiente de Processamento Distribuído para a Integração de Métodos de Análise de Sentimentos",
-            "orientador": "Denilson Alves Pereira"
-        },
-        {
-            "nivel": "Especialização"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Lato Sensu Especialista em Docência",
-            "periodo": "2019 - 2020",
-            "instituicao": "Instituto Federal Minas Gerais",
-            "orientador": "Gláucia do Carmo Xavier"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2012 - 2016",
-            "instituicao": "Instituto Federal de Minas Gerais - Câmpus Formiga"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2003 - 2003",
-            "instituicao": "Centro Universitário de Formiga-MG"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Matemática",
-            "periodo": "2011 - 2012",
-            "instituicao": "Instituto Federal Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2019",
-            "cargo": "Professor EBTT - Campus Formiga, Professor das disciplinas relacionadas à área de Ciência da Computação e Tecnologia Computacional nos cursos oferecidos pelo IFMG - Campus Formiga.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2018 - 2019",
-            "cargo": "Professor EBTT - Campus Ibirité, Professor das disciplinas relacionadas à área de Ciência da Computação e Tecnologia Computacional nos cursos oferecidos pelo IFMG - Campus Ibirité. Coordenador de Tecnologia da Informação do Campus, responsável pela implantação, configuração e suporte às novas tecnologias de informação e comunicação do Campus.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2009 - 2018",
-            "cargo": "Técnico em TI - Campus Formiga, Atividades desempenhadas: - Desenvolvimento de sistemas e aplicações desktop, dispositivos móveis e web (sistemas distribuídos) para a Instituição. - Modelagem e desenvolvimento de estruturas de bancos de dados junto à sua codificação em software. - Projeção, implantação e realização de manutenção de sistemas e aplicações legadas e atuais do serviço público. - Seleção de recursos de trabalho, tais como metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas de desenvolvimento. - Assistência às atividades de ensino, pesquisa extensão. - Manutenção em impressoras. - Suporte ao projeto, implementação e manutenção de laboratórios de informática. - Montagem e manutenção de redes de computadores e infra-estrutura. - Suporte à gerência e gestão de TI no campus.."
-        },
-        {
-            "empresa": "DB-Open",
-            "periodo": "2001 - 2003",
-            "cargo": "Técnico montagem e manutenção de computadores, Atividades desempenhadas: - Montagem e manutenção de microcomputadores padrão PC. - Suporte ao usuário final de equipamentos de informática.."
-        },
-        {
-            "empresa": "Centro Universitário de Formiga-MG",
-            "periodo": "2003 - 2003",
-            "cargo": "Laboratorista e técnico, Bolsista, Atividades desempenhadas: - Manutenção preventiva e corretiva (hardware e software) dos laboratórios da FACIC. - Suporte a usuários (alunos e professores). - Monitoramento de laboratórios e servidor de rede.."
-        },
-        {
-            "empresa": "Casa do Computador",
-            "periodo": "2004 - 2004",
-            "cargo": "Técnico RM computadores e impressoras, Atividades desempenhadas: - Responsável pela seção técnica da empresa. - Suporte técnico ao usuário doméstico e comercial de microcomputadores. - Aplicação de soluções diversas no que tange à manutenção de Microcomputadores (hardware e software). - implementação e configuração de pequenas e médias redes de computadores (empresas de médio porte - até 100 microcomputadores). - Manutenção preventiva e corretiva em impressoras jato-de-tinta. - Adjunto na administração de compras para a empresa. - Coordenação de pessoal na lojística de funcionamento e atendimento aos clientes.."
-        },
-        {
-            "empresa": "MinasSoft Soluções em Redes e Informática",
-            "periodo": "2004 - 2009",
-            "cargo": "Técnico em Tecnologia da Informação, Atividades desempenhadas: - Projeção e implementação de soluções (bem como prestar assistência técnica) envolvendo Informática em vários ramos do comércio como: concessionárias de veículos, escritórios de contabilidade e engenharia, hospitais e centros médicos, distribuidoras, recautchutadoras de pneus, entre outros. - Aplicação de soluções diversas no que tange à manutenção de microcomputadores (hardware e software). - Projeção e aplicação de soluções em redes de computadores (física e lógica). - Manutenção preventiva e corretiva de impressoras matriciais, jato-de-tinta e laser. - Venda e suporte técnico ao usuário final de equipamentos de Informática. - Coordenação de pessoal na logística de funcionamento da empresa.."
-        },
-        {
-            "empresa": "CURSO ATALAIA",
-            "periodo": "2008 - 2009",
-            "cargo": "Professor de Informática para concursos, Contrato, Ministração de aulas de informática preparatórias para concursos de diversas áreas, como PM, TJMG, CEFET, dentre outras.."
-        },
-        {
-            "empresa": "ForScience - Revista Científica do IFMG - Campus Formiga",
-            "periodo": "2013",
-            "cargo": ", Membro de corpo editorial, Membro ativo do corpo editorial da ForScience - Revista Científica do IFMG. Atualmente responsável pela parte técnica de manutenção do periódico, bem como responsável pelo suporte técnico aos seus usuários. Técnico em Tecnologia da Informação responsável pelo sistema OJS/SEER implantado como gestor da ForScience (ISSN 2318-6356). Customização de layout e funcionalidades da revista de forma a atender os requisitos exigidos.."
-        },
-        {
-            "empresa": "Fundação Educacional Comunitária Formiguense",
-            "periodo": "2003 - 2003",
-            "cargo": "Estagiário responsável por laboratórios, Bolsista."
-        },
-        {
-            "empresa": "Simpósio Mineiro de Sistemas de Informação 2016",
-            "periodo": "2016 - 2016",
-            "cargo": ", Revisor de periódico, Com o tema ?Integração de Sistemas Inteligentes?, o Simpósio Mineiro de Sistemas de Informação visa reunir pesquisadores, estudantes e profissionais de Minas Gerais e do Brasil para apresentarem e discutirem temas relacionados à área de Sistemas de Informação. O SMSI está sendo organizado pelo Instituto de Ciências Exatas e Informática da PUC Minas. O SMSI é um evento apoiado pela SBC ? Secretaria Regional de Minas Gerais e tem como objetivos promover a área de Sistemas de Informação à sociedade e incentivar a criação de grupos de interesse, com a participação de profissionais da academia e da indústria envolvidos com essa linha de formação e pesquisa. Serão realizadas sessões técnicas com apresentação de artigos completos, painéis de discussões, minicursos e palestras de profissionais da indústria e convidados de renome nacional.."
-        },
-        {
-            "empresa": "Polo EMBRAPII do IFMG",
-            "periodo": "2017 - 2018",
-            "cargo": "Pesquisador, Pesquisador, Pesquisador voluntário no desenvolvimento do projeto INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias, do Polo de Inovação EMBRAPII do IFMG, referente ao edital nº 040/2017, sob coordenação do professor Manoel Pereira Júnior.."
-        },
-        {
-            "empresa": "Polo EMBRAPII do IFMG",
-            "periodo": "2017 - 2018",
-            "cargo": "Pesquisador, Bolsista, Pesquisador bolsista no desenvolvimento do projeto Semáforo Inteligente para Controle de Fluxo Mediante Detecção de Presença, do Polo de Inovação EMBRAPII do IFMG, sob coordenação do professor Niltom Vieira Junior.."
-        },
-        {
-            "empresa": "Polo EMBRAPII do IFMG",
-            "periodo": "2017 - 2018",
-            "cargo": "Pesquisador, Bolsista, Pesquisador bolsista no desenvolvimento do projeto Escalonador Inteligente para Veículos e Ativos Móveis, do Polo de Inovação EMBRAPII do IFMG, sob coordenação do professor Manoel Pereira Júnior.."
-        },
-        {
-            "empresa": "JOURNAL OF INFORMATION SCIENCE",
-            "periodo": "2019 - 2019",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais - Câmpus Formiga",
-            "periodo": "2016 - 2017",
-            "cargo": "."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": "",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Formiga -",
-            "periodo": "2016 - 2017",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Roger Santos Ferreira",
-                "Rafaela Martins"
+    "campus": "- Campus Formiga",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "periodo": "2016 - 2018",
+                "instituicao": "Universidade Federal de Lavras",
+                "titulo": "BigFeel - Uma Ambiente de Processamento Distribuído para a Integração de Métodos de Análise de Sentimentos",
+                "orientador": "Denilson Alves Pereira"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Lato Sensu Especialista em Docência",
+                "periodo": "2019 - 2020",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "orientador": "Gláucia do Carmo Xavier"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2012 - 2016",
+                "instituicao": "Instituto Federal de Minas Gerais - Câmpus Formiga"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2003 - 2003",
+                "instituicao": "Centro Universitário de Formiga-MG"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "periodo": "2011 - 2012",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2019",
+                "cargo": "Professor EBTT - Campus Formiga, Professor das disciplinas relacionadas à área de Ciência da Computação e Tecnologia Computacional nos cursos oferecidos pelo IFMG - Campus Formiga.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2018 - 2019",
+                "cargo": "Professor EBTT - Campus Ibirité, Professor das disciplinas relacionadas à área de Ciência da Computação e Tecnologia Computacional nos cursos oferecidos pelo IFMG - Campus Ibirité. Coordenador de Tecnologia da Informação do Campus, responsável pela implantação, configuração e suporte às novas tecnologias de informação e comunicação do Campus.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2009 - 2018",
+                "cargo": "Técnico em TI - Campus Formiga, Atividades desempenhadas: - Desenvolvimento de sistemas e aplicações desktop, dispositivos móveis e web (sistemas distribuídos) para a Instituição. - Modelagem e desenvolvimento de estruturas de bancos de dados junto à sua codificação em software. - Projeção, implantação e realização de manutenção de sistemas e aplicações legadas e atuais do serviço público. - Seleção de recursos de trabalho, tais como metodologias de desenvolvimento de sistemas, linguagem de programação e ferramentas de desenvolvimento. - Assistência às atividades de ensino, pesquisa extensão. - Manutenção em impressoras. - Suporte ao projeto, implementação e manutenção de laboratórios de informática. - Montagem e manutenção de redes de computadores e infra-estrutura. - Suporte à gerência e gestão de TI no campus.."
+            },
+            {
+                "empresa": "DB-Open",
+                "periodo": "2001 - 2003",
+                "cargo": "Técnico montagem e manutenção de computadores, Atividades desempenhadas: - Montagem e manutenção de microcomputadores padrão PC. - Suporte ao usuário final de equipamentos de informática.."
+            },
+            {
+                "empresa": "Centro Universitário de Formiga-MG",
+                "periodo": "2003 - 2003",
+                "cargo": "Laboratorista e técnico, Bolsista, Atividades desempenhadas: - Manutenção preventiva e corretiva (hardware e software) dos laboratórios da FACIC. - Suporte a usuários (alunos e professores). - Monitoramento de laboratórios e servidor de rede.."
+            },
+            {
+                "empresa": "Casa do Computador",
+                "periodo": "2004 - 2004",
+                "cargo": "Técnico RM computadores e impressoras, Atividades desempenhadas: - Responsável pela seção técnica da empresa. - Suporte técnico ao usuário doméstico e comercial de microcomputadores. - Aplicação de soluções diversas no que tange à manutenção de Microcomputadores (hardware e software). - implementação e configuração de pequenas e médias redes de computadores (empresas de médio porte - até 100 microcomputadores). - Manutenção preventiva e corretiva em impressoras jato-de-tinta. - Adjunto na administração de compras para a empresa. - Coordenação de pessoal na lojística de funcionamento e atendimento aos clientes.."
+            },
+            {
+                "empresa": "MinasSoft Soluções em Redes e Informática",
+                "periodo": "2004 - 2009",
+                "cargo": "Técnico em Tecnologia da Informação, Atividades desempenhadas: - Projeção e implementação de soluções (bem como prestar assistência técnica) envolvendo Informática em vários ramos do comércio como: concessionárias de veículos, escritórios de contabilidade e engenharia, hospitais e centros médicos, distribuidoras, recautchutadoras de pneus, entre outros. - Aplicação de soluções diversas no que tange à manutenção de microcomputadores (hardware e software). - Projeção e aplicação de soluções em redes de computadores (física e lógica). - Manutenção preventiva e corretiva de impressoras matriciais, jato-de-tinta e laser. - Venda e suporte técnico ao usuário final de equipamentos de Informática. - Coordenação de pessoal na logística de funcionamento da empresa.."
+            },
+            {
+                "empresa": "ForScience - Revista Científica do IFMG - Campus Formiga",
+                "periodo": "2013",
+                "cargo": ", Membro de corpo editorial, Membro ativo do corpo editorial da ForScience - Revista Científica do IFMG. Atualmente responsável pela parte técnica de manutenção do periódico, bem como responsável pelo suporte técnico aos seus usuários. Técnico em Tecnologia da Informação responsável pelo sistema OJS/SEER implantado como gestor da ForScience (ISSN 2318-6356). Customização de layout e funcionalidades da revista de forma a atender os requisitos exigidos.."
+            },
+            {
+                "empresa": "CURSO ATALAIA",
+                "periodo": "2008 - 2009",
+                "cargo": "Professor de Informática para concursos, Contrato, Ministração de aulas de informática preparatórias para concursos de diversas áreas, como PM, TJMG, CEFET, dentre outras.."
+            },
+            {
+                "empresa": "Fundação Educacional Comunitária Formiguense",
+                "periodo": "2003 - 2003",
+                "cargo": "Estagiário responsável por laboratórios, Bolsista."
+            },
+            {
+                "empresa": "Simpósio Mineiro de Sistemas de Informação 2016",
+                "periodo": "2016 - 2016",
+                "cargo": ", Revisor de periódico, Com o tema ?Integração de Sistemas Inteligentes?, o Simpósio Mineiro de Sistemas de Informação visa reunir pesquisadores, estudantes e profissionais de Minas Gerais e do Brasil para apresentarem e discutirem temas relacionados à área de Sistemas de Informação. O SMSI está sendo organizado pelo Instituto de Ciências Exatas e Informática da PUC Minas. O SMSI é um evento apoiado pela SBC ? Secretaria Regional de Minas Gerais e tem como objetivos promover a área de Sistemas de Informação à sociedade e incentivar a criação de grupos de interesse, com a participação de profissionais da academia e da indústria envolvidos com essa linha de formação e pesquisa. Serão realizadas sessões técnicas com apresentação de artigos completos, painéis de discussões, minicursos e palestras de profissionais da indústria e convidados de renome nacional.."
+            },
+            {
+                "empresa": "Polo EMBRAPII do IFMG",
+                "periodo": "2017 - 2018",
+                "cargo": "Pesquisador, Pesquisador, Pesquisador voluntário no desenvolvimento do projeto INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias, do Polo de Inovação EMBRAPII do IFMG, referente ao edital nº 040/2017, sob coordenação do professor Manoel Pereira Júnior.."
+            },
+            {
+                "empresa": "Polo EMBRAPII do IFMG",
+                "periodo": "2017 - 2018",
+                "cargo": "Pesquisador, Bolsista, Pesquisador bolsista no desenvolvimento do projeto Semáforo Inteligente para Controle de Fluxo Mediante Detecção de Presença, do Polo de Inovação EMBRAPII do IFMG, sob coordenação do professor Niltom Vieira Junior.."
+            },
+            {
+                "empresa": "Polo EMBRAPII do IFMG",
+                "periodo": "2017 - 2018",
+                "cargo": "Pesquisador, Bolsista, Pesquisador bolsista no desenvolvimento do projeto Escalonador Inteligente para Veículos e Ativos Móveis, do Polo de Inovação EMBRAPII do IFMG, sob coordenação do professor Manoel Pereira Júnior.."
+            },
+            {
+                "empresa": "JOURNAL OF INFORMATION SCIENCE",
+                "periodo": "2019 - 2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Câmpus Formiga",
+                "periodo": "2016 - 2017",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Pipou - Sistema de Gestão de Pessoas",
+                "periodo": "2014 - 2016",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raí Caetano de Jesus",
+                    "Roger Santos Ferreira",
+                    "Josiane da Silva Rosa",
+                    "Diego Mello da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Text to Speech: tecnologia para desenvolvimento da fala em crianças com necessidades especiais.",
+                "periodo": "2014 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Carlos Bernardes Rosa Júnior",
+                    "Dagmar Fátima",
+                    "Niltom Vieira Júnior",
+                    "Fernando Paim Lima",
+                    "Sávio Cardoso",
+                    "Kálita Gonçalves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Aplicação das redes sociais para popularização e visibilidade do conhecimento científico em Minas Gerais: o caso da Revista Científica",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Bruno César de Melo Moreira",
+                    "Lívia Renata Santos",
+                    "Ricardo Carrasco Cárpio",
+                    "José Sérgio Domingues"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto Pedagógico do Curso de Controle e Automação",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Outros ?",
+                    "Oiti José de Paula"
+                ]
+            },
+            {
+                "instituicao": "Polo EMBRAPII do IFMG",
+                "nome": "Sistema Inteligente para Controle Financeiro de Vendedores Itinerantes",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Manoel Pereira Junior",
+                    "Fernando Paim Lima"
+                ]
+            },
+            {
+                "instituicao": "Polo EMBRAPII do IFMG",
+                "nome": "Semáforo Inteligente para Controle de Fluxo Mediante Detecção de Presença",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Carlos Bernardes Rosa Júnior",
+                    "Niltom Vieira Júnior",
+                    "Fernando Paim Lima",
+                    "Dandara Lorrayne do Nascimento"
+                ]
+            },
+            {
+                "instituicao": "Polo EMBRAPII do IFMG",
+                "nome": "INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Manoel Pereira Junior",
+                    "Fernando Paim Lima",
+                    "Juliana de Sousa Ribeiro",
+                    "Francisco de Sousa Júnior",
+                    "Wesley Henrique Batista Nunes",
+                    "Leandro Vagner Arcebispo"
+                ]
+            },
+            {
+                "instituicao": "Polo EMBRAPII do IFMG",
+                "nome": "Escalonador inteligente para veículos e ativos móveis",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Manoel Pereira Junior",
+                    "Diego Mello da Silva",
+                    "Eduardo Mezêncio Leal Resende"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Câmpus Formiga",
+                "nome": "Implementação de sistema Web para o setor de gestão de pessoas do IFMG - Campus Formiga",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Rafaela Martins"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "FERREIRA",
+                    "software": "R. S.,  PEREIRA JUNIOR, M.,  LIMA, F. P.,  SILVA, A. F.,  FONSECA, R. W.,  FERNANDES, L. M.,  Monitoramento Inteligente de Elevadores Prediais",
+                    "ano": "2022",
+                    "finalidade": "Monitoramento Inteligente de Elevadores Prediais.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512022002624-4."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "R. S.,  PEREIRA JUNIOR, M.,  LIMA, F. P.,  GONCALVES, N. F.,  AMARANTE, P. P.,  OLIVEIRA, G. A.,  Sistema Inteligente para Controle Financeiro de Vendedores Itinerantes",
+                    "ano": "2020",
+                    "finalidade": "Sistema Inteligente para Controle Financeiro de Vendedores Itinerantes.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512022002625-2."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "ROGER SANTOS,  PEREIRA JUNIOR, M.,  SILVA, D. M.,  MEZÊNCIO, Eduardo,  Escalonador inteligente para veículos e ativos móveis",
+                    "ano": "2019",
+                    "finalidade": "Escalonador inteligente para veículos e ativos móveis.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512020000099-1."
+                },
+                {
+                    "autor": "ROSA JUNIOR",
+                    "software": "C. B.,  FERREIRA, R. S.;FERREIRA, ROGER SANTOS,  FATIMA, D.,  VIEIRA JUNIOR, N.,  LIMA, F. P.,  CARDOSO, S.,  GONCALVES, K.,  SpeeCH",
+                    "ano": "2015",
+                    "finalidade": "Auxiliar crianças autistas no processo de aprendizagem, especialmente da fala."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "R. S.;FERREIRA, ROGER SANTOS,  Chartorius - Sistema de automatização cartorário",
+                    "ano": "2014",
+                    "finalidade": "Sistema de automação cartorário."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "R. S.;FERREIRA, ROGER SANTOS,  CANTO, R. C.,  Chartarium - Sistema de automatização cartorário",
+                    "ano": "2013",
+                    "finalidade": "Sistema de automatização cartorário (do ofício de notas)."
+                },
+                {
+                    "autor": "CARDOSO",
+                    "software": "R. B.,  CarregueFacil",
+                    "ano": "2012",
+                    "finalidade": "Gestão de negócios de transporte e frete a nível nacional."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "R. S.,  PEREIRA JUNIOR, M.,  CARDOSO, R. B.,  COSTA, D. F.,  TEIXEIRA, P. R.,  SCEAP - Sistema de Controle de Empenhos, Almoxarifado e Patrimônio",
+                    "ano": "2010",
+                    "finalidade": "Automação de processos administrativos.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512014001369-3."
+                },
+                {
+                    "autor": "CANTO",
+                    "software": "R. C.,  FERREIRA, R. S.;FERREIRA, ROGER SANTOS,  PEREIRA JUNIOR, M.,  CARDOSO, R. B.,  SisPLAN - Sistema de Planejamento Participativo",
+                    "ano": "2010",
+                    "finalidade": "Auxílio ao planejamento participativo anual do IFMG.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: PI11710-0."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "ROGER SANTOS,  Introdução ao desenvolvimento web",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "R. S.,  Controle de Estoque",
+                    "ano": "2003",
+                    "instituicao_promotora": "FACIC - Faculdade de Ciência da Computação."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. S.,  Tópicos de Administração Financeira em planilhas Eletrônicas",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "MEDEIROS",
+                    "curso": "Fernanda,  FERREIRA, R. S.,  RODRIGUES, Manuela de C.,  FREITAS, Fabrício D.,  PEIXOTO, Fellipe,  TERRA, Samuel,  Tópicos de Administração Financeira em Planilhas Eletrônicas",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. S.,  Minicurso de Desenvolvimento Web",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. S.,  Desenvolvimento Web com Bootstrap e JQuery",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. S.,  Minicurso de Javascript",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. S.;FERREIRA, ROGER SANTOS,  Programação para Dispositivos Móveis",
+                    "ano": "2014"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ANDRADE",
+                    "evento": "L. P.,  PAZ, M. L.,  GOMES, O. S. M.,  DUARTE, U. R.,  LIMA, F. P.,  REZENDE, J. A. M.,  REZENDE, L. O.,  AZEVEDO, L.,  SANTOS, S. L. C.,  LIMA, W. C.,  REIS, T. L.,  TONELLI, A. O.,  BORGES, A. P. C.,  TELES, A. M.,  VELOSO, A. D.,  LOSCHI, E. S.,  FERREIRA, R. S.,  SILVA, G. A.,  SANTOS, L. R.,  CORREA, N. R.,  ALVES, R. L.,  SILVEIRA, S. J.,  RODRIGUES, A. R.,  SILVA, V. G.,  SILVA, F. D.,  SANTOS, Á. C.,  COSTA, L. R.,  VILANO, M. A. C.,  OLIVEIRA, P. M.,  PINTO, C. E. F.,  TEIXEIRA, J. D.,  PACHECO, A. B.,  SILVA, S. A.,  MOREIRA, B. C. M.,  DUARTE, G. P.,  CARNEIRO, M. V. S.,  ANTUNES, S. R.,  RIBEIRO, F. S.,  ALVES, P. H. C.,  CRUZ, S. F.,  SOUZA, A.,  FERREIRA, B.,  COSTA, D. F.,  CORRÊA JÚNIOR, F. L.,  DOMINGUES, J. S.,  PERES JÚNIOR, M. R.,  VIII Jornada de Educação, Ciência e Tecnologia do IFMG - Campus Formiga",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus Formiga."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FERREIRA, ROGER SANTOS",
+                "titulo": "JUNIOR, MANOEL PEREIRA;  XAVIER, GLÁUCIA DO CARMO;  Aprendizagem significativa na educação matemática: o uso do Diagrama CBN",
+                "ano": "2020",
+                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
+            },
+            {
+                "autores": "FERREIRA, ROGER SANTOS",
+                "titulo": "PEREIRA, DENILSON ALVES;  BigFeel-A Distributed Processing Environment for the Integration of Sentiment Analysis Methods",
+                "ano": "2019",
+                "periodico": "COMPUTER JOURNAL (ONLINE). ISBN: 14602067   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FERREIRA, R. S.",
+                "titulo": "PEREIRA, D",
+                "evento": "A.; Uma abordagem para integração de métodos de análise de sentimentos em um ambiente de processamento distribuído. XXVI Congresso da Pós-Graduação (UFLA)",
+                "local": "Lavras",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

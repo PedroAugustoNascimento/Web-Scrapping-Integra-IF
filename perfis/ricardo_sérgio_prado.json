@@ -1,83 +1,213 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2009 - 2013",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Restauração de Sistemas de Distribuição de Energia Elétrica Utilizando Evolução Diferencial com Árvore de Ancestralidade",
-            "orientador": "Frederico Gadelha Guimarães"
-        },
-        {
-            "nivel": "Mestrado"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Em Engenharia Elétrica",
-            "periodo": "1988 - 1991",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Estudo e Implementação de um controlador Auto Ajustável Aplicado no Controle de Velocidade de um Motor CC",
-            "orientador": "Ronaldo Tadeu Pena"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Curso de Ciências e Técnicas Nucleares",
-            "periodo": "1985 - 1986",
-            "instituicao": "Universidade Federal de Minas Gerais"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Elétrica",
-            "periodo": "1979 - 1983",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "1997 - 2003",
-            "instituicao": "Universidade Federal de Ouro Preto"
+    "campus": "- Campus Ouro Preto",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2009 - 2013",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Restauração de Sistemas de Distribuição de Energia Elétrica Utilizando Evolução Diferencial com Árvore de Ancestralidade",
+                "orientador": "Frederico Gadelha Guimarães"
+            },
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Em Engenharia Elétrica",
+                "periodo": "1988 - 1991",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Estudo e Implementação de um controlador Auto Ajustável Aplicado no Controle de Velocidade de um Motor CC",
+                "orientador": "Ronaldo Tadeu Pena"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Curso de Ciências e Técnicas Nucleares",
+                "periodo": "1985 - 1986",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1979 - 1983",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1997 - 2003",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "1989 - 1989",
+                "cargo": "Outro (Professor)."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Ouro Preto",
+                "periodo": "2003 - 2007",
+                "cargo": "Outro (Professor 1º e 2º Grau)."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "1994 - 1995",
+                "cargo": "Outro (Professor 1º e2º Grau)."
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "periodo": "2003 - 2007",
+                "cargo": "Pesquisador Colaborador, Pesquisador colaborador do Laboratório de Robótica e Sistemas Integrados."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "1989",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal de Ouro Preto\nGraduacao (2006 - 2006) - Engenharia De Produção.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Desenvolvimento de um Dispositivo de Determinação de Atitude para Satélites Artificiais, Baseado em Magnetômetro de estado Sólido",
+                "periodo": "2004",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ricardo Sérgio Prado",
+                    "Ronilson Rocha",
+                    "L S Martins Filho",
+                    "Ricardo O. Duarte",
+                    "João C. V. Castro",
+                    "Alexandre J. Ferreira",
+                    "Guilherme F. T. Knop"
+                ],
+                "financiador": "Agência Espacial Brasileira,"
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Desenvolvimento de um Dispositivo de Determinação de Atitude para Satélites Artificiais, Baseado em Magnetômetro de estado Sólido",
+                "periodo": "2004 - 2008",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Sérgio Prado",
+                    "L S Martins Filho",
+                    "Ricardo O. Duarte"
+                ],
+                "financiador": "Agência Espacial Brasileira,"
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Desenvolvimento de Metodologia para a Validação de um Dispositivo de Determinação de Atitude para Satélites Artificiais com Tolerância a Falhas",
+                "periodo": "2010 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Sérgio Prado",
+                    "L S Martins Filho",
+                    "Ricardo O. Duarte",
+                    "João C. V. Castro"
+                ],
+                "financiador": "Agência Espacial Brasileira,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Firebird Drones",
+                "periodo": "2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Sérgio Prado"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "1989 - 1989",
-            "cargo": "Outro (Professor)."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Ouro Preto",
-            "periodo": "2003 - 2007",
-            "cargo": "Outro (Professor 1º e 2º Grau)."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "1994 - 1995",
-            "cargo": "Outro (Professor 1º e2º Grau)."
-        },
-        {
-            "empresa": "Universidade Federal de Ouro Preto",
-            "periodo": "2003 - 2007",
-            "cargo": "Pesquisador Colaborador, Pesquisador colaborador do Laboratório de Robótica e Sistemas Integrados."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "1989",
-            "cargo": "."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Universidade Federal de Ouro Preto\nGraduacao (2006 - 2006) - Engenharia De Produção.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {
-            "nome": "Drones -",
-            "periodo": "2019",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Ricardo Sérgio Prado"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CASTRO, João C. V.",
+                "titulo": "FERREIRA, Alexandre J.;  ROCHA, Ronilson;  PRADO, Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R. S.;PRADO, RICARDO S.;PRADO, R. S.;  DUARTE, Ricardo O.;  MARTINS FILHO, L S;  Procedimento Experimental para Determinação de Atitude de Satélites",
+                "ano": "2009",
+                "periodico": "Ciência & Engenharia. ISBN: 0103944X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PRADO, Ricardo Sérgio",
+                "titulo": "Silva, Rodrigo CÃ©sar Pedrosa; Guimarães, Frederico Gadelha; Neto, Oriane Magela; UMA NOVA ABORDAGEM PARA A EVOLUÇÃO DIFERENCIAL EM OTIMIZAÇÃO DISCRETA",
+                "evento": "XVIII Congresso Brasileiro de Automática",
+                "local": "Bonito-MS",
+                "ano": "2010"
+            },
+            {
+                "autores": "Prado, R. S.",
+                "titulo": "Silva, Rodrigo César Pedrosa; Guimarães, Frederico Gadelha; NETO, ORIANE M",
+                "evento": "; Using Differential Evolution for Combinatorial Optimization: A General Approach. 2010 IEEE International Conference on Systems",
+                "local": "Man, and Cybernetics (SMC), Istambul",
+                "ano": "2010"
+            },
+            {
+                "autores": "Silva, Rodrigo CÃ©sar Pedrosa",
+                "titulo": "Guimarães, Frederico Gadelha; PRADO, Ricardo Sérgio; Neto, Oriane Magela; Uma Versão Discreta da Metaheurística Evolução Diferencial para Otimização Combinatória",
+                "evento": "Escola Luso-Brasileira de Computação Evolutiva",
+                "local": "Belo Horizonte",
+                "ano": "2009"
+            },
+            {
+                "autores": "DUARTE, Ricardo O.",
+                "titulo": "MARTINS FILHO, Luiz de Siqueira; KNOP, Guilherme F",
+                "evento": "T.; PRADO",
+                "local": "Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R. S.;PRADO, RICARDO S.;PRADO, R. S.; A Fault-Tolerant Attitude Determination System based on COTS Devices.. IEEE International On-Line Testing Symposium, Rhodes",
+                "ano": "2008"
+            },
+            {
+                "autores": "DUARTE, Ricardo O.",
+                "titulo": "MARTINS FILHO, Luiz de Siqueira; KNOP, Guilherme F",
+                "evento": "T.; PRADO",
+                "local": "Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R. S.;PRADO, RICARDO S.;PRADO, R. S.; Development issues of a fault-tolerant attitude determination satellite system based on COTS devices. 7th Brazilian Conference on Dynamics, Control and Applications, Presidente Prudente",
+                "ano": "2008"
+            },
+            {
+                "autores": "FERREIRA, Alexandre J.",
+                "titulo": "MARTINS FILHO, Luiz de Siqueira; DUARTE, Ricardo O",
+                "evento": "; PRADO",
+                "local": "Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R. S.;PRADO, RICARDO S.;PRADO, R. S.; CASTRO, João C. V.; KNOP, Guilherme F. T.; Desenvolvimento de um dispositivo de determinação de atitude para satélites artificiais. Congresso Nacional de Engenharia Mecânica - CONEM'2008, Salvador",
+                "ano": "2008"
+            },
+            {
+                "autores": "ROCHA, Ronilson",
+                "titulo": "MARTINS FILHO, L S; PRADO, Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R",
+                "evento": "S.;PRADO",
+                "local": "RICARDO S.;PRADO, R. S.; Geração eletrônica de sinais caóticos. Congresso Brasileiro de Automática - CBA, Salvador",
+                "ano": "2006"
+            },
+            {
+                "autores": "ROCHA, Ronilson",
+                "titulo": "MARTINS FILHO, Luiz de Siqueira; MACHADO, R",
+                "evento": "F.; PRADO",
+                "local": "Ricardo Sérgio; Reproduction of chaotic systems using analogue electronic circuits. 9th Experimental Chaos Conference - ECC9, São José dosw Campos",
+                "ano": "2006"
+            },
+            {
+                "autores": "ROCHA, Ronilson",
+                "titulo": "MARTINS FILHO, L S; PRADO, Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R",
+                "evento": "S.;PRADO",
+                "local": "RICARDO S.;PRADO, R. S.; SOPRANI, Luciano Recla; Proposta de planta piloto: Controle de vazão e temperatura de líquidos. Congresso Brasileiro de Ensino de Engenharia - COBEMGE'2004, Brasília",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

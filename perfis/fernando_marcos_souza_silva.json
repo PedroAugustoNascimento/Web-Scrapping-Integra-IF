@@ -1,161 +1,274 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Profissionalizante Modelagem Computacional e Sistemas",
-            "periodo": "2015 - 2017",
-            "instituicao": "Universidade Estadual de Montes Claros",
-            "titulo": "Uma abordagem evolutiva multiobjetivo baseada em ponto de atração para seleção de variáveis em problemas de classificação de falhas",
-            "orientador": "Marcos Flávio Silveira Vasconcelos D'Angelo"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Engenharia de Sistemas",
-            "periodo": "2011 - 2012",
-            "instituicao": "Escola Superior Aberta do Brasil",
-            "orientador": "Jessé Gomes dos Santos"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Jogos Digitais",
-            "periodo": "2025",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Sistemas de Informação",
-            "periodo": "2005 - 2008",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-            "periodo": "2011 - 2025",
-            "cargo": "Professor do Ensino Básico, Técnico e Tecnoló, Servidor público."
-        },
-        {
-            "empresa": "Eagle Tecnologia da Informação LTDA",
-            "periodo": "2009 - 2012",
-            "cargo": "Sócio Admistrador."
-        },
-        {
-            "empresa": "Faculdade Cidade de Guanhães",
-            "periodo": "2007 - 2010",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "JN Equipamentos de Informática LTDA",
-            "periodo": "2008 - 2008",
-            "cargo": "Técnico em Informática."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2006 - 2006",
-            "cargo": "Monitor no Curso de Sistemas de Informação, Monitor, Auxilio a professor e alunos nas atividades de ensino e práticas de laboratório da Disciplina Algoritmos e Técnicas de Programação (ATP).."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2025",
-            "cargo": "Professor do Ensino Básico, Técnico e Tecnoló, Servidor público."
-        }
-    ],
-    "direcao_administracao": ": Eagle Tecnologia da Informação LTDA\nMatriz (2009 - 2012) : Administrador.",
-    "ensino": ": Faculdade Cidade de Guanhães\nOutro (2007 - 2010) .",
-    "comissoes": ": Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais\nParticipante Da Comissão Para Elaboração Do Projeto Pedagógico Do Curso Técnico Em Manutenção E Suporte De Informática (port. 009/2013) (2013 - 2013).",
-    "projetos": [
-        {},
-        {},
-        {
-            "nome": "Transformam -",
-            "periodo": "2013 - 2013",
-            "natureza": "Extensao",
-            "equipe": [
-                "Carlos Eduardo Vieira de Oliveira",
-                "Fernando Marcos Souza Silva",
-                "Elisabeth da Silva Uchôas",
-                "Jeancarlo Campos Leão",
-                "Kimberly Pinheiro Ramalho",
-                "Marlon da Consolação Soares"
+    "campus": "- Campus São João Evangelista",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Modelagem Computacional e Sistemas",
+                "periodo": "2015 - 2017",
+                "instituicao": "Universidade Estadual de Montes Claros",
+                "titulo": "Uma abordagem evolutiva multiobjetivo baseada em ponto de atração para seleção de variáveis em problemas de classificação de falhas",
+                "orientador": "Marcos Flávio Silveira Vasconcelos D'Angelo"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Sistemas",
+                "periodo": "2011 - 2012",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Jessé Gomes dos Santos"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Jogos Digitais",
+                "periodo": "2025",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2005 - 2008",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "periodo": "2011 - 2025",
+                "cargo": "Professor do Ensino Básico, Técnico e Tecnoló, Servidor público."
+            },
+            {
+                "empresa": "Eagle Tecnologia da Informação LTDA",
+                "periodo": "2009 - 2012",
+                "cargo": "Sócio Admistrador."
+            },
+            {
+                "empresa": "Faculdade Cidade de Guanhães",
+                "periodo": "2007 - 2010",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "JN Equipamentos de Informática LTDA",
+                "periodo": "2008 - 2008",
+                "cargo": "Técnico em Informática."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2006 - 2006",
+                "cargo": "Monitor no Curso de Sistemas de Informação, Monitor, Auxilio a professor e alunos nas atividades de ensino e práticas de laboratório da Disciplina Algoritmos e Técnicas de Programação (ATP).."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2025",
+                "cargo": "Professor do Ensino Básico, Técnico e Tecnoló, Servidor público."
+            }
+        ],
+        "direcao_administracao": ": Eagle Tecnologia da Informação LTDA\nMatriz (2009 - 2012) : Administrador.",
+        "ensino": ": Faculdade Cidade de Guanhães\nOutro (2007 - 2010) .",
+        "comissoes": ": Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais\nParticipante Da Comissão Para Elaboração Do Projeto Pedagógico Do Curso Técnico Em Manutenção E Suporte De Informática (port. 009/2013) (2013 - 2013).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Ações que Transformam",
+                "periodo": "2013 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Carlos Eduardo Vieira de Oliveira",
+                    "Elisabeth da Silva Uchôas",
+                    "Jeancarlo Campos Leão",
+                    "Kimberly Pinheiro Ramalho",
+                    "Marlon da Consolação Soares"
+                ],
+                "financiador": "AssociaÃ§Ã£o ComunitÃ¡ria e Infantil de AraÃ§uaÃ­,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Clube de Programação",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Jeancarlo Campos Leão",
+                    "Gabriel Alves Ferraz",
+                    "Leonardo Oliveira Bastos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Mais Cultura nas Escolas",
+                "periodo": "2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Dirlene Ararecida Almeida e Silva",
+                    "Marcelo Moreira West",
+                    "Maria Alice Gomes Lopes Leite"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Projeto de ensino: OBI em Foco",
+                "periodo": "2015",
+                "natureza": "Outra",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Jeancarlo Campos Leão",
+                    "Dirlene Ararecida Almeida e Silva",
+                    "Ruan Alves Gonçalves",
+                    "Vinícius Gonçalves",
+                    "Marcelo Moreira West"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "\"PQP!': um Provedor de Questões de Programação Compatível com o Padrão LTI",
+                "periodo": "2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Jeancarlo Campos Leão",
+                    "Dirlene Ararecida Almeida e Silva",
+                    "Geraldo Lopes Júnior",
+                    "Ruan Alves Gonçalves",
+                    "Vinícius Gonçalves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Criação de modelos educacionais demonstrativos de aplicação robótica em processos sustentáveis de uso de recursos naturais",
+                "periodo": "2012 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Magno Barbosa Dias",
+                    "Gustavo Rezende Sá",
+                    "Lara Soares Menezes",
+                    "Bianca Aparecida Alves Araújo"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVA",
+                    "software": "F. M. S.,  AaMLP Password Demo",
+                    "ano": "2008",
+                    "finalidade": "Autenticação biométrica de usuários por dinâmica da digitação, desenvolvido em Trabalho de Conclusão de Curso de Graduação."
+                }
             ],
-            "financiador": "AssociaÃ§Ã£o ComunitÃ¡ria e Infantil de AraÃ§uaÃ­,"
-        },
-        {},
-        {
-            "nome": "Programação -",
-            "periodo": "2014 - 2014",
-            "natureza": "Extensao",
-            "equipe": [
-                "Fernando Marcos Souza Silva",
-                "Jeancarlo Campos Leão",
-                "Gabriel Alves Ferraz",
-                "Leonardo Oliveira Bastos"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Foco -",
-            "periodo": "2015",
-            "natureza": "Outra",
-            "equipe": [
-                "Fernando Marcos Souza Silva",
-                "Jeancarlo Campos Leão",
-                "Dirlene Ararecida Almeida e Silva",
-                "Ruan Alves Gonçalves",
-                "Vinícius Gonçalves",
-                "Marcelo Moreira West"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "I -",
-            "periodo": "2015",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Fernando Marcos Souza Silva",
-                "Jeancarlo Campos Leão",
-                "Dirlene Ararecida Almeida e Silva",
-                "Geraldo Lopes Júnior",
-                "Ruan Alves Gonçalves",
-                "Vinícius Gonçalves"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "Escolas -",
-            "periodo": "2015",
-            "natureza": "Extensao",
-            "equipe": [
-                "Fernando Marcos Souza Silva",
-                "Dirlene Ararecida Almeida e Silva",
-                "Marcelo Moreira West",
-                "Maria Alice Gomes Lopes Leite"
-            ]
-        },
-        {
-            "nome": "Criação de modelos educacionais demonstrativos de aplicação robótica em processos sustentáveis de uso de recursos naturais -",
-            "periodo": "2012 - 2012",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Fernando Marcos Souza Silva",
-                "Magno Barbosa Dias",
-                "Gustavo Rezende Sá",
-                "Lara Soares Menezes",
-                "Bianca Aparecida Alves Araújo"
-            ]
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "F. M. S.,  Introdução à maratona de programação e à resolução de problemas",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "F. M. S.,  Implementação de Tipos Abstratos de Dados em C++",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "F. M. S.,  Banco de Dados em Delphi",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "F. M. S.,  Delphi orientado a objetos",
+                    "ano": "2010"
+                }
+            ],
+            "organizacao_eventos": []
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, F. M. S.",
+                "titulo": "D'Angelo, M",
+                "evento": "F. S. V.; Palhares",
+                "local": "R. M.; Abordagens Multiobjetivo para o Problema de Seleção de Variáveis para Aplicação em Sistemas de Detecção de Falhas. XIX Encontro Nacional de Modelagem Computacional, João Pessoa, PB",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Gabriel Alves Ferraz",
+                "titulo": "Projeto de Extensão Clube de Programação",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Luis Fernando Esteves Santos",
+                "titulo": "II MOSTRAR / Semáforo Interativo",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Rayan Medeiros Nepomuceno",
+                "titulo": "II MOSTRAR / Semáforo Interativo",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Leonardo Oliveira Bastos",
+                "titulo": "Projeto de Extensão Clube de Programação",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Marllon da Consolação Soares",
+                "titulo": "Projeto de Extensão Ações que Transformam",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Kimberly Pinheiro Ramalho",
+                "titulo": "Projeto de Extensão Ações que Transformam",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Carlos Eduardo Vieira de Oliveira",
+                "titulo": "Projeto de Extensão Ações que Transformam",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Maria Laura Chaves Fernandes",
+                "titulo": "1ª MOSTRAR / Robótica Educacional: Robocode",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Bianca Aparecida Alves Araújo",
+                "titulo": "1ª MOSTRAR / Robótica Educacional: Robocode",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Lara Soares Meneses",
+                "titulo": "1ª MOSTRAR / Robótica Educacional: Robocode",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            }
+        ]
+    }
 }

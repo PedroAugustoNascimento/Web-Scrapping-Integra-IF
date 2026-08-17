@@ -1,238 +1,469 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2001 - 2007",
-            "instituicao": "Universidade Federal de Itajubá",
-            "titulo": "Um método de fluxo de carga não iterativo como ferramenta para estudos de Colapso de Tensão",
-            "orientador": "Antonio Carlos Zambroni de Souza"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Engenharia Elétrica",
-            "periodo": "1999 - 2001",
-            "instituicao": "Universidade Federal de Itajubá",
-            "titulo": "Uma Proposta de paralelismo aplicada a análise de contingência",
-            "orientador": "Prof"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Gestão e Docência em EAD",
-            "periodo": "2012 - 2013",
-            "instituicao": "Universidade Federal de Santa Catarina",
-            "orientador": "José Wilson da Costa"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Licenciatura em Física",
-            "periodo": "1997 - 1997",
-            "instituicao": "Centro Universitário de Formiga"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Licenciatura em Ciências",
-            "periodo": "1994 - 1996",
-            "instituicao": "Centro Universitário de Formiga"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Faculdade de Filosofia, Ciências e Letras de Formiga",
-            "periodo": "2004 - 2004",
-            "cargo": "Professor, Licenciado."
-        },
-        {
-            "empresa": "Faculdade de Filosofia, Ciências e Letras de Formiga",
-            "periodo": "1999 - 2004",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Faculdade de Filosofia, Ciências e Letras de Formiga",
-            "periodo": "1997 - 2000",
-            "cargo": "Programador de Computadores."
-        },
-        {
-            "empresa": "Universidade Federal de Itajubá",
-            "periodo": "2001 - 2007",
-            "cargo": "Aluno de doutorado, Aluno."
-        },
-        {
-            "empresa": "Universidade Federal de Itajubá",
-            "periodo": "1999 - 2001",
-            "cargo": "Aluno de mestrado, Aluno."
-        },
-        {
-            "empresa": "Centro Universitário de Formiga",
-            "periodo": "2005 - 2005",
-            "cargo": "Pesquisador."
-        },
-        {
-            "empresa": "Centro Universitário de Formiga",
-            "periodo": "2004 - 2005",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Centro Universitário de Formiga",
-            "periodo": "2003 - 2004",
-            "cargo": "Coordenador de Curso."
-        },
-        {
-            "empresa": "Centro Universitário de Formiga",
-            "periodo": "2001 - 2003",
-            "cargo": "Gerente de Centro de Processamento de Dados, Responsável pelo desenvolvimento de sistemas de controle academico, financeiro e outros.."
-        },
-        {
-            "empresa": "Centro Universitário de Formiga",
-            "periodo": "1997 - 2000",
-            "cargo": "Programador de Computador, Desenvolvimento de sistemas. TencologiasClipper, Visual Basic 6.0, Sql Server 2000.."
-        },
-        {
-            "empresa": "Prefeitura Municipal de Formiga",
-            "periodo": "2005 - 2005",
-            "cargo": "Assessor."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Bambuí",
-            "periodo": "2005 - 2008",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Governo do Estado de Minas Gerais",
-            "periodo": "1994 - 1998",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Ministério da Educação",
-            "periodo": "2007 - 2007",
-            "cargo": "Parecerista, Parecerista da II Jornada Nacional da Produção Científica em Educação Profissional e Tecnológica."
-        },
-        {
-            "empresa": "Ministério da Educação",
-            "periodo": "2006",
-            "cargo": "Avaliador de Cursos de Graduação, Avaliador de Cursos de Graduação Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP/MEC - Portaria Ministerial MEC 1.751, 27/10/2006."
-        },
-        {
-            "empresa": "Sindicato Nacional dos Servidores da Educação Básica e Profissional",
-            "periodo": "2007 - 2009",
-            "cargo": "Presidente."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2016 - 2016",
-            "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2016.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2015 - 2015",
-            "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2015.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2014 - 2014",
-            "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2014.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2013 - 2013",
-            "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2013.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2012 - 2012",
-            "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2012.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2011 - 2011",
-            "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação e Matemática da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2011.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2010 - 2010",
-            "cargo": "Parecerista, Parecerista, Parecerista na(s) área(s) de Sistemas de Informação da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2010.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2009 - 2009",
-            "cargo": "Parecerista, Parecerista, Parecerista na(s) área(s) de Sistemas de Informação da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2009.."
-        },
-        {
-            "empresa": "Editora Abril",
-            "periodo": "2008 - 2008",
-            "cargo": "Parecerista, Parecerista, Parecerista na(s) área(s) de Sistemas de Informação da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2008.."
-        },
-        {
-            "empresa": "Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga",
-            "periodo": "2019",
-            "cargo": "."
-        },
-        {
-            "empresa": "Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga",
-            "periodo": "2009 - 2019",
-            "cargo": "Professor, Campus Formiga."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2019 - 2023",
-            "cargo": "Pró-reitor de Extensão."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2017 - 2019",
-            "cargo": "Pró-reitor de Ensino."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015 - 2017",
-            "cargo": "Pró-reitor de Extensão."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015 - 2023",
-            "cargo": "Reitor Substituto."
-        },
-        {
-            "empresa": "Conselho Nacional das Instituições da Rede Federal de Educação Profissional",
-            "periodo": "2017 - 2019",
-            "cargo": "Membro do Fórum de Dirigentes de Ensino."
-        },
-        {
-            "empresa": "Conselho Nacional das Instituições da Rede Federal de Educação Profissional",
-            "periodo": "2015 - 2023",
-            "cargo": "Membro do Fórum de Pró-Reitores de Extensão."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga\nCampus Formiga (2024) : Coordenador De Desenvolvimento Institucional.\nCampus Formiga (2024) : Presidente Da Área Acadêmica De Computação.\nInstituto de Engenharia Elétrica (2001 - 2007): Estabilidade de Sistemas de Potência,\nDepartamento de Computação (2005 - 2005): Colapso de Tensão,\nDepartamento de Computação (2005 - 2008): Estabilidade de Sistemas Elétricos de Potência,\nPolo de Inovação Tecnológica - Campus Formiga (2017): Sistemas inteligentes,\nDepartamento de Ciências Exatas (2009): Colapso de Tensão, Fluxo de Carga,",
-    "ensino": ": Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga\nOutro (2010) .\nGraduacao (2009) - Engenharia Elétrica.\nOutro (2009) .\nGraduacao (2009) - Licenciatura Em Matemática.\nGraduacao (2009 - 2012) - Tecnologia Em Gestão Financeira.\nTreinamento Ministrado: Universidade Federal de Itajubá\nInstituto De Engenharia Elétrica (2003 - 2003) - Instituto De Engenharia Elétrica - Aluno de doutorado.",
-    "comissoes": ": Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga\nMembro De Comissão Eleitoral Do Conselho Do Campus (2012 - 2012).\nMembro Do Nde Do Curso De Licenciatura Em Matemática (2010).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática (2010).\nMembro Do Colegiado Do Curso De Bacharelado Em Ciência Da Computação (2010).\nMembro Do Nde Do Curso De Bacharelado Em Ciência Da Computação (2010).",
-    "projetos": [
-        {},
-        {
-            "nome": "Semáforo inteligente para controle de fluxo mediante detecção de presença: estudo de aquisição e processamento de imagem com visão computacional -",
-            "periodo": "2017",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Carlos Bernardes Rosa Júnior",
-                "Nilton Vieira Junior",
-                "Fernando Paim Lima",
-                "Samuel Gomes Duque",
-                "Robes Silvério de Jesus Junior"
+    "campus": "- Campus Formiga",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2001 - 2007",
+                "instituicao": "Universidade Federal de Itajubá",
+                "titulo": "Um método de fluxo de carga não iterativo como ferramenta para estudos de Colapso de Tensão",
+                "orientador": "Antonio Carlos Zambroni de Souza"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1999 - 2001",
+                "instituicao": "Universidade Federal de Itajubá",
+                "titulo": "Uma Proposta de paralelismo aplicada a análise de contingência",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão e Docência em EAD",
+                "periodo": "2012 - 2013",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "orientador": "José Wilson da Costa"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Física",
+                "periodo": "1997 - 1997",
+                "instituicao": "Centro Universitário de Formiga"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Ciências",
+                "periodo": "1994 - 1996",
+                "instituicao": "Centro Universitário de Formiga"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade de Filosofia, Ciências e Letras de Formiga",
+                "periodo": "2004 - 2004",
+                "cargo": "Professor, Licenciado."
+            },
+            {
+                "empresa": "Faculdade de Filosofia, Ciências e Letras de Formiga",
+                "periodo": "1999 - 2004",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Faculdade de Filosofia, Ciências e Letras de Formiga",
+                "periodo": "1997 - 2000",
+                "cargo": "Programador de Computadores."
+            },
+            {
+                "empresa": "Universidade Federal de Itajubá",
+                "periodo": "2001 - 2007",
+                "cargo": "Aluno de doutorado, Aluno."
+            },
+            {
+                "empresa": "Universidade Federal de Itajubá",
+                "periodo": "1999 - 2001",
+                "cargo": "Aluno de mestrado, Aluno."
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "periodo": "2005 - 2005",
+                "cargo": "Pesquisador."
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "periodo": "2004 - 2005",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "periodo": "2003 - 2004",
+                "cargo": "Coordenador de Curso."
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "periodo": "2001 - 2003",
+                "cargo": "Gerente de Centro de Processamento de Dados, Responsável pelo desenvolvimento de sistemas de controle academico, financeiro e outros.."
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "periodo": "1997 - 2000",
+                "cargo": "Programador de Computador, Desenvolvimento de sistemas. TencologiasClipper, Visual Basic 6.0, Sql Server 2000.."
+            },
+            {
+                "empresa": "Prefeitura Municipal de Formiga",
+                "periodo": "2005 - 2005",
+                "cargo": "Assessor."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Bambuí",
+                "periodo": "2005 - 2008",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Governo do Estado de Minas Gerais",
+                "periodo": "1994 - 1998",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Ministério da Educação",
+                "periodo": "2007 - 2007",
+                "cargo": "Parecerista, Parecerista da II Jornada Nacional da Produção Científica em Educação Profissional e Tecnológica."
+            },
+            {
+                "empresa": "Ministério da Educação",
+                "periodo": "2006",
+                "cargo": "Avaliador de Cursos de Graduação, Avaliador de Cursos de Graduação Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP/MEC - Portaria Ministerial MEC 1.751, 27/10/2006."
+            },
+            {
+                "empresa": "Sindicato Nacional dos Servidores da Educação Básica e Profissional",
+                "periodo": "2007 - 2009",
+                "cargo": "Presidente."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2016 - 2016",
+                "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2016.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2015 - 2015",
+                "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2015.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2014 - 2014",
+                "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2014.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2013 - 2013",
+                "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2013.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2012 - 2012",
+                "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação, Matemática e Física da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2012.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2011 - 2011",
+                "cargo": "Parecerista, Parecerista na(s) área(s) de Sistemas de Informação e Matemática da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2011.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2010 - 2010",
+                "cargo": "Parecerista, Parecerista, Parecerista na(s) área(s) de Sistemas de Informação da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2010.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2009 - 2009",
+                "cargo": "Parecerista, Parecerista, Parecerista na(s) área(s) de Sistemas de Informação da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2009.."
+            },
+            {
+                "empresa": "Editora Abril",
+                "periodo": "2008 - 2008",
+                "cargo": "Parecerista, Parecerista, Parecerista na(s) área(s) de Sistemas de Informação da avaliação de cursos superiores realizada pelo Guia do Estudante (GE), publicada na edição GE Melhores Universidades 2008.."
+            },
+            {
+                "empresa": "Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga",
+                "periodo": "2019",
+                "cargo": "."
+            },
+            {
+                "empresa": "Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga",
+                "periodo": "2009 - 2019",
+                "cargo": "Professor, Campus Formiga."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2019 - 2023",
+                "cargo": "Pró-reitor de Extensão."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2017 - 2019",
+                "cargo": "Pró-reitor de Ensino."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015 - 2017",
+                "cargo": "Pró-reitor de Extensão."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015 - 2023",
+                "cargo": "Reitor Substituto."
+            },
+            {
+                "empresa": "Conselho Nacional das Instituições da Rede Federal de Educação Profissional",
+                "periodo": "2017 - 2019",
+                "cargo": "Membro do Fórum de Dirigentes de Ensino."
+            },
+            {
+                "empresa": "Conselho Nacional das Instituições da Rede Federal de Educação Profissional",
+                "periodo": "2015 - 2023",
+                "cargo": "Membro do Fórum de Pró-Reitores de Extensão."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga\nCampus Formiga (2024) : Coordenador De Desenvolvimento Institucional.\nCampus Formiga (2024) : Presidente Da Área Acadêmica De Computação.\nInstituto de Engenharia Elétrica (2001 - 2007): Estabilidade de Sistemas de Potência,\nDepartamento de Computação (2005 - 2005): Colapso de Tensão,\nDepartamento de Computação (2005 - 2008): Estabilidade de Sistemas Elétricos de Potência,\nPolo de Inovação Tecnológica - Campus Formiga (2017): Sistemas inteligentes,\nDepartamento de Ciências Exatas (2009): Fluxo de Carga, Colapso de Tensão,",
+        "ensino": ": Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga\nOutro (2010) .\nGraduacao (2009) - Engenharia Elétrica.\nOutro (2009) .\nGraduacao (2009) - Licenciatura Em Matemática.\nGraduacao (2009 - 2012) - Tecnologia Em Gestão Financeira.\nTreinamento Ministrado: Universidade Federal de Itajubá\nInstituto De Engenharia Elétrica (2003 - 2003) - Instituto De Engenharia Elétrica - Aluno de mestrado.",
+        "comissoes": ": Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga\nMembro De Comissão Eleitoral Do Conselho Do Campus (2012 - 2012).\nMembro Do Nde Do Curso De Licenciatura Em Matemática (2010).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática (2010).\nMembro Do Colegiado Do Curso De Bacharelado Em Ciência Da Computação (2010).\nMembro Do Nde Do Curso De Bacharelado Em Ciência Da Computação (2010).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Itajubá",
+                "nome": "Desenvolvimento de software para execução de estudos estratégicos envolvendo afundamentos de tensão, Light Serviços de Eletricidade S/A (Light), Projeto de Pesquisa e Desenvolvimento",
+                "periodo": "2002 - 2004",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Carlos Bernardes Rosa Júnior",
+                    "Otavio Augusto Salgado Carpinteiro",
+                    "Fábio Augusto Oliveira",
+                    "Thiago Clé de Oliveira",
+                    "José Maria de Carvalho Filho"
+                ],
+                "financiador": "Light Serviços de Eletricidade S A,"
+            },
+            {
+                "instituicao": "Universidade Federal de Itajubá",
+                "nome": "Non-iterative load-flow method as a tool for voltage stability studies",
+                "periodo": "2001 - 2007",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Bernardes Rosa Júnior",
+                    "Otavio Augusto Salgado Carpinteiro",
+                    "Antonio Carlos Zambroni de Souza",
+                    "Benedito Isaias de Lima Lopes",
+                    "Rafael Coradi leme"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga",
+                "nome": "Atendimento Educacional Especializado (AEE): Excluindo diferenças e elevando a qualidade do ensino com o uso de tecnologias computacionais",
+                "periodo": "2012 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Carlos Bernardes Rosa Júnior",
+                    "Paloma Maira de Oliveira",
+                    "danielle Costa",
+                    "Denise Ferreira Garcia Resende",
+                    "Mario Luiz Rodrigues Oliveira"
+                ],
+                "financiador": "Fundo Nacional de Desenvolvimento Educacional, Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educ, Ciência e Tec. de MG - Campus Formiga",
+                "nome": "Text to Speech: tecnologia para desenvolvimento da fala em crianças com necessidades especiais.",
+                "periodo": "2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Bernardes Rosa Júnior",
+                    "danielle Costa",
+                    "Nilton Vieira Junior",
+                    "Fernando Paim Lima",
+                    "Sávio Cardoso Caetano",
+                    "Bruno Tomé",
+                    "Dagmar Fatima Lima Damasceno",
+                    "Kálita Gonçalves da Fonseca",
+                    "Roger Santos Ferreira"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Semáforo inteligente para controle de fluxo mediante detecção de presença: estudo de aquisição e processamento de imagem com visão computacional",
+                "periodo": "2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Carlos Bernardes Rosa Júnior",
+                    "Nilton Vieira Junior",
+                    "Fernando Paim Lima",
+                    "Samuel Gomes Duque",
+                    "Robes Silvério de Jesus Junior"
+                ],
+                "financiador": "Empresa Brasileira de Pesquisa e Inovação Industrial,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Semáforo inteligente para controle de fluxo mediante detecção de presença",
+                "periodo": "2017 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Carlos Bernardes Rosa Júnior",
+                    "Nilton Vieira Junior",
+                    "Fernando Paim Lima",
+                    "Roger Santos Ferreira",
+                    "Dandara Lorrayne do Nascimento"
+                ],
+                "financiador": "Empresa Brasileira de Pesquisa e Inovação Industrial,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ROSA JUNIOR",
+                    "software": "C. B.,  SOUZA, A. C. Z.,  CARPINTEIRO, O. A. S.,  XWPVM",
+                    "ano": "2002",
+                    "finalidade": "Interface grafica para PVM."
+                },
+                {
+                    "autor": "ROSA JUNIOR",
+                    "software": "C. B.,  SOUZA, A. C. Z.,  CARPINTEIRO, O. A. S.,  Análise de Contingência",
+                    "ano": "2000",
+                    "finalidade": "Paralelismo aplicado à análise de contingência."
+                },
+                {
+                    "autor": "ROSA JUNIOR",
+                    "software": "C. B.,  CARPIO, R. C.,  SOUZA JUNIOR, F.,  Engenharia de Produção",
+                    "ano": "2005",
+                    "finalidade": "Elaboração do projeto de um Curso de Engenharia de Produção para o UNIFOR-MG."
+                },
+                {
+                    "autor": "ROSA JUNIOR",
+                    "software": "C. B.,  Introdução à Computação",
+                    "ano": "2011",
+                    "finalidade": "Material didático para o Curso Técnico em Manutenção e Suporte em Informática."
+                },
+                {
+                    "autor": "ROSA JUNIOR",
+                    "software": "C. B.,  Matlab",
+                    "ano": "2010",
+                    "finalidade": "Apresentar o Matlab como ferramenta para cálculo em cursos de graduação."
+                }
             ],
-            "financiador": "Empresa Brasileira de Pesquisa e Inovação Industrial,"
-        },
-        {
-            "nome": "Semáforo inteligente para controle de fluxo mediante detecção de presença -",
-            "periodo": "2017 - 2017",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Carlos Bernardes Rosa Júnior",
-                "Nilton Vieira Junior",
-                "Fernando Paim Lima",
-                "Roger Santos Ferreira",
-                "Dandara Lorrayne do Nascimento"
-            ],
-            "financiador": "Empresa Brasileira de Pesquisa e Inovação Industrial,"
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "ROSA JUNIOR",
+                    "evento": "C. B.,  II Jornada de Ciência e Tecnologia do IFMG - Campus Formiga",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Formiga."
+                },
+                {
+                    "autores": "ROSA JUNIOR",
+                    "evento": "C. B.,  GARBAZZA, I. E.,  I Jornada de Tecnologia da Informação do CEFET-Bambuí",
+                    "ano": "2007",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CEFET-Bambuí."
+                }
+            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Nametala, Ciniro",
+                "titulo": "ROSA JUNIOR, C. B.;  PIMENTA, A.;  OLIVEIRA, T. C.;  Migração de Paradigmas e Tecnologias no Desenvolvimento de um Sistema para Estudos Estratégicos de Afundamentos de Tensão",
+                "ano": "2008",
+                "periodico": "REIC. Revista Eletrônica de Iniciação Científica. ISBN: 15198219   ."
+            },
+            {
+                "autores": "SOUZA, A. C. Z.",
+                "titulo": "ROSA JUNIOR, C. B.;  LOPES, B. I. L.;  LEME, R. C.;  CARPINTEIRO, O. A. S.;  Non-iterative load-flow method as a tool for voltage stability studies",
+                "ano": "2007",
+                "periodico": "IET Generation Transmission & Distribution. ISBN: 17518687   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Nametala, Ciniro",
+                "titulo": "ROSA JUNIOR, C",
+                "evento": "B.; Migração de Paradigmas e Tecnologias no Desenvolvimento de um Sistema para Estudos Estratégicos de Afundamentos de Tensão. VII Jornadas Peruanas de Computacion",
+                "local": "Lima / Peru",
+                "ano": "2008"
+            },
+            {
+                "autores": "Nametala, Ciniro",
+                "titulo": "ROSA JUNIOR, C",
+                "evento": "B.; PIMENTA",
+                "local": "A.; OLIVEIRA, T. C.; Migração De Paradigmas E Tecnologias No Desenvolvimento De Um Sistema Para Estudos Estratégicos De Afundamentos De Tensão. II Jornada Nacional da Produção Científica em Educação Profissional e Tecnológica, São Luís",
+                "ano": "2007"
+            },
+            {
+                "autores": "CARVALHO FILHO, J. M.",
+                "titulo": "ABREU, Jose Policarpo Golçalves de; ROSA JUNIOR, C",
+                "evento": "B.; CARPINTEIRO",
+                "local": "O. A. S.; OLIVEIRA, T. C.; OLIVEIRA, F. A.; A Software for Voltage Sags Strategic Studies. XI International Conference on Harmonics and Quality of Power, Lake Placid",
+                "ano": "2004"
+            },
+            {
+                "autores": "CARVALHO FILHO, J. M.",
+                "titulo": "ABREU, Jose Policarpo Golçalves de; CARPINTEIRO, O",
+                "evento": "A. S.; ROSA JUNIOR",
+                "local": "C. B.; OLIVEIRA, F. A.; Desenvolvimento de um Sistema de Software para Execução de Estudos Estratégicos Envolvendo Afundamentos de Tensão. Congresso Brasileiro de Automática, Gramado",
+                "ano": "2004"
+            },
+            {
+                "autores": "ABREU, Jose Policarpo Golçalves de",
+                "titulo": "CARVALHO FILHO, J",
+                "evento": "M.; CARPINTEIRO",
+                "local": "O. A. S.; OLIVEIRA, T. C.; ROSA JUNIOR, C. B.; OLIVEIRA, F. A.; A Software for Voltage Sags Strategic Studies. VI Induscon - Conferência Internacional de Aplicações Indutriais, Joinville",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Rayane Aparecida Guimarães",
+                "titulo": "Monitoria da Disciplina de Introdução à Computação",
+                "ano": "2012",
+                "curso": "Licenciatura em Matemática",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Mateus Leal",
+                "titulo": "Monitoria da Disciplina de Introdução à Computação",
+                "ano": "2011",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Cleiton Rodrigo dos Santos",
+                "titulo": "DESENVOLVIMENTO DE UM WEB SERVICE SEMÂNTICO: UMA ABORDAGEM PARA A CONSTRUÇÃO DE UMA BASE DE CONHECIMENTO PARA WEB 3.0.",
+                "ano": "2008",
+                "curso": "Curso de G Tec. em Análise e Desenv de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Stella Marys Dornelas Lamounier",
+                "titulo": "Inclusão digital: Uma abordagem técnica e gerencial para criação de Telecentros",
+                "ano": "2008",
+                "curso": "Curso de G Tec. em Análise e Desenv de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ciniro Aparecido Leite Nametala",
+                "titulo": "Software de Análise Estratégica para Afundamento Momentâneo de Tensão",
+                "ano": "2007",
+                "curso": "Curso de G Tec. em Análise e Desenv de Sistemas",
+                "instituicao": "Centro Federal de Educação Tecnológica de Bambuí"
+            },
+            {
+                "orientando": "Jovelino Alves",
+                "titulo": "Aplicações computacionais de alto desempenho - Utilização de Grid Computing e MPI",
+                "ano": "2007",
+                "curso": "Curso de G Tec. em Análise e Desenv de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Karlan Ricomini",
+                "titulo": "Software Livre para Gestão Financeira",
+                "ano": "2007",
+                "curso": "Curso de G Tec. em Análise e Desenv de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Carolina Cristina Bicalho",
+                "titulo": "Software de Análise de investimentos para Empreendimentos Rurais",
+                "ano": "2006",
+                "curso": "Informática no Agronegócio",
+                "instituicao": "Centro Federal de Educação Tecnológica de Bambuí"
+            }
+        ]
+    }
 }

@@ -1,104 +1,361 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Computação Aplicada",
-            "periodo": "2009 - 2014",
-            "instituicao": "Instituto Nacional de Pesquisas Espaciais",
-            "titulo": "Heurística Baseada em Modelo para Problemas de Localização de Concentradores Capacitados",
-            "orientador": "Dr"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Computação Aplicada",
-            "periodo": "2007 - 2009",
-            "instituicao": "Instituto Nacional de Pesquisas Espaciais",
-            "titulo": "Métodos Heurísticos para Localização de Concentradores",
-            "orientador": "Dr"
-        },
-        {
-            "nivel": "Especialização"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Docência",
-            "periodo": "2019 - 2020",
-            "instituicao": "Instituto Federal de Minas Gerais - Campus Arcos",
-            "orientador": "Edio da Costa Junior"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2003 - 2006",
-            "instituicao": "Faculdades Integradas de Caratinga"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Instituto Ensinar Brasil",
-            "periodo": "2010 - 2011",
-            "cargo": "Prof. do Curso de Ciência da Computação, Professor."
-        },
-        {
-            "empresa": "Instituto Ensinar Brasil",
-            "periodo": "2006 - 2006",
-            "cargo": "Monitor de Laboratório de Informática (Linux), Monitor."
-        },
-        {
-            "empresa": "Instituto Ensinar Brasil",
-            "periodo": "2005 - 2006",
-            "cargo": "Monitor de Cálculo Diferencial e Integral, Monitor."
-        },
-        {
-            "empresa": "Instituto Ensinar Brasil",
-            "periodo": "2004 - 2004",
-            "cargo": "Monitor de Algoritmos e Estruturas de Dados, Monitor."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2021",
-            "cargo": "Coordenador - Técnico em Informática."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2012 - 2012",
-            "cargo": "Prof. Ensino Básico, técnico e tecnológico, Professor temporário."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2012",
-            "cargo": "Prof. Ensino Básico, técnico e tecnológico, Professor."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais - Campus São João Evangelista",
-            "periodo": "2012",
-            "cargo": "Professor EBTT."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Instituto Ensinar Brasil\nGraduacao (2011 - 2011) - Ciência Da Computação.\nGraduacao (2010 - 2010) - Ciência Da Computação.\nGraduacao (2006 - 2006) - Ciência Da Computação.\nGraduacao (2005 - 2006) - Ciência Da Computação.\nGraduacao (2004 - 2004) - Ciência Da Computação.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {
-            "nome": "Maratona 2019 -",
-            "periodo": "2019 - 2019",
-            "natureza": "Ensino",
-            "equipe": [
-                "Wesley Gomes de Almeida"
+    "campus": "- Campus Avançado Ipatinga",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Computação Aplicada",
+                "periodo": "2009 - 2014",
+                "instituicao": "Instituto Nacional de Pesquisas Espaciais",
+                "titulo": "Heurística Baseada em Modelo para Problemas de Localização de Concentradores Capacitados",
+                "orientador": "Dr"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação Aplicada",
+                "periodo": "2007 - 2009",
+                "instituicao": "Instituto Nacional de Pesquisas Espaciais",
+                "titulo": "Métodos Heurísticos para Localização de Concentradores",
+                "orientador": "Dr"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Docência",
+                "periodo": "2019 - 2020",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Arcos",
+                "orientador": "Edio da Costa Junior"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2003 - 2006",
+                "instituicao": "Faculdades Integradas de Caratinga"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Ensinar Brasil",
+                "periodo": "2010 - 2011",
+                "cargo": "Prof. do Curso de Ciência da Computação, Professor."
+            },
+            {
+                "empresa": "Instituto Ensinar Brasil",
+                "periodo": "2006 - 2006",
+                "cargo": "Monitor de Laboratório de Informática (Linux), Monitor."
+            },
+            {
+                "empresa": "Instituto Ensinar Brasil",
+                "periodo": "2005 - 2006",
+                "cargo": "Monitor de Cálculo Diferencial e Integral, Monitor."
+            },
+            {
+                "empresa": "Instituto Ensinar Brasil",
+                "periodo": "2004 - 2004",
+                "cargo": "Monitor de Algoritmos e Estruturas de Dados, Monitor."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2021",
+                "cargo": "Coordenador - Técnico em Informática."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2012",
+                "cargo": "Prof. Ensino Básico, técnico e tecnológico, Professor."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2012 - 2012",
+                "cargo": "Prof. Ensino Básico, técnico e tecnológico, Professor temporário."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Campus São João Evangelista",
+                "periodo": "2012",
+                "cargo": "Professor EBTT."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Ensinar Brasil\nGraduacao (2011 - 2011) - Ciência Da Computação.\nGraduacao (2010 - 2010) - Ciência Da Computação.\nGraduacao (2006 - 2006) - Ciência Da Computação.\nGraduacao (2005 - 2006) - Ciência Da Computação.\nGraduacao (2004 - 2004) - Ciência Da Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista",
+                "nome": "Prática de Programação para Maratona 2019",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Wesley Gomes de Almeida"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista",
+                "nome": "Prática de Programação para Maratona",
+                "periodo": "2018 - 2018",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Wesley Gomes de Almeida"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  Inteligência Artificial",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  SENNE, E. L. F.,  YANASSE, H. H.,  Uma solução exata para o Problema de Localização de Concentradores com Alocação Múltipla",
+                    "ano": "2012",
+                    "instituicao_promotora": "INPE."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  SENNE, E. L. F.,  YANASSE, H. H.,  Uma abordagem exata para problemas de Localização de concentradores capacitado",
+                    "ano": "2011",
+                    "instituicao_promotora": "SOBRAPO."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  SENNE, E. L. F.,  Metaheurística hibrida com busca por agrupamento aplicado ao problema de localização de hubs com restrições de capacidade",
+                    "ano": "2010",
+                    "instituicao_promotora": "SOBRAPO."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  SENNE, E. L. F.,  YANASSE, H. H.,  Abordagens Meta-heurísticas para o Problema de Localização de Concentradores Com Restrições de Capacidade",
+                    "ano": "2010",
+                    "instituicao_promotora": "Curso de Computação Aplicada do INPE."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  SENNE, E. L. F.,  Uma abordagem heurística para o problema não capacitado de localização de concentradores",
+                    "ano": "2008",
+                    "instituicao_promotora": "FMEPRO."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "W. G.,  Algoritmos Genéticos para Projeto de Estruturas Metálicas sob condições de Incêndio",
+                    "ano": "2006",
+                    "instituicao_promotora": "Faculdades Doctum (Campos TO-MG)."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "PACHECO",
+                    "evento": "A. M. R.,  BARBOSA, S. C. A.,  GONCALVES, S. A. S.,  ALMEIDA, W. G.,  SANTOS, G. M.,  FERNANDES, M. M.,  FILARDI, M. A.,  CESÁRIO, M. C. P.,  SILVA, M. F.,  TANNURE, M. P.,  VILELA, N. G. S.,  COSTA, R. L. J.,  XVI Semana de Ciência e Tecnologia",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - IFMG, campus São João Evangelista - MG."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "W. G.,  FIGUEIREDO, R. S.,  MARTINS, F. R.,  TOLEDO, B. S.,  SANTOS, G. O.,  III Maratona Interna de Programação - MIP",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                }
             ]
-        },
-        {},
-        {},
-        {
-            "nome": "Maratona -",
-            "periodo": "2018 - 2018",
-            "natureza": "Ensino",
-            "equipe": [
-                "Wesley Gomes de Almeida"
-            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALMEIDA, WESLEY GOMES DE",
+                "titulo": "FERREIRA, BRUNO;  JÚNIOR, EDIO DA COSTA;  Uso de TICs em conjunto com a metodologia de aprendizagem baseada em problemas no ensino de algoritmos: um estudo de caso aplicado a um curso técnico do IFMG",
+                "ano": "2021",
+                "periodico": "InterSaberes Revista Científica. ISBN: 18097286   ."
+            },
+            {
+                "autores": "DE ALMEIDA, W.",
+                "titulo": "SENNE, E.;  YANASSE, H.;  An Exact Solution for the Capacitated Multiple Allocation Hub Location Problem",
+                "ano": "2013",
+                "periodico": "JOURNAL OF COMPUTATIONAL INTERDISCIPLINARY SCIENCES. ISBN: 19838409   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FERREIRA, W. S.",
+                "titulo": "MEDEIROS, K",
+                "evento": "E.; TESSER",
+                "local": "A. R. F.; ALMEIDA, W. G.; Implementação da Lógica Fuzzy em Incubadoras para o Controle de Temperatura e Umidade. III Seminário de Integração Acadêmica do IFMG - Campus São João Evangelista, São João Evangelista - MG",
+                "ano": "2014"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; YANASSE",
+                "local": "H. H.; Uma solução exata para o problema de localização de concentradores capacitados com alocação múltipla. XIII Workshop de Computação Aplicada, São José dos Campos",
+                "ano": "2013"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; YANASSE",
+                "local": "H. H.; Uma solução exata para o Problema de Localização de Concentradores com Alocação Múltipla. XII Workshop dos Cursos de Mestrado e Doutorado em Computação aplicada do INPE (Worcap, 2012), São José dos Campos - SP",
+                "ano": "2012"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; YANASSE",
+                "local": "H. H.; Uma abordagem exata para problemas de Localização de concentradores capacitado. XLIII Simpósio Brasileiro de Pesquisa Operacional, Ubatuba - SP",
+                "ano": "2011"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; YANASSE",
+                "local": "H. H.; Uma abordagem exata para o Problema de Localização de Concentradores Capacitado. XI Workshop de Computação Aplicada, São José dos Campos - SP",
+                "ano": "2011"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; Metaheurística hibrida com busca por agrupamento aplicado ao problema de localização de hubs com restrições de capacidade. XLII Simpósio Brasileiro de Pesquisa Operacional (SBPO)",
+                "local": "Bento Gonçalves",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; Soluções meta-heurísticas para o problema de localização de concentradores com restrições de capacidade. Encontro Mineiro de Engenharia de Produção (EMEPRO)",
+                "local": "Coronel Fabriciano - MG",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; YANASSE",
+                "local": "H. H.; Abordagens Meta-heurísticas para o Problema de Localização de Concentradores Com Restrições de Capacidade. X Workshop dos Cursos de Mestrado e Doutorado em Computação Aplicada do INPE, São José dos Campos",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "ARAUJO, J",
+                "evento": "E.; Metaheuristic search procedure based on fuzzy graph for p-facility problems. IEEE World Congress on Computational Intelligence (IEEE WCCI 2010)",
+                "local": "Barcelona",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; Meta-heurísticas para o problema não-capacitado de localização de p-concentradores. XLI SBPO",
+                "local": "Porto Seguro - BA",
+                "ano": "2009"
+            },
+            {
+                "autores": "SENNE, E. L. F.",
+                "titulo": "ALMEIDA, W",
+                "evento": "G.; Uma Meta-heurística de Agrupamento para o Problema de Localização de Concentradores. OPTIMA",
+                "local": "Concepción",
+                "ano": "2009"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; Uma abordagem heurística na solução do problema de localização de p-concentradores. 7th Brazilian Conference on Dynamics",
+                "local": "Control and Applications, Presidente Prudente",
+                "ano": "2008"
+            },
+            {
+                "autores": "ALMEIDA, W. G.",
+                "titulo": "SENNE, E",
+                "evento": "L. F.; Uma abordagem heurística para o problema não capacitado de localização de concentradores. Encontro Mineiro de Engenharia de Produção (EMEPRO)",
+                "local": "Ouro Preto - MG",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Flávia Vilaça de Oliveira",
+                "titulo": "Biblioteclando: Sistema de Biblioteca da Escola Estadual Josefina Pimenta",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Whentony Soares Ferreira e Kaiquy Evaristo Medeiros",
+                "titulo": "Implementação da Lógica Fuzzy em Chocadeiras para Controle de Temperatura e Umidade",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Indyanara de Souza Salema e Ione Alves de Lima",
+                "titulo": "Desenvolvimento de Sistema de Irrigação Automatizado Usando a Plataforma Arduíno",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Natanael Bruno Gonçalves",
+                "titulo": "GH Eventos Escolares - Uma Proposta de Inovação na Comunicação entre Escolas Municipais de Guanhães/MG e Comunidade Externa",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Indyanara de Souza Salema e Ione Alves de Lima",
+                "titulo": ".  Protótipo de uma Infraestrutura de Irrigação Automatizada para o Cultivo de Alface Ultilizando a Plataforma Arduino",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Sócrates Alves Magalhães e Vânia Batista dos Santos",
+                "titulo": ".  Sistema de Apoio no Processo de Diagnóstico da Dengue Aplicando Aprendizado de Máquina com o Método Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Daniel Pereira de Azevedo e Thúlio Francys Soares",
+                "titulo": ".  Desenvolvimento de um Sistema de Gerenciamento para a Gráfica Estrela da Manhã",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "ANDRÉ LUIZ GOMES DA SILVA e KÊNIA ALVES PEREIRA ARAÚJO",
+                "titulo": "Sistema de Gerenciamento para Empresa Junior - ONEBIT",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Whentony Soares Ferreira e Kaiquy Evaristo Medeiros",
+                "titulo": "Implementação da Lógica Fuzzy em Chocadeiras para Controle de Temperatura e Umidade",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Felipe Reis Vieira e José Geraldo Sousa Rodrigues",
+                "titulo": "Estimativa de Produção de Madeira sobre a Influência de Adubações",
+                "ano": "2013",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Douglas Souto de Souza e João Paulo Medina Passos",
+                "titulo": "Uma Solução para o Problema de Alocação de Horários Usando Algoritmos Genéticos",
+                "ano": "2013",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

@@ -1,318 +1,1235 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "SISTEMAS DE INFORMAÇÃO E GESTÃO DO CONHECIMENTO",
-            "periodo": "2019 - 2023",
-            "instituicao": "Universidade FUMEC",
-            "titulo": "Estudo da possibilidade de apropriação das competências no uso de tecnologias digitais pelos idosos por meio de jogos",
-            "orientador": "Luiz Cláudio Gomes Maia"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Modelagem Matemática e Estatística",
-            "periodo": "2006 - 2008",
-            "instituicao": "Universidade Vale do Rio Verde de Três Corações",
-            "titulo": "Análise Estatística de uma Pesquisa Tipo Top of Mind de Empresas na Cidade de Campo Belo",
-            "orientador": "José Carlos de Souza Kiihl"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Informática em Eucação",
-            "periodo": "2002 - 2003",
-            "instituicao": "Universidade Federal de Lavras",
-            "orientador": "André Luiz Zambalde"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "1997 - 2001",
-            "instituicao": "Universidade Federal de Lavras"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Licenciatura em Matemática",
-            "periodo": "2011 - 2012",
-            "instituicao": "Universidade de Franca"
+    "campus": "- Campus São João Evangelista",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "SISTEMAS DE INFORMAÇÃO E GESTÃO DO CONHECIMENTO",
+                "periodo": "2019 - 2023",
+                "instituicao": "Universidade FUMEC",
+                "titulo": "Estudo da possibilidade de apropriação das competências no uso de tecnologias digitais pelos idosos por meio de jogos",
+                "orientador": "Luiz Cláudio Gomes Maia"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Matemática e Estatística",
+                "periodo": "2006 - 2008",
+                "instituicao": "Universidade Vale do Rio Verde de Três Corações",
+                "titulo": "Análise Estatística de uma Pesquisa Tipo Top of Mind de Empresas na Cidade de Campo Belo",
+                "orientador": "José Carlos de Souza Kiihl"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática em Eucação",
+                "periodo": "2002 - 2003",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "André Luiz Zambalde"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1997 - 2001",
+                "instituicao": "Universidade Federal de Lavras"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática",
+                "periodo": "2011 - 2012",
+                "instituicao": "Universidade de Franca"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro Universitário Presidente Antônio Carlos",
+                "periodo": "2006 - 2010",
+                "cargo": "regime parcial, coordenador."
+            },
+            {
+                "empresa": "Centro Universitário Presidente Antônio Carlos",
+                "periodo": "2006 - 2010",
+                "cargo": "Professora, professor, Professora de Algoritmo e Estrutura de Dados, Sistemas de Informação, Interface Homem Maquina,Gestão da Informação, Inteligência Artificial, Calculo Diferencial e Integral I, Calculo Diferencial e Integral ii, Estatistica e Probabilidade, Matematica Discreta.."
+            },
+            {
+                "empresa": "Instituto Presbiteriano Gammon",
+                "periodo": "2008 - 2009",
+                "cargo": "Professora Ensino Fundamental II, professora."
+            },
+            {
+                "empresa": "Escola Estadual José Monteiro",
+                "periodo": "2008 - 2009",
+                "cargo": "Professora de Curso Técnico, professora, Professora dos cursos Tecnicos em Informatica e Gestão e Marketing."
+            },
+            {
+                "empresa": "Núcleo de Ensino Técnico",
+                "periodo": "2002 - 2005",
+                "cargo": "Professora de Curso Técnico, professora, professora de logica de programação, algoritmo e estrutura de dados, linguagem de programação i, planilhas eletrônica, apresentação eletrônica, internet, estatistica, matemática, projetos, informática e modelos de linguagem.."
+            },
+            {
+                "empresa": "Núcleo de Ensino Técnico",
+                "periodo": "2002 - 2005",
+                "cargo": "Regime Parcial, coordenadora."
+            },
+            {
+                "empresa": "Universidade José do Rosário Vellano",
+                "periodo": "2002 - 2002",
+                "cargo": "tutora, professor, tutora de informática, bioestátistica e metodologia científica.."
+            },
+            {
+                "empresa": "Universidade José do Rosário Vellano",
+                "periodo": "2001 - 2002",
+                "cargo": "cpd, administrativo."
+            },
+            {
+                "empresa": "Universidade Vale do Rio Verde de Três Corações",
+                "periodo": "2007 - 2008",
+                "cargo": "aluna, Outro (mestrado)."
+            },
+            {
+                "empresa": "Fundação Educacional Comunitária Formiguense",
+                "periodo": "2002 - 2003",
+                "cargo": "Professor Assistente, Professor."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "1999 - 1999",
+                "cargo": "Estagiária, Estágio Extra Curricular."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "1998 - 1999",
+                "cargo": "Monitora, Monitoria."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "1998 - 1998",
+                "cargo": "Estagiária, Estágio Extra Curricular."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015 - 2016",
+                "cargo": "Diretora de Ensino."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015 - 2016",
+                "cargo": "Diretora Geral Substituta."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015 - 2016",
+                "cargo": "Ordenadora de despesas do IFMG."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015 - 2016",
+                "cargo": "Rol de Responsáveis pela gestão do IFMG."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2010",
+                "cargo": "Professora, Professora de Algoritmo e Estrutura de Dados I e II e Informática Aplicada ao Ensino da Matemática.."
+            }
+        ],
+        "direcao_administracao": ": Núcleo de Ensino Técnico\nNET (2002 - 2005) : Coordenadora Dos Laboratórios De Informática.\nNET (2002 - 2005) : Coordenadora Do Programa De Monitoria.",
+        "ensino": "",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Consciência Negra Do Ifmg - Campus São João Evangelista. Portaria Nº 184, De 04 De Setembro De 2018. (2018 - 2018).\nMembro Da Comissão Responsável Pela Organização E Realização Da Xxiv Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 81, De 10 De Abril De 2018. (2018 - 2018).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria Nº 103, De 27 De Abril De 2018. (2018 - 2019).\nMembro Do Colegiado Da Área De Informática E Administração Do Ifmg-sje. Portaria Nº 047 De 12 De Março De 2018. (2018 - 2019).\nMembro Da Comissão Encarregada De Atualizar O Manual De Normalização De Produção Acadêmica Do Ifmg - Campus São João Evangelista. Portaria Nº 155 De 09 De Outubro De 2017. (2018).\nMembro Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Informática E I Semana Da Administração Do Ifmg - Campus São João Evangelista (2018).\nMembro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação Do Ifmg - Campus São João Evangelista. Portaria Nº 84 De 11 De Abril De 2018 (2018).\nMembro Da Comissão Responsável Pelo Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação Do Ifmg - Campus São João Evangelista. Portaria Nº 021, De 26 De Janeiro De 2017. (2017 - 2018).\nMembro Da Comissão Responsável Pela Elaboração Do Edital Para Seleção De Projetos De Pesquisa, Extensão E Inovação Para O Ano De 2018 Do Ifmg - Campus São João Evangelista. Portaria Nº 223 De 08 De Dezembro De 2017. (2017).\nMembro Da Comissão Responsável Pela Organização Da Confraternização Do Dia Do Servidor E Inauguração Das Obras De Ampliação Do Clube Da Associação Dos Servidores Do Ifmg - Campus São João Evangelista. Portaria Nº 158 De Outubro De 2017. (2017).\nMembro Da Comissão Responsável Pela Organização E Realização Da Ii Semana Da Consciência Negra Do Ifmg - Campus São João Evangelista. Portaria Nº 182 De 14 De Novembro De 2017. (2017).\nMembro Da Comissão Encarregada De Estabelecer Os Critérios Para Concessão De Afastamento De Docentes Para Capacitação Do Ifmg - Campus São João Evangelista (2014).\nMembro Da Comissão De Avaliação De Validação Dos Trabalhos Do Ii Seminário De Integração Acadêmica (2014).\nMembro Da Comissão De Verificação Da Viabilidade De Criação Ou Transferência Do Curso De Sistemas De Informação Para O Periodo Noturno (2014).\nMembro Da Comissão De Verificação Da Viabiliade E Elaboração Do Projeto Pedagógico Do Curso De Pós-graduação Lato Sensu Em Informática Do Ifmg Campus São João Evangelista. (2014).\nMembro Da Comissão Encarregada Do Processo Seletivo Simplificado Para Professor Temporário Do Ifmg - Campus São João Evangelista. Portaria Nº 048 De 17 De Junho De 2014. (2014).\nMembro Da Comissão Responsável Pelo Planfor Do Ifmg - Campus São João Evangelista (2013).\nMembro Do Catcc (2013).\nMembro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Cursos (2013).\nMembro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação (2010).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática (2010 - 2013).\nMembro Do Núcleo Docente Estruturante Do Curso De Sistemas De Informação (2010).\nMembro Do Núcleo Docente Estruturante Do Curso De Licenciatura Em Matemática (2010 - 2013).",
+        "projetos": [
+            {
+                "instituicao": "Centro Universitário Presidente Antônio Carlos",
+                "nome": "Conscientização Digital",
+                "periodo": "2010 - 2010",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Centro Universitário Presidente Antônio Carlos",
+                "nome": "Unipac Regional",
+                "periodo": "2009 - 2009",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Centro Universitário Presidente Antônio Carlos",
+                "nome": "Unipakibacana",
+                "periodo": "2008 - 2009",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Centro Universitário Presidente Antônio Carlos",
+                "nome": "Unipac no Bairro",
+                "periodo": "2009 - 2010",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Núcleo de Ensino Técnico",
+                "nome": "Parceria da Secretaria Municipal de Educação de Campo Belo e NET",
+                "periodo": "2005 - 2005",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos"
+                ],
+                "financiador": "Prefeitura Municipal de Campo Belo,"
+            },
+            {
+                "instituicao": "Universidade Vale do Rio Verde de Três Corações",
+                "nome": "Análise estatistica de uma pesquisa tipo Top Of Mind de empresas na cidade de Campo Belo - MG",
+                "periodo": "2007 - 2008",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "João Domingos Scalon",
+                    "José Carlos de Souza Kiihl"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Técnicas de Correções de Erros e a Indústria Áudio Digital",
+                "periodo": "2000 - 2001",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "D.Sc Lucas Monteiro Chaves",
+                    "Vanessa Godoy Kinoshita"
+                ],
+                "financiador": "Universidade Federal de Lavras,"
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Simulação Computacional de Códigos Corretores de Erros",
+                "periodo": "1998 - 2000",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "D.Sc Lucas Monteiro Chaves",
+                    "Vanessa Godoy Kinoshita",
+                    "Dsc Antonio Tavares da Costa Junior"
+                ],
+                "financiador": "Universidade Federal de Lavras,"
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Controle de Temperatura de Estufa",
+                "periodo": "1999 - 2000",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Vanessa Godoy Kinoshita",
+                    "M.Sc Joaquim Quinteiro Uchôa",
+                    "Antonio Carlos Alves Silva",
+                    "Edna Mie Kanazawa",
+                    "M.Sc Wilian Soares Lacerda"
+                ],
+                "financiador": "Universidade Federal de Lavras,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Software para cálculo do custo de produção para o setor agroindustrial",
+                "periodo": "2011 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Claudineia Gonçalves de Arruda",
+                    "Guidson Coelho de Andrade"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa de análise e recomendação de nutrientes para o solo",
+                "periodo": "2011 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "José Geraldo Sousa Rodrigues",
+                    "Welder das Graças Coelho Ramos"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Acessibilidade Web para deficientes visuais no Instituto Federal de Minas Gerais, Campus São João Evangelista",
+                "periodo": "2011 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Michelle Nery",
+                    "Daniela Couto de Oliveira"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Criação de um dicionário de língua Inglesa para termos técnicos de informática",
+                "periodo": "2011 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Mara Izidoro da Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Implantação de Empresa Júnior de informática no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais ? Campus São João Evangelista",
+                "periodo": "2014 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Bruno de Souza Toledo",
+                    "Rochele Edenís Miranda",
+                    "Kênia Alves Pereira Araújo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de software para o gerenciamento da avicultura: Sisgranja",
+                "periodo": "2014 - 2015",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Douglas Nunes de Oliveira",
+                    "Jeizilene de Jesus Costa",
+                    "José Laureano Barbosa Leite."
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão Digital com a Melhor Idade",
+                "periodo": "2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Regina Face",
+                    "Leonardo Filipe da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Aplicação da Gestão do Conhecimento no Contexto de Pesquisas Científicas em Ambientes Acadêmicos",
+                "periodo": "2024 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Pedro Henrique Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Gestão do Conhecimento em Pesquisas Científicas",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Pedro Henrique Santos",
+                    "Fabricio Ziviani",
+                    "Carlos Alberto Gonçalves",
+                    "ADRIANO CARDOSO BARRETO",
+                    "Adriana Ferreira da Silva",
+                    "Priscila Caneparo dos Anjos",
+                    "Flávio Medeiros Mariz",
+                    "Flávio Ferreira de Melo",
+                    "Ricardo Alexandre dos Santos Araújo",
+                    "Silvana Alves de Oliveira",
+                    "Samuel Novais Moura Júnior",
+                    "Deysiane Farias Pontes",
+                    "Jean Carlos Pena Amorim"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Gestão do Conhecimento no Contexto Amazônico: Estratégias para o Desenvolvimento Sustentável e Inovação Regional",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Fabricio Ziviani",
+                    "Flávio Medeiros Mariz",
+                    "Silvana Alves de Oliveira",
+                    "Deysiane Farias Pontes",
+                    "Marcos Tadeu Simões Piacentini",
+                    "Fábio Corrêa",
+                    "Frederico César Mafra Pereira",
+                    "Christiane de Miranda e Silva Correia",
+                    "Helton Júnio da Silva",
+                    "Laura Marcela do Carmo Pedroso",
+                    "WILLEY RONEY OLIVEIRA MOTTA DA CUNHA",
+                    "Ademilson de Assis Dias",
+                    "Alexandre Leonardo Simões Piacentini"
+                ],
+                "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de ferramenta de conversão de texto em áudio.",
+                "periodo": "2013 - 2013",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Daniela Couto de Oliveira"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "LEMOS",
+                    "curso": "K. D. C.,  Inglês Interativo",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "CARVALHO",
+                    "curso": "K. D.,  Linguagem Scheme",
+                    "ano": "2004"
+                },
+                {
+                    "autor": "CARVALHO",
+                    "curso": "K. D.,  Informática Básica",
+                    "ano": "2003"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  TOLEDO, B. S.,  II Semana de Informática do IFMG - SJE",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  I Encontro de Pais e Mestresde 2016 do IFMG - SJE",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - SJE."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  III Maratona Interna de Programação - MIP do IFMG - SJE",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  TOLEDO, B. S.,  PEREIRA, I. M.,  I Semana de Informática do IFMG - SJE",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  LEMOS, K. D. C.,  CESARIO, M. C. P.,  SILVA, T. R.,  I Semana da Consciência Negra do IFMG - SJE",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  Processo seletivo de estagiário do IFMG - SJE edital 072/2016",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  Processo seletivo de professor de Quimica e areas afins edital 043/2016",
+                    "ano": "2016",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  III Seminário de Integração Acadêmica e II Jornada de Extensão Acadêmica o IFMG - Campus São João Evangelista",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  LEMOS, K. D. C.,  Concurso para seleção de tutor pesencial e à distância para os cursos técnicos subsequentes na modalidade de EaD",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  LEMOS, K. D. C.,  GONCALVES, V. M.,  Processo seletivo de professor edital 181/2015",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  III Seminário de Iniciação Cientifica do IFMG",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  CARVALHO, K. D.,  Organização do Processo Seletivo de professsores",
+                    "ano": "2014",
+                    "duracao_semanas": "4",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  LEMOS, K. D. C.,  TOLEDO, B. S.,  II Maratona Interna de Programação - MIP do IFMG - SJE",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - SJE."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  I Maratona Interna de Programação do IFMG - Campus São João Evangelista",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus São João Evangelista."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  I Seminário de Estudos e Pesquisas em Educação Matemática do Vale do Rio Doce",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus São João Evangelista."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  V Semana de Sistemas de Informação da UNIPAC",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Unipac."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "K. D.,  IV Semana de Sistemas de Informação da UNIPAC",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Unipac."
+                }
+            ]
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Centro Universitário Presidente Antônio Carlos",
-            "periodo": "2006 - 2010",
-            "cargo": "regime parcial, coordenador."
-        },
-        {
-            "empresa": "Centro Universitário Presidente Antônio Carlos",
-            "periodo": "2006 - 2010",
-            "cargo": "Professora, professor, Professora de Algoritmo e Estrutura de Dados, Sistemas de Informação, Interface Homem Maquina,Gestão da Informação, Inteligência Artificial, Calculo Diferencial e Integral I, Calculo Diferencial e Integral ii, Estatistica e Probabilidade, Matematica Discreta.."
-        },
-        {
-            "empresa": "Instituto Presbiteriano Gammon",
-            "periodo": "2008 - 2009",
-            "cargo": "Professora Ensino Fundamental II, professora."
-        },
-        {
-            "empresa": "Escola Estadual José Monteiro",
-            "periodo": "2008 - 2009",
-            "cargo": "Professora de Curso Técnico, professora, Professora dos cursos Tecnicos em Informatica e Gestão e Marketing."
-        },
-        {
-            "empresa": "Núcleo de Ensino Técnico",
-            "periodo": "2002 - 2005",
-            "cargo": "Professora de Curso Técnico, professora, professora de logica de programação, algoritmo e estrutura de dados, linguagem de programação i, planilhas eletrônica, apresentação eletrônica, internet, estatistica, matemática, projetos, informática e modelos de linguagem.."
-        },
-        {
-            "empresa": "Núcleo de Ensino Técnico",
-            "periodo": "2002 - 2005",
-            "cargo": "Regime Parcial, coordenadora."
-        },
-        {
-            "empresa": "Universidade José do Rosário Vellano",
-            "periodo": "2002 - 2002",
-            "cargo": "tutora, professor, tutora de informática, bioestátistica e metodologia científica.."
-        },
-        {
-            "empresa": "Universidade José do Rosário Vellano",
-            "periodo": "2001 - 2002",
-            "cargo": "cpd, administrativo."
-        },
-        {
-            "empresa": "Universidade Vale do Rio Verde de Três Corações",
-            "periodo": "2007 - 2008",
-            "cargo": "aluna, Outro (mestrado)."
-        },
-        {
-            "empresa": "Fundação Educacional Comunitária Formiguense",
-            "periodo": "2002 - 2003",
-            "cargo": "Professor Assistente, Professor."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "1999 - 1999",
-            "cargo": "Estagiária, Estágio Extra Curricular."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "1998 - 1999",
-            "cargo": "Monitora, Monitoria."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "1998 - 1998",
-            "cargo": "Estagiária, Estágio Extra Curricular."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015 - 2016",
-            "cargo": "Diretora de Ensino."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015 - 2016",
-            "cargo": "Diretora Geral Substituta."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015 - 2016",
-            "cargo": "Ordenadora de despesas do IFMG."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015 - 2016",
-            "cargo": "Rol de Responsáveis pela gestão do IFMG."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2010",
-            "cargo": "Professora, Professora de Algoritmo e Estrutura de Dados I e II e Informática Aplicada ao Ensino da Matemática.."
-        }
-    ],
-    "direcao_administracao": ": Núcleo de Ensino Técnico\nNET (2002 - 2005) : Coordenadora Dos Laboratórios De Informática.\nNET (2002 - 2005) : Coordenadora Do Programa De Monitoria.",
-    "ensino": "",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Consciência Negra Do Ifmg - Campus São João Evangelista. Portaria Nº 184, De 04 De Setembro De 2018. (2018 - 2018).\nMembro Da Comissão Responsável Pela Organização E Realização Da Xxiv Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 81, De 10 De Abril De 2018. (2018 - 2018).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria Nº 103, De 27 De Abril De 2018. (2018 - 2019).\nMembro Do Colegiado Da Área De Informática E Administração Do Ifmg-sje. Portaria Nº 047 De 12 De Março De 2018. (2018 - 2019).\nMembro Da Comissão Encarregada De Atualizar O Manual De Normalização De Produção Acadêmica Do Ifmg - Campus São João Evangelista. Portaria Nº 155 De 09 De Outubro De 2017. (2018).\nMembro Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Informática E I Semana Da Administração Do Ifmg - Campus São João Evangelista (2018).\nMembro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação Do Ifmg - Campus São João Evangelista. Portaria Nº 84 De 11 De Abril De 2018 (2018).\nMembro Da Comissão Responsável Pelo Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação Do Ifmg - Campus São João Evangelista. Portaria Nº 021, De 26 De Janeiro De 2017. (2017 - 2018).\nMembro Da Comissão Responsável Pela Elaboração Do Edital Para Seleção De Projetos De Pesquisa, Extensão E Inovação Para O Ano De 2018 Do Ifmg - Campus São João Evangelista. Portaria Nº 223 De 08 De Dezembro De 2017. (2017).\nMembro Da Comissão Responsável Pela Organização Da Confraternização Do Dia Do Servidor E Inauguração Das Obras De Ampliação Do Clube Da Associação Dos Servidores Do Ifmg - Campus São João Evangelista. Portaria Nº 158 De Outubro De 2017. (2017).\nMembro Da Comissão Responsável Pela Organização E Realização Da Ii Semana Da Consciência Negra Do Ifmg - Campus São João Evangelista. Portaria Nº 182 De 14 De Novembro De 2017. (2017).\nMembro Da Comissão Encarregada De Estabelecer Os Critérios Para Concessão De Afastamento De Docentes Para Capacitação Do Ifmg - Campus São João Evangelista (2014).\nMembro Da Comissão De Avaliação De Validação Dos Trabalhos Do Ii Seminário De Integração Acadêmica (2014).\nMembro Da Comissão De Verificação Da Viabilidade De Criação Ou Transferência Do Curso De Sistemas De Informação Para O Periodo Noturno (2014).\nMembro Da Comissão De Verificação Da Viabiliade E Elaboração Do Projeto Pedagógico Do Curso De Pós-graduação Lato Sensu Em Informática Do Ifmg Campus São João Evangelista. (2014).\nMembro Da Comissão Encarregada Do Processo Seletivo Simplificado Para Professor Temporário Do Ifmg - Campus São João Evangelista. Portaria Nº 048 De 17 De Junho De 2014. (2014).\nMembro Da Comissão Responsável Pelo Planfor Do Ifmg - Campus São João Evangelista (2013).\nMembro Do Catcc (2013).\nMembro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Cursos (2013).\nMembro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação (2010).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática (2010 - 2013).\nMembro Do Núcleo Docente Estruturante Do Curso De Sistemas De Informação (2010).\nMembro Do Núcleo Docente Estruturante Do Curso De Licenciatura Em Matemática (2010 - 2013).",
-    "projetos": [
-        {},
-        {
-            "nome": "Programa de análise e recomendação de nutrientes para o solo -",
-            "periodo": "2011 - 2012",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "José Geraldo Sousa Rodrigues",
-                "Welder das Graças Coelho Ramos"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Evangelista -",
-            "periodo": "2011 - 2012",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Michelle Nery",
-                "Daniela Couto de Oliveira"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {
-            "nome": "Software para cálculo do custo de produção para o setor agroindustrial -",
-            "periodo": "2011 - 2012",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Claudineia Gonçalves de Arruda",
-                "Guidson Coelho de Andrade"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {
-            "nome": "Inglesa para termos técnicos de informática -",
-            "periodo": "2011 - 2012",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Mara Izidoro da Silva"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Evangelista -",
-            "periodo": "2014 - 2015",
-            "natureza": "Extensao",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Bruno de Souza Toledo",
-                "Rochele Edenís Miranda",
-                "Kênia Alves Pereira Araújo"
-            ]
-        },
-        {},
-        {
-            "nome": "Sisgranja -",
-            "periodo": "2014 - 2015",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Douglas Nunes de Oliveira",
-                "Jeizilene de Jesus Costa",
-                "José Laureano Barbosa Leite."
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Idade -",
-            "periodo": "2017",
-            "natureza": "Extensao",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Regina Face",
-                "Leonardo Filipe da Silva"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Acadêmicos -",
-            "periodo": "2024 - 2025",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Pedro Henrique Santos"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Científicas -",
-            "periodo": "2024",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Pedro Henrique Santos",
-                "Fabricio Ziviani",
-                "Carlos Alberto Gonçalves",
-                "ADRIANO CARDOSO BARRETO",
-                "Adriana Ferreira da Silva",
-                "Priscila Caneparo dos Anjos",
-                "Flávio Medeiros Mariz",
-                "Flávio Ferreira de Melo",
-                "Ricardo Alexandre dos Santos Araújo",
-                "Silvana Alves de Oliveira",
-                "Samuel Novais Moura Júnior",
-                "Deysiane Farias Pontes",
-                "Jean Carlos Pena Amorim"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Regional -",
-            "periodo": "2024",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Fabricio Ziviani",
-                "Flávio Medeiros Mariz",
-                "Silvana Alves de Oliveira",
-                "Deysiane Farias Pontes",
-                "Marcos Tadeu Simões Piacentini",
-                "Fábio Corrêa",
-                "Frederico César Mafra Pereira",
-                "Christiane de Miranda e Silva Correia",
-                "Helton Júnio da Silva",
-                "Laura Marcela do Carmo Pedroso",
-                "WILLEY RONEY OLIVEIRA MOTTA DA CUNHA",
-                "Ademilson de Assis Dias",
-                "Alexandre Leonardo Simões Piacentini"
-            ],
-            "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,"
-        },
-        {
-            "nome": "Desenvolvimento de ferramenta de conversão de texto em áudio. -",
-            "periodo": "2013 - 2013",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Karina Dutra de Carvalho Lemos",
-                "Daniela Couto de Oliveira"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, F. K. S.;  LEMOS, K. D. C.;  KNOWLEDGE MANAGEMENT AND ORGANIZATIONAL LEARNING AS COMPETITIVE PERFORMANCE FACTORS IN AN ORGANIZATION",
+                "ano": "2023",
+                "periodico": "Revista Social Sciences. ISBN: 27642216   ."
+            },
+            {
+                "autores": "TOLEDO, MARCOS VINÍCIUS DE SOUZA",
+                "titulo": "TOLEDO, BRUNO DE SOUZA;  LEMOS, KARINA DUTRA DE CARVALHO;  REIS NETO, MÁRIO TEIXEIRA;  Comprometimento, liderança e valores como fatores de influência na qualidade de vida em uma empresa de tecnologia da informação / Commitment, leadership and values as factors influencing quality of life in an information technology company",
+                "ano": "2021",
+                "periodico": "Brazilian Applied Science Review. ISBN: 25953621   ."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "TOLEDO, M. V. S.;  LEMOS, K. D. C.;  REIS NETO, M. T.;  O papel do líder na gestão de conflitos afeta o comportamento em uma empresa de ti",
+                "ano": "2021",
+                "periodico": "Brazilian Applied Science Review. ISBN: 25953621   ."
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B. S.;  LEMOS, K. D. C.;  MAIA, L. C. G.;  Software educacional para estudo de Entomologia Básica, utilizando inteligência artificial",
+                "ano": "2020",
+                "periodico": "RISTI (PORTO). ISBN: 16469895   ."
+            },
+            {
+                "autores": "DE SOUZA TOLEDO, MARCOS VINÍCIUS",
+                "titulo": "DE CARVALHO LEMOS, KARINA DUTRA;  DE SOUZA TOLEDO, BRUNO;  GOMES MAIA, LUIZ CLÁUDIO;  Virtual Tutor as an Assistant Technology Tool in Learning English in a School",
+                "ano": "2019",
+                "periodico": "LITERACY INFORMATION AND COMPUTER EDUCATION JOURNAL (LICEJ). ISBN: 20402589   ."
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, B. S.;  TOLEDO, M. V. S.;  O uso de softwares como apoio ao processo de aprendizagem em uma instituição de ensino público federal",
+                "ano": "2018",
+                "periodico": "SODEBRÁS. ISBN: 18093957   ."
+            },
+            {
+                "autores": "SILVA, A. C. A.",
+                "titulo": "KANAZAWA, E. M.;  CARVALHO, K. D.;  KINOSHITA, V. G.;  UCHOA, J. Q.;  LACERDA, W. S.;  SCHINEIDER, B.;  Software para controle de temperatura em estufas",
+                "ano": "2000",
+                "periodico": "INFOCOMP (UFLA). ISBN: 18074545   ."
+            },
+            {
+                "autores": "CHAVES, D. L. M.",
+                "titulo": "CARVALHO, K. D.;  KINOSHITA, V. G.;  Códigos corretores de erro",
+                "ano": "1999",
+                "periodico": "INFOCOMP (UFLA). ISBN: 18074545   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, F",
+                "evento": "K. S.; LEMOS",
+                "local": "K. D. C.; Softwares utilizados como ferramentas pedagógicas na educação. Red Latinoamericana para El Avance de la Ciencia, Cidade do México",
+                "ano": "2022"
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, M",
+                "evento": "V. S.; TOLEDO",
+                "local": "B. S.; Collaborative Information System in Facing Infrastructure Problems in a City. I South Florida Congress of Development, Miami",
+                "ano": "2021"
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; SANTOS",
+                "local": "D. A. T.; FROES, A. P.; ATAIDE, L. G.; TOLEDO, M. V. S.; A Utilização de Softwares na Educação Inclusiva. 1º Latin American Congress of Education, Curitiba",
+                "ano": "2021"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; LEMOS",
+                "local": "K. D. C.; MAIA, L. C. G.; Software educacional para estudo de Entomologia Básica, utilizando inteligência artificial. The 2020 International Conference on Information Technology & Systems, Bogotá",
+                "ano": "2020"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; LEMOS",
+                "local": "K. D. C.; GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO: UMA ANÁLISE A PARTIR DAS CINCO LEIS BIBLIOMÉTRICAS. XX Encontro Nacional de Pesquisa em Ciência da Informação, Santa Catarina",
+                "ano": "2019"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "CARVALHO, K",
+                "evento": "D.; TOLEDO",
+                "local": "B. S.; MAIA, L. C. G.; The Uses of Chatbots in English Language Learning in a Federal Public Education Institution. INTERNATIONAL CONFERENCE ON INFORMATION SOCIETY (I-SOCIETY 2019), Dublin",
+                "ano": "2019"
+            },
+            {
+                "autores": "CARVALHO, K. D.",
+                "titulo": "OLIVEIRA, D",
+                "evento": "C.; Desenvolvimento de ferramenta de conversão de texto em áudio.. II Seminário de Iniciação Científica",
+                "local": "Formiga",
+                "ano": "2013"
+            },
+            {
+                "autores": "CARVALHO, K. D.",
+                "titulo": "OLIVEIRA, D",
+                "evento": "C.; Acessibilidade Web para deficientes visuais no IFMG - Campus SJE. I Seminário de Iniciação Científica",
+                "local": "Ouro Preto",
+                "ano": "2012"
+            },
+            {
+                "autores": "CARVALHO, K. D.",
+                "titulo": "SILVA, M",
+                "evento": "I.; Criação de um dicionário de língua Inglesa para termos técnicos de Informática. I Seminário de Iniciação Científica",
+                "local": "Ouro Preto",
+                "ano": "2012"
+            },
+            {
+                "autores": "CARVALHO, K. D.",
+                "titulo": "RODRIGUES, J",
+                "evento": "G. S.; RAMOS",
+                "local": "W. G. C.; Programa de Analise e Recomendação de nutrientes para o solo. I Seminário de Iniciação Científica, Ouro Preto",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luiz Henrique Bicalho Campos",
+                "titulo": "Desenvolvimento de um sistema de gestão para viveiro de mudas do IFMG-SJE",
+                "ano": "2020",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Cássia Ellen Gonçalves Amaral",
+                "titulo": "Avaliação da eficiência do projeto &quot;Inclusão com a melhor idade&quot; em relação à independência e autossuficiência tecnológica de ex-alunos",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Fábio Henrique Andrade Campos",
+                "titulo": "Tutoria de Introdução a Programação",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Fábio Henrique Andrade Campos",
+                "titulo": "Tutoria Algoritmo e Estrutura de Dados II",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Victor de Pinho Carvalho e Raysson Ornelas de Andrade",
+                "titulo": "O uso da tecnologias da informação na afasia: Avaliação qualitativa",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Paulo Henrique Silva Sena",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Membros da Empresa Júnior",
+                "titulo": "Empresa Júnior do cursos de Sistemas de Informação OneBit",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Raysson Ornelas de Andrade e Victor de Pinho Carvalho",
+                "titulo": "O uso da tecnologia da informação na afasia: Avaliação qualitativa",
+                "ano": "2019",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Afrânio Pereira Fróes e Larissa Gomes Ataíde",
+                "titulo": "O uso de Softwares Educacionais na Educação Inclusiva",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva e Wandrey Matheus da Costa",
+                "titulo": "Estudo e desenvolvimento de um jogo educacional para o estudo de programação básica",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva",
+                "titulo": "Tutoria de Introdução a Programação",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva",
+                "titulo": "Tutoria de Algoritmo e Estrutura de Dados I",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva",
+                "titulo": "Tutoria de Algoritmo e Estrutura de Dados II",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Membros da Empresa Júnior",
+                "titulo": "Empresa Júnior do cursos de Sistemas de Informação OneBit",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Letícia, Laiane, Victor Alves,Fernanda Bruna,Vanderleia",
+                "titulo": "Implantação da informática educativa, através de uma capacitação dos professores da rede municipal de São João Evangelista",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Cássian Ellen, Dayane Costa, João Pedro, José Vicente",
+                "titulo": "Inclusão com a melhor idade",
+                "ano": "2018",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Natan Ramon Machado; Sergio Fernandes Generoso",
+                "titulo": "SOFTWARE PARA TOMADA DE DECISÃO NO MANEJO INTEGRADO DE PRAGAS DO TOMATEIROSOFTWARE PARA TOMADA DE DECISÃO NO MANEJO INTEGRADO DE PRAGAS DO TOMATEIRO",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Hatus Daniel Rocha Costa Feitosa e Hudson Pimenta dos Santos",
+                "titulo": "DESENVOLVIMENTO DE UMA PLATAFORMA PARA APLICAÇÃO DA TÉCNICA DE GAMIFICAÇÃO COMO APOIO A DISCIPLINA DE INTRODUÇÃO A PROGRAMAÇÃO NO IFMG ? CAMPUS SÃO JOÃO EVANGELISTA",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap",
+                "titulo": "Tutoria de Sistemas de Infomação",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Vander Cardoso",
+                "titulo": "Tutoria de Sistemas de Infomação",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Breno Nunes Coelho Pereira da Silva",
+                "titulo": "DESENVOLVIMENTO DE ANIMAÇÕES PARA O AUXILIO DA APRENDIZAGEM NAS DISCIPLINAS DE PROGRAMAÇÃO DO INSTITUTO FEDERAL DE MINAS GERAIS - CAMPUS SÃO JOÃO EVANGELISTA",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Sergio Fernandes Generoso",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Natan Ramon Machado",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Hatus Daniel Rocha Costa Feitosa",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Hudson Pimenta dos Santos",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Membros da Empresa Júnior",
+                "titulo": "Empresa Júnior do cursos de Sistemas de Informação OneBit",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Dayane Costa, Cássia Ellen, José Vicente, Letícia Tavares",
+                "titulo": "Inclusão digital com a melhor idade",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Breno Nunes Coelho Pereira da Silva",
+                "titulo": "DESENVOLVIMENTO DE ANIMAÇÕES PARA O AUXILIO DA APRENDIZAGEM NAS DISCIPLINAS DE PROGRAMAÇÃO DO INSTITUTO FEDERAL DE MINAS GERAIS - CAMPUS SÃO JOÃO EVANGELISTA",
+                "ano": "2017",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Gonçalves da Rocha e Vicente Alves Soares",
+                "titulo": "ESTUDO DA VIABILIDADE DE IMPLANTAÇÃO DA TECNOLOGIA RFID NO CONTROLE DE INVENTÁRIO PATRIMONIAL DO IFMG - CAMPUS SÃO JOÃO EVANGELISTA",
+                "ano": "2016",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Nunes de Oliveira",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Silva, L",
+                "titulo": "F; Sardinha, R.F.C; Camilo, J.P.  Inclusão digital com a melhor idade",
+                "ano": "2016",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Nunes de Oliveira",
+                "titulo": "Adaptações do SISGEAS - Sistema de Gerenciamento de Análise de Solos do IFMG - SJE",
+                "ano": "2016",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Cristian Paulo de Moura Silva",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Hatus Daniel Rocha Costa Feitosa",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Luiz Felipe Antunes Batista",
+                "titulo": "Desenvolvimento de uma ferramenta para identificação de doenças bióticas e abióticas do eucalipto",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Nunes de Oliveira",
+                "titulo": "Análise da viabilidade da utilização da linguagem Python no ensino de programação",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Roberta Caroline Rodrigues Silva / Wellyngton Wander Santos",
+                "titulo": "Desenvolvimento de software ára gerenciamento de restaurante",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Nunes de Oliveira",
+                "titulo": "Oreintação do aluno no Programa Ciência Sem Fronteira",
+                "ano": "2015",
+                "curso": "Bacharel em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+            },
+            {
+                "orientando": "Cristian Paulo de Moura Silva",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Gonçalves da Rocha e Vicente Alves Soares",
+                "titulo": "ESTUDO DA VIABILIDADE DE IMPLANTAÇÃO DA TECNOLOGIA RFID NO CONTROLE DE INVENTÁRIO PATRIMONIAL DO IFMG ? Câmpus SÃO JOÃO EVANGELISTA",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "José Maria Junior/Josiane M",
+                "titulo": "de Queiroz/Irene de A. Mendonça.  Descarte correto do lixo eletrônico",
+                "ano": "2014",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Cristian Paulo de Moura Silva",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2014",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Nunes de Oliveira",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2014",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Gonçalves da Rocha",
+                "titulo": "Oreintação do aluno no Programa Ciência Sem Fronteira",
+                "ano": "2014",
+                "curso": "Bacharel em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+            },
+            {
+                "orientando": "Marcia Miranda Amorim",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2014",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Carolina Pimenta Figueiredo",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2014",
+                "curso": "Técnico em Manuteção e Suporte em Informática",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Iuri da Silva",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2014",
+                "curso": "Técnico em Manuteção e Suporte em Informática",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Paulo Henriquye de Almeida Moura Barbosa",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2014",
+                "curso": "Técnico em Manuteção e Suporte em Informática",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Sabrina Barbara Alves da Silva",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2014",
+                "curso": "Técnico em Manuteção e Suporte em Informática",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Henrique Gonçalves Rocha",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2013",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Tiago Pereira",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2013",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Claudineia Gonçalves Arruda",
+                "titulo": "Estudo de ferramentas para apoio do ensino aprendizagem de algoritmos e estruturas de dados para o IFMG - Campus São João Evangellista",
+                "ano": "2013",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Fernando Elias de Oliveira",
+                "titulo": "Ilação sobre os perfis dos candidatos no processo seletivo do IFMG - Campus São João Evangelista",
+                "ano": "2013",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Jean Cristopher de Oliveira Pinheiro",
+                "titulo": "Sistema de Controle de temperatura e umidade em estufas",
+                "ano": "2013",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Jõao Antonio Almeida Junior",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2012",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "João Deon da Silva Filho",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2012",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Claudineia Gonçalves de Arruda",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2012",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Daniela Couto de Oliveira",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2012",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Ariana Carla Rodrigues Pereira",
+                "titulo": "Tutoria em Sistemas de Informação",
+                "ano": "2011",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "Daiane Roberta Cândido",
+                "titulo": "Estágio Extra Curricular",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Jean Carlos Batista",
+                "titulo": "Estágio Extra Curricular",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Flávia Ries de Souza",
+                "titulo": "Estágio Curricular",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Mateus Silva Pacifico",
+                "titulo": "Estágio Curricular",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Aline Couto Oliveira",
+                "titulo": "Estágio Extra Curricular",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Cibele Almeida Franco",
+                "titulo": "Gerenciador financeiro pessoal para celular",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Ricardo de Paula Pouças",
+                "titulo": "Desenvolvimento de um web site para Unipac e Cemes de Campo Belo utilizando um sistema gerenciador de conteúdo, JOOMLA",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Flávia Reis de Souza",
+                "titulo": "Tecnologia da Informação aplicada a educação",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Mateus Junio Alvarenga",
+                "titulo": "Evolução da Informática em termos de hardware",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Mateus Silva Pacifico",
+                "titulo": "Desenvolvimento de um sistema hipermidia para o municipio de Campo Belo",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Silvonei Rosa",
+                "titulo": "Desenvolvimento de uma aplicação para atender a biblioteca da UNIPAC - Campo Belo",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Junio Fernandes",
+                "titulo": "Análise comparativa de ferramentas de gerencia de testes de software",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Danilo Ribeiro",
+                "titulo": "Sistema informatizado de atendimento à paciente para o centro de saúde de São Franscisco de Paula - MG",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Maria José Lima",
+                "titulo": "Estágio Curricular",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Thiago Paiva Almeida",
+                "titulo": "Estágio Curricular",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Aldrin Leandro Ribeiro",
+                "titulo": "Estágio Extra Curricular",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Marciel Tavares Freire",
+                "titulo": "Sistema on-line para disponibilização de material acadêmico",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "José Esutáquio Isola Neves",
+                "titulo": "Tecnologia na Gestão de Produção Agropecuária: um estudo de caso em um afazanda do municipio de Campo Belo - MG",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Diogo Freire",
+                "titulo": "Segurança de Redes - Inteligência de Rebanho",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Mileni Hosani Ribeiro",
+                "titulo": "Estágio Curricular",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Denilson Silva Lino",
+                "titulo": "Estágio Curricular",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Hudson Langsdorff Mendes",
+                "titulo": "Estágio Curricular",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Aguinaldo Marlon Silva",
+                "titulo": "Estágio Curricular",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            }
+        ]
+    }
 }

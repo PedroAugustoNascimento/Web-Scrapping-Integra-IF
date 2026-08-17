@@ -1,229 +1,685 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Ciências da Computação",
-            "periodo": "2007 - 2009",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "FD-Sensi - Um Detector de Falhas Adaptativo e sua Aplicação a um Sistema Distribuído em Larga Escala",
-            "orientador": "Dorgival Olavo Guedes Neto"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Bacharelado em Ciência da Computação",
-            "periodo": "2003 - 2007",
-            "instituicao": "Universidade Federal de Ouro Preto"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Ouro Preto",
-            "periodo": "2010 - 2010",
-            "cargo": "Pesquisador Científico, Bolsista CNPq SET 6B, Projeto 556008/2009-0 - \"Uma Máquina para Recomendação de Conteúdo, Publicidade e Produtos\"(Mineração de Dados, Sistemas de Recomendação de Conteúdo)."
-        },
-        {
-            "empresa": "Universidade Federal de Ouro Preto",
-            "periodo": "2005 - 2006",
-            "cargo": "Pesquisador Científico, Bolsista do Programa PIP/UFOP, Projeto \"WiMax: Inclusão Digital baseada na Educação e Pesquisa\". Programa PIP 2005-2006 financiado pela UFOP.."
-        },
-        {
-            "empresa": "Universidade Federal de Ouro Preto",
-            "periodo": "2004 - 2005",
-            "cargo": "Pesquisador Científico, Bolsista do CNPq, Projeto \"Metaprogramação: Metodologia para Desenvolvimento de Software\", financiado pelo CNPq.."
-        },
-        {
-            "empresa": "Fundação Universidade de Itaúna",
-            "periodo": "2010 - 2010",
-            "cargo": "Professor Auxiliar, Celetista formal, Ensino, Ciências da Computação e Engenharia Elétrica, Nível: Graduação. Disciplinas ministradas: - Redes de Computadores - Sistemas Operacionais - Algoritmos e Estruturas de Dados I - Algoritmos e Estruturas de Dados II."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2010",
-            "cargo": "Professor EBTT 40h DE (D-403 + RSC-III)."
-        },
-        {
-            "empresa": "FORSCIENCE",
-            "periodo": "2017",
-            "cargo": ", Revisor de periódico, \"A ForScience é um periódico técnico-científico multidisciplinar, com publicação semestral em fluxo contínuo, que publica artigos com pesquisas de qualidade nas áreas de Administração, Contabilidade, Economia, Engenharia Elétrica, Engenharia Civil, Engenharia Mecânica, Ciência da Computação, Ciências Agrárias, Ciências Ambientais, Matemática, Educação e Ensino.\" http://www.forscience.ifmg.edu.br."
-        },
-        {
-            "empresa": "FORSCIENCE",
-            "periodo": "2022",
-            "cargo": ", Membro de corpo editorial, Editor de Seção (área: Ciência da Computação) da Revista ForScience (ISSN: 2318-6356). \"A ForScience é um periódico técnico-científico multidisciplinar, com publicação semestral em fluxo contínuo, que publica artigos com pesquisas de qualidade nas áreas de Administração, Contabilidade, Economia, Engenharia Elétrica, Engenharia Civil, Engenharia Mecânica, Ciência da Computação, Ciências Agrárias, Ciências Ambientais, Matemática, Educação e Ensino.\" http://www.forscience.ifmg.edu.br."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais - Campus Formiga (2018 - 2020) : Coordenador Do Curso Técnico Integrado Em Informática (portaria Nº 131, De 24/08/2018) .\nIFMG - Campus Formiga (2013 - 2015) : Chefe De Gabinete Substituto.\nIFMG - Campus Formiga (2012 - 2014) : Líder De Implantação De Erp Acadêmico No Ifmg Campus Formiga (portaria 369/2012).\nIFMG - Campus Formiga (2011 - 2013) : Coordenador Substituto Dos Cursos Da Área De Computação (portaria 635/2011).",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2012) - Ciência Da Computação.\nOutro (2010) - Técnico Em Informática.\nGraduacao (2010) - Engenharia Elétrica.",
-    "comissoes": ": Instituto Federal Minas Gerais\nPresidente E Membro Do Colegiado Do Curso De Técnico Integrado Em Informática (portaria 176-2018) (2017 - 2020).\nMembro Do Colegiado Do Curso De Bacharelado Em Ciência Da Computação (2014).\nMembro Do Núcleo De Apoio Às Pessoas Com Necessidades Educacionais Específicas - Napne (portaria 002/2010) (2010 - 2011).\nCoordenador Do Núcleo De Apoio Às Pessoas Com Necessidades Educacionais Específicas - Napne (portaria 015/2011) (2010 - 2014).",
-    "projetos": [
-        {},
-        {},
-        {},
-        {
-            "nome": "Torrent legal, segura e com privacidade -",
-            "periodo": "2010 - 2011",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Jéssica Geralda Silva"
+    "campus": "- Campus Formiga",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2007 - 2009",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "FD-Sensi - Um Detector de Falhas Adaptativo e sua Aplicação a um Sistema Distribuído em Larga Escala",
+                "orientador": "Dorgival Olavo Guedes Neto"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciência da Computação",
+                "periodo": "2003 - 2007",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "periodo": "2010 - 2010",
+                "cargo": "Pesquisador Científico, Bolsista CNPq SET 6B, Projeto 556008/2009-0 - \"Uma Máquina para Recomendação de Conteúdo, Publicidade e Produtos\"(Mineração de Dados, Sistemas de Recomendação de Conteúdo)."
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "periodo": "2005 - 2006",
+                "cargo": "Pesquisador Científico, Bolsista do Programa PIP/UFOP, Projeto \"WiMax: Inclusão Digital baseada na Educação e Pesquisa\". Programa PIP 2005-2006 financiado pela UFOP.."
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "periodo": "2004 - 2005",
+                "cargo": "Pesquisador Científico, Bolsista do CNPq, Projeto \"Metaprogramação: Metodologia para Desenvolvimento de Software\", financiado pelo CNPq.."
+            },
+            {
+                "empresa": "Fundação Universidade de Itaúna",
+                "periodo": "2010 - 2010",
+                "cargo": "Professor Auxiliar, Celetista formal, Ensino, Ciências da Computação e Engenharia Elétrica, Nível: Graduação. Disciplinas ministradas: - Redes de Computadores - Sistemas Operacionais - Algoritmos e Estruturas de Dados I - Algoritmos e Estruturas de Dados II."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2010",
+                "cargo": "Professor EBTT 40h DE (D-403 + RSC-III)."
+            },
+            {
+                "empresa": "FORSCIENCE",
+                "periodo": "2017",
+                "cargo": ", Revisor de periódico, \"A ForScience é um periódico técnico-científico multidisciplinar, com publicação semestral em fluxo contínuo, que publica artigos com pesquisas de qualidade nas áreas de Administração, Contabilidade, Economia, Engenharia Elétrica, Engenharia Civil, Engenharia Mecânica, Ciência da Computação, Ciências Agrárias, Ciências Ambientais, Matemática, Educação e Ensino.\" http://www.forscience.ifmg.edu.br."
+            },
+            {
+                "empresa": "FORSCIENCE",
+                "periodo": "2022",
+                "cargo": ", Membro de corpo editorial, Editor de Seção (área: Ciência da Computação) da Revista ForScience (ISSN: 2318-6356). \"A ForScience é um periódico técnico-científico multidisciplinar, com publicação semestral em fluxo contínuo, que publica artigos com pesquisas de qualidade nas áreas de Administração, Contabilidade, Economia, Engenharia Elétrica, Engenharia Civil, Engenharia Mecânica, Ciência da Computação, Ciências Agrárias, Ciências Ambientais, Matemática, Educação e Ensino.\" http://www.forscience.ifmg.edu.br."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais - Campus Formiga (2018 - 2020) : Coordenador Do Curso Técnico Integrado Em Informática (portaria Nº 131, De 24/08/2018) .\nIFMG - Campus Formiga (2013 - 2015) : Chefe De Gabinete Substituto.\nIFMG - Campus Formiga (2012 - 2014) : Líder De Implantação De Erp Acadêmico No Ifmg Campus Formiga (portaria 369/2012).\nIFMG - Campus Formiga (2011 - 2013) : Coordenador Substituto Dos Cursos Da Área De Computação (portaria 635/2011).",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2012) - Ciência Da Computação.\nOutro (2010) - Técnico Em Informática.\nGraduacao (2010) - Engenharia Elétrica.",
+        "comissoes": ": Instituto Federal Minas Gerais\nPresidente E Membro Do Colegiado Do Curso De Técnico Integrado Em Informática (portaria 176-2018) (2017 - 2020).\nMembro Do Colegiado Do Curso De Bacharelado Em Ciência Da Computação (2014).\nMembro Do Núcleo De Apoio Às Pessoas Com Necessidades Educacionais Específicas - Napne (portaria 002/2010) (2010 - 2011).\nCoordenador Do Núcleo De Apoio Às Pessoas Com Necessidades Educacionais Específicas - Napne (portaria 015/2011) (2010 - 2014).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "WiMax: Inclusão Digital baseada na Educação e Pesquisa",
+                "periodo": "2005 - 2006",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Filipe Nunes Ribeiro",
+                    "Vinícius Fernandes Soares Mota",
+                    "Hugo Machado Falcão",
+                    "Carlos Frederico Marcelo da Cunha Cavalcanti",
+                    "Álvaro Sant'Anna Filho"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Universidade Federal de Ouro Preto, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Um Ambiente de Desenvolvimento de Sistemas Distribuídos com Tolerância a Falhas",
+                "periodo": "2006 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Ricardo de Oliveira Duarte",
+                    "Ênio Sebastião da Silva",
+                    "André Mendes Garcia",
+                    "Samuel Evangelista Lima de Oliveira"
+                ],
+                "financiador": "Universidade Federal de Ouro Preto,"
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Metaprogramação: Metodologia para Desenvolvimento de Software",
+                "periodo": "2004 - 2005",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Marcelo de Almeida Maia",
+                    "Denis Pinto Pinheiro",
+                    "Rodrigo Geraldo Ribeiro",
+                    "Ademir Alvarenga de Oliveira",
+                    "Lucília Camarão de Figueiredo",
+                    "Carlos Alberto Marques Pietrobon",
+                    "Elton Jose da Silva",
+                    "José Álvaro Tadeu Ferreira",
+                    "José Américo Trivellato Messias",
+                    "Marcelo Luiz Silva"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Em busca de uma rede BitTorrent legal, segura e com privacidade",
+                "periodo": "2010 - 2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Jéssica Geralda Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais, Campus Formiga,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "PLC: transmissão de dados em banda larga sobre redes de energia elétrica",
+                "periodo": "2012 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Otávio de Souza Martins Gomes",
+                    "Alex Vantuir Silva Vidal",
+                    "Andrey Gustavo de Souza",
+                    "Cleuder Augusto Braga",
+                    "Abrão Júnio de Oliveira"
+                ],
+                "financiador": "Instituto Federal Minas Gerais, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Soluções Técnicas para Sistemas Embarcados - Softwares de Autodiagnóstico e Rede Automotiva",
+                "periodo": "2013 - 2016",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Otávio de Souza Martins Gomes",
+                    "Gustavo Lobato Campos",
+                    "Diego Mello da Silva",
+                    "Rafael Vinicius Tayette da Nobrega",
+                    "Kleber Fernando dos Santos"
+                ],
+                "financiador": "Fiat Automoveis - Matriz, Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise e Melhoramento do Ciclo Produtivo de Cal das Pequenas Empresas Na Região Centro-Oeste de Minas Gerais, Considerando os Aspectos Ambientais e Energéticos",
+                "periodo": "2012 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Ricardo Carrasco Carpio",
+                    "Walter Alves Durão Júnior",
+                    "Vanessa dos Santos Sousa",
+                    "Carlos Antônio Rufino Júnior",
+                    "Leandro de Souza Lemos"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Cluster computacional para implementação de aplicações de computação científica de alto desempenho em ciências e engenharias",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Diego Mello da Silva",
+                    "Rafael Vinicius Tayette da Nobrega",
+                    "Reginaldo Gonçalves Leão Junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Informática Aplicada à Educação",
+                "periodo": "2015 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Regis de Souza Morais",
+                    "Rogelson Deipson Arantes",
+                    "Ricardo José da Fonseca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Informática Aplicada à Educação",
+                "periodo": "2017 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Regis de Souza Morais",
+                    "Evandro da Silveira Loschi",
+                    "Ítalo Haylander Faria Galvão",
+                    "Ricardo José da Fonseca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Interface Reconfigurável para transmissão segura de dados através do barramento CAN",
+                "periodo": "2017 - 2018",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Otávio de Souza Martins Gomes",
+                    "Diego Mello da Silva",
+                    "Rafael Vinicius Tayette da Nobrega",
+                    "Arthur Alexsander Martins Teodoro",
+                    "Saulo Ricardo Dias Fernandes"
+                ],
+                "financiador": "Polo de Inovação Embrapii IFMG,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estruturação de Software para Otimização de Rede CAN Automotiva",
+                "periodo": "2019 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Gustavo Lobato Campos",
+                    "Diego Mello da Silva",
+                    "Júlio César de Melo Cândido"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Caracterização de comunicação na Internet com análise dos nós da rede PlanetLab",
+                "periodo": "2011 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Christiano Eduardo Dutra e Silva",
+                    "Thais Sena Faria"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Instituto Federal Minas Gerais, Campus Formiga,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  Blockchain: um livro de registro para o século XXI",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "VIEIRA",
+                    "titulo": "Samuel Terra,  DUARTE B., Vinicius de Laet,  VALADÃO, E.,  SILVA, D. M.,  NOBREGA, R. V. T.,  GONÇALVES Leão Junior, Reginaldo,  Implantação de um Cluster Computacional Beowulf (Pôster)",
+                    "ano": "2016",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais - Campus Formiga."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  Área de Pesquisa: Sistemas Tolerantes a Falhas",
+                    "ano": "2010",
+                    "instituicao_promotora": "DCC/UIT (Fundação Universidade de Itaúna)."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  GEÇARY, A.,  GUEDES, D. O.,  DUARTE, R. O.,  Medição, análise e modelagem de tempos de ida-e-volta na Internet",
+                    "ano": "2010",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação (SBC)."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  Um Serviço de Detecção Distribuída de Falhas",
+                    "ano": "2009",
+                    "instituicao_promotora": "Programa de Pós Graduação em Ciência da Computação / DCC-UFMG."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  GUEDES, D. O.,  DUARTE, R. O.,  FD-Sensi - Um Detector de Falhas Adaptativo e sua Aplicação a um Sistema Distribuído em Larga Escala",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal de Minas Gerais."
+                },
+                {
+                    "autores": "MOTA",
+                    "titulo": "V. F. S.,  VALADÃO, E.,  Introduzindo Tolerância a Interrupçoes em Redes Ad Hoc Móveis",
+                    "ano": "2008",
+                    "instituicao_promotora": "DCC/UFMG."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  Detecção de Falhas em Sistemas Distribuídos",
+                    "ano": "2008",
+                    "instituicao_promotora": "DECOM / ICEB / UFOP."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  MOTA, V. F. S.,  OLIVEIRA, T. F. O. T.,  PASSOS, W. P. P.,  Comparação de Desempenho de Protocolos de Detecção de Falhas",
+                    "ano": "2008",
+                    "instituicao_promotora": "DCC/UFMG."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  MOTA, V. F. S.,  KOSMINSKY, D.,  Assinaturas de Autenticação de Imagens Utilizando Chaves Assimétricas",
+                    "ano": "2007",
+                    "instituicao_promotora": "DCC/UFMG."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  Wireless Ad Hoc P2P",
+                    "ano": "2007",
+                    "instituicao_promotora": "DCC/UFMG."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  MOTA, V. F. S.,  ARAÚJO, E. F. de M.,  Monitoramento de Agentes SNMP",
+                    "ano": "2007",
+                    "instituicao_promotora": "DCC/UFMG."
+                },
+                {
+                    "autores": "VALADÃO",
+                    "titulo": "E.,  MOTA, V. F. S.,  Avaliação de Desempenho de Aplicações Paralelizadas com Anthill numa Infra-estrutura de Comunicação Infiniband",
+                    "ano": "2007",
+                    "instituicao_promotora": "DCC/UFMG."
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais, Campus Formiga,"
-        },
-        {},
-        {},
-        {
-            "nome": "C: transmissão de dados em banda larga sobre redes de energia elétrica -",
-            "periodo": "2012 - 2013",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Otávio de Souza Martins Gomes",
-                "Alex Vantuir Silva Vidal",
-                "Andrey Gustavo de Souza",
-                "Cleuder Augusto Braga",
-                "Abrão Júnio de Oliveira"
+            "cursos_curta_duracao": [
+                {
+                    "autor": "VALADÃO",
+                    "curso": "E.,  Shell Script e o Canivete Suíço de Comandos no GNU-Linux",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "VALADÃO",
+                    "curso": "E.,  Introdução ao Linux e LibreOffice",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "VALADÃO",
+                    "curso": "E.,  RODRIGUES, W. A.,  Matemática Discreta",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "VALADÃO",
+                    "curso": "E.,  WEB utilizando o gerenciador de conteúdo Joomla",
+                    "ano": "2010"
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Automotiva -",
-            "periodo": "2013 - 2016",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Otávio de Souza Martins Gomes",
-                "Gustavo Lobato Campos",
-                "Diego Mello da Silva",
-                "Rafael Vinicius Tayette da Nobrega",
-                "Kleber Fernando dos Santos"
-            ],
-            "financiador": "Fiat Automoveis - Matriz, Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Energéticos -",
-            "periodo": "2012 - 2015",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Ricardo Carrasco Carpio",
-                "Walter Alves Durão Júnior",
-                "Vanessa dos Santos Sousa",
-                "Carlos Antônio Rufino Júnior",
-                "Leandro de Souza Lemos"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {
-            "nome": "Educação -",
-            "periodo": "2015 - 2016",
-            "natureza": "Extensao",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Regis de Souza Morais",
-                "Rogelson Deipson Arantes",
-                "Ricardo José da Fonseca"
+            "organizacao_eventos": [
+                {
+                    "autores": "CARPIO",
+                    "evento": "R. C.,  REZENDE, D. F. G.,  GOMES, O. S. M.,  OLIVEIRA, M. L. R.,  VALADÃO, E.,  ABREU, A. A.,  FERREIRA, A. C.,  OLIVEIRA, P. S.,  MENEGHINI, I. R.,  IV Jornada de Educação, Ciência e Tecnologia do IFMG Campus Formiga (JECT)",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus Formiga."
+                },
+                {
+                    "autores": "CARPIO",
+                    "evento": "R. C.,  VALADÃO, E.,  ANDRADE, L. P.,  SANTOS, C. R. B.,  RODRIGUES, W. A.,  I Workshop de Inovação Tecnológica do Centro-Oeste Mineiro (WITCOM)",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus Formiga."
+                },
+                {
+                    "autores": "CARPIO",
+                    "evento": "R. C.,  VALADÃO, E.,  REZENDE, D. F. G.,  SOUSA JUNIOR, F.,  FERREIRA, A. C.,  III Jornada de Educação, Ciência e Tecnologia do IFMG Campus Formiga (JECT)",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus Formiga."
+                }
             ]
-        },
-        {
-            "nome": "Cluster computacional para implementação de aplicações de computação científica de alto desempenho em ciências e engenharias -",
-            "periodo": "2015 - 2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Diego Mello da Silva",
-                "Rafael Vinicius Tayette da Nobrega",
-                "Reginaldo Gonçalves Leão Junior"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "Educação -",
-            "periodo": "2017 - 2018",
-            "natureza": "Extensao",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Regis de Souza Morais",
-                "Evandro da Silveira Loschi",
-                "Ítalo Haylander Faria Galvão",
-                "Ricardo José da Fonseca"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "N -",
-            "periodo": "2017 - 2018",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Otávio de Souza Martins Gomes",
-                "Diego Mello da Silva",
-                "Rafael Vinicius Tayette da Nobrega",
-                "Arthur Alexsander Martins Teodoro",
-                "Saulo Ricardo Dias Fernandes"
-            ],
-            "financiador": "Polo de Inovação Embrapii IFMG,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Automotiva -",
-            "periodo": "2019 - 2019",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Gustavo Lobato Campos",
-                "Diego Mello da Silva",
-                "Júlio César de Melo Cândido"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Lab -",
-            "periodo": "2011 - 2013",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Everthon Valadão dos Santos",
-                "Christiano Eduardo Dutra e Silva",
-                "Thais Sena Faria"
-            ],
-            "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Instituto Federal Minas Gerais, Campus Formiga,"
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CIMINO, LEONARDO DE SOUZA",
+                "titulo": "DOS SANTOS, EVERTHON VALADÃO;  DE CARVALHO, LÍLIAN AMARAL;  Análise do desempenho acadêmico entre alunos cotistas e não cotistas do IFMG - campus Congonhas e Formiga",
+                "ano": "2022",
+                "periodico": "DIALOGIA. ISBN: 19839294   ."
+            },
+            {
+                "autores": "VALADÃO, E.",
+                "titulo": "GUEDES, D. O.;  DUARTE, R. O.;  Caracterização de tempos de ida-e-volta na Internet",
+                "ano": "2010",
+                "periodico": "Revista Brasileira de Redes de Computadores e Sistemas Distribuídos. ISBN: 19834217   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "VIEIRA, Samuel Terra",
+                "titulo": "VALADAO, EVERTHON; RODRIGUEZ, DEMOSTENES Z",
+                "evento": "; ROSA",
+                "local": "RENATA L.; Wireless Access Point Positioning Optimization. 2019 International Conference on Software, Telecommunications and Computer Networks (SoftCOM), Split",
+                "ano": "2019"
+            },
+            {
+                "autores": "MILITANI, DAVI",
+                "titulo": "VIEIRA, SAMUEL; VALADAO, EVERTHON; NELES, KATIA; ROSA, RENATA; RODRIGUEZ, DEMOSTENES Z",
+                "evento": "; A Machine Learning Model to Resource Allocation Service for Access Point on Wireless Network. 2019 International Conference on Software",
+                "local": "Telecommunications and Computer Networks (SoftCOM), Split",
+                "ano": "2019"
+            },
+            {
+                "autores": "CANDIDO, J. C. M.",
+                "titulo": "VALADÃO, E",
+                "evento": "; SILVA",
+                "local": "D. M.; CAMPOS, G. L.; Um simulador para análise de desempenho de redes veiculares com barramento Canbus. III Seminário de Pesquisa e Inovação da IX Jornada de Educação, Ciência e Tecnologia (JECT) do IFMG - Campus Formiga, Formiga, MG",
+                "ano": "2019"
+            },
+            {
+                "autores": "NUNES, W. H. B.",
+                "titulo": "VALADÃO, E",
+                "evento": "; Alocação de Horários Escolares com Abordagem Heurística de Coloração de Grafos. II Seminário de Pesquisa e Inovação da VIII Jornada de Educação",
+                "local": "Ciência e Tecnologia (JECT) do IFMG - Campus Formiga, Formiga, MG",
+                "ano": "2018"
+            },
+            {
+                "autores": "VIEIRA, Samuel Terra",
+                "titulo": "DUARTE B",
+                "evento": ", Vinicius de Laet; VALADÃO",
+                "local": "E.; SILVA, D. M.; NOBREGA, R. V. T.; GONÇALVES Leão Junior, Reginaldo; Implantação de um Cluster Computacional Beowulf. V Seminário de Iniciação Científica do Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, Bambuí / MG",
+                "ano": "2016"
+            },
+            {
+                "autores": "OLIVEIRA, A. J.",
+                "titulo": "VIDAL, A",
+                "evento": "V. S.; SOUZA",
+                "local": "A. G.; BRAGA, C. A.; VALADÃO, E.; Desempenho de uma rede doméstica HomePlug (IEEE 1901) sob interferências elétricas. II Seminário de Iniciação Científica do Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, Formiga, MG",
+                "ano": "2013"
+            },
+            {
+                "autores": "FARIA, T. S.",
+                "titulo": "VALADÃO, E",
+                "evento": "; Caracterização de comunicação na Internet: coleta de um trace de comunicação na rede PlanetLab. II Seminário de Iniciação Científica do Instituto Federal de Educação",
+                "local": "Ciência e Tecnologia de Minas Gerais, Formiga, MG",
+                "ano": "2013"
+            },
+            {
+                "autores": "SILVA, C. E. D. E.",
+                "titulo": "VALADÃO, E",
+                "evento": "; Caracterização de comunicação na Internet com análise das rotas utilizadas pelos nós da rede PlanetLab. 1º Seminário de Iniciação Científica do Instituto Federal de Educação",
+                "local": "Ciência e Tecnologia de Minas Gerais, Ouro Preto, MG",
+                "ano": "2012"
+            },
+            {
+                "autores": "SILVA, J. G.",
+                "titulo": "VALADÃO, E",
+                "evento": "; Em busca de uma rede BitTorrent legal",
+                "local": "segura e com privacidade. III Jornada de Educação, Ciência e Tecnologia do IFMG Campus Formiga e do I Workshop de Inovação Tecnológica do Centro Oeste Mineiro, Formiga, MG",
+                "ano": "2011"
+            },
+            {
+                "autores": "VALADÃO, E.",
+                "titulo": "SILVA, T",
+                "evento": "H.; GEÇARY",
+                "local": "A.; GUEDES, D. O.; DUARTE, R. O.; Medição, análise e modelagem de tempos de ida-e-volta na Internet. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Gramado, RS",
+                "ano": "2010"
+            },
+            {
+                "autores": "SILVA, T. H.",
+                "titulo": "MOTA, V",
+                "evento": "F. S.; VALADÃO",
+                "local": "E.; ALMEIDA, J.; GUEDES, D. O.; Caracterização do Comportamento dos Espectadores em Transmissões de Vídeo ao Vivo Geradas por Usuários. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Recife",
+                "ano": "2009"
+            },
+            {
+                "autores": "VALADÃO, E.",
+                "titulo": "RIBEIRO, F",
+                "evento": "N.; Wi-MAX ? Rede sem fio de alta-velocidade com Qualidade de Serviço. Seminário de Iniciação Científica da Universidade Federal de Ouro Preto",
+                "local": "Ouro Preto",
+                "ano": "2006"
+            },
+            {
+                "autores": "RIBEIRO, F. N.",
+                "titulo": "VALADÃO, E",
+                "evento": "; Traffic Analyzer ? Uma Ferramenta para Análise de Redes IP com Qualidade de Serviço. Seminário de Iniciação Científica da Universidade Federal de Ouro Preto",
+                "local": "Ouro Preto",
+                "ano": "2006"
+            },
+            {
+                "autores": "VALADÃO, E.",
+                "titulo": "Desenvolvimento de um Ambiente de Desenvolvimento de Software Baseado em MDA?s e Programação Gerativa",
+                "evento": "Seminário de Iniciação Científica da Universidade Federal de Ouro Preto",
+                "local": "Ouro Preto",
+                "ano": "2005"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "João Geraldo Borges Sales",
+                "titulo": "O uso do NSGA-II para maximizar o lucro e a distribuição dos recursos entre apostas esportivas",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Bruna Cristina Mendes",
+                "titulo": "Filtragem Híbrida para Sistema de Recomendação de Livros Utilizando Redes Neurais",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Mateus Menezes Silva",
+                "titulo": "Utilização da heurística NSGA-II na otimização das rotas de coleta de lixo, aplicada às cidades mineiras de Formiga e Lagoa da Prata",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Thomas do Vale",
+                "titulo": "Ferramenta de aferição periódica e automatizada de métricas da qualidade de serviço da conexão residencial à internet",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Mateus Francisco Vieira Soares",
+                "titulo": "Otimização da quantidade e do posicionamento de pontos de acesso utilizando NSGA-II",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Thales Otávio Ribeiro Pinto",
+                "titulo": "Um Escalonador de Processos Adaptativo Baseado no Round-robin e Otimizado com NSGA-II",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Renato Lucas Silva",
+                "titulo": "Protótipo para prevenção ao abigeato com abordagem de Smart Farming",
+                "ano": "2020",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Saulo Ricardo Dias Fernandes",
+                "titulo": "Software para Automatização do Projeto de Redes Ópticas Passivas",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rodrigo Cezar Silveira",
+                "titulo": "Análise de Arquiteturas de Redes Neurais Convolucionais para Classificação de Sinais de Trânsito",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rafael Breno Rocha Reis",
+                "titulo": "Um Sistema de Arquivo para Dispositivos de Armazenamento com Acesso Aleatório",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Júlio César de Melo Cândido",
+                "titulo": "Um Analisador de Desempenho para Simulador de Rede Veicular CANbus",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Wesley Henrique Batista Nunes",
+                "titulo": "Alocação de Horário Escolares com Abordagem Heurística de Coloração de Grafos",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Samuel Terra Vieira",
+                "titulo": "Otimização do posicionamento de pontos de acesso wireless",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Vinícius de Laet Duarte Batista",
+                "titulo": "Desenvolvimento de um software para avaliação dos sinais wi-fi em um campus",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Renan Airton Batista Ribeiro",
+                "titulo": "Estratégia para multiplexação de pacotes can em quadros ethernet para redes veiculares",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Matheus Faria Calixto",
+                "titulo": "Pentest na infraestrutura de TI do IFMG utilizando softwares open source",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Vinicius de Laet Duarte Batista",
+                "titulo": "Cluster computacional para implementação de aplicações de computação científica de alto desempenho em ciências e engenharias",
+                "ano": "2016",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Sávio Cardoso Caetano",
+                "titulo": "Um Protótipo para Disseminação de Eventos Rodoviários",
+                "ano": "2016",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Samuel Terra Vieira",
+                "titulo": "Cluster computacional para implementação de aplicações de computação científica de alto desempenho em ciências e engenharias",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Alex Vantuir Silva Vidal",
+                "titulo": "PLC: transmissão de dados em banda larga sobre redes de energia elétrica",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Andrey Gustavo de Souza",
+                "titulo": "PLC: transmissão de dados em banda larga sobre redes de energia elétrica",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Cleuder Augusto Braga",
+                "titulo": "PLC: transmissão de dados em banda larga sobre redes de energia elétrica",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Abrão Júnio de Oliveira",
+                "titulo": "PLC: transmissão de dados em banda larga sobre redes de energia elétrica",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Christiano Eduardo Dutra e Silva",
+                "titulo": "Caracterização de comunicação na Internet com análise das rotas utilizadas pelos nós da rede PlanetLab",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Thais Sena Faria",
+                "titulo": "Caracterização de tempos de ida-e-volta na Internet",
+                "ano": "2011",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais, Campus Formiga"
+            },
+            {
+                "orientando": "Christiano Eduardo Dutra e Silva",
+                "titulo": "Caracterização de tempos de ida-e-volta na Internet (PIBITI)",
+                "ano": "2011",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais, Campus Formiga"
+            },
+            {
+                "orientando": "Jéssica Geralda Silva",
+                "titulo": "Em busca de uma rede BitTorrent legal, segura e com privacidade",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

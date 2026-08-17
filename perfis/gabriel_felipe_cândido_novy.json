@@ -1,326 +1,355 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Informática",
-            "periodo": "2010 - 2013",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
-            "titulo": "Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio",
-            "orientador": "Raquel Aparecida de Freitas Mini"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2006 - 2010",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2014 - 2014",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2014 - 2014",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2012 - 2012",
-            "cargo": "Professor Auxiliar I, Ministrar minicurso sobre a Maratona de Programação na disciplina de Seminário do curso de Ciência da Computação.."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2010 - 2010",
-            "cargo": "Estagiário, Estágio, Desenvolvimento WEB em HTML através do CMS Made Simple.."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2010 - 2012",
-            "cargo": "Bolsista, Bolsista, Bolsista pelo CNPq no Mestrado em Informática da PUC Minas.."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2008 - 2009",
-            "cargo": "Iniciação Científica, Bolsista."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2008 - 2008",
-            "cargo": "Monitor de Algritmos e Estruturas de Dados II, Bolsista."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2007 - 2007",
-            "cargo": "Monitor de Geometria Analítica e Álgebra Line, Bolsista."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2007 - 2007",
-            "cargo": "Monitor de Geometria Analítica e Álgebra Line, Bolsista."
-        },
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2007 - 2007",
-            "cargo": "Monitor de Algritmos e Estruturas de Dados II, Bolsista."
-        },
-        {
-            "empresa": "Colégio e Faculdade COTEMIG",
-            "periodo": "2013 - 2013",
-            "cargo": "Professor de Programação Orientada a Objetos."
-        },
-        {
-            "empresa": "Colégio e Faculdade COTEMIG",
-            "periodo": "2012 - 2013",
-            "cargo": "Professor de Análise e Desenvolvimento de Sis."
-        },
-        {
-            "empresa": "METALSOFT SISTEMAS DE GESTÃO",
-            "periodo": "2010 - 2010",
-            "cargo": "Analista/Desenvolvedor C#, Analista/Desenvolvedor C# de sistemas de gestão para empresas do setor de metalurgia.."
-        },
-        {
-            "empresa": "Ação Faça Uma Família Sorrir",
-            "periodo": "2011 - 2012",
-            "cargo": "Professor Voluntário, Voluntariado, Elaboração e execução do curso de Informática nas Nuvens para adolescentes carentes.."
-        },
-        {
-            "empresa": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
-            "periodo": "2013 - 2014",
-            "cargo": "Pesquisador, Bolsista, Desenvolver e implantar o Sistema de Gerenciamento de Arquivo Histórico DoReMi na instituição Fundação de Educação Artística (FEA).."
-        },
-        {
-            "empresa": "Universidade FUMEC",
-            "periodo": "2015 - 2015",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015",
-            "cargo": "Professor Assistente A."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2015) - Sistemas De Informação.\nGraduacao (2015) - Logística.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Sabarense -",
-            "periodo": "2015",
-            "natureza": "Extensao",
-            "equipe": [
-                "Gabriel Felipe Cândido Novy",
-                "Cristiane Norbiato Targa"
+    "campus": "- Campus Sabará",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Informática",
+                "periodo": "2010 - 2013",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+                "titulo": "Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio",
+                "orientador": "Raquel Aparecida de Freitas Mini"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2006 - 2010",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2014 - 2014",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2014 - 2014",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2012 - 2012",
+                "cargo": "Professor Auxiliar I, Ministrar minicurso sobre a Maratona de Programação na disciplina de Seminário do curso de Ciência da Computação.."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2010 - 2010",
+                "cargo": "Estagiário, Estágio, Desenvolvimento WEB em HTML através do CMS Made Simple.."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2010 - 2012",
+                "cargo": "Bolsista, Bolsista, Bolsista pelo CNPq no Mestrado em Informática da PUC Minas.."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2008 - 2009",
+                "cargo": "Iniciação Científica, Bolsista."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitor de Algritmos e Estruturas de Dados II, Bolsista."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2007 - 2007",
+                "cargo": "Monitor de Geometria Analítica e Álgebra Line, Bolsista."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2007 - 2007",
+                "cargo": "Monitor de Geometria Analítica e Álgebra Line, Bolsista."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2007 - 2007",
+                "cargo": "Monitor de Algritmos e Estruturas de Dados II, Bolsista."
+            },
+            {
+                "empresa": "Colégio e Faculdade COTEMIG",
+                "periodo": "2013 - 2013",
+                "cargo": "Professor de Programação Orientada a Objetos."
+            },
+            {
+                "empresa": "Colégio e Faculdade COTEMIG",
+                "periodo": "2012 - 2013",
+                "cargo": "Professor de Análise e Desenvolvimento de Sis."
+            },
+            {
+                "empresa": "METALSOFT SISTEMAS DE GESTÃO",
+                "periodo": "2010 - 2010",
+                "cargo": "Analista/Desenvolvedor C#, Analista/Desenvolvedor C# de sistemas de gestão para empresas do setor de metalurgia.."
+            },
+            {
+                "empresa": "Ação Faça Uma Família Sorrir",
+                "periodo": "2011 - 2012",
+                "cargo": "Professor Voluntário, Voluntariado, Elaboração e execução do curso de Informática nas Nuvens para adolescentes carentes.."
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+                "periodo": "2013 - 2014",
+                "cargo": "Pesquisador, Bolsista, Desenvolver e implantar o Sistema de Gerenciamento de Arquivo Histórico DoReMi na instituição Fundação de Educação Artística (FEA).."
+            },
+            {
+                "empresa": "Universidade FUMEC",
+                "periodo": "2015 - 2015",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015",
+                "cargo": "Professor Assistente A."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2015) - Sistemas De Informação.\nGraduacao (2015) - Logística.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+                "nome": "Infra-estruturas de informação espacial: acesso móvel e distribuído a múltiplas fontes de informação",
+                "periodo": "2008 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy",
+                    "Anna izabel Joao Tostes Ribeiro",
+                    "Fatima de Lima Procopio Duarte-Figueiredo"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Pontifícia Universidade Católica de Minas Gerais, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+                "nome": "Caminhos da música em Belo Horizonte: o Papel da Fundação de Educação Artística",
+                "periodo": "2013",
+                "natureza": "Pesquisa.",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy",
+                    "Fatima de Lima Procopio Duarte-Figueirede",
+                    "Cleia Marcia Gomes Amaral",
+                    "Simone de Assis Alves da Silva",
+                    "Mayza Antônia de Barros Leão",
+                    "Celsiane Aline Vieira Araujo",
+                    "Madalena Martins de Araujo",
+                    "Ana Maria Pereira Cardoso"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "ConectivIDADE: uma ação voltada à inclusão social e digital para terceira idade Sabarense",
+                "periodo": "2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy",
+                    "Cristiane Norbiato Targa"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "AVALIAÇÃO DO CRESCIMENTO URBANO DE SABARÁ ATRAVÉS DE IMAGENS DE SATÉLITE E REDES NEURAIS",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy",
+                    "Bruna Azevedo Guimarães Santos"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de Ensino - Lixo Eletrônico",
+                "periodo": "2017 - 2017",
+                "natureza": "Outra",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy",
+                    "Sabrina Sá e Sant'anna dos Santos",
+                    "Jamile Lehaus Detoni Cipriano",
+                    "Raquel Aparecida Soares Reis Franco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de Ensino - PROJETO INTELIGÊNCIA, PENSAMENTO E ARTE",
+                "periodo": "2017 - 2017",
+                "natureza": "Outra",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy",
+                    "Cristiane Norbiato Targa",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Carlos Alberto Severiano Junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de Ensino - FLIPERAMA",
+                "periodo": "2017 - 2017",
+                "natureza": "Outra",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "PROJETO INTELIGÊNCIA, PENSAMENTO E ARTE",
+                "periodo": "2016 - 2018",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "NOVY",
+                    "software": "G. F. C.;NOVY, GABRIEL,  DoReMI - Documentação para Registro da Memória Institucional",
+                    "ano": "2014",
+                    "finalidade": "Sistema para registro de documentos históricos da Fundação de Educação Artística (FEA)."
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "S -",
-            "periodo": "2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Gabriel Felipe Cândido Novy",
-                "Bruna Azevedo Guimarães Santos"
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "NOVY",
+                    "titulo": "G. F. C.;NOVY, GABRIEL,  DUARTE-FIGUEIREDO, F. L. P.,  Simulações e Análise de Um Jogo em redes Wi-Fi",
+                    "ano": "2010",
+                    "instituicao_promotora": "PUC Minas."
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Eletrônico -",
-            "periodo": "2017 - 2017",
-            "natureza": "Outra",
-            "equipe": [
-                "Gabriel Felipe Cândido Novy",
-                "Sabrina Sá e Sant'anna dos Santos",
-                "Jamile Lehaus Detoni Cipriano",
-                "Raquel Aparecida Soares Reis Franco"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "E -",
-            "periodo": "2017 - 2017",
-            "natureza": "Outra",
-            "equipe": [
-                "Gabriel Felipe Cândido Novy",
-                "Cristiane Norbiato Targa",
-                "Daniel Bruno Fernandes Conrado",
-                "Carlos Alberto Severiano Junior"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "A -",
-            "periodo": "2017 - 2017",
-            "natureza": "Outra",
-            "equipe": [
-                "Gabriel Felipe Cândido Novy"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "E -",
-            "periodo": "2016 - 2018",
-            "natureza": "Ensino",
-            "equipe": [
-                "Gabriel Felipe Cândido Novy"
+            "cursos_curta_duracao": [
+                {
+                    "autor": "NOVY",
+                    "curso": "G. F. C.,  Manutenção Preventiva de Computadores",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "NOVY",
+                    "curso": "G. F. C.,  Utilização de Ferramentas Google para Aumento de Produtividade",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "Rocha",
+                    "curso": "D. N.,  NOVY, G. F. C.,  Manutenção de Elevadores",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "NOVY",
+                    "curso": "G. F. C.,  Utilização de Ferramentas Google para Aumento de Produtividade",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "NOVY",
+                    "curso": "G. F. C.;NOVY, GABRIEL,  Introdução a MVC 4",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "NOVY",
+                    "curso": "G. F. C.;NOVY, GABRIEL,  Wireshark: uma ferramenta para auxílio em Gerência de Redes",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "NOVY",
+                    "curso": "G. F. C.;NOVY, GABRIEL,  Analisador de Tráfego de Rede - Wireshark",
+                    "ano": "2013"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "TARGA",
+                    "evento": "C. N.,  CONRADO, D. B. F.,  NOVY, G. F. C.,  EATI 2019 - Encontro Anual de Tecnologia da Informação",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "TARGA",
+                    "evento": "C. N.,  CONRADO, D. B. F.,  NOVY, G. F. C.,  EATI 2018 - Encontro Anual de Tecnologia da Informação",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "TARGA",
+                    "evento": "C. N.,  NOVY, G. F. C.,  EATI 2017 - Encontro Anual de Tecnologia da Informação",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG campus Sabará."
+                },
+                {
+                    "autores": "TARGA",
+                    "evento": "C. N.,  NOVY, G. F. C.,  EATI 2016 - Encontro Anual de Tecnologia da Informação",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG campus Sabará."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "NOVY, G. F. C.",
+                "titulo": "NOVY, GABRIEL;  MACHADO, M. V.;  DUARTE-FIGUEIREDO, F. L. P.;  MINI, R. A. F.;  A Hybrid Sender and Receiver-based Routing Protocol for Wireless Sensor Networks",
+                "ano": "2015",
+                "periodico": "Journal of Applied Computing Research. ISBN: 22368434   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "NOVY, G. F. C.",
+                "titulo": "NOVY, GABRIEL; MACHADO, M",
+                "evento": "V.; DUARTE-FIGUEIREDO",
+                "local": "F. L. P.; MINI, R. A. F.; Protocolo de Roteamento Híbrido Baseado em Emissor e em Receptor para Redes de Sensores Sem Fio. XXXIV Congresso da Sociedade Brasileira de Computação, Brasília",
+                "ano": "2014"
+            },
+            {
+                "autores": "NOVY, G. F. C.",
+                "titulo": "NOVY, GABRIEL; ALVES, C",
+                "evento": "M.; DUARTE-FIGUEIREDO",
+                "local": "F. L. P.; Modelo de Simulação de Tráfego de um Jogo em Redes Sem Fio.. 31o Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Brasília",
+                "ano": "2013"
+            },
+            {
+                "autores": "TOSTES, A. I. J.",
+                "titulo": "DUARTE-FIGUEIREDO, F",
+                "evento": "L. P.; NOVY",
+                "local": "G. F. C.;NOVY, GABRIEL; ZÁRATE, L. E.; Controle de Admissão Neural para Simulação de Grandes Cenários em Redes 3G UMTS. XIV Workshop de Gerência e Operação de Redes e Serviços (WGRS/SBRC), Recife",
+                "ano": "2009"
+            },
+            {
+                "autores": "TOSTES, A. I. J.",
+                "titulo": "DUARTE-FIGUEIREDO, F",
+                "evento": "L. P.; NOVY",
+                "local": "G. F. C.;NOVY, GABRIEL; STORCK, C.; ZÁRATE, L. E.; An Artificial Neural Network Approach for Mechanisms of Call Admission Control in UMTS 3G Networks. Hybrid Intelligent Systems, 2008. HIS '08. Eighth International Conference on, barcelona",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Bruna Azevedo Guimarães Santos",
+                "titulo": "AVALIAÇÃO DO CRESCIMENTO URBANO DE SABARÁ ATRAVÉS DE IMAGENS DE SATÉLITE E REDES NEURAIS",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Pereira de Azevedo",
+                "titulo": "APLICAÇÃO DE REDES NEURAIS ARTIFICIAIS NO PROCESSO DE CLASSIFICAÇÃO DE ORQUÍDEAS DO GÊNERO CATTLEYA",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

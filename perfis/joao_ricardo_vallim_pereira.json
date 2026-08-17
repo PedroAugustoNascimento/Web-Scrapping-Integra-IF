@@ -1,274 +1,241 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Física",
-            "periodo": "2018 - 2024",
-            "instituicao": "Universidade Federal de Mato Grosso",
-            "titulo": "Bound States in the Continuum (BIC) and Kink Deformation in a Modified Toda Model Coupled to Fermion",
-            "orientador": "Harold Sócrates Blas Achic"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Física",
-            "periodo": "2010 - 2013",
-            "instituicao": "Universidade Federal de Mato Grosso",
-            "titulo": "Transições de Fase do Modelo de Ising Ferrimagnético com Anisotropias Aleatórias",
-            "orientador": "Maurício Godoy"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Profissionalizante PROFMAT",
-            "periodo": "2016 - 2018",
-            "instituicao": "Universidade do Estado de Mato Grosso",
-            "titulo": "Sequências e Séries Numéricas - Elementos Iniciais para Abordagem no Ensino Médio",
-            "orientador": "Rogério dos Reis Gonçalves"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Análise e Desenvolvimento de Sistemas",
-            "periodo": "2021 - 2023",
-            "instituicao": "SOCIEDADE DE ENSINO SUPERIOR ESTACIO RIBEIRAO PRETO LTDA"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Matemática Licenciatura",
-            "periodo": "1998 - 2003",
-            "instituicao": "Universidade Federal de Minas Gerais"
+    "campus": "- Campus Sabará",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Física",
+                "periodo": "2018 - 2024",
+                "instituicao": "Universidade Federal de Mato Grosso",
+                "titulo": "Bound States in the Continuum (BIC) and Kink Deformation in a Modified Toda Model Coupled to Fermion",
+                "orientador": "Harold Sócrates Blas Achic"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Física",
+                "periodo": "2010 - 2013",
+                "instituicao": "Universidade Federal de Mato Grosso",
+                "titulo": "Transições de Fase do Modelo de Ising Ferrimagnético com Anisotropias Aleatórias",
+                "orientador": "Maurício Godoy"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante PROFMAT",
+                "periodo": "2016 - 2018",
+                "instituicao": "Universidade do Estado de Mato Grosso",
+                "titulo": "Sequências e Séries Numéricas - Elementos Iniciais para Abordagem no Ensino Médio",
+                "orientador": "Rogério dos Reis Gonçalves"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "periodo": "2021 - 2023",
+                "instituicao": "SOCIEDADE DE ENSINO SUPERIOR ESTACIO RIBEIRAO PRETO LTDA"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática Licenciatura",
+                "periodo": "1998 - 2003",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "SECRETARIA DE ESTADO DE EDUCAÇÃO DE MINAS GERAIS",
+                "periodo": "1999 - 2006",
+                "cargo": "Professor do Ensino Médio, Servidor público, Ministrando aulas de Matemática, Física e Química. Professor Contratado de 01/1999 até 12/2004, Professor Efetivo de 01/2005 até 08/2006."
+            },
+            {
+                "empresa": "Colégio Coração de Jesus",
+                "periodo": "2012 - 2012",
+                "cargo": "Professor, Professor de Matemática do Ensino Médio."
+            },
+            {
+                "empresa": "Colégio Santo Antônio",
+                "periodo": "2012 - 2012",
+                "cargo": "Professor, Substituto."
+            },
+            {
+                "empresa": "Escola Presbiteriana de Cuiabá",
+                "periodo": "2012 - 2012",
+                "cargo": "Professor, Temporário."
+            },
+            {
+                "empresa": "COLÉGIO ADVENTISTA CENTRO AMÉRICA",
+                "periodo": "2012 - 2013",
+                "cargo": "Professor Aulista."
+            },
+            {
+                "empresa": "Colégio Maxi",
+                "periodo": "2013 - 2013",
+                "cargo": "Aulista, Professor de Matemática Ensino Fundamental."
+            },
+            {
+                "empresa": "Universidade de Cuiabá",
+                "periodo": "2013 - 2014",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "periodo": "2024 - 2024",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "periodo": "2019 - 2019",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "periodo": "2019 - 2019",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "periodo": "2018 - 2018",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "periodo": "2015 - 2018",
+                "cargo": "Professor, Servidor público, Campus Sorriso."
+            },
+            {
+                "empresa": "Comando da Aeronáutica",
+                "periodo": "2008 - 2015",
+                "cargo": "Estatutário, Servidor público, Controlador (Civil) de Tráfego Aéreo - DACTA1303."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2024",
+                "cargo": "Professor, Servidor público, Campus Sabará."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2024) - Engenharia De Controle E Automação.\nEspecializacao (2024) - Educação Matemática.\nGraduacao (2024) - Administração.",
+        "comissoes": ": Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso\nComissão Prae - Programa De Assistência Estudantil (2017 - 2018).\nCpa - Comisão Própria De Avaliação (2016 - 2018).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "nome": "Rumo à Universidade: Cursinho Preparatório para o ENEM (Pré-ENEM)",
+                "periodo": "2017 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Joao Ricardo Vallim Pereira",
+                    "Onilma Freire dos Santos",
+                    "Aguinel Messias de Lima"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "nome": "Fibonacci, Polinômios e Aplicações",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Joao Ricardo Vallim Pereira",
+                    "Carlos Carlão Pereira do Nascimento",
+                    "Nayara de Novaes Rezende Villani"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "nome": "Probabilidades e Futebol",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Joao Ricardo Vallim Pereira",
+                    "Lia Correa da Costa",
+                    "Carlos Carlão Pereira do Nascimento"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "nome": "Curso de Capacitação e Qualificação em Formulação de Ração Animal para profissionais do agronogócio da região do Médio-Norte do Mato Grossso",
+                "periodo": "2018 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Joao Ricardo Vallim Pereira",
+                    "Marcionei Rech",
+                    "Raphel de Castro Mourão"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
+                "nome": "O USO DO LABORATÓRIO DE INFORMÁTICA NO ENSINO DA MATEMÁTICA NAS ESCOLAS PÚBLICAS DO MUNICÍPIO DE SORRISO",
+                "periodo": "2016 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Joao Ricardo Vallim Pereira",
+                    "Marcionei Rech",
+                    "Nayara Rezende Villani"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "SECRETARIA DE ESTADO DE EDUCAÇÃO DE MINAS GERAIS",
-            "periodo": "1999 - 2006",
-            "cargo": "Professor do Ensino Médio, Servidor público, Ministrando aulas de Matemática, Física e Química. Professor Contratado de 01/1999 até 12/2004, Professor Efetivo de 01/2005 até 08/2006."
-        },
-        {
-            "empresa": "Colégio Coração de Jesus",
-            "periodo": "2012 - 2012",
-            "cargo": "Professor, Professor de Matemática do Ensino Médio."
-        },
-        {
-            "empresa": "Colégio Santo Antônio",
-            "periodo": "2012 - 2012",
-            "cargo": "Professor, Substituto."
-        },
-        {
-            "empresa": "Escola Presbiteriana de Cuiabá",
-            "periodo": "2012 - 2012",
-            "cargo": "Professor, Temporário."
-        },
-        {
-            "empresa": "COLÉGIO ADVENTISTA CENTRO AMÉRICA",
-            "periodo": "2012 - 2013",
-            "cargo": "Professor Aulista."
-        },
-        {
-            "empresa": "Colégio Maxi",
-            "periodo": "2013 - 2013",
-            "cargo": "Aulista, Professor de Matemática Ensino Fundamental."
-        },
-        {
-            "empresa": "Universidade de Cuiabá",
-            "periodo": "2013 - 2014",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
-            "periodo": "2024 - 2024",
-            "cargo": "Professor, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
-            "periodo": "2019 - 2019",
-            "cargo": "Professor, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
-            "periodo": "2019 - 2019",
-            "cargo": "Professor, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
-            "periodo": "2018 - 2018",
-            "cargo": "Professor, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso",
-            "periodo": "2015 - 2018",
-            "cargo": "Professor, Servidor público, Campus Sorriso."
-        },
-        {
-            "empresa": "Comando da Aeronáutica",
-            "periodo": "2008 - 2015",
-            "cargo": "Estatutário, Servidor público, Controlador (Civil) de Tráfego Aéreo - DACTA1303."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2024",
-            "cargo": "Professor, Servidor público, Campus Sabará."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2024) - Engenharia De Controle E Automação.\nEspecializacao (2024) - Educação Matemática.\nGraduacao (2024) - Administração.",
-    "comissoes": ": Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso\nComissão Prae - Programa De Assistência Estudantil (2017 - 2018).\nCpa - Comisão Própria De Avaliação (2016 - 2018).",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "M) -",
-            "periodo": "2017 - 2018",
-            "natureza": "Extensao",
-            "equipe": [
-                "Joao Ricardo Vallim Pereira",
-                "Onilma Freire dos Santos",
-                "Aguinel Messias de Lima"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "Aplicações -",
-            "periodo": "2019 - 2020",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Joao Ricardo Vallim Pereira",
-                "Carlos Carlão Pereira do Nascimento",
-                "Nayara de Novaes Rezende Villani"
-            ]
-        },
-        {},
-        {
-            "nome": "Futebol -",
-            "periodo": "2019 - 2020",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Joao Ricardo Vallim Pereira",
-                "Lia Correa da Costa",
-                "Carlos Carlão Pereira do Nascimento"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Grossso -",
-            "periodo": "2018 - 2019",
-            "natureza": "Extensao",
-            "equipe": [
-                "Joao Ricardo Vallim Pereira",
-                "Marcionei Rech",
-                "Raphel de Castro Mourão"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "O -",
-            "periodo": "2016 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Joao Ricardo Vallim Pereira",
-                "Marcionei Rech",
-                "Nayara Rezende Villani"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BLAS, H.",
+                "titulo": "MONSALVE, J. J.;  QUICAÑO, R.;  PEREIRA, J. R. V.;  Majorana zero mode-soliton duality and in-gap and BIC bound states in modified Toda model coupled to fermion",
+                "ano": "2022",
+                "periodico": "JOURNAL OF HIGH ENERGY PHYSICS. ISBN: 10298479   ."
+            },
+            {
+                "autores": "PEREIRA, J.R.V.",
+                "titulo": "TUNES, T.M.;  DE ARRUDA, A.S.;  GODOY, M.;  Thermal properties of the mixed spin-1 and spin-3/2 Ising ferrimagnetic system with two different random single-ion anisotropies",
+                "ano": "2018",
+                "periodico": "PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS. ISBN: 03784371   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "WOLF, A. S.",
+                "titulo": "SANTOS, M",
+                "evento": "S. R.; PASSOS",
+                "local": "V. R.; RECH, M.; PEREIRA, J. R. V.; Modelagem Matemática: Volume de Prismas e a Geometria das Abelhas. IV Jornada de Pesquisa e Extensão (JOCIPE), Sorriso-MT",
+                "ano": "2016"
+            },
+            {
+                "autores": "RECH, M.",
+                "titulo": "PEREIRA, J",
+                "evento": "R. V.; Programa de Iniciação Científica Junior da OBMEP. IV Jornada de Pesquisa e Extensão (JOCIPE)",
+                "local": "Sorriso-MT",
+                "ano": "2016"
+            },
+            {
+                "autores": "PEREIRA, T. O.",
+                "titulo": "PEREIRA, J",
+                "evento": "R. V.; RECH",
+                "local": "M.; Estimativa da Temperatura de Sorriso-MT Utilizando a Função Seno. IV Jornada de Pesquisa e Extensão (JOCIPE), Sorriso-MT",
+                "ano": "2016"
+            },
+            {
+                "autores": "PEREIRA, J. R. V.",
+                "titulo": "RECH, M",
+                "evento": "; Amigo e as Permutações Caóticas. IV Jornada de Pesquisa e Extensão (JOCIPE)",
+                "local": "Sorriso-MT",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "João Victor Lorensetti Tiecher",
+                "titulo": "AVALIAÇÃO DE GLIFOSATO REMANESCENTE NO RIO TELES PIRES NO MUNICÍPIO DE SORRISO-MT",
+                "ano": "2017",
+                "curso": "Engenharia Agronômica",
+                "instituicao": "Instituto Federal de Mato Grosso Campus Sorriso"
+            }
+        ]
+    }
 }

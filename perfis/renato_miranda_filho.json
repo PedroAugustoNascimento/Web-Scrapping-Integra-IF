@@ -1,204 +1,359 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Ciências da Computação",
-            "periodo": "2017 - 2023",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Explaining Regression Models Predictions",
-            "orientador": "Gisele Lobo Pappa"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Ciências da Computação",
-            "periodo": "2012 - 2014",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Um arcabouço para pesquisas de opinião em redes sociais",
-            "orientador": "Gisele Lobo Pappa"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "técnico",
-            "periodo": "2020 - 2020",
-            "instituicao": "Faculdade UniBF",
-            "orientador": "Adival José Reinert Junior"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Docência no ensino superior",
-            "periodo": "2021 - 2021",
-            "instituicao": "Faculdade UniBF"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia de Computação",
-            "periodo": "2007 - 2011",
-            "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2010 - 2011",
-            "cargo": "Iniciação Científica, Bolsista."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2009 - 2010",
-            "cargo": "Iniciação Científica, Bolsista."
-        },
-        {
-            "empresa": "Telemar Norte Leste - Rio de Janeiro",
-            "periodo": "2011 - 2011",
-            "cargo": "Estagiário, 1. Administração de sistemas operacionais Unix 2. Desenvolvimento de site, utilizando a linguagem PHP e banco de dados Oracle, para o gerenciamento dos servidores administrados 3. Desenvolvimento de scripts de coleta de dados dos servidores administrados."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2014 - 2014",
-            "cargo": "Pesquisador, Bolsista, Bolsista de Desenvolvimento Tecnológico Industrial do CNPq - Nível 3."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2013 - 2013",
-            "cargo": "-, Estágio em Docência, Disciplina: Introdução a Banco de Dados."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2012 - 2014",
-            "cargo": "Aluno de mestrado, Bolsista, Bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2014",
-            "cargo": "Professor."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - Campus Sabará (2024) : Presidente Do Conselho De Área De Informática E Comunicação Do Ifmg Campus Sabará.\nInstituto Federal de Minas - Campus Sabará (2023) : Coordenador Do Curso De Bacharelado Em Sistemas De Informação Do Ifmg - Campus Sabará.\nInstituto Federal de Minas Gerais - Campus Sabará (2016 - 2017) : Coordenador Do Curso Técnico Integrado Em Informática Do Ifmg - Campus Sabará.\nInstituto Federal de Minas Gerais - Campus Sabará (2015 - 2016) : Coordenador Substituto Do Curso Técnico Integrado Em Informática Do Ifmg - Campus Sabará.",
-    "ensino": ": Instituto Federal Minas Gerais\nEnsino-medio (2015) .\nGraduacao (2015) - Sistemas De Informação.\nGraduacao (2015 - 2015) - Sistemas De Informação.\nGraduacao (2014 - 2014) - Sistemas De Informação.",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Local De Permanência Do Ifmg Campus Sabará (2024).\nPresidente Do Colegiado Do Curso Bacharelado Em Sistemas De Informação (2024).\nPresidente Do Do Núcleo Docente Estruturante Do Curso De Bacharelado Em Sistemas De Informação (2024).\nMembro Da Comissão Para Montagem De Horário De Aula (2022).\nMembro Da Comissão Permanente Local Do Programa De Avaliação De Desempenho (cplad) Do Ifmg - Campus Sabará (2021).\nMembro Do Do Colegiado Do Curso Técnico Integrado Em Informática Do Ifmg Campus Sabará (2021).\nMembro Do Comitê De Crise Para Assessoramento Da Direção Do Ifmg Campus Sabará No Enfrentamento Da Emergência De Saúde Pública, Em Decorrência Do Coronavírus (2020).\nComissão Temporária De Avaliação De Projetos De Pesquisa E De Extensão - Editais 10 E 18/2016 - Do Ifmg Campus Sabará (2016 - 2016).\nComissão Temporária Para Avaliação De Projetos De Pesquisa - Editais 09/2016 E 13/2016 Do Ifmg - Campus Betim (2016 - 2016).\nMembro Do Colegiado Do Curso Técnico Em Eletrônica Do Ifmg - Campus Sabará (2015 - 2017).\nMembro Do Núcleo Docente Estruturante Do Curso De Bacharelado Em Sistemas Da Informação Do Ifmg - Campus Sabará (2015 - 2017).\nMembro Do Colegiado De Bacharelado Em Sistemas Da Informação Do Ifmg - Campus Sabará (2015 - 2017).\nRepresentante Docente Do Corpo Docente Do Conselho Acadêmico Do Ifmg - Campus Sabará (2014 - 2016).",
-    "projetos": [
-        {},
-        {
-            "nome": "Vant aplicado à previsão de incêndios florestais -",
-            "periodo": "2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Daniel Neves Rocha",
-                "Aion Angelu Ferraz Silva"
+    "campus": "- Campus Sabará",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Computação",
+                "periodo": "2017 - 2023",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Explaining Regression Models Predictions",
+                "orientador": "Gisele Lobo Pappa"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Um arcabouço para pesquisas de opinião em redes sociais",
+                "orientador": "Gisele Lobo Pappa"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "técnico",
+                "periodo": "2020 - 2020",
+                "instituicao": "Faculdade UniBF",
+                "orientador": "Adival José Reinert Junior"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência no ensino superior",
+                "periodo": "2021 - 2021",
+                "instituicao": "Faculdade UniBF"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2007 - 2011",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2010 - 2011",
+                "cargo": "Iniciação Científica, Bolsista."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2009 - 2010",
+                "cargo": "Iniciação Científica, Bolsista."
+            },
+            {
+                "empresa": "Telemar Norte Leste - Rio de Janeiro",
+                "periodo": "2011 - 2011",
+                "cargo": "Estagiário, 1. Administração de sistemas operacionais Unix 2. Desenvolvimento de site, utilizando a linguagem PHP e banco de dados Oracle, para o gerenciamento dos servidores administrados 3. Desenvolvimento de scripts de coleta de dados dos servidores administrados."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2014 - 2014",
+                "cargo": "Pesquisador, Bolsista, Bolsista de Desenvolvimento Tecnológico Industrial do CNPq - Nível 3."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2013 - 2013",
+                "cargo": "-, Estágio em Docência, Disciplina: Introdução a Banco de Dados."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2012 - 2014",
+                "cargo": "Aluno de mestrado, Bolsista, Bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2014",
+                "cargo": "Professor."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - Campus Sabará (2024) : Presidente Do Conselho De Área De Informática E Comunicação Do Ifmg Campus Sabará.\nInstituto Federal de Minas - Campus Sabará (2023) : Coordenador Do Curso De Bacharelado Em Sistemas De Informação Do Ifmg - Campus Sabará.\nInstituto Federal de Minas Gerais - Campus Sabará (2016 - 2017) : Coordenador Do Curso Técnico Integrado Em Informática Do Ifmg - Campus Sabará.\nInstituto Federal de Minas Gerais - Campus Sabará (2015 - 2016) : Coordenador Substituto Do Curso Técnico Integrado Em Informática Do Ifmg - Campus Sabará.",
+        "ensino": ": Instituto Federal Minas Gerais\nEnsino-medio (2015) .\nGraduacao (2015) - Sistemas De Informação.\nGraduacao (2015 - 2015) - Sistemas De Informação.\nGraduacao (2014 - 2014) - Sistemas De Informação.",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Local De Permanência Do Ifmg Campus Sabará (2024).\nPresidente Do Colegiado Do Curso Bacharelado Em Sistemas De Informação (2024).\nPresidente Do Do Núcleo Docente Estruturante Do Curso De Bacharelado Em Sistemas De Informação (2024).\nMembro Da Comissão Para Montagem De Horário De Aula (2022).\nMembro Da Comissão Permanente Local Do Programa De Avaliação De Desempenho (cplad) Do Ifmg - Campus Sabará (2021).\nMembro Do Do Colegiado Do Curso Técnico Integrado Em Informática Do Ifmg Campus Sabará (2021).\nMembro Do Comitê De Crise Para Assessoramento Da Direção Do Ifmg Campus Sabará No Enfrentamento Da Emergência De Saúde Pública, Em Decorrência Do Coronavírus (2020).\nComissão Temporária De Avaliação De Projetos De Pesquisa E De Extensão - Editais 10 E 18/2016 - Do Ifmg Campus Sabará (2016 - 2016).\nComissão Temporária Para Avaliação De Projetos De Pesquisa - Editais 09/2016 E 13/2016 Do Ifmg - Campus Betim (2016 - 2016).\nMembro Do Colegiado Do Curso Técnico Em Eletrônica Do Ifmg - Campus Sabará (2015 - 2017).\nMembro Do Núcleo Docente Estruturante Do Curso De Bacharelado Em Sistemas Da Informação Do Ifmg - Campus Sabará (2015 - 2017).\nMembro Do Colegiado De Bacharelado Em Sistemas Da Informação Do Ifmg - Campus Sabará (2015 - 2017).\nRepresentante Docente Do Corpo Docente Do Conselho Acadêmico Do Ifmg - Campus Sabará (2014 - 2016).",
+        "projetos": [
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "nome": "Testes de desempenho em memórias flash",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Cristina Duarte Murta",
+                    "Fabiano Cupertino Botelho"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "nome": "Uma avaliação da web .br",
+                "periodo": "2010 - 2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Cristina Duarte Murta",
+                    "Adriano Cesar Machado Pereira"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Vant aplicado à previsão de incêndios florestais",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Daniel Neves Rocha",
+                    "Aion Angelu Ferraz Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Ensino de programação no ensino básico de Sabará",
+                "periodo": "2016 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Carlos Alexandre Silva",
+                    "Márcia Basília de Araújo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "XVIII Olimpíada Brasileira de Informática",
+                "periodo": "2016 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "carlos alberto severiano junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Escola Reconectada",
+                "periodo": "2016 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Carlos Alexandre Silva",
+                    "gabriel felipe Cândido Novy",
+                    "carlos alberto severiano junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Escolha automática da métrica de distância em problemas de regressão",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Jonathan Felix Rodrigues"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Cyberbullying: identificação e caracterização em redes sociais online",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Uciolli Betelli Ferreira Lemos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa Sabará: Uma análise exploratória do impacto tecnológico na educação do município de Sabará-MG",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Carlos Alexandre Silva",
+                    "Tarcisio Santos Pieroni"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Avaliação do impacto tecnológico de projeto de extensão educacional no município de Sabará",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Carlos Alexandre Silva",
+                    "Tarcisio Santos Pieroni"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sistema aplicado à previsão de incêncios florestias",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Daniel Neves Rocha"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de Sistema de Informação Integrado para a Guarda Municipal de Sabará",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato Miranda Filho",
+                    "Carlos Alexandre Silva",
+                    "Bruno Nonato Gomes",
+                    "cristiane norbiato Targa",
+                    "gabriel felipe Cândido Novy"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MIRANDA FILHO",
+                    "titulo": "R.,  CARVALHO, A. I. R.,  PAPPA, G. L.,  Inferência de Sexo e Idade de Usuários no Twitter",
+                    "ano": "2014",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "MIRANDA FILHO",
+                    "titulo": "R.,  ALMEIDA, J. M.,  PAPPA, G. L.,  Pesquisa Eleitoral em Redes Sociais: Inclusão da Análise de Novas Dimensões",
+                    "ano": "2014",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "MIRANDA FILHO",
+                    "titulo": "R.,  Carvalho, R. R.,  GOMES, Rogério M.,  Rodrigues, M. T. A. N.,  Uma abordagem evolucionária para o problema do caixeiro viajante",
+                    "ano": "2010",
+                    "instituicao_promotora": "UERJ."
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {
-            "nome": "Sabará -",
-            "periodo": "2016 - 2019",
-            "natureza": "Extensao",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Carlos Alexandre Silva",
-                "Márcia Basília de Araújo"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Informática -",
-            "periodo": "2016 - 2016",
-            "natureza": "Extensao",
-            "equipe": [
-                "Renato Miranda Filho",
-                "carlos alberto severiano junior"
-            ]
-        },
-        {},
-        {
-            "nome": "Reconectada -",
-            "periodo": "2016 - 2016",
-            "natureza": "Extensao",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Carlos Alexandre Silva",
-                "gabriel felipe Cândido Novy",
-                "carlos alberto severiano junior"
-            ]
-        },
-        {
-            "nome": "Escolha automática da métrica de distância em problemas de regressão -",
-            "periodo": "2021 - 2022",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Jonathan Felix Rodrigues"
-            ]
-        },
-        {
-            "nome": "Cyberbullying: identificação e caracterização em redes sociais online -",
-            "periodo": "2021 - 2022",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Uciolli Betelli Ferreira Lemos"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "G -",
-            "periodo": "2023",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Carlos Alexandre Silva",
-                "Tarcisio Santos Pieroni"
-            ]
-        },
-        {},
-        {
-            "nome": "Sabará -",
-            "periodo": "2023",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Carlos Alexandre Silva",
-                "Tarcisio Santos Pieroni"
-            ]
-        },
-        {
-            "nome": "Sistema aplicado à previsão de incêncios florestias -",
-            "periodo": "2015 - 2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Daniel Neves Rocha"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Sabará -",
-            "periodo": "2015 - 2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Renato Miranda Filho",
-                "Carlos Alexandre Silva",
-                "Bruno Nonato Gomes",
-                "cristiane norbiato Targa",
-                "gabriel felipe Cândido Novy"
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MIRANDA FILHO",
+                    "curso": "R.,  Oficina - Maratorna de Programação",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "MIRANDA FILHO",
+                    "curso": "R.,  Introdução ao Linux",
+                    "ano": "2014"
+                }
             ],
-            "financiador": "Instituto Federal Minas Gerais,"
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "A. A. F.,  SANTOS, L. M.,  ARAUJO, M. B.,  FERRAZ, P. R.,  MIRANDA FILHO, R.,  SANTOS, S. S. E. S.,  ROCHA, D. N.,  GIFFONI, J. M. S.,  SILVA, E. V.,  BOAVENTURA, E. F.,  DUQUE, P. H. T.,  GOMES, B. N.,  REIS, A. K. G.,  SILVA, C. A.,  Targa, C. N.,  VELOSO, D.,  QUEIROZ, E. A.,  NUNES, E. M. R.,  CIPRIANO, J. L. D.,  PIMENTEL, J. D.,  Semana Nacional de Ciência e Tecnologia de Minas Gerais - Campus Sabará",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "PEREIRA",
+                    "evento": "C. C.,  FIGUEIREDO, A. C.,  GOMES, B. N.,  MOREIRA, C.,  PERES, E. M. D.,  MENDES, G. S.,  GONCALVES, K. C.,  ARAUJO, M. B.,  MIRANDA FILHO, R.,  Semana Nacional de Ciência e Tecnologia de Minas Gerais - Campus Sabará",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                }
+            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FILHO, RENATO MIRANDA",
+                "titulo": "LACERDA, ANÍSIO M.;  PAPPA, GISELE L.;  Explainable Regression Via Prototypes",
+                "ano": "2022",
+                "periodico": "ACM Transactions on Evolutionary Learning and Optimization. ISBN: 2688299X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "LIRA, L. L.",
+                "titulo": "MIRANDA FILHO, RENATO; SILVA, C",
+                "evento": "A.; Uma Perspectiva dos Institutos Federais em Minas Gerais sob a Análise Histórica de Bolsas ofertadas pelo CNPq para a Área da Computação entre 2015 a 2022. Congresso Nacional de Iniciação Científica",
+                "local": "",
+                "ano": "2023"
+            },
+            {
+                "autores": "FILHO, RENATO MIRANDA",
+                "titulo": "LACERDA, ANISIO; PAPPA, GISELE L",
+                "evento": "; Explaining Symbolic Regression Predictions. 2020 IEEE Congress on Evolutionary Computation (CEC)",
+                "local": "Glasgow",
+                "ano": "2020"
+            },
+            {
+                "autores": "MIRANDA FILHO, R.",
+                "titulo": "PAPPA, G",
+                "evento": "L.; CDeUs: Caracterização Demográfica de Usuários no Twitter. Simpósio Brasileiro de Banco de Dados",
+                "local": "Petrópolis",
+                "ano": "2015"
+            },
+            {
+                "autores": "MIRANDA FILHO, R.",
+                "titulo": "ALMEIDA, J",
+                "evento": "M.; PAPPA",
+                "local": "G. L.; Pesquisa Eleitoral em Redes Sociais: Inclusão da Análise de Novas Dimensões. Brazilian Workshop on Social Network Analysis and Mining (BraSNAM), Brasília/DF",
+                "ano": "2014"
+            },
+            {
+                "autores": "MIRANDA FILHO, R.",
+                "titulo": "CARVALHO, A",
+                "evento": "I. R.; PAPPA",
+                "local": "G. L.; Inferência de Sexo e Idade de Usuários no Twitter. Brazilian Workshop on Social Network Analysis and Mining (BraSNAM), Brasília/DF",
+                "ano": "2014"
+            },
+            {
+                "autores": "FILHO, RENATO MIRANDA",
+                "titulo": "BORGES, GUILHERME R",
+                "evento": "; ALMEIDA",
+                "local": "JUSSARA M.; PAPPA, GISELE L.; Inferring User Social Class in Online Social Networks. the 8th Workshop, New York",
+                "ano": "2014"
+            },
+            {
+                "autores": "RODRIGUES, ERICA",
+                "titulo": "ASSUNCAO, RENATO; PAPPA, GISELE L",
+                "evento": "; MIRANDA",
+                "local": "RENATO; MEIRA, WAGNER; Uncovering the Location of Twitter Users. 2013 Brazilian Conference on Intelligent Systems (BRACIS), Fortaleza",
+                "ano": "2013"
+            },
+            {
+                "autores": "MIRANDA FILHO, R.",
+                "titulo": "Carvalho, R",
+                "evento": "R.; GOMES",
+                "local": "Rogério M.; Rodrigues, M. T. A. N.; Uma abordagem evolucionária para o problema do caixeiro viajante. XIII Encontro de Modelagem Computacional, Nova Friburgo",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Guilherme Basílio Souto",
+                "titulo": "Propostas para Avaliação das Recomendações de Itens Únicos ou Lista de Itens",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Emanuelle Azevedo Martins",
+                "titulo": "Sistema aplicado à previsão de incêncios florestias",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

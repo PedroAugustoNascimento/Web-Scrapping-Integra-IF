@@ -1,112 +1,506 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Política Social",
-            "periodo": "2009 - 2011",
-            "instituicao": "Universidade Federal de Viçosa",
-            "titulo": "O Processo de Reinserção Social de Apenados: uma análise comparativa de trajetórias de vida",
-            "orientador": "Maria das Dores Saraiva de Loreto"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Informática em Educação",
-            "periodo": "2006 - 2007",
-            "instituicao": "Universidade Federal de Lavras",
-            "orientador": "Rêmulo Maia Alves"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Tecnologia em Informática",
-            "periodo": "2000 - 2003",
-            "instituicao": "Universidade do Estado de Minas Gerais - Campus de Passos"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015",
-            "cargo": ", Servidor público, Responsável pelo Setor de Extensão do Campus Avançado Piumhi.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2014 - 2016",
-            "cargo": ", Servidor público, Responsável pelo Setor de Comunicação do Campus Avançado Piumhi.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2014 - 2015",
-            "cargo": ", Servidor público, Responsável pela Coordenação do Curso Técnico em Edificações do Campus Avançado Piumhi.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2004",
-            "cargo": "Prof.de ensino, básico, técnico e tecnológico, Servidor público, Professora de Computação dos cursos do IFMG Campus Bambui : Técnico em Comércio, Técnico em Gestão em Serviços de Saúde, Técnico em Turismo, Técnico em Comérico modalidade Proeja, Técnico em Informática, Técnico em Programação para Internet, Técnico em Manutenção e Suporte em Informática, Técnico em Açúcar e Álcool modalidade Proeja, Técnico em Agricultura e Zootecnia, Técnico em Mecânica Automotiva e Agrícola, Técnico em Manutenção Automotiva, Bacharelado em Administração, Superior Tecnológico em Turismo, Superior de Agronomia. Coordenadora substituta da Unidade Piumhi no período de setembro de 2008 a abril de 2009. Professora Responsável por Estágio, Monitoria e Formatura dos Cursos Técnicos da Unidade Piumhi, no período de setembro de 2006 a julho de 2009. Coordenadora de Laboratórios de Informática do IFMG - Campus Bambuí no período de agosto de 2009 a fevereiro de 2010. Coordenadora de Cursos Técnicos em Informática (modalidade subsequente), de Unidades Fora de Sede do IFMG Campus Bambuí, desde agosto de 2009 até outubro de 2013. Coordenadora do Curso Técnico em Informática Integrado ao Ensino Médio do IFMG Campus Bambuí, desde fevereiro de 2011 até outubro de 2013. Professora das disciplinas de Computação dos Cursos: Bacharelado em Engenharia Civil e Técnico em Edificações do Câmpus Avançado Piumhi. Coordenadora do Curso Técnico em Edificações do Câmpus Avançado Piumhi. Responsável pelo Setor de Comunicação e Eventos do Câmpus Avançado Piumhi.."
-        },
-        {
-            "empresa": "Prefeitura Municipal de Piumhi",
-            "periodo": "2004 - 2007",
-            "cargo": "Professora de curso técnico, Servidor público, Professora dos Cursos Técnicos do Cefet Bambuí - Extensão Piumhi: Gestão Comercial, Gestão em Serviços de Saúde, Proeja, Turismo, Informática Programação Comercial, Informática Programação para WEB, Informática Redes e Manutenção.."
-        },
-        {
-            "empresa": "Cooperativa de Crédito Rural do Alto São Francisco",
-            "periodo": "2002 - 2004",
-            "cargo": "Secretária, Desenvolvendo as seguintes funções: Palestras, atendimento ao público, comunicação interna, operação de micro, controle de plano de saúde e telefonia.."
-        },
-        {
-            "empresa": "Clínica de Olhos Dr. Nelson Soares de Melo",
-            "periodo": "2001 - 2002",
-            "cargo": "Secretária."
-        },
-        {
-            "empresa": "Softdata Informática",
-            "periodo": "1999 - 2001",
-            "cargo": "Instrutora de Informática."
-        },
-        {
-            "empresa": "III Jornada Científica do IFMG - Campus Bambuí",
-            "periodo": "2011",
-            "cargo": ", Revisor de periódico, Participação como membro da comissão de avaliação dos resumos expandidos.."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi",
-            "periodo": "2004",
-            "cargo": "Dedicação Exclusiva, Servidor público, Desenvolvimento de Pesquisas Aplicadas."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": "",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Pimhi -",
-            "periodo": "2020",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Stella Maria Gomes",
-                "Felipe da Silva Alves"
+    "campus": "- Campus Avançado Piumhi",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Política Social",
+                "periodo": "2009 - 2011",
+                "instituicao": "Universidade Federal de Viçosa",
+                "titulo": "O Processo de Reinserção Social de Apenados: uma análise comparativa de trajetórias de vida",
+                "orientador": "Maria das Dores Saraiva de Loreto"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática em Educação",
+                "periodo": "2006 - 2007",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "Rêmulo Maia Alves"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Informática",
+                "periodo": "2000 - 2003",
+                "instituicao": "Universidade do Estado de Minas Gerais - Campus de Passos"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015",
+                "cargo": ", Servidor público, Responsável pelo Setor de Extensão do Campus Avançado Piumhi.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2014 - 2016",
+                "cargo": ", Servidor público, Responsável pelo Setor de Comunicação do Campus Avançado Piumhi.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2014 - 2015",
+                "cargo": ", Servidor público, Responsável pela Coordenação do Curso Técnico em Edificações do Campus Avançado Piumhi.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2004",
+                "cargo": "Prof.de ensino, básico, técnico e tecnológico, Servidor público, Professora de Computação dos cursos do IFMG Campus Bambui : Técnico em Comércio, Técnico em Gestão em Serviços de Saúde, Técnico em Turismo, Técnico em Comérico modalidade Proeja, Técnico em Informática, Técnico em Programação para Internet, Técnico em Manutenção e Suporte em Informática, Técnico em Açúcar e Álcool modalidade Proeja, Técnico em Agricultura e Zootecnia, Técnico em Mecânica Automotiva e Agrícola, Técnico em Manutenção Automotiva, Bacharelado em Administração, Superior Tecnológico em Turismo, Superior de Agronomia. Coordenadora substituta da Unidade Piumhi no período de setembro de 2008 a abril de 2009. Professora Responsável por Estágio, Monitoria e Formatura dos Cursos Técnicos da Unidade Piumhi, no período de setembro de 2006 a julho de 2009. Coordenadora de Laboratórios de Informática do IFMG - Campus Bambuí no período de agosto de 2009 a fevereiro de 2010. Coordenadora de Cursos Técnicos em Informática (modalidade subsequente), de Unidades Fora de Sede do IFMG Campus Bambuí, desde agosto de 2009 até outubro de 2013. Coordenadora do Curso Técnico em Informática Integrado ao Ensino Médio do IFMG Campus Bambuí, desde fevereiro de 2011 até outubro de 2013. Professora das disciplinas de Computação dos Cursos: Bacharelado em Engenharia Civil e Técnico em Edificações do Câmpus Avançado Piumhi. Coordenadora do Curso Técnico em Edificações do Câmpus Avançado Piumhi. Responsável pelo Setor de Comunicação e Eventos do Câmpus Avançado Piumhi.."
+            },
+            {
+                "empresa": "Prefeitura Municipal de Piumhi",
+                "periodo": "2004 - 2007",
+                "cargo": "Professora de curso técnico, Servidor público, Professora dos Cursos Técnicos do Cefet Bambuí - Extensão Piumhi: Gestão Comercial, Gestão em Serviços de Saúde, Proeja, Turismo, Informática Programação Comercial, Informática Programação para WEB, Informática Redes e Manutenção.."
+            },
+            {
+                "empresa": "Cooperativa de Crédito Rural do Alto São Francisco",
+                "periodo": "2002 - 2004",
+                "cargo": "Secretária, Desenvolvendo as seguintes funções: Palestras, atendimento ao público, comunicação interna, operação de micro, controle de plano de saúde e telefonia.."
+            },
+            {
+                "empresa": "Clínica de Olhos Dr. Nelson Soares de Melo",
+                "periodo": "2001 - 2002",
+                "cargo": "Secretária."
+            },
+            {
+                "empresa": "Softdata Informática",
+                "periodo": "1999 - 2001",
+                "cargo": "Instrutora de Informática."
+            },
+            {
+                "empresa": "III Jornada Científica do IFMG - Campus Bambuí",
+                "periodo": "2011",
+                "cargo": ", Revisor de periódico, Participação como membro da comissão de avaliação dos resumos expandidos.."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi",
+                "periodo": "2004",
+                "cargo": "Dedicação Exclusiva, Servidor público, Desenvolvimento de Pesquisas Aplicadas."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programação Orientada à Objetos utilizando linguagem Delphi.",
+                "periodo": "2010 - 2010",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programação Orientada a Objetos utilizando linguagem JAVA.",
+                "periodo": "2010 - 2010",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Uma visão prática dos Sistemas Operacionais Linux e Windows 2008 Server.",
+                "periodo": "2010 - 2010",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Suporte ao Usuário",
+                "periodo": "2012 - 2012",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Manutenção de Computadores",
+                "periodo": "2012 - 2012",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Técnicas de Apresentação Oral e Produção de Slides",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Instituto Solidário",
+                "periodo": "2011 - 2011",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto Complexo Exportivo de Piumhi",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Humberto Coelho de Melo",
+                    "Stella Maria Gomes",
+                    "Letícia Efrem Natividade Olvieira",
+                    "Rafaela Dias Silva",
+                    "Cleiton Junio Alves",
+                    "Derlon Silva Alves",
+                    "Gabriela Alves Amorim Soares",
+                    "Jamil Rodrigues Júnior",
+                    "Ozéias Teodoro Ferreira",
+                    "Cláudia dos Reis Andrade",
+                    "Filipe Pereira de Siqueira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Gerindo Talentos",
+                "periodo": "2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa Educacional Anjos do Trânsito",
+                "periodo": "2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Júlio César Costa Bahia"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Tradições, Memórias, Cultura e Identidade Negra",
+                "periodo": "2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Mônica do Nascimento Barros"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Implementação de conceitos de Modelagem da Informação da Construção (BIM) no processo de gestão da rede de esgotos no município de Piumhi/MG",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Humberto Coelho de Melo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo de casos de Empreendimentos Habitacionais de Interesse Social (EHIS) no município de Piumhi ? MG: Propostas de melhorias e implementação de conceitos de Modelagem da Informação da Construção (BIM).",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Tobias Ribeiro Ferreira",
+                    "Humberto Coelho de Melo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Relações Interpessoais e Relações de Trabalho",
+                "periodo": "2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi",
+                "nome": "Implantação do Ambiente de Inovação do Campus Pimhi",
+                "periodo": "2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Felipe da Silva Alves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi",
+                "nome": "Estruturação Laboratorial para a Criação de Larvas e Brocas do Café (Hypothenemus hampei)\"",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Felipe da Silva Alves",
+                    "Pedro Luiz Teixeira de Camargo"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MELO",
+                    "titulo": "Humberto Coelho,  TOMÉ, Stella Maria Gomes,  GONZALES, M. M.,  GOMES, D. B. O.,  IMPLEMENTAÇÃO DE CONCEITOS DE MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO (BIM) NO PROCESSO DE GESTÃO DA REDE DE ESGOTOS NO MUNICÍPIO DE PIUMHI/MG",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "titulo": "Stella Maria Gomes,  MELO, Humberto C.,  BARRETO, G. F.,  BARROS, F. C.,  FERREIRA, Tobias Ribeiro,  SOARES, G. A. A.,  OLIVEIRA, C. M.,  ESTUDO DE CASOS DOS EMPREENDIMENTOS HABITACIONAIS DE INTERESSE SOCIAL NO MUNICÍPIO DE PIUMHI",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "Tobias Ribeiro,  MELO, Humberto C.,  TOMÉ, Stella Maria Gomes,  BARROS, F. C.,  BARRETO, G. F.,  TEIXEIRA, S. F.,  Empreendimentos Habitacionais de Interesse Social e sua relação com o conceito BIM.",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "titulo": "Stella Maria Gomes,  MELO, Humberto Coelho,  DANTAS, Hiago Silva,  REIS, S.,  A importância do CIM para a gestão da infraestrutura urbana.",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "titulo": "Stella Maria Gomes,  LORETO, Maria das Dores Saraiva de,  Mapeamento das Redes Sociais de Apenados da Associação de Proteção e Assistência ao Condenado de Viçosa-MG",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade Federal da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "TOMÉ",
+                    "curso": "Stella Maria Gomes,  N@veg@ndo...",
+                    "ano": "2007"
+                },
+                {
+                    "autor": "TOMÉ",
+                    "curso": "Stella Maria Gomes,  MENEZES, E. E. P. J.,  Informática Básica",
+                    "ano": "2004"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  MATTOSINHO, G. O.,  I Convenção: Extensão, Pesquisa e Inovação",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Avançado Piumhi."
+                },
+                {
+                    "autores": "CAMARGO",
+                    "evento": "P. L. T.,  TOLEDO, J.,  TERRA, J. M.,  MARCELINO, L. R.,  TOMÉ, Stella Maria Gomes,  SILVA, R. A.,  MACULAN, C. E.,  VI Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Campus Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  TEIXEIRA, P. J. R.,  LUZ, G. H. P.,  BARROS, Mônica Nascimento,  PAIVA, V. B.,  NUNES, C. C. F.,  MARCELINO, L. R.,  SILVA, R. A.,  SOARES, D. J. M.,  SILVA, N. C.,  FARIA, A. P.,  V Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Avançado Piumhi."
+                },
+                {
+                    "autores": "BELO",
+                    "evento": "A. L. R.,  NUNES, C. C. F.,  LUZ, G. H. P.,  MACHADO, M.,  TOMÉ, Stella Maria Gomes,  V Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Campus Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  RIBAS, S.,  ALVES, Felipe da Silva,  SOARES, Felipe Laffiti Assis,  BARROS, M. N.,  PEREIRA, T. P.,  MARCELINO, L. R.,  OLIVEIRA, A. A.,  ARAUJO, P. H.,  IV Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Avançado Piumhi."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "A. A.,  BELO, A. L. R.,  LUZ, G. H. P.,  SOUZA, Ricardo Lopes,  TOMÉ, Stella Maria Gomes,  IV Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Campus Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  BARROS, Mônica Nascimento,  &quot;Café com Prosa&quot;",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Avançado Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  BARROS, M. N.,  Por que comemorar o dia 20 de novembro - Dia da Consciência Negra?",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Avançado Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  BELO, A. L. R.,  SOUSA, E.,  SOUZA, Ricardo Lopes,  DAMASCENO, A. C.,  III Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Campus Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  II Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Avançado Piumhi."
+                },
+                {
+                    "autores": "ARAUJO",
+                    "evento": "Marina Martins,  TOMÉ, Stella Maria Gomes,  I Concurso de Desenho, Redação e Pintura do Campus Piumhi",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Campus Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  MELO, Humberto Coelho,  SOUSA, E.,  II Semana de Ciência e Tecnologia do Campus Avançado Piumhi",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Campus Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  I Semana de Ciência e Tecnologia do IFMG - Câmpus Avançado Piumhi",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais - Câmpus Avançado Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  BELO, A. L. R.,  FERREIRA, V. S. L.,  SOUZA, M. A. A.,  MACHADO, M.,  Concurso Público para Docentes EBTT",
+                    "ano": "2014",
+                    "duracao_semanas": "12",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais - Câmpus Avançado Piumhi."
+                },
+                {
+                    "autores": "TOMÉ",
+                    "evento": "Stella Maria Gomes,  I Jornada de Informática",
+                    "ano": "2007",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "Centro Federal de Educação Tecnológica de Bambuí - Extensão Piumhi."
+                }
             ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Hypothenemus hampei)\" -",
-            "periodo": "2021",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Stella Maria Gomes",
-                "Felipe da Silva Alves",
-                "Pedro Luiz Teixeira de Camargo"
-            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "TOMÉ, Stella Maria Gomes",
+                "titulo": "LORETO, Maria das Dores Saraiva de;  BARTOLOMEU, Tereza Angélica;  O processo de reinserção social de apenados",
+                "ano": "2015",
+                "informacoes_adicionais": "Varios. ISBN: 9783639757453, São Paulo (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "MELO, H C",
+                "titulo": "TOMÉ, S M G;  SILVA, M H;  GONZALES, M M;  GOMES, D B O;  Implementation of City Information Modeling (CIM) concepts in the process of management of the sewage system in Piumhi, Brazil",
+                "ano": "2019",
+                "periodico": "IOP CONFERENCE SERIES. EARTH AND ENVIRONMENTAL SCIENCE (ONLINE). ISBN: 17551315   ."
+            },
+            {
+                "autores": "TOMÉ, Stella Maria Gomes",
+                "titulo": "LORETO, Maria das Dores Saraiva de;  BARTOLOMEU, Tereza Angélica;  NORONHA, José Ferreira;  Morfologia e Papel das Redes Sociais no Processo de Reintegração Social de Apenados",
+                "ano": "2012",
+                "periodico": "Oikos (Viçosa, Mg). ISBN: 01015273   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "TOMÉ, S. M. G.",
+                "titulo": "MELO, Humberto C",
+                "evento": "; GONZALES",
+                "local": "M. M.; GOMES, D. B. O.; SILVA, M. H.; Implementação de conceitos de Modelagem de Informação da Construção (BIM) no processo de gestão da rede de esgotos no município de Piumhi/MG. VII Seminário de Iniciação de Científica, 2018, Sabará",
+                "ano": "2018"
+            },
+            {
+                "autores": "TOMÉ, Stella Maria Gomes",
+                "titulo": "MELO, Humberto C",
+                "evento": "; DANTAS",
+                "local": "Hiago Silva; REIS, S.; A importância do CIM para a gestão da infraestrutura urbana.. VI Seminário de Iniciação de Científica, 2017, Betim",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOMÉ, Stella Maria Gomes",
+                "titulo": "MELO, Humberto C",
+                "evento": "; TEIXEIRA",
+                "local": "S. F.; BARROS, F. C.; FERREIRA, Tobias Ribeiro; Empreendimentos Habitacionais de Interesse Social e sua relação com o conceito. VI Seminário de Iniciação de Científica, 2017, Betim",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOMÉ, Stella Maria Gomes",
+                "titulo": "BARTOLOMEU, Tereza Angélica; LORETO, Maria das Dores Saraiva de; NORONHA, José Ferreira; Morfologia e papel das redes sociais no processo de reintegração social de apenados",
+                "evento": "XI Congresso Luso Afro Brasileiro",
+                "local": "Salvador",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Júlio César de Oliveira",
+                "titulo": "Mapeamento do Patrimônio Cultural de Piumhi - Tombamento de Edificações",
+                "ano": "2017",
+                "curso": "Técnico em Edificações",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Débora Chagas dos Reis",
+                "titulo": "Inventário do Patrimônio Cultural de Piumhi",
+                "ano": "2017",
+                "curso": "Técnico em Edificações",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Hiago da Silva Dantas",
+                "titulo": "Implementação de conceitos de Modelagem da Informação da Construção (BIM) no processo de gestão da rede de esgotos no município de Piumhi/MG",
+                "ano": "2017",
+                "curso": "Bacharelado em Engenharia Civil",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi"
+            },
+            {
+                "orientando": "Sara dos Reis",
+                "titulo": "Implementação de conceitos de Modelagem da Informação da Construção (BIM) no processo de gestão da rede de esgotos no município de Piumhi/MG",
+                "ano": "2017",
+                "curso": "Curso Técnico em Edificações",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi"
+            },
+            {
+                "orientando": "Fernando da Costa Barros",
+                "titulo": "Estudo de casos de Empreendimentos Habitacionais de Interesse Social (EHIS) no município de Piumhi: propostas de melhorias e implementação de conceitos de modelagem da informação da construção (BIM)",
+                "ano": "2017",
+                "curso": "Curso Técnico em Edificações",
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Avançado Piumhi"
+            },
+            {
+                "orientando": "Mauro Henrique Silva",
+                "titulo": "Projeto de um ambiente Web de aprendizado introduzido no contexto de b-learning",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

@@ -17,6 +17,7 @@ class Scrapper:
 
     def acessar_site(self, url):
         self.driver.get(url)
+        self.aceitar_cookies()  
     
     def aceitar_cookies(self):
         try:
@@ -84,6 +85,7 @@ class Scrapper:
             if nome is None:
                 print(f"DEBUG - pulando perfil (não é docente ou tem erro: {url})")
                 continue
+            json = JSON()
             campus = self.get_campus()
             foto_perfil = self.get_foto_perfil()
             nome_arquivo = nome.replace(" ", "_").lower()
@@ -93,21 +95,30 @@ class Scrapper:
             dados_gerais = self.extrair_dados_gerais()
             cleaner = CleanerData()
             dados_limpos = cleaner.limpar_dados_gerais(dados_gerais)
-            json = JSON()
-            json.salvar_dados_json(dados_limpos, f"{nome_arquivo}.json")
             #print(f"DEBUG - Nome: {nome}")
             #print(f"DEBUG - Foto de perfil: {foto_perfil}")
+   
+
             self.abrir_producao_tecnica()
             producao_tecnica = self.extrair_producao_tecnica()
+            dados_limpos_tec = cleaner.limpar_producao_tecnica(producao_tecnica)
             print("DEBUG - Producao tecnica extraida")
+ 
             self.abrir_producao_bibliografica()
             producao_bibliografica = self.extrair_producao_bibliografica()
+            dados_limpos_bib = cleaner.limpar_producao_bibliografica(producao_bibliografica)
             print("DEBUG - Producao bibliografica extraida")
+
+
             self.abrir_producao_outra()
             producao_outra = self.extrair_producao_outra()
+            dados_limpos_outra = cleaner.limpar_producao_outra(producao_outra)
             print("DEBUG - Producao outra extraida")
 
+            json.salvar_dados_json(campus,dados_limpos, dados_limpos_tec, dados_limpos_bib, dados_limpos_outra, f"{nome_arquivo}.json")
 
+
+            
             #self.driver.back()
 
             #self.wait.until(

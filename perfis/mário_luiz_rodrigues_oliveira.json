@@ -1,284 +1,412 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Ciências da Computação",
-            "periodo": "2017",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Um Sistema de Tradução Simulink-SMV para Verificação de Modelos",
-            "orientador": "Sergio Vale Aguiar Campos"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "",
-            "periodo": "2012 - 2013",
-            "instituicao": "Universidade Federal de Itajubá",
-            "orientador": "Profa"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "1998 - 2002",
-            "instituicao": "Universidade Federal de Lavras"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "2005 - 2008",
-            "cargo": "Professor/Tutor, Professor/Tutor, Professor/Tutor da disciplina Ambientes de Desenvolvimento e Programação no curso de pós-gradução lato sensu Produção de Software com ênfase em Software Livre.."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "2002 - 2005",
-            "cargo": "Professor, Professor no Departamento de Ciência da Computação no período de agosto/2002 à julho/2005, ministrando as seguintes disciplinas: compiladores, arquitetura de computadores e linguagens de programação.."
-        },
-        {
-            "empresa": "Faculdade Presbiteriana Gammon",
-            "periodo": "2003 - 2006",
-            "cargo": "Professor, Professor do curso de Sistemas de Informação: ministrando as disciplinas de arquitetura de computadores, compiladores, algoritmos e estruturas de dados I e II e laboratório de programação I, II e III."
-        },
-        {
-            "empresa": "Faculdade de Filosofia Ciências e Letras de Boa Esperança",
-            "periodo": "2005 - 2006",
-            "cargo": "Professor, Professor do curso Tecnologia em Sistemas de Informação, ministrando as disciplinas: algoritmos e estruturas de dados I e organização de computadores.."
-        },
-        {
-            "empresa": "Empresa de Pesquisa Agropecuária de Minas Gerais",
-            "periodo": "2002 - 2003",
-            "cargo": "Bolsista de Desenvolvimento, Bolsista, Bolsista da FAGRO - Fundação de Apoio à Pesquisa e ao Agronegócio Brasileiro - no projeto Fotografias aéreas e imagens orbitais utilizadas na identificação de café (Coffea arabica) para fins de previsão de safra.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2012",
-            "cargo": "Professor."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2012 - 2013",
-            "cargo": "Tutor, Tutor, Tutor do curso de extensão Atendimento Educacional Especializado (AEE): Excluindo diferenças e elevando a qualidade do ensino com o uso de tecnologias computacionais.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2010 - 2012",
-            "cargo": "Tutor, Tutor, Tutor presencial e à distância do curso Manutenção e Suporte em Informática, ofertado pelo IFMG - Campus Formiga. O curso é oferecido na modalidade de educação à distância e exerço minhas atividades no Polo de Boa Esperança/MG.."
-        },
-        {
-            "empresa": "Fundação de Apoio ao Ensino Pesquisa e Extensão",
-            "periodo": "2004 - 2005",
-            "cargo": "Gerente de Processamento de Dados, Celetista formal."
-        },
-        {
-            "empresa": "ForScience: Revista Científica do IFMG (Online)",
-            "periodo": "2015",
-            "cargo": ", Membro de corpo editorial."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Formiga (2021) : Diretor De Ensino.\nInstituto Federal Minas Gerais - Campus Formiga (2016 - 2017) : Coordenador Geral Dos Cursos Técnicos.\nInstituto Federal Minas Gerais - Campus Formiga (2014 - 2016) : Coordenador Do Curso Técnico Em Informática.\nInstituto Federal Minas Gerais - Campus Formiga (2012): Compiladores, Arquitetura de Computadores, Linguagens de programação, Otimização,",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2021) - Ciência Da Computação.\nGraduacao (2020 - 2020) - Ciência Da Computação.\nGraduacao (2020 - 2021) - Ciência Da Computação.\nGraduacao (2019 - 2019) - Ciência Da Computação.\nGraduacao (2019 - 2019) - Ciência Da Computação.\nGraduacao (2016 - 2016) - Ciência Da Computação.\nGraduacao (2016 - 2016) - Ciência Da Computação.\nEnsino-medio (2016 - 2016) .\nGraduacao (2015 - 2015) - Ciência Da Computação.\nGraduacao (2015 - 2016) - Ciência Da Computação.\nEnsino-medio (2015 - 2015) .\nGraduacao (2014 - 2014) - Ciência Da Computação.\nGraduacao (2014 - 2014) - Engenharia Elétrica.\nGraduacao (2014 - 2015) - Ciência Da Computação.\nEnsino-medio (2014 - 2015) .\nGraduacao (2013 - 2014) - Ciência Da Computação.\nEnsino-medio (2013 - 2014) .\nGraduacao (2013 - 2013) - Ciência Da Computação.\nGraduacao (2012 - 2012) - Ciência Da Computação.\nEnsino-medio (2012 - 2013) .",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Dados referentes aos indicadores econômicos regionais através de dispositivos móveis -",
-            "periodo": "2014 - 2016",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Diego Mello da Silva",
-                "Bruno César de Melo Moreira",
-                "Adriano Olímpio Tonelli",
-                "Alisson de Castro Ferreira",
-                "Arlete Aparecida de Abreu",
-                "Daniel Fonseca Costa",
-                "Robson de Castro Ferreira",
-                "Washington Santos da Silva"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "O) -",
-            "periodo": "2014 - 2016",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Diego Mello da Silva"
-            ]
-        },
-        {
-            "nome": "Estudo sobre segurança da informação, vulnerabilidade de páginas web e engenharia social -",
-            "periodo": "2015 - 2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "otávio de souza martins gomes"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Formiga -",
-            "periodo": "2020 - 2020",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Gustavo Lobato Campos"
-            ]
-        },
-        {
-            "nome": "Desenvolvimento de um aplicativo gratuito para auxiliar em psicoterapias de casal -",
-            "periodo": "2020 - 2020",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Mariana Guimarães dos Santos"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "U) -",
-            "periodo": "2020",
-            "natureza": "Outra",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Miguel Rivera Peres Júnior",
-                "Breno Valente Fontes Araújo",
-                "Patrick Santos de Oliveira"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Formiga -",
-            "periodo": "2020",
-            "natureza": "Outra",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Miguel Rivera Peres Júnior",
-                "Breno Valente Fontes Araújo",
-                "Patrick Santos de Oliveira",
-                "Denise Ferreira Garcia Rezende"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Maker: -",
-            "periodo": "2020",
-            "natureza": "Extensao",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Breno Valente Fontes Araújo",
-                "Denise Ferreira Garcia Rezende"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Finitos -",
-            "periodo": "2021",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Gustavo Lobato Campos"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Didático -",
-            "periodo": "2021",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "P) -",
-            "periodo": "2012 - 2013",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Mário Luiz Rodrigues Oliveira",
-                "Diego Mello da Silva"
+    "campus": "- Campus Formiga",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2017",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Um Sistema de Tradução Simulink-SMV para Verificação de Modelos",
+                "orientador": "Sergio Vale Aguiar Campos"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "",
+                "periodo": "2012 - 2013",
+                "instituicao": "Universidade Federal de Itajubá",
+                "orientador": "Profa"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1998 - 2002",
+                "instituicao": "Universidade Federal de Lavras"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2005 - 2008",
+                "cargo": "Professor/Tutor, Professor/Tutor, Professor/Tutor da disciplina Ambientes de Desenvolvimento e Programação no curso de pós-gradução lato sensu Produção de Software com ênfase em Software Livre.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2002 - 2005",
+                "cargo": "Professor, Professor no Departamento de Ciência da Computação no período de agosto/2002 à julho/2005, ministrando as seguintes disciplinas: compiladores, arquitetura de computadores e linguagens de programação.."
+            },
+            {
+                "empresa": "Faculdade Presbiteriana Gammon",
+                "periodo": "2003 - 2006",
+                "cargo": "Professor, Professor do curso de Sistemas de Informação: ministrando as disciplinas de arquitetura de computadores, compiladores, algoritmos e estruturas de dados I e II e laboratório de programação I, II e III."
+            },
+            {
+                "empresa": "Faculdade de Filosofia Ciências e Letras de Boa Esperança",
+                "periodo": "2005 - 2006",
+                "cargo": "Professor, Professor do curso Tecnologia em Sistemas de Informação, ministrando as disciplinas: algoritmos e estruturas de dados I e organização de computadores.."
+            },
+            {
+                "empresa": "Empresa de Pesquisa Agropecuária de Minas Gerais",
+                "periodo": "2002 - 2003",
+                "cargo": "Bolsista de Desenvolvimento, Bolsista, Bolsista da FAGRO - Fundação de Apoio à Pesquisa e ao Agronegócio Brasileiro - no projeto Fotografias aéreas e imagens orbitais utilizadas na identificação de café (Coffea arabica) para fins de previsão de safra.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2012",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2012 - 2013",
+                "cargo": "Tutor, Tutor, Tutor do curso de extensão Atendimento Educacional Especializado (AEE): Excluindo diferenças e elevando a qualidade do ensino com o uso de tecnologias computacionais.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2010 - 2012",
+                "cargo": "Tutor, Tutor, Tutor presencial e à distância do curso Manutenção e Suporte em Informática, ofertado pelo IFMG - Campus Formiga. O curso é oferecido na modalidade de educação à distância e exerço minhas atividades no Polo de Boa Esperança/MG.."
+            },
+            {
+                "empresa": "Fundação de Apoio ao Ensino Pesquisa e Extensão",
+                "periodo": "2004 - 2005",
+                "cargo": "Gerente de Processamento de Dados, Celetista formal."
+            },
+            {
+                "empresa": "ForScience: Revista Científica do IFMG (Online)",
+                "periodo": "2015",
+                "cargo": ", Membro de corpo editorial."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Formiga (2021) : Diretor De Ensino.\nInstituto Federal Minas Gerais - Campus Formiga (2016 - 2017) : Coordenador Geral Dos Cursos Técnicos.\nInstituto Federal Minas Gerais - Campus Formiga (2014 - 2016) : Coordenador Do Curso Técnico Em Informática.\nInstituto Federal Minas Gerais - Campus Formiga (2012): Compiladores, Arquitetura de Computadores, Linguagens de programação, Otimização,",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2021) - Ciência Da Computação.\nGraduacao (2020 - 2020) - Ciência Da Computação.\nGraduacao (2020 - 2021) - Ciência Da Computação.\nGraduacao (2019 - 2019) - Ciência Da Computação.\nGraduacao (2019 - 2019) - Ciência Da Computação.\nGraduacao (2016 - 2016) - Ciência Da Computação.\nGraduacao (2016 - 2016) - Ciência Da Computação.\nEnsino-medio (2016 - 2016) .\nGraduacao (2015 - 2015) - Ciência Da Computação.\nGraduacao (2015 - 2016) - Ciência Da Computação.\nEnsino-medio (2015 - 2015) .\nGraduacao (2014 - 2014) - Ciência Da Computação.\nGraduacao (2014 - 2014) - Engenharia Elétrica.\nGraduacao (2014 - 2015) - Ciência Da Computação.\nEnsino-medio (2014 - 2015) .\nGraduacao (2013 - 2014) - Ciência Da Computação.\nEnsino-medio (2013 - 2014) .\nGraduacao (2013 - 2013) - Ciência Da Computação.\nGraduacao (2012 - 2012) - Ciência Da Computação.\nEnsino-medio (2012 - 2013) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Software de Coleta e Gerenciamento de Dados referentes aos indicadores econômicos regionais através de dispositivos móveis",
+                "periodo": "2014 - 2016",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Diego Mello da Silva",
+                    "Bruno César de Melo Moreira",
+                    "Adriano Olímpio Tonelli",
+                    "Alisson de Castro Ferreira",
+                    "Arlete Aparecida de Abreu",
+                    "Daniel Fonseca Costa",
+                    "Robson de Castro Ferreira",
+                    "Washington Santos da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de Software de Apoio ao Planejamento de Projetos (PROSCENARIO)",
+                "periodo": "2014 - 2016",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Diego Mello da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo sobre segurança da informação, vulnerabilidade de páginas web e engenharia social",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "otávio de souza martins gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo e Aplicação de Verificação de Modelos em Sistemas Embarcados desenvolvidos no IFMG-Campus Formiga",
+                "periodo": "2020 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Gustavo Lobato Campos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um aplicativo gratuito para auxiliar em psicoterapias de casal",
+                "periodo": "2020 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Mariana Guimarães dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto para Implantação de ambiente de Inovação no Campus Formiga: Laboratório de Inovação, Criatividade e Empreendedorismo Universitário (LICEU)",
+                "periodo": "2020",
+                "natureza": "Outra",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Miguel Rivera Peres Júnior",
+                    "Breno Valente Fontes Araújo",
+                    "Patrick Santos de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto para implantação de Laboratório IFMaker no Laboratório de Inovação, Criatividade e Empreendedorismo Universitário (Liceu) do IFMG Campus Formiga",
+                "periodo": "2020",
+                "natureza": "Outra",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Miguel Rivera Peres Júnior",
+                    "Breno Valente Fontes Araújo",
+                    "Patrick Santos de Oliveira",
+                    "Denise Ferreira Garcia Rezende"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Lab IFMaker:",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Breno Valente Fontes Araújo",
+                    "Denise Ferreira Garcia Rezende"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo e Aplicação de Verificação de Modelos em Funções Veiculares Modeladas em Estados Finitos",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Gustavo Lobato Campos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Forense Digital e Resposta a Incidentes: Estudo e Elaboração de Material Didático",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise Experimental de Metaheuristicas para o Problema do Escalonamento de Projetos com Restrição de Recursos (RCPSP)",
+                "periodo": "2012 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mário Luiz Rodrigues Oliveira",
+                    "Diego Mello da Silva"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "M. L. R.,  Processamento Digital de Imagens",
+                    "ano": "2003",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "M. L. R.,  Redes Neurais",
+                    "ano": "2001",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "M. L. R.,  Curso de Java",
+                    "ano": "2005"
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "M. L. R.,  Curso de Linux",
+                    "ano": "2005"
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "M. L. R.,  A Linguagem de Programação Java",
+                    "ano": "2002"
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "M. L. R.,  A Linguagem de Programação Java",
+                    "ano": "2001"
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "M. L. R.,  A Linguagem de Programação Java",
+                    "ano": "2000"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "M. L. R.,  VI SECICOM - Semana de Ciência da Computação",
+                    "ano": "2004",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "M. L. R.,  V SECICOM - Semana de Ciência da Computação",
+                    "ano": "2003",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "M. L. R.,  II SECICOM - Semana de Ciência da Computação",
+                    "ano": "1999",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA, V. C. O.",
+                "titulo": "OLIVEIRA, M",
+                "evento": "L. R.; VIEIRA",
+                "local": "T. G. C.; ALVES, H. M. R.; Portal Vertical GeoSolos Spring Web na divulgação na divulgação dos resultados de pesquisa em regiões cafeeiras de Minas Gerais. XII Simpósio Brasileiro de Sensoriamento Remoto, Goiânia",
+                "ano": "2005"
+            },
+            {
+                "autores": "SOUZA, V. C. O.",
+                "titulo": "VIEIRA, T",
+                "evento": "G. C.; ALVES",
+                "local": "H. M. R.; OLIVEIRA, M. L. R.; Portal GeoSolos: Internet na divulgação de resultados de pesquisas em Minas Gerais. IV Simpósio de Pesquisa dos Cafés do Brasil, Londrina",
+                "ano": "2005"
+            },
+            {
+                "autores": "SOUZA, V. C. O.",
+                "titulo": "VIEIRA, T",
+                "evento": "G. C.; ALVES",
+                "local": "H. M. R.; OLIVEIRA, M. L. R.; The use of the Internet to publish Geoinformation from coffee environments of Brazil. XXII International Cartographic Conference,, La Coruña",
+                "ano": "2005"
+            },
+            {
+                "autores": "ALVES, H. M. R.",
+                "titulo": "MARQUES, H",
+                "evento": "S.; BERTOLDO",
+                "local": "M. A.; OLIVEIRA, M. L. R.; VIEIRA, T. G. C.; Caracterização da Cultura Cafeeira em Relação às Classes de Solos e Declividade Utilizando Técnicas de Geoprocessamento na Região de São Sebastião do Paraíso/MG. XI Simpósio Brasileiro de Sensoriamento Remoto, Belo Horizonte",
+                "ano": "2003"
+            },
+            {
+                "autores": "MARQUES, H. S.",
+                "titulo": "BERTOLDO, M",
+                "evento": "A.; ANDRADE",
+                "local": "H.; ALVES, H. M. R.; VIEIRA, T. G. C.; OLIVEIRA, M. L. R.; Mapeamento das Classes de Solo da Região de Machado/MG, a partir da correlação entre solos e relevo, utilizando técnicas de Geoprocessamento. XI Simpósio Brasileiro de Sensoriamento Remoto, Belo Horizonte",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Suena Batista Galoneti",
+                "titulo": "Modelos Computacionais: computabilidade e classes de complexidade",
+                "ano": "2020",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Natanael Ramos",
+                "titulo": "Alocação de Registradores: uma abordagem usando GRASP",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Natanael Ramos",
+                "titulo": "Desenvolvimento de Software de Apoio ao Planejamento de Projetos (PROSCENARIO)",
+                "ano": "2014",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Raí Caetano de Jesus",
+                "titulo": "Desenvolvimento de Software de Apoio ao Planejamento de Projetos (PROSCENARIO)",
+                "ano": "2014",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Paulo Cesar Monceff",
+                "titulo": "Desenvolvimento de um Software de Coleta de Dados através de uma Plataforma Móvel para Geração de Indicadores Econômicos Regionais",
+                "ano": "2014",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "João Paulo Fernandes de Cerqueira César",
+                "titulo": "Programa Jovens Talentos",
+                "ano": "2013",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Matheus Henrique Souza",
+                "titulo": "Avaliação Experimental de Metaheuristicas para o Problema do Escalonamento de Projetos com Restrição de Recursos (RCPSP)",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Frederico Henrique Nery",
+                "titulo": "Avaliação Experimental de Metaheuristicas para o Problema do Escalonamento de Projetos com Restrição de Recursos (RCPSP)",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Giego Alves de Souza",
+                "titulo": "Programa Jovens Talentos",
+                "ano": "2013",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Luci Aparecida Nicolau",
+                "titulo": "Sistema de Informação Geográfico-Gerencial Aplicado à Gestão da Qualidade na Segurança Pública",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras"
+            },
+            {
+                "orientando": "Vanessa Cristina Oliveira de Souza",
+                "titulo": "Portal Vertical do Geosolos: Geoprocessamento e Caracterização de Agroecossistemas Cafeeiros",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras"
+            },
+            {
+                "orientando": "Renato Ramos da Silva",
+                "titulo": "Reconhecimento de Imagens Digitais Utilizando Redes Neurais Artificiais",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras"
+            },
+            {
+                "orientando": "Adriano Arlei de Carvalho",
+                "titulo": "Estudo e Implementação de Algoritmos Clássicos para Processamento Digital de Imagens",
+                "ano": "2003",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras"
+            }
+        ]
+    }
 }

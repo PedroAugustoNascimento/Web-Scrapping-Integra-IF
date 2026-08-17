@@ -1,110 +1,591 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Informática",
-            "periodo": "2017 - 2024",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
-            "titulo": "UMA ABORDAGEM PARA OFFLOADING EM REDES VEICULARES CONSIDERANDO MÚLTIPLOS SALTOS EM UM CENÁRIO DE SOBREPOSIÇÃO DE RSU",
-            "orientador": "Fátima de Lima Procópio Duarte-Figueiredo"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Informática",
-            "periodo": "2007 - 2009",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
-            "titulo": "Ciclo de Trabalho Dinâmico em uma Rede para Medição de Energia Elétrica",
-            "orientador": "Raquel Aparecida de Freitas Mini"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Engenharia de Software",
-            "periodo": "2004 - 2005",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "orientador": "Mariza Andrade da Silva Bigonha"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "1999 - 2003",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Nansen S A Instrumentos de Precisão",
-            "periodo": "2013 - 2014",
-            "cargo": "Especialista em Software Embarcado, - Confecção do firmware do Medidor Eletrônico de Energia Elétrica da Linha Spectrum S com programação em Linguagem C para DSP TMS320C203 da Texas Instruments, realizando emulação em protótipo, utilizando conhecimentos de Eletrônica Digital e Analógica, Instrumentação, Medidas Elétricas e Protocolos de Comunicação com auxílio de Ferramentas Case, tais como, Enterprise Architect e Poseidon;"
-        },
-        {
-            "empresa": "Nansen S A Instrumentos de Precisão",
-            "periodo": "2004 - 2012",
-            "cargo": "Analista de Sistemas Sênior, - Participação em projeto internacional na China realizando desenvolvimento de protocolos brasileiros em medidores chineses de energia elétrica utilizando using microcontroladores PIC e Renesas. Desenvolvimento realizados nas cidades de Ningbo e Qidong, província Jiangsu, China."
-        },
-        {
-            "empresa": "Nansen S A Instrumentos de Precisão",
-            "periodo": "2002 - 2004",
-            "cargo": "Estagiário, - Desenvolvimento e manutenção de softwares desenvolvidos em Delphi, C++ e ASP."
-        },
-        {
-            "empresa": "Centro Universitário Presidente Antônio Carlos",
-            "periodo": "2007 - 2012",
-            "cargo": "Professor/Coordenador."
-        },
-        {
-            "empresa": "MSX International",
-            "periodo": "2012 - 2013",
-            "cargo": "Especialista de Produto, Atividades realizadas para a Fiat Automóveis na área de Engenharia de Software Embarcado. Responsável pela área de qualidade de software embarcado. Estudo de Autosar e normas de projetos e processos de desenvolvimento de sistemas embarcados para a indústria automotiva."
-        },
-        {
-            "empresa": "Faculdade Pitágoras",
-            "periodo": "2014 - 2015",
-            "cargo": "Coordenador/Professor."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-            "periodo": "2015 - 2017",
-            "cargo": "Professor, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2017",
-            "cargo": "Professor Assistente, Servidor público."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas Gerais - Campus Ibirité (2025) .\nInstituto Federal de Minas Gerais - Campus Ibirité (2024): Inteligência Artificial, Ciência de Dados, Desenvolvimento WEB,",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2024) - Ciência Da Computação.\nEnsino-fundamental (2017) .\nGraduacao (2017) - Engenharia De Controle E Automação.\nGraduacao (2017) - Engenharia De Computação.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Objetos -",
-            "periodo": "2026",
-            "natureza": "Extensao",
-            "equipe": [
-                "Efrem Eladie de Oliveira Lousada"
+    "campus": "- Campus Ibirité",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "periodo": "2017 - 2024",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+                "titulo": "UMA ABORDAGEM PARA OFFLOADING EM REDES VEICULARES CONSIDERANDO MÚLTIPLOS SALTOS EM UM CENÁRIO DE SOBREPOSIÇÃO DE RSU",
+                "orientador": "Fátima de Lima Procópio Duarte-Figueiredo"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "periodo": "2007 - 2009",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+                "titulo": "Ciclo de Trabalho Dinâmico em uma Rede para Medição de Energia Elétrica",
+                "orientador": "Raquel Aparecida de Freitas Mini"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Software",
+                "periodo": "2004 - 2005",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "orientador": "Mariza Andrade da Silva Bigonha"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1999 - 2003",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Nansen S A Instrumentos de Precisão",
+                "periodo": "2013 - 2014",
+                "cargo": "Especialista em Software Embarcado, - Confecção do firmware do Medidor Eletrônico de Energia Elétrica da Linha Spectrum S com programação em Linguagem C para DSP TMS320C203 da Texas Instruments, realizando emulação em protótipo, utilizando conhecimentos de Eletrônica Digital e Analógica, Instrumentação, Medidas Elétricas e Protocolos de Comunicação com auxílio de Ferramentas Case, tais como, Enterprise Architect e Poseidon;"
+            },
+            {
+                "empresa": "Nansen S A Instrumentos de Precisão",
+                "periodo": "2004 - 2012",
+                "cargo": "Analista de Sistemas Sênior, - Participação em projeto internacional na China realizando desenvolvimento de protocolos brasileiros em medidores chineses de energia elétrica utilizando using microcontroladores PIC e Renesas. Desenvolvimento realizados nas cidades de Ningbo e Qidong, província Jiangsu, China."
+            },
+            {
+                "empresa": "Nansen S A Instrumentos de Precisão",
+                "periodo": "2002 - 2004",
+                "cargo": "Estagiário, - Desenvolvimento e manutenção de softwares desenvolvidos em Delphi, C++ e ASP."
+            },
+            {
+                "empresa": "Centro Universitário Presidente Antônio Carlos",
+                "periodo": "2007 - 2012",
+                "cargo": "Professor/Coordenador."
+            },
+            {
+                "empresa": "MSX International",
+                "periodo": "2012 - 2013",
+                "cargo": "Especialista de Produto, Atividades realizadas para a Fiat Automóveis na área de Engenharia de Software Embarcado. Responsável pela área de qualidade de software embarcado. Estudo de Autosar e normas de projetos e processos de desenvolvimento de sistemas embarcados para a indústria automotiva."
+            },
+            {
+                "empresa": "Faculdade Pitágoras",
+                "periodo": "2014 - 2015",
+                "cargo": "Coordenador/Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "periodo": "2015 - 2017",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2017",
+                "cargo": "Professor Assistente, Servidor público."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas Gerais - Campus Ibirité (2025) .\nInstituto Federal de Minas Gerais - Campus Ibirité (2024): Inteligência Artificial, Ciência de Dados, Desenvolvimento WEB,",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2024) - Ciência Da Computação.\nEnsino-fundamental (2017) .\nGraduacao (2017) - Engenharia De Controle E Automação.\nGraduacao (2017) - Engenharia De Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "Spectrum S - Medidor eletrônico de energia",
+                "periodo": "2003 - 2003",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "SCA - Sistema de Controle de Atividades",
+                "periodo": "2003 - 2003",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "Draco 2.26 - Sofware de comunicação e parametrização de medidores eletrônicos de energia.",
+                "periodo": "2004 - 2004",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "FAQ - Engenharia - Perguntas frequentes",
+                "periodo": "2004 - 2004",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "SO2 - Estudo e denvolvimento de medidor eletrônico de energia",
+                "periodo": "2004 - 2005",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ]
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "S2004 - Novas implementações da ABNT 2004 para medidores eletrônicos de energia.",
+                "periodo": "2005 - 2005",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "Precision Field - Padrão Trifásico Portátil",
+                "periodo": "2005 - 2007",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "Pégasus - Software de comunicação Precision Fiel - Padrão Trifásico Portátil.",
+                "periodo": "2006 - 2007",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "Desenvolvimento de Protocolos de Comunicação RS485 em Medidores de Energia Elétrica Chineses",
+                "periodo": "2012 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Nansen S A Instrumentos de Precisão",
+                "nome": "PCP - Controle de Produção",
+                "periodo": "2003 - 2004",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ],
+                "financiador": "Nansen S A Instrumentos de Precisão,"
+            },
+            {
+                "instituicao": "Centro Universitário Presidente Antônio Carlos",
+                "nome": "Redução Do Consumo De Energia Em Redes De Sensores Sem Fio",
+                "periodo": "2009 - 2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Orlando Silva Junior",
+                    "Efrem Eladie de Oliveira Lousada",
+                    "Raquel Aparecida de Freitas Mini",
+                    "Michael Martins Consedey",
+                    "Mirna Paula Silva"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Trabalho Interdisciplinar com a Comunidade: Desenvolvimento de Aplicações Orientada a Objetos",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Trabalho Interdisciplinar com a Comunidade: Desenvolvimento de Aplicações Web Front-End",
+                "periodo": "2025 - 2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Efrem Eladie de Oliveira Lousada"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  Pégasus",
+                    "ano": "2006",
+                    "finalidade": "Comunicação e parametrização do Precision Field."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  SadaQuali",
+                    "ano": "2006",
+                    "finalidade": "Desenvolvimento do firmware de um medidor de qualidade de energia."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  SO2",
+                    "ano": "2005",
+                    "finalidade": "Aumento de robustez no Spectrum S."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  VITAL, Roberto Eduardo,  SUAREZ, Fernando,  S2004",
+                    "ano": "2005",
+                    "finalidade": "Novas implementações ABNT para medidores de energia elétrica."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  Precision Field",
+                    "ano": "2005",
+                    "finalidade": "Padrão de medição para calibração de medidores em campo."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  Draco 2.26",
+                    "ano": "2004",
+                    "finalidade": "Comunicação e parametrização de medidores eletrônicos de energia elétrica."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  PCP",
+                    "ano": "2004",
+                    "finalidade": "Controle de fabricação de medidores eletrônicos de energia elétrica."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  FAQ - Engenharia",
+                    "ano": "2004",
+                    "finalidade": "Facilitar a comunicação da engeharia com os demais setores da empresa."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  Switcher",
+                    "ano": "2004",
+                    "finalidade": "Automatizar testes em medidores de energia elétrica."
+                },
+                {
+                    "autor": "LOUSADA",
+                    "software": "Efrem Eladie de Oliveira,  SCA - Sistema de Controle de Atividades",
+                    "ano": "2003",
+                    "finalidade": "Controle dos históricos de horas gastas no desenvolvimento de projetos."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BULHOES",
+                    "curso": "Daniel Brito,  LOUSADA, Efrem Eladie de Oliveira,  SANTOS, V. L. A.,  Informática Básica - IFNMG Campus Pirapora",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "LOUSADA",
+                    "curso": "Efrem Eladie de Oliveira,  Programação C - Básico - UNIPAC Contagem",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "LOUSADA",
+                    "curso": "Efrem Eladie de Oliveira,  Excel 2007 Avançado - UNIPAC Contagem",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "LOUSADA",
+                    "curso": "Efrem Eladie de Oliveira,  Excel 2007 Básico - UNIPAC Contagem",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "LOUSADA",
+                    "curso": "Efrem Eladie de Oliveira,  Programação Visual e Multimídia - UNIPAC Contagem",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "LOUSADA",
+                    "evento": "Efrem Eladie de Oliveira,  ROADSEC: Hacking, segurança e tecnologia. Faculdade Pitágoras - Belo Horizonte",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Pitágoras."
+                },
+                {
+                    "autores": "LOUSADA",
+                    "evento": "Efrem Eladie de Oliveira,  I Semana da Informática - UNIPAC Contagem",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UNIPAC - Universidade Presidente Antônio Carlos."
+                }
             ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "End -",
-            "periodo": "2025 - 2026",
-            "natureza": "Extensao",
-            "equipe": [
-                "Efrem Eladie de Oliveira Lousada"
-            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "FIGUEIREDO, FÁTIMA DE LIMA PROCÓPIO DUARTE;  CN-ffVP: uma solução para mitigação de tempestade de broadcast baseada em métricas de redes complexas, distância e energia dos nos",
+                "ano": "2024",
+                "periodico": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA. ISBN: 16968352   ."
+            },
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "FIGUEIREDO, FÁTIMA DE LIMA PROCÓPIO DUARTE;  An approach for offloading with multi-hop considerations in an RSU signal overlay setting",
+                "ano": "2024",
+                "periodico": "REVISTA DE GESTÃO E SECRETARIADO. ISBN: 21789010   ."
+            },
+            {
+                "autores": "STORCK, CARLOS R.",
+                "titulo": "LOUSADA, EFREM E. DE O.;  SILVA, GUILHERME G. DE O.;  MINI, RAQUEL A.F.;  DUARTE-FIGUEIREDO, FÁTIMA;  FiVH: A solution of inter-V-Cell handover decision for connected vehicles in ultra-dense 5G networks",
+                "ano": "2020",
+                "periodico": "Vehicular Communications. ISBN: 22142096   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "LOUSADA, EFREM E. O.",
+                "titulo": "STORCK, CARLOS R",
+                "evento": "; MINI",
+                "local": "RAQUEL A. F.; DE LIMA PROCOPIO DUARTE-FIGUEIREDO, FATIMA; Using Complex Networks Metrics to Mitigate the Broadcast Storm Problem. 2019 IEEE Symposium on Computers and Communications (ISCC), Barcelona",
+                "ano": "2019"
+            },
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "Raquel Aparecida de Freitas Mini; Internet das Coisas Aplicada nas Redes Elétricas Inteligentes Brasileiras",
+                "evento": "VIII Simpósio Brasileiro de Computação Ubíqua e Pervasiva (SBCUP)",
+                "local": "Porto Alegre",
+                "ano": "2016"
+            },
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "Raquel Aparecida de Freitas Mini; Proposta de Solução para Aplicação de Internet das Coisas nas Redes Elétricas Inteligentes Brasileiras Considerando as Limitações das Normas Vigentes",
+                "evento": "XLIII Seminário Integrado de Software e Hardware (SEMISH)",
+                "local": "Porto Alegre",
+                "ano": "2016"
+            },
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "ROSA, K",
+                "evento": "F.; SANTOS",
+                "local": "A. C.; SANTOS, T. G.; SANTOS, M. M.; Uma abordagem comparativa na usabilidade de aplicativos móveis para transporte público. VIII Simpósio de Informática - Instituto Federal do Norte de Minas Gerais (IFNMG), Januária",
+                "ano": "2016"
+            },
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "CRUZ, J",
+                "evento": "R.; REIS",
+                "local": "E. X.; YOGI, C. M. D.; SANTOS, D. O.; Monitoramento de Carga em Caminhões de Coleta e Compactação de Lixo Domiciliar: Sistema Supervisório de Carga. VIII Simpósio de Informática - Instituto Federal do Norte de Minas Gerais (IFNMG), Januária",
+                "ano": "2016"
+            },
+            {
+                "autores": "LOUSADA, Efrem Eladie de Oliveira",
+                "titulo": "Desenvolvimento e Validação de uma Rede Social Voltada ao Apoio do Processo de Ensino/Aprendizagem",
+                "evento": "IV Encontro de Inciação Centífica do Instituto Federal do Norte de Minas Gerais",
+                "local": "Pirapora",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Paulo Augusto de A",
+                "titulo": "F. Ponciano e Walter Thiago A. Reis.  SISTEMA DE GESTÃO PESSOAL FINANCEIRO",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Lucas Alves Moreira e Eduardo Júnio Silveira",
+                "titulo": "APLICAÇÃO PARA AUXÍLIO NA TOMADA DE DECISÃO NOS TRANPORTES PÚBLICOS",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Christian Fernandes Borges e Lucas Gomes Nunes",
+                "titulo": "AUTOMAÇÃO DE TAREFAS EM AUTOIT",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "André A",
+                "titulo": "T. dos Santos, João P. Durães e Matheus W. R. Bueno.  AMBIENTE COLABORATIVO EM SHAREPOINT PARA ESCRITÓRIOS DE CONTABILIDADE",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Bruno Alexandre Pereira",
+                "titulo": "INTELIGÊNCIA ARTIFICIAL APLICADA A SISTEMAS EMBARCADOS",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Jackson Santiago S",
+                "titulo": "Marques e Edgar Souza Araújo.  DIARIZAÇÃO DE ORÇAMENTO DE KPI?S: ESTUDO DE CASO DE UMA EMPRESA DO SETOR DE MINERAÇÃO",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "João C",
+                "titulo": "Silva, Igor F. Proença, Daniel P. Lopes.  SISTEMA DE INFORMAÇÕES GERENCIAIS - UMA APLICAÇÃO PRÁTICA",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Ana Souza",
+                "titulo": "A TÉCNICA DE IMPRESSÃO 3D VOLTADA PARA DESENVOLVIMENTO DE PRÓTESES",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Daniel Almada de Mello",
+                "titulo": "ORIENTAÇÃO DE ESTÁGIO OBRIGATÓRIO",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Vinícius Henrique Oliveira Flores",
+                "titulo": "ORIENTAÇÃO DE ESTÁGIO OBRIGATÓRIO",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Eliziane Gonçalves Andrade e Vanderlei José de Azevedo",
+                "titulo": "SISTEMA DE ORDENS DE SERVIÇO PARA RELOJOARIAS E JOALHEIROS",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Jose R",
+                "titulo": "da Cruz, Ebenezer X. dos Reis e Christian M. D. Yogi.  MONITORAMENTO DE CARGA EM CAMINHÕES E COLETA E COMPACTAÇÃO DE LIXO DOMICILIAR",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Aline Carneiro, Tiago Gonçalves, Kamila Fernandes",
+                "titulo": "UMA ABORDAGEM COMPARATIVA NA USABILIDADE DE APLICATIVOS MOVEIS PARA TRANSPORTE PUBLICO",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Bruno G",
+                "titulo": "Ferreira, Marcelo F. da Silva e Tiego P. Santos.  DESENVOLVIMENTO DE SOFTWARE UTILIZANDO DESIGN PATTERNS ? UMA EXPERIÊNCIA DE USO",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Edimarcos Gonçalves Maranhão",
+                "titulo": "E-AGENDA CRIATIVA: UMA APLICAÇÃO PARA AGENDAS DE VENDEDORES",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Carla A",
+                "titulo": "R. Gomes, Euler Santana e Gustavo H. F. Sanros.  SISTEMA DE INTEGRAÇÃO DE DOAÇÕES ÁS INSTITUIÇÕES DE CARIDADE",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Fábio Lemes Fernandes e Jonathas Demetrios Fernandes",
+                "titulo": "DESENVOLVIMENTO DE APLICATIVOS ANDROID: TROCA DE ARQUIVOS EM SALA DE AULA",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Caio Cesar de Oliveira",
+                "titulo": "DESENVOLVIMENTO DE APLICATIVO PARA FEIRA HIPPIE",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Júlio C",
+                "titulo": "Santos, Elizangela F. Rodrigues e Renato P. da Cruz.  METODOLOGIA ÁGEIS: ADOTANDO SCRUM COMO MODELO DE DESENVOLVIMENTO DE UM TRABALHO DE CONCLUSÃO DE CURSO",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Higor Augusto da Silva",
+                "titulo": "TRANSITO INTELIGENTE",
+                "ano": "2014",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Pitágoras"
+            },
+            {
+                "orientando": "Eduardo Junio Silveira",
+                "titulo": "DESENVOLVIMENTO DE UMA APLICAÇÃO PARA AUXÍLIO NA TOMADA DE DECISÃO NOS TRANSPORTES PÚBLICOS MUNICIPAIS E INTERMUNICIPAIS",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras"
+            },
+            {
+                "orientando": "Weslley Guilherme Lage e Israel Alves Nogueira",
+                "titulo": "UM ESTUDO DA CRIPTOANALISE PARA AUTENTICAÇÃO E COMUNICAÇÃO DE DISPOSITIVOS MÓVEIS EM REDE DE SISTEMAS DISTRIBUÍDOS",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Davidson O",
+                "titulo": "Siqueira, Paulo Marcelo A. Souza, Vinícius Pinto.  ANÁLISE DE DESEMPENHO DE UMA REDE CORPORATIVA COM RELAÇÃO À UTILIZAÇÃO DE APLICATIVOS P2P",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Leandro R",
+                "titulo": "Alexandre e Welisson Simão da Silva.  SISTEMA DE GESTÃO DE SEGURANÇA DE TRABALHO",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Daniel C",
+                "titulo": "Gomes, Diego A. Coelho, Rangel Diniz.  BENEFÍCIOS DO USO VOIP NO AMBIENTE CORPORATIVO: ESTUDO DE CASO GLOBALCOP",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Eduardo H",
+                "titulo": "Gibelini, Diego M. N. Miranda.  ANÁLISE DE FERRAMENTAS PARA AUTOMAÇÃO DE TESTES EM APLICATIVOS DE DISPOSITIVOS MÓVEIS",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Jucyelle S",
+                "titulo": "Aparecida, Carlos H. Almeida, Jean Moreira.  INVIABILIDADE DO USO DA TECNOLOGIA RFID NA EMPRESA CODEME ENGENHARIA",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            },
+            {
+                "orientando": "Arthur Alexandre Mac Millan Santos",
+                "titulo": "ORIENTAÇÃO DE ESTÁGIO OBRIGATÓRIO",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras - Matriz"
+            }
+        ]
+    }
 }

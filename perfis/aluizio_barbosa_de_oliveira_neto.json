@@ -1,106 +1,235 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Música",
-            "periodo": "2013 - 2018",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Rumo à sala de estudos aumentada: Experiências com suporte computacional para o desenvolvimento técnico e perceptivo na performance musical",
-            "orientador": "Maurício Alves Loureiro"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Computação do Som e da Música",
-            "periodo": "2011 - 2013",
-            "instituicao": "Universitat Pompeu Fabra",
-            "titulo": "Técnica Parametrizável de Display Auditivo para treinamento via neurofeedback theta-alpha (A customizable, multi-parametric auditory display technique for theta-alpha neurofeedback training)",
-            "orientador": "Sergi Jordà"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2002 - 2007",
-            "instituicao": "Universidade Federal de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "ArcelorMittal Sestao",
-            "periodo": "2009 - 2012",
-            "cargo": "Engenheiro de sistemas de manutenção, Atividades: Desenvolvimento de soluções para gestão de manutenção baseadas nas metodologias TPM (Total Productive Maintenance), WCM (World Class Manufacturing), 6 Sigma e 5S. Tecnologias utilizadas: Microsoft Excel, Microsoft Project, VB.Net, MySQL.."
-        },
-        {
-            "empresa": "Grupo Novva",
-            "periodo": "2007 - 2007",
-            "cargo": "Desenvolvedor de software, Atividades: Desenvolvimento de sistemas de gestão em linguagens C#, VB.Net e PHP. Principais clientes: Vallourec & Mannesman, CEMIG e FIAT."
-        },
-        {
-            "empresa": "Take.Net",
-            "periodo": "2007 - 2007",
-            "cargo": "Estagiário desenvolvimento e criação, Bolsista, Produção musical; Edição; Desenvolvimento de soluções para criação de conteúdo multimídia para dispositivos móveis.."
-        },
-        {
-            "empresa": "Rádio UFMG Educativa",
-            "periodo": "2006 - 2006",
-            "cargo": "Bolsista de tecnologia, Bolsista, Atividades (geral): Desenvolvimento, operação e manutenção de servidor GNU/Linux para streaming de conteúdo multimídia produzido nos estúdios da Rádio UFMG Educativa no Campus Pampulha via Internet e canal de fibra óptica dedicado para o transmissor FM localizado no município de Contagem. Suporte técnico aos usuários da rede do CEDECOM (Centro de Comunicação) e funcionários da Rádio UFMG Educativo. Atividades (detalhado): Desenvolvimento de sistemas para compressão, transmissão e monitoramento de áudio (linguagem C, C++, HTML e Bash); Manutenção e operação de servidores de streaming (Icecast/Shoutcast) e Web (Apache); Desenvolvimento Web (HTML e JavaScript)."
-        },
-        {
-            "empresa": "Universitat Pompeu Fabra",
-            "periodo": "2011 - 2013",
-            "cargo": "Estágio docência, Bolsista, Atividade: Docência em disciplinas práticas e teóricas de Banco de Dados para alunos de graduação do curso de bacharelado em Ciência da Computação.."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2023 - 2024",
-            "cargo": "Professor Substituto - Faculdade de Educação, Professor temporário pela Escola de Música lotado na Faculdade de Educação para disciplinas dos cursos de Licenciatura em Música e Pedagogia.."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2017 - 2017",
-            "cargo": "Estágio Docência em Música, Bolsista."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2014 - 2017",
-            "cargo": "Pesquisador nível doutorado, Bolsista, Suporte às atividades do grupo de pesquisa CEGeME - Centro de Estudos do Gesto Musical e Expressão; Realização de experimentos de captura de áudio, vídeo e movimento (MoCap); Desenvolvimento de ferramentas para análise computacional de dados multimodais de performances musical; Gestão de servidores GNU/Linux para armazenamento de dados e disponibilização de serviços online para suporte computacional ao aprendizado para alunos do curso de bacharelado em instrumento. Tecnologias utilizadas: Python, Matlab, R, C++, PHP, MySQL e HTML.."
-        },
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2005 - 2005",
-            "cargo": "Monitor laboratório de computação, Bolsista, Atividades: Suporte aos usuários e gestão dos servidores, periféricos e terminais do Laboratório de Computação do Centro de Cálculo Eletrônico da Escola de Engenharia da Universidade Federal de Minas Gerais. Tecnologias utilizadas: Sistemas GNU/Linux (Debian, Fedora e Ubuntu); CUPS/Pykota, LDAP, desenvolvimento de aplicações em Bash, C e PHP.."
-        },
-        {
-            "empresa": "ArcelorMittal Tubarão",
-            "periodo": "2008 - 2009",
-            "cargo": "Engenheiro de Controle de Processo, Atividades: Otimização da linha de produção; Automatização da geração de relatórios de manutenção e produção; Desenvolvimento de sistema para controle de paradas de manutenção. Tecnologias utilizadas: Visual Basic, VB.Net, C, Microsoft SQL Server, Open Process Control, Rockwell - ControlLogix e TCS.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2020 - 2022",
-            "cargo": "Professor Substituto EBTT."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Universitat Pompeu Fabra\nGraduacao (2013 - 2013) - Ciência Da Computação.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {
-            "nome": "Expressividade: acoplamento acústico e gestual de músicos em prática de conjunto -",
-            "periodo": "2015",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Aluizio Barbosa de Oliveira Neto",
-                "Tairone Nunes Magalhães",
-                "Davi Alves Mota",
-                "Mauricio Alves Loureiro",
-                "Thais Fernandes Santos",
-                "Arícia Ferigato",
-                "Thiago de Almeida M. Campolina",
-                "Hani Camille Yehia"
+    "campus": "- Campus Sabará",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Música",
+                "periodo": "2013 - 2018",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Rumo à sala de estudos aumentada: Experiências com suporte computacional para o desenvolvimento técnico e perceptivo na performance musical",
+                "orientador": "Maurício Alves Loureiro"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação do Som e da Música",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universitat Pompeu Fabra",
+                "titulo": "Técnica Parametrizável de Display Auditivo para treinamento via neurofeedback theta-alpha (A customizable, multi-parametric auditory display technique for theta-alpha neurofeedback training)",
+                "orientador": "Sergi Jordà"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2002 - 2007",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "ArcelorMittal Sestao",
+                "periodo": "2009 - 2012",
+                "cargo": "Engenheiro de sistemas de manutenção, Atividades: Desenvolvimento de soluções para gestão de manutenção baseadas nas metodologias TPM (Total Productive Maintenance), WCM (World Class Manufacturing), 6 Sigma e 5S. Tecnologias utilizadas: Microsoft Excel, Microsoft Project, VB.Net, MySQL.."
+            },
+            {
+                "empresa": "Grupo Novva",
+                "periodo": "2007 - 2007",
+                "cargo": "Desenvolvedor de software, Atividades: Desenvolvimento de sistemas de gestão em linguagens C#, VB.Net e PHP. Principais clientes: Vallourec & Mannesman, CEMIG e FIAT."
+            },
+            {
+                "empresa": "Take.Net",
+                "periodo": "2007 - 2007",
+                "cargo": "Estagiário desenvolvimento e criação, Bolsista, Produção musical; Edição; Desenvolvimento de soluções para criação de conteúdo multimídia para dispositivos móveis.."
+            },
+            {
+                "empresa": "Rádio UFMG Educativa",
+                "periodo": "2006 - 2006",
+                "cargo": "Bolsista de tecnologia, Bolsista, Atividades (geral): Desenvolvimento, operação e manutenção de servidor GNU/Linux para streaming de conteúdo multimídia produzido nos estúdios da Rádio UFMG Educativa no Campus Pampulha via Internet e canal de fibra óptica dedicado para o transmissor FM localizado no município de Contagem. Suporte técnico aos usuários da rede do CEDECOM (Centro de Comunicação) e funcionários da Rádio UFMG Educativo. Atividades (detalhado): Desenvolvimento de sistemas para compressão, transmissão e monitoramento de áudio (linguagem C, C++, HTML e Bash); Manutenção e operação de servidores de streaming (Icecast/Shoutcast) e Web (Apache); Desenvolvimento Web (HTML e JavaScript)."
+            },
+            {
+                "empresa": "Universitat Pompeu Fabra",
+                "periodo": "2011 - 2013",
+                "cargo": "Estágio docência, Bolsista, Atividade: Docência em disciplinas práticas e teóricas de Banco de Dados para alunos de graduação do curso de bacharelado em Ciência da Computação.."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2023 - 2024",
+                "cargo": "Professor Substituto - Faculdade de Educação, Professor temporário pela Escola de Música lotado na Faculdade de Educação para disciplinas dos cursos de Licenciatura em Música e Pedagogia.."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2017 - 2017",
+                "cargo": "Estágio Docência em Música, Bolsista."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2014 - 2017",
+                "cargo": "Pesquisador nível doutorado, Bolsista, Suporte às atividades do grupo de pesquisa CEGeME - Centro de Estudos do Gesto Musical e Expressão; Realização de experimentos de captura de áudio, vídeo e movimento (MoCap); Desenvolvimento de ferramentas para análise computacional de dados multimodais de performances musical; Gestão de servidores GNU/Linux para armazenamento de dados e disponibilização de serviços online para suporte computacional ao aprendizado para alunos do curso de bacharelado em instrumento. Tecnologias utilizadas: Python, Matlab, R, C++, PHP, MySQL e HTML.."
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2005 - 2005",
+                "cargo": "Monitor laboratório de computação, Bolsista, Atividades: Suporte aos usuários e gestão dos servidores, periféricos e terminais do Laboratório de Computação do Centro de Cálculo Eletrônico da Escola de Engenharia da Universidade Federal de Minas Gerais. Tecnologias utilizadas: Sistemas GNU/Linux (Debian, Fedora e Ubuntu); CUPS/Pykota, LDAP, desenvolvimento de aplicações em Bash, C e PHP.."
+            },
+            {
+                "empresa": "ArcelorMittal Tubarão",
+                "periodo": "2008 - 2009",
+                "cargo": "Engenheiro de Controle de Processo, Atividades: Otimização da linha de produção; Automatização da geração de relatórios de manutenção e produção; Desenvolvimento de sistema para controle de paradas de manutenção. Tecnologias utilizadas: Visual Basic, VB.Net, C, Microsoft SQL Server, Open Process Control, Rockwell - ControlLogix e TCS.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2020 - 2022",
+                "cargo": "Professor Substituto EBTT."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universitat Pompeu Fabra\nGraduacao (2013 - 2013) - Ciência Da Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universitat Pompeu Fabra",
+                "nome": "Display auditivo customizável para treinamento e aprendizagem por neurofeedback alpha-theta",
+                "periodo": "2011 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Aluizio Barbosa de Oliveira Neto",
+                    "Sebastian Mealla",
+                    "Sergi Jordà",
+                    "Xavier Marimon"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "Análise Empírica da Expressividade: acoplamento acústico e gestual de músicos em prática de conjunto",
+                "periodo": "2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Aluizio Barbosa de Oliveira Neto",
+                    "Tairone Nunes Magalhães",
+                    "Davi Alves Mota",
+                    "Mauricio Alves Loureiro",
+                    "Thais Fernandes Santos",
+                    "Arícia Ferigato",
+                    "Thiago de Almeida M. Campolina",
+                    "Hani Camille Yehia"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Oliveira",
+                    "titulo": "A.,  SANTOS, T. F.,  CAMPOLINA, T.,  Loureiro, M,  Audio analysis tools on the development of a musically expressive performance",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade de Jyväskylä."
+                },
+                {
+                    "autores": "Oliveira",
+                    "titulo": "A.,  MEALLA, S.,  JORDA, S.,  A customizable, multi-parametric auditory display technique for theta-alpha neurofeedback training",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universitat Pompeu Fabra."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "Magalhães",
+                    "evento": "T,  Ferigato, A,  Mota, D,  Oliveira, A.,  Loureiro, M,  Naveda, Luiz,  SysMus 2018 - Conferência Internacional de Estudantes de Musicologia Sistemática",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Minas Gerais."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Oliveira, A.",
+                "titulo": "Loureiro, M; Schiavoni, F",
+                "evento": "L.; A tecnologia no estudo empírico da performance musical. VI Congresso sobre Tecnologias na Educação (Ctrl+E 2021)",
+                "local": "Evento virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "Oliveira, A.",
+                "titulo": "Iterações Meditativas: O uso de ferramentas computacionais para extração de características acústicas na composição acusmática",
+                "evento": "Simpósio Brasileiro de Computação Musical",
+                "local": "São João del Rei",
+                "ano": "2019"
+            },
+            {
+                "autores": "Loureiro, M",
+                "titulo": "Magalhães, T; Mota, D; CAMPOLINA, T",
+                "evento": "A. M.; Oliveira",
+                "local": "A.; Uma retrospectiva da pesquisa em expressividade musical conduzida pelo CEGeME. Simpósio Brasileiro de Computação Musical, São João del Rei",
+                "ano": "2019"
+            },
+            {
+                "autores": "Oliveira, A.",
+                "titulo": "Loureiro, M; Computação musical e pedagogia da performance: um panorama das universidades públicas brasileiras e direcionamentos futuros",
+                "evento": "XXVIII Congresso da Associação Nacional de Pesquisa e Pós-Graduação em Música",
+                "local": "Manaus",
+                "ano": "2018"
+            },
+            {
+                "autores": "Oliveira, A.",
+                "titulo": "Ferigato, A; CAMPOLINA, T",
+                "evento": "A. M.; DOMINGUES",
+                "local": "R. S. V.; Loureiro, M; Ferramentas de Análise Empírica e Metacognição no Processo de Interpretação Musical. SIMCAM - Simpósio Internacional de Cognição e Artes Musicais, 11, Porto Alegre",
+                "ano": "2016"
+            },
+            {
+                "autores": "Oliveira, A.",
+                "titulo": "SANTOS, T",
+                "evento": "F.; CAMPOLINA",
+                "local": "T.; Loureiro, M; Audio analysis tools on the development of a musically expressive performance. The 9th International Conference of Students of Systematic Musicology (SysMus16), Jyväskylä",
+                "ano": "2016"
+            },
+            {
+                "autores": "Magalhães, T",
+                "titulo": "Mota, D; Oliveira, A",
+                "evento": "; Loureiro",
+                "local": "M; Análise do Vibrato e Bending na Guitarra Elétrica. Simpósio Brasileiro de Computação Musical, Campinas",
+                "ano": "2015"
+            },
+            {
+                "autores": "SANTOS, T. F.",
+                "titulo": "Oliveira, A",
+                "evento": "; Loureiro",
+                "local": "M; Musical communication of flutists in ensemble performance. International Conference of Students of Systematic Musicology, Londres",
+                "ano": "2014"
+            },
+            {
+                "autores": "VALJAMAE, A.",
+                "titulo": "MEALLA, S",
+                "evento": "; Oliveira",
+                "local": "A.; Uma revisão dos métodos de sonificação de sinais de EEG. International Conference on Auditory Display, Lodz",
+                "ano": "2013"
+            },
+            {
+                "autores": "MEALLA, S.",
+                "titulo": "VALJAMAE, A",
+                "evento": "; Oliveira",
+                "local": "A.; SERRA, X. M.; The Role of Personalization and Multiple EEG and Sound Features Selection in Real Time Sonification for Neurofeedback. PhyCS 2014 - International Conference on Physiological Computing Systems, Lisboa",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Mateus Maia de Oliveira",
+                "titulo": "Estudo e desenvolvimento de sistema de e-commerce para empresa de peças e acessórios para bicicletas RC Bike",
+                "ano": "2023",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

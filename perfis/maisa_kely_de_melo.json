@@ -1,143 +1,565 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Modelagem Matemática e Computacional",
-            "periodo": "2017 - 2021",
-            "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "titulo": "Controle Preditivo Baseado em Modelo via Otimização Dinâmica Multiobjetivo de Portfólio de Investimentos",
-            "orientador": "Rodrigo Tomás Nogueira Cardoso"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Matemática",
-            "periodo": "2011 - 2013",
-            "instituicao": "Universidade Federal de Viçosa",
-            "titulo": "O Lema de Butler-McGehee e Aplicações",
-            "orientador": "Kennedy Martins Pedroso"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Matemática",
-            "periodo": "2007 - 2011",
-            "instituicao": "Universidade Federal de Lavras"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Viçosa",
-            "periodo": "2013 - 2014",
-            "cargo": "Professor Substituto."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "2011 - 2011",
-            "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Análise Matemática.."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "2011 - 2011",
-            "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Equações Diferenciais Ordinárias.."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "2008 - 2008",
-            "cargo": "Monitora voluntária, Bolsista, Monitora voluntária da disciplina Introdução à Lógica.."
-        },
-        {
-            "empresa": "Universidade Federal de Lavras",
-            "periodo": "2008 - 2008",
-            "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Estatística Básica.."
-        },
-        {
-            "empresa": "Olimpíadas Brasileiras de Matemática das Escolas Públicas",
-            "periodo": "2013 - 2014",
-            "cargo": "Professora Orientadora, Bolsista, Professora Orientadora de Nível I - Pólo Muriaé.."
-        },
-        {
-            "empresa": "EXPERT SYSTEMS WITH APPLICATIONS",
-            "periodo": "2021",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "IEEE Transactions on Control Systems Technology",
-            "periodo": "2022",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Universidade de Brasília",
-            "periodo": "2022 - 2023",
-            "cargo": "Pesquisadora, Bolsista."
-        },
-        {
-            "empresa": "Artificial Intelligence Review",
-            "periodo": "2022",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Mathematics",
-            "periodo": "2022",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais Campus Formiga",
-            "periodo": "2022",
-            "cargo": "Mestrado Profissional em Administração, Servidor público, Disciplina ministrada: Otimização de carteiras de investimentos."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais Campus Formiga",
-            "periodo": "2014",
-            "cargo": "Professora Efetiva, Servidor público."
-        },
-        {
-            "empresa": "Contabilidade & Finanças",
-            "periodo": "2023",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Empresa de consórcio de médio porte",
-            "periodo": "2023 - 2023",
-            "cargo": "Pesquisadora."
-        },
-        {
-            "empresa": "OtimizAI Soluções em Inteligência Artifical Ltda",
-            "periodo": "2024",
-            "cargo": "Sócia, Co-fundadora."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": "",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Models) -",
-            "periodo": "2023 - 2023",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Maisa Kely de Melo",
-                "Victor Rafael Rezende Celestino",
-                "Allan Victor Almeida Faria",
-                "R. DE OLIVEIRA",
-                "FLÁVIO",
-                "Fernando Rezende Celestino"
+    "campus": "- Campus Formiga",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Modelagem Matemática e Computacional",
+                "periodo": "2017 - 2021",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "titulo": "Controle Preditivo Baseado em Modelo via Otimização Dinâmica Multiobjetivo de Portfólio de Investimentos",
+                "orientador": "Rodrigo Tomás Nogueira Cardoso"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Matemática",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universidade Federal de Viçosa",
+                "titulo": "O Lema de Butler-McGehee e Aplicações",
+                "orientador": "Kennedy Martins Pedroso"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "periodo": "2007 - 2011",
+                "instituicao": "Universidade Federal de Lavras"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Viçosa",
+                "periodo": "2013 - 2014",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "Olimpíadas Brasileiras de Matemática das Escolas Públicas",
+                "periodo": "2013 - 2014",
+                "cargo": "Professora Orientadora, Bolsista, Professora Orientadora de Nível I - Pólo Muriaé.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2011 - 2011",
+                "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Equações Diferenciais Ordinárias.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2011 - 2011",
+                "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Análise Matemática.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitora voluntária, Bolsista, Monitora voluntária da disciplina Introdução à Lógica.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Estatística Básica.."
+            },
+            {
+                "empresa": "EXPERT SYSTEMS WITH APPLICATIONS",
+                "periodo": "2021",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Transactions on Control Systems Technology",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Universidade de Brasília",
+                "periodo": "2022 - 2023",
+                "cargo": "Pesquisadora, Bolsista."
+            },
+            {
+                "empresa": "Artificial Intelligence Review",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Mathematics",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais Campus Formiga",
+                "periodo": "2022",
+                "cargo": "Mestrado Profissional em Administração, Servidor público, Disciplina ministrada: Otimização de carteiras de investimentos."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais Campus Formiga",
+                "periodo": "2014",
+                "cargo": "Professora Efetiva, Servidor público."
+            },
+            {
+                "empresa": "Contabilidade & Finanças",
+                "periodo": "2023",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Empresa de consórcio de médio porte",
+                "periodo": "2023 - 2023",
+                "cargo": "Pesquisadora."
+            },
+            {
+                "empresa": "OtimizAI Soluções em Inteligência Artifical Ltda",
+                "periodo": "2024",
+                "cargo": "Sócia, Co-fundadora."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Curvas Parametrizadas do Plano e do Espaço",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Rita de Cássia Dornelas Sodré Broche"
+                ],
+                "financiador": "Instituto Nacional de Ciência e Tecnologia de Matemática,"
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Ajuste dos modelos Gompertz e Logístico aos dados de crescimento de frutos daTamareira-Anã com erros auto-regressivos.",
+                "periodo": "2008 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Joel Augusto Muniz",
+                    "Taciana Vilella Savian"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Estudos de modelos não-lineares na descrição do crescimento de frutos da Pereira Asiática(Pyrus pyrifolia)",
+                "periodo": "2009 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Joel Augusto Muniz",
+                    "Taciana Vilella Savian"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "Ciência de Dados aplicada ao Portfólio de Produtos Financeiros",
+                "periodo": "2022 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Victor Rafael Rezende Celestino",
+                    "Allan Victor Almeida Faria",
+                    "Li Weigang",
+                    "Daniel Oliveira Cajueiro",
+                    "Silvia Araujo dos Reis",
+                    "Jo&#347;e Márcio Carvalho",
+                    "Carlos Rosano Pena",
+                    "Tiago Mota dos Santos",
+                    "Vitor Bandeira Borges",
+                    "Joao Gabriel de Moraes Souza",
+                    "Marcos Vinicius Pinheiro Dib",
+                    "Carlos Alberto Alvares Rocha",
+                    "Johnathan Milagres"
+                ]
+            },
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "Aceleração de Solvers MILP em HPC via L2O, com Previsão de Tempo de Execução para Apoio Operacional",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Victor Rafael Rezende Celestino",
+                    "Silvia Araujo dos Reis",
+                    "Alba Cristina M. A. de Melo",
+                    "Artur Guerra Rosa",
+                    "Samuel Xavier de Souza",
+                    "Kayo Gonçalves Silva"
+                ]
+            },
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "Inteligência Artificial (IA) aplicada à prototipação de soluções para o Escritório de Inteligência Artificial do Governo Federal",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Victor Rafael Rezende Celestino",
+                    "Allan Victor Almeida Faria",
+                    "Silvia Araujo dos Reis",
+                    "WEIGANG",
+                    "LI",
+                    "Daniel Lopes Costa",
+                    "Herbert Kimura",
+                    "José Márcio Carvalho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais Campus Formiga",
+                "nome": "Optimal investment portfolios based on LSTM and LaVaR",
+                "periodo": "2022 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais Campus Formiga",
+                "nome": "Carreira 3D",
+                "periodo": "2023 - 2023",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Ana Maria Teles",
+                    "Fernanda Maria Rodrigues Castro",
+                    "Paloma Resende Silva",
+                    "Ana Caroline Pessoni"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais Campus Formiga",
+                "nome": "Do Tatame para a Federal",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Maisa Kely de Melo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais Campus Formiga",
+                "nome": "Agente de IA Generativa Conversacional",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Victor Rafael Rezende Celestino",
+                    "Allan Victor Almeida Faria",
+                    "R. DE OLIVEIRA",
+                    "FLÁVIO"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais Campus Formiga",
+                "nome": "CAPM via engenharia reversa: uma aplicação ao mercado financeiro brasileiro",
+                "periodo": "2022 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Daniel Lopes Costa"
+                ]
+            },
+            {
+                "instituicao": "Empresa de consórcio de médio porte",
+                "nome": "Modelos de Inteligência Artificial para Transferência de Aprendizado e Busca Semântica com Modelos Linguísticos de Grande Porte (LLM Large Language Models)",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Maisa Kely de Melo",
+                    "Victor Rafael Rezende Celestino",
+                    "Allan Victor Almeida Faria",
+                    "R. DE OLIVEIRA",
+                    "FLÁVIO",
+                    "Fernando Rezende Celestino"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "MELO",
+                    "software": "MAISA KELY,  CELESTINO, V. R. R.,  FARIA, A. V. A.,  R. DE OLIVEIRA, FLÁVIO,  CELESTINO, F. R.,  Laura (Language Automation for User Responsive Assistance)",
+                    "ano": "2023",
+                    "finalidade": "Agente de IA conversacional.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025001214-4."
+                },
+                {
+                    "autor": "MELO",
+                    "software": "MAISA KELY,  CARDOSO, R. T. N.,  JESUS, T. A.,  CONTROLE PREDITIVO BASEADO EM MODELO VIA OTIMIZAÇÃO DINÂMICA MULTIOBJETIVO DE PORTFÓLIOS DE INVESTIMENTOS",
+                    "ano": "2021",
+                    "finalidade": "Fazer otimização de carteiras de investimentos.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512024002505-7."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  Controle Preditivo Baseado em Modelo na Otimização de Carteiras de Investimentos",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade Federal dos Vales do Jequitinhonha e Mucuri."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  Princípios de Otimização de Carteiras de Investimentos",
+                    "ano": "2016",
+                    "instituicao_promotora": "UFVJM Campus JK."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  Curvas regulares planas de curvatura constante",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  BROCHE, R. C. D. S.,  Desigualdade Isoperimétrica",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  BROCHE, R. C. D. S.,  Dentre todas as curvas fechadas e simples do plano, com perímetro dado, qual é a que engloba maior área?",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal da Paraíba."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  SAVIAN, T. V.,  MUNIZ, J. A.,  Comparação de Modelos Não-Lineares Ajustados aos Dados de Crescimento de Frutos da Tamareira-Anã",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "J. A. A.,  MELO, M. K.,  SILVEIRA, S. C.,  DEUS, K. A.,  REZENDE, J. P.,  Alguns Modos de Ver e Conceber a Resolução de Problemas no Ensino de Matemática",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  MUNIZ, J. A.,  SAVIAN, T. V.,  Comparação dos Modelos Gompertz e Logístico aos Dados de Crescimento da Tamareira-Anã",
+                    "ano": "2009",
+                    "instituicao_promotora": "IMPA - Instituto de Matemática Pura e Aplicada."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "M. K.,  MUNIZ, J. A.,  SAVIAN, T. V.,  Comparação de Modelos Não Lineares Ajustados aos Dados de Crescimento de Frutos da Tamareira-Anã",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "SAVIAN",
+                    "titulo": "T. V.,  MELO, M. K.,  SILVEIRA, S. C.,  MUNIZ, J. A.,  Comparação de modelos não-lineares ajustados aos dados de crescimento de frutos da tamareira-anã",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal de São Carlos."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MELO",
+                    "curso": "M. K.,  Otimização de portfólios de investimentos com Python",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "MELO",
+                    "curso": "M. K.,  Técnicas de Demonstrações Matemáticas",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "MELO",
+                    "curso": "M. K.,  Técnicas de Demonstrações Matemáticas",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "ANDRADE",
+                    "curso": "J. A. A.,  MELO, M. K.,  Oficina: Resolução de Problemas",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "MELO",
+                    "curso": "M. K.,  Minicurso: Matemática, das Imagens Digitais à TV Digital",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "MELO",
+                    "evento": "M. K.,  COSTA, B. S.,  CAETANO, D. E. L.,  SILVA, C. E. B.,  ALVARENGA, E. S.,  PEREIRA, R. A. R.,  SILVA, A. K. L.,  FRAZAO, L. F.,  ABREU, A. A.,  SOUTO, S. L. S.,  TELES, A. M.,  PEDROSA, L. C.,  ALMEIDA, Larissa,  FONSECA, P. H. R.,  BARCELETE, J. F. R. V.,  GOMES, J. G.,  Formiga Emprega: destaque-se no mercado de trabalho",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG Campus Formiga."
+                },
+                {
+                    "autores": "PRG-UFLA",
+                    "evento": "DCE-UFLA,  CAs-UFLA,  MELO, M. K.,  I Fórum de Integração Universitária da UFLA",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras - Diretório Central dos Estudantes - Centros Acadêmicos."
+                },
+                {
+                    "autores": "MELO",
+                    "evento": "M. K.,  III Semana Acadêmica da UFLA",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "MELO",
+                    "evento": "M. K.,  SILVEIRA, S. C.,  II Semana Acadêmica da UFLA",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "MELO",
+                    "evento": "M. K.,  SILVEIRA, S. C.,  Mostra da IV Bienal da Sociedade Brasileira de Matemática",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "MELO, MAISA KELY",
+                "titulo": "REIS, S. A.;  CELESTINO, V. R. R.;  FARIA, A. V. A.;  COSTA, E. R.;  TELES, F. B. S.;  LOUREIRO, F. T.;  TUCCI, G.;  MACEDO, M.;  GONTIJO, P. O.;  IA NA PRÁTICA: GUIA ESTRATÉGICO PARA CRIAR SOLUÇÕES DE INTELIGÊNCIA ARTIFICIAL",
+                "ano": "2026",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786597893508, Brasília (Publicado)."
+            },
+            {
+                "autores": "ROCHA, C. A. A.",
+                "titulo": "WEIGANG, L.;  DIB, M. V. P.;  FARIA, A. V. A.;  CAJUEIRO, D. O.;  MELO, M. K.;  CELESTINO, V. R. R.;  International Conference on Web Information Systems and Technologies. Título do capítulo: Leveraging Transfer Learning for Long Text Classification with Limited Data",
+                "ano": "2023",
+                "informacoes_adicionais": "ISBN: 9783031430."
+            },
+            {
+                "autores": "FARIA, A. V. A.",
+                "titulo": "MELO, M. K.;  R. DE OLIVEIRA, FLÁVIO;  WEIGANG, L.;  CELESTINO, V. R. R.;  International Conference on Web Information Systems and Technologies. Título do capítulo: Automated SLR with a Few Labeled Papers and a Fair Workload Metric",
+                "ano": "2023",
+                "informacoes_adicionais": "ISBN: 9783031430."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SILVA, NATAN FELIPE",
+                "titulo": "DE ANDRADE, LÉLIS PEDRO;  DA SILVA, WASHINGTON SANTOS;  DE MELO, MAÍSA KELY;  TONELLI, ADRIANO OLÍMPIO;  Portfolio optimization based on the pre-selection of stocks by the Support Vector Machine model",
+                "ano": "2024",
+                "periodico": "Finance Research Letters. ISBN: 15446123   ."
+            },
+            {
+                "autores": "CAJUEIRO, DANIEL",
+                "titulo": "NERY, ARTHUR;  TAVARES, I;  MELO, M. K.;  REIS, S. A.;  WEIGANG, LI;  CELESTINO, V. R. R.;  A comprehensive review of automatic text summarization techniques: method, data, evaluation and coding",
+                "ano": "2024",
+                "periodico": "COMPUTING AND INFORMATICS. ISBN: 13359150   ."
+            },
+            {
+                "autores": "DE MELO, MAISA KELY",
+                "titulo": "NOGUEIRA CARDOSO, RODRIGO TOMÁS;  ARGOLO JESUS, TALES;  VIANNA RAFFO, GUILHERME;  Investment portfolio tracking using model predictive control",
+                "ano": "2023",
+                "periodico": "OPTIMAL CONTROL APPLICATIONS AND METHODS. ISBN: 10991514   ."
+            },
+            {
+                "autores": "DE MELO, MAISA KELY",
+                "titulo": "CARDOSO, RODRIGO T. N.;  JESUS, TALES A.;  MultiObjective Dynamic Optimization of Investment Portfolio Based on Model Predictive Control",
+                "ano": "2022",
+                "periodico": "SIAM JOURNAL ON CONTROL AND OPTIMIZATION. ISBN: 10957138   ."
+            },
+            {
+                "autores": "DE MELO, MAÍSA KELY",
+                "titulo": "CARDOSO, RODRIGO TOMÁS NOGUEIRA;  JESUS, TALES ARGOLO;  Multiobjective Model Predictive Control for portfolio optimization with cardinality constraint",
+                "ano": "2022",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "BARROSO, B.C.",
+                "titulo": "CARDOSO, R.T.N.;  MELO, M.K.;  Performance analysis of the integration between Portfolio Optimization and Technical Analysis strategies in the Brazilian stock market",
+                "ano": "2021",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "MELO, MAISA KELY",
+                "titulo": "CARDOSO, RODRIGO TOMÁS NOGUEIRA;  ALGORITMOS PARA CARTEIRAS DE INVESTIMENTOS NAS VERSO- ES MONO E MULTIOBJETIVO",
+                "ano": "2018",
+                "periodico": "REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO. ISBN: 25254782   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "KELY DE MELO, MAÍSA",
+                "titulo": "BROM, PEDRO; KIMURA, HERBERT; CAJUEIRO, DANIEL; LUIZ DA SILVA, GLADSTON; CELESTINO, VICTOR; REIS, SILVIA; DI OLIVEIRA, VINÍCIUS; FARIA, ALLAN; DE LIMA, RICARDO; WEIGANG, LI; SALM JUNIOR, JOSE; SOUZA, JOAO; FREITAS, VÉRICA; Implementing AI for Enhanced Public Services Gov",
+                "evento": "br: A Methodology for the Brazilian Federal Government. 20th International Conference on Web Information Systems and Technologies",
+                "local": "Porto",
+                "ano": "2024"
+            },
+            {
+                "autores": "KELY DE MELO, MAÍSA",
+                "titulo": "FARIA, ALLAN; WEIGANG, LI; NERY, ARTHUR; R",
+                "evento": "DE OLIVEIRA",
+                "local": "FLÁVIO; BARREIRO, IAN; CELESTINO, VICTOR; Few-shot Approach for Systematic Literature Review Classifications. 18th International Conference on Web Information Systems and Technologies, Valletta",
+                "ano": "2022"
+            },
+            {
+                "autores": "ROCHA, CARLOS",
+                "titulo": "DIB, MARCOS; WEIGANG, LI; NUNES, ANDREA; FARIA, ALLAN; CAJUEIRO, DANIEL; KELY DE MELO, MAÍSA; CELESTINO, VICTOR; Using Transfer Learning To Classify Long Unstructured Texts with Small Amounts of Labeled Data",
+                "evento": "18th International Conference on Web Information Systems and Technologies",
+                "local": "Valletta",
+                "ano": "2022"
+            },
+            {
+                "autores": "MELO, M. K.",
+                "titulo": "CARDOSO, R",
+                "evento": "T. N.; JESUS",
+                "local": "T. A.; A Genetic Algorithm for Investment Tracking with Stochastic Model Predictive Control. Congress on Evolutionary Computation, Kraków",
+                "ano": "2021"
+            },
+            {
+                "autores": "MELO, M. K.",
+                "titulo": "CARDOSO, R",
+                "evento": "T. N.; Um Algoritmo Genético com Busca Local pela Descida Randômica na Otimização de Carteiras de Ações. L Simpósio Brasileiro de Pesquisa Operacional",
+                "local": "Rio de Janeiro",
+                "ano": "2018"
+            },
+            {
+                "autores": "MELO, M. K.",
+                "titulo": "CARDOSO, R",
+                "evento": "T. N.; JESUS",
+                "local": "T. A.; Model Predictive Control in Dynamic Optimization Portfolio Selection. International Congress of Mathematicians, Rio de Janeiro",
+                "ano": "2018"
+            },
+            {
+                "autores": "MELO, M. K.",
+                "titulo": "CARDOSO, R",
+                "evento": "T. N.; Algoritmos para elaboração de uma carteira de ações com mínima exposição ao risco. XX Encontro Nacional de Modelagem Computacional e VIII Encontro de Ciências e Tecnologias de Materiais",
+                "local": "Nova Friburgo",
+                "ano": "2017"
+            },
+            {
+                "autores": "RIBEIRO, R. J.",
+                "titulo": "BENTO, F",
+                "evento": "; GONCALVES JUNIOR",
+                "local": "R. L.; MELO, M. K.; Estudo preliminar do impacto na blindagem de salas de radioterapia causado pelo crescente número de casos de câncer no Brasil. International Nuclear Atlantic Conference - INAC, São Paulo",
+                "ano": "2015"
+            },
+            {
+                "autores": "SAVIAN, T. V.",
+                "titulo": "ZEVIANI, W",
+                "evento": "M.; MELO",
+                "local": "M. K.; MENDES,P.N.; MUNIZ, J. A.; Uso do modelo logístico na descrição da degradação ruminal por meio da técnica de produção de gases. XI Escola de Modelos de Regressão, Recife",
+                "ano": "2009"
+            },
+            {
+                "autores": "MELO, M. K.",
+                "titulo": "MUNIZ, J",
+                "evento": "A.; SAVIAN",
+                "local": "T. V.; Comparação dos modelos não-lineares logistico e gompertz: uma aplicação em crescimento de frutos. XI Escola de Modelos de Regressão, Recife",
+                "ano": "2009"
+            },
+            {
+                "autores": "ANDRADE, J. A. A.",
+                "titulo": "MELO, M",
+                "evento": "K.; DEUS",
+                "local": "K. A.; REZENDE, J. P.; SILVEIRA, S. C.; Alguns Modos de Ver e Conceber a Resolução de Problemas no Ensino de Matemática. V EMEM - Encontro Mineiro de Educação Matemática, Lavras",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

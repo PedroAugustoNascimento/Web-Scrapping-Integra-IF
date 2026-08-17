@@ -1,92 +1,548 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Política Científica e Tecnológica",
-            "periodo": "2025",
-            "instituicao": "Universidade Estadual de Campinas",
-            "orientador": "André Luiz Sica de Campos"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "CIÊNCIA DA COMPUTAÇÃO",
-            "periodo": "2012 - 2014",
-            "instituicao": "Universidade Federal de Ouro Preto",
-            "titulo": "TerraME HPA",
-            "orientador": "Tiago Garcia de Senna Carneiro"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "graduação Lato Sensu em Pedagogia",
-            "periodo": "2019 - 2019",
-            "instituicao": "Centro Universitário União das Américas",
-            "orientador": "Mauro Luís Rocha Lopes"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Computação",
-            "periodo": "2008 - 2011",
-            "instituicao": "Universidade Federal de Ouro Preto"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Ouro Preto",
-            "periodo": "2008 - 2011",
-            "cargo": "Bolsista, Bolsista."
-        },
-        {
-            "empresa": "Ministério da Educação",
-            "periodo": "2010 - 2010",
-            "cargo": "Tutor, Tutor, Tutor no programa de ensino a distância do Gorverno Federal. O programa e_Proinfo tem o objetivo principal de introduzir o uso das tecnologias de informação e comunicação nas escolas da rede pública, além de articular as atividades desenvolvidas sob sua jurisdição, em especial as ações dos Núcleos de Tecnologia Educacional (NTEs).."
-        },
-        {
-            "empresa": "Ministerio da Educacao e Cultura",
-            "periodo": "2013 - 2013",
-            "cargo": "Tutor, Bolsista, Tutor no programa de ensino a distância do Gorverno Federal. O programa e_Proinfo tem o objetivo principal de introduzir o uso das tecnologias de informação e comunicação nas escolas da rede pública, além de articular as atividades desenvolvidas sob sua jurisdição, em especial as ações dos Núcleos de Tecnologia Educacional (NTEs).."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2015",
-            "cargo": "Professor Ensino Médio/Técnico, Servidor público."
-        },
-        {
-            "empresa": "Visual Virtual",
-            "periodo": "2014 - 2015",
-            "cargo": "Engenheiro de Software, Pesquisa, planejamento e implementação da plataforma Zumpy . A plataforma visa atender os usuários que oferecem e buscam caronas para destinos semelhantes . Atualmente a plataforma possui mais de 100.000 usuários (atualizado em Outubro de 2019). http://www.zumpy.com.br."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais - Ouro Branco",
-            "periodo": "2022",
-            "cargo": "Representante da Equipe de gestão do Ambiente, Servidor público."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - Campus Avançado Ponte Nova (2018 - 2019) : Presidente Da Comissão Local De Pessoal Docente Do Campus Avançado Ponte Nova.\nInstituto Federal de Minas - Campus Avançado Ponte Nova (2016 - 2017) : Membro Titular Da Comissão De Pesquisa E Extensão.",
-    "ensino": ": Instituto Federal Minas Gerais\nEnsino-medio (2020 - 2021) .\nGraduacao (2020 - 2020) - Sistemas De Informação.\nGraduacao (2020 - 2021) - Sistema De Informação.\nEnsino-medio (2018 - 2018) .\nEnsino-medio (2017 - 2017) .\nEnsino-medio (2016 - 2016) .\nEnsino-medio (2015 - 2015) .\nEnsino-medio (2015 - 2015) .",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Titutlar Do Conselho Acadêmico (2017 - 2019).",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Científico -",
-            "periodo": "2016",
-            "natureza": "Ensino",
-            "equipe": [
-                "Saulo Henrique Cabral Silva"
+    "campus": "- Campus Ouro Branco",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Política Científica e Tecnológica",
+                "periodo": "2025",
+                "instituicao": "Universidade Estadual de Campinas",
+                "orientador": "André Luiz Sica de Campos"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "TerraME HPA",
+                "orientador": "Tiago Garcia de Senna Carneiro"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "graduação Lato Sensu em Pedagogia",
+                "periodo": "2019 - 2019",
+                "instituicao": "Centro Universitário União das Américas",
+                "orientador": "Mauro Luís Rocha Lopes"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Computação",
+                "periodo": "2008 - 2011",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Ministério da Educação",
+                "periodo": "2010 - 2010",
+                "cargo": "Tutor, Tutor, Tutor no programa de ensino a distância do Gorverno Federal. O programa e_Proinfo tem o objetivo principal de introduzir o uso das tecnologias de informação e comunicação nas escolas da rede pública, além de articular as atividades desenvolvidas sob sua jurisdição, em especial as ações dos Núcleos de Tecnologia Educacional (NTEs).."
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "periodo": "2008 - 2011",
+                "cargo": "Bolsista, Bolsista."
+            },
+            {
+                "empresa": "Ministerio da Educacao e Cultura",
+                "periodo": "2013 - 2013",
+                "cargo": "Tutor, Bolsista, Tutor no programa de ensino a distância do Gorverno Federal. O programa e_Proinfo tem o objetivo principal de introduzir o uso das tecnologias de informação e comunicação nas escolas da rede pública, além de articular as atividades desenvolvidas sob sua jurisdição, em especial as ações dos Núcleos de Tecnologia Educacional (NTEs).."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2015",
+                "cargo": "Professor Ensino Médio/Técnico, Servidor público."
+            },
+            {
+                "empresa": "Visual Virtual",
+                "periodo": "2014 - 2015",
+                "cargo": "Engenheiro de Software, Pesquisa, planejamento e implementação da plataforma Zumpy . A plataforma visa atender os usuários que oferecem e buscam caronas para destinos semelhantes . Atualmente a plataforma possui mais de 100.000 usuários (atualizado em Outubro de 2019). http://www.zumpy.com.br."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Ouro Branco",
+                "periodo": "2022",
+                "cargo": "Representante da Equipe de gestão do Ambiente, Servidor público."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - Campus Avançado Ponte Nova (2018 - 2019) : Presidente Da Comissão Local De Pessoal Docente Do Campus Avançado Ponte Nova.\nInstituto Federal de Minas - Campus Avançado Ponte Nova (2016 - 2017) : Membro Titular Da Comissão De Pesquisa E Extensão.",
+        "ensino": ": Instituto Federal Minas Gerais\nEnsino-medio (2020 - 2021) .\nGraduacao (2020 - 2020) - Sistemas De Informação.\nGraduacao (2020 - 2021) - Sistema De Informação.\nEnsino-medio (2018 - 2018) .\nEnsino-medio (2017 - 2017) .\nEnsino-medio (2016 - 2016) .\nEnsino-medio (2015 - 2015) .\nEnsino-medio (2015 - 2015) .",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Titutlar Do Conselho Acadêmico (2017 - 2019).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Caracterização de dados oriundos de sensoriamento esparso para a aplicação de algoritmos de redução de dados",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva",
+                    "André Luiz Lins de Aquino"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "TerraMe HPA - Uma Arquitetura Baseada em Memória Distribuída para Modelagem e Simulação de Sistemas Terrestres",
+                "periodo": "2010 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva",
+                    "Joubert de Castro Lima",
+                    "Tiago Garcia de Senna Carneiro"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "MOOM - Multithread Oriented Object Middleware",
+                "periodo": "2012 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva",
+                    "Joubert de Castro Lima",
+                    "Tiago Garcia de Senna Carneiro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "ReportAí",
+                "periodo": "2019 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Calculo Psicrometrico APP",
+                "periodo": "2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sinalização inclusiva de unidades de conservação",
+                "periodo": "2022 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva",
+                    "Rodrigo Barbosa Teixeira",
+                    "Efigenia de Fatima Cornelio Aladim",
+                    "Jose Alberto da Cruz Junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "UM CHATBOT VOLTADO PARA A PRÁTICA DO INGLÊS",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Tecnologia Educacional: Desenvolvimento de um Sistema Integrado para Automatização da Avaliação de Atividades Escolares",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva",
+                    "Victor Ramalho Estanislau"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "TutorVirtual",
+                "periodo": "2017 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva",
+                    "Rodrigo Mengali",
+                    "Iago Izidório Lacerda",
+                    "Luisa Calegari de Barros Cizilio"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Ouro Branco",
+                "nome": "Iniciação Tecnológica Através de Competições de Caráter Científico",
+                "periodo": "2016",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Ouro Branco",
+                "nome": "Descontos de Armazenagem",
+                "periodo": "2022 - 2024",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Saulo Henrique Cabral Silva"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "software": "EDUARDO A. S. DE MELO,  Calculo Psicrometrico",
+                    "ano": "2026",
+                    "finalidade": "Simular condições de armazenamento e secagem de grãos..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026002447-1."
+                },
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "software": "Descontos de Armazenagem",
+                    "ano": "2022",
+                    "finalidade": "Cálculo de perdas durante o armazenando de grãos."
+                },
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "software": "ARAUJOI, C. M.,  Descontos de Armazenagem (https://play.google.com/store/apps/details?id=com.ifmg.grimpureza)",
+                    "ano": "2022",
+                    "finalidade": "Um aplicativo desenvolvido para auxiliar no cálculo dos descontos de armazenagem durante armazenamento de grãos/cereais, considerando impureza, umidade e quebra técnica.."
+                },
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "software": "Aplicativo : Calculo Psicométrico (https://play.google.com/store/apps/details?id=com.ifmg.saulo.calcpsicometria)",
+                    "ano": "2017",
+                    "finalidade": "Aplicativo para auxiliar no Calculo Psicrométrico."
+                },
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "software": "ARAUJOI, C. M.,  KIT INFORMATIZADO PARA AUXILIAR NA ANÁLISE COMPORTAMENTAL DE INDIVÍDUOS NO ESPECTRO AUTISTA",
+                    "ano": "2026",
+                    "finalidade": "Diagnóstico precoce de crianças no espectro autista a partir dos dados de comportamento visual. . Tipo: MODELO_DE_UTILIDADE_MU. Registro: BR20202402372."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ESTANISLAU",
+                    "titulo": "V. R.,  Saulo H. C. Silva,  APLICAÇÃO DE DESIGN THINKING NA CRIAÇÃO DE UMA PLATAFORMA DE CORREÇÃO AUTOMATIZADA DE PROVAS: UM ESTUDO COLABORATIVO",
+                    "ano": "2023",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "titulo": "Minicurso Geoprocessamento",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "MATTA",
+                    "titulo": "C. A.,  SOUZA, C. A.,  SOUZA, G. C. P.,  BARBOSA, M. E. D. L.,  Saulo H. C. Silva,  USO DE CHATBOTS NA EDUCAÇÃO: REVISÃO SISTEMÁTICA",
+                    "ano": "2020",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "titulo": "Joubert de Castro Lima,  Tiago Garcia de Senna Carneiro,  Parallel Calibration of Spatial Dynamic Models in TerraME",
+                    "ano": "2011",
+                    "instituicao_promotora": "International Association for development of the information society."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "titulo": "SUELLEN,,  André L.L. de Aquino,  RABELO,Ricardo A. R. Oliveira,  Caracterização de Algoritmos de Redução de Dados Baseados em Stream de Dados em Redes de Sensores Sem Fio",
+                    "ano": "2011",
+                    "instituicao_promotora": "SOBRAPO."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "titulo": "Joubert de Castro Lima,  Tiago Garcia de Senna Carneiro,  TerraMe HPA - Uma Arquitetura Baseada em Memória Distribuída para Modelagem e Simulação de Sistemas Terrestres",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade Federal de Ouro Preto."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "curso": "Uma Introdução ao Geoprocessamento",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "Saulo H. C. Silva",
+                    "curso": "Uma breve introdução a computação de alto desempenho",
+                    "ano": "2015"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "evento": "Coordenador local do 3° Workshop de Sistema de Informação do IFMG-Ouro Branco",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "evento": "Coordenador local da XXVI Olimpíada Brasileira de Informática",
+                    "ano": "2024",
+                    "duracao_semanas": "3",
+                    "instituicao_promotora": "Unicamp."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "evento": "Coordenador local da XXV Olimpíada Brasileira de Informática",
+                    "ano": "2023",
+                    "duracao_semanas": "3",
+                    "instituicao_promotora": "Unicamp."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "Saulo Cabral,  Coordenador local da XXI Olimpíada Brasileira de Informática",
+                    "ano": "2019",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "Saulo Cabral,  Comissão Organizadora da I Mostra de Robótica do IFMG Ponte Nova",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais Campus Avançado Ponte Nova."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "evento": "Coordenador local da XX Olimpíada Brasileira de Informática",
+                    "ano": "2018",
+                    "duracao_semanas": "3",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "Saulo Cabral,  Coordenador local da Copa Rio info de algoritmos",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FENAINFO."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "Saulo Cabral,  Membro de Comissão Organizadora da Semana Nacional de Tecnologia",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "Saulo H. C. Silva",
+                    "evento": "Membro de Comissão Organizadora da Semana Nacional de Tecnologia",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "Saulo Cabral,  Coordenador local da XVIII Olimpíada Brasileira de Informática",
+                    "ano": "2016",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
             ]
-        },
-        {},
-        {
-            "nome": "Armazenagem -",
-            "periodo": "2022 - 2024",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Saulo Henrique Cabral Silva"
-            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "TOLEDO, M. V. S;  Luisa C. B. Cizilio;  LACERDA, I. I.;  O uso de chatbot no auxílio de estudantes do ensino médio para o aprendizado em inglês",
+                "ano": "2020",
+                "periodico": "DOI:10.34117. ISBN: 25258761   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "ASSUNCAO, A",
+                "evento": "B. C.; Clique",
+                "local": "Corrija e Compreenda: Design Centrado no Usuário para Organização e Correção de provas de Múltipla Escolha. XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, Belo Horizonte",
+                "ano": "2025"
+            },
+            {
+                "autores": "ESTANISLAU, V. R.",
+                "titulo": "Saulo H",
+                "evento": "C. Silva; DO PAPEL AO DIGITAL: MODERNIZANDO A APLICAÇÃO E CORREÇÃO DE PROVAS UTILIZANDO TÉCNICAS DE PDI E OMR. IX SIMPÓSIO INTERNACIONAL DE TECNOLOGIAS DIGITAIS NA EDUCAÇÃO",
+                "local": "São Luís",
+                "ano": "2024"
+            },
+            {
+                "autores": "ESTANISLAU, V. R.",
+                "titulo": "Saulo H",
+                "evento": "C. Silva; Uma Plataforma de Correção Automatizada de Provas: Um Estudo Colaborativo. XI Seminário de Iniciação Científica do IFMG - SIC 2023",
+                "local": "Bambuí",
+                "ano": "2023"
+            },
+            {
+                "autores": "Rodrigo D. Vieira",
+                "titulo": "Saulo H",
+                "evento": "C. Silva; JOGOS DIGITAIS APLICADOS NO CONTEXTO EDUCACIONAL - UMA ANÁLISE BIBLIOMÉTRICA. IV SIMPÓSIO INTERNACIONAL E VII NACIONAL DE TECNOLOGIAS DIGITAIS NA EDUCAÇÃO",
+                "local": "São Luís",
+                "ano": "2022"
+            },
+            {
+                "autores": "Erick B. Moreira",
+                "titulo": "Saulo H",
+                "evento": "C. Silva; Reportai - UMA PLATAFORMA DE FISCALIZAÇÃO COLABORATIVA VOLTADA PARA O ENGAJAMENTO CÍVICO. Planeta IFMG 2022",
+                "local": "Bambuí",
+                "ano": "2022"
+            },
+            {
+                "autores": "Elizangela S. P.",
+                "titulo": "Saulo H",
+                "evento": "C. Silva; Análise Bibliométrica: Ambientes Elearning para Deficientes Visuais. Encontro Nacional sobre Inclusão Escolar da Rede Profissional Tecnológica",
+                "local": "Florianópolis/SC",
+                "ano": "2021"
+            },
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "LACERDA, I",
+                "evento": "I.; Luisa C. B. Cizilio; Inteligência artificial em um estudo de caso de um chatbot aplicado no ensino médio para auxiliar a prática do inglês. ANUÁRIO DE PROJETOS DE ENSINO",
+                "local": "Belo",
+                "ano": "2020"
+            },
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "Luisa C",
+                "evento": "B. Cizilio; LACERDA",
+                "local": "I. I.; TOLEDO, M. V. S; Um Chatbot para auxiliar alunos do ensino médio no aprendizado do inglês. I Simpósio Internacional e IV Nacional de Tecnologias digital na educação, São Luís, MA",
+                "ano": "2019"
+            },
+            {
+                "autores": "Silva, Saulo Cabral",
+                "titulo": "CARNEIRO, TIAGO GARCIA; LIMA, JOUBERT CASTRO; PEREIRA, RODRIGO REIS; TerraME HPA",
+                "evento": "the 2013 ACM SIGSIM conference",
+                "local": "Montr©al",
+                "ano": "2013"
+            },
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "SUELLEN,; André L",
+                "evento": "L. de Aquino; RABELO",
+                "local": "Ricardo A. R. Oliveira; Caracterização de algoritmos de redução de dados baseados em stream de dados em redes de sensores sem fio. XLIII Simpósio Brasileiro de Pesquisa Operacional., Ubatuba",
+                "ano": "2011"
+            },
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "Joubert de Castro Lima; Tiago Garcia de Senna Carneiro; Parallel Calibration of Spatial Dynamic Models in TerraME",
+                "evento": "International Conference Applied Computing",
+                "local": "Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "Saulo H. C. Silva",
+                "titulo": "TerraME HPA",
+                "evento": "Encontro de Saberes",
+                "local": "Ouro Preto",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Carla Amaral Pereira Ponciano",
+                "titulo": "Plataforma crowdfunding para promoção de campanhas e projetos voltados para pessoas em vulnerabilidade social.",
+                "ano": "2022",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Ouro Branco"
+            },
+            {
+                "orientando": "Erick Brener Moreira",
+                "titulo": "REPORTAÍ - UMA PLATAFORMA DE FISCALIZAÇÃO COLABORATIVA VOLTADA PARA O ENGAJAMENTO CÍVICO",
+                "ano": "2022",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Vinícius Silva Máximo",
+                "titulo": "Sinalização inclusiva de unidades de conservação",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rodrigo Dantas Vieira",
+                "titulo": "JOGOS DIGITAIS APLICADOS NO CONTEXTO EDUCACIONAL ? UMA ANÁLISE BIBLIOMÉTRICA",
+                "ano": "2022",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal de Minas Gerais - Ouro Branco"
+            },
+            {
+                "orientando": "Elizangela dos Santos Pimenta",
+                "titulo": "ANÁLISE BIBLIOMÉTRIA: AMBIENTES ELEARNING PARA DEFICIENTES VISUAIS",
+                "ano": "2021",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal de Minas Gerais - Ouro Branco"
+            },
+            {
+                "orientando": "Erick Brener Moreira",
+                "titulo": "REPORTAÍ - UMA PLATAFORMA DE FISCALIZAÇÃO COLABORATIVA VOLTADA PARA O ENGAJAMENTO CÍVICO",
+                "ano": "2021",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - Ouro Branco"
+            },
+            {
+                "orientando": "Cristiano Amaro da Matta",
+                "titulo": "USO DE CHATBOTS NA EDUCAÇÃO: REVISÃO SISTEMÁTICA",
+                "ano": "2020",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Luísa Calegari de Barros Cizilio",
+                "titulo": "TUTORVIRTUAL - UM CHATBOT PESSOAL PARA AUXILIAR NO PROCESSO DE APRENDIZADO DO INGLÊS",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "IFMG Campus Avançado Ponte Nova"
+            },
+            {
+                "orientando": "João Victor Cabral Nunes Baião",
+                "titulo": "ReportAÍ - Uma plataforma de fiscalização colaborativa",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "IFMG - campus Ponte Nova"
+            },
+            {
+                "orientando": "iago izidório lacerda",
+                "titulo": "TUTORVIRTUAL - UM CHATBOT PESSOAL PARA AUXILIAR NO PROCESSO DE APRENDIZADO DO INGLÊS",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "IFMG - campus Ponte Nova"
+            },
+            {
+                "orientando": "Jhenifer Dayane de Almeida Fernandes",
+                "titulo": "TutorVirtual: Um ChatBot para auxiliar no aprendizado",
+                "ano": "2017",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Isadora Ribeiro Palha Zine",
+                "titulo": "monitoria Técnicas de Programação",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "IFMG - campus Ponte Nova"
+            },
+            {
+                "orientando": "Guilherme de Abreu Lima Buitrago Miranda",
+                "titulo": "monitoria Técnicas de Programação",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "IFMG - campus Ponte Nova"
+            },
+            {
+                "orientando": "Leandro de Castro Santos",
+                "titulo": "Minitoria - Introdução a Programação",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rainer Joel Medeiros de Sá",
+                "titulo": "Monitoria Introdução a Programação",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

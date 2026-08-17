@@ -1,130 +1,1174 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Engenharia Elétrica",
-            "periodo": "2010 - 2014",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Extração de características em reconhecimento de parâmetros fonológicos da Língua Brasileira de Sinais utilizando sensores RGB-D",
-            "orientador": "Frederico Gadelha Guimarães"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2008 - 2009",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Auto-Calibração e Linearização de Sensores Utilizando Técnicas de Inteligência Computacional",
-            "orientador": "Jaime Arturo Ramírez"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Automação Industrial",
-            "periodo": "2004 - 2007",
-            "instituicao": "Universidade Federal de Minas Gerais"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Elétrica",
-            "periodo": "1998 - 2003",
-            "instituicao": "Universidade Federal de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Serviço Nacional de Aprendizagem Industrial/BH",
-            "periodo": "2005 - 2005",
-            "cargo": "Examinadora de exame prático e escrito."
-        },
-        {
-            "empresa": "Serviço Nacional de Aprendizagem Industrial/BH",
-            "periodo": "2003 - 2005",
-            "cargo": "Instrutor de Formação Profissional, Celetista formal, Atuei como certificadora da ABRAMAN, na modadlidade Instrumentação Eletrônica e Controle de Processos.."
-        },
-        {
-            "empresa": "Journal of Machine Learning and Cybernetics",
-            "periodo": "2015",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2022",
-            "cargo": "Coordenadora - Pós em Inteligência Artificial."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2021 - 2023",
-            "cargo": "Diretora de Inovação, Pesquisa, Pós-Graduação."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2021 - 2021",
-            "cargo": "Transição da Diretoria de Extensão DIPPE/DEXT."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2019 - 2020",
-            "cargo": "Supervisora de Pesquisa."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2015 - 2016",
-            "cargo": "Coordenadora de Pesquisa."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2010 - 2010",
-            "cargo": "Coordenadora de curso técnico EAD, Bolsista."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2007 - 2008",
-            "cargo": "Coordenadora de Curso Técnico Integrado."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2006",
-            "cargo": "Professora."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2006 - 2006",
-            "cargo": "Coordenadora de curso de Extensão, Projeto de Extensão em Santo Antônio do Leite, com a Comunidade Clube de Mães do distrito citado. Formação em Office.."
-        },
-        {
-            "empresa": "IFMG - Campus Ouro Preto",
-            "periodo": "2003 - 2003",
-            "cargo": "Professora substituta."
-        },
-        {
-            "empresa": "IFMG",
-            "periodo": "2024",
-            "cargo": "."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2025",
-            "cargo": "Centro de Excelência em IA Aplicada."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Serviço Nacional de Aprendizagem Industrial/BH\nAperfeicoamento (2003 - 2005) - Pós-técnico Em Instrumentação Eletrônica E Control.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Petrobras -",
-            "periodo": "2024",
-            "natureza": "Ensino",
-            "equipe": [
-                "Silvia Grasiella Moreira Almeida"
+    "campus": "- Campus Ouro Preto",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Engenharia Elétrica",
+                "periodo": "2010 - 2014",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Extração de características em reconhecimento de parâmetros fonológicos da Língua Brasileira de Sinais utilizando sensores RGB-D",
+                "orientador": "Frederico Gadelha Guimarães"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2008 - 2009",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Auto-Calibração e Linearização de Sensores Utilizando Técnicas de Inteligência Computacional",
+                "orientador": "Jaime Arturo Ramírez"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Automação Industrial",
+                "periodo": "2004 - 2007",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1998 - 2003",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Industrial/BH",
+                "periodo": "2005 - 2005",
+                "cargo": "Examinadora de exame prático e escrito."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Industrial/BH",
+                "periodo": "2003 - 2005",
+                "cargo": "Instrutor de Formação Profissional, Celetista formal, Atuei como certificadora da ABRAMAN, na modadlidade Instrumentação Eletrônica e Controle de Processos.."
+            },
+            {
+                "empresa": "Journal of Machine Learning and Cybernetics",
+                "periodo": "2015",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2022",
+                "cargo": "Coordenadora - Pós em Inteligência Artificial."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2021 - 2023",
+                "cargo": "Diretora de Inovação, Pesquisa, Pós-Graduação."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2021 - 2021",
+                "cargo": "Transição da Diretoria de Extensão DIPPE/DEXT."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2019 - 2020",
+                "cargo": "Supervisora de Pesquisa."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2015 - 2016",
+                "cargo": "Coordenadora de Pesquisa."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2010 - 2010",
+                "cargo": "Coordenadora de curso técnico EAD, Bolsista."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2007 - 2008",
+                "cargo": "Coordenadora de Curso Técnico Integrado."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2006",
+                "cargo": "Professora."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2006 - 2006",
+                "cargo": "Coordenadora de curso de Extensão, Projeto de Extensão em Santo Antônio do Leite, com a Comunidade Clube de Mães do distrito citado. Formação em Office.."
+            },
+            {
+                "empresa": "IFMG - Campus Ouro Preto",
+                "periodo": "2003 - 2003",
+                "cargo": "Professora substituta."
+            },
+            {
+                "empresa": "IFMG",
+                "periodo": "2024",
+                "cargo": "."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2025",
+                "cargo": "Centro de Excelência em IA Aplicada."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Serviço Nacional de Aprendizagem Industrial/BH\nAperfeicoamento (2003 - 2005) - Pós-técnico Em Instrumentação Eletrônica E Control.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Uai-e - Protótipo de um catador de lixo de praia",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Sarah Esther Augusta Murta Ambrósio",
+                    "Laura Maria de Souza Saldanha",
+                    "Júlia Silva Reis"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "EXTENSION - Protótipo de uma luva para auxilio de pessoas com Síndrome do Túnel do Carpo",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Eduardo Henrique Diniz",
+                    "Miguel Daher Ferreira",
+                    "Murilo Gabriel Loredo Reis",
+                    "Sânzio de Jesus Ribeiro"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Vênus Veículo terrestre não tripulado para a exploração de zonas de risco.",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Yan Lucas Bezerra Silva",
+                    "Tarcísio José Mapa Soares",
+                    "Gabriel Souza de Oliveira",
+                    "Breno Ferreira Ribas",
+                    "Altamiro Marcos Ferreira Neto"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "CACSS - Casa Automatizada com Sistema de Segurança",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Arthur Souza Sales Cardoso",
+                    "Bruno Henrique Ferreira Mesquita",
+                    "Marcio Henrique Viana Junior",
+                    "Samara Carolina Carlos Teixeira"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "GROOVER JS2K - Construção do protótipo de um robô para entretenimento",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Caio Miranda Shimomura",
+                    "Karine Isabelle Marins",
+                    "Júlia Vieira Lopes Tavares",
+                    "Samanta Keila de Jesus"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "CASEY - Cabeça robótica interativa",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Julia Trindade Gonçalves",
+                    "Karine Leal Rocha",
+                    "Thaís Aline Ferreira da Silva",
+                    "Paulo Vitor de Castro Magalhães Correa"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "PARKEN - Protótipo de um estacionamento automático",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Iron Yure Alcântara",
+                    "Ian Martins Arantes",
+                    "Matheus Durães da Cunha Pereira",
+                    "Samanta Tamires Motta Souza"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "OXUM: UM PROTÓTIPO MAPEADOR DE RIOS E LAGOS",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Fernanda Henriques Campos",
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Adriano Natividade Nepomuceno Júnior",
+                    "Lauro Felipe Eusébio Gomes",
+                    "Luiz Henrique de Carvalho"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "IFood - Monitoramento de restaurante estudantil",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "André Ylazor Maciel Lopes",
+                    "Júnior Jesus Gomes de Freitas",
+                    "Laryssa Aparecida Gomes Fagundes",
+                    "Lucas José Nunes Martins",
+                    "Sílvia Paula Carvalho da Costa Pimenta"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "L.A.V.A. - Limpador Automático de Vidros Altos",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Érika Milagres Jacinto",
+                    "Ludmila Silva Fortes",
+                    "Maíne Magalhães Pereira",
+                    "Marcela Neves Del?Gaudio"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "SOUNDCHESS - Xadrez automático comandado por voz",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Pedro Henrique Gomes",
+                    "ernardo Saraiva Oliveira Duarte",
+                    "Daniel Venâncio Ramos",
+                    "Otávio Barroso de Oliveira",
+                    "Thiago Dias Oliveira"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Subitis - Carro de emergência autônomo",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Alan Cassiano Franklin",
+                    "Guilherme Xavier Barbosa",
+                    "Marina Luiza de Jesus Novais"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Dangerino - Robô de Reconhecimento de Áreas de Risco",
+                "periodo": "2018 - 2018",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "André Júnio Angelino Evaristo",
+                    "André Barbosa Magalhães",
+                    "Matheus dos Santos Barbosa",
+                    "Caroline Aparecida da Silveira Barbosa",
+                    "Otávio Augusto de Rezende Pinto"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Samara Carolina Carlos Teixeira",
+                    "Paulo Vitor de Castro Magalhães Correa",
+                    "Júnior Jesus Gomes de Freitas",
+                    "Laryssa Aparecida Gomes Fagundes",
+                    "Pedro Assunção Pereira",
+                    "Lucas Emiliano de Souza Moreira"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Promovendo o empoderamento de meninas por meio do ensino de programação junto ao Código X - O despertar feminino para a tecnologia",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Laryssa Aparecida Gomes Fagundes",
+                    "Ana Beatriz Ansaloni Dias",
+                    "Silvia Grasiella Moreira Almeida",
+                    "Pâmela Starling Bergamini",
+                    "Viviane de Paula Silva"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Impacto da COVID-19 nos estabelecimentos de Alimentos e Bebidas (AB) em Ouro Preto e região.",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Cristiana Santos Andreoli",
+                    "Isadora Gomes Carlos Candido",
+                    "Priscilla Alves Barbosa Correa",
+                    "Sinval do Espirito Santo Neto"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Produção de Material Didático para o Ensino de Geomorfologia: atividades sustentáveis interdisciplinares nas Ciências da Terra",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Cecilia Felix Andrade Silva",
+                    "Jairo Rodrigues Silva",
+                    "Lucas Souza Azevedo (",
+                    "Mateus Claudino da Silva"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "FAB LAB: estímulo à inovação, usando a fabricação digital no combate à pandemia do Covid-19",
+                "periodo": "2021",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "André Luís Barroso Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Lucas Emiliano de Souza Moreira",
+                    "Guilherme de Oliveira Walter",
+                    "Edson Martins de Oliveira",
+                    "Gradimilo Cândido de Jesus"
+                ],
+                "financiador": "2a Vara do Trabalho de Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Ampliação da base MINDS-Libras a partir da disponibilização em massa de vídeos como consequência das atividades remotas devido à pandemia da Covid-19",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "REZENDE",
+                    "TAMIRES MARTINS",
+                    "Arthur César da Silva Almeida"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "periodo": "2021 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Júnior Jesus Gomes de Freitas",
+                    "Pedro Assunção Pereira",
+                    "Lucas Emiliano de Souza Moreira"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Projeto Piloto de Higiene e Saúde: soluções para democratização do acesso à higienização em ambientes escolares no combate ao COVID-19",
+                "periodo": "2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "André Luís Barroso Almeida",
+                    "Lucas Emiliano de Souza Moreira",
+                    "Cristiana Santos Andreoli",
+                    "Guilherme de Oliveira Walter",
+                    "Edson Martins de Oliveira",
+                    "Gradimilo Cândido de Jesus"
+                ],
+                "financiador": "2a Vara do Trabalho de Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Validação da implementação do aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Lucas Emiliano de Souza Moreira",
+                    "Eric Augusto Lopes Silva"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Criação e fortalecimento de uma rede de mães - Diário da Mãe em Construção: o poder do depoimento compartilhado",
+                "periodo": "2021 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Nívea Cristina da Silva Viana"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Elaboração de uma sequência didática para o ensino de Botânica no Ensino Médio",
+                "periodo": "2023 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Miriam Conceicao de Souza",
+                    "Thalita Macedo Araujo"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Promovendo o empoderamento de meninas por meio do ensino de programação junto ao Código X - O despertar feminino para a tecnologia - Ano 2022/2023",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Viviane de Paula Silva"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Consolidação da Rede \"Mães em Construção\" - O poder do depoimento compartilhado",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Nívea Cristina da Silva Viana",
+                    "Giséle Aparecida Xavier Viana",
+                    "Maria Luiza de Oliveira Lopes",
+                    "Anna Clara Duarte de Lima",
+                    "Sofia Fernanda Perucci",
+                    "Ana Clara Soares Santos"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Agenda de Enfrentamento da Pandemia COVID-19 no âmbito do IFMG - Campus Ouro Preto",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Hugo Coelho Pereira",
+                    "Ana Elisa Costa Novais",
+                    "Camila Cavadas Barbosa",
+                    "Kelly Cristiane Santos Morais",
+                    "Vicenzo Dorneles",
+                    "Isadora Lúcia de Souza Silva",
+                    "Luciana de Fatima Ferreira"
+                ],
+                "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Educar para Transformar: Preparatório de Concursos como Instrumento de Educação Continuada",
+                "periodo": "2024 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Marcos Dias da Rocha",
+                    "Davi Yuri de Almeida",
+                    "Lais Maria de Oliveira",
+                    "Denilson Junio Marques Soares",
+                    "Jarbas Glauber Santos Lopes",
+                    "Rafaela Kelsen Dias",
+                    "Elke Beatriz Felix Pena",
+                    "Paulo Ricardo Moura da Silva",
+                    "Ana Elisa Costa Novais",
+                    "Erica Alessandra Fernandes Aniceto"
+                ]
+            },
+            {
+                "instituicao": "IFMG",
+                "nome": "Programa Autonomia e Renda Petrobras",
+                "periodo": "2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida"
+                ],
+                "financiador": "Petróleo Brasileiro - Rio de Janeiro - Matriz,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Tem menina sim! Um talk sobre diversidade na ciência",
+                    "ano": "2019",
+                    "instituicao_promotora": "Grupo Educacional Unis."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Tecnologia Assistiva",
+                    "ano": "2017",
+                    "instituicao_promotora": "Campus Betim."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Tecnologias Assistivas: a tecnologia a serviço da inclusão social",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFMG - Campus Ouro Branco."
+                },
+                {
+                    "autores": "REZENDE",
+                    "titulo": "T. M.,  CASTRO, C. L.,  ALMEIDA, S. G. M.,  MOTA, F. A. O.,  CORREA, R. S.,  NAMETALA, C. A. L.,  Reconhecimento de expressões faciais em sinais da língua brasileira de sinais (libras) utilizando os classificadores k-NN e SVM",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  FREITAS, A. R. R.,  GUIMARAES, F. G.,  Um método para sumarização de vídeos baseado no problema da diversidade máxima e em algoritmos evolucionários",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Guimarães, Frederico G.,  Ramírez, J.A.,  A Methodology for Feature Extraction in Brazilian Sign Language Recognition",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universidade Federal Fluminense."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Projeto de Tecnologia Assistiva - Reconhecimento de Padrões para Libras",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal Sul-Rio-Grandense."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Pinto, Paulo Raimundo,  TRINDADE, R. S.,  Guimarães, Frederico G.,  Ramírez, J.A.,  Sistema para auto-calibração e linearização de sensores utilizando redes de funções de base radiais com aprendizado multiobjetivo",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "S. G. M.,  Guimarães, Frederico G.,  Ramírez, J.A.,  Linearização de sensores de temperatura com treinamento multiobjetivo de redes de funções de base radiais",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal de Ouro Preto."
+                }
             ],
-            "financiador": "Petróleo Brasileiro - Rio de Janeiro - Matriz,"
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ALMEIDA",
+                    "curso": "S. G. M.,  Oficina Meu Primeiro APP - MIT AppInventor",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "ALMEIDA",
+                    "curso": "S. G. M.,  Oficina - Oficina Arduino para Iniciantes",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "ALMEIDA",
+                    "curso": "S. G. M.,  FIQUEIREDO, L. A.,  Robótica",
+                    "ano": "2018"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  ANDREOLI, C. S.,  XIII Semana de Ciência e Tecnologia 2020 - Inteligência Artificial: a nova fronteira da ciência brasileira",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  PAIVA, D.,  GOMES, H. R. N.,  PINTO, P. R.,  I Semana de Automação Industrial - Janelas para o Futuro: Tendências.",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  XII Semana de Ciência e Tecnologia do IFMG - Campus Ouro Preto",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  II SIPEX - Seminário de Inovação, Pesquisa e Extensão",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  Semana de Ciência e Tecnologia 2016",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  I SIPEX - Seminário de Inovação, Pesquisa e Extensão",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  Semana de Ciência e Tecnologia 2010",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  Semana de Ciência e Tecnologia 2009",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ouro Preto."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  X Olimpíada Brasileira de Informática (OBI2008)",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "S. G. M.,  I SINC - Seminário de Instrumentação Eletrônica e Controle de Processos",
+                    "ano": "2007",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Centro Federal de Educação Tecnológica."
+                }
+            ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "VIANA, N. C. S.",
+                "titulo": "ALMEIDA, S. G. M.;  VIANA, G. A. X.;  Diário da Mãe em Construção - Volume 2",
+                "ano": "2024",
+                "informacoes_adicionais": "Impresso. ISBN: 9786554471428, Goiânia (Organizado(a))."
+            },
+            {
+                "autores": "VIANA, N. C. S.",
+                "titulo": "ALMEIDA, S. G. M.;  MARQUES, L. A.;  VIANA, G. A. X.;  Diário da Mãe em Construção - Volume 1",
+                "ano": "2023",
+                "informacoes_adicionais": "Impresso. ISBN: 9786554470285, Goiânia (Organizado(a))."
+            },
+            {
+                "autores": "Almeida, Sílvia Grasiella Moreira",
+                "titulo": "Coelho, Frederico Gualberto F.;  GUIMARÃES, FREDERICO GADELHA;  Braga, Antonio Pádua;  Lecture Notes in Computer Science. Título do capítulo: A General Approach for Adaptive Kernels in Semi-Supervised Clustering",
+                "ano": "2012",
+                "informacoes_adicionais": "ISBN: 9783642326387."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "REZENDE, TAMIRES MARTINS",
+                "titulo": "Almeida, Sílvia Grasiella Moreira;  GUIMARÃES, FREDERICO GADELHA;  Development and validation of a Brazilian sign language database for human gesture recognition",
+                "ano": "2021",
+                "periodico": "NEURAL COMPUTING & APPLICATIONS. ISBN: 09410643   ."
+            },
+            {
+                "autores": "MOREIRA ALMEIDA, SÍLVIA GRASIELLA",
+                "titulo": "GUIMARÃES, FREDERICO GADELHA;  ARTURO RAMÍREZ, JAIME;  Feature extraction in Brazilian Sign Language Recognition based on phonological structure and using RGB-D sensors",
+                "ano": "2014",
+                "periodico": "Expert Systems with Applications. ISBN: 09574174   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DOS SANTOS CARNEIRO, DIEGO",
+                "titulo": "JOSÉ DA ROCHA REIS, AGNALDO; GRASIELLA MOREIRA ALMEIDA, SÍLVIA; LÚCIO CARDOSO RODRIGUES, CRISTIANO; Sensor Inferencial Neural para Determinação da Massa de um Produto em um Secador Agrícola",
+                "evento": "ANAIS DO 14º SIMPóSIO BRASILEIRO DE AUTOMAçãO INTELIGENTE",
+                "local": "Ouro Preto",
+                "ano": "2019"
+            },
+            {
+                "autores": "ZANON DE CASTRO, GIULIA",
+                "titulo": "REIS GUERRA, RÚBIA; MENDES DE ASSIS, MOISES; MARTINS REZENDE, TAMIRES; TOLENTINO BOAVENTURA DE ALMEIDA, GABRIELA; GRASIELLA MOREIRA ALMEIDA, SÍLVIA; LEITE DE CASTRO, CRISTIANO; G",
+                "evento": "GUIMARÃES",
+                "local": "FREDERICO; Desenvolvimento de uma Base de Dados de Sinais de Libras para Aprendizado de Máquina: Estudo de Caso com CNN 3D. ANAIS DO 14º SIMPóSIO BRASILEIRO DE AUTOMAçãO INTELIGENTE, Ouro Preto",
+                "ano": "2019"
+            },
+            {
+                "autores": "Almeida, Sílvia Grasiella Moreira",
+                "titulo": "GUERRA, RÚBIA REIS; REZENDE, TAMIRES MARTINS; GUIMARÃES, FREDERICO GADELHA; Facial Expression Analysis in Brazilian Sign Language for Sign Recognition",
+                "evento": "XV Encontro Nacional de Inteligência Artificial e Computacional",
+                "local": "São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "REZENDE, T. M.",
+                "titulo": "CASTRO, C",
+                "evento": "L.; ALMEIDA",
+                "local": "S. G. M.; Guimarães, Frederico G.; Análise da Expressão Facial em Reconhecimento de Sinais de Libras. XIII Simpósio Brasileiro de Automação Inteligente, Porto Alegre",
+                "ano": "2017"
+            },
+            {
+                "autores": "CIMINO, LEONARDO DE SOUZA",
+                "titulo": "AQUINO, ANDRE LUIZ LINS DE; LIMA, JOUBERT DE CASTRO; RESENDE, JOSE ESTEVAO EUGENIO DE; SILVA, LUCAS HENRIQUE MOREIRA; ROCHA, SAMUEL QUEIROZ SOUZA; CORREIA, MATHEUS DE OLIVEIRA; MONTEIRO, GUILHERME SOUZA; FERNANDES, GABRIEL NATA DE SOUZA; ALMEIDA, SILVIA GRASIELLA MOREIRA; ALMEIDA, ANDRE LUIZ BARROSO; IoT and HPC Integration: Revision and Perspectives",
+                "evento": "2017 VII Brazilian Symposium on Computing Systems Engineering (SBESC)",
+                "local": "Curitiba",
+                "ano": "2017"
+            },
+            {
+                "autores": "MOREIRA, R. S.",
+                "titulo": "SILVA, J",
+                "evento": "G.; SIQUEIRA",
+                "local": "F. H. S.; RESENDE, J. E. E.; ALMEIDA, A. L. B.; ALMEIDA, S. G. M.; JCL - Um Middleware Java de Alta Performance para Computação de Propóstio Geral utilizando Dispositivos Móveis e Sistemas Embarcados. Semana de Ciência e Tecnologia, Ouro Preto",
+                "ano": "2017"
+            },
+            {
+                "autores": "TEIXEIRA, G. M.",
+                "titulo": "MACHADO, L",
+                "evento": "; FIQUEIREDO",
+                "local": "L. A.; GONCALVES, S. A.; ALVARENGA, V. F.; PINTO, P. R.; ALMEIDA, S. G. M.; Picasso - Robô Automatizado para Demarcação de Superfícies Sólidas. Semana de Ciência e Tecnologia, Ouro Preto",
+                "ano": "2017"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "TOFFOLO, A",
+                "evento": "C. R.; PEREIRA",
+                "local": "H. C.; DUARTE, J. M. D.; GOMES, C. E.; CRUZ, J. A.; GOMES, H. T. C.; PAULA, V. M.; DIAS, I. C. S.; Um projeto para democratização do acesso ao falante de Libras à uma modalidade literária desafiadora. 7o Congresso Brasileiro de Extensão Universitária, Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "REZENDE, T. M.",
+                "titulo": "CASTRO, C",
+                "evento": "L.; ALMEIDA",
+                "local": "S. G. M.; MOTA, F. A. O.; CORREA, R. S.; NAMETALA, C. A. L.; Reconhecimento de expressões faciais em sinais da língua brasileira de sinais (libras) utilizando os classificadores k-NN e SVM. XII Simpósio de Mecânica Computacional, Diamantina",
+                "ano": "2016"
+            },
+            {
+                "autores": "REZENDE, T. M.",
+                "titulo": "CASTRO, C",
+                "evento": "L.; ALMEIDA",
+                "local": "S. G. M.; An approach for Brazilian Sign Language (BSL) recognition based on facial expression and k-NN classifier. The 29th SIBGRAPI edition - SIBGRAPI - Conference on Graphics, Patterns and Images, São José dos Campos",
+                "ano": "2016"
+            },
+            {
+                "autores": "MITA, R. M. T.",
+                "titulo": "OLIVEIRA, L",
+                "evento": "C. C.; SILVA",
+                "local": "M. F.; QUEIROZ, V. A. S.; PINTO, P. R.; ALMEIDA, S. G. M.; AUTO SKYSEARCHER - UM PROJETO DE TELESCÓPIO COM BUSCA AUTOMÁTICA PARA VISUALIZAÇÃO. Semana de Ciência e Tecnologia, Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "BORTOLAIA, A. L. S.",
+                "titulo": "FERREIRA, A",
+                "evento": "F.; PARREIRA",
+                "local": "M. P.; VERSIANI, Y. S. A.; PINTO, P. R.; ALMEIDA, S. G. M.; MAYA ? ROBÔ TRANSPORTADOR DE OBJETOS. Semana de Ciência e Tecnologia, Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "COSTA, C. T. B.",
+                "titulo": "CASTRO, G",
+                "evento": "G.; SANTOS",
+                "local": "L. C.; PEDROZA, S. M.; PINTO, P. R.; ALMEIDA, S. G. M.; PÉROLA NEGRA - ROBÔ ANFÍBIO AUTÔNOMO DE RECONHECIMENTO. Semana de Ciência e Tecnologia, Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "GOMES, C",
+                "evento": "E.; DUARTE",
+                "local": "J. M. D.; CRUZ, J. A.; GOMES, H. T. C.; DIAS, I. C. S.; PAULA, V. M.; PEREIRA, H. C.; Produção de Crônicas em Língua Brasileira de Sinais. I SIPEX - Seminário de Inovação, Pesquisa e Extensão, Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "Pinto, Paulo Raimundo; RSMR - Robô Separador de Material Reciclável",
+                "evento": "Semana de Ciência e Tecnologia",
+                "local": "Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "Pinto, Paulo Raimundo; SAIA - Sistema de Alimentação Inteligente para Animais",
+                "evento": "Semana de Ciência e Tecnologia",
+                "local": "Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "Pinto, Paulo Raimundo; SASC - Sistema Automático de Segurança de uma Casa",
+                "evento": "Semana de Ciência e Tecnologia",
+                "local": "Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "Pinto, Paulo Raimundo; SEI - Sistema de Estacionamento Inteligente",
+                "evento": "Semana de Ciência e Tecnologia",
+                "local": "Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "Pinto, Paulo Raimundo; SMR - Sistema de Monitoramento de Risco",
+                "evento": "Semana de Ciência e Tecnologia",
+                "local": "Ouro Preto",
+                "ano": "2016"
+            },
+            {
+                "autores": "FREITAS, A. R. R.",
+                "titulo": "GUIMARAES, F",
+                "evento": "G.; ALMEIDA",
+                "local": "S. G. M.; Um método para sumarização de vídeos baseado no problema da diversidade máxima e em algoritmos evolucionários. XII Simpósio Brasileiro de Automação Inteligente, Natal",
+                "ano": "2015"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "GUIMARAES, F",
+                "evento": "G.; ARTURO RAMÍREZ",
+                "local": "JAIME; A Methodology for Feature Extraction in Brazilian Sign Language Recognition.. IX Workshop de Visão Computacional (WVC 2013), Rio de Janeiro",
+                "ano": "2013"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "TRINDADE, R",
+                "evento": "S.; Pinto",
+                "local": "Paulo Raimundo; GUIMARAES, F. G.; Ramírez, J.A.; Sistema para autocalibração e linearização de sensores utilizando redes de funções de base radiais com aprendizado multiobjetivo. Congresso Brasileiro de Automática, Bonito",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "Guimarães, Frederico G",
+                "evento": "; Ramírez",
+                "local": "J.A.; Linearização de Sensores de Temperatura com Treinamento Multiobjetivo de Redes de Funções de Base Radiais. IX Congresso Brasileiro de Redes Neurais e Inteligência Computacional, Ouro Preto",
+                "ano": "2009"
+            },
+            {
+                "autores": "ALMEIDA, S. G. M.",
+                "titulo": "SALATIEL, R",
+                "evento": "; Processamento Paralelo em Ambiente Fisicamente Distribuído. Semana de Iniciação Científica",
+                "local": "Belo Horizonte",
+                "ano": "1999"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ivanete Fatima de Azevedo",
+                "titulo": "DESENVOLVIMENTO DE PRODUTO TÉCNICO: CHATBOT AURORA, UMA ASSISTENTE VIRTUAL PARA INTERAÇÃO HUMANIZADA NO BLOG DIÁRIO DA MÃE EM CONSTRUÇÃO",
+                "ano": "2025",
+                "curso": "Especialização em Inteligência Artificial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Dionízio Júnio Inácio",
+                "titulo": "ANÁLISE COMPARATIVA DE TÉCNICAS DE APRENDIZADO DE MÁQUINA PARA RECONHECIMENTO DE CÉLULAS SANGUÍNEAS",
+                "ano": "2025",
+                "curso": "Especialização em Inteligência Artificial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Arthur Cardoso Figueiredo",
+                "titulo": "Inteligência Artificial Aplicada à Prevenção e Mitigação de Desastres Naturais: Abordagens Técnicas e Perspectivas Futuras",
+                "ano": "2025",
+                "curso": "Especialização em Inteligência Artificial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Júlio Cézar Martins Filho",
+                "titulo": "Elaboração de uma sequência didática para o ensino de Botânica no Ensino Médio",
+                "ano": "2024",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Henrique de Matos Barbosa Eustáquio",
+                "titulo": "Elaboração de uma sequência didática para o ensino de Botânica no Ensino Médio",
+                "ano": "2024",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Priscilla Alves Barbosa Correa",
+                "titulo": "Impacto da COVID-19 nos estabelecimentos de Alimentos e Bebidas (A&B) em Ouro Preto e região",
+                "ano": "2021",
+                "curso": "Gastronomia",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Souza Azevedo",
+                "titulo": "PRODUÇÃO DE MATERIAL DIDÁTICO PARA O ENSINO DE GEOMORFOLOGIA: ATIVIDADES SUSTENTÁVEIS INTERDISCIPLINARES NAS CIÊNCIAS DA TERRA",
+                "ano": "2021",
+                "curso": "Geografia",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Mateus Claudino da Silva",
+                "titulo": "PRODUÇÃO DE MATERIAL DIDÁTICO PARA O ENSINO DE GEOMORFOLOGIA: ATIVIDADES SUSTENTÁVEIS INTERDISCIPLINARES NAS CIÊNCIAS DA TERRA",
+                "ano": "2021",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Laryssa Aparecida Gomes Fagundes",
+                "titulo": "Projeto de Extensão: Promovendo o empoderamento de meninas por meio do ensino de programação junto ao Código X - O despertar feminino para a tecnologia",
+                "ano": "2020",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Pâmela Starling Bergamini Gomes",
+                "titulo": "Projeto de Extensão: Promovendo o empoderamento de meninas por meio do ensino de programação junto ao Código X - O despertar feminino para a tecnologia",
+                "ano": "2020",
+                "curso": "Conservação e Restauro",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ana Beatriz Ansaloni Dias",
+                "titulo": "Projeto de Extensão: Promovendo o empoderamento de meninas por meio do ensino de programação junto ao Código X - O despertar feminino para a tecnologia",
+                "ano": "2020",
+                "curso": "Técnico de Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Laryssa Aparecida Gomes Fagundes",
+                "titulo": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Samara Carolina Carlos Teixeira",
+                "titulo": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Júnior Jesus Gomes de Freitas",
+                "titulo": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Paulo Vitor de Castro Magalhães Corrêa",
+                "titulo": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "ano": "2020",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Pedro Assunção Pereira",
+                "titulo": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "ano": "2020",
+                "curso": "técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Isadora Gomes Carlos Cândido",
+                "titulo": "Impacto da COVID-19 nos estabelecimentos de Alimentos e Bebidas (A&B) em Ouro Preto e região",
+                "ano": "2020",
+                "curso": "Gastronomia",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Maria Teresa Sarmanho Freitas",
+                "titulo": "Reconhecimento automático de placas automotivas por meio de técnicas de Visão Computacional para utilização em ambientes de estacionamento privativo",
+                "ano": "2017",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Walter Fonseca de Magalhães",
+                "titulo": "Tecnologia Assistiva ampliando a Inclusão Social",
+                "ano": "2017",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Henrique Couto Alves",
+                "titulo": "Reconhecimento de Padrões em Vídeos de Vigilância a partir de Descrição de Suspeitos",
+                "ano": "2017",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Walter Fonseca de Magalhães",
+                "titulo": "Tecnologia Assistiva - Cinto multissensorial para deficientes visuais",
+                "ano": "2017",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Gabriela Tolentino Boaventura de Almeida",
+                "titulo": "Definição de protocolo para construção de uma base de sinais em Libras",
+                "ano": "2017",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Gabriela Tolentino Boaventura de Almeida",
+                "titulo": "Criação de Banco de Sinais de Libras para Implementação de Sistemas com Visão Computacional",
+                "ano": "2017",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Walter Fonseca de Magalhães",
+                "titulo": "Criação de Banco de Sinais de Libras para Implementação de Sistemas com Visão Computacional",
+                "ano": "2017",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Andreia Chagas Rocha Toffolo",
+                "titulo": "DesenDesenvolvimento de uma base de sinais da Língua Brasileira de Sinais utilizando gravações em 2D e 3D para avaliação de metodologias de reconhecimento de sinais em Visão Computacional",
+                "ano": "2016",
+                "curso": "Letras",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            },
+            {
+                "orientando": "Gabriela Tolentino Boaventura de Almeida",
+                "titulo": "Adoção de Tecnologias Assistivas para Surdos Baseadas em Sistemas Computacionais",
+                "ano": "2016",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "José Estevão Eugênio de Resende",
+                "titulo": "JCL - um middleware Java de alta performance para computação de propósito geral utilizando dispositivos móveis e sistemas embarcados",
+                "ano": "2016",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Renan da Silva Moreira",
+                "titulo": "JCL - um middleware Java de alta performance para computação de propósito geral utilizando dispositivos móveis e sistemas embarcados",
+                "ano": "2016",
+                "curso": "Técnico de Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Fabrício Henrique dos Santos Siqueira",
+                "titulo": "JCL - um middleware Java de alta performance para computação de propósito geral utilizando dispositivos móveis e sistemas embarcados",
+                "ano": "2016",
+                "curso": "Técnico de Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Junior Guilherme da Silva",
+                "titulo": "JCL - um middleware Java de alta performance para computação de propósito geral utilizando dispositivos móveis e sistemas embarcados",
+                "ano": "2016",
+                "curso": "Técnico de Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Izabele Cristina da Silva Dias",
+                "titulo": "Produção literária de crônicas em Língua Brasileira de Sinais",
+                "ano": "2016",
+                "curso": "Técnico em Edificações",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Clara Eusébio Gomes",
+                "titulo": "Produção literária de crônicas em Língua Brasileira de Sinais",
+                "ano": "2015",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Jefferson Alexandre da Cruz",
+                "titulo": "Produção literária de crônicas em Língua Brasileira de Sinais",
+                "ano": "2015",
+                "curso": "Conservação e Restauro",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Júlia Maria das Dores Duarte",
+                "titulo": "Produção literária de crônicas em Língua Brasileira de Sinais",
+                "ano": "2015",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Fernando Nascimento Dias Carneiro",
+                "titulo": "Técnicas de Sumarização de Vídeos Baseadas em Otimização",
+                "ano": "2015",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Hemerson Tcharlles Carvalho Gomes",
+                "titulo": "Produção literária de crônicas em Língua Brasileira de Sinais",
+                "ano": "2015",
+                "curso": "Técnico de Automação Industrial",
+                "instituicao": "IFMG - Campus Ouro Preto"
+            },
+            {
+                "orientando": "Valéria Maria de Paula",
+                "titulo": "Produção literária de crônicas em Língua Brasileira de Sinais",
+                "ano": "2015",
+                "curso": "Tecnólogo em Gestão da Qualidade",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Fernando Alcântara Rocha",
+                "titulo": "Reconhecimento Automático de Gestos do Alfabeto Manual de Libras",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Rodrigo Marcos Venâncio",
+                "titulo": "Realidade Aumentada e Sensoriamento de Movimentos como Ferramenta de Apoio ao Ensino de LIBRAS ? Língua Brasileira de Sinais",
+                "ano": "2009",
+                "curso": "técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "PÚBLIO DANIEL BARCANTE MARTINS",
+                "titulo": "Desenvolvimento de um Sistema Informatizado Lúdico para Alfabetização de Pessoas Portadoras de Necessidades Educacionais Especiais - Surdez",
+                "ano": "2008",
+                "curso": "técnico em Automação Industrial",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Flávio Pereira Mendes",
+                "titulo": "AUTOMAÇÃO PREDIAL BASEADA EM SOFTWARE SUPERVISÓRIO",
+                "ano": "2007",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            }
+        ]
+    }
 }

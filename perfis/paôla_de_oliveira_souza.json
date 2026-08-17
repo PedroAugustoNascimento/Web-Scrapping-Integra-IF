@@ -1,87 +1,271 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Engenharia Eletrônica e Computação",
-            "periodo": "2018 - 2023",
-            "instituicao": "Instituto Tecnológico de Aeronáutica",
-            "titulo": "Semantic Approach For Pruning Association Rules In The Context Of RHC Database in Brazil",
-            "orientador": "José Maria Parente de Oliveira"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Ciência e Tecnologia da Computação",
-            "periodo": "2015 - 2017",
-            "instituicao": "Universidade Federal de Itajubá",
-            "titulo": "Avaliação de manequim de alta fidelidade em simulação de convulsão e treinamento de SBV pediátrico",
-            "orientador": "Alexandre Carlos Brandão Ramos"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia de Computação",
-            "periodo": "2010 - 2014",
-            "instituicao": "Universidade Federal de Itajubá"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Música",
-            "periodo": "2024",
-            "instituicao": "Universidade do Estado de Minas Gerais"
+    "campus": "- Campus Ibirité",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Eletrônica e Computação",
+                "periodo": "2018 - 2023",
+                "instituicao": "Instituto Tecnológico de Aeronáutica",
+                "titulo": "Semantic Approach For Pruning Association Rules In The Context Of RHC Database in Brazil",
+                "orientador": "José Maria Parente de Oliveira"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência e Tecnologia da Computação",
+                "periodo": "2015 - 2017",
+                "instituicao": "Universidade Federal de Itajubá",
+                "titulo": "Avaliação de manequim de alta fidelidade em simulação de convulsão e treinamento de SBV pediátrico",
+                "orientador": "Alexandre Carlos Brandão Ramos"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2010 - 2014",
+                "instituicao": "Universidade Federal de Itajubá"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Música",
+                "periodo": "2024",
+                "instituicao": "Universidade do Estado de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de São João Del-Rei",
+                "periodo": "2010 - 2011",
+                "cargo": "PIBIC-Jr, Bolsista."
+            },
+            {
+                "empresa": "Universidade Federal de Itajubá",
+                "periodo": "2012 - 2014",
+                "cargo": "Iniciação Científica, Bolsista, Bolsista do Programa de Recursos Humanos da Petrobrás (PRH-16)."
+            },
+            {
+                "empresa": "SuperGeeks",
+                "periodo": "2018 - 2018",
+                "cargo": "Instrutor Pleno."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
+                "periodo": "2015 - 2015",
+                "cargo": "Professor Temporário, Servidor público."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial ? SP",
+                "periodo": "2018 - 2019",
+                "cargo": "Monitor de Educação Profissional."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2019",
+                "cargo": "Docente EBTT, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2019 - 2019",
+                "cargo": "Professora EBTT, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2020) - Engenharia De Controle E Automação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de São João Del-Rei",
+                "nome": "Quem Aprende Sistematiza",
+                "periodo": "2010 - 2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paôla de Oliveira Souza",
+                    "Letícia Helena Januário",
+                    "RATES",
+                    "C. M. P."
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade Federal de São João Del-Rei",
+                "nome": "Informatização da Classificação Internacional para a Prática de Enfermagem",
+                "periodo": "2008 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paôla de Oliveira Souza",
+                    "Letícia Helena Januário",
+                    "Marcela Letícia Carneiro Januário"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade Federal de São João Del-Rei",
+                "nome": "Desenvolvimento de um Procedimento Simplificado para Identificação de Estrabismo em Crianças com a Utilização de Visão Computacional",
+                "periodo": "2011 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paôla de Oliveira Souza",
+                    "Letícia Helena Januário"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade Federal de Itajubá",
+                "nome": "Caracterizacão de Cenário de Alta Fidelidade de UTI Neonatal",
+                "periodo": "2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paôla de Oliveira Souza",
+                    "Alexandre Carlos Brandão Ramos",
+                    "Renata Aparecida Ribeiro Custódio",
+                    "Clarissa Goncalves Eboli",
+                    "Heber de Castro Bega",
+                    "Alessandro Rodrigo Pereira Dias",
+                    "Gabriel Bueno da Silva",
+                    "Matheus José Bizzoni"
+                ],
+                "financiador": "Fanem,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Carolinas: Mulheres, Raça e Interseccionalidades",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "juliana silva santos",
+                    "Paôla de Oliveira Souza"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de São João Del-Rei",
-            "periodo": "2010 - 2011",
-            "cargo": "PIBIC-Jr, Bolsista."
-        },
-        {
-            "empresa": "Universidade Federal de Itajubá",
-            "periodo": "2012 - 2014",
-            "cargo": "Iniciação Científica, Bolsista, Bolsista do Programa de Recursos Humanos da Petrobrás (PRH-16)."
-        },
-        {
-            "empresa": "SuperGeeks",
-            "periodo": "2018 - 2018",
-            "cargo": "Instrutor Pleno."
-        },
-        {
-            "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
-            "periodo": "2015 - 2015",
-            "cargo": "Professor Temporário, Servidor público."
-        },
-        {
-            "empresa": "Serviço Nacional de Aprendizagem Comercial ? SP",
-            "periodo": "2018 - 2019",
-            "cargo": "Monitor de Educação Profissional."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2019",
-            "cargo": "Docente EBTT, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal de Santa Catarina",
-            "periodo": "2019 - 2019",
-            "cargo": "Professora EBTT, Servidor público."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2020) - Engenharia De Controle E Automação.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Interseccionalidades -",
-            "periodo": "2020",
-            "natureza": "Extensao",
-            "equipe": [
-                "Paôla de Oliveira Souza",
-                "juliana silva santos"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SOUZA, P. O.",
+                "titulo": "RAMOS, A. C. B.;  JANUÁRIO, Letícia Helena;  Manequim de Alta Fidelidade: Uma Avaliação da Simulação de Convulsão e de SBV Pediátrico",
+                "ano": "2019",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788572478076 (Publicado)."
+            },
+            {
+                "autores": "de Oliveira Souza, Paôla",
+                "titulo": "de Oliveira, José Maria Parente;  JANUÁRIO, Letícia Helena;  Advances in Intelligent Systems and Computing. Título do capítulo: Indirect Measurement of Blood Pressure and Arm¿s Body Composition in Women: Identification of Rules and Patterns Using Statistics and Data Mining",
+                "ano": "2019",
+                "informacoes_adicionais": "ISBN: 9783030161866."
+            },
+            {
+                "autores": "SOUZA, P. O.",
+                "titulo": "RAMOS, A. C. B.;  JANUÁRIO, Letícia Helena;  DIAS, A. A. L.;  FLOR, C. R.;  PENA, H. P.;  RIBEIRO, H. C. T. C.;  VELOSO, J. C.;  FIEDLER, M. W.;  Information Technology - New Generations. Advances in Intelligent Systems and Computing. Título do capítulo: Evaluation of High-Fidelity Mannequins in Convulsion Simulation and Pediatric CPR",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9783319549781."
+            },
+            {
+                "autores": "JANUÁRIO, Letícia Helena",
+                "titulo": "RAMOS, A. C. B.;  Souza, Paôla de O.;  SANTOS, R. D. C.;  RIBEIRO, H. C. T. C.;  OLIVEIRA, J. M. P.;  CEZAR, H. N.;  Advances in Intelligent Systems and Computing. Título do capítulo: Relationship Between Upper Arm Muscle Index and Upper Arm Dimensions in Blood Pressure Measurement in Symmetrical Upper Arms: Statistical and Classification and Regression Tree Analysis",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9783319777."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SOUZA, PAÔLA DE OLIVEIRA",
+                "titulo": "OLIVEIRA, JOSÉ MARIA PARENTE DE;  JANUÁRIO, Letícia Helena;  Influência da Gordura do Braço sobre Medida Indireta da Pressão Sanguínea: Uma Abordagem Estatística e de Machine Learning",
+                "ano": "2023",
+                "periodico": "Arquivos Brasileiros de Cardiologia. ISBN: 0066782X   ."
+            },
+            {
+                "autores": "PAULA, R. B. E.",
+                "titulo": "ANTUNES, P. D.;  SOUZA, P. O.;  LEME, M. M. V.;  Benchmarking of Two Systems For Transmission of Motion For a Double Action Stirling Engine",
+                "ano": "2013",
+                "periodico": "ENGENHARIA TÉRMICA. ISBN: 16761790   ."
+            },
+            {
+                "autores": "ANTUNES, PEDRO DUARTE",
+                "titulo": "CORRE^A, EDMILSON OTONI;  BARBEDO, NANCY DELDUCCA;  SOUZA, PAOLA DE OLIVEIRA;  GONC'ALVES, JOSE' LUIZ;  DIACENCO, ADRIANA AMARO;  CANALE, L.;  DEAN, S. W.;  Mechanical and Microstrutural Characterization of Weldments of Ferritic Stainless Steel AISI 444 Using Austenitic Stainless Steels Filler Metals",
+                "ano": "2012",
+                "periodico": "Journal of ASTM International (Online). ISBN: 1546962X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "OLIVEIRA, B.",
+                "titulo": "JANUÁRIO, Letícia Helena; RAMOS, A",
+                "evento": "C. B.; Souza",
+                "local": "P.O.; SANTOS, R. D. C.; RIBEIRO, H. C. T. C.; OLIVEIRA, J. M. P.; LIMA, L. G.; PIVATTI, V. M. S.; VARIÁVEIS INCÓGNITAS NA MEDIDA DA PRESSÃO ARTERIAL. Congresso Brasileiro de Saúde Coletiva, Rio de Janeiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "Souza, Paôla de O.",
+                "titulo": "RAMOS, A",
+                "evento": "C. B.; JANUÁRIO",
+                "local": "Letícia Helena; DIAS, A. A. L.; RIBEIRO, H. C. T. C.; VELOSO, J. C.; PENA, H. P.; FIEDLER, M. W.; FLOR, C. R.; The Evaluation of High-fidelity Mannequins in Simulations of Convulsions and Pediatric CPR. The International Conference on Information Technology: New Generations, Las Vegas",
+                "ano": "2017"
+            },
+            {
+                "autores": "SOUZA, P. O.",
+                "titulo": "ANTUNES, P",
+                "evento": "D.; CORREA",
+                "local": "E. O.; SILVA, C. C.; GONCALVES, J. L.; INFLUÊNCIA DO TRATAMENTO TÉRMICO DE SOLUBILIZAÇÃO SOBRE A MICROESTRUTURA DE JUNTAS SOLDADAS DO AÇO INOXIDÁVEL AISI 444 USADO NA INDÚSTRIA DE PETROLEO E GÁS. XI Congresso Ibero-Americano de Engenharia Mecânica - CIBIM, La Plata",
+                "ano": "2013"
+            },
+            {
+                "autores": "ANTUNES, P. D.",
+                "titulo": "NASCIMENTO, A",
+                "evento": "; PAULA",
+                "local": "R. B. E.; SOUZA, P. O.; Brazilian?s Southeast Wind Power Analysis for an Offshore Wind Farm Implementation to Local Petroleum Activities Energy Supply. 21st Brazilian Congress of Mechanical Engineering - COBEM, Natal - RN",
+                "ano": "2011"
+            },
+            {
+                "autores": "ANTUNES, P. D.",
+                "titulo": "PAULA, R",
+                "evento": "B. E.; COBAS",
+                "local": "V. R. M.; SOUZA, P. O.; Benchmarking of Two Systems for Transmission of Motion for Stirling Engine Double Action. 21st Brazilian Congress of Mechanical Engineering, Natal - RN",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOUZA, P. O.",
+                "titulo": "JANUÁRIO, Letícia Helena; JANUARIO, M",
+                "evento": "L. C.; Informatização da Classificação Internacional para a Prática de Enfermagem - CIPE. 10º SINADEN Simpósio nacional de Daignóstico de Enfermagem",
+                "local": "Brasília",
+                "ano": "2010"
+            },
+            {
+                "autores": "JANUÁRIO, Letícia Helena",
+                "titulo": "SOUZA, P",
+                "evento": "O.; RATES",
+                "local": "C. M. P.; ARAUJO, F. A.; Análise de valores pressóricos de crianças e adolescente através de software.. II Congresso Internacional de Saúde da Criança e do Adolescente, São Paulo",
+                "ano": "2010"
+            },
+            {
+                "autores": "JANUÁRIO, Letícia Helena",
+                "titulo": "SOUZA, P",
+                "evento": "O.; JANUARIO",
+                "local": "M. L. C.; PartiCIPE: um software para a Classificação Internacional para a Prática de Enfermagem. 62º Congresso Brasileiro de Enfermagem, Florianópolis",
+                "ano": "2010"
+            },
+            {
+                "autores": "JANUÁRIO, Letícia Helena",
+                "titulo": "JANUARIO, M",
+                "evento": "L. C.; SOUZA",
+                "local": "P. O.; Informatização da Classificação Internacional para a Prática de Enfermagem CIPE. VIII Congresso de Produção Científica, São João Del Rei",
+                "ano": "2009"
+            },
+            {
+                "autores": "SOUZA, P. O.",
+                "titulo": "JANUÁRIO, Letícia Helena; JANUARIO, M",
+                "evento": "L. C.; Proposta de Informatização da Classificação Internacional para a Prática de Enfermagem CIPE.. 60 Congresso Brasileiro de Enfermagem",
+                "local": "Belo Horizonte",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

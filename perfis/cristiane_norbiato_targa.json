@@ -1,384 +1,517 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Computação Aplicada e Automação",
-            "periodo": "2000 - 2002",
-            "instituicao": "Universidade Federal Fluminense",
-            "titulo": "Mineração Eficiente de Regras de Associação Através de Indexação de Conjunto Candidatos",
-            "orientador": "Alexandre Plastino"
-        },
-        {
-            "nivel": "Especialização"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "em Docência",
-            "periodo": "2019 - 2020",
-            "instituicao": "Instituto Federal Minas Gerais",
-            "orientador": "Edio da Costa Junior"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "",
-            "periodo": "1996 - 2000",
-            "instituicao": "Universidade Federal de Juiz de Fora"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Salgado de Oliveira",
-            "periodo": "2005 - 2010",
-            "cargo": ", Professor."
-        },
-        {
-            "empresa": "S B I",
-            "periodo": "2005 - 2010",
-            "cargo": "Professor, Professor."
-        },
-        {
-            "empresa": "Universidade Federal Fluminense",
-            "periodo": "2001 - 2004",
-            "cargo": "Professor Substituto."
-        },
-        {
-            "empresa": "Centro Universitário Augusto Motta",
-            "periodo": "2004 - 2009",
-            "cargo": "Professor, Professor."
-        },
-        {
-            "empresa": "Universidade Federal de Ouro Preto",
-            "periodo": "2010 - 2013",
-            "cargo": "Professor Assistente I."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2013",
-            "cargo": "Professor D3 Nível 1."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Centro Universitário Augusto Motta\nGraduacao (2004 - 2009) - Ciência Da Computação.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Sabarense -",
-            "periodo": "2015 - 2020",
-            "natureza": "Extensao",
-            "equipe": [
-                "Gabriel Felipe Candido Novy",
-                "Cristiane Norbiato Targa"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Sabará -",
-            "periodo": "2016 - 2017",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "S -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Bruno Nonato Gomes",
-                "Tares Liberato Orlande de Almeida"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Federais. -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Carlos Alexandre Silva",
-                "Nayane França Gomes"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Horizonte -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Daniel Elias Santos",
-                "Cristiane Norbiato Targa",
-                "Gabriel Felipe Candido Novy",
-                "Daniel Bruno Fernandes Conrado",
-                "Carlos Alberto Severiano Junior",
-                "Pedro Afonso Ramos de Souza",
-                "Paulo Henrique Rodrigues da Cunha Santos"
-            ]
-        },
-        {
-            "nome": "Proposta de desenvolvimento de um sistema baseado em machine learning para a gestão da neurociência cognitiva -",
-            "periodo": "2017 - 2019",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Carlos Alexandre Silva",
-                "Patrícia Scoralick M. Lopes",
-                "Daniel Bruno Fernandes Conrado",
-                "Daniela Medeiros Batista"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Women -",
-            "periodo": "2019 - 2020",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Gabriel Felipe Candido Novy",
-                "Bruno Nonato Gomes",
-                "Carlos Alexandre Silva",
-                "Daniel Bruno Fernandes Conrado",
-                "Kênia Carolina Gonçalves",
-                "Lillia dos Santos Barsante"
+    "campus": "- Campus Sabará",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação Aplicada e Automação",
+                "periodo": "2000 - 2002",
+                "instituicao": "Universidade Federal Fluminense",
+                "titulo": "Mineração Eficiente de Regras de Associação Através de Indexação de Conjunto Candidatos",
+                "orientador": "Alexandre Plastino"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Docência",
+                "periodo": "2019 - 2020",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "orientador": "Edio da Costa Junior"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "",
+                "periodo": "1996 - 2000",
+                "instituicao": "Universidade Federal de Juiz de Fora"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Salgado de Oliveira",
+                "periodo": "2005 - 2010",
+                "cargo": ", Professor."
+            },
+            {
+                "empresa": "S B I",
+                "periodo": "2005 - 2010",
+                "cargo": "Professor, Professor."
+            },
+            {
+                "empresa": "Universidade Federal Fluminense",
+                "periodo": "2001 - 2004",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "Centro Universitário Augusto Motta",
+                "periodo": "2004 - 2009",
+                "cargo": "Professor, Professor."
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "periodo": "2010 - 2013",
+                "cargo": "Professor Assistente I."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2013",
+                "cargo": "Professor D3 Nível 1."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Centro Universitário Augusto Motta\nGraduacao (2004 - 2009) - Ciência Da Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Sistemas de Informação para bibliotecas de escolas públicas.",
+                "periodo": "2011 - 2012",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "ALEXANDRE",
+                    "Rafael Frederico",
+                    "Leonardo Vieira dos Santos Reis"
+                ],
+                "financiador": "Universidade Federal de Ouro Preto,"
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Implantação de Ambiente Colaborativo de Gestão do Conhecimento no NMS (Núcleo de Materiais Solares ? CETEC)",
+                "periodo": "2010 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Milton Ferreira Lima Filho",
+                    "Cândida Aleixo de Oliveira Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto ConectivIDADE: uma ação voltada à inclusão social e digital para terceira idade Sabarense",
+                "periodo": "2015 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Gabriel Felipe Candido Novy"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Meninas Digitais - IFMG Campus Sabará",
+                "periodo": "2016 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "APLICAÇÃO DE REGRAS DE ASSOCIAÇÃO SOBRE DADOS ACADÊMICOS",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Bruno Nonato Gomes",
+                    "Tares Liberato Orlande de Almeida"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise de sentimentos no Twitter para a identificação de indivíduos com Sintomas de Ansiedade relacionados aos Institutos Federais.",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Carlos Alexandre Silva",
+                    "Nayane França Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Plataforma para Classificação da Amigabilidade de Gênero das Empresas de Tecnologia da Informação do Município de Belo Horizonte",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Gabriel Felipe Candido Novy",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Carlos Alberto Severiano Junior",
+                    "Pedro Afonso Ramos de Souza",
+                    "Paulo Henrique Rodrigues da Cunha Santos",
+                    "Daniel Elias Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Proposta de desenvolvimento de um sistema baseado em machine learning para a gestão da neurociência cognitiva",
+                "periodo": "2017 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Carlos Alexandre Silva",
+                    "Patrícia Scoralick M. Lopes",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Daniela Medeiros Batista"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "PS4W - Programa Sabará for Women",
+                "periodo": "2019 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Gabriel Felipe Candido Novy",
+                    "Bruno Nonato Gomes",
+                    "Carlos Alexandre Silva",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Kênia Carolina Gonçalves",
+                    "Lillia dos Santos Barsante"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "CogIF - Plataforma de análise e estímulo de funções cognitivas para ambientes de aprendizagem no Instituto Federal de Minas Gerais",
+                "periodo": "2018 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Carlos Alexandre Silva",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Daniela M Batista",
+                    "Bárbara S Rabelo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "DAMAS - Disseminação e Apoio à participação de Mulheres em Áreas de STEM",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "ROSA",
+                    "K. C. G",
+                    "Michele A. Brandão"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa Sabará - Equidade Racial",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Bruno Nonato Gomes",
+                    "Carlos Alexandre Silva",
+                    "Carlos Alberto Severiano Junior",
+                    "Marcia Basilia de Araujo",
+                    "Luciane Silva de Almeida"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa Sabará",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Bruno Nonato Gomes",
+                    "Carlos Alexandre Silva",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Kênia Carolina Gonçalves",
+                    "Marcia Basilia de Araujo",
+                    "Rodrigo Hiroshi Murofushi"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "ConectivIDADE: inclusão digital para a Melhor Idade",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Lara Righi Viggiano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "ConectivIDADE: inclusão digital para a Melhor Idade",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Daniel Bruno Fernandes Conrado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "DAMAS - Disseminação e Apoio à participação de Mulheres em Áreas de STEM",
+                "periodo": "2022 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "ROSA",
+                    "K. C. G",
+                    "RIBEIRO",
+                    "I. A. D.",
+                    "Michele A. Brandão"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa Sabará - Equidade Racial",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Bruno Nonato Gomes",
+                    "Carlos Alexandre Silva",
+                    "Carlos Alberto Severiano Junior",
+                    "Marcia Basilia de Araujo",
+                    "Luciane Silva de Almeida",
+                    "Amanda Machado Ramos",
+                    "Rogério Gonçalves Garcia",
+                    "Matheus Eduardo do Anjos Pereira Pinto",
+                    "Mariana Luisa Fernandes Lage Ambrosio"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "RE-ConectivIDADE",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "TARGA",
+                    "titulo": "C. N.,  CONRADO, D. B. F.,  Dojosiane: programação para meninas!",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "TARGA",
+                    "titulo": "C. N.,  GOMES, B. N.,  CONRADO, D. B. F.,  GONCALVES, K. C.,  Bacharelado em Sistemas de Informação",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "TARGA",
+                    "titulo": "C. N.,  Data Mining",
+                    "ano": "2006",
+                    "instituicao_promotora": "Centro Universitário Augusto Motta."
+                }
             ],
-            "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Gerais -",
-            "periodo": "2018 - 2021",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Daniela M Batista",
-                "Cristiane Norbiato Targa",
-                "Carlos Alexandre Silva",
-                "Daniel Bruno Fernandes Conrado",
-                "Bárbara S Rabelo"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "M -",
-            "periodo": "2023",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "ROSA",
-                "K. C. G",
-                "Michele A. Brandão"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Racial -",
-            "periodo": "2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Bruno Nonato Gomes",
-                "Carlos Alexandre Silva",
-                "Carlos Alberto Severiano Junior",
-                "Marcia Basilia de Araujo",
-                "Luciane Silva de Almeida"
-            ]
-        },
-        {},
-        {
-            "nome": "Sabará -",
-            "periodo": "2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Bruno Nonato Gomes",
-                "Carlos Alexandre Silva",
-                "Daniel Bruno Fernandes Conrado",
-                "Kênia Carolina Gonçalves",
-                "Marcia Basilia de Araujo",
-                "Rodrigo Hiroshi Murofushi"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Idade -",
-            "periodo": "2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Daniel Bruno Fernandes Conrado",
-                "Lara Righi Viggiano"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Idade -",
-            "periodo": "2022 - 2022",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Daniel Bruno Fernandes Conrado"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "M -",
-            "periodo": "2022 - 2024",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "ROSA",
-                "K. C. G",
-                "RIBEIRO",
-                "I. A. D.",
-                "Michele A. Brandão"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Racial -",
-            "periodo": "2022 - 2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa",
-                "Bruno Nonato Gomes",
-                "Carlos Alexandre Silva",
-                "Carlos Alberto Severiano Junior",
-                "Marcia Basilia de Araujo",
-                "Luciane Silva de Almeida",
-                "Amanda Machado Ramos",
-                "Rogério Gonçalves Garcia",
-                "Matheus Eduardo do Anjos Pereira Pinto",
-                "Mariana Luisa Fernandes Lage Ambrosio"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "E -",
-            "periodo": "2020 - 2021",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Norbiato Targa"
-            ]
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALEXANDRINO, NÁDIA L. A.",
+                "titulo": "SILVA, C. A.;  CONRADO, D. B. F.;  Targa, Cristiane Norbiato;  Uma experiência de ensino de programação e robótica para alunas do ensino básico como estratégia de ação afirmativa",
+                "ano": "2022",
+                "periodico": "INTERFACES - REVISTA DE EXTENSÃO DA UFMG. ISBN: 23182326   ."
+            },
+            {
+                "autores": "SOUZA, MATEUS FILIPE DE LIMA",
+                "titulo": "Targa, Cristiane Norbiato;  SILVA, CARLOS ALEXANDRE;  MINERACAO DE OPINIAO APLICADA A POSTAGENS DO TWITTER SOBRE O ENSINO REMOTO EMERGENCIAL EM INSTITUTOS FEDERAIS",
+                "ano": "2022",
+                "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC. ISBN: 22372903   ."
+            },
+            {
+                "autores": "ROCHA, T. G. S.Thaís Gabrielle Serafim da Rocha",
+                "titulo": "OLIVEIRA, P.;  TARGA, C. N.;  Uma proposta para estimular e resgatar estudantes do curso de sistemas de informação do Instituto Federal de Minas Gerais ? Campus Sabará",
+                "ano": "2019",
+                "periodico": "Brazilian Journal of Development. ISBN: 25256761   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ROSA, K. C. G",
+                "titulo": "RIBEIRO, I",
+                "evento": "A. D.; TARGA",
+                "local": "C. N.; Michele A. Brandão; Michele A. Brandão . Análise de Redações sobre Mulheres na Ciência: Uma Perspectiva de Estudantes do Ensino Médio. Women in Information Technology (CSBC 2023 - WIT), João Pessoa",
+                "ano": "2023"
+            },
+            {
+                "autores": "SOUZA, MATEUS F. L.",
+                "titulo": "Targa, Cristiane N",
+                "evento": "; SILVA",
+                "local": "CARLOS A.; Um Estudo sobre a Percepção do Ensino Remoto Emergencial em Institutos Federais baseado em Mineração de Opinião. Encontro Nacional de Computação dos Institutos Federais, Brasil",
+                "ano": "2022"
+            },
+            {
+                "autores": "BATISTA, D. M.",
+                "titulo": "RABELO, B",
+                "evento": "S.; Targa",
+                "local": "Cristiane N.; CONRADO, D. B. F.; SILVA, C. A.; Análise do impacto da atenção seletiva no desempenho acadêmico de estudantes do curso de sistemas de informação. 21º Congresso Nacional de Iniciação Científica, Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "ALEXANDRINO, NÁDIA L. A.",
+                "titulo": "TARGA, C",
+                "evento": "N.; SILVA",
+                "local": "C. A.; PS4W - Programa Sabará for Women. 9º Congresso Brasileiro de Extensão Universitária, Belo Horizonte - Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "LOPES, P. S. M.",
+                "titulo": "LOPES, V",
+                "evento": "; SILVA",
+                "local": "C. A.; TARGA, C. N.; CONRADO, D. B. F.; A survey of recent developments in management cognitive neuroscience and machine learning in educational environment.. 13th Iberian Conference on Information Systems and Technologies (CISTI), Cáceres",
+                "ano": "2018"
+            },
+            {
+                "autores": "GOMES, N. F.",
+                "titulo": "SILVA, C",
+                "evento": "A.; TARGA",
+                "local": "C. N.; Análise de sentimentos no Twitter para a identificação de alunos dos Institutos Federais com Transtorno de Ansiedade.. VII Seminário de Iniciação Científica do IFMG, Sabará",
+                "ano": "2018"
+            },
+            {
+                "autores": "BATISTA, D. M.",
+                "titulo": "LOPES, P",
+                "evento": "S. M.; SILVA",
+                "local": "C. A.; TARGA, C. N.; CONRADO, D. B. F.; Proposta de Desenvolvimento de um Sistema baseado em Machine Learning para a Gestão da Neurociência Cognitiva.. VII Seminário de Iniciação Científica do IFMG, Sabará",
+                "ano": "2018"
+            },
+            {
+                "autores": "CONRADO, D. B. F.",
+                "titulo": "TARGA, C",
+                "evento": "N.; SEVERIANO JUNIOR",
+                "local": "C. A.; NOVY, G. F. C.; SANTOS, D. E.; SOUZA, P. A.; SANTOS, P. H.; ?Plataforma para classificação da amigabilidade de gênero das empresas de Tecnologia da Informação do Município de Belo Horizonte. VII Seminário de Iniciação Científica do IFMG, Sabará",
+                "ano": "2018"
+            },
+            {
+                "autores": "LOPES, P. S. M.",
+                "titulo": "TARGA, C",
+                "evento": "N.; VALENTE",
+                "local": "M. J. A. P.; SILVA, C. A.; A Proposal of Information System Architecture Based on Reflective Cognition for Women.. 12ª Conferência Ibérica de Sistemas e Tecnologias de Informação, Portp",
+                "ano": "2017"
+            },
+            {
+                "autores": "Prado",
+                "titulo": "TARGA, C",
+                "evento": "N.; Plastino; Improving Direct Counting for Frequent Itemset Mining. 6th International Conference on Data Warehousing and Knowledge Discovery",
+                "local": "Zaragoza",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ana Júlia V",
+                "titulo": "Gonçalves.  Análise comportamental das notas dos alunos do Ensino Superior do Instituto Federal de Minas Gerais - campus Sabará - com a adoção do Ensino Remoto Emergencial (ERE)",
+                "ano": "2024",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Bruno V",
+                "titulo": "Vasconcelos.  Mineração de Opinião na rede social X sobre as eleições presidenciais de 2022",
+                "ano": "2024",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Pedro Gabriel Cruz",
+                "titulo": "Análise dos Dados Socioeconômicos na Investigação do Impacto da Pandemia da Covid-19 no Enem nas capitais da Região Sudeste",
+                "ano": "2024",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Mateus Filipe de Lima Souza",
+                "titulo": "intitulado Um Estudo sobre a Percepção do Ensino Remoto Emergencial em Institutos Federais baseado em Mineração de Opinião",
+                "ano": "2022",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Santos Pimenta Junior",
+                "titulo": "MiloPet: Conectando tutores, veterinários e clínicas",
+                "ano": "2022",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ilgner Oliveira",
+                "titulo": "Ser Fit: Sistema de Recomendação de exercícios para sedentários com base no Pentáculo do Bem Estar",
+                "ano": "2020",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Santos Pimenta Junior",
+                "titulo": "Uma proposta de API baseada em Análise de Sentimentos para identificação de sintomas de ansiedade nos Institutos Federais via redes sociais.",
+                "ano": "2020",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Nayane França Gomes",
+                "titulo": "Análise de sentimentos no Twitter para a identificação de indivíduos com sintomas de ansiedade relacionados aos Institutos Federais",
+                "ano": "2019",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Nayane França Gomes",
+                "titulo": "Análise de sentimentos no Twitter para a identificação de indivíduos com sintomas de ansiedade relacionados aos Institutos Federais.",
+                "ano": "2018",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Letícia Guerra Juventino Dias",
+                "titulo": "Aplicação de Técnicas de Mineração de Dados explorando a base de dados da Ferreira Pinto Distribuidora",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            },
+            {
+                "orientando": "Flávia Aparecida Mártis",
+                "titulo": "Comparativo de Ferramentas de Mineração de Dados explorando a base de dados do Setor de Licitações da Prefeitura Municipal de João Monlevade",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            },
+            {
+                "orientando": "Bruno Alves da Silva , Mariana C",
+                "titulo": "Moraes , Thatiane Goveia.  SOFTDOWN: Programa de Apoio Educacional para Crianças com Síndrome de Down",
+                "ano": "2008",
+                "curso": "Ciência da Computação",
+                "instituicao": "Centro Universitário Augusto Motta"
+            },
+            {
+                "orientando": "Eder de Souza",
+                "titulo": "Uma proposta de Modelagem para um Data WareHouse aplicado a uma biblioteca",
+                "ano": "2008",
+                "curso": "Ciência da Computação",
+                "instituicao": "Centro Universitário Augusto Motta"
+            },
+            {
+                "orientando": "Felipe A",
+                "titulo": "Lima e Danúbia S. Silva.  Minerção de regras de associação com Gerenciamento de memória utilizada para armazenar os conjuntos candidatos",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal Fluminense"
+            }
+        ]
+    }
 }

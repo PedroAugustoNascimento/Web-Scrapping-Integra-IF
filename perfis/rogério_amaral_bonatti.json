@@ -1,289 +1,268 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Ciências da Informação",
-            "periodo": "2016 - 2020",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "Gestão e organização para a conversão do conhecimento: processos de apoio para decisões estratégicas",
-            "orientador": "Renata Maria Abrantes Baracho"
-        },
-        {
-            "nivel": "Mestrado"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Ciência da Informação",
-            "periodo": "2013 - 2015",
-            "instituicao": "Universidade Federal de Minas Gerais",
-            "titulo": "A GESTÃO DA INFORMAÇÃO E O PROCESSO DECISÓRIO NO SETOR ENERGÉTICO: APLICAÇÃO DO MÉTODO AHP NA MENSURAÇÃO DE CRITÉRIOS E ALTERNATIVAS",
-            "orientador": "Renata Maria Abrantes Baracho"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Gestão de Segurança da Informação",
-            "periodo": "2006 - 2007",
-            "instituicao": "Universidade FUMEC",
-            "orientador": "Sílvia Calmon de Albuquerque"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2002 - 2005",
-            "instituicao": "Universidade FUMEC"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Biblioteconomia",
-            "periodo": "2007 - 2010",
-            "instituicao": "Universidade Federal de Minas Gerais"
+    "campus": "- Campus Bambuí",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Informação",
+                "periodo": "2016 - 2020",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Gestão e organização para a conversão do conhecimento: processos de apoio para decisões estratégicas",
+                "orientador": "Renata Maria Abrantes Baracho"
+            },
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Ciência da Informação",
+                "periodo": "2013 - 2015",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "A GESTÃO DA INFORMAÇÃO E O PROCESSO DECISÓRIO NO SETOR ENERGÉTICO: APLICAÇÃO DO MÉTODO AHP NA MENSURAÇÃO DE CRITÉRIOS E ALTERNATIVAS",
+                "orientador": "Renata Maria Abrantes Baracho"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão de Segurança da Informação",
+                "periodo": "2006 - 2007",
+                "instituicao": "Universidade FUMEC",
+                "orientador": "Sílvia Calmon de Albuquerque"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2002 - 2005",
+                "instituicao": "Universidade FUMEC"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Biblioteconomia",
+                "periodo": "2007 - 2010",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade Inforium de Tecnologia",
+                "periodo": "2007 - 2009",
+                "cargo": "Docente, Docente Ensino Superior, Atuei como Docente em diversas disciplinas desde 2007. Última participação com a matéria Matemática e Lógica Computacional para o 1º período de BSI."
+            },
+            {
+                "empresa": "Faculdade de Santa Luzia",
+                "periodo": "2009 - 2009",
+                "cargo": "Docente, Docente do Ensino Superior, Leciono a disciplina Programação Web I para o 4º Período de Sistemas de Informação."
+            },
+            {
+                "empresa": "Faculdade Anhanguera / Fabrai",
+                "periodo": "2012 - 2013",
+                "cargo": "Professor Assistente I, Docente no curso de Bacharelado em Sistemas de Informação. Atuo ministrando aulas para a disciplina Análise Estruturada e Projeto de Sistemas.."
+            },
+            {
+                "empresa": "Faculdade Anhanguera / Fabrai",
+                "periodo": "2009 - 2009",
+                "cargo": "Docente do Ensino Superior, Celetista formal, Atuo como professor das disciplinas Programação Estruturada I, II e Análise e Projeto de Sistemas I para os cursos de bacharelado de Sistema da Informação e técnico de Desenvolvimento de Sistemas."
+            },
+            {
+                "empresa": "Centro Universitário Presidente Antônio Carlos",
+                "periodo": "2010 - 2012",
+                "cargo": "Professor Assistente I, Docente, Docente das disciplinas: Algortimo e Técnica de Programação I e II para o curso tecnólogo de ADS e Sistemas de Informação para o curso de bacharelado de Administração. Atuo desde 01/2010 como docente nas disciplinas: Auditoria e Segurança da Informação; Programação Web I, Algoritmo e Técnica de Programação I e II para o curso ADS na instituição. Atuei desde 02/2010 como docente nas disciplinas Sistemas de Informação e Ferramentas de Gestão de TI no curso de bacharelado em Administração.."
+            },
+            {
+                "empresa": "AIX Sistemas",
+                "periodo": "2009 - 2010",
+                "cargo": "Analista de Projetos, Celetista formal, Atuei na área de Projetos baseado no modelo proposto do PMI através do PMBok edição 3. Responsável pelo setor de Implantação dos produtos oferecidos.."
+            },
+            {
+                "empresa": "Cast Informática",
+                "periodo": "2012 - 2012",
+                "cargo": "Instrutor, Professor vistante, Curso de formação de desenvolvedores - Framework .NET e aplicações web com ASP.NET Treinamento interno - 170 horas."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2016 - 2017",
+                "cargo": "Docente, Professor Substituto, Professor Substituto vinculado ao departamento de Comunicação Social (2016) e vinculado ao departamento de Computação (2017)."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2012 - 2013",
+                "cargo": "Docente, Professor Temporário."
+            },
+            {
+                "empresa": "centro universitário UNA",
+                "periodo": "2013 - 2013",
+                "cargo": "Professor Assistente, Ministrei a disciplina Modelagem de Banco de Dados para o curso de ADS 3º Período.."
+            },
+            {
+                "empresa": "Fundação João Pinheiro",
+                "periodo": "2008 - 2009",
+                "cargo": "Bolsista, Bolsista, Atuação em projeto de organização e acondicionamento do arquivo documental da FJP. Prática de classificação, limpeza, cuidados específicos com o material a ser acondicionado. Itens de outros meios, como fitas, rolos de filme e mapas receberam tratamento específico de conservação e armazenamento.."
+            },
+            {
+                "empresa": "BDO Trevisan Auditores",
+                "periodo": "2006 - 2007",
+                "cargo": "Auditor Assistente, Auditor de Sistemas.."
+            },
+            {
+                "empresa": "JOURNAL OF SYSTEMICS, CYBERNETICS AND INFORMATICS",
+                "periodo": "2017",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Centro Universitário UNA",
+                "periodo": "2020 - 2020",
+                "cargo": "Professor Adjunto, Professor no Centro Universitário Una Betim, Barreiro e Aimorés (BH). Atuei em disciplinas de TI para os cursos de Sistemas de Informação e Análise e Desenvolvimento de Sistemas (ADS).."
+            },
+            {
+                "empresa": "Grupo Fácil",
+                "periodo": "2021 - 2024",
+                "cargo": "Analista de Segurança da Informação, Atuação em adequação ao Framework de segurança CIS / Acompanhamento SIEM / Definição de Indiciadores / Treinamento."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Centro Universitário Presidente Antônio Carlos\nGraduacao (2010 - 2012) - Análise E Desenvolvimento De Sistemas.\nGraduacao (2010 - 2012) - Administração.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "SMART CITIES - SMART BUILDING - SMART LIFE",
+                "periodo": "2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rogério Amaral Bonatti",
+                    "ABRANTES BARACHO",
+                    "RENATA MARIA",
+                    "Bruno Cesarino Soares",
+                    "Marcelo Franco Porto",
+                    "J. R.Q. Franco"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "GESTÃO DA INFORMAÇÃO PARA FOMENTAR A SUSTENTABILIDADE DA CARTEIRA DE GERAÇÃO DE ENERGIA ELÉTRICA COM FONTES RENOVÁVEIS ALTERNATIVAS",
+                "periodo": "2015 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rogério Amaral Bonatti",
+                    "Renata Maria Abrantes Baracho",
+                    "Francisco Ricardo Abrantes Couy Baracho",
+                    "PESSANHA",
+                    "Christiano",
+                    "Marina Mourão Starling de Rezende"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BARACHO",
+                    "titulo": "Renata M. A.,  BONATTI, Rogério A.,  BASTOS, Max C.,  Modelo de Apoio à Decisão em Geração de Energia Elétrica",
+                    "ano": "2014",
+                    "instituicao_promotora": "ECI-UFMG."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Faculdade Inforium de Tecnologia",
-            "periodo": "2007 - 2009",
-            "cargo": "Docente, Docente Ensino Superior, Atuei como Docente em diversas disciplinas desde 2007. Última participação com a matéria Matemática e Lógica Computacional para o 1º período de BSI."
-        },
-        {
-            "empresa": "Faculdade de Santa Luzia",
-            "periodo": "2009 - 2009",
-            "cargo": "Docente, Docente do Ensino Superior, Leciono a disciplina Programação Web I para o 4º Período de Sistemas de Informação."
-        },
-        {
-            "empresa": "Faculdade Anhanguera / Fabrai",
-            "periodo": "2012 - 2013",
-            "cargo": "Professor Assistente I, Docente no curso de Bacharelado em Sistemas de Informação. Atuo ministrando aulas para a disciplina Análise Estruturada e Projeto de Sistemas.."
-        },
-        {
-            "empresa": "Faculdade Anhanguera / Fabrai",
-            "periodo": "2009 - 2009",
-            "cargo": "Docente do Ensino Superior, Celetista formal, Atuo como professor das disciplinas Programação Estruturada I, II e Análise e Projeto de Sistemas I para os cursos de bacharelado de Sistema da Informação e técnico de Desenvolvimento de Sistemas."
-        },
-        {
-            "empresa": "Centro Universitário Presidente Antônio Carlos",
-            "periodo": "2010 - 2012",
-            "cargo": "Professor Assistente I, Docente, Docente das disciplinas: Algortimo e Técnica de Programação I e II para o curso tecnólogo de ADS e Sistemas de Informação para o curso de bacharelado de Administração. Atuo desde 01/2010 como docente nas disciplinas: Auditoria e Segurança da Informação; Programação Web I, Algoritmo e Técnica de Programação I e II para o curso ADS na instituição. Atuei desde 02/2010 como docente nas disciplinas Sistemas de Informação e Ferramentas de Gestão de TI no curso de bacharelado em Administração.."
-        },
-        {
-            "empresa": "AIX Sistemas",
-            "periodo": "2009 - 2010",
-            "cargo": "Analista de Projetos, Celetista formal, Atuei na área de Projetos baseado no modelo proposto do PMI através do PMBok edição 3. Responsável pelo setor de Implantação dos produtos oferecidos.."
-        },
-        {
-            "empresa": "Cast Informática",
-            "periodo": "2012 - 2012",
-            "cargo": "Instrutor, Professor vistante, Curso de formação de desenvolvedores - Framework .NET e aplicações web com ASP.NET Treinamento interno - 170 horas."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2016 - 2017",
-            "cargo": "Docente, Professor Substituto, Professor Substituto vinculado ao departamento de Comunicação Social (2016) e vinculado ao departamento de Computação (2017)."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2012 - 2013",
-            "cargo": "Docente, Professor Temporário."
-        },
-        {
-            "empresa": "centro universitário UNA",
-            "periodo": "2013 - 2013",
-            "cargo": "Professor Assistente, Ministrei a disciplina Modelagem de Banco de Dados para o curso de ADS 3º Período.."
-        },
-        {
-            "empresa": "Fundação João Pinheiro",
-            "periodo": "2008 - 2009",
-            "cargo": "Bolsista, Bolsista, Atuação em projeto de organização e acondicionamento do arquivo documental da FJP. Prática de classificação, limpeza, cuidados específicos com o material a ser acondicionado. Itens de outros meios, como fitas, rolos de filme e mapas receberam tratamento específico de conservação e armazenamento.."
-        },
-        {
-            "empresa": "BDO Trevisan Auditores",
-            "periodo": "2006 - 2007",
-            "cargo": "Auditor Assistente, Auditor de Sistemas.."
-        },
-        {
-            "empresa": "JOURNAL OF SYSTEMICS, CYBERNETICS AND INFORMATICS",
-            "periodo": "2017",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Centro Universitário UNA",
-            "periodo": "2020 - 2020",
-            "cargo": "Professor Adjunto, Professor no Centro Universitário Una Betim, Barreiro e Aimorés (BH). Atuei em disciplinas de TI para os cursos de Sistemas de Informação e Análise e Desenvolvimento de Sistemas (ADS).."
-        },
-        {
-            "empresa": "Grupo Fácil",
-            "periodo": "2021 - 2024",
-            "cargo": "Analista de Segurança da Informação, Atuação em adequação ao Framework de segurança CIS / Acompanhamento SIEM / Definição de Indiciadores / Treinamento."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Centro Universitário Presidente Antônio Carlos\nGraduacao (2010 - 2012) - Análise E Desenvolvimento De Sistemas.\nGraduacao (2010 - 2012) - Administração.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "E -",
-            "periodo": "2017",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Rogério Amaral Bonatti",
-                "ABRANTES BARACHO",
-                "RENATA MARIA",
-                "Bruno Cesarino Soares",
-                "Marcelo Franco Porto",
-                "J. R.Q. Franco"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "S -",
-            "periodo": "2015 - 2019",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Rogério Amaral Bonatti",
-                "Renata Maria Abrantes Baracho",
-                "Francisco Ricardo Abrantes Couy Baracho",
-                "PESSANHA",
-                "Christiano",
-                "Marina Mourão Starling de Rezende"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ABRANTES BARACHO, RENATA MARIA",
+                "titulo": "SOARES, B. C.;  BONATTI, Rogério A.;  PORTO, M. F.;  FRANCO, J. R.;  Decision Making in Real Estate Developments Based on Building Information Modeling: BIM.",
+                "ano": "2019",
+                "periodico": "JOURNAL OF SYSTEMICS, CYBERNETICS AND INFORMATICS. ISBN: 16904524   ."
+            },
+            {
+                "autores": "BARACHO, F. R. A. C.",
+                "titulo": "BARACHO, Renata M. A.;  BONATTI, Rogério Amaral;  PESSANHA, C.;  REZENDE, M. M. S.;  LIMA, F. B.;  Gestão da Informação para fomentar o processo decisório de viabilidade de construção de fontes alternativas renováveis de energia",
+                "ano": "2016",
+                "periodico": "O Futuro da Energia. ISBN: 25261703   ."
+            },
+            {
+                "autores": "BONATTI, Rogério A.",
+                "titulo": "BARACHO, Renata M. A.;  A GESTÃO DA INFORMAÇÃO E O PROCESSO DECISÓRIO NO SETOR ENERGÉTICO: MENSURAÇÃO DE CRITÉRIOS E ALTERNATIVAS",
+                "ano": "2015",
+                "periodico": "Pesquisa Brasileira em Ciência da Informação e Biblioteconomia. ISBN: 19810695   ."
+            },
+            {
+                "autores": "BARACHO, Renata M. A.",
+                "titulo": "BONATTI, Rogério A.;  BARACHO, F. R. A. C.;  PESSANHA, C.;  REZENDE, M. M. S.;  SILVA, C. H. F.;  The Decision Support in Electricity Generation: A Model of Integrated Parameters and Indicators",
+                "ano": "2015",
+                "periodico": "Journal of Systemics, Cybernetics and Informatics. ISBN: 16904524   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "BARACHO, Renata M. A.",
+                "titulo": "BONATTI, Rogério A",
+                "evento": "; Marangon",
+                "local": "L.; FERREIRA, L. G. F.; BARACHO, F. R. A. C.; LIMA, F. B.; SILVA, C. H. F.; Investments in Renewables: Decision Making Based on Tangible and Intangible Criteria. The 19th International Multi-Conference on Complexity, Informatics and Cybernetics, Orlando",
+                "ano": "2018"
+            },
+            {
+                "autores": "BARACHO, FRANCISCO R. A. C.",
+                "titulo": "ABRANTES BARACHO, RENATA MARIA; BONATTI, ROGERIO AMARAL; F",
+                "evento": "SILVA",
+                "local": "CLAUDIO HOMERO; Mitigating Risks by Weighting Intangibles when Investing in Renewables. 2018 7th International Conference on Renewable Energy Research and Applications (ICRERA), Paris",
+                "ano": "2018"
+            },
+            {
+                "autores": "BARACHO, FRANCISCO R. A. C.",
+                "titulo": "BARACHO, RENATA MARIA ABRANTES; BONATTI, ROGERIO AMARAL; SILVA, CLAUDIO HOMERO F",
+                "evento": "; Knowledge Management in Electricity Generation Strategic Decisions: The Dawn of the Renewable Age. 2018 International Conference on Smart Grid (icSmartGrid)",
+                "local": "Nagasaki",
+                "ano": "2018"
+            },
+            {
+                "autores": "BARACHO, Renata M. A.",
+                "titulo": "BARACHO, F",
+                "evento": "R. A. C.; BONATTI",
+                "local": "Rogério A.; PESSANHA, C.; REZENDE, M. M. S.; LIMA, F. B.; SILVA, C. H. F.; Information Management for the Decision Making Process of Alternative Renewable Sources of Energy. The 20th World Multi-Conference on Systemics, Cybernetics and Informatics, Orlando",
+                "ano": "2017"
+            },
+            {
+                "autores": "BONATTI, Rogério A.",
+                "titulo": "BARACHO, Renata M",
+                "evento": "A.; BARACHO",
+                "local": "FRANCISCO R. A. C.; PESSANHA, C.; LIMA, F. B.; SILVA, C. H. F.; Análise de projeção e viabilidade técnica de novos empreendimentos para geração de energia elétrica. XVII ENANCIB 2016 - Encontro Nacional em Ciência da Informação, Salvador",
+                "ano": "2016"
+            },
+            {
+                "autores": "BARACHO, F. R. A. C.",
+                "titulo": "BARACHO, Renata M",
+                "evento": "A.; SILVA",
+                "local": "C. H. F.; PESSANHA, C.; BONATTI, Rogério A.; REZENDE, M. M. S.; Implantação de Fontes Alternativas de Energia Usando a Gestão da Informação para Apoio ao Processo de Decisão. : VIII Congresso de Inovação Tecnológica em Energia Elétrica ? CITENEL e o Seminário de Eficiência Energética no Setor Elétrico ? SEENEL, Costa do Sauípe - Bahia",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARACHO, Renata M. A.",
+                "titulo": "BARACHO, F",
+                "evento": "R. A. C.; PESSANHA",
+                "local": "C.; BONATTI, Rogério A.; REZENDE, M. M. S.; Information management for making decision on investments for electricity generation. The 19th World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2015 - PROCEEDINGS - VOLUME II, Orlando",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARACHO, Renata M. A.",
+                "titulo": "BONATTI, Rogério A",
+                "evento": "; BASTOS",
+                "local": "Max C.; Modelo de Apoio a Decisão em Geração de Energia Elétrica: um estudo a partir de indicadores e parâmetros. XV Encontro Nacional de Pesquisa em Ciência da Informação: além das nuvens, expandindo as fronteiras da Ciência da Informação, Belo Horizonte",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Vanessa Gomes da Fonseca",
+                "titulo": "Governança de TI",
+                "ano": "2009",
+                "curso": "Bacharelado em Sisitemas da Informação",
+                "instituicao": "Faculdade Inforium de Tecnologia"
+            }
+        ]
+    }
 }

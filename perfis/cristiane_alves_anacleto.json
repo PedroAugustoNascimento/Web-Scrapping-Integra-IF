@@ -1,213 +1,735 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado"
-        },
-        {
-            "nivel": "Doutorado",
-            "curso": "UFSC",
-            "periodo": "2011 - 2017",
-            "instituicao": "Universidade Federal de Santa Catarina",
-            "titulo": "A ênfase ao consumidor na avaliação da qualidade nos sistemas produto-serviço: aplicação ao setor de telecomunicações",
-            "orientador": "Edson Pacheco Paladini"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Engenharia de Produção",
-            "periodo": "2009 - 2011",
-            "instituicao": "Universidade Federal de Santa Catarina",
-            "titulo": "Alimentos orgânicos: uma abordagem centrada no usuário",
-            "orientador": "Edson Pacheco Paladini"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Engenharia de redes e tecnologia da informação",
-            "periodo": "2012 - 2012",
-            "instituicao": "Instituto Nacional de Telecomunicações",
-            "orientador": "Crishna Irion"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia de Produção",
-            "periodo": "2003 - 2008",
-            "instituicao": "Universidade Federal de Viçosa"
+    "campus": "- Campus Ribeirão das Neves",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado"
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "UFSC",
+                "periodo": "2011 - 2017",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "A ênfase ao consumidor na avaliação da qualidade nos sistemas produto-serviço: aplicação ao setor de telecomunicações",
+                "orientador": "Edson Pacheco Paladini"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Produção",
+                "periodo": "2009 - 2011",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Alimentos orgânicos: uma abordagem centrada no usuário",
+                "orientador": "Edson Pacheco Paladini"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de redes e tecnologia da informação",
+                "periodo": "2012 - 2012",
+                "instituicao": "Instituto Nacional de Telecomunicações",
+                "orientador": "Crishna Irion"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Produção",
+                "periodo": "2003 - 2008",
+                "instituicao": "Universidade Federal de Viçosa"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Viçosa",
+                "periodo": "2005 - 2007",
+                "cargo": "bolsista, Outro (bolsista CNPQ)."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2012 - 2012",
+                "cargo": "Estagiária, Bolsista, Estágio Docência - como parte das exigências do Bolsista de doutorado - CAPES. Disciplina ministrada: Gestão Ambiental Curso: Engenharia Elétrica."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2009",
+                "cargo": "Pesquisadora, Aluna de doutorado, Aluna de doutorado no Programa de Pós-graduação em Engenharia de Produção. Área de concentração: Sistemas de Produção."
+            },
+            {
+                "empresa": "Oi S/A",
+                "periodo": "2012 - 2016",
+                "cargo": "Governança de TI e Gestão da qualidade."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2016",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Total Quality Management and Business Excellence (Online)",
+                "periodo": "2014",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Journal of Knowledge Management",
+                "periodo": "2015",
+                "cargo": ", Revisor de periódico."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Minas Gerais\nOutro (2017 - 2017) .\nGraduacao (2017) - Processos Gerenciais.\nOutro (2017) .\nGraduacao (2017 - 2017) - Processos Gerenciais.\nGraduacao (2016 - 2016) - Processos Gerenciais.\nOutro (2016 - 2016) .\nExtensão Universitária: Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais: Membro Do Comitê De Extensão Do Campus Ribeirão Das Neves (2017) - Membro Do Comitê De Extensão Do Campus Ribeirão Das Neves.",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Tecnologia Em Processos Gerenciais Do Ifmg Campus Ribeirão Das Neves. (2019).\nMembro Do Núcleo De Estágio Do Ifmg - Campus Ribeirão Das Neves. (2019).\nMembro Da Comissão De Avaliação Do Apoio Financeiro À Qualificação (2017 - 2017).\nMembro Da Comissão Para Elaboração Do Plano De Capacitação Do Ifmg (2016).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Viçosa",
+                "nome": "Estudo do número de repetições e de diferentes resoluções de fatoriais completos 2k sobre as estimativas dos efeitos dos fatores e da interação entre eles.",
+                "periodo": "2005 - 2007",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Nerilson Terra Santos",
+                    "José Ivo Ribeiro Júnior"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Núcleo de Garantia da Qualidade",
+                "periodo": "2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Edson Pacheco Paladini"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "SISTEMAS INTELIGENTES DE GESTÂO DA QUALIDADE",
+                "periodo": "2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Edson Pacheco Paladini",
+                    "Cláudia Cristina Joaquim",
+                    "Olga Regina Cardoso",
+                    "Osmar Possamai",
+                    "Sérgio Fernando Mayerle",
+                    "Claudio Nogas",
+                    "Cristiano Roos",
+                    "Fabrícia Gonçalves de Carvalho",
+                    "Douglas Rodrigues Gimenez"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Gestão e Formação Profissional-GEFORP",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Maria das Graças de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Gestão Conectada: atualização e conexão",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Proposta de reciclagem e reutilização do vidro descartado pela população urbana brasileira",
+                "periodo": "2019 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Samuel Felipe de Oliveira"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo para a operacionalização da reciclagem e reutilização do vidro como descarte da população da região metropolitana de Belo Horizonte",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Vinicius Santos Sabino",
+                    "Nancely Borges Luz"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Comunicação boca a boca eletrônica",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Michele Amaral Brandao"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Empreenda Mulheres de Neves",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Fernanda Karoline Basílio Martins"
+                ],
+                "financiador": "Instituto Federal de Minas Gerais - Campus Ribeirão das Neves,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Empreenda Mulheres de Neves",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Fernanda Karoline Basílio Martins",
+                    "Mariana Gomes Ramos"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise do uso potencial das mídias sociais como ferramenta para inovação em empreendedimentos femininos",
+                "periodo": "2023 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Uliane da Costa Vieira"
+                ],
+                "financiador": "Instituto Federal de Minas Gerais - Campus Ribeirão das Neves,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Empreenda Mulheres de Neves",
+                "periodo": "2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto",
+                    "Bianka Stephany Olyntho Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Gestão Humanizada - O que os filmes podem nos ensinar?",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Trânsito não é brincadeira",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Vivência Universitária em Empreendedorismo e Inovação",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Alves Anacleto"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  SABINO, V. S.,  LUZ, N. B.,  Estudo para a operacionalização da reciclagem e reutilização do vidro como descarte da população da região metropolitana de Belo Horizonte",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  Ética no Atendimento a Clientes",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  PALADINI, E. P.,  Evaluation of the profile of the Brazilian consumer of organic food: an analysis of the market and company",
+                    "ano": "2012",
+                    "instituicao_promotora": "POMS."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  GARCIA, J. R.,  LEZANA, A. G. R.,  VAREJO DE PRODUTOS ORGÂNICOS: UMA ANÁLISE DA INTERRELAÇÃO ENTRE EMPREENDEDORISMO, RESPONSABILIDADE SOCIAL CORPORATIVA E INOVAÇÃO",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal Fluminense."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  PALADINI, E. P.,  JOAQUIM, C. C.,  GESTÃO DA QUALIDADE EM EMPRESAS ESPECIALIZADAS NO DESENVOLVIMENTO DE DISPOSITIVOS MÉDICOS: PROPOSTA DE UM MODELO",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal Fluminense."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  PALADINI, E. P.,  PROPOSTA DE UM MODELO PARA A GESTÃO DA QUALIDADE DE ALIMENTOS ORGÂNICOS SOB A ÓTICA DE GARVIN",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal Fluminense."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  GARCIA, J. R.,  LEZANA, A. G. R.,  A INTER-RELAÇÃO ENTRE EMPREENDEDORISMO, RESPONSABILIDADE SOCIAL CORPORATIVA E INOVAÇÃO NA COMERCIALIZAÇÃO DE PRODUTOS ORGÂNICOS NA EMPRESA WHOLE FOODS MARKET",
+                    "ano": "2010",
+                    "instituicao_promotora": "Fundação Getúlio Vargas."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  SANTOS, Nerilson Terra,  Estudo do número de repetições e de diferentes resoluções de fatoriais completos 2k sobre as estimativas dos efeitos dos fatores e da interação entre eles",
+                    "ano": "2007",
+                    "instituicao_promotora": "ABEPRO."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  SANTOS, Nerilson Terra,  Estudo do número de repetições e de diferentes resoluções de fatoriais completos 2k sobre as estimativas dos efeitos dos fatores e da interação entre eles",
+                    "ano": "2007",
+                    "instituicao_promotora": "UFRJ."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  SANTOS, Nerilson Terra,  Estudo do número de repetições e de diferentes resoluções sobre a eficiência de fatoriais fracionários",
+                    "ano": "2007",
+                    "instituicao_promotora": "UFV."
+                },
+                {
+                    "autores": "Almeida",
+                    "titulo": "Juliane Belchior de.,  ANACLETO, C. A.,  SANTOS, Nerilson Terra,  Planejamentos de Experimentos Planejamentos de Experimentos com níveis mixtos de fatores",
+                    "ano": "2007",
+                    "instituicao_promotora": "UFV."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "titulo": "C. A.,  SANTOS, Nerilson Terra,  Estudo do número de repetições e de diferentes resoluções de fatoriais completos 2k sobre as estimativas dos efeitos dos fatores e da interação entre eles",
+                    "ano": "2006",
+                    "instituicao_promotora": "UFV."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "ANACLETO",
+                    "evento": "C. A.,  Logística na Prática",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Ribeirão das Neves."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "evento": "C. A.,  Empreendedorismo no mercado de energia renovável",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus Ribeirão das Neves."
+                },
+                {
+                    "autores": "ANACLETO",
+                    "evento": "C. A.,  II Semana Acadêmica de Engenharia de Produção",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Viçosa."
+                }
+            ]
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Viçosa",
-            "periodo": "2005 - 2007",
-            "cargo": "bolsista, Outro (bolsista CNPQ)."
-        },
-        {
-            "empresa": "Universidade Federal de Santa Catarina",
-            "periodo": "2012 - 2012",
-            "cargo": "Estagiária, Bolsista, Estágio Docência - como parte das exigências do Bolsista de doutorado - CAPES. Disciplina ministrada: Gestão Ambiental Curso: Engenharia Elétrica."
-        },
-        {
-            "empresa": "Universidade Federal de Santa Catarina",
-            "periodo": "2009",
-            "cargo": "Pesquisadora, Aluna de doutorado, Aluna de doutorado no Programa de Pós-graduação em Engenharia de Produção. Área de concentração: Sistemas de Produção."
-        },
-        {
-            "empresa": "Oi S/A",
-            "periodo": "2012 - 2016",
-            "cargo": "Governança de TI e Gestão da qualidade."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2016",
-            "cargo": "Professor EBTT, Servidor público."
-        },
-        {
-            "empresa": "Total Quality Management and Business Excellence (Online)",
-            "periodo": "2014",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Journal of Knowledge Management",
-            "periodo": "2015",
-            "cargo": ", Revisor de periódico."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Instituto Federal Minas Gerais\nOutro (2017 - 2017) .\nGraduacao (2017) - Processos Gerenciais.\nOutro (2017) .\nGraduacao (2017 - 2017) - Processos Gerenciais.\nGraduacao (2016 - 2016) - Processos Gerenciais.\nOutro (2016 - 2016) .\nExtensão Universitária: Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais: Membro Do Comitê De Extensão Do Campus Ribeirão Das Neves (2017) - Membro Do Comitê De Extensão Do Campus Ribeirão Das Neves.",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Tecnologia Em Processos Gerenciais Do Ifmg Campus Ribeirão Das Neves. (2019).\nMembro Do Núcleo De Estágio Do Ifmg - Campus Ribeirão Das Neves. (2019).\nMembro Da Comissão De Avaliação Do Apoio Financeiro À Qualificação (2017 - 2017).\nMembro Da Comissão Para Elaboração Do Plano De Capacitação Do Ifmg (2016).",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "P -",
-            "periodo": "2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Maria das Graças de Oliveira"
-            ]
-        },
-        {},
-        {
-            "nome": "Conectada: atualização e conexão -",
-            "periodo": "2020",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Alves Anacleto"
-            ]
-        },
-        {
-            "nome": "Proposta de reciclagem e reutilização do vidro descartado pela população urbana brasileira -",
-            "periodo": "2019 - 2019",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Samuel Felipe de Oliveira"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {
-            "nome": "Horizonte -",
-            "periodo": "2018 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Vinicius Santos Sabino",
-                "Nancely Borges Luz"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {
-            "nome": "Comunicação boca a boca eletrônica -",
-            "periodo": "2020 - 2021",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Michele Amaral Brandao"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "Neves -",
-            "periodo": "2020 - 2021",
-            "natureza": "Extensao",
-            "equipe": [
-                "Fernanda Karoline Basílio Martins",
-                "Cristiane Alves Anacleto"
-            ],
-            "financiador": "Instituto Federal de Minas Gerais - Campus Ribeirão das Neves,"
-        },
-        {},
-        {},
-        {
-            "nome": "Neves -",
-            "periodo": "2021 - 2021",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Fernanda Karoline Basílio Martins",
-                "Mariana Gomes Ramos"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {
-            "nome": "Análise do uso potencial das mídias sociais como ferramenta para inovação em empreendedimentos femininos -",
-            "periodo": "2023 - 2023",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Uliane da Costa Vieira"
-            ],
-            "financiador": "Instituto Federal de Minas Gerais - Campus Ribeirão das Neves,"
-        },
-        {},
-        {},
-        {
-            "nome": "Neves -",
-            "periodo": "2024",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Alves Anacleto",
-                "Bianka Stephany Olyntho Ferreira"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "O que os filmes podem nos ensinar? -",
-            "periodo": "2025 - 2025",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Alves Anacleto"
-            ]
-        },
-        {
-            "nome": "Trânsito não é brincadeira -",
-            "periodo": "2025 - 2025",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Alves Anacleto"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Inovação -",
-            "periodo": "2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Cristiane Alves Anacleto"
-            ],
-            "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E. P.;  Vaz, C. R.;  CUSTOMER REQUIREMENTS FOR THE CONTINUOUS IMPROVEMENT OF PRODUCT-SERVICE SYSTEM: A CONCEPTUAL APPROACH",
+                "ano": "2018",
+                "periodico": "Independent Journal of Management & Production (IJM&P). ISBN: 2236269X   ."
+            },
+            {
+                "autores": "MENDONCA, A. K. S.",
+                "titulo": "Vaz, C. R.;  LEZANA, A. G. R;  ANACLETO, C. A.;  PALADINI, E. P.;  Comparing Patent and Scientific Literature in Airborne Wind Energy",
+                "ano": "2017",
+                "periodico": "Sustainability. ISBN: 20711050   ."
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E. P.;  GESTÃO ESTRATÉGICA DA QUALIDADE PARA EMPRESAS PRODUTORAS DE ALIMENTOS ORGÂNICOS: DIRETRIZES PARA A EXPANSÃO DO MERCADO CONSUMIDOR",
+                "ano": "2015",
+                "periodico": "Navus Revista de Gestão e Tecnologia. ISBN: 22374558   ."
+            },
+            {
+                "autores": "PALADINI, E. P.",
+                "titulo": "ANACLETO, C. A.;  GESTÃO ESTRATÉGICA DA QUALIDADE PARA EMPRESAS PRODUTORAS DE ALIMENTOS ORGÂNICOS",
+                "ano": "2015",
+                "periodico": "Navus Revista de Gestão e Tecnologia. ISBN: 22374558   ."
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E. P.;  Atributos relevantes para a satisfação dos consumidores de alimentos orgânicos",
+                "ano": "2014",
+                "periodico": "Espacios (Caracas). ISBN: 07981015   ."
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "IRION, C.;  PALADINI, E. P.;  CULTURAL CHANGE IN TELECOMMUNICATIONS COMPANIES: A CASE STUDY",
+                "ano": "2014",
+                "periodico": "Independent Journal of Management & Production. ISBN: 2236269X   ."
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E. P.;  CAMPOS, L. M. S.;  ?AVALIAÇÃO DA GESTÃO DA QUALIDADE EM PRODUTORAS RURAIS DE ALIMENTOS ORGÂNICOS: ALINHAMENTO ENTRE PROCESSO E CONSUMIDOR",
+                "ano": "2014",
+                "periodico": "Revista Alcance (Online). ISBN: 1983716X   ."
+            },
+            {
+                "autores": "PALADINI, E. P.",
+                "titulo": "ANACLETO, C. A.;  ATRIBUTOS RELEVANTES PARA A SATISFAÇÃO DOS CONSUMIDORES DE ALIMENTOS ORGÂNICOS",
+                "ano": "2014",
+                "periodico": "Espacios (Caracas). ISBN: 07981015   ."
+            },
+            {
+                "autores": "PALADINI, E. P.",
+                "titulo": "ANACLETO, C. A.;  IRION, C.;  CULTURAL CHANGE IN TELECOMMUNICATIONS COMPANIES: A CASE STUDY",
+                "ano": "2014",
+                "periodico": "Independent Journal of Management & Production. ISBN: 2236269X   ."
+            },
+            {
+                "autores": "ANACLETO, CRISTIANE",
+                "titulo": "BEUREN, FERNANDA;  LOHN, VANDERLÉIA;  CAMPOS, LUCILA;  MIGUEL, PAULO;  Ecoeficiência e Produção mais Limpa: Uma Análise das Publicações em Quatro Periódicos Brasileiros da Engenharia de Produção",
+                "ano": "2012",
+                "periodico": "S & G. Sistemas & Gestão. ISBN: 19805160   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "VIEIRA, U",
+                "evento": "C.; 'ANÁLISE DO USO DO POTENCIAL DAS MÍDIAS SOCIAIS COMO FERRAMENTA PARA INOVAÇÃO EM EMPREENDIMENTOS FEMININOS. XI Seminário de Iniciação Científica (SIC)",
+                "local": "Belo Horizonte",
+                "ano": "2023"
+            },
+            {
+                "autores": "RAMOS, M. G.",
+                "titulo": "ANACLETO, C",
+                "evento": "A.; BRANDAO",
+                "local": "M. A.; A COMUNICAÇÃO BOCA A BOCA ELETRÔNICA COMO OPORTUNIDADE PARA A SERVITIZAÇÃO DA MANUFATURA. IX Seminário de Iniciação Científica do IFMG, Belo Horizonte",
+                "ano": "2021"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "Proposta de reciclagem e reutilização do vidro descartado pela população urbana brasileira",
+                "evento": "VIII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA IFMG",
+                "local": "Ribeirão das Neves",
+                "ano": "2019"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "OLIVEIRA, S",
+                "evento": "F.; ?PROPOSTA DE RECICLAGEM E REUTILIZAÇÃO DO VIDRO DESCARTADO PELA POPULAÇÃO URBANA BRASILEIRA?. VIII Seminário de Iniciação Científica ? SIC",
+                "local": "Belo Horizonte",
+                "ano": "2019"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "Vaz, C",
+                "evento": "R.; PALADINI",
+                "local": "E. P.; Knowledge about customer requirements in product-service systems: a strategic element for competitiveness. POMS 29&#7511;&#688; Annual Conference, Houston",
+                "ano": "2018"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "Vaz, C",
+                "evento": "R.; PALADINI",
+                "local": "E. P.; Drivers for the decision-making regarding the adoption of product-service system. POMS 29&#7511;&#688; Annual Conference, Houston",
+                "ano": "2018"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "ZANCHETT, R",
+                "evento": "; PALADINI",
+                "local": "E. P.; Remanufactured products: exploring Factors that influence consumer choice. POMS 29&#7511;&#688; Annual Conference, Houston",
+                "ano": "2018"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "SABINO, V",
+                "evento": "S.; LUZ",
+                "local": "N. B.; Estudo para a operacionalização da reciclagem e reutilização do vidro como descarte da população da região metropolitana de Belo Horizonte. VII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA IFMG, Sabará",
+                "ano": "2018"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "RODRIGUEZ, C",
+                "evento": "M. T.; PALADINI",
+                "local": "E. P.; The Evolution of the Theory of Lean Supply Chain Management. POMS 25th Annual Conference, Atalnta",
+                "ano": "2014"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; The Quality Attributes for Organic Food: Exploratory Factor Analysis. POMS 25th Annual Conference",
+                "local": "Atlanta",
+                "ano": "2014"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Literature review of quality management and product-service system: opportunities for research. POMS 25th Annual Conference",
+                "local": "Atlanta",
+                "ano": "2014"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Strategic Quality Management to Product-Service System. POMS 25th Annual Conference",
+                "local": "Atlanta",
+                "ano": "2014"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; The Logic of Consumer in Quality Management of PSS Oriented to the Use. POMS 25 th Annual Conferece",
+                "local": "Atlanta",
+                "ano": "2014"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; A model for quality management for producers of organic food: a case study. Production and Operation Management Society - POMS 2013. 24th Annual Conference",
+                "local": "Denver",
+                "ano": "2013"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "IRION, C",
+                "evento": "; PALADINI",
+                "local": "E. P.; Cultural change in IT department: exploratory case study in a telecommunications' company. POMS 2013. 24th Annual Conference, Denver",
+                "ano": "2013"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Certificação para a produção de alimentos orgânicos no Brasil: um estudo exploratório. Estados Gerais da Gestão nos Países de Expressão Latina",
+                "local": "Lisboa",
+                "ano": "2012"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Modelo para avaliaçãode riscos físicos em locais de produção: um estudo de caso. XXXI Encontro Nacional de Engenharia de Produção",
+                "local": "Belo Horizonte",
+                "ano": "2011"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "GARCIA, J",
+                "evento": "R.; FERREIRA",
+                "local": "N. A. C.; LEZANA, A. G. R.; CAMPOS, L. M. S.; Inter-relationship between Entrepreneurship, Corporate Social Responsibility and Innovation in the Marketing of Organic Products: A Case Study in Brazilians Retailers. INTERNATIONAL SOCIAL INNOVATION RESEARCH CONFERENCE 2011, Londres - UK",
+                "ano": "2011"
+            },
+            {
+                "autores": "VASCONCELOS, A. M.",
+                "titulo": "ANACLETO, C",
+                "evento": "A.; TUBINO",
+                "local": "D. F.; PALADINI, E. P.; LEZANA, A. G. R.; IMPLANTAÇÃO DA PRODUÇÃO ENXUTA EM MPE: FERRAMENTA BENCHMARKING ENXUTO APLICADA EM CONFECÇÕES DE DIVINÓPOLIS-MG. III ENFEPro ? Encontro Fluminense de Engenharia de Produção, Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Evaluation of the profile of the Brazilian consumer of organic food:. 23 POMS Annual Conference",
+                "local": "Chicago",
+                "ano": "2011"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "GARCIA, J",
+                "evento": "R.; LEZANA",
+                "local": "A. G. R.; A INTER-RELAÇÃO ENTRE EMPREENDEDORISMO, RESPONSABILIDADE SOCIAL CORPORATIVA E INOVAÇÃO NA COMERCIALIZAÇÃO DE PRODUTOS ORGÂNICOS NA EMPRESA WHOLE FOODS MARKET. XIII Simpósio de Administração da Produção, Logística e Operações Internacionais, São Paulo",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "ELY, D",
+                "evento": "M.; FORCELLINI",
+                "local": "F. A.; Diagnóstico de um processo de compras de uma empresa do setor público sob a ótica do Lean Office. XXX Encontro Nacional de Engenharia de Produção., São Carlos",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Gestão da qualidade de alimentos orgânicos: orientação estratégica baseada nas abordagens de Garvin. XXX Encontro Nacional de Engenharia de Produção.",
+                "local": "São Carlos",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "JOAQUIM, C",
+                "evento": "C.; PALADINI",
+                "local": "E. P.; Proposta de um modelo de gestão de qualidade para empresas especializadas em desenvolvimento de dispositivos médicos. XXX Encontro Nacional de Engenharia de Produção., São Carlos",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "ELY, D",
+                "evento": "M.; FORCELLINI",
+                "local": "F. A.; Diagnóstico de um processo de compras de uma empresa do setor público sob a ótica do Lean Office. X SEMANA DE ENGENHARIA DE PRODUÇÃO SUL-AMERICANA, Santiago - Chile",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; Modelo de gerenciamento de projetos para um laboratório de análises genéticas sob a ótica do Project Management Institute. X SEMANA DE ENGENHARIA DE PRODUÇÃO SUL-AMERICANA",
+                "local": "Santiago - Chile",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "GARCIA, J",
+                "evento": "R.; LEZANA",
+                "local": "A. G. R.; VAREJO DE PRODUTOS ORGÂNICOS: UMA ANÁLISE DA INTERRELAÇÃO ENTRE EMPREENDEDORISMO, RESPONSABILIDADE SOCIAL CORPORATIVA E INOVAÇÃO. VI Congresso Nacional de Excelência em Gestão, Niterói- RJ",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "PALADINI, E",
+                "evento": "P.; PROPOSTA DE UM MODELO PARA A GESTÃO DA QUALIDADE DE ALIMENTOS ORGÂNICOS SOB A ÓTICA DE GARVIN. VI Congresso Nacional de Excelência em Gestão",
+                "local": "Niterói- RJ",
+                "ano": "2010"
+            },
+            {
+                "autores": "JOAQUIM, C. C.",
+                "titulo": "ANACLETO, C",
+                "evento": "A.; Indicadores de qualidade para concessionárias de rodovias sob a ótica do usário. Simpósio de Engenharia de Produção",
+                "local": "Bauru",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "JOAQUIM, C",
+                "evento": "C.; PALADINI",
+                "local": "E. P.; GESTÃO DA QUALIDADE EM EMPRESAS ESPECIALIZADAS NO DESENVOLVIMENTO DE DISPOSITIVOS MÉDICOS: PROPOSTA DE UM MODELO. VI Congresso Nacional de Excelência em Gestão, Niterói- RJ",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "ELY, D",
+                "evento": "M.; OLIVEIRA",
+                "local": "F. C.; FORCELLINI, F. A.; Aplicação dos conceitos lean no processo de compras de uma empresa do setor público. Simpósio de Engenharia de Produção, Bauru",
+                "ano": "2009"
+            },
+            {
+                "autores": "ANACLETO, C. A.",
+                "titulo": "SANTOS, Nerilson Terra; Estudo do número de repetições e de diferentes resoluções de fatoriais completos 2k sobre as estimativas dos efeitos dos fatores e da interação entre eles",
+                "evento": "XXVII Encontro Nacional e Internacional de Engenharia de Produção",
+                "local": "Foz do Iguaçu - PR",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Bianka Stephany Olyntho Ferreira",
+                "titulo": "Empreenda Mulheres de Neves",
+                "ano": "2025",
+                "curso": "Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Uliani da Costa Vieira",
+                "titulo": "ANÁLISE DO USO DO POTENCIAL DAS MÍDIAS SOCIAIS COMO FERRAMENTA PARA INOVAÇÃO EM EMPREENDIMENTOS FEMININOS",
+                "ano": "2023",
+                "curso": "Processos Gerenciais",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "fernanda karoline basílio",
+                "titulo": "Empreenda Mulheres de Neves",
+                "ano": "2021",
+                "curso": "Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Samuel Felipe de Oliveira",
+                "titulo": "Proposta de reciclagem e reutilização do vidro descartado pela população urbana brasileira",
+                "ano": "2019",
+                "curso": "Técnico em informática",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Vinicius Santos Sabino",
+                "titulo": "Estudo para a operacionalização da reciclagem e reutilização do vidro como descarte da população da região metropolitana de Belo Horizonte",
+                "ano": "2018",
+                "curso": "Técnico em informática",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Nancely Borges Luz",
+                "titulo": "Estudo para a operacionalização da reciclagem e reutilização do vidro como descarte da população da região metropolitana de Belo Horizonte",
+                "ano": "2018",
+                "curso": "Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "André Dias Sá",
+                "titulo": "Trabalho Interdisciplinar do quarto módulo do curso Tecnologia em Processos Gerenciais",
+                "ano": "2018",
+                "curso": "Processos Gerenciais",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ermani Imaculado Silva",
+                "titulo": "Trabalho Interdisciplinar do quarto módulo do curso Tecnologia em Processos Gerenciais",
+                "ano": "2018",
+                "curso": "Processos Gerenciais",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Naiara Silva",
+                "titulo": "GESTÃO DE ESTOQUES- A IMPORTÂNCIA NA REDUÇÃO EM UMA DISTRIBUIDORA DE BEBIDAS",
+                "ano": "2017",
+                "curso": "Técnico em Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Aline Andrade Rogrigues",
+                "titulo": "MODELO SERVQUAL APLICADO A SECRETARIA DE SAÚDE DE RIBEIRÃO DAS NEVES",
+                "ano": "2017",
+                "curso": "Técnico em Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Cristiano Rocha de Sousa",
+                "titulo": "MARKETING COMO AGENTE BENEFICIÁRIO SOCIOAMBIENTAL EM UMA COOPERATIVA DE RECICLAGEM",
+                "ano": "2017",
+                "curso": "Técnico em Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Amélia Cardoso",
+                "titulo": "IMPLEMENTAÇÃO DA ANÁLISE SWAT NA EMPRESA FAMILIAR IPANEMA RETÍFICA",
+                "ano": "2017",
+                "curso": "Técnico em Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Cíntia Pereira",
+                "titulo": "PROPOSTA E APLICAÇÃO DAS QUATRO FUNÇÕES ADMINISTRATIVAS EM UMA EMPRESA DO SETOR DE ALIMENTOS",
+                "ano": "2017",
+                "curso": "Técnico em Administração",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    }
 }

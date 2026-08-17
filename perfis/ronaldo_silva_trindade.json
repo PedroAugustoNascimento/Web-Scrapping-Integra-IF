@@ -1,41 +1,89 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado",
-            "curso": "Engenharia Civil",
-            "periodo": "1996 - 1999",
-            "instituicao": "Universidade Federal de Ouro Preto",
-            "titulo": "Implementação do Extensômetro Elétrico Capacitivo com Placas de Circuito Impresso",
-            "orientador": "Prof Dr"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Engenharia de Materiais REDEMAT",
-            "periodo": "2002 - 2002",
-            "instituicao": "Universidade Federal de Ouro Preto"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Civil",
-            "periodo": "1982 - 1994",
-            "instituicao": "Universidade Federal de Ouro Preto"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2017 - 2024",
-            "instituicao": "Instituto Federal Minas Gerais"
+    "campus": "- Campus Ouro Preto",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Civil",
+                "periodo": "1996 - 1999",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "Implementação do Extensômetro Elétrico Capacitivo com Placas de Circuito Impresso",
+                "orientador": "Prof Dr"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Materiais REDEMAT",
+                "periodo": "2002 - 2002",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Civil",
+                "periodo": "1982 - 1994",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2017 - 2024",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "1987",
+                "cargo": "Professor EBTT."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Ouro Preto (2015 - 2019) : Diretor De Administraçao E Diretor Geral Substituto.",
+        "ensino": ": Instituto Federal Minas Gerais\nOutro (1988) .\nEnsino-medio (1987 - 1988) .",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "TRINDADE",
+                    "titulo": "Ronaldo Silva,  ALMEIDA, S. G. M.,  PINTO, P. R.,  Implementação de uma rede neural com microcontrolador PIC",
+                    "ano": "2009",
+                    "instituicao_promotora": "Sociedade Brasileira de Redes Neurais."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "1987",
-            "cargo": "Professor EBTT."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Ouro Preto (2015 - 2019) : Diretor De Administraçao E Diretor Geral Substituto.",
-    "ensino": ": Instituto Federal Minas Gerais\nOutro (1988) .\nEnsino-medio (1987 - 1988) .",
-    "comissoes": "",
-    "projetos": []
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "TRINDADE, Ronaldo Silva",
+                "titulo": "Penido, Édilus;  Microcontroladores",
+                "ano": "2013",
+                "informacoes_adicionais": "Impresso. ISBN: 9788586473128, Ouro Preto (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "TRINDADE, Ronaldo Silva",
+                "titulo": "ALMEIDA, S",
+                "evento": "G. M.; PINTO",
+                "local": "P. R.; Implementação de uma rede neural com Microcontrolador PIC. IX Congresso Brasileiro de Redes Neurais, Ouro Preto",
+                "ano": "2009"
+            },
+            {
+                "autores": "Claret, Antônio M",
+                "titulo": "MACIEL, S",
+                "evento": "A.; TRINDADE",
+                "local": "Ronaldo Silva; Felicetti, Mariana; Software para levantamento de Carga de Incêndio de Edificações. XXIX CILAMCE - IBERIAN LATIN AMERICAN CONGRESS ON COMPUTATIONAL METHODS IN ENGINEERING, Maceió - AL",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

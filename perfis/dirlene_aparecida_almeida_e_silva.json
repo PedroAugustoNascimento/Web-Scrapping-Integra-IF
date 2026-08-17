@@ -1,226 +1,268 @@
 {
-    "formacao": [
-        {
-            "nivel": "Mestrado"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Educação",
-            "periodo": "2017 - 2019",
-            "instituicao": "Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK",
-            "titulo": "Consciência Situacional em Ambientes Virtuais de Aprendizagem",
-            "orientador": "Profa"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Educação Digital",
-            "periodo": "2022 - 2023",
-            "instituicao": "SENAI - Departamento Regional de Santa Catarina"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "HORAS",
-            "periodo": "2020 - 2021",
-            "instituicao": "FAVENI-FACULDADE VENDA NOVA DO IMIGRANTE"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Lato Sensu em Engenharia de Sistemas",
-            "periodo": "2011 - 2012",
-            "instituicao": "Escola Superior Aberta do Brasil",
-            "orientador": "Profa"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Sistemas de Informação",
-            "periodo": "2005 - 2008",
-            "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+    "campus": "- Campus São João Evangelista",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Educação",
+                "periodo": "2017 - 2019",
+                "instituicao": "Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK",
+                "titulo": "Consciência Situacional em Ambientes Virtuais de Aprendizagem",
+                "orientador": "Profa"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Educação Digital",
+                "periodo": "2022 - 2023",
+                "instituicao": "SENAI - Departamento Regional de Santa Catarina"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "HORAS",
+                "periodo": "2020 - 2021",
+                "instituicao": "FAVENI-FACULDADE VENDA NOVA DO IMIGRANTE"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Lato Sensu em Engenharia de Sistemas",
+                "periodo": "2011 - 2012",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Profa"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2005 - 2008",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Pontifícia Universidade Católica de Minas Gerais",
+                "periodo": "2007 - 2007",
+                "cargo": "Estagiário no desenvolvimento de Web site, Livre."
+            },
+            {
+                "empresa": "Digifarma Sistema Integrado para Farmácias",
+                "periodo": "2009 - 2012",
+                "cargo": "Analista de Suporte."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "periodo": "2013 - 2024",
+                "cargo": "Professor do Ensino Básico, Técnico e Tecnoló."
+            },
+            {
+                "empresa": "SENAI - Departamento Regional de Minas Gerais",
+                "periodo": "2012 - 2013",
+                "cargo": "Instrutor de Formação Profissional."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2024",
+                "cargo": "Professora EBTT."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": SENAI - Departamento Regional de Minas Gerais\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nExtensão Universitária: Pontifícia Universidade Católica de Minas Gerais\nPontifícia Universidade Católica de Minas Gerais: Projeto E-para Todos (2007) - Projeto E-para Todos.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Transferência Tecnológica de Gerenciamento Metodológico para Implantação de um Projeto Piloto de Hortas Domésticas no Município de Araçuaí: Projeto Horta Social",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Andre Marcos Sousa Nunes",
+                    "Harley Alves Lima",
+                    "Jose Fernando Vieira de Faria"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Mapeando dados, tecendo redes",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Joao Luiz Jacintho",
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Maria Cristina Silva dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Clicar na Melhor Idade",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Leandro de Paula Liberato",
+                    "Maria Alice Gomes Lopes Leite"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Mais Cultura nas Escolas",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Maria Alice Gomes Lopes Leite",
+                    "Marcelo Moreira West"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Informática e Cidadania",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Claudia Rodrigues de Souza Rezende",
+                    "Gustavo Rezende Sa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Conexão entre escolas: o uso das novas tecnologias aplicadas ao ensino",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Felipe Túlio de Castro",
+                    "Gustavo Rezende Sa",
+                    "Ednardo Lopes dos Santos",
+                    "Fernando Claudio dos Santos Junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Compartilhando conhecimentos: formação continuada sobre o uso de ferramentas tecnológicas para professores da rede municipal da cidade de Francisco Badaró",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Felipe Túlio de Castro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Compartilhando conhecimento: o uso do Canva na educação",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Gustavo Jardim Givisiez Fonseca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Introdução ao desenvolvimento de aplicações web",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Informática na escola: uma perspectiva de inclusão digital e cidadania",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Claudia Rodrigues de Souza Rezende",
+                    "Gustavo Rezende Sa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "OBI em Foco 2023",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Informática na escola: uma perspectiva de inclusão digital e cidadania",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Claudia Beatriz Berti",
+                    "Gustavo Rezende Sa",
+                    "Yuri Soares Rodrigues",
+                    "Letícia Rodrigues Amaral"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "D. A. A.,  ASSIS, L. P.,  BERTI, C. B.,  Consciência Situacional em Ambientes Educacionais como Apoio à Tomada de Decisão",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Federal dos Vales do Jequitinhonha e Mucuri."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "D. A. A.,  ASSIS, L. P.,  BERTI, C. B.,  ANDRADE, A. V.,  Uso de Técnicas Computacionais e Consciência da Situação em Ambientes Educacionais como Apoio à Tomada de Decisão",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Federal dos Vales do Jequitinhonha e Mucuri."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "D. A. A.,  Silva, F. M. S.,  ANTUNES, J. B.,  CASTRO, F. T.,  SALAZAR, L. F. C.,  SILVA, M. L. G.,  I Jornada de Tecnologia da Informação",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "D. A. A.,  I Semana de Informática e Administração",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais - Campus Almenara."
+                }
+            ]
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Pontifícia Universidade Católica de Minas Gerais",
-            "periodo": "2007 - 2007",
-            "cargo": "Estagiário no desenvolvimento de Web site, Livre."
-        },
-        {
-            "empresa": "Digifarma Sistema Integrado para Farmácias",
-            "periodo": "2009 - 2012",
-            "cargo": "Analista de Suporte."
-        },
-        {
-            "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-            "periodo": "2013 - 2024",
-            "cargo": "Professor do Ensino Básico, Técnico e Tecnoló."
-        },
-        {
-            "empresa": "SENAI - Departamento Regional de Minas Gerais",
-            "periodo": "2012 - 2013",
-            "cargo": "Instrutor de Formação Profissional."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2024",
-            "cargo": "Professora EBTT."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": SENAI - Departamento Regional de Minas Gerais\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nExtensão Universitária: Pontifícia Universidade Católica de Minas Gerais\nPontifícia Universidade Católica de Minas Gerais: Projeto E-para Todos (2007) - Projeto E-para Todos.",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {
-            "nome": "Idade -",
-            "periodo": "2015 - 2015",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Leandro de Paula Liberato",
-                "Maria Alice Gomes Lopes Leite"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "Escolas -",
-            "periodo": "2015 - 2015",
-            "natureza": "Extensao",
-            "equipe": [
-                "Marcelo Moreira West",
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Maria Alice Gomes Lopes Leite"
-            ]
-        },
-        {},
-        {
-            "nome": "Cidadania -",
-            "periodo": "2019 - 2019",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Claudia Rodrigues de Souza Rezende",
-                "Gustavo Rezende Sa"
-            ]
-        },
-        {
-            "nome": "Conexão entre escolas: o uso das novas tecnologias aplicadas ao ensino -",
-            "periodo": "2021 - 2021",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Felipe Túlio de Castro",
-                "Gustavo Rezende Sa",
-                "Ednardo Lopes dos Santos",
-                "Fernando Claudio dos Santos Junior"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Social -",
-            "periodo": "2022 - 2022",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Andre Marcos Sousa Nunes",
-                "Harley Alves Lima",
-                "Jose Fernando Vieira de Faria"
-            ]
-        },
-        {
-            "nome": "Mapeando dados, tecendo redes -",
-            "periodo": "2022 - 2022",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Maria Cristina Silva dos Santos",
-                "Joao Luiz Jacintho"
-            ]
-        },
-        {},
-        {},
-        {
-            "nome": "Badaró -",
-            "periodo": "2023 - 2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Felipe Túlio de Castro"
-            ]
-        },
-        {},
-        {
-            "nome": "Canva na educação -",
-            "periodo": "2023 - 2023",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Gustavo Jardim Givisiez Fonseca"
-            ]
-        },
-        {
-            "nome": "Introdução ao desenvolvimento de aplicações web -",
-            "periodo": "2023 - 2023",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva"
-            ]
-        },
-        {
-            "nome": "Informática na escola: uma perspectiva de inclusão digital e cidadania -",
-            "periodo": "2023 - 2023",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Claudia Rodrigues de Souza Rezende",
-                "Gustavo Rezende Sa"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Foco 2023 -",
-            "periodo": "2023 - 2023",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva"
-            ]
-        },
-        {
-            "nome": "Informática na escola: uma perspectiva de inclusão digital e cidadania -",
-            "periodo": "2023 - 2023",
-            "natureza": "Extensao",
-            "equipe": [
-                "Dirlene Aparecida Almeida e Silva",
-                "Fernando Marcos Souza Silva",
-                "Claudia Beatriz Berti",
-                "Gustavo Rezende Sa",
-                "Yuri Soares Rodrigues",
-                "Letícia Rodrigues Amaral"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Marilene Martins Ramos",
+                "titulo": "Acompanhamento de egressos do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFNMG - campus Araçuaí: uma investigação sobre a colocação no mercado de trabalho",
+                "ano": "2024",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal do Norte de Minas Gerais - Campus Araçuaí"
+            }
+        ]
+    }
 }

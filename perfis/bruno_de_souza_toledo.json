@@ -1,557 +1,1947 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "SISTEMAS DE INFORMAÇÃO E GESTÃO DO CONHECIMENTO",
-            "periodo": "2019 - 2021",
-            "instituicao": "Universidade FUMEC",
-            "titulo": "Ambientes Colaborativos de Informação e Conhecimento: Gestão Democrática e Gestão 3",
-            "orientador": "Armando Sérgio de Aguiar Filho"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Sistemas de Informação e Gestão do Conhecimento",
-            "periodo": "2014 - 2015",
-            "instituicao": "Universidade FUMEC",
-            "titulo": "O Uso de Softwares Como Ferramenta de Ensino-Aprendizagem na Educação do Ensino Médio/Técnico no Instituto Federal de Minas Gerais",
-            "orientador": "Luiz Cláudio Vieira de Oliveira"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Informática em Educação",
-            "periodo": "2008 - 2009",
-            "instituicao": "Universidade Federal de Lavras",
-            "orientador": "Cristhiane Xavier Figueiredo"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Gestão de Tecnologia da Informação",
-            "periodo": "2017 - 2018",
-            "instituicao": "FAVENI-FACULDADE VENDA NOVA DO IMIGRANTE",
-            "orientador": "Ana Paula Rodrigues / Drieli Aparecida Rossi"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2003 - 2006",
-            "instituicao": "Universidade Vale do Rio Doce"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Licenciatura em Matemática",
-            "periodo": "2010 - 2011",
-            "instituicao": "Faculdade Capixaba de Nova Venécia"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Matemática",
-            "periodo": "2017 - 2018",
-            "instituicao": "Faculdade Educacional da Lapa"
+    "campus": "- Campus Governador Valadares",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "SISTEMAS DE INFORMAÇÃO E GESTÃO DO CONHECIMENTO",
+                "periodo": "2019 - 2021",
+                "instituicao": "Universidade FUMEC",
+                "titulo": "Ambientes Colaborativos de Informação e Conhecimento: Gestão Democrática e Gestão 3",
+                "orientador": "Armando Sérgio de Aguiar Filho"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas de Informação e Gestão do Conhecimento",
+                "periodo": "2014 - 2015",
+                "instituicao": "Universidade FUMEC",
+                "titulo": "O Uso de Softwares Como Ferramenta de Ensino-Aprendizagem na Educação do Ensino Médio/Técnico no Instituto Federal de Minas Gerais",
+                "orientador": "Luiz Cláudio Vieira de Oliveira"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática em Educação",
+                "periodo": "2008 - 2009",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "Cristhiane Xavier Figueiredo"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão de Tecnologia da Informação",
+                "periodo": "2017 - 2018",
+                "instituicao": "FAVENI-FACULDADE VENDA NOVA DO IMIGRANTE",
+                "orientador": "Ana Paula Rodrigues / Drieli Aparecida Rossi"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2003 - 2006",
+                "instituicao": "Universidade Vale do Rio Doce"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática",
+                "periodo": "2010 - 2011",
+                "instituicao": "Faculdade Capixaba de Nova Venécia"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "periodo": "2017 - 2018",
+                "instituicao": "Faculdade Educacional da Lapa"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Caixa Econômica Federal",
+                "periodo": "2005 - 2006",
+                "cargo": "Estágio em Informática, Estagiário Remunerado, Responsável pela Manutenção de Web Sites, intranet direcionada aos empregados da CAIXA em âmbito nacional; - Manutenção do Banco de Dados inseridos por diversas Unidades vinculadas; - Desenvolvimento de macros com atualizações de dados automatizadas, facilitando o trabalho da empresa; - Criação de artes, convites de festas e reuniões, cartões e folders; - Suporte técnico aos funcionários da Superintendência e via telefone aos gerentes das agências vinculados; - Desenvolvimento de Planilhas Eletrônicas, Apresentações em PowerPoint, Atas, CIs, Ofícios, Relatórios, Portarias e Resoluções.."
+            },
+            {
+                "empresa": "Escola Agrotécnica Federal de São João Evangelista",
+                "periodo": "2007 - 2007",
+                "cargo": "Professor de Informática, Professor, Professor da Turma do Curso Técnico de Informática e Turma do PROEJA (Curso Técnico em Manutenção).."
+            },
+            {
+                "empresa": "Centro de Políticas Públicas e Avaliação da Educação",
+                "periodo": "2008 - 2009",
+                "cargo": "Analista Implantação/Instrutor de Informática, Funcionário, Implantação, Configuração e Treinamento do SIMADE (Sistema Mineiro de Administração Escolar), nas Superintendências Regionais de Ensino e Escolas Estaduais de Minas Gerais, em Sistemas Operacionais Windows 98, 2000, 2003, XP, Vista, Linux Educacional e Linux Metasys. Além disso, configurações de Rede Windows e Linux para implantação e manutenção do sistema.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
+                "periodo": "2011 - 2011",
+                "cargo": "Professor Efetivo, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
+                "periodo": "2010 - 2010",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2012",
+                "cargo": "Professor, Servidor público, Disciplinas Ministradas: Linguagem de Programação I; Metodologia Científica; Trabalho de Conclusão de Curso I; Trabalho de Conclusão de Curso II; Computadores e Sociedade; Sistemas Operacionais; Gerência de Projetos; Introdução à Programação; Tecnologia e Sociedade; Algoritmos e Estruturas de Dados II; Seminários; Comunicação e Expressão; Governança de TI; Seminário de TCC I; Seminário de TCC II; Gestão da Informação (Bacharelado em Sistemas de Informação). Informática Aplicada ao Ensino da Matemática (Licenciatura em Matemática). Introdução a Lógica de Programação; Softwares Aplicativos (Curso Técnico de Informática). Sistemas Operacionais; Programas Aplicativos (Curso Técnico em Informática - Pronatec). Ambientação em Educação a Distância; Economia Solidária; Gestão e Empreendedorismo (Curso Técnico na Modalidade em Educação a Distância - EaD). Cálculo Numérico; Lógica de Programação de Computadores (Bacharelado em Engenharia de Produção, Bacharelado em Engenharia Civil, Bacharelado em Engenharia Ambiental e Sanitária). Programação de Computadores I (Bacharelado em Engenharia de Produção, Bacharelado em Engenharia Ambiental e Sanitária). Programação de Computadores II, Gestão de Inovação Tecnológica, Projeto em Engenharia I e Projeto em Engenharia II (Bacharelado em Engenharia de Produção). Metodologia Científica (Bacharelado em Engenharia Civil); Metodologia Científica (Mestrado em Educação Agrícola (PPGEA) da Universidade Rural do Rio de Janeiro).."
+            },
+            {
+                "empresa": "Seminário de Integração Acadêmica - IFMG Campus São João Evangelista",
+                "periodo": "2014 - 2014",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Revista Eixos Tech",
+                "periodo": "2018 - 2020",
+                "cargo": ", Membro de corpo editorial."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais",
+                "periodo": "2018",
+                "cargo": ", Revisor de projeto de fomento, Membro da Comissão de Avaliação de Projetos Submetidos ao Observatório do Mundo do Trabalho em Minas Gerais. Portaria 848, de 16 de agosto de 2018."
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Espírito Santo",
+                "periodo": "2023 - 2023",
+                "cargo": ", Revisor de projeto de fomento."
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - campus Governador Valadares",
+                "periodo": "2026 - 2026",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - campus Governador Valadares (2023 - 2026) : Direção De Ensino Do Instituto Federal De Minas Gerais - Campus Governador Valadares. Portaria 135, De 16 De Outubro De 2023. Diário Oficial Da União, Seção 2, N 199, De 19 De Outubro De 2023.\nInstituto Federal de Minas - campus Governador Valadares (2023 - 2026) : Direção Geral Substituto Do Instituto Federal De Minas Gerais - Campus Governador Valadares. Portaria 135, De 16 De Outubro De 2023. Diário Oficial Da União, Seção 2, N 199, De 19 De Outubro De 2023.\nInstituto Federal de Minas - campus Governador Valadares (2023 - 2026) : Direção De Administração E Planejamento Substituto Do Instituto Federal De Minas Gerais - Campus Governador Valadares. Portaria 135, De 16 De Outubro De 2023. Diário Oficial Da União, Seção 2, N 199, De 19 De Outubro De 2023.\nInstituto Federal de Minas - campus Governador Valadares (2021 - 2023) : Coordenador Do Curso De Bacharelado Em Engenharia De Produção. Portaria 027, De 09 De Março De 2021. Diário Oficial Da União De 11 De Março De 2021.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2017 - 2019) : Coordenador Do Polo Da Educação A Distância Do Instituto Federal De Minas Gerais - Campus São João Evangelista. Portaria 032, De 13 De Fevereiro De 2017.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2015 - 2019) : Coordenador Do Curso De Bacharelado Em Sistemas De Informação. Portaria 107, De 16 De Outubro De 2015.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2012 - 2014) : Coordenador Do Curso De Bacharelado Em Sistemas De Informação. Portaria 0886, De 18 De Outubro De 2012.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2012): Desenvolvimento de Sistemas, Redes Sociais, Inovação, Tecnologias e Sociedade, Educação,",
+        "ensino": ": Instituto Federal Minas Gerais\nPos-graduacao (2017 - 2017) - Programa De Pós-graduação Em Educação Agrícola.\nOutro (2016 - 2016) .\nOutro (2016 - 2017) .\nOutro (2015 - 2015) .",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Da Elbaoração Dos Horários Do Primeiro Semestre Do Ano De 2026 Do Ifmg - Campus Governador Valadares (2026 - 2026).\nMembro E Presidente Da Comissão Local De Permanência Do Ifmg-gv. Portaria 0384/ifmg, De 04 De Fevereiro De 2025 (2025 - 2026).\nMembro Da Comissão Avaliadora Do Processo De Afastamento Docente Para Participar Em Programa De Pós-graduação Stricto Sensu E Pós-doutorado Do Ifmg-gv. Portaria 0222/ifmg, De 22 De Janeiro De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Para Discutir E Elaborar O Calendário Acadêmico Do Ano Letivo De 2025 Do Ifmg-gv. Portaria N 0311/ifmg, De 30 De Janeiro De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Organizadora Do Processo Eleitoral Para Coordenações De Cursos E Membros Dos Colegiados Dos Cursos Do Ifmg-gv. Portaria 0262/ifmg, De 24 De Janeiro De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Para Discussão Do Cenário Futuro Dos Cursos De Graduação, Pós Graduação, Técnico Subsequente E Técnico Integrado Ao Ensino Médio Do Ifmg-gv. Portaria 0263/ifmg, De 24 De Janeiro De 2025 (2025).\nPresidente E Membro Da Comissão Organizadora Do Processo Eleitoral Para Coordenações De Cursos E Membros Dos Colegiados Dos Cursos Do Ifmg-gv. Portaria 1953/ifmg, De 12 De Maio De 2025 (2025 - 2025).\nMembro Da Comissão De Elaboração, Organização E Acompanhamento Do Processo Seletivo Para Professor Substituto Do Ifmg - Campus Governador Valadares - Edital 512/2025. Portaria 1953/ifmg, De 12 De Maio De 2025 (2025 - 2025).\nMembro Da Comissão Para Elaboração Da Resolução Para Normas E Procedimentos Para Viagens De Visitas Técnicas, Trabalhos De Campo E Eventos Acadêmicos Externos Do Ifmg - Campus Governador Valadares. Portaria 1833/ifmg, De 07 De Maio De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Para Elaboração Do Edital De Fluxo Contínuo Para Proposição De Projetos De Ensino Sem Fomento, Do Ifmg - Campus Governador Valadares. Portaria 3201/ifmg, De 29 De Maio De 2025 (2025 - 2025).\nMembro Do Conselho Municipal De Transparência E Controle Social. Portaria 8253, De 09 De Maio De 2025 (2025).\nMembro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 4035/ifmg, De 09 De Julho De 2025 (2025).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 4023/ifmg, De 09 De Julho De 2025 (2025).\nRepresentante Titular Da Área De Ensino No Conselho Acadêmico. Portaria 4174/ifmg, De 17 De Julho De 2025 (2025 - 2026).\nMembro Da Comissão Avaliadora Do Processo Para Seleção De Estudantes Para Estágio Não Obrigatório No Ifmg Campus Governador Valadares - Edital 686/2025. Portaria 4278/ifmg, De 25 De Julho De 2025 (2025 - 2025).\nMembro Do Colegiado Do Curso Técnico Em Logística. Portaria 4550/ifmg, De 13 De Agosto De 2025 (2025).\nMembro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 09, De 12 De Janeiro De 2024 (2024 - 2025).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 09, De 12 De Janeiro De 2024 (2024 - 2025).\nMembro Da Comissão Avaliadora De Ações De Capacitação Do Ifmg-gv. Portaria 88, De 03 De Julho De 2024 (2024 - 2024).\nMembro E Presidente Da Comissão Local De Permanência Do Ifmg-gv. Portaria 99, De 12 De Julho De 2024 (2024 - 2025).\nMembro E Presidente Da Comissão Do Calendário De Reposição Do Ano Letivo De 2024 Do Ifmg-gv. Portaria 94, De 04 De Julho De 2024 (2024 - 2024).\nMembro Da Comissão De Processos Seletivos 2025 Para Ingresso De Estudantes Nos Cursos Do Ifmg-gv. Portaria 126, De 23 De Agosto De 2024 (2024 - 2025).\nMembro Da Comissão Especial De Inventários De Bens Móveis Do Ifmg-gv. Portaria 149, De 09 De Outubro De 2024 (2024 - 2024).\nMembro Suplente Do Colegiado Do Curso Bacharelado Em Engenharia Ambiental E Sanitária. Portaria 137, De 13 De Setembro 2024 (2024 - 2025).\nRepresentante Titular Da Área De Ensino No Conselho Acadêmico. Portaria 142, De 24 De Setembro De 2024 (2024 - 2025).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 32, De 20 De Abril 2023 (2023 - 2023).\nPresidente E Membro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 32, De 20 De Abril De 2023 (2023 - 2023).\nMembro Suplente Do Colegiado Do Curso Bacharelado Em Engenharia Ambiental E Sanitária. Portaria 29, De 17 De Abril 2023 (2023 - 2024).\nRepresentante Titular Da Área De Ensino No Conselho Acadêmico. Portaria 148, De 25 De Outubro De 2023 (2023 - 2024).\nMembro Da Comissão Para Discutir, Deliberar E Elaborar Regulamentação Sobre O Procedimento Para Acesso E Disponibilização Das Imagens Das Câmeras Instaladas No Ifmg-gv. Portaria 170, De 04 De Dezembro De 2023 (2023).\nMembro Da Comissão Para Elaborar E Conduzir Edital De Vagas Remanescentes Nos Cursos De Graduação E Técnico Subsequente Do Ifmg - Campus Governador Valadares. Portaria 132, De 16 De Outubro De 2023 (2023 - 2024).\nMembro Da Comissão Organizadora Do Ix Seminário Acadêmico Da Engenharia De Produção Do Ifmg - Campus Governador Valadares. Portaria 130, De 16 De Outubro De 2023 (2023 - 2023).\nRepresentante Suplente Da Pesquisa, Inovação E Pós Graduação No Conselho Acadêmico. Portaria N 43, De 01 De Abril De 2022 (2022 - 2023).\nMembro Da Comissão Responsável Pela Construção Do Projeto Pedagógico Do Curso (ppc) Do Curso De Mestrado Profissional Em Desenvolvimento, Educação E Tecnologias Do Ifmg Campus São João Evangelista. Portaria N 19, De 02 De Março De 2022 (2022 - 2023).\nMembro Da Comissão Organizadora Do Viii Saep - Simpósio Acadêmico De Engenharia De Produção Do Ifmg - Campus Governador Valadares. Portaria Nº 147, De 19 De Outubro De 2022 (2022 - 2022).\nPresidente E Membro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 108, De 10 De Agosto De 2022 (2022 - 2023).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 108, De 10 De Agosto De 2022 (2022 - 2023).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 42, De 24 De Março De 2021 (2021 - 2022).\nPresidente E Membro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 42, De 24 De Março De 2021 (2021 - 2022).\nMembro Do Grupo De Trabalho Para Atualizar O Projeto Pedagógico De Curso Da Engenharia De Produção Do Ifmg-gv. Portaria 39, De 17 De Março De 2021 (2021 - 2022).\nPresidente E Membro Do Grupo De Trabalho Que Discute E Elabora A Normativa De Tcc Para O Curso De Bacharelado Em Engenharia De Produção. Portaria 43, De 24 De Março De 2021 (2021 - 2021).\nPresidente E Membro Do Grupo De Trabalho Que Conduz O Processo De Apresentação E Registro Dos Trabalhos De Conclusão De Curso (tccs) Para O Curso De Bacharelado Em Engenharia De Produção (2021 - 2021).\nPresidente Da Comissão Local Para Tratar Da Análise Do Processo De Elaboração Do Calendário Acadêmico Para O Ano Letivo De 2022 Do Ifmg- Campus Governador Valadares. Portaria 106, De 10 De Setembro De 2021 (2021 - 2021).\nPresidente E Membro Do Grupo De Trabalho Que Conduz O Processo De Apresentação E Registro Dos Trabalhos De Conclusão De Curso (tccs) Para O Curso De Bacharelado Em Engenharia De Produção. Portaria 142, De 19 De Outubro De 2021 (2021 - 2021).\nMembro Da Comissão Avaliadora De Projetos Do Ifmg, Edital 087/2019. Portaria 167, De 16 De Junho De 2020 (2020 - 2020).\nRepresentante Da Educação À Distância (ead) Do Ifmg - Campus Governador Valadares. Portaria 48, De 04 De Maio De 2020 (2020 - 2023).\nMembro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 112, De 06 De Agosto De 2020 (2020 - 2021).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 112, De 06 De Agosto De 2020 (2020 - 2021).\nMembro Do Grupo De Trabalho Para Atualizar Projeto Pedagógico De Curso Da Engenharia De Produção Do Ifmg-gv. Portaria 133, De 09 De Setembro De 2020 (2020 - 2021).\nMembro Docente Do Ifmg - Campus Governador Valadares, Conforme Edital Nº 25/2020 - Com A Função De Suporte Na Elaboração De Material Multimídia (moodle) - Plataforma +ifmg E Ensino Remoto Emergencial (2020 - 2020).\nMembro Do Conselho Municipal De Ciência, Tecnologia E Inovação De Governador Valadares. Portaria N 6.849, De 13 De Outubro De 2020 (2020 - 2023).\nMembro Do Colegiado Da Área De Informática E Administração Do Ifmg-sje. Portaria 110, De 04 De Junho De 2019 (2019 - 2020).\nMembro Da Comissão Organizadora Do Processo Eleitoral De Candidatos Ao Conselho Acadêmico Do Ifmg - Campus Governador Valadares (2019 - 2019).\nMembro Do Grupo De Trabalho Responsável Pelo Regulamento De Coordenação Dos Laboratórios Do Ifmg-sje. Portaria 029, De 06 De Março De 2018 (2018 - 2018).\nMembro Do Grupo De Trabalho Responsável Pelo Regulamento Da Eleição De Colegiados Do Ifmg-sje. Portaria 028, De 06 De Março De 2018 (2018 - 2018).\nMembro Da Comissão Responsável Pela Organização E Realização Do Vi Seminário De Integração Acadêmica Do Ifmg-sje. Portaria 034, De 07 De Março De 2018 (2018 - 2018).\nPresidente E Membro Do Colegiado Da Área De Informática E Administração Do Ifmg-sje. Portaria 047, De 12 De Março De 2018 (2018 - 2019).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 084, De 11 De Abril De 2018 (2018 - 2019).\nMembro Da Comissão Responsável Pela Organização E Realização Da Xxiv Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 094, De 13 De Abril De 2018 (2018 - 2018).\nMembro E Presidente Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Informática E I Semana Da Administração Do Ifmg-sje. Portaria 097, De 19 De Abril De 2018 (2018 - 2018).\nPresidente E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 103, De 27 De Abril De 2018 (2018 - 2019).\nMembro Da Comissão Organizadora Da Seletiva Interna Do Campus Para A I Maratona De Programação Intercampi Do Instituto Federal De Minas Gerais (2018 - 2018).\nMembro Da Comissão Organizadora Do I Startup Weekend No Ifmg - Campus São João Evangelista. Portaria Nº 163, De 01 De Agosto De 2018 (2018 - 2018).\nMembro Da Comissão Responsável Pela Atualização Do Regulamento De Estágio Curricular Do Ifmg - Campus São João Evangelista. Portaria 173, De 13 De Agosto De 2018 (2018 - 2018).\nMembro Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Consciência Negra Do Ifmg - Campus São João Evangelista. Portaria 184, De 04 De Setembro De 2018 (2018 - 2018).\nPresidente E Membro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 021, De 26 De Janeiro De 2017 (2017 - 2019).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 013, De 19 De Janeiro De 2017 (2017 - 2018).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 012, De 19 De Janeiro De 2017 (2017 - 2018).\nMembro Da Comissão Do V Seminário De Integração Acadêmica. Portaria 077, De 26 De Abril De 2017 (2017 - 2017).\nMembro Da Comissão Geral, Comissão De Apoio Pedagógico E Aos Cursos, Comissão De Divulgação, Mobilização, Inscrição E Certificação Da Xxiii Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 086, De 12 De Maio De 2017 (2017 - 2017).\nPresidente E Membro Da Comissão Responsável Pela Organização E Realização Da Cerimônia De Colação De Grau Dos Cursos Técnicos Subsequentes Da Educação A Distância Do Ifmg - Campus São João Evangelista. Portaria Nº 100, De 26 De Maio De 2017 (2017 - 2017).\nMembro Da Comissão Responsável Pela Elaboração De Propostas De Normas Para A Escolha De Coordenadores De Cursos Do Ifmg-sje. Portaria 124, De 07 De Agosto De 2017 (2017 - 2017).\nMembro E Presidente Da Comissão Responsável Pela Organização E Realização Da Ii Semana Da Informática Do Curso Bacharelado Em Sistemas De Informação. Portaria 143, De 31 De Agosto De 2017 (2017 - 2017).\nMembro Da Comissão De Apoio Tecnológico, Divulgação, Mobilização, Inscrição E Certificação Da Ii Semana Da Consciência Negra. Portaria 182, De 14 De Novembro De 2017 (2017 - 2017).\nMembro Da Comissão Responsável Pelo Processo Seletivo De Estagiários Do Ifmg-sje. Edital 022/2017. Portaria 228, De 19 De Dezembro De 2017 (2017 - 2018).\nMembro Da Comissão Local De Recredenciamento Do Instituto Federal De Educação, Ciência E Tecnologia De Minas Gerais - Campus São João Evangelista. Portaria 541, De 11 De Abril De 2016 (2016 - 2017).\nCoordenador E Membro Da Comissão Eleitoral Para A Eleição Dos Representantes Do Conselho Acadêmico. Portaria 040, De 27 De Abril De 2016 (2016 - 2016).\nMembro Da Comissão Avaliadora De Projetos Referentes Ao Edital Nº 011/2016 Do Ifmg - Campus São João Evangelista. Portaria Nº 60, De 18 De Maio De 2016 (2016 - 2016).\nMembro Da Comissão Responsável De Apoio Pedagógico E Aos Cursos Da Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 35, De 15 De Abril De 2016 (2016 - 2016).\nPresidente E Membro Do Colegiado Da Área De Informática Do Ifmg-sje. Portaria 149, De 20 De Setembro De 2016 (2016 - 2018).\nPresidente Da Comissão Responsável Pela Organizadora E Realização Da I Semana De Informática Do Curso Bacharelado Em Sistemas De Informação. Portaria 155, De 18 De Outubro De 2016 (2016 - 2016).\nPresidente E Membro Da Comissão Responsável Pela Reformulação Do Projeto Pedagógico Do Curso Bacharelado Em Sistemas De Informação. Portaria 154, De 18 De Outubro De 2016 (2016 - 2017).\nMembro Da Comissão De Apoio Tecnológico, Divulgação, Mobilização, Inscrição E Certificação Da I Semana Da Consciência Negra. Portaria 153, De 18 De Outubro De 2016 (2016 - 2016).\nMembro Da Comissão Responsável Pela Elaboração Do Calendário Escolar 2017 Do Ifmg - Campus São João Evangelista. Portaria 166, De 11 De Novembro De 2016 (2016 - 2016).\nMembro Da Comissão Que Irá Avaliar E Propor Alterações No Curso Técnico Em Manutenção E Suporte Em Informática. Portaria 008, De 04 De Março De 2015 (2015 - 2016).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 004, De 05 De Janeiro De 2016. Portaria Retroativa De 11 De Dezembro De 2015 (2015 - 2016).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 003, De 05 De Janeiro De 2016. Portaria Retroativa De 11 De Dezembro De 2015 (2015 - 2016).\nPresidente E Membro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 066, De 10 De Junho De 2016 (2015 - 2016).\nMembro Da Comissão Eleitoral Local Do Instituto Federal De Minas Gerais. Resolução 044 Do Conselho Superior, De 23 De Abril De 2015. (2015 - 2015).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 070, De 25 De Setembro De 2014 (2014 - 2015).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 029, De 05 De Maio De 2014 (2014 - 2014).\nMembro Da Comissão De Verificação De Viabilidade De Criação Ou Transferência Do Curso De Sistemas De Informação Para O Período Noturno. Portaria 039, De 09 De Maio De 2014 (2014 - 2017).\nMembro Da Comissão Que Irá Avaliar E Propor Alterações No Curso Técnico Em Manutenção E Suporte Em Informática. Portaria 047, De 16 De Junho De 2014 (2014 - 2015).\nMembro Da Comissão Para Alteração Do Projeto Pedagógico Do Curso De Bacharelado Em Sistemas De Informação, Durante O Primeiro Semestre Letivo De 2014 (2014 - 2014).\nMembro Da Comissão De Reformulação Do Projeto Pedagógico Do Curso De Bacharelado Em Sistemas De Informação, Durante O Primeiro Semestre Letivo De 2014 (2014 - 2014).\nMembro Da Comissão Do Seminário De Graduação. Portaria 003, De 22 De Fevereiro De 2013 (2013 - 2013).\nMembro Da Comissão Encarregado De Avaliar Projetos De Pesquisa E Extensão Do Edital 006/2013 Do Ifmg, Campus São João Evangelista. Portaria 016, De 26 De Abril De 2013 (2013 - 2013).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 020, De 13 De Maio De 2013 (2013 - 2014).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 021, De 13 De Maio De 2013 (2013 - 2014).\nPresidente E Membro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 025, De 17 De Maio De 2013 (2013 - 2015).\nMembro Da Comissão Gestora Local Do Programa De Mobilidade Acadêmica (pma), Em Atendimento À Portaria 0523/2013 Do Instituto Federal Minas Gerais Que Trata Das Normas De Realização Do Pma. Portaria 027, De 10 De Junho De 2013 (2013 - 2014).\nMembro Da Comissão Temática Local De Tecnologia Da Informação Para Construção Do Plano De Desenvolvimento Institucional - Pdi, Do Instituto Federal De Minas Gerais. Portaria 717, De 19 De Julho De 2013 (2013 - 2015).\nMembro Do Colegiado Da Área De Informática. Portaria 031, De 09 De Abril De 2012 (2012 - 2013).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 013, De 05 De Março De 2012 (2012 - 2013).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Licenciatura Em Matemática. Portaria 056, De 14 De Dezembro De 2012 (2012 - 2013).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática. Portaria 057, De 14 De Dezembro De 2012 (2012 - 2013).\nMembro Da Comissão Do Colegiado De Informática Para Afastamento De Docentes Para Participação Em Programas De Pós-graduação Stricto Sensu. Ata Nº. 00012/2012-cgemt/ifmg/sje/setec/mec (2012 - 2014).\nMembro Da Comissão De Reformulação Do Projeto Pedagógico Do Curso De Bacharelado Em Sistemas De Informação, Durante O Segundo Semestre Letivo De 2012 (2012 - 2012).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Portal do Curso Bacharelado em Sistemas de Informação",
+                "periodo": "2012 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Lauro Weleson Guedes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Informática Básica Aplicada aos Alunos dos Cursos Técnicos Integrados do IFMG-SJE",
+                "periodo": "2013 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Bruno Pedro de Nazareth Nazário",
+                    "Rochelle Edenis Miranda"
+                ],
+                "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sistema Integrado de Gerenciamento de Gado Leiteiro (SINGGLE)",
+                "periodo": "2014 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Érica Alves Machado",
+                    "Renê Gomes de Queirós"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Implantação de Empresa Júnior de Informática no Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - Campus São João Evangelista",
+                "periodo": "2014 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Karina Dutra de Carvalho Lemos",
+                    "Rochelle Edenis Miranda",
+                    "Kênia Alves Araújo"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Viabilização do uso dos laboratórios de informática nas escolas estaduais do município de Virginópolis/MG",
+                "periodo": "2016 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Roberta Caroline Rodrigues Silva",
+                    "Sócrates Alves Magalhães",
+                    "Maíra Medeiros Pimenta"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Aplicação de um curso de informática básica para estudantes carentes do distrito de Correntinho/MG",
+                "periodo": "2016 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Jéferson Álefe da Silva",
+                    "Warley Andrade Xavier"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Portal para o Curso Superior Licenciatura em Matemática do Instituto Federal de Minas Gerais - Campus São João Evangelista",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Ana Paula Dias Pereira",
+                    "Thiago Rodrigues da Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise do Uso da Tecnologia na Educação Inclusiva nas Escolas Estaduais no Município de Guanhães",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Joel Kennedy da Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Jogo Educacional para o Estudo de Programação Básica",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Davi Hagap Emanuel da Silva",
+                    "Wandrey Matheus Moreira da Costa"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Aplicação de cursos de informática para estudantes carentes do distrito de Correntinho/MG",
+                "periodo": "2017 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Jéferson Álefe da Silva",
+                    "Warley Andrade Xavier"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de Um Software para Gerenciamento e Auxílio no Cultivo de Eucalipto",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Jéferson Álefe da Silva",
+                    "Warley Andrade Xavier",
+                    "Carla Silva Santos"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão Digital na Comunidade Quilombola São Félix em Cantagalo/MG",
+                "periodo": "2017 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Luiz Henrique Bicalho Campos",
+                    "Dayane Costa dos Santos",
+                    "Vander Cardoso de Macedo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de uma Plataforma Web de Tutorias para os Discentes do Instituto Federal de Minas Gerais - Campus São João Evangelista",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Luiz Henrique Bicalho Campos",
+                    "Mauricio Costa Magalhães"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Website para o Incentivo de Doações a Entidades Filantrópicas",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Raysson Ornelas de Andrade",
+                    "Victor de Pinho Carvalho"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de Software para Identificação das Principais Ordens de Insetos - Insecta",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Rochelle Edenis Miranda",
+                    "Victor Dias Pirovani",
+                    "Cristian Paulo de Moura Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Portal para o Curso Superior Bacharelado em Agronomia do Instituto Federal de Minas Gerais - Campus São João Evangelista",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "José Roberto de Paula",
+                    "Ana Paula Dias Pereira"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Implementação de uma Aplicação Web para Auxiliar o Processo de Desenvolvimento de Software",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Simário dos Santos Cunha",
+                    "Thiago Aparecido do Carmo Alves",
+                    "William Amaral da Costa"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo Exploratório Sobre Sistemas de Informação em Micro E Pequenas Empresas na Região de São João Evangelista/MG",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Raysson Ornelas de Andrade",
+                    "Victor de Pinho Carvalho"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise do uso da metodologia Educação 4.0 no processo de ensino-aprendizagem",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Amanda Fernandes Carvalho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Mapeamento de um Processo de Acompanhamento de Discentes com o uso do Management 3.0 e dos Métodos de Processos Ágeis",
+                "periodo": "2019 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Luiz Henrique Bicalho Campos"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Proposta de Implementação de Programa de Educação Tutorial (PET) no Curso de Engenharia de Produção do IFMG-GV",
+                "periodo": "2021 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Tatielle Menolli Longhini",
+                    "Thalita Rabelo Almeida dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Núcleo de Estudos e Pesquisas em Educação a Distância",
+                "periodo": "2022",
+                "natureza": "Outra",
+                "equipe": [
+                    "Bruno de Souza Toledo",
+                    "Paula Andréa de Oliveira e Silva Rezende",
+                    "Alessandro Almeida Schwonke",
+                    "Alexander Fuccio de Fraga e Silva",
+                    "Ana Paula da Silva Rodrigues",
+                    "Cleder Tadeu Antão da Silva",
+                    "Gabriela Oliveira",
+                    "Josâne Geralda Barbosa",
+                    "Melissa Campos Alves",
+                    "Pedro Marinho Sizenando Silva",
+                    "Reinaldo Trindade Proença",
+                    "Ronan Daré Tocafundo",
+                    "Walkyr Gomes Marra"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão Digital para a Terceira Idade",
+                "periodo": "2025 - 2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo"
+                ],
+                "financiador": "Instituto Federal de Minas Gerais - campus Governador Valadares,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão Digital para a Terceira Idade",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão Digital para a Terceira Idade",
+                "periodo": "2024 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares",
+                "nome": "Tecnologia da Informação e Inclusão Digital",
+                "periodo": "2026 - 2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno de Souza Toledo"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CARDOSO",
+                    "titulo": "K.,  TOLEDO, B. S.,  SILVA, W. M.,  Inclusão Digital para a Terceira Idade",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "titulo": "B. S.,  CARVALHO, A. F.,  Análise do Uso da Metodologia Educação 4.0 no Processo de Ensino-Aprendizagem'",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  CorelDraw",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Photoshop",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Introdução a Informática: Office",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Introdução a Metodologia Científica",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Photoshop CS5",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Edição de Imagens com Photoshop CS5",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Instrutor do Curso Adobe Photoshop",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Instrutor do Curso de Linguagem HTML",
+                    "ano": "2005"
+                },
+                {
+                    "autor": "TOLEDO",
+                    "curso": "B. S.,  Instrutor do Curso Introdução à Internet",
+                    "ano": "2004"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  SANTOS, T. R. A.,  IV Seminário Acadêmico de Conclusão de Curso (SACC)",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus Governador Valadares."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  SANTOS, N. T.,  V Seminário Acadêmico de Conclusão de Curso (SACC)",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus Governador Valadares."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  SANTOS, T. R. A.,  III Seminário Acadêmico de Conclusão de Curso (SACC)",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus Governador Valadares."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "T. R. A.,  LAGE, N. L. R.,  GOMES, S. I.,  SILVA, V. S.,  SILVA, W. M.,  TOLEDO, B. S.,  SANTOS, N. T.,  DAMAS, A. M.,  LOPES, G. H. Q.,  SILVA, J. I.,  SANTANA, J. G.,  RESENDE, M. L. N.,  ESTEVES, M. A.,  Comissão Organizadora do VIII SAEP - Simpósio Acadêmico de Engenharia de Produção do IFMG - campus Governador Valadares",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus Governador Valadares."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  LONGHINI, T. M.,  SANTOS, T. R. A.,  I Seminário Acadêmico de Conclusão de Curso (SACC)",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus Governador Valadares."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  LONGHINI, T. M.,  SANTOS, T. R. A.,  SANTOS, N. T.,  II Seminário Acadêmico de Conclusão de Curso (SACC)",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus Governador Valadares."
+                },
+                {
+                    "autores": "LEMOS",
+                    "evento": "K. D. C.,  TOLEDO, B. S.,  PEREIRA, I. M.,  Palestra Experiência Educacional e Profissional no Exterior",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus São João Evangelista."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "D. A. T.,  DIAS, T. O.,  CESARIO, M. C. P.,  TOLEDO, B. S.,  LEMOS, K. D. C.,  I Simpósio de Educação Inclusiva",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus São João Evangelista."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  LEMOS, K. D. C.,  ALMEIDA, W. G.,  FIGUEIREDO, R. S.,  PEREIRA, I. M.,  III Maratona Interna de Programação - MIP",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas - Campus São João Evangelista."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  LEMOS, K. D. C.,  FIGUEIREDO, R. S.,  PEREIRA, I. M.,  MARTINS, F. R.,  I Semana de Informática",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas - Campus São João Evangelista."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  SENA, E. B.,  LEMOS, K. D. C.,  FIGUEIREDO, R. S.,  ALMEIDA, W. G.,  II Maratona Interna de Programação - MIP",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  PIMENTEL, R. B.,  FIGUEIREDO, R. S.,  Infootball",
+                    "ano": "2014",
+                    "duracao_semanas": "10",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus São João Evangelista."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "J. F.,  SILVA, A. G.,  PUFF, F. R.,  TOLEDO, B. S.,  FERRARO, A. C.,  NASCIMENTO, P.,  PEREIRA, G. C.,  CARVALHO, D. R.,  SANTOS, C. N. P.,  ROCHA, D. N.,  I Seminário de Integração Acadêmica",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - campus São João Evangelista."
+                },
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  SENA, E. B.,  LEMOS, K. D. C.,  FIGUEIREDO, R. S.,  I Maratona Interna de Programação - MIP",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas - Campus São João Evangelista."
+                }
+            ]
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Caixa Econômica Federal",
-            "periodo": "2005 - 2006",
-            "cargo": "Estágio em Informática, Estagiário Remunerado, Responsável pela Manutenção de Web Sites, intranet direcionada aos empregados da CAIXA em âmbito nacional; - Manutenção do Banco de Dados inseridos por diversas Unidades vinculadas; - Desenvolvimento de macros com atualizações de dados automatizadas, facilitando o trabalho da empresa; - Criação de artes, convites de festas e reuniões, cartões e folders; - Suporte técnico aos funcionários da Superintendência e via telefone aos gerentes das agências vinculados; - Desenvolvimento de Planilhas Eletrônicas, Apresentações em PowerPoint, Atas, CIs, Ofícios, Relatórios, Portarias e Resoluções.."
-        },
-        {
-            "empresa": "Escola Agrotécnica Federal de São João Evangelista",
-            "periodo": "2007 - 2007",
-            "cargo": "Professor de Informática, Professor, Professor da Turma do Curso Técnico de Informática e Turma do PROEJA (Curso Técnico em Manutenção).."
-        },
-        {
-            "empresa": "Centro de Políticas Públicas e Avaliação da Educação",
-            "periodo": "2008 - 2009",
-            "cargo": "Analista Implantação/Instrutor de Informática, Funcionário, Implantação, Configuração e Treinamento do SIMADE (Sistema Mineiro de Administração Escolar), nas Superintendências Regionais de Ensino e Escolas Estaduais de Minas Gerais, em Sistemas Operacionais Windows 98, 2000, 2003, XP, Vista, Linux Educacional e Linux Metasys. Além disso, configurações de Rede Windows e Linux para implantação e manutenção do sistema.."
-        },
-        {
-            "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
-            "periodo": "2011 - 2011",
-            "cargo": "Professor Efetivo, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
-            "periodo": "2010 - 2010",
-            "cargo": "Professor, Servidor público."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2012",
-            "cargo": "Professor, Servidor público, Disciplinas Ministradas: Linguagem de Programação I; Metodologia Científica; Trabalho de Conclusão de Curso I; Trabalho de Conclusão de Curso II; Computadores e Sociedade; Sistemas Operacionais; Gerência de Projetos; Introdução à Programação; Tecnologia e Sociedade; Algoritmos e Estruturas de Dados II; Seminários; Comunicação e Expressão; Governança de TI; Seminário de TCC I; Seminário de TCC II; Gestão da Informação (Bacharelado em Sistemas de Informação). Informática Aplicada ao Ensino da Matemática (Licenciatura em Matemática). Introdução a Lógica de Programação; Softwares Aplicativos (Curso Técnico de Informática). Sistemas Operacionais; Programas Aplicativos (Curso Técnico em Informática - Pronatec). Ambientação em Educação a Distância; Economia Solidária; Gestão e Empreendedorismo (Curso Técnico na Modalidade em Educação a Distância - EaD). Cálculo Numérico; Lógica de Programação de Computadores (Bacharelado em Engenharia de Produção, Bacharelado em Engenharia Civil, Bacharelado em Engenharia Ambiental e Sanitária). Programação de Computadores I (Bacharelado em Engenharia de Produção, Bacharelado em Engenharia Ambiental e Sanitária). Programação de Computadores II, Gestão de Inovação Tecnológica, Projeto em Engenharia I e Projeto em Engenharia II (Bacharelado em Engenharia de Produção). Metodologia Científica (Bacharelado em Engenharia Civil); Metodologia Científica (Mestrado em Educação Agrícola (PPGEA) da Universidade Rural do Rio de Janeiro).."
-        },
-        {
-            "empresa": "Seminário de Integração Acadêmica - IFMG Campus São João Evangelista",
-            "periodo": "2014 - 2014",
-            "cargo": ", Revisor de periódico."
-        },
-        {
-            "empresa": "Revista Eixos Tech",
-            "periodo": "2018 - 2020",
-            "cargo": ", Membro de corpo editorial."
-        },
-        {
-            "empresa": "Instituto Federal de Minas Gerais",
-            "periodo": "2018",
-            "cargo": ", Revisor de projeto de fomento, Membro da Comissão de Avaliação de Projetos Submetidos ao Observatório do Mundo do Trabalho em Minas Gerais. Portaria 848, de 16 de agosto de 2018."
-        },
-        {
-            "empresa": "Fundação de Amparo à Pesquisa do Espírito Santo",
-            "periodo": "2023 - 2023",
-            "cargo": ", Revisor de projeto de fomento."
-        }
-    ],
-    "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - campus Governador Valadares (2023 - 2026) : Direção Geral Substituto Do Instituto Federal De Minas Gerais - Campus Governador Valadares. Portaria 135, De 16 De Outubro De 2023. Diário Oficial Da União, Seção 2, N 199, De 19 De Outubro De 2023.\nInstituto Federal de Minas - campus Governador Valadares (2023 - 2026) : Direção De Administração E Planejamento Substituto Do Instituto Federal De Minas Gerais - Campus Governador Valadares. Portaria 135, De 16 De Outubro De 2023. Diário Oficial Da União, Seção 2, N 199, De 19 De Outubro De 2023.\nInstituto Federal de Minas - campus Governador Valadares (2023 - 2026) : Direção De Ensino Do Instituto Federal De Minas Gerais - Campus Governador Valadares. Portaria 135, De 16 De Outubro De 2023. Diário Oficial Da União, Seção 2, N 199, De 19 De Outubro De 2023.\nInstituto Federal de Minas - campus Governador Valadares (2021 - 2023) : Coordenador Do Curso De Bacharelado Em Engenharia De Produção. Portaria 027, De 09 De Março De 2021. Diário Oficial Da União De 11 De Março De 2021.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2017 - 2019) : Coordenador Do Polo Da Educação A Distância Do Instituto Federal De Minas Gerais - Campus São João Evangelista. Portaria 032, De 13 De Fevereiro De 2017.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2015 - 2019) : Coordenador Do Curso De Bacharelado Em Sistemas De Informação. Portaria 107, De 16 De Outubro De 2015.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2012 - 2014) : Coordenador Do Curso De Bacharelado Em Sistemas De Informação. Portaria 0886, De 18 De Outubro De 2012.\nInstituto Federal de Minas Gerais - Campus São João Evangelista (2012): Desenvolvimento de Sistemas, Redes Sociais, Inovação, Tecnologias e Sociedade, Educação,",
-    "ensino": ": Instituto Federal Minas Gerais\nPos-graduacao (2017 - 2017) - Programa De Pós-graduação Em Educação Agrícola.\nOutro (2016 - 2017) .\nOutro (2016 - 2016) .\nOutro (2015 - 2015) .",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Da Elbaoração Dos Horários Do Primeiro Semestre Do Ano De 2026 Do Ifmg - Campus Governador Valadares (2026 - 2026).\nMembro Da Comissão Avaliadora Do Processo De Afastamento Docente Para Participar Em Programa De Pós-graduação Stricto Sensu E Pós-doutorado Do Ifmg-gv. Portaria 0222/ifmg, De 22 De Janeiro De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Para Discutir E Elaborar O Calendário Acadêmico Do Ano Letivo De 2025 Do Ifmg-gv. Portaria N 0311/ifmg, De 30 De Janeiro De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Organizadora Do Processo Eleitoral Para Coordenações De Cursos E Membros Dos Colegiados Dos Cursos Do Ifmg-gv. Portaria 0262/ifmg, De 24 De Janeiro De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Para Discussão Do Cenário Futuro Dos Cursos De Graduação, Pós Graduação, Técnico Subsequente E Técnico Integrado Ao Ensino Médio Do Ifmg-gv. Portaria 0263/ifmg, De 24 De Janeiro De 2025 (2025).\nMembro E Presidente Da Comissão Local De Permanência Do Ifmg-gv. Portaria 0384/ifmg, De 04 De Fevereiro De 2025 (2025 - 2026).\nPresidente E Membro Da Comissão Organizadora Do Processo Eleitoral Para Coordenações De Cursos E Membros Dos Colegiados Dos Cursos Do Ifmg-gv. Portaria 1953/ifmg, De 12 De Maio De 2025 (2025 - 2025).\nMembro Da Comissão De Elaboração, Organização E Acompanhamento Do Processo Seletivo Para Professor Substituto Do Ifmg - Campus Governador Valadares - Edital 512/2025. Portaria 1953/ifmg, De 12 De Maio De 2025 (2025 - 2025).\nMembro Da Comissão Para Elaboração Da Resolução Para Normas E Procedimentos Para Viagens De Visitas Técnicas, Trabalhos De Campo E Eventos Acadêmicos Externos Do Ifmg - Campus Governador Valadares. Portaria 1833/ifmg, De 07 De Maio De 2025 (2025 - 2025).\nPresidente E Membro Da Comissão Para Elaboração Do Edital De Fluxo Contínuo Para Proposição De Projetos De Ensino Sem Fomento, Do Ifmg - Campus Governador Valadares. Portaria 3201/ifmg, De 29 De Maio De 2025 (2025 - 2025).\nMembro Do Conselho Municipal De Transparência E Controle Social. Portaria 8253, De 09 De Maio De 2025 (2025).\nMembro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 4035/ifmg, De 09 De Julho De 2025 (2025).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 4023/ifmg, De 09 De Julho De 2025 (2025).\nRepresentante Titular Da Área De Ensino No Conselho Acadêmico. Portaria 4174/ifmg, De 17 De Julho De 2025 (2025 - 2026).\nMembro Da Comissão Avaliadora Do Processo Para Seleção De Estudantes Para Estágio Não Obrigatório No Ifmg Campus Governador Valadares - Edital 686/2025. Portaria 4278/ifmg, De 25 De Julho De 2025 (2025 - 2025).\nMembro Do Colegiado Do Curso Técnico Em Logística. Portaria 4550/ifmg, De 13 De Agosto De 2025 (2025).\nMembro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 09, De 12 De Janeiro De 2024 (2024 - 2025).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 09, De 12 De Janeiro De 2024 (2024 - 2025).\nMembro Da Comissão Avaliadora De Ações De Capacitação Do Ifmg-gv. Portaria 88, De 03 De Julho De 2024 (2024 - 2024).\nMembro E Presidente Da Comissão Local De Permanência Do Ifmg-gv. Portaria 99, De 12 De Julho De 2024 (2024 - 2025).\nMembro E Presidente Da Comissão Do Calendário De Reposição Do Ano Letivo De 2024 Do Ifmg-gv. Portaria 94, De 04 De Julho De 2024 (2024 - 2024).\nMembro Da Comissão De Processos Seletivos 2025 Para Ingresso De Estudantes Nos Cursos Do Ifmg-gv. Portaria 126, De 23 De Agosto De 2024 (2024 - 2025).\nMembro Da Comissão Especial De Inventários De Bens Móveis Do Ifmg-gv. Portaria 149, De 09 De Outubro De 2024 (2024 - 2024).\nMembro Suplente Do Colegiado Do Curso Bacharelado Em Engenharia Ambiental E Sanitária. Portaria 137, De 13 De Setembro 2024 (2024 - 2025).\nRepresentante Titular Da Área De Ensino No Conselho Acadêmico. Portaria 142, De 24 De Setembro De 2024 (2024 - 2025).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 32, De 20 De Abril 2023 (2023 - 2023).\nPresidente E Membro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 32, De 20 De Abril De 2023 (2023 - 2023).\nMembro Suplente Do Colegiado Do Curso Bacharelado Em Engenharia Ambiental E Sanitária. Portaria 29, De 17 De Abril 2023 (2023 - 2024).\nRepresentante Titular Da Área De Ensino No Conselho Acadêmico. Portaria 148, De 25 De Outubro De 2023 (2023 - 2024).\nMembro Da Comissão Para Discutir, Deliberar E Elaborar Regulamentação Sobre O Procedimento Para Acesso E Disponibilização Das Imagens Das Câmeras Instaladas No Ifmg-gv. Portaria 170, De 04 De Dezembro De 2023 (2023).\nMembro Da Comissão Para Elaborar E Conduzir Edital De Vagas Remanescentes Nos Cursos De Graduação E Técnico Subsequente Do Ifmg - Campus Governador Valadares. Portaria 132, De 16 De Outubro De 2023 (2023 - 2024).\nMembro Da Comissão Organizadora Do Ix Seminário Acadêmico Da Engenharia De Produção Do Ifmg - Campus Governador Valadares. Portaria 130, De 16 De Outubro De 2023 (2023 - 2023).\nRepresentante Suplente Da Pesquisa, Inovação E Pós Graduação No Conselho Acadêmico. Portaria N 43, De 01 De Abril De 2022 (2022 - 2023).\nMembro Da Comissão Responsável Pela Construção Do Projeto Pedagógico Do Curso (ppc) Do Curso De Mestrado Profissional Em Desenvolvimento, Educação E Tecnologias Do Ifmg Campus São João Evangelista. Portaria N 19, De 02 De Março De 2022 (2022 - 2023).\nMembro Da Comissão Organizadora Do Viii Saep - Simpósio Acadêmico De Engenharia De Produção Do Ifmg - Campus Governador Valadares. Portaria Nº 147, De 19 De Outubro De 2022 (2022 - 2022).\nPresidente E Membro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 108, De 10 De Agosto De 2022 (2022 - 2023).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 108, De 10 De Agosto De 2022 (2022 - 2023).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 42, De 24 De Março De 2021 (2021 - 2022).\nPresidente E Membro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 42, De 24 De Março De 2021 (2021 - 2022).\nMembro Do Grupo De Trabalho Para Atualizar O Projeto Pedagógico De Curso Da Engenharia De Produção Do Ifmg-gv. Portaria 39, De 17 De Março De 2021 (2021 - 2022).\nPresidente E Membro Do Grupo De Trabalho Que Discute E Elabora A Normativa De Tcc Para O Curso De Bacharelado Em Engenharia De Produção. Portaria 43, De 24 De Março De 2021 (2021 - 2021).\nPresidente E Membro Do Grupo De Trabalho Que Conduz O Processo De Apresentação E Registro Dos Trabalhos De Conclusão De Curso (tccs) Para O Curso De Bacharelado Em Engenharia De Produção (2021 - 2021).\nPresidente Da Comissão Local Para Tratar Da Análise Do Processo De Elaboração Do Calendário Acadêmico Para O Ano Letivo De 2022 Do Ifmg- Campus Governador Valadares. Portaria 106, De 10 De Setembro De 2021 (2021 - 2021).\nPresidente E Membro Do Grupo De Trabalho Que Conduz O Processo De Apresentação E Registro Dos Trabalhos De Conclusão De Curso (tccs) Para O Curso De Bacharelado Em Engenharia De Produção. Portaria 142, De 19 De Outubro De 2021 (2021 - 2021).\nRepresentante Da Educação À Distância (ead) Do Ifmg - Campus Governador Valadares. Portaria 48, De 04 De Maio De 2020 (2020 - 2023).\nMembro Da Comissão Avaliadora De Projetos Do Ifmg, Edital 087/2019. Portaria 167, De 16 De Junho De 2020 (2020 - 2020).\nMembro Do Colegiado Do Curso Bacharelado Em Engenharia De Produção. Portaria 112, De 06 De Agosto De 2020 (2020 - 2021).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso Bacharelado Em Engenharia De Produção. Portaria 112, De 06 De Agosto De 2020 (2020 - 2021).\nMembro Do Grupo De Trabalho Para Atualizar Projeto Pedagógico De Curso Da Engenharia De Produção Do Ifmg-gv. Portaria 133, De 09 De Setembro De 2020 (2020 - 2021).\nMembro Docente Do Ifmg - Campus Governador Valadares, Conforme Edital Nº 25/2020 - Com A Função De Suporte Na Elaboração De Material Multimídia (moodle) - Plataforma +ifmg E Ensino Remoto Emergencial (2020 - 2020).\nMembro Do Conselho Municipal De Ciência, Tecnologia E Inovação De Governador Valadares. Portaria N 6.849, De 13 De Outubro De 2020 (2020 - 2023).\nMembro Do Colegiado Da Área De Informática E Administração Do Ifmg-sje. Portaria 110, De 04 De Junho De 2019 (2019 - 2020).\nMembro Da Comissão Organizadora Do Processo Eleitoral De Candidatos Ao Conselho Acadêmico Do Ifmg - Campus Governador Valadares (2019 - 2019).\nMembro Do Grupo De Trabalho Responsável Pelo Regulamento De Coordenação Dos Laboratórios Do Ifmg-sje. Portaria 029, De 06 De Março De 2018 (2018 - 2018).\nMembro Do Grupo De Trabalho Responsável Pelo Regulamento Da Eleição De Colegiados Do Ifmg-sje. Portaria 028, De 06 De Março De 2018 (2018 - 2018).\nMembro Da Comissão Responsável Pela Organização E Realização Do Vi Seminário De Integração Acadêmica Do Ifmg-sje. Portaria 034, De 07 De Março De 2018 (2018 - 2018).\nPresidente E Membro Do Colegiado Da Área De Informática E Administração Do Ifmg-sje. Portaria 047, De 12 De Março De 2018 (2018 - 2019).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 084, De 11 De Abril De 2018 (2018 - 2019).\nMembro Da Comissão Responsável Pela Organização E Realização Da Xxiv Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 094, De 13 De Abril De 2018 (2018 - 2018).\nMembro E Presidente Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Informática E I Semana Da Administração Do Ifmg-sje. Portaria 097, De 19 De Abril De 2018 (2018 - 2018).\nPresidente E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 103, De 27 De Abril De 2018 (2018 - 2019).\nMembro Da Comissão Organizadora Da Seletiva Interna Do Campus Para A I Maratona De Programação Intercampi Do Instituto Federal De Minas Gerais (2018 - 2018).\nMembro Da Comissão Organizadora Do I Startup Weekend No Ifmg - Campus São João Evangelista. Portaria Nº 163, De 01 De Agosto De 2018 (2018 - 2018).\nMembro Da Comissão Responsável Pela Atualização Do Regulamento De Estágio Curricular Do Ifmg - Campus São João Evangelista. Portaria 173, De 13 De Agosto De 2018 (2018 - 2018).\nMembro Da Comissão Responsável Pela Organização E Realização Da Iii Semana Da Consciência Negra Do Ifmg - Campus São João Evangelista. Portaria 184, De 04 De Setembro De 2018 (2018 - 2018).\nPresidente E Membro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 021, De 26 De Janeiro De 2017 (2017 - 2019).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 013, De 19 De Janeiro De 2017 (2017 - 2018).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 012, De 19 De Janeiro De 2017 (2017 - 2018).\nMembro Da Comissão Do V Seminário De Integração Acadêmica. Portaria 077, De 26 De Abril De 2017 (2017 - 2017).\nMembro Da Comissão Geral, Comissão De Apoio Pedagógico E Aos Cursos, Comissão De Divulgação, Mobilização, Inscrição E Certificação Da Xxiii Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 086, De 12 De Maio De 2017 (2017 - 2017).\nPresidente E Membro Da Comissão Responsável Pela Organização E Realização Da Cerimônia De Colação De Grau Dos Cursos Técnicos Subsequentes Da Educação A Distância Do Ifmg - Campus São João Evangelista. Portaria Nº 100, De 26 De Maio De 2017 (2017 - 2017).\nMembro Da Comissão Responsável Pela Elaboração De Propostas De Normas Para A Escolha De Coordenadores De Cursos Do Ifmg-sje. Portaria 124, De 07 De Agosto De 2017 (2017 - 2017).\nMembro E Presidente Da Comissão Responsável Pela Organização E Realização Da Ii Semana Da Informática Do Curso Bacharelado Em Sistemas De Informação. Portaria 143, De 31 De Agosto De 2017 (2017 - 2017).\nMembro Da Comissão De Apoio Tecnológico, Divulgação, Mobilização, Inscrição E Certificação Da Ii Semana Da Consciência Negra. Portaria 182, De 14 De Novembro De 2017 (2017 - 2017).\nMembro Da Comissão Responsável Pelo Processo Seletivo De Estagiários Do Ifmg-sje. Edital 022/2017. Portaria 228, De 19 De Dezembro De 2017 (2017 - 2018).\nMembro Da Comissão Local De Recredenciamento Do Instituto Federal De Educação, Ciência E Tecnologia De Minas Gerais - Campus São João Evangelista. Portaria 541, De 11 De Abril De 2016 (2016 - 2017).\nCoordenador E Membro Da Comissão Eleitoral Para A Eleição Dos Representantes Do Conselho Acadêmico. Portaria 040, De 27 De Abril De 2016 (2016 - 2016).\nMembro Da Comissão Avaliadora De Projetos Referentes Ao Edital Nº 011/2016 Do Ifmg - Campus São João Evangelista. Portaria Nº 60, De 18 De Maio De 2016 (2016 - 2016).\nMembro Da Comissão Responsável De Apoio Pedagógico E Aos Cursos Da Semana Da Família Rural Do Ifmg - Campus São João Evangelista. Portaria Nº 35, De 15 De Abril De 2016 (2016 - 2016).\nPresidente E Membro Do Colegiado Da Área De Informática Do Ifmg-sje. Portaria 149, De 20 De Setembro De 2016 (2016 - 2018).\nPresidente Da Comissão Responsável Pela Organizadora E Realização Da I Semana De Informática Do Curso Bacharelado Em Sistemas De Informação. Portaria 155, De 18 De Outubro De 2016 (2016 - 2016).\nPresidente E Membro Da Comissão Responsável Pela Reformulação Do Projeto Pedagógico Do Curso Bacharelado Em Sistemas De Informação. Portaria 154, De 18 De Outubro De 2016 (2016 - 2017).\nMembro Da Comissão De Apoio Tecnológico, Divulgação, Mobilização, Inscrição E Certificação Da I Semana Da Consciência Negra. Portaria 153, De 18 De Outubro De 2016 (2016 - 2016).\nMembro Da Comissão Responsável Pela Elaboração Do Calendário Escolar 2017 Do Ifmg - Campus São João Evangelista. Portaria 166, De 11 De Novembro De 2016 (2016 - 2016).\nMembro Da Comissão Que Irá Avaliar E Propor Alterações No Curso Técnico Em Manutenção E Suporte Em Informática. Portaria 008, De 04 De Março De 2015 (2015 - 2016).\nMembro Da Comissão Eleitoral Local Do Instituto Federal De Minas Gerais. Resolução 044 Do Conselho Superior, De 23 De Abril De 2015. (2015 - 2015).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 004, De 05 De Janeiro De 2016. Portaria Retroativa De 11 De Dezembro De 2015 (2015 - 2016).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 003, De 05 De Janeiro De 2016. Portaria Retroativa De 11 De Dezembro De 2015 (2015 - 2016).\nPresidente E Membro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 066, De 10 De Junho De 2016 (2015 - 2016).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 029, De 05 De Maio De 2014 (2014 - 2014).\nMembro Da Comissão De Verificação De Viabilidade De Criação Ou Transferência Do Curso De Sistemas De Informação Para O Período Noturno. Portaria 039, De 09 De Maio De 2014 (2014 - 2017).\nMembro Da Comissão Que Irá Avaliar E Propor Alterações No Curso Técnico Em Manutenção E Suporte Em Informática. Portaria 047, De 16 De Junho De 2014 (2014 - 2015).\nMembro Da Comissão Para Alteração Do Projeto Pedagógico Do Curso De Bacharelado Em Sistemas De Informação, Durante O Primeiro Semestre Letivo De 2014 (2014 - 2014).\nMembro Da Comissão De Reformulação Do Projeto Pedagógico Do Curso De Bacharelado Em Sistemas De Informação, Durante O Primeiro Semestre Letivo De 2014 (2014 - 2014).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 070, De 25 De Setembro De 2014 (2014 - 2015).\nMembro Da Comissão Do Seminário De Graduação. Portaria 003, De 22 De Fevereiro De 2013 (2013 - 2013).\nMembro Da Comissão Encarregado De Avaliar Projetos De Pesquisa E Extensão Do Edital 006/2013 Do Ifmg, Campus São João Evangelista. Portaria 016, De 26 De Abril De 2013 (2013 - 2013).\nPresidente E Membro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação. Portaria 020, De 13 De Maio De 2013 (2013 - 2014).\nCoordenador E Membro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 021, De 13 De Maio De 2013 (2013 - 2014).\nPresidente E Membro Da Comissão De Acompanhamento De Trabalhos De Conclusão De Curso (catcc) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 025, De 17 De Maio De 2013 (2013 - 2015).\nMembro Da Comissão Gestora Local Do Programa De Mobilidade Acadêmica (pma), Em Atendimento À Portaria 0523/2013 Do Instituto Federal Minas Gerais Que Trata Das Normas De Realização Do Pma. Portaria 027, De 10 De Junho De 2013 (2013 - 2014).\nMembro Da Comissão Temática Local De Tecnologia Da Informação Para Construção Do Plano De Desenvolvimento Institucional - Pdi, Do Instituto Federal De Minas Gerais. Portaria 717, De 19 De Julho De 2013 (2013 - 2015).\nMembro Do Colegiado Da Área De Informática. Portaria 031, De 09 De Abril De 2012 (2012 - 2013).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Bacharelado Em Sistemas De Informação. Portaria 013, De 05 De Março De 2012 (2012 - 2013).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Licenciatura Em Matemática. Portaria 056, De 14 De Dezembro De 2012 (2012 - 2013).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática. Portaria 057, De 14 De Dezembro De 2012 (2012 - 2013).\nMembro Da Comissão De Reformulação Do Projeto Pedagógico Do Curso De Bacharelado Em Sistemas De Informação, Durante O Segundo Semestre Letivo De 2012 (2012 - 2012).\nMembro Da Comissão Do Colegiado De Informática Para Afastamento De Docentes Para Participação Em Programas De Pós-graduação Stricto Sensu. Ata Nº. 00012/2012-cgemt/ifmg/sje/setec/mec (2012 - 2014).",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Informação -",
-            "periodo": "2012 - 2012",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Lauro Weleson Guedes"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "E -",
-            "periodo": "2013 - 2014",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Bruno Pedro de Nazareth Nazário",
-                "Rochelle Edenis Miranda"
-            ],
-            "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Evangelista -",
-            "periodo": "2014 - 2015",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Karina Dutra de Carvalho Lemos",
-                "Rochelle Edenis Miranda",
-                "Kênia Alves Araújo"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "E) -",
-            "periodo": "2014 - 2015",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Érica Alves Machado",
-                "Renê Gomes de Queirós"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Guanhães -",
-            "periodo": "2016 - 2017",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Joel Kennedy da Silva"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Evangelista -",
-            "periodo": "2016 - 2017",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Ana Paula Dias Pereira",
-                "Thiago Rodrigues da Silva"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "G -",
-            "periodo": "2016 - 2017",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Roberta Caroline Rodrigues Silva",
-                "Sócrates Alves Magalhães",
-                "Maíra Medeiros Pimenta"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Básica -",
-            "periodo": "2016 - 2017",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Davi Hagap Emanuel da Silva",
-                "Wandrey Matheus Moreira da Costa"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "G -",
-            "periodo": "2016 - 2017",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Jéferson Álefe da Silva",
-                "Warley Andrade Xavier"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Filantrópicas -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Raysson Ornelas de Andrade",
-                "Victor de Pinho Carvalho"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "G -",
-            "periodo": "2017 - 2018",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Jéferson Álefe da Silva",
-                "Warley Andrade Xavier"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "G -",
-            "periodo": "2017 - 2018",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Luiz Henrique Bicalho Campos",
-                "Dayane Costa dos Santos",
-                "Vander Cardoso de Macedo"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Evangelista -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Luiz Henrique Bicalho Campos",
-                "Mauricio Costa Magalhães"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Eucalipto -",
-            "periodo": "2017 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Jéferson Álefe da Silva",
-                "Warley Andrade Xavier",
-                "Carla Silva Santos"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Insecta -",
-            "periodo": "2015 - 2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Cristian Paulo de Moura Silva",
-                "Bruno de Souza Toledo",
-                "Rochelle Edenis Miranda",
-                "Victor Dias Pirovani"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Evangelista -",
-            "periodo": "2015 - 2016",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "José Roberto de Paula",
-                "Ana Paula Dias Pereira"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "G -",
-            "periodo": "2018 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Raysson Ornelas de Andrade",
-                "Victor de Pinho Carvalho"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Software -",
-            "periodo": "2018 - 2018",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Simário dos Santos Cunha",
-                "Thiago Aparecido do Carmo Alves",
-                "William Amaral da Costa"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {
-            "nome": "Educação 4.0 no processo de ensino-aprendizagem -",
-            "periodo": "2020 - 2021",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Amanda Fernandes Carvalho"
-            ]
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Processos Ágeis -",
-            "periodo": "2019 - 2019",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Luiz Henrique Bicalho Campos"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Distância -",
-            "periodo": "2022",
-            "natureza": "Outra",
-            "equipe": [
-                "Bruno de Souza Toledo",
-                "Paula Andréa de Oliveira e Silva Rezende",
-                "Alessandro Almeida Schwonke",
-                "Alexander Fuccio de Fraga e Silva",
-                "Ana Paula da Silva Rodrigues",
-                "Cleder Tadeu Antão da Silva",
-                "Gabriela Oliveira",
-                "Josâne Geralda Barbosa",
-                "Melissa Campos Alves",
-                "Pedro Marinho Sizenando Silva",
-                "Reinaldo Trindade Proença",
-                "Ronan Daré Tocafundo",
-                "Walkyr Gomes Marra"
-            ]
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Idade -",
-            "periodo": "2024 - 2025",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo"
-            ],
-            "financiador": "Instituto Federal Minas Gerais,"
-        },
-        {},
-        {},
-        {},
-        {
-            "nome": "Idade -",
-            "periodo": "2025 - 2026",
-            "natureza": "Extensao",
-            "equipe": [
-                "Bruno de Souza Toledo"
-            ],
-            "financiador": "Instituto Federal de Minas Gerais - campus Governador Valadares,"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "V -",
-            "periodo": "2021 - 2022",
-            "natureza": "Extensao",
-            "equipe": [
-                "Tatielle Menolli Longhini",
-                "Bruno de Souza Toledo",
-                "Thalita Rabelo Almeida dos Santos"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "Metodologia científica: Introdução a projetos de pesquisa",
+                "ano": "2021",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786558761297, Belo Horizonte (Publicado)."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "OLIVEIRA, L. C. V.;  O Uso de Softwares Como Ferramenta de Ensino-Aprendizagem na Educação: Análise Quantitativa e Qualitativa no Instituto Federal de Minas Gerais",
+                "ano": "2016",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9783330743083, Saarbrucken (Alemanha) (Publicado)."
+            },
+            {
+                "autores": "PUFF, F. R.",
+                "titulo": "SILVA, J. F.;  SILVA, A. G.;  FERRARO, A. C.;  TOLEDO, B. S.;  PEREIRA, G. C.;  Anais do I Seminário de Integração Acadêmica do IFMG",
+                "ano": "2013",
+                "informacoes_adicionais": "Outro. ISBN: 9788567593029 (Organizado(a))."
+            },
+            {
+                "autores": "TOLEDO, BRUNO DE SOUZA",
+                "titulo": "Filho, Armando Sérgio Aguiar;  Tecnologia, Comunicação e Gestão da Inovação: contribuições para o desenvolvimento de novos conhecimentos - Volume 1. Título do capítulo: A GESTÃO DEMOCRÁTICA NO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MINAS GERAIS",
+                "ano": "2024",
+                "informacoes_adicionais": "ISBN: 9786553606982, São Paulo."
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B. S.;  LEMOS, K. D. C.;  REIS NETO, M. T.;  Temas emergentes voltados para as ciências sociais. Título do capítulo: Comprometimento, liderança e valores como fatores de influência na qualidade de vida em uma empresa de tecnologia da informação e comunicação",
+                "ano": "2022",
+                "informacoes_adicionais": "ISBN: 9786581028480, São José dos Pinhais."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "TOLEDO, M. V. S.;  LEMOS, K. D. C.;  REIS NETO, M. T.;  Temas emergentes voltados para as ciências sociais. Título do capítulo: Como o papel do líder na gestão de conflitos afeta o comportamento em uma empresa de tecnologia da informação",
+                "ano": "2022",
+                "informacoes_adicionais": "ISBN: 9786581028480, São José dos Pinhais."
+            },
+            {
+                "autores": "TOLEDO, BRUNO DE SOUZA",
+                "titulo": "Campos, Luiz Henrique Bicalho;  Macedo, Vander Cardoso de;  TOLEDO, Marcos Vinícius de Souza;  LEMOS, Karina Dutra de Carvalho;  AMPLAMENTE: INCLUSÃO E LUDICIDADE NA ESCOLA. Título do capítulo: APLICAÇÃO DE UM CURSO DE INFORMÁTICA BUSCANDO A INCLUSÃO DIGITAL DOS ESTUDANTES CARENTES DO DISTRITO DE CORRENTINHO DO MUNICÍPIO DE GUANHÃES EM MINAS GERAIS",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9786589928003."
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B. S.;  LEMOS, K. D. C.;  MAIA, L. C. G.;  Pesquisas no Ensino Básico, Técnico e Tecnológico: Educação, Artes e Letras. Título do capítulo: Análise do uso da Tecnologia na Educação Inclusiva nas Escolas Estaduais do Município de Guanhães",
+                "ano": "2020",
+                "informacoes_adicionais": "ISBN: 8026186283, Rio Branco."
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B. S.;  LEMOS, K. D. C.;  MAIA, L. C. G.;  Processos de Organicidade e Integração da Educação Brasileira 2. Título do capítulo: O Uso de Chatbot no Ensino de Espanhol",
+                "ano": "2020",
+                "informacoes_adicionais": "ISBN: 9786557061558, Ponta Grossa/PR."
+            },
+            {
+                "autores": "TOLEDO, BRUNO DE SOUZA",
+                "titulo": "Silva, Davi Hagap Emanuel da;  LEMOS, Karina Dutra de Carvalho;  TOLEDO, Marcos Vinícius de Souza;  A educação enquanto fenômeno social: política, economia, ciência e cultura 3. Título do capítulo: DESENVOLVIMENTO DE UM JOGO EDUCACIONAL PARA O ENSINO DE PROGRAMAÇÃO BÁSICA",
+                "ano": "2020",
+                "informacoes_adicionais": "ISBN: 9786557065334."
+            },
+            {
+                "autores": "TOLEDO, Marcos Vinícius de Souza",
+                "titulo": "TOLEDO, BRUNO DE SOUZA;  LEMOS, Karina Dutra de Carvalho;  MAIA, LUIZ CLÁUDIO GOMES;  AMPLAMENTE: EDUCAÇÃO NA CONTEMPORANEIDADE. Título do capítulo: O USO DE RECURSOS COMPUTACIONAIS FACEBOOK E WHATSAPP EM UMA INSTITUIÇÃO DE ENSINO PÚBLICO FEDERAL",
+                "ano": "2020",
+                "informacoes_adicionais": "ISBN: 9786599275678, Natal."
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B. S.;  LEMOS, K. D. C.;  MAIA, L. C. G.;  International Conference on Information Society. Título do capítulo: The Uses of Chatbots in English Language Learning in a Federal Public Education Institution",
+                "ano": "2019",
+                "informacoes_adicionais": "ISBN: 9781913572037, Dublin."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "OLIVEIRA, L. C. V.;  MUYLDER, C. F.;  Informação, Gestão e Tecnologias no Instituto Federal de Minas Gerais. Título do capítulo: O uso de softwares como ferramenta de ensino-aprendizagem na educação do ensino médio no Instituto Federal de Minas Gerais",
+                "ano": "2017",
+                "informacoes_adicionais": "ISBN: 9788568198063, Ouro Preto."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "DUARTE, RIAM FERREIRA LOPES",
+                "titulo": "LONGHINI, T. M.;  TOLEDO, B. S.;  Formando engenheiros na era digital: tutoria remota em programação sob a perspectiva CTS",
+                "ano": "2026",
+                "periodico": "REVISTA TECNOLOGIA E SOCIEDADE (ONLINE). ISBN: 19843526   ."
+            },
+            {
+                "autores": "DUARTE, RIAM FERREIRA LOPES",
+                "titulo": "LONGHINI, TATIELLE MENOLLI;  TOLEDO, BUNO DE SOUZA;  Tutoria remota: uma estratégia eficaz para aprimorar o ensino de programação em engenharia</b>",
+                "ano": "2025",
+                "periodico": "BRAZILIAN JOURNAL OF PRODUCTION ENGINEERING. ISBN: 24475580   ."
+            },
+            {
+                "autores": "RAMOS, ARTHUR SILVA",
+                "titulo": "TOLEDO, BRUNO DE SOUZA;  PROGRAMAÇÃO ORIENTADA A OBJETOS E O MÉTODO DO CAIXEIRO VIAJANTE PARA SOLUCIONAR PROBLEMAS DE PESQUISA OPERACIONAL",
+                "ano": "2025",
+                "periodico": "FOCO (FACULDADE NOVO MILÊNIO). ISBN: 1981223X   ."
+            },
+            {
+                "autores": "FERREIRA DUTRA ARAÚJO, ANNA CAROLLYNNE",
+                "titulo": "DE SOUZA TOLEDO, BRUNO;  ANÁLISE COMPORTAMENTAL EM CALL CENTERS: OTIMIZANDO DESEMPENHO E EXPERIÊNCIA DO CLIENTE",
+                "ano": "2024",
+                "periodico": "RECIMA21 - Revista Científica Multidisciplinar - ISSN 2675-6218. ISBN: 26756218   ."
+            },
+            {
+                "autores": "ASSUNÇÃO QUEIROGA, THAÍS",
+                "titulo": "DE SOUZA TOLEDO, BRUNO;  MENOLLI LONGHINI, TATIELLE;  AÇÕES PARA MINIMIZAR A EVASÃO NO IFMG-GV: CURSO DE ENGENHARIA AMBIENTAL E SANITÁRIA",
+                "ano": "2024",
+                "periodico": "RECIMA21 - Revista Científica Multidisciplinar - ISSN 2675-6218. ISBN: 26756218   ."
+            },
+            {
+                "autores": "BARBOSA DA COSTA, ANNA KAROLINA",
+                "titulo": "DE SOUZA TOLEDO, BRUNO;  COMUNICAÇÃO INTERNA: UMA ANÁLISE NA INTERAÇÃO ENTRE FUNCIONÁRIOS E ORGANIZAÇÃO EM UM HOSPITAL EM GOVERNADOR VALADARES-MG",
+                "ano": "2024",
+                "periodico": "RECIMA21 - Revista Científica Multidisciplinar - ISSN 2675-6218. ISBN: 26756218   ."
+            },
+            {
+                "autores": "ZIVIANI, F.",
+                "titulo": "TOLEDO, M. V. S.;  TOLEDO, B. S.;  LEMOS, K. D. C.;  Gestão da informação e do conhecimento: uma análise a partir das cinco leis bibliométricas",
+                "ano": "2024",
+                "periodico": "BIBLIONLINE (JOÃO PESSOA). ISBN: 18094775   ."
+            },
+            {
+                "autores": "SOUZA, D. J. R.",
+                "titulo": "FRANKLIN, A. H. C.;  TOLEDO, B. S.;  Organização, Sistemas e Métodos (OSM): um estudo acerca de sua aplicabilidade",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "COSTA, L. L.",
+                "titulo": "TOLEDO, B. S.;  Cibercultura: Como um estudante pode reconhecer e se proteger contra o crime cibernético",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "FERREIRA, M. C.",
+                "titulo": "TOLEDO, B. S.;  REIS, P. H. G.;  Desenvolvimento de órtese de punho e mão por manufatura aditiva para pacientes acometidos com ler/dort: um estudo de caso",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "OLIVEIRA, N. C.",
+                "titulo": "TOLEDO, B. S.;  Gestão de Estoque: Estudo de caso em uma empresa do ramo de varejo de Governador Valadares/MG",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "ANDRADE, R. S.",
+                "titulo": "TOLEDO, B. S.;  Projeto de uma alavanca para o mercado automobilístico no assento frontal para as crianças",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "SILVA, R. H. A.",
+                "titulo": "TOLEDO, B. S.;  Desenvolvimento de sites em wordpress com ouso do plugin elementor",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "CAMPOS, R. G.",
+                "titulo": "TOLEDO, B. S.;  Estudo de rotas utilizando a pesquisa operacional para otimização dos trajetos de uma vendedora autônoma: Proposta para validação de um escopo de rotas",
+                "ano": "2023",
+                "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
+            },
+            {
+                "autores": "TOLEDO, Marcos Vinícius de Souza",
+                "titulo": "TOLEDO, BRUNO DE SOUZA;  LEMOS, Karina Dutra de Carvalho;  REIS NETO, MÁRIO TEIXEIRA;  Comprometimento, liderança e valores como fatores de influência na qualidade de vida em uma empresa de tecnologia da informação / Commitment, leadership and values as factors influencing quality of life in an information technology company",
+                "ano": "2021",
+                "periodico": "Brazilian Applied Science Review. ISBN: 25953621   ."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "TOLEDO, M. V. S.;  LEMOS, K. D. C.;  REIS NETO, M. T.;  The leader's role in conflict management affects behavior in an it company",
+                "ano": "2021",
+                "periodico": "Brazilian Applied Science Review. ISBN: 25953621   ."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "AGUIAR FILHO, A. S.;  PINHEIRO, M. M. K.;  Relação dos Ambientes Colaborativos em Gestão da Informação e do Conhecimento, Gestão Democrática e a Gestão 3.0: Uma Abordagem de Integração nos Institutos Federais de Educação, Ciência e Tecnologia",
+                "ano": "2021",
+                "periodico": "INTERNATIONAL JOURNAL OF DEVELOPMENT RESEARCH. ISBN: 22309926   ."
+            },
+            {
+                "autores": "SOUZA TOLEDO, MARCOS VINÍCIUS",
+                "titulo": "TOLEDO, BRUNO DE SOUZA;  MAIA, LUIZ CLÁUDIO GOMES;  A utilização do facebook e whatsapp em uma instituição de ensino público federal como suporte ao processo de ensino-aprendizagem",
+                "ano": "2020",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "SOUZA TOLEDO, MARCOS VINÍCIUS",
+                "titulo": "MAIA, LUIZ CLÁUDIO GOMES;  TOLEDO, BRUNO DE SOUZA;  AGUIAR FILHO, ARMANDO SÉRGIO;  Os Usos de Tutores Virtuais na Educação",
+                "ano": "2020",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B. S.;  LEMOS, K. D. C.;  MAIA, L. C. G.;  Software educacional para estudo de Entomologia Básica, utilizando inteligência artificial",
+                "ano": "2020",
+                "periodico": "RISTI (PORTO). ISBN: 16469895   ."
+            },
+            {
+                "autores": "DE SOUZA TOLEDO, MARCOS VINÍCIUS",
+                "titulo": "DE CARVALHO LEMOS, KARINA DUTRA;  DE SOUZA TOLEDO, BRUNO;  GOMES MAIA, LUIZ CLÁUDIO;  Virtual Tutor as an Assistant Technology Tool in Learning English in a School",
+                "ano": "2019",
+                "periodico": "LITERACY INFORMATION AND COMPUTER EDUCATION JOURNAL (LICEJ). ISBN: 20402589   ."
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "LEMOS, K. D. C.;  TOLEDO, M. V. S.;  O USO DE SOFTWARES COMO APOIO AO PROCESSO DE APRENDIZAGEM EM UMA INSTITUIÇÃO DE ENSINO PÚBLICO FEDERAL",
+                "ano": "2018",
+                "periodico": "SODEBRÁS. ISBN: 18093957   ."
+            },
+            {
+                "autores": "TOLEDO, BRUNO",
+                "titulo": "Estudo e análise de softwares educacionais como ferramenta de ensino-aprendizagem para o ensino médio no Instituto Federal de Minas Gerais",
+                "ano": "2015",
+                "periodico": "Revista Eixos Tech. ISBN: 23591269   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "TOLEDO, BRUNO DE SOUZA",
+                "titulo": "INCLUSÃO DIGITAL PARA A TERCEIRA IDADE",
+                "evento": "Planeta IFMG 2025",
+                "local": "IFMG Campus Ribeirão das Neves",
+                "ano": "2025"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; LEMOS",
+                "local": "K. D. C.; O currículo e sua influência na vida escolar. XIII Conferência Internacional - Tecnologias de Comunicação e Informação na Educação, Braga",
+                "ano": "2024"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; LEMOS",
+                "local": "K. D. C.; TOLEDO, F. K. S.; Softwares Aplicativos Utilizados no Ensino. V Brazilian Congress of Development, São José dos Pinhais",
+                "ano": "2024"
+            },
+            {
+                "autores": "TOLEDO, BRUNO DE SOUZA",
+                "titulo": "CARDOSO, KATIELE; SILVA, WAIND MOURA DA; INCLUSÃO DIGITAL PARA A TERCEIRA IDADE",
+                "evento": "Planeta IFMG 2024",
+                "local": "IFMG",
+                "ano": "2024"
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, BRUNO DE SOUZA; TOLEDO, M",
+                "evento": "V. S.; Collaborative Information System in Facing Infrastructure Problems in a City. I South Florida Congress of Development",
+                "local": "Miami",
+                "ano": "2021"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "AGUIAR FILHO, A",
+                "evento": "S.; A Gestão Democrática no Instituto Federal de Educação",
+                "local": "Ciência e Tecnologia de Minas Gerais. XX Colóquio Internacional de Gestão Universitária (CIGU), Balneário Camboriú",
+                "ano": "2021"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "TOLEDO, M",
+                "evento": "V. S.; MARIA",
+                "local": "T. C.; AGUIAR FILHO, A. S.; MAIA, L. C. G.; Gestão da Informação e do Conhecimento: Uma Análise Sociométrica. XXI Encontro Nacional de Pesquisa e Pós-graduação em Ciência da Informação (ENANCIB), Rio de Janeiro",
+                "ano": "2021"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "TOLEDO, M",
+                "evento": "V. S.; AGUIAR FILHO",
+                "local": "A. S.; MAIA, L. C. G.; Os Usos de Agentes Inteligentes na Educação. Challenges 2019 - XI Conferência Internacional de Tecnologias de Informação e Comunicação na Educação, Braga",
+                "ano": "2019"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "TOLEDO, M",
+                "evento": "V. S.; LEMOS",
+                "local": "K. D. C.; Gestão da Informação e do Conhecimento: Uma Análise a Partir das Cinco Leis Bibliométricas. XX Encontro Nacional de Pesquisa em Ciência da Informação - ENANCIB, Florianópolis",
+                "ano": "2019"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; MUYLDER",
+                "local": "C. F.; The Perception of Using Social CRM in Micro, Small and Medium Enterprises. In: Workshop Pratice-oriented Education on Social CRM. Workshop Pratice-oriented Education on Social CRM, Belo Horizonte",
+                "ano": "2019"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; MAIA",
+                "local": "L. C. G.; Estudo de Caso do Uso de uma Ferramenta de Mensagem Instantânea no Processo de Aprendizagem de Discentes em uma Instituição de Ensino Público Federal. I Congresso Mineiro de Estudantes de Pós-Graduação em Educação, Viçosa",
+                "ano": "2019"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; MAIA",
+                "local": "L. C. G.; Os Usos de Tutores Virtuais no Ensino de Língua Espanhola. I Congresso Mineiro de Estudantes de Pós-Graduação em Educação, Viçosa",
+                "ano": "2019"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "Inclusão Digital na Comunidade Quilombola São Félix - Cantagalo/MG",
+                "evento": "8º Congresso Brasileiro de Extensão Universitária",
+                "local": "Natal",
+                "ano": "2018"
+            },
+            {
+                "autores": "TOLEDO, M. V. S.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; Estudo comparativo do uso de recursos computacionais Facebook e Whatsapp em uma instituição de Ensino Público Federal como suporte ao processo de ensino-aprendizagem. II CEVS - Congresso de Educação do Vale do Sapucaí - Univás",
+                "local": "Pouso Alegre",
+                "ano": "2018"
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; FALCAO",
+                "local": "F. A.; OLIVEIRA, D. N.; Adaptações do SISGEAS - Sistema de Gerenciamento de Análise de Solos do IFMG-SJE. V Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "SILVA, J",
+                "evento": "A.; XAVIER",
+                "local": "W. A.; Aplicação de Um Curso de Informática Básica Para Estudantes Carentes do Distrito de Correntinho - MG. V Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "SILVA, D",
+                "evento": "H. E.; COSTA",
+                "local": "W. M. M.; Desenvolvimento de Um Jogo Educacional Para o Estudo de Programação Básica. V Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "PEREIRA, A",
+                "evento": "P. D.; SILVA",
+                "local": "T. R.; Desenvolvimento de Um Portal Para o Curso de Licenciatura Em Matemática do IFMG - Campus São João Evangelista. V Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2017"
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; ROCHA",
+                "local": "D. G.; SOARES, V. A.; Estudo da Viabilidade de Implantação da Tecnologia RFID no Controle de Inventário Patrimonial do IFMG - Campus João Evangelista. V Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "Viabilização do Uso dos Laboratórios de Informática nas Escolas Estaduais do Município de Virginópolis/MG",
+                "evento": "V Seminário de Integração Acadêmica",
+                "local": "São João Evangelista",
+                "ano": "2017"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "PIROVANI, V",
+                "evento": "D.; SILVA",
+                "local": "C. P. M.; MIRANDA, R. E.; Desenvolvimento de Software para Identificação das Principais Ordens de Insetos - INSECTA. IV Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2016"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "PAULA, J",
+                "evento": "R.; PEREIRA",
+                "local": "A. P. D.; Desenvolvimento de um Portal para o Curso Superior Bacharelado em Agronomia do Instituto Federal de Minas Gerais - campus São João Evangelista. IV Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2016"
+            },
+            {
+                "autores": "LEMOS, K. D. C.",
+                "titulo": "TOLEDO, B",
+                "evento": "S.; ARAUJO",
+                "local": "K. A.; MIRANDA, R. E.; Implantação de Empresa Júnior de Informática no Instituto Federal de Minas Gerais - Campus São João Evangelista. III Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2015"
+            },
+            {
+                "autores": "TOLEDO, B. S.",
+                "titulo": "BISPO, C",
+                "evento": "A. S.; QUEIROS",
+                "local": "R. G.; Estudo e Desenvolvimento de Um Software Integrado de Gerenciamento da Reprodução do Gado Leiteiro. III Seminário de Integração Acadêmica, São João Evangelista",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Joshua Oliveira de Almeida",
+                "titulo": "Análise Ergonômica do Trabalho (AET) em uma Empresa de Construção Civil na cidade de Governador Valadares/MG",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Luiza Lima da Costa",
+                "titulo": "Cibercultura: Como um estudante do IFMG-GV pode reconhecer e se proteger contra o crime cibernético",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Nathália Coelho Oliveira",
+                "titulo": "Gestão de Estoque: Estudo de caso em uma empresa do ramo de varejo de Governador Valadares/MG",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Rayanne Soares de Andrade",
+                "titulo": "Um estudo para implementação de produto no mercado: Alavanca para banco de carro",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Renato Henrique Alves da Silva",
+                "titulo": "Utilização do plugin elementor no desenvolvimento de sites em Wordpress",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Monique Curcio Ferreira",
+                "titulo": "Desenvolvimento de órtese de punho e mão por manufatura aditiva para pacientes acometidos com ler/dort: um estudo de caso",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Rômulo Góes Campos",
+                "titulo": "Estudo de rotas utilizando a pesquisa operacional para otimização dos trajetos de uma vendedora autônoma: Proposta para validação de um escopo de rotas",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Anízia Andrade Werneck Vasconcelos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Letícia de Almeida Queiroz",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Igor de Souza Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Pollyana Victoria Ferreira Vasconcelos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Victor Lucas Coelho Ozório",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Rafaela Santiago de Souza",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Patrícia Ferreira Rocha",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Sarah Ihasmin Gomes",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Wemerson Daniel Fernandes dos Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Pedro Victor Estorque Lagares",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Lara Silva Vaz",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "André Luis Araujo Alves",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Maria Rita da Cruz Esteves",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Thiago Batista e Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "João Paulo Soares Boaventura",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Thaís Assunção Queiroga",
+                "titulo": "Ações para minimizar a evasão no IFMG-GV: Curso de Engenharia Ambiental e Sanitária",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Anna Karolina Barbosa da Costa",
+                "titulo": "Comunicação Interna: Uma análise na interação entre funcionários e organização em um hospital em Governador Valadares-MG",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Anna Carollynne Ferreira Dutra Araújo",
+                "titulo": "Análise Comportamental em Call Centers: Otimizando desempenho e experiência do cliente",
+                "ano": "2023",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Amanda Augusta Moreira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Ana Clara Freitas Moreira Mariano",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Anízia Andrade Werneck Vasconcelos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Arthur Figueiredo dos Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Caline Silva Gonçalves",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Camila Correa Carrijo",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Camila Rodrigues Soares",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Christian Amaro Rodrigues",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Dayne Alves da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Eliane Batista dos Santos Moura",
+                "titulo": "Eliane Batista dos Santos Moura",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Fábio Junio Pereira Clemente",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Felipe Montmor Magalhães",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Igor Alves Moreira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "João Pedro Valadares Oliveira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Julia Graziela Santana",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Luiz Gustavo Santos Clementino",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Luiza Araújo Teixeira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Maria Letícia Nascimento Resende",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Nathercia de Araújo Zardini",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Thais Assunção Queiroga",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Thaís da Silva Brandão",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Thayná Souto Queiroz",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Viviane Soares da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Katiele Cardoso",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Igor de Souza Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Matheus Alves Barroso",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Amanda Caroline Chaves de Oliveira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Lourival Pedro Gomes da Silveira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Kethelen Santos Evangelista",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Dayne Alves da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Alejandro Sanzio Viana Barbosa",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Arthur Silva Ramos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Igor Alves Moreira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "José de Oliveira Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Luiz Gustavo Santos Clementino",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Luiza Araújo Teixeira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Thais da Silva Brandão",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Hiata Anderson Campos da Silva Junior",
+                "titulo": "Análise da Implantação de um Software Roteirizador em uma Distribuidora de Alimentos do Leste Mineiro",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Luisa Nery Freire",
+                "titulo": "Análise da Evasão no Curso de Engenharia de Produção Durante o Ensino Remoto Emergencial no Instituto Federal de Minas Gerais - Campus Governador Valadares",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Riam Ferreira Lopes Duarte",
+                "titulo": "Proposta de Projeto de Tutoria para Apoio ao Ensino de Programação de Computadores em Cursos de Engenharia",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Geovane Gualberto de Sá",
+                "titulo": "Monitoria de Lógica de Programação, Programação I e Programação II",
+                "ano": "2021",
+                "curso": "Bacharelado em Engenharia de Produção",
+                "instituicao": "Instituto Federal de Minas Gerais - campus Governador Valadares"
+            },
+            {
+                "orientando": "Afrânio Pereira Froes",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Larissa Gomes Ataíde",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Simário dos Santos Cunha",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Luiz Henrique Bicalho Campos",
+                "titulo": "Desenvolvimento de Um Sistema de Gestão para o Viveiro de Mudas do IFMG-SJE",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Thiago Aparecido do Carmo Alves / William Amaral da Costa",
+                "titulo": "Desenvolvimento de um chatbot para o portal do curso Sistemas de Informação",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "André Sayão Pinto de Brito",
+                "titulo": "Tutoria de Linguagem de Programação I",
+                "ano": "2019",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva / Wandrey Matheus M",
+                "titulo": "da Costa.  Estudo e Desenvolvimento de um Jogo Educacional para o Ensino de Programação Básica",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Afrânio Pereira Frois",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Joel Kennedy da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Larissa Gomes Ataíde",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Wandrey Matheus Moreira da Costa",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Joel Kennedy da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "José Vicente Júnior dos Santos Santiago",
+                "titulo": "Tutoria de Linguagem de Programação I",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Ana Paula Dias Pereira",
+                "titulo": "Desenvolvimento de uma Aplicação para Auxiliar o Processo de Desenvolvimento de Software",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Jéferson Álefe da Silva / Warley Andrade Xavier",
+                "titulo": "Desenvolvimento de um Software para Gerenciamento e Auxílio no Cultivo de Eucalipto",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Angela Aparecida Gonçalves Mourão",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Hudson Pimenta dos Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Jéferson Álefe da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Leonardo Felipe da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Thalita Santos Maia",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Regina Face Cézar Sardinha",
+                "titulo": "Sistemas de Informação em Micro e Pequenas Empresas: Um Estudo Exploratório em São João Evangelista/MG",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Ana Paula Dias Pereira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Ângela Aparecida Gonçalves Mourão",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Davi Hagap Emanuel da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Regina Face Cesar Sardinha",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Cristian Paulo de Moura Silva",
+                "titulo": "Estudo e Desenvolvimento de Software Educacional para a Identificação e Classificação de Insetos: INSECTS",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Thúlio Francys Soares",
+                "titulo": "Tutoria de Linguagem de Programação I",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Cristian Paulo de Moura Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Tatiane de Oliveira Vieira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Juliana Cândido Maria",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Jacenir da Costa Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Iago Marcel Cotta de Oliveira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Luann Rodrigues Marinho",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Jeferson Alefe da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Thalita Santos Maia",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Auro Henrique Pereira Aguiar Junior",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Daniel Pereira de Azevedo / Thúlio Francys Soares",
+                "titulo": "Desenvolvimento de um Sistema de Gerenciamento para a Gráfica Estrela da Manhã",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Roberta Caroline Rodrigues Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Auro Henrique Pereira Aguiar Júnior",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Jeizilene de Jesus Costa",
+                "titulo": "Análise dos Processos Empregados no Desenvolvimento de Software Personalizado e Pacotes de Software",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Gabriel Lisbão da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Geanderson Santiago Fernandes",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Gil Fernando da Silva Fróis",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Fabrício Ariel Soares",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Giovanna Amaral Lopes",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Geferson Ferreira Coelho",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Thiago Leite Salvador",
+                "titulo": "Tutoria de Linguagem de Programação I",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Renê Gomes de Queirós",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "João Antônio Gomes de Almeida Júnior",
+                "titulo": "Tutoria de Linguagem de Programação I",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Érica Alves Machado",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "João Antônio Gomes de Almeida Júnior",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Viviane Alves de Lima",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Wallace de Sales",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Érica Alves Machado /Mário Jorge Neto/ Renê Gomes de Queirós",
+                "titulo": "Estudo e Desenvolvimento de um Software Integrado de Gerenciamento da Reprodução do Gado Leiteiro",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Douglas Souto de Souza / João Paulo Medina Passos",
+                "titulo": "Uma Solução Web para o problema de Alocação de Horários Acadêmicos",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Felipe R",
+                "titulo": "Vieira / José G. S. Rodrigues / Welder G. C. Ramos.  Sistema de Cálculo da produção de madeira sobre a influência de adubações",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Claudinéia Gonçalves de Arruda",
+                "titulo": "Tutoria de Linguagem de Programação I",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Ivan Rodrigo Cardoso Costa",
+                "titulo": "Tutoria de Sistemas Operacionais",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Ailton Alves Ferreira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Camila Godoy de Matos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Diva Kayla de Oliveira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Graciely Neponésia Pinto",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Henrique Gonçalves Rocha",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Juliano de Moura Pinto",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Luman Almeida Araújo Rocha",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Mara Izidoro da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Rosiane Patrícia Flor da Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Stella Maíra Dias Mendes",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Thiago Oliveira Reis",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            },
+            {
+                "orientando": "Welder das Graças Coelho Ramos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Minas Gerais - campus São João Evangelista"
+            }
+        ]
+    }
 }

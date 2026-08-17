@@ -1,108 +1,180 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "Minerais e Materiais",
-            "periodo": "2025",
-            "instituicao": "Centro de Desenvolvimento da Tecnologia Nuclear",
-            "titulo": "Desenvolvimento de Sistema de Medição e Processamento de Sinais para Monitoramento de Fluxo de Massa em Reatores SMR",
-            "orientador": "Daniel de Almeida Magalhães Campolina"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2015 - 2017",
-            "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "titulo": "Estudo do efeito da composição solar no desempenho de módulos FV caracterizados em condições reais de operação",
-            "orientador": "Patrícia Romeiro da Silva Jota"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Civil",
-            "periodo": "2007 - 2009",
-            "instituicao": "Universidade Federal de Minas Gerais"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia Elétrica",
-            "periodo": "2009 - 2012",
-            "instituicao": "Universidade Federal de Minas Gerais"
-        }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Universidade Federal de Minas Gerais",
-            "periodo": "2011 - 2013",
-            "cargo": "Monitor do Dep. de Ciência da Computação, Bolsista de monitoria, Monitor da disciplina de programação de computadores.."
-        },
-        {
-            "empresa": "Fundação para Inovações Tecnológicas",
-            "periodo": "2012 - 2013",
-            "cargo": "Estagiário, Estágio."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2014 - 2019",
-            "cargo": "Professor EBTT, Servidor público."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2013 - 2014",
-            "cargo": "Professor Temporário, Professor do curso técnico em eletrotécnica, lecionando as seguintes disciplinas: Informática aplicada. Eletrônica Geral e Industrial (Teoria e Prática) Máquinas Elétricas (Prática)."
-        },
-        {
-            "empresa": "Clamper Indústria e Comércio SA",
-            "periodo": "2014 - 2014",
-            "cargo": "Analista de Suporte Técnico ao Cliente."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2019",
-            "cargo": "Professor EBTT, Servidor público."
-        },
-        {
-            "empresa": "Centro de Desenvolvimento da Tecnologia Nuclear",
-            "periodo": "2023",
-            "cargo": "."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": "",
-    "comissoes": "",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "R1 -",
-            "periodo": "2023",
-            "natureza": "Desenvolvimento",
-            "equipe": [
-                "Pedro Rodrigues Silva",
-                "Daniel de Almeida Magalhães Campolina",
-                "Natalia Barbosa Gonzaga Mendes",
-                "Daniel Henrique Batista de Magalhães",
-                "Samuel Carlos Pessoa Oliveira",
-                "Lilly Salim Thein",
-                "Thalles Oliveira Campagnani",
-                "Jefferson Quintão Campos Duarte",
-                "Glauber Dorsch"
+    "campus": "- Campus Ribeirão das Neves",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Minerais e Materiais",
+                "periodo": "2025",
+                "instituicao": "Centro de Desenvolvimento da Tecnologia Nuclear",
+                "titulo": "Desenvolvimento de Sistema de Medição e Processamento de Sinais para Monitoramento de Fluxo de Massa em Reatores SMR",
+                "orientador": "Daniel de Almeida Magalhães Campolina"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2015 - 2017",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "titulo": "Estudo do efeito da composição solar no desempenho de módulos FV caracterizados em condições reais de operação",
+                "orientador": "Patrícia Romeiro da Silva Jota"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Civil",
+                "periodo": "2007 - 2009",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2009 - 2012",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "periodo": "2011 - 2013",
+                "cargo": "Monitor do Dep. de Ciência da Computação, Bolsista de monitoria, Monitor da disciplina de programação de computadores.."
+            },
+            {
+                "empresa": "Fundação para Inovações Tecnológicas",
+                "periodo": "2012 - 2013",
+                "cargo": "Estagiário, Estágio."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2014 - 2019",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2013 - 2014",
+                "cargo": "Professor Temporário, Professor do curso técnico em eletrotécnica, lecionando as seguintes disciplinas: Informática aplicada. Eletrônica Geral e Industrial (Teoria e Prática) Máquinas Elétricas (Prática)."
+            },
+            {
+                "empresa": "Clamper Indústria e Comércio SA",
+                "periodo": "2014 - 2014",
+                "cargo": "Analista de Suporte Técnico ao Cliente."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2019",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Centro de Desenvolvimento da Tecnologia Nuclear",
+                "periodo": "2025",
+                "cargo": "Aluno de Doutorado, Pós graduação."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Centro de Desenvolvimento da Tecnologia Nuclear",
+                "nome": "Desenvolvimento de Tecnologias Inteligentes de Medição Baseadas em Fontes Radioativas Desenvolvidas no Reator TRIGA IPR-R1",
+                "periodo": "2025",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Pedro Rodrigues Silva",
+                    "Daniel de Almeida Magalhães Campolina",
+                    "Natalia Barbosa Gonzaga Mendes",
+                    "Daniel Henrique Batista de Magalhães",
+                    "Samuel Carlos Pessoa Oliveira",
+                    "Lilly Salim Thein",
+                    "Thalles Oliveira Campagnani",
+                    "Jefferson Quintão Campos Duarte",
+                    "Glauber Dorsch"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "P. R.,  JOTA, P. R. S.,  BATISTA, A. P.,  Caracterização de painéis fotovoltaicos",
+                    "ano": "2016",
+                    "instituicao_promotora": "CEFET-MG."
+                },
+                {
+                    "autores": "DAVIS JUNIOR",
+                    "titulo": "C. A.,  OLIVEIRA, M. R.,  PASA, G. D.,  SILVA, M. C.,  SILVA, P. R.,  VITORIANO, M. M. F.,  ASSIS JUNIOR, M. L.,  COELHO, O. M. A.,  COSTA, T. S.,  FARIA, J. N. C.,  FONSECA, P. S.,  LEITE, D. V. M.,  MARRA, R. F.,  MIRANDA, G. M. T.,  PMG 085 - Monitoria do Departamento de Ciência da Computação",
+                    "ano": "2012",
+                    "instituicao_promotora": "UNIVERSIDADE FEDERAL DE MINAS GERAIS."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "XAVIER",
+                    "evento": "G. C.,  BRANDAO, M. A.,  TOMAZ, P. A.,  SILVA, P. M. S.,  FURLETTI, S.,  SOUSA, V. A.,  PEREIRA, M. H. R.,  ANACLETO, C. A.,  SILVA, P. R.,  MARTINS, L. M. R.,  MARRA, W. G.,  JESUS, C. S. M.,  ELLER, G. N. G. P.,  JUSTINO, G. S.,  Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "XAVIER",
+                    "evento": "G. C.,  SILVA, P. R.,  SIMA, A. M.,  RODRIGUES, A. P. S.,  SOBRAL, D. S. M.,  MARTINS, L. M. R.,  PEREIRA, M. H. R.,  FURLETTI, S.,  MARRA, W. G.,  Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "BERNARDO",
+                    "evento": "P. C. M.,  SILVA, P. R.,  MENEGHINI, I. R.,  MELO, I. N. R.,  PAULA, O. J.,  CARVALHO, G. M. A.,  PEREIRA, D. D.,  ROSARIO, F. R.,  Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais - Campus Ibirité."
+                }
             ]
         }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SANTOS HERNANI, S.",
+                "titulo": "SANTOS, LORENA C. T.L.;  SILVA, PEDRO R.;  BATISTA, ANA P.;  JOTA, PATRÍCIA R. S.;  Applicability of One-Diode Circuit Model to a PV Module in Real Environmental Conditions of Temperature, Air Mass, UV and Global Radiation",
+                "ano": "2018",
+                "periodico": "RENEWABLE ENERGY & POWER QUALITY JOURNAL (RE&PQJ). ISBN: 2172038X   ."
+            },
+            {
+                "autores": "SILVA, PEDRO RODRIGUES",
+                "titulo": "DA SILVA JOTA, PATRÍCIA ROMEIRO;  BATISTA, ANA PAULA;  PV Characterization System Outdoors-Case Study in Brazil",
+                "ano": "2017",
+                "periodico": "Journal of Power and Energy Engineering. ISBN: 23275901   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "TEIXEIRA, LÍVIA FERNANDES",
+                "titulo": "SILVA, PEDRO RODRIGUES; DESENVOLVIMENTO DE PROTÓTIPOS PARA UTILIZAÇÃO EM AULAS PRÁTICAS DE ELETRÔNICA ANALÓGICA",
+                "evento": "Planeta IFMG 2025",
+                "local": "IFMG Campus Ribeirão das Neves",
+                "ano": "2025"
+            },
+            {
+                "autores": "SILVA, P. R.",
+                "titulo": "SANTOS, H",
+                "evento": "P. S.; BRAGA",
+                "local": "L. R.; SILVA, L. F. G.; TRAÇADOR DE CURVAS IxV DE UM PAINEL FOTOVOLTAICO PARA AVALIAÇÕES DE DESEMPENHO EM CONDIÇÕES REAIS DE OPERAÇÃO. XXII Congresso Brasileiro de Automática, João Pessoa",
+                "ano": "2018"
+            },
+            {
+                "autores": "MAFRA JUNIOR, J. J.",
+                "titulo": "LACERDA, R",
+                "evento": "N.; SILVA",
+                "local": "P. R.; GUIMARAES, D. S.; LEITAO, C. A.; Equipamento para teste automático de qualidade de energia e harmônicos.. X Conferência Brasileira sobre Qualidade da Energia Elétrica, Araxá",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

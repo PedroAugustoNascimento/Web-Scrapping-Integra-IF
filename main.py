@@ -5,7 +5,6 @@ def main():
         scrapper = Scrapper()
 
         scrapper.acessar_site("https://integra.ifmg.edu.br/ecossistema/pessoas")
-
         scrapper.selecionar_filtro_e_buscar("Ciência da Computação")
         urls = scrapper.coletar_todas_urls()
         scrapper.processar_perfis(urls)

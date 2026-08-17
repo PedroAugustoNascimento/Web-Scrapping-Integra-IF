@@ -1,77 +1,109 @@
 {
-    "formacao": [
-        {
-            "nivel": "Especialização",
-            "curso": "EAD",
-            "periodo": "2025",
-            "instituicao": "Instituto Federal do Sudeste de Minas Gerais",
-            "orientador": "Rossini Pena Abrantes"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "ARQUITETURA DE SOFTWARE",
-            "periodo": "2024 - 2025",
-            "instituicao": "FI - FACULDADE IGUAÇU",
-            "orientador": "não se aplica"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "TUTORIA EAD E DOCÊNCIA DO ENSINO SUPERIOR",
-            "periodo": "2024 - 2025",
-            "instituicao": "FI - FACULDADE IGUAÇU",
-            "orientador": "não se aplica"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "DESENVOLVIMENTO DE SISTEMAS COM JAVA",
-            "periodo": "2024 - 2025",
-            "instituicao": "FI - FACULDADE IGUAÇU",
-            "orientador": "não se aplica"
-        },
-        {
-            "nivel": "Especialização",
-            "curso": "Gestão na Educação Profissional e Tecnológica",
-            "periodo": "2025",
-            "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-            "orientador": "não se aplica"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "em Matemática",
-            "periodo": "2024",
-            "instituicao": "Instituto Pedagógico de Minas Gerais"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Ciência da Computação",
-            "periodo": "2008 - 2016",
-            "instituicao": "Instituto Federal do Sudeste de Minas Gerais"
+    "campus": "- Campus Avançado Ponte Nova",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "EAD",
+                "periodo": "2025",
+                "instituicao": "Instituto Federal do Sudeste de Minas Gerais",
+                "orientador": "Rossini Pena Abrantes"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "ARQUITETURA DE SOFTWARE",
+                "periodo": "2024 - 2025",
+                "instituicao": "FI - FACULDADE IGUAÇU",
+                "orientador": "não se aplica"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "TUTORIA EAD E DOCÊNCIA DO ENSINO SUPERIOR",
+                "periodo": "2024 - 2025",
+                "instituicao": "FI - FACULDADE IGUAÇU",
+                "orientador": "não se aplica"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "DESENVOLVIMENTO DE SISTEMAS COM JAVA",
+                "periodo": "2024 - 2025",
+                "instituicao": "FI - FACULDADE IGUAÇU",
+                "orientador": "não se aplica"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão na Educação Profissional e Tecnológica",
+                "periodo": "2025",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "orientador": "não se aplica"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Matemática",
+                "periodo": "2024",
+                "instituicao": "Instituto Pedagógico de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2008 - 2016",
+                "instituicao": "Instituto Federal do Sudeste de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Escola Estadual Raul Soares",
+                "periodo": "2024 - 2025",
+                "cargo": "PEB Informática - designado."
+            },
+            {
+                "empresa": "EE Marcio Nicolato",
+                "periodo": "2025 - 2025",
+                "cargo": "PEB informática - Designado Temporário."
+            },
+            {
+                "empresa": "Instituto Mix Cataguases",
+                "periodo": "2019 - 2019",
+                "cargo": "Instrutor de Informática, Ministração de aulas práticas e teóricas em cursos de informática, incluindo programação, desenvolvimento web e pacote Office. Acompanhamento do desempenho dos alunos por meio de ferramentas digitais, como o aplicativo Jeito IM do Instrutor. Atuação na preparação e revisão de conteúdos técnicos, adaptação de materiais didáticos, aplicação de avaliações e gestão pedagógica, considerando frequência, progresso e necessidades individuais. Responsável por esclarecer dúvidas e promover um ambiente de ensino acolhedor e motivador.."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2025",
+                "cargo": "Professor Substituto."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTOS",
+                    "titulo": "B. U.,  Minicurso - Desenvolvimento de Sites com Wordpress",
+                    "ano": "2019",
+                    "instituicao_promotora": "IF Sudeste Campus avançado Cataguases."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "B. U.,  Desenvolvimento de Site com Wordpress",
+                    "ano": "2019",
+                    "instituicao_promotora": "IFSudeste-MG Campus Cataguases."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Escola Estadual Raul Soares",
-            "periodo": "2024 - 2025",
-            "cargo": "PEB Informática - designado."
-        },
-        {
-            "empresa": "EE Marcio Nicolato",
-            "periodo": "2025 - 2025",
-            "cargo": "PEB informática - Designado Temporário."
-        },
-        {
-            "empresa": "Instituto Mix Cataguases",
-            "periodo": "2019 - 2019",
-            "cargo": "Instrutor de Informática, Ministração de aulas práticas e teóricas em cursos de informática, incluindo programação, desenvolvimento web e pacote Office. Acompanhamento do desempenho dos alunos por meio de ferramentas digitais, como o aplicativo Jeito IM do Instrutor. Atuação na preparação e revisão de conteúdos técnicos, adaptação de materiais didáticos, aplicação de avaliações e gestão pedagógica, considerando frequência, progresso e necessidades individuais. Responsável por esclarecer dúvidas e promover um ambiente de ensino acolhedor e motivador.."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2025",
-            "cargo": "Professor Substituto."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": "",
-    "comissoes": "",
-    "projetos": []
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
 }

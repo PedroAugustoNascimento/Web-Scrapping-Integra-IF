@@ -1,63 +1,141 @@
 {
-    "formacao": [
-        {
-            "nivel": "Doutorado",
-            "curso": "CIÊNCIA DA COMPUTAÇÃO",
-            "periodo": "2018 - 2024",
-            "instituicao": "Universidade Federal de Ouro Preto",
-            "titulo": "Inferência Gramatical: Aplicações em Composição Algorítmica para Modelagem de Sequência de Acordes",
-            "orientador": "GLADSTON JULIANO PRATES MOREIRA"
-        },
-        {
-            "nivel": "Mestrado",
-            "curso": "Modelagem Matemática e Computacional",
-            "periodo": "2015 - 2017",
-            "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "titulo": "Combinando Regras e Proporções: Uma Abordagem Multi-Objetivo para Composição Musical Algorítmica",
-            "orientador": "Vinícius Fernandes dos Santos"
-        },
-        {
-            "nivel": "Graduação",
-            "curso": "Engenharia de Computação",
-            "periodo": "2008 - 2014",
-            "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+    "campus": "- Campus Ibirité",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "periodo": "2018 - 2024",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "Inferência Gramatical: Aplicações em Composição Algorítmica para Modelagem de Sequência de Acordes",
+                "orientador": "GLADSTON JULIANO PRATES MOREIRA"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Matemática e Computacional",
+                "periodo": "2015 - 2017",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "titulo": "Combinando Regras e Proporções: Uma Abordagem Multi-Objetivo para Composição Musical Algorítmica",
+                "orientador": "Vinícius Fernandes dos Santos"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2008 - 2014",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal do Sudeste de Minas Gerais",
+                "periodo": "2017 - 2018",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "periodo": "2025",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "periodo": "2021 - 2025",
+                "cargo": "Professor, Civil servant."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Centro Federal de Educação Tecnológica de Minas Gerais\nGraduacao (2025 - 2025) - Engenharia De Computação.\nEnsino-medio (2025 - 2025) .\nGraduacao (2024 - 2024) - Engenharia De Computação.\nGraduacao (2024 - 2025) - Engenharia De Computação.\nGraduacao (2021 - 2021) - Engenharia De Computação.\nGraduacao (2021 - 2021) - Engenharia De Computação.\nGraduacao (2021 - 2022) - Engenharia De Computação.\nExtensão Universitária: Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais: Música Em Conjunto: Formação De Bandas Institucionais (2025) - Música Em Conjunto: Formação De Bandas Institucionais.",
+        "comissoes": ": Centro Federal de Educação Tecnológica de Minas Gerais\nPresidente De Comissão Análise Dos Relatórios Individuais Docentes (rids) Do Departamento De Computação De Leopoldina (2025 - 2025).\nRepresentando Suplente De Colegiado Do Curso De Engenharia Da Computação (2024 - 2025).\nPresidente De Comissão De Avaliação Para Análise De Mérito Do Projeto De Extensão: Iii Hackathon (2024 - 2024).\nPresidente De Comissão De Avaliação Para Análise De Mérito Do Projeto De Extensão: Mocitec Mg 2025 (2024 - 2024).\nPresidente De Comissão De Avaliação Para Análise De Mérito Do Projeto De Extensão: Falaê 2025 (2024 - 2024).\nPresidente De Comissão De Avaliação Para Análise De Mérito Do Projeto De Extensão: 2024- Ecossistema De Desenvolvimento De Aplicações E Soluções Para Iot Utilizando A Infraestrutura De Rede Lora Da Atc (2024 - 2024).\nMembro De Núcleo Docente Estruturante Do Curso De Engenharia De Computação Do Campus Leopoldina (2021 - 2022).",
+        "projetos": [
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "nome": "Inferência de Gramáticas Livres de Contextos Inspirada no Lema do Bombeamento",
+                "periodo": "2024 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Henrique Barros Lopes"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LOPES",
+                    "titulo": "H. B.,  FREITAS, A. R. R.,  Probabilistic (k; l)-Context-Sensitive Grammar Inference with Gibbs Sampling Applied to Chord Sequences",
+                    "ano": "2021",
+                    "instituicao_promotora": "Institute for Systems and Technologies of Information, Control and Communication."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
         }
-    ],
-    "atuacoes_profissionais": [
-        {
-            "empresa": "Instituto Federal do Sudeste de Minas Gerais",
-            "periodo": "2017 - 2018",
-            "cargo": "Professor Substituto."
-        },
-        {
-            "empresa": "Centro Federal de Educação Tecnológica de Minas Gerais",
-            "periodo": "2021 - 2025",
-            "cargo": "Professor, Civil servant."
-        },
-        {
-            "empresa": "Instituto Federal Minas Gerais",
-            "periodo": "2025",
-            "cargo": "Professor EBTT, Servidor público."
-        }
-    ],
-    "direcao_administracao": "",
-    "ensino": ": Instituto Federal Minas Gerais\nEnsino-medio (2025) .\nEnsino-medio (2025) .\nExtensão Universitária: Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais: Música Em Conjunto: Formação De Bandas Institucionais (2025) - Música Em Conjunto: Formação De Bandas Institucionais.",
-    "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Organizadora Do Eventos Consciência Negra 2025 (2025).\nMembro Da Comissçao Para Elaboração Do Projeto Pedagógico De Curso (ppc) Do Curso Técnico Integrado De Informática (2025).",
-    "projetos": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-            "nome": "Bombeamento -",
-            "periodo": "2024 - 2025",
-            "natureza": "Pesquisa",
-            "equipe": [
-                "Henrique Barros Lopes"
-            ]
-        }
-    ]
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "LOPES, HENRIQUE BARROS",
+                "titulo": "MATIAS, WENDELL REIS MILANI; Aplicação de Modelo de Atenção para o Problema do Reparador Viajante",
+                "evento": "LVII SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL",
+                "local": "Gramado",
+                "ano": "2025"
+            },
+            {
+                "autores": "LOPES, HENRIQUE",
+                "titulo": "FREITAS, ALAN; Probabilistic (k,l)-Context-Sensitive Grammar Inference with Gibbs Sampling Applied to Chord Sequences",
+                "evento": "13th International Conference on Agents and Artificial Intelligence",
+                "local": "Online Streaming",
+                "ano": "2021"
+            },
+            {
+                "autores": "LOPES, HENRIQUE BARROS",
+                "titulo": "CARDOSO, RODRIGO T",
+                "evento": "N.; DOS SANTOS",
+                "local": "VINICIUS FERNANDES; Combining rules and proportions: A multiobjective approach to algorithmic composition. 2017 IEEE Congress on Evolutionary Computation (CEC), Donostia",
+                "ano": "2017"
+            },
+            {
+                "autores": "LOPES, H. B.",
+                "titulo": "SARUBBI, J",
+                "evento": "F. M.; Modelos e Algoritmos para o Problema da Diversidade Máxima. Simpósio Brasileiro de Pesquisa Operacional",
+                "local": "Salvador-BA",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Pedro Fernandes de Sá Almeida",
+                "titulo": "Transcrição Automática de Partituras Baseada em Extração de Timbres",
+                "ano": "2025",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            },
+            {
+                "orientando": "Wendell Reis Milani Matias",
+                "titulo": "Algoritmos Ótimos para Solucionar Variantes do Problema do Reparador Viajante Orientados por Machine Learning",
+                "ano": "2024",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            },
+            {
+                "orientando": "Vitor Hugo Mota Soares",
+                "titulo": "Algoritmos Ótimos para Solucionar Variantes do Problema do Reparador Viajante Múltiplo com Janelas de Tempo Orientados por Machine Learning",
+                "ano": "2024",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            },
+            {
+                "orientando": "Gabriel Medeiros Macedo",
+                "titulo": "Inferência de Gramáticas Livres de Contextos Inspirada no Lema do Bombeamento",
+                "ano": "2024",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            }
+        ]
+    }
 }
