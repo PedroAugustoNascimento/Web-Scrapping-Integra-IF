@@ -302,5 +302,18 @@
                 "instituicao": "Faculdade de Santa Luzia"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.820087909698486,
+            "indian": 6.000908851623535,
+            "black": 1.6405465602874756,
+            "white": 37.3283576965332,
+            "middle eastern": 25.779735565185547,
+            "latino hispanic": 22.430362701416016
+        }
     }
 }

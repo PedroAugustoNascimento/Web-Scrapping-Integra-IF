@@ -237,5 +237,18 @@
                 "instituicao": "Instituto Federal de Mato Grosso Campus Sorriso"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "black",
+        "raca_ibge": "Preta",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 14.007828712463379,
+            "indian": 11.146347045898438,
+            "black": 35.780967712402344,
+            "white": 7.286895751953125,
+            "middle eastern": 7.118459701538086,
+            "latino hispanic": 24.65950584411621
+        }
     }
 }

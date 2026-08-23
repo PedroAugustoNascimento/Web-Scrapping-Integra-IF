@@ -513,5 +513,18 @@
                 "instituicao": "Universidade Federal Fluminense"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.7349115014076233,
+            "indian": 0.7450174689292908,
+            "black": 0.045411307364702225,
+            "white": 58.54148864746094,
+            "middle eastern": 15.737922668457031,
+            "latino hispanic": 24.19524574279785
+        }
     }
 }

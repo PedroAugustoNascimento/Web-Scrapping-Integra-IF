@@ -993,5 +993,18 @@
                 "instituicao": "UNIPAC - Universidade Presidente Antônio Carlos"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Não Identificado",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 5.533788204193115,
+            "indian": 8.590693473815918,
+            "black": 2.554755926132202,
+            "white": 26.225921630859375,
+            "middle eastern": 29.25143814086914,
+            "latino hispanic": 27.84341049194336
+        }
     }
 }

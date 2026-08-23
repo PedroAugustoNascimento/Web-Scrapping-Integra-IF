@@ -631,5 +631,18 @@
                 "instituicao": "Universidade Anhanguera Ltda"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.09177963435649872,
+            "indian": 0.23947137594223022,
+            "black": 0.026592658832669258,
+            "white": 67.90463256835938,
+            "middle eastern": 18.113666534423828,
+            "latino hispanic": 13.623851776123047
+        }
     }
 }

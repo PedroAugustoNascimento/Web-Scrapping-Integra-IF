@@ -387,5 +387,18 @@
                 "instituicao": "Instituto Federal do Sudeste de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.26288101077079773,
+            "indian": 0.3926820158958435,
+            "black": 0.16314443945884705,
+            "white": 70.14788818359375,
+            "middle eastern": 14.55865478515625,
+            "latino hispanic": 14.474747657775879
+        }
     }
 }

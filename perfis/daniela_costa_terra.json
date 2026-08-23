@@ -417,5 +417,18 @@
                 "instituicao": "Centro Universitário Presidente Antônio Carlos"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0354873351752758,
+            "indian": 0.03652304410934448,
+            "black": 0.0021367024164646864,
+            "white": 90.47786712646484,
+            "middle eastern": 4.614159107208252,
+            "latino hispanic": 4.833831787109375
+        }
     }
 }

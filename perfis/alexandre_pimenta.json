@@ -438,5 +438,18 @@
                 "instituicao": "Universidade Federal de Uberlândia"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Não Identificado",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.134192943572998,
+            "indian": 15.302206039428711,
+            "black": 5.938037395477295,
+            "white": 20.15878677368164,
+            "middle eastern": 27.348743438720703,
+            "latino hispanic": 25.1180362701416
+        }
     }
 }

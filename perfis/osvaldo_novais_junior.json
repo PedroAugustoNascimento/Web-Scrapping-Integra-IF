@@ -199,5 +199,18 @@
     },
     "producao_outra": {
         "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Não Identificado",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.3218172788619995,
+            "indian": 4.957995891571045,
+            "black": 0.14283721148967743,
+            "white": 39.873252868652344,
+            "middle eastern": 40.41221237182617,
+            "latino hispanic": 14.291884422302246
+        }
     }
 }

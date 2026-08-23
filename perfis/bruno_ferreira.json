@@ -611,5 +611,18 @@
                 "instituicao": "Fundação Educacional de Oliveira"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 13.119991302490234,
+            "indian": 14.297466278076172,
+            "black": 5.769350528717041,
+            "white": 15.316182136535645,
+            "middle eastern": 15.737841606140137,
+            "latino hispanic": 35.75917053222656
+        }
     }
 }

@@ -264,5 +264,18 @@
                 "instituicao": "Instituto Federal do Norte de Minas Gerais - Campus Araçuaí"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 54.20002746582031,
+            "indian": 8.953498840332031,
+            "black": 3.0346992015838623,
+            "white": 7.145569324493408,
+            "middle eastern": 3.2303943634033203,
+            "latino hispanic": 23.43581199645996
+        }
     }
 }

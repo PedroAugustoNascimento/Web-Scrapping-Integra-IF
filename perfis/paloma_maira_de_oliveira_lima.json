@@ -779,5 +779,18 @@
                 "instituicao": "Faculdades Integradas do Oeste de Minas"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.736118793487549,
+            "indian": 2.824392080307007,
+            "black": 0.585540771484375,
+            "white": 49.99986267089844,
+            "middle eastern": 21.45917510986328,
+            "latino hispanic": 21.394906997680664
+        }
     }
 }

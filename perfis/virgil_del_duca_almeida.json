@@ -911,5 +911,18 @@
                 "instituicao": "Anhanguera"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.007044803351163864,
+            "indian": 0.10036004334688187,
+            "black": 0.0009018465643748641,
+            "white": 86.90746307373047,
+            "middle eastern": 9.324507713317871,
+            "latino hispanic": 3.659719228744507
+        }
     }
 }

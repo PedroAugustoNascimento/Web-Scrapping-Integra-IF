@@ -1336,5 +1336,18 @@
                 "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 38.88877487182617,
+            "indian": 10.841235160827637,
+            "black": 7.381026268005371,
+            "white": 11.526917457580566,
+            "middle eastern": 8.883872985839844,
+            "latino hispanic": 22.47817611694336
+        }
     }
 }

@@ -108,5 +108,18 @@
     },
     "producao_outra": {
         "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 4.008224964141846,
+            "indian": 5.198420524597168,
+            "black": 4.416093826293945,
+            "white": 41.38249969482422,
+            "middle eastern": 20.285202026367188,
+            "latino hispanic": 24.709558486938477
+        }
     }
 }

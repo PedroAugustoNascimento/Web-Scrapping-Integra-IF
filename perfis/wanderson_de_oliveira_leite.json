@@ -709,5 +709,18 @@
                 "instituicao": "INSTITUTO DE ARTE E PROJETO"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 4.714004262496019e-06,
+            "indian": 0.00012269114085938781,
+            "black": 6.100871701164579e-07,
+            "white": 98.46306610107422,
+            "middle eastern": 0.6833376884460449,
+            "latino hispanic": 0.8534747362136841
+        }
     }
 }

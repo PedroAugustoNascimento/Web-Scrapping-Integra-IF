@@ -408,5 +408,18 @@
                 "instituicao": "Universidade do Estado de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.25979745388031006,
+            "indian": 0.550926148891449,
+            "black": 0.03168318048119545,
+            "white": 64.86763000488281,
+            "middle eastern": 17.399545669555664,
+            "latino hispanic": 16.89041519165039
+        }
     }
 }

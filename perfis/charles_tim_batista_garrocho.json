@@ -818,5 +818,18 @@
                 "instituicao": "INSTITUTO FEDERAL DO PARANA"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.010174416936933994,
+            "indian": 0.17206653952598572,
+            "black": 0.0039733583107590675,
+            "white": 74.22412109375,
+            "middle eastern": 16.440650939941406,
+            "latino hispanic": 9.149003028869629
+        }
     }
 }

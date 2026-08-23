@@ -688,5 +688,18 @@
                 "instituicao": "Universidade Federal de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.41434556245803833,
+            "indian": 0.8271320462226868,
+            "black": 0.15870776772499084,
+            "white": 64.1056137084961,
+            "middle eastern": 13.118317604064941,
+            "latino hispanic": 21.375883102416992
+        }
     }
 }

@@ -1351,5 +1351,18 @@
                 "instituicao": "Centro Universitário de Formiga"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "indian",
+        "raca_ibge": "Não Identificado",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.3357882499694824,
+            "indian": 44.271080017089844,
+            "black": 4.61773157119751,
+            "white": 6.877954006195068,
+            "middle eastern": 11.050561904907227,
+            "latino hispanic": 29.846881866455078
+        }
     }
 }

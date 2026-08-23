@@ -270,5 +270,18 @@
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Não Identificado",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.9868072271347046,
+            "indian": 8.9322509765625,
+            "black": 1.7333135604858398,
+            "white": 24.590391159057617,
+            "middle eastern": 32.142520904541016,
+            "latino hispanic": 30.614721298217773
+        }
     }
 }

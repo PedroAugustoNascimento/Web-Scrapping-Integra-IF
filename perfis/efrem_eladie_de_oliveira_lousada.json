@@ -587,5 +587,18 @@
                 "instituicao": "Faculdade Pitágoras - Matriz"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.5566652417182922,
+            "indian": 1.0420868396759033,
+            "black": 0.1304224580526352,
+            "white": 56.12918472290039,
+            "middle eastern": 17.595115661621094,
+            "latino hispanic": 24.546527862548828
+        }
     }
 }

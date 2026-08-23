@@ -344,5 +344,18 @@
                 "instituicao": "Instituto Federal Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 0.0037981788627803326,
+            "indian": 0.03984300419688225,
+            "black": 0.0036164168268442154,
+            "white": 90.9019775390625,
+            "middle eastern": 5.7478108406066895,
+            "latino hispanic": 3.3029444217681885
+        }
     }
 }
