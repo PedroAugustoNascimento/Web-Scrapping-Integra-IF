@@ -765,5 +765,18 @@
                 "instituicao": "IFMG/Campus Betim"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.2102956771850586,
+            "indian": 7.584863185882568,
+            "black": 1.6259647607803345,
+            "white": 30.302947998046875,
+            "middle eastern": 34.40414047241211,
+            "latino hispanic": 22.871789932250977
+        }
     }
 }

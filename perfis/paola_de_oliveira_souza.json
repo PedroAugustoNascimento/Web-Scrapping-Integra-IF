@@ -267,5 +267,18 @@
     },
     "producao_outra": {
         "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.040491580963135,
+            "indian": 16.746557235717773,
+            "black": 3.9089488983154297,
+            "white": 8.045092582702637,
+            "middle eastern": 7.399483680725098,
+            "latino hispanic": 56.85942077636719
+        }
     }
 }

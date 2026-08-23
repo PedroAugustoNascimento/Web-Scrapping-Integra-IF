@@ -783,5 +783,18 @@
                 "instituicao": "Instituto Federal de Minas Gerais - Câmpus Avançado de Ponte Nova"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.696387767791748,
+            "indian": 9.501099586486816,
+            "black": 2.5667707920074463,
+            "white": 25.676502227783203,
+            "middle eastern": 21.672805786132812,
+            "latino hispanic": 32.88642501831055
+        }
     }
 }

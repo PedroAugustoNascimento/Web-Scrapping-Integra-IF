@@ -622,5 +622,18 @@
                 "instituicao": "Pontifícia Universidade Católica de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 0.04821470007300377,
+            "indian": 0.6725251078605652,
+            "black": 0.005868519656360149,
+            "white": 44.69954299926758,
+            "middle eastern": 28.608081817626953,
+            "latino hispanic": 25.965770721435547
+        }
     }
 }

@@ -370,5 +370,18 @@
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 0.98,
+        "probabilidades_originais": {
+            "asian": 0.0027447897009551525,
+            "indian": 0.011078352108597755,
+            "black": 0.00022825581254437566,
+            "white": 93.0680923461914,
+            "middle eastern": 3.0532572269439697,
+            "latino hispanic": 3.864604949951172
+        }
     }
 }

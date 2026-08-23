@@ -492,5 +492,18 @@
                 "instituicao": "Centro Universitário de Belo Horizonte - UNIBH"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.527134895324707,
+            "indian": 14.87739372253418,
+            "black": 2.897092580795288,
+            "white": 18.65935707092285,
+            "middle eastern": 23.435693740844727,
+            "latino hispanic": 30.60332489013672
+        }
     }
 }

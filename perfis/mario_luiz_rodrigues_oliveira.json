@@ -408,5 +408,18 @@
                 "instituicao": "Universidade Federal de Lavras"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 12.661604881286621,
+            "indian": 11.720948219299316,
+            "black": 3.4224905967712402,
+            "white": 14.66488265991211,
+            "middle eastern": 9.49240779876709,
+            "latino hispanic": 48.03766632080078
+        }
     }
 }

@@ -31,14 +31,15 @@ class Recognition:
             return obj.item()
         raise TypeError(f"Tipo não serializável: {type(obj)}")
 
+    # conversão da raça detectada pelo DeepFace para a classificação do IBGE
     def mapear_raca_ibge(self, deepface_race):
         mapeamento = {
             'white': 'Branca',
             'black': 'Preta',
             'asian': 'Amarela',
             'latino hispanic': 'Parda',
-            #'middle eastern': 'Parda',
-            #'indian': 'Parda' 
+            'middle eastern': 'Parda',
+            'indian': 'Parda' 
         }
         return mapeamento.get(deepface_race, 'Não Identificado')
 
@@ -67,11 +68,13 @@ class Recognition:
                 imagem = cv2.imread(str(imagem_path))
                 if imagem is None:
                     raise Exception(f"Não foi possivel carregar a imagem: {imagem_path}")
-                    
+
+                #tratamento do nome da pessoa para exibição, removendo acentos e formatando para título
                 nome_pessoa = self.remover_acentos(imagem_path.stem)
                 nome_pessoa = nome_pessoa.replace('_', ' ').title()
                 
                 print(f"Analisando: {nome_pessoa}...")
+                # reconhecimento racial usando DeepFace com backend MTCNN para detecção de rosto
                 resultado = DeepFace.analyze(imagem, actions=["race"], detector_backend="mtcnn", enforce_detection=False) # enforce_detection=False evita quebrar se o rosto estiver parcial
                 
                 if isinstance(resultado, list) and resultado:
@@ -113,7 +116,6 @@ class Recognition:
                             print(f"-> Erro ao atualizar o arquivo JSON {caminho_json_alvo.name}: {e}")
                     else:
                         print(f"-> AVISO: Arquivo JSON não encontrado para {nome_pessoa} ({caminho_json_alvo})")
-                    # --- FIM DA ATUALIZAÇÃO DO JSON ---
                     
                     #print("Probabilidades do Modelo Original:")
                     #for race, percentage in resultado[0]['race'].items():

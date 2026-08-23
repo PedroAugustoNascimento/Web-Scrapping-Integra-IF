@@ -465,5 +465,18 @@
                 "instituicao": "Centro Federal de Educação Tecnológica de Bambuí"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 5.5881582738948055e-06,
+            "indian": 3.433706660871394e-05,
+            "black": 4.260772357156384e-08,
+            "white": 99.5201416015625,
+            "middle eastern": 0.32703205943107605,
+            "latino hispanic": 0.15277402102947235
+        }
     }
 }

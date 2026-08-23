@@ -651,5 +651,18 @@
                 "instituicao": "Centro Universitário do Leste de Minas Gerais"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.02019857056438923,
+            "indian": 0.04728226363658905,
+            "black": 0.0018775182543322444,
+            "white": 86.95561981201172,
+            "middle eastern": 5.446384429931641,
+            "latino hispanic": 7.528640270233154
+        }
     }
 }

@@ -591,5 +591,18 @@
                 "instituicao": "Fundação Comunitária de Ensino Superior de Itabira"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.8577568531036377,
+            "indian": 4.787437915802002,
+            "black": 0.9904853105545044,
+            "white": 37.8031005859375,
+            "middle eastern": 32.27149963378906,
+            "latino hispanic": 22.289714813232422
+        }
     }
 }

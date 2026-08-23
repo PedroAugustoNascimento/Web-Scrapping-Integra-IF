@@ -286,5 +286,18 @@
                 "instituicao": "Universidade Federal de Ouro Preto"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 0.93,
+        "probabilidades_originais": {
+            "asian": 0.23701098561286926,
+            "indian": 9.61396312713623,
+            "black": 0.17907710373401642,
+            "white": 13.480266571044922,
+            "middle eastern": 62.5366325378418,
+            "latino hispanic": 13.953049659729004
+        }
     }
 }

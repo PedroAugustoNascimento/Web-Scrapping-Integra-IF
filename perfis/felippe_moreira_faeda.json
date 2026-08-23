@@ -235,5 +235,18 @@
                 "instituicao": "IFMG Campus Avançado Ponte Nova"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00201750872656703,
+            "indian": 0.08245518803596497,
+            "black": 0.002479635877534747,
+            "white": 84.69124603271484,
+            "middle eastern": 11.27426815032959,
+            "latino hispanic": 3.9475395679473877
+        }
     }
 }
