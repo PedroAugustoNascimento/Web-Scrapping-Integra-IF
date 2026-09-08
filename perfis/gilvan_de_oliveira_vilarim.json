@@ -1,0 +1,901 @@
+{
+    "campus": "- Campus São João de Meriti",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Serviço Social",
+                "periodo": "2007 - 2012",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "titulo": "Trabalho, suas transformações e a questão da produção de software no capitalismo contemporâneo",
+                "orientador": "Giuseppe Cocco"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Sistemas e Computação",
+                "periodo": "1998 - 2002",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "titulo": "Inovação e recursos humanos: um estudo de casos em empresas de informática do Rio de Janeiro",
+                "orientador": "Lidia Micaela Segre"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para a Educação Profissional e Tecnológica",
+                "periodo": "2020 - 2020",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "orientador": "Roni Costa Ferreira"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Neuroeducação",
+                "periodo": "2025",
+                "instituicao": "Faculdade Focus"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Modalidade Informática",
+                "periodo": "1988 - 1992",
+                "instituicao": "Universidade do Estado do Rio de Janeiro"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Pedagogia",
+                "periodo": "2016 - 2016",
+                "instituicao": "Instituto Superior de Educação do Rio de Janeiro"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Informática",
+                "periodo": "2023 - 2025",
+                "instituicao": "Centro Universitário Leonardo da Vinci"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Knack Projetos e Consultoria",
+                "periodo": "1993 - 1993",
+                "cargo": "Consultor técnico pleno, Projeto de Automação de Escritórios da Companhia Vale do Rio Doce / Superintendência de Meio Ambiente: Definição e padronização de formulários e documentos utilizados pela superintendência; desenvolvimento de Sistema de Geração de Documentos com linguagem de macros WordPerfect.Projeto de Automação de Escritórios da Companhia Vale do Rio Doce / Secretaria Geral da Presidência: Revisão dos fluxos de Informações e documentos da secretaria; treinamento dos usuários da superintendência em Windows 3.1 e WordPerfect 5.1 para Windows.Projeto de Automação de Escritórios da Rio Doce Geologia e Mineração S/A - DOCEGEO: Levantamento técnico do parque de hardware e software da empresa.."
+            },
+            {
+                "empresa": "Arthur Andersen S C",
+                "periodo": "1993 - 1995",
+                "cargo": "Auditor de Sistemas, Participação em projetos de auditoria contábil. Auditoria de balanços na Ferreira Guimarães e Wal Petróleo; revisão de sistemas para suporte a auditoria contábil na UAP Seguros (Provisão para Prêmios Não-Ganhos), Liquid Carbonic (Estoque e Materiais) e Sul América Seguros (Prêmios Não-Ganhos, Correção Monetária Integral). Participação em projetos de auditoria de sistemas em CRM (Computer Risk Management): revisão do ambiente geral de informática (Cia. Cervejaria Brahma); auditoria de sistemas em desenvolvimento (IBF - Indústria Brasileira de Filmes); extrações em bancos de dados para suporte à auditoria (Sul América Seguros e Banco Bamerindus); suporte ao treinamento interno EDP Basics.."
+            },
+            {
+                "empresa": "Companhia Vale do Rio Doce",
+                "periodo": "1993 - 1993",
+                "cargo": "Programador, Planejamento e execução de serviços de programação e treinamento na Superintendência de Ferrosos via Better Seleção de Pessoal, utilizando o pacote Microsoft Office e Windows 3.1."
+            },
+            {
+                "empresa": "Companhia Vale do Rio Doce",
+                "periodo": "1991 - 1992",
+                "cargo": "Estagiário, Bolsista, Superintendência de Informática: Atendimento a usuário em configuração de hardware; suporte aos softwares Framework III, dBase IV, Lotus Freelance Plus, MS-DOS, Windows; Estudo/avaliação de softwares de proteção e antivírus; Suporte a instalação de novos equipamentos e softwares; Controle de inventário de hardware e software; Estudo e testes de novos softwares: DOS 5.0, Windows 3.x, WordPerfect para Windows e Excel para Windows; Revisão do Sistema de Estatística de Utilização de Microcomputadores SEUM em Clipper; Elaboração de rotinas de conversão de arquivos para WordPerfect: migração de documentos e bancos de dados; Acompanhamento de projetos de redes locais de na companhia. Superintendência de Controle: Elaboração de modelos para análise do desempenho global da companhia conforme Contrato de Gestão com o Governo; geração de relatórios de controle de redução de despesas de custeio das diversas superintendências da empresa; elaboração do Relatório Mensal de Controle emitido pela superintendência; manutenção do Sistema de Aquisição de Minério e Pelotas no ambiente MVS/AS para a geração de dados operacionais; geração de relatórios gerenciais e gráficos diversos.."
+            },
+            {
+                "empresa": "Trend Tecnologia Educacional Ltda",
+                "periodo": "1995 - 1998",
+                "cargo": "Instrutor de informática Ensino Fundamental."
+            },
+            {
+                "empresa": "Trend Tecnologia Educacional Ltda",
+                "periodo": "1995 - 1998",
+                "cargo": "Instrutor de informática Ensino Médio, Planejamento e execução de disciplinas técnicas como docente no Curso Técnico em Processamento de Dados (Integrado), no Centro de Ensino Moderno, Teresópolis-RJ: Pascal, Visual BASIC, Windows, Word, Excel, Powerpoint, Bancos de Dados, Análise de Sistemas.."
+            },
+            {
+                "empresa": "Faculdades Unificadas Serra dos Órgãos",
+                "periodo": "2005 - 2006",
+                "cargo": "."
+            },
+            {
+                "empresa": "Faculdades Unificadas Serra dos Órgãos",
+                "periodo": "2003 - 2005",
+                "cargo": "Professor adjunto."
+            },
+            {
+                "empresa": "Faculdades Unificadas Serra dos Órgãos",
+                "periodo": "2001 - 2002",
+                "cargo": "Professor assistente."
+            },
+            {
+                "empresa": "Faculdades Unificadas Serra dos Órgãos",
+                "periodo": "1996 - 2000",
+                "cargo": "Professor auxiliar."
+            },
+            {
+                "empresa": "Faculdade de Filosofia Santa Dorotéia",
+                "periodo": "2001 - 2008",
+                "cargo": "Professor assistente."
+            },
+            {
+                "empresa": "Universidade Estácio de Sá",
+                "periodo": "2003 - 2003",
+                "cargo": "Professor assistente."
+            },
+            {
+                "empresa": "Centro Universitário Serra dos Órgãos",
+                "periodo": "2007 - 2010",
+                "cargo": "."
+            },
+            {
+                "empresa": "Lugar Comum (UFRJ)",
+                "periodo": "2009 - 2013",
+                "cargo": ", Revisor de periódico, ISSN: 1415-8604."
+            },
+            {
+                "empresa": "Orichalco Informática Ltda",
+                "periodo": "1985 - 1985",
+                "cargo": "Programador, Estagiário, Atividade não-remunerada de conversão de jogos diversos da linguagem TI-BASIC para MSX-BASIC.."
+            },
+            {
+                "empresa": "Maxxi Import Ltda",
+                "periodo": "1995 - 1996",
+                "cargo": "Instrutor, Autônomo/Temporário."
+            },
+            {
+                "empresa": "Central de Cursos",
+                "periodo": "2005 - 2006",
+                "cargo": "Instrutor, Autônomo/Temporário, Planejamento e execução de cursos de curta duração para turmas preparatórias para concursos públicos, na área de Informática Básica.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2010",
+                "cargo": "Professor Ensino Básico,Técnico e Tecnológico, Servidor público, Entre dez/2013 e fev2015, estive em atuação no Colégio Pedro II, campus Tijuca II, com vacância no IFRJ por posse em cargo inacumulável .."
+            },
+            {
+                "empresa": "Colégio Pedro II",
+                "periodo": "2013 - 2015",
+                "cargo": "Professor Ensino Básico,Técnico e Tecnológico, Servidor público."
+            },
+            {
+                "empresa": "Colégio Pedro II",
+                "periodo": "2010 - 2010",
+                "cargo": "Professor EBTT (substituto), Contrato temporário, Adquiri experiência e competências no planejamento e execução de disciplinas de curso técnico em informática de nível médio, nas modalidades Integrado e PROEJA.."
+            },
+            {
+                "empresa": "LUGAR COMUM",
+                "periodo": "2008 - 2013",
+                "cargo": ", Membro de corpo editorial."
+            }
+        ],
+        "direcao_administracao": ": Colégio Pedro II\nDepartamento de Ciência da Computação (2014 - 2015) : Coordenação Pedagógica Do Proeja (campus Tijuca Ii).\nInstituto Federal de Educação,Ciência e Tecnologia do Rio de Janeiro (2021): Educação, Tecnologia e Sociedade,\nInstituto Federal de Educação,Ciência e Tecnologia do Rio de Janeiro (2021): Interfaces, Ambientes e Recursos Digitais na Educação,",
+        "ensino": ": Colégio Pedro II\nEnsino-medio (2014 - 2015) .\nEnsino-medio (2010 - 2010) .\nEnsino-medio (2010 - 2010) .\nEnsino-medio (2010 - 2010) .\nExtensão Universitária: Faculdades Unificadas Serra dos Órgãos\nFaculdades Unificadas Serra dos Órgãos: Supervisão Do Curso De Informática Para A Vara Da Infância E Da Juventude - Teresópolis (2005 - 2005) - Supervisão Do Curso De Informática Para A Vara Da Infância E Da Juventude - Teresópolis.\nFaculdades Unificadas Serra dos Órgãos: Supervisão Curso Iniciação À Computação Para A Universidade Da Terceira Idade (2004 - 2006) - Supervisão Curso Iniciação À Computação Para A Universidade Da Terceira Idade.\nFaculdades Unificadas Serra dos Órgãos: Supervisão Curso De Introdução À Informática Para O Camp-teresópolis (2002 - 2007) - Supervisão Curso De Introdução À Informática Para O Camp-teresópolis.\nTreinamento Ministrado: Knack Projetos e Consultoria\nKnack Projetos E Consultoria (1993 - 1993) - Knack Projetos E Consultoria - Consultor técnico pleno.\nTreinamento Ministrado: Companhia Vale do Rio Doce\nSuperintendência De Ferrosos (1993 - 1993) - Superintendência De Ferrosos - Estagiário.\nTreinamento Ministrado: Maxxi Import Ltda\nTreinamento (1995 - 1996) - Treinamento - Instrutor.\nTreinamento Ministrado: Central de Cursos\nTreinamento (2005 - 2006) - Treinamento - Instrutor.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nMembro Do Grupo De Trabalho Pra Criação Do Curso Técnico Integrado Em Desenvolvimento De Sistemas (2022).\nMembro Do Colegiado Da Especialização Em Informática Aplicada À Educação (2021).\nMembro Do Comitê De Inclusão Digital E Educação A Distância (idead) Do Campus (2020 - 2020).\nMembro Do Colegiado Do Curso De Informática Para Internet (2019).\nCoordenação Do Gt Para Elaboração Do Ppc De Especialização Em Informática E Educação (2019 - 2021).\nMembro Da Comissão Própria De Avaliação (cpa) Do Ifrj (2017 - 2019).\nMembro Suplente De Marcelo Andrade Leite No Conselho Acadêmico Do Ensino De Graduação Do Ifrj (2017 - 2020).\nMembro Do Núcleo Docente Estruturante (nde) Do Curso De Licenciatura Em Computação (2016 - 2019).\nMembro Da Equipe De Gestão Do Projeto Integrare Sobre Sistema Integrado No Ifrj (2015 - 2017).\nLicenciatura Em Computação - Membro Da Comissão De Elaboração E Estudo De Viabilidade De Implantação (2015 - 2016).\nMembro Do Comitê De Acompanhamento Do Sistema Integrado De Gestão (casig) (2015 - 2017).\nMembro Do Comitê De Ética (coet) Do Ifrj (2015 - 2018).\nLicenciatura Em Computação - Membro Da Comissão De Elaboração E Estudo De Viabilidade De Implantação (2012 - 2013).",
+        "projetos": [
+            {
+                "instituicao": "Centro Universitário Serra dos Órgãos",
+                "nome": "Ensino de programação de computadores: a voz do aluno",
+                "periodo": "2008 - 2008",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim"
+                ]
+            },
+            {
+                "instituicao": "Centro Universitário Serra dos Órgãos",
+                "nome": "Software tutorial para ensino introdutório de programação",
+                "periodo": "2006 - 2007",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Centro Universitário Serra dos Órgãos",
+                "nome": "Estudo do projeto e da programação da máquina Pascalina",
+                "periodo": "2009 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim",
+                    "Augusto Righetti Vieira Ferreira de Araújo"
+                ]
+            },
+            {
+                "instituicao": "Centro Universitário Serra dos Órgãos",
+                "nome": "ComputAção Social",
+                "periodo": "2002 - 2007",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim",
+                    "Celia Regina Rocha"
+                ]
+            },
+            {
+                "instituicao": "Centro Universitário Serra dos Órgãos",
+                "nome": "Montagem de material didático sobre o Dev-GNU Pascal",
+                "periodo": "2010 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Podcast Horizontes Digitais",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Alberto Alvadia Filho",
+                    "Gilvan de Oliveira Vilarim"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Uma solução doméstica para produção de conteúdos digitais de videoaulas com teleprompter",
+                "periodo": "2020 - 2021",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim",
+                    "Caio Henrique Sicas Lamas",
+                    "Bruno Carlos da Cunha Costa",
+                    "Aleson Sobral Felizardo"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "A especialização em Informática aplicada à Educação do campus São João de Meriti: o digital é agora",
+                "periodo": "2022 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Reuso interdisciplinar de componentes eletrônicos de informática por meio de metareciclagem",
+                "periodo": "2024 - 2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Especialização em Informática aplicada à Educação: a computação chega (de novo) à escola",
+                "periodo": "2023 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilvan de Oliveira Vilarim"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "VILARIM",
+                    "titulo": "Gilvan de Oliveira,  OLIVEIRA, D. B.,  SILVA, M. M. B.,  COSTA, B. C. C.,  Pensamento Computacional e Língua Portuguesa: Proposta de Sequência Didática para o 7º ano do Ensino Fundamental",
+                    "ano": "2024",
+                    "instituicao_promotora": "UFRGS."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "R. C.,  VILARIM, Gilvan de Oliveira,  Pensamento computacional na educação: uma visão de seus conceitos e usos",
+                    "ano": "2023",
+                    "instituicao_promotora": "Instituto Federal do Rio de Janeiro."
+                },
+                {
+                    "autores": "VILARIM",
+                    "titulo": "Gilvan de Oliveira,  Interação mediada pela tecnologia: possibilidades no cenário atual",
+                    "ano": "2021",
+                    "instituicao_promotora": "Secretaria de Educação do Município de Tanguá."
+                },
+                {
+                    "autores": "VILARIM",
+                    "titulo": "Gilvan de Oliveira,  Mesa redonda Linux: entre computadores, homens e pinguins",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFRJ."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "VILARIM",
+                    "curso": "Gilvan de Oliveira,  Introdução ao Linux",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "VILARIM",
+                    "curso": "Gilvan de Oliveira,  Treinamento em Linux",
+                    "ano": "1999"
+                },
+                {
+                    "autor": "VILARIM",
+                    "curso": "Gilvan de Oliveira,  Introdução à Informática",
+                    "ano": "1997"
+                },
+                {
+                    "autor": "VILARIM",
+                    "curso": "Gilvan de Oliveira,  Curso sobre Word 6.0",
+                    "ano": "1997"
+                },
+                {
+                    "autor": "VILARIM",
+                    "curso": "Gilvan de Oliveira,  Curso sobre Windows 3.11",
+                    "ano": "1997"
+                },
+                {
+                    "autor": "VILARIM",
+                    "curso": "Gilvan de Oliveira,  Curso sobre MS-DOS",
+                    "ano": "1997"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "VILARIM",
+                    "evento": "Gilvan de Oliveira,  SILVA, J. C.,  MONTEIRO, R. G.,  FALCÃO, J. F. D.,  CARVALHO, A. C.,  VII Maratona de Programação da Região Serrana RJ",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Centro Universitário Serra dos Órgãos."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "J. C.,  FALCÃO, J. F. D.,  CASTRO, Livia Monnerat,  MONTEIRO, R. G.,  VILARIM, Gilvan de Oliveira,  OUTROS,  XV Maratona de Programação da SBC",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Centro Universitário Serra dos Órgãos."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "J. C.,  VILARIM, Gilvan de Oliveira,  OUTROS,  XIV Maratona de Programação da SBC",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "J. C.,  VILARIM, Gilvan de Oliveira,  OUTROS,  XIII Maratona de Programação da SBC",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "VILARIM",
+                    "evento": "Gilvan de Oliveira,  V Seminário de Computação e Informática da FESO",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FESO."
+                },
+                {
+                    "autores": "VILARIM",
+                    "evento": "Gilvan de Oliveira,  IV Seminário de Computação e Informática da FESO",
+                    "ano": "2005",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FESO."
+                },
+                {
+                    "autores": "VILARIM",
+                    "evento": "Gilvan de Oliveira,  II Seminário de Computação e Informática da FESO",
+                    "ano": "2003",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FESO."
+                },
+                {
+                    "autores": "VILARIM",
+                    "evento": "Gilvan de Oliveira,  I Seminário de Computação e Informática da FESO",
+                    "ano": "2002",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FESO."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Librelogo: manual de apoio - 2ª edição",
+                "ano": "2026",
+                "informacoes_adicionais": "Impresso. ISBN: 9786502021392, Rio de Janeiro (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Pensamento computacional: possibilidades e interdisciplinaridades na educação",
+                "ano": "2025",
+                "informacoes_adicionais": "Impresso. ISBN: 9786501539751, Rio de Janeiro (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Algoritmos: programação para iniciantes - 3ª edição",
+                "ano": "2017",
+                "informacoes_adicionais": "Impresso. ISBN: 9788539908356, Rio de Janeiro (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "LibreLogo: manual de apoio",
+                "ano": "2016",
+                "informacoes_adicionais": "Impresso. ISBN: 9788591908523, Rio de Janeiro, RJ (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Inovação e recursos humanos na informática",
+                "ano": "2015",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788591908509, Rio de Janeiro (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Trabalho e software no capitalismo cognitivo",
+                "ano": "2015",
+                "informacoes_adicionais": "Impresso. ISBN: 9788591908516, Rio de Janeiro, RJ (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Programação orientada a objetos: um curso básico",
+                "ano": "2015",
+                "informacoes_adicionais": "Impresso. ISBN: 9788563687920, Curitiba, PR (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Algoritmos: programação para iniciantes",
+                "ano": "2004",
+                "informacoes_adicionais": "Impresso. ISBN: 857393316X, Rio de Janeiro, RJ (Publicado)."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Por uma política menor: arte, comum e multidão. Título do capítulo: Capitalismo cognitivo, trabalho imaterial e algumas discussões sobre produção de software",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9788570043184, Rio de Janeiro, RJ."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "COCCO, G.;  Temas de pesquisa em Ciência da Informação no Brasil. Título do capítulo: Produção de conhecimentos por meio de conhecimentos: a outra produção no capitalismo cognitivo",
+                "ano": "2010",
+                "informacoes_adicionais": "ISBN: 9788572050, São Paulo, SP."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "CASTRO, C. S.",
+                "titulo": "VILARIM, Gilvan de Oliveira;  Licenciatura em Computação no cenário nacional: embates, institucionalização e o nascimento de um novo curso",
+                "ano": "2013",
+                "periodico": "Revista Eletrônica Espaço Acadêmico (Online). ISBN: 15196186   ."
+            },
+            {
+                "autores": "COCCO, G.",
+                "titulo": "VILARIM, Gilvan de Oliveira;  Trabalho imaterial e produção de software no capitalismo cognitivo | Immaterial labour and software production in cognitive capitalism",
+                "ano": "2009",
+                "periodico": "LIINC EM REVISTA. ISBN: 18083536   ."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Tecnologias, hacks e liberdade",
+                "ano": "2009",
+                "periodico": "Lugar Comum (UFRJ). ISBN: 14158604   ."
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "A computação em nuvem e algumas questões sobre o presente e o futuro",
+                "ano": "2009",
+                "periodico": "Fonte (Belo Horizonte). ISBN: 18080715   ."
+            },
+            {
+                "autores": "COCCO, G. M.",
+                "titulo": "VILARIM, Gilvan de Oliveira;  O capitalismo cognitivo em debate | Cognitive Capitalism in debate",
+                "ano": "2009",
+                "periodico": "LIINC EM REVISTA. ISBN: 18083536   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "GUIMARAES, M. P.",
+                "titulo": "VILARIM, Gilvan de Oliveira; Reuso interdisciplinar de componentes eletrônicos de informática por meio de metareciclagem",
+                "evento": "XIX Jornada Interna de Iniciação Científica e Tecnológica do IFRJ",
+                "local": "Rio de Janeiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "OLIVEIRA, D",
+                "evento": "B.; SILVA",
+                "local": "M. M. B.; COSTA, B. C. C.; Pensamento Computacional e Língua Portuguesa: Proposta de Sequência Didática para o 7º ano do Ensino Fundamental. I Simpósio Nacional de Computação na Educação Básica - SBC-EB, Rio de Janeiro, RJ",
+                "ano": "2024"
+            },
+            {
+                "autores": "TAVARES, R. S.",
+                "titulo": "TAVARES, P",
+                "evento": "S.; VILARIM",
+                "local": "Gilvan de Oliveira; Habilidades Correlacionadas entre Pensamento Computacional e Pensamento Geométrico para o 6º ano do Ensino Fundamental. I Simpósio Brasileiro de Computação na Educação Básica - SBC-EB, Rio de Janeiro, RJ",
+                "ano": "2024"
+            },
+            {
+                "autores": "COSTA, B. C. C.",
+                "titulo": "VILARIM, Gilvan de Oliveira; SILVA, D",
+                "evento": "; A Resolução de Problemas de Trigonometria à Luz dos Pilares do Pensamento Computacional. I Simpósio Brasileiro de Computação na Educação Básica - SBC-EB",
+                "local": "Rio de Janeiro, RJ",
+                "ano": "2024"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "LOPES JUNIOR, S",
+                "evento": "L. A.; Estudo de caso de ambientes educativos inovadores em escola particular do Rio de Janeiro. II Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, On-line",
+                "ano": "2024"
+            },
+            {
+                "autores": "COSTA, B. C. C.",
+                "titulo": "VAGO, C",
+                "evento": "; VILARIM",
+                "local": "Gilvan de Oliveira; O Ensino e Aprendizagem Musical e o Uso de Aplicativos: uma Análise Qualitativa. XIII Congresso Brasileiro de Informática na Educação (CBIE), Rio de Janeiro, RJ",
+                "ano": "2024"
+            },
+            {
+                "autores": "VILARIM, GILVAN DE OLIVEIRA",
+                "titulo": "LOPES JÚNIOR, FB-PROF",
+                "evento": "SÉRGIO LUIS DE ARAÚJO; ESTUDO DE CASO DE AMBIENTES EDUCATIVOS INOVADORES EM ESCOLA PARTICULAR DO RIO DE JANEIRO. II Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Online",
+                "ano": "2024"
+            },
+            {
+                "autores": "NUNES, E. C.",
+                "titulo": "MASKE, P",
+                "evento": "G.; VILARIM",
+                "local": "Gilvan de Oliveira; Uma Proposta de Sequência Didática para 2º ano do Ensino Fundamental com Computação Desplugada para Prática de Pensamento Computacional. I Simpósio Nacional de Computação na Educação Básica - SBC-EB, Rio de Janeiro, RJ",
+                "ano": "2024"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "FERREIRA, R",
+                "evento": "C.; Pensamento computacional na educação: uma visão de seus conceitos e usos. I Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Engº Paulo de Frontin, RJ",
+                "ano": "2023"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Captação de alunos para primeiras turmas de curso de Licenciatura em Computação em instituição pública: o caso das redes sociais",
+                "evento": "V SENID - Seminário Nacional de Inclusão Digital",
+                "local": "Passo Fundo, RS",
+                "ano": "2018"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "LibreLogo: um software educacional livre para construção de desenhos usando lógica de programação",
+                "evento": "IV Seminário Nacional de Inclusão Digital",
+                "local": "Passo Fundo, RS",
+                "ano": "2016"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "O LibreLogo como ferramenta para desenvolvimento do pensamento computacional no ensino",
+                "evento": "IV Seminário Nacional de Inclusão Digital",
+                "local": "Passo Fundo, RS",
+                "ano": "2016"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Oficina de LibreLogo: um software educacional para desenhar com lógica de programação",
+                "evento": "III Seminário Nacional de Inclusão Digital",
+                "local": "Passo Fundo, RS",
+                "ano": "2014"
+            },
+            {
+                "autores": "CASTRO, C. S.",
+                "titulo": "FONSECA, A",
+                "evento": "M.; VILARIM",
+                "local": "Gilvan de Oliveira; LIMA, E. B.; ALMEIDA, A. G.; Licenciatura em Computação: ampliando caminhos. II Seminário Nacional de Inclusão Digital, Passo Fundo, RS",
+                "ano": "2013"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "NASCIMENTO, A",
+                "evento": "; Engenharia de software e processos de produção: questões sobre quem produz e como se produz. I Encontro de Computação dos Institutos Federais - Encompif",
+                "local": "Maceió, AL",
+                "ano": "2013"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Produção de software, cultura hacker e os conflitos atuais com tecnologias digitais fechadas",
+                "evento": "VIII ENECULT - Encontro de Estudos Multidisciplinares em Cultura",
+                "local": "Salvador, BA",
+                "ano": "2012"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Produção de conhecimentos na web e passividade acrítica nas novas plataformas de software",
+                "evento": "XIII Encontro Nacional de Pesquisa em Ciência da Informação",
+                "local": "Rio de Janeiro, RJ",
+                "ano": "2012"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Computação em nuvem, redes sociais e possíveis ameaças às tecnologias libertárias do ciberespaço",
+                "evento": "VII ENECULT - Encontro de Estudos Multidisciplinares em Cultura",
+                "local": "Salvador, BA",
+                "ano": "2011"
+            },
+            {
+                "autores": "PINTO, C. L. Q.",
+                "titulo": "ROCHA, C",
+                "evento": "R. C.; VILARIM",
+                "local": "Gilvan de Oliveira; Desafios da prática da interdisciplinaridade em cursos de Ciência da Computação: a experiência do UNIFESO. WEI ? XVIII Workshop sobre Educação em Computação, Belo Horizonte, MG",
+                "ano": "2010"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Cibercultura, capitalismo e a cloud computing",
+                "evento": "V ENECULT - Encontro de Estudos Multidisciplinares em Cultura",
+                "local": "Salvador, BA",
+                "ano": "2009"
+            },
+            {
+                "autores": "COCCO, G.",
+                "titulo": "VILARIM, Gilvan de Oliveira; Cooperação subjetiva, software livre e problematizações sobre a computação em nuvem",
+                "evento": "X Encontro Nacional de Pesquisa da ANCIB ? ENANCIB 2009",
+                "local": "João Pessoa, PB",
+                "ano": "2009"
+            },
+            {
+                "autores": "ARAUJO, A. R. V. F.",
+                "titulo": "VILARIM, Gilvan de Oliveira; Estudo e construção de uma réplica funcional da máquina aritmética de Pascal",
+                "evento": "9º Congresso Nacional de Iniciação Científica",
+                "local": "São Paulo - SP",
+                "ano": "2009"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "COCCO, G",
+                "evento": "; Produção de conhecimentos por meio de conhecimentos: a outra produção no capitalismo cognitivo. IX ENANCIB - Encontro Nacional de Pesquisa em Ciência da Informação",
+                "local": "São Paulo-SP",
+                "ano": "2008"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "SOUZA, G",
+                "evento": "Q.; Inserção profissional dos egressos de um curso de Tecnologia em Processamento de Dados. World Congress on Computer Science",
+                "local": "Engineering and Technology Education, Santos",
+                "ano": "2006"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "LINS, E",
+                "evento": "R.; ComputAção Social: uma experiência de inclusão digital como projeto de extensão universitária em um curso de ciência da computação. Global Congress on Engineering and Technology Education",
+                "local": "Bertioga/Santos",
+                "ano": "2005"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "RAPKIEWICZ, C",
+                "evento": "E.; SEGRE",
+                "local": "L. M.; Qualificação e gestão de recursos humanos para a inovação: possíveis relações na economia de serviços. World Congress on Engineering and Technology Education, Santos-SP",
+                "ano": "2004"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "SEGRE, L",
+                "evento": "M.; RAPKIEWICZ",
+                "local": "C. E.; Gestão de recursos humanos e inovação em serviços: estudos de casos no setor de informática do Rio de Janeiro. XXIII Simpósio de Gestão da Inovação Tecnológica, Curitiba-PR",
+                "ano": "2004"
+            },
+            {
+                "autores": "VILARIM, Gilvan de Oliveira",
+                "titulo": "Inovação no setor de serviços: uma busca por novos conceitos e o papel dos recursos humanos",
+                "evento": "I Encontro Norte-Fluminense de Engenharia de Produção",
+                "local": "Campos dos Goytacazes-RJ",
+                "ano": "2001"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Wyllington Sérgio Tavares Rodrigues",
+                "titulo": "Suporte a metareciclagem de componentes eletrônicos de informática",
+                "ano": "2026",
+                "curso": "Técnico em Informática para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Arianne Sarmento Torcate",
+                "titulo": "Aplicações de inteligência artificial generativa no desenvolvimento de materiais pedagógicos personalizados para crianças neurodivergentes: um mapeamento sistemático da literatura",
+                "ano": "2025",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Matheus Ednei Nepomuceno Souza",
+                "titulo": "Sequência didática para ensino de algoritmos de ordenação no ensino fundamental",
+                "ano": "2025",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Gabriela Rosales Schemmer",
+                "titulo": "O Pensamento Computacional na Matemática: um recurso na construção de situações-problema",
+                "ano": "2025",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Meirilane Pontes Guimarães",
+                "titulo": "Suporte a metareciclagem de componentes eletrônicos de informática",
+                "ano": "2025",
+                "curso": "Técnico em Informática para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Daiane da Costa Gregório",
+                "titulo": "Computação desplugada aliada ao pensamento computacional nos anos iniciais do Ensino Fundamental I: uma revisão sistemática",
+                "ano": "2024",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Catia da Rosa Silva Alves",
+                "titulo": "Percepções dos professores da Educação Básica sobre o pensamento computacional",
+                "ano": "2024",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Elineide Camelo Nunes e Paula Gabriela Maske",
+                "titulo": "Computação desplugada: uma proposta de sequência didática para estudantes do 2º ano do Ensino Fundamental",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Eric Goulart Pereira",
+                "titulo": "Gamificação na Educação Básica: análise de plataformas digitais para uso em sala de aula",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Tiago Lopes da Silva",
+                "titulo": "Tecnologias digitais em currículos de formação docente: um estudo de caso do curso de Pedagogia da UERJ",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Deusiane Braga Oliveira e Mayara Michelle Barroso da Silva",
+                "titulo": "Contribuição do Pensamento Computacional para o Ensino de Língua Portuguesa: uma proposta de Sequência Didática para o 7º ano do Ensino Fundamental",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Marcio Luiz Costa Tavares",
+                "titulo": "[Desistência]Ambiente Virtual de Aprendizagem no contexto da saúde pública: um estudo de caso no Instituto Nacional de Câncer (INCA)",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Patrícia da Silva Tavares e Ronaldo da Silva Tavares",
+                "titulo": "Habilidades de pensamento geométrico e pensamento computacional em conjunto: um estudo para o 6º ano do Ensino Fundamental",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Erick Vitor Costa de Souza de Oliveira",
+                "titulo": "Monitoria disciplina Algoritmos e Programação de Computadores com o Paradigma Imperativo",
+                "ano": "2023",
+                "curso": "Técnico em Informática para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Sérgio Luís de Araújo Lopes Júnior",
+                "titulo": "Ambientes Educativos Inovadores: um estudo de caso em uma escola particular do município do Rio de Janeiro",
+                "ano": "2023",
+                "curso": "Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Anderson Almeida de Lima",
+                "titulo": "Monitoria disciplina Construção de Algoritmos",
+                "ano": "2018",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Yuri Lucas de Souza Paropat",
+                "titulo": "Monitoria disciplina Construção de Algoritmos",
+                "ano": "2017",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Raphael de Melo Pinheiro",
+                "titulo": "Montagem de material didático sobre o Dev-GNU Pascal",
+                "ano": "2010",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Augusto Riguetti Vieira Ferreira de Araújo",
+                "titulo": "Estudo do projeto e da programação da máquina Pascalina",
+                "ano": "2009",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Rafael Ferreira Serafim",
+                "titulo": "Ensino de programação de computadores: a voz do aluno",
+                "ano": "2008",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Rafael Ferreira Serafim",
+                "titulo": "Software Tutorial para Ensino Introdutório de Programação",
+                "ano": "2007",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Ismael Victor Veizaga Soto",
+                "titulo": "Software Tutorial para Ensino Introdutório de Programação",
+                "ano": "2007",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Flavia Aguiar de Melo",
+                "titulo": "Software Tutorial para Ensino Introdutório de Programação",
+                "ano": "2006",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Roselis da Costa Oliveira",
+                "titulo": "LER/DORT: uma visão do setor bancário para empregados-usuários de recursos de informática",
+                "ano": "2004",
+                "curso": "Tecnologia Em Processamento de Dados",
+                "instituicao": "Faculdades Unificadas Serra dos Órgãos"
+            },
+            {
+                "orientando": "Rodrigo de Araújo Dias",
+                "titulo": "Uma pesquisa sobre inserção profissional dos egressos do curso de Tecnologia em Processamento de Dados",
+                "ano": "2004",
+                "curso": "Tecnologia Em Processamento de Dados",
+                "instituicao": "Faculdades Unificadas Serra dos Órgãos"
+            },
+            {
+                "orientando": "Monica de Fátima Queiroz Cortázio",
+                "titulo": "Computadores na Educação: Aspectos sobre sua utilização em ambiente de sala de aula",
+                "ano": "2002",
+                "curso": "Metodologia da Pesquisa e do Ensino Superior",
+                "instituicao": "Faculdades Unificadas Serra dos Órgãos"
+            },
+            {
+                "orientando": "Armando Conceição de Oliveira",
+                "titulo": "Computação gráfica e algumas de suas aplicações na Medicina",
+                "ano": "2002",
+                "curso": "Tecnologia Em Processamento de Dados",
+                "instituicao": "Faculdades Unificadas Serra dos Órgãos"
+            },
+            {
+                "orientando": "Alexandre Costa de Carvalho e Fabiano de Oliveira Pinto",
+                "titulo": "ASPEditor: Editor ASP",
+                "ano": "2000",
+                "curso": "Tecnologia em Processamento de Dados",
+                "instituicao": "Centro Universitário Serra dos Órgãos"
+            },
+            {
+                "orientando": "Marcelo Barbosa Pinheiro e Eliane Portilho Teixeira",
+                "titulo": "Sistema Imunização",
+                "ano": "1999",
+                "curso": "Tecnologia Em Processamento de Dados",
+                "instituicao": "Faculdades Unificadas Serra dos Órgãos"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.0316658020019531,
+            "indian": 0.11443880945444107,
+            "black": 0.01018816139549017,
+            "white": 91.8392333984375,
+            "middle eastern": 3.381317377090454,
+            "latino hispanic": 3.6231577396392822
+        }
+    }
+}

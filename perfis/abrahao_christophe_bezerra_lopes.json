@@ -1,0 +1,152 @@
+{
+    "campus": "- Campus Mossoró",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em Ciência da COmputação",
+                "periodo": "2009 - 2012",
+                "instituicao": "Universidade Federal Rural do Semi-Árido",
+                "titulo": "Desenvolvimento de um jogo didático para ensino de programação orientada a objetos e sua aplicação em cursos técnicos de computação",
+                "orientador": "José Patrocínio da Silva"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática Aplicada",
+                "periodo": "2006 - 2008",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "orientador": "CARLOS HEITOR PEREIRA LIBERALINO"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciências da Computação",
+                "periodo": "2000 - 2003",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade de Ciências e Tecnologia Mater Christi",
+                "periodo": "2005 - 2009",
+                "cargo": "CURSO: SISTEMAS DE INFORMAÇÃO, PROFESSOR."
+            },
+            {
+                "empresa": "Universidade Federal Rural do Semi-Árido",
+                "periodo": "2007 - 2009",
+                "cargo": "Professor Substituto, Professor Substituto, Ministrando as disciplinas de Introdução à Informática, Tópicos de Infomática, Programação para Engenharia e Linguagem de Programação C."
+            },
+            {
+                "empresa": "Neto Auto Peças",
+                "periodo": "2004 - 2009",
+                "cargo": "Gerente de Tecnologia da Informação, Responsável pela gerência e manutenção da rede de comunicação e computadores, sistema de bancos de dados, desenvolvimento de aplicativos, treinamento e suporte a usuários.."
+            },
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "periodo": "2009 - 2009",
+                "cargo": "Departamento de Informática, Professor Substituto."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2009",
+                "cargo": "Professor Efetivo."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LOPES",
+                    "software": "A. C. B.,  AGE - Aplicação de Gerenciamento de Entregas",
+                    "ano": "2008",
+                    "finalidade": "Controle de Entregas com criação de rotas sobre mapas."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LEITE",
+                    "titulo": "LOPES, A. C. B.,  Uso da Informática Como Ferramenta de Ensino",
+                    "ano": "2006",
+                    "instituicao_promotora": "Prefeitura Municipal de Mossoró."
+                },
+                {
+                    "autores": "LOPES",
+                    "titulo": "A. C. B.,  A Utilizaçao das Tecnologias Educacionais como Ferramenta Didatica para o Ensino",
+                    "ano": "2006",
+                    "instituicao_promotora": "Faculdade de Ciencias e Tecnologia Mater Christi."
+                },
+                {
+                    "autores": "LOPES",
+                    "titulo": "A. C. B.,  Mini-Curso Blender (Computacao Grafica)",
+                    "ano": "2005",
+                    "instituicao_promotora": "UERN."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "LOPES",
+                    "curso": "A. C. B.,  Introdução à Computação Gráfica Utilizando Blender",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "LOPES",
+                    "curso": "A. C. B.,  Introdução à Programação e Construção de Algoritmos",
+                    "ano": "2003"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "LEITE",
+                    "evento": "ALVES FILHO, S. E.,  LOPES, A. C. B.,  II Encontro de Iniciação Científica de Sistemas de Informação",
+                    "ano": "2007",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade de Ciências e Tecnologia Mater Christi."
+                },
+                {
+                    "autores": "JACINTO",
+                    "evento": "K.,  LEITE,  LOPES, M. A. S.,  LOPES, A. C. B.,  I Encontro de Iniciação Científica do Curso de Sistemas de Informação",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade de Ciências e Tecnologia Mater Christi."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Flávia Araujo",
+                "titulo": "Comércio Eletrônico - Estudo de caso sobre os usuários da cidade de Areia Branca - RN",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade de Ciências e Tecnologia Mater Christi"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.13117250800132751,
+            "indian": 0.428749680519104,
+            "black": 0.014443112537264824,
+            "white": 52.8289794921875,
+            "middle eastern": 8.820829391479492,
+            "latino hispanic": 37.77582931518555
+        }
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Betim",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -58,7 +59,7 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2016",
-                "cargo": "Professor de Informática."
+                "cargo": "Professor de Informática, Servidor público."
             }
         ],
         "direcao_administracao": "",
@@ -99,16 +100,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Curso de Informatica para Tecnicos em Logística",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Mauricio Monteiro da Silva"
-                ],
-                "financiador": "Instituto Federal Minas Gerais,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Olimpíada Brasileira de Robótica",
                 "periodo": "2019 - 2019",
                 "natureza": "Ensino",
@@ -117,6 +108,16 @@
                     "Virgil Del Duca Almeida",
                     "Michelle Mendes Santos"
                 ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Curso de Informatica para Tecnicos em Logística",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mauricio Monteiro da Silva"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
             }
         ]
     },
@@ -206,16 +207,16 @@
         "outras_orientacoes": []
     },
     "Cor/Raça": {
-        "raca_original": "latino hispanic",
-        "raca_ibge": "Parda",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 17.9099063873291,
-            "indian": 13.010504722595215,
-            "black": 10.884444236755371,
-            "white": 19.33100128173828,
-            "middle eastern": 17.439388275146484,
-            "latino hispanic": 21.424753189086914
+            "asian": 14.094587326049805,
+            "indian": 8.445016860961914,
+            "black": 4.50850772857666,
+            "white": 26.80877685546875,
+            "middle eastern": 22.20009994506836,
+            "latino hispanic": 23.94301414489746
         }
     }
 }

@@ -1,0 +1,621 @@
+{
+    "campus": "- Campus Taguatinga",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2010 - 2014",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "Framework para desenvolvimento de LPSD no âmbito de TV Digital Interativa, com suporte a características de ubiquidade",
+                "orientador": "Paulo Roberto de Lira Gondim"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "periodo": "2002 - 2003",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Uma Solução baseada em políticas para Gerenciamento Integrado de QoS e Multicast em Redes IP",
+                "orientador": "Lisandro Zambenedetti Granville"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Docência para a Educação Profissional e Tecnológica",
+                "periodo": "2024",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1996 - 2001",
+                "instituicao": "Universidade de Santa Cruz do Sul"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Nutrição",
+                "periodo": "2022",
+                "instituicao": "Universidade Cesumar"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2002 - 2002",
+                "cargo": "Pesquisador Sem Vínculo."
+            },
+            {
+                "empresa": "Jop Comunicação Virtual Ltda",
+                "periodo": "1999 - 2002",
+                "cargo": "Analista de Sistemas."
+            },
+            {
+                "empresa": "Top4 Produções Web",
+                "periodo": "2000 - 2006",
+                "cargo": "Sócio-Gerente."
+            },
+            {
+                "empresa": "Universidade de Santa Cruz do Sul",
+                "periodo": "2002 - 2004",
+                "cargo": "Professor Auxiliar."
+            },
+            {
+                "empresa": "Universidade de Santa Cruz do Sul",
+                "periodo": "1999 - 1999",
+                "cargo": "Outro (pesquisador), O projeto visa o Estudo e Fabricação de um carro-Robô controlado por computador co características Lúdico Pedagógicas, usando a linguagem C++ para seu desenvlvimento.."
+            },
+            {
+                "empresa": "Universidade de Santa Cruz do Sul",
+                "periodo": "1998 - 1998",
+                "cargo": "Outro (pesquisador), Estudo do C++ Builder para Processamento de Imagens, usando a linguagem C++ Builder para seu desenvlvimento."
+            },
+            {
+                "empresa": "Universidade de Santa Cruz do Sul",
+                "periodo": "1998 - 1998",
+                "cargo": "Outro (Monitor), O projeto visa a atuação do monitor na recepção dos laborátorios de informática assim como auxiliar os usuários nas dificuldades relativas a informática.."
+            },
+            {
+                "empresa": "Dnac Contabilidade",
+                "periodo": "1995 - 1996",
+                "cargo": "."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "periodo": "2002 - 2003",
+                "cargo": "Outro (pesquisador)."
+            },
+            {
+                "empresa": "Centro Universitário UniEuro",
+                "periodo": "2006 - 2007",
+                "cargo": "Coordenador."
+            },
+            {
+                "empresa": "Centro Universitário UniEuro",
+                "periodo": "2004 - 2007",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Universidade de Brasília",
+                "periodo": "2011 - 2012",
+                "cargo": "Professor Susbstituto, Servidor público."
+            },
+            {
+                "empresa": "Universidade de Brasília",
+                "periodo": "2008 - 2011",
+                "cargo": "Professor Colaborador, Orientação de Trabalhos de Conclusão de Curso (Engenharia de Redes)."
+            },
+            {
+                "empresa": "Universidade de Brasília",
+                "periodo": "2007 - 2007",
+                "cargo": "Professor Substituto, Servidor público."
+            },
+            {
+                "empresa": "Bit System",
+                "periodo": "2006 - 2007",
+                "cargo": ", Membro de corpo editorial, Revista Eletrônica do Curso de Sistemas de Informação - UniEuro."
+            },
+            {
+                "empresa": "Faculdade Brasília deTecnologia, Ciências e Educação",
+                "periodo": "2004 - 2004",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "V Simpósio de Informática do Planalto Médio",
+                "periodo": "2004 - 2004",
+                "cargo": ", Revisor de periódico, V Simpósio de Informatica do Planalto Médio, promovido pelo curso de Ciência da Computação do Instituto de Ciências Exatas e Geociências da Universidade de Passo Fundo - UPF.."
+            },
+            {
+                "empresa": "IV Simpósio de Informatica do Planalto Médio",
+                "periodo": "2003 - 2003",
+                "cargo": ", Revisor de periódico, IV Simpósio de Informatica do Planalto Médio, promovido pelo curso de Ciência da Computação do Instituto de Ciências Exatas e Geociências da Universidade de Passo Fundo - UPF."
+            },
+            {
+                "empresa": "Instituto de Ensino Superior Comunitário",
+                "periodo": "2009 - 2013",
+                "cargo": "Professor de Ensino Superior, Celetista formal."
+            },
+            {
+                "empresa": "Faculdade de Negócios e Tecnologias da Informação",
+                "periodo": "2009 - 2012",
+                "cargo": "Professor Ensino Superior, Celetista formal."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "periodo": "2012 - 2012",
+                "cargo": "Docente, Campus - Luziânia."
+            },
+            {
+                "empresa": "Faculdade Processus",
+                "periodo": "2011 - 2013",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "periodo": "2025",
+                "cargo": "Coordenador Local de EAD - Campus Taguatinga, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "periodo": "2024",
+                "cargo": "Coordenador de Area de Computação - PIBID, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "periodo": "2012",
+                "cargo": "Professor EBTT, Campus Taguatinga."
+            },
+            {
+                "empresa": "Fundação de Apoio à Pesquisa do Distrito Federal",
+                "periodo": "2023",
+                "cargo": ", Revisor de projeto de fomento."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia de Brasília\nDiretoria de Educação a Distância - DEAD (2018 - 2018) : Coordenação Do Curso Técnico Subsequente Em Programação De Jogos Digitais.\nCampus Taguatinga (2016 - 2019) : Coordenação De Curso - Bacharel Em Ciências Da Computação - Portaria Nº 1040 De 26 De Abril De 2016..\nCampus Taguatinga (2015 - 2016) : Coordenador Geral De Pesquisa E Extensão - Portaria 1753/2015.\nCampus Estrutural (2015 - 2015) : Coordenador De Poló De Ead - Portaria 1224/2105.\nPesquisa e Desenvolvimento\nConselho Nacional de Desenvolvimento Científico e Tecnológico (2002 - 2002): Informática na Educação,\nDepartamento de Informática (2003 - 2003): CONTROLE DE ESTAÇÕES NO AMBIENTE QAME(QoS Aware Management Environment),\nDepartamento de Informática (1999 - 1999): Estudo do C++ Builder para Processamento de Imagens,\nDepartamento de Informática (1998 - 1998): Estudo e Fabricação de um carro-Robô controlado por computador co características Lúdico Pedagógicas,\nInstituto de Informática (2002 - 2003): Pesquisador do Projeto Metropoa2,\nInstituto de Informática (2002 - 2003): Pesquisador do Projeto QoM,",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia de Brasília\nGraduacao (2016) - Ciência Da Computação.\nExtensão Universitária: Centro Universitário UniEuro\nCentro Universitário UniEuro: Linguagem De Programação Java (básica, Avançada E Para Web) (2004 - 2004) - Linguagem De Programação Java (básica, Avançada E Para Web).",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia de Brasília\nComissão Executora Do Projeto Inclucenso (2023).\nMembro Titutal Da Cppd (campus Taguatinga) (2023).\nMembro Do Nde - Abi Em Computação (2015).\nComissão Para Revisão Do Plano De Curso De Mestrado Profissional Em Computação Aplicada (2015).",
+        "projetos": [
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "Sistema Inteligente para Gerência de Falhas em Redes de Comunicação - EletroNorte",
+                "periodo": "2006",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leandro Vaguetti",
+                    "Gondim"
+                ],
+                "financiador": "Centrais Elétricas do Norte do Brasil,"
+            },
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "RFP 07/2004 ? Serviços, Aplicações e Conteúdo para a TV Digital - FINEP/CNPQ",
+                "periodo": "2005 - 2005",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leandro Vaguetti",
+                    "Gondim",
+                    "Eric",
+                    "Fernandes"
+                ],
+                "financiador": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "nome": "Processo Seletivo Inteligente - IFB",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leandro Vaguetti"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "nome": "Desenvolvimento De Aplicação Web Para Armazenamento Chaves Pictóricas De Identificação De Espécies Presentes Nos Laboratórios Do Instituto Federal De Brasília",
+                "periodo": "2024 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leandro Vaguetti"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "nome": "Desenvolvimento de Chatbot Inteligente para Apoio à Comunicação Institucional: Um Estudo de Caso no Portal do IFB",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leandro Vaguetti"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "nome": "Fabrica de Software Modelo",
+                "periodo": "2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leandro Vaguetti",
+                    "Fabiano Cavalcanti Fernades"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "nome": "Ambiente de Programação Assistido por IA com Monitoramento EEG para Estudantes com TDAH",
+                "periodo": "2026",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leandro Vaguetti",
+                    "Gustavo Ferraz Mota",
+                    "Rafael Henrique Carvalho da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília",
+                "nome": "Fábrica de Software Modelo - FSM",
+                "periodo": "2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leandro Vaguetti",
+                    "Fabiano Cavalcanti Fernades"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "VAGUETTI",
+                    "software": "L.,  GONDIM, Paulo,  FERRAMENTA PARA DESENVOLVIMENTO DE DTV INTERATIVA",
+                    "ano": "2015",
+                    "finalidade": "Suporte ao desenvolvimento de conteúdos interativos de TV Digial.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 512016000010-4."
+                },
+                {
+                    "autor": "Rosa",
+                    "software": "A. A.,  Barbosa, M.V. E.,  VAGUETTI, L.,  TVNavigator",
+                    "ano": "2006",
+                    "finalidade": "Interpretador HTML não residente para TVDigital."
+                },
+                {
+                    "autor": "VAGUETTI",
+                    "software": "L.,  LOPEZ , E.,  GONDIM, Paulo,  FERNANDES, J.H.C.,  TVGrama",
+                    "ano": "2005",
+                    "finalidade": "Pesquisa."
+                },
+                {
+                    "autor": "Macelo Ricardo",
+                    "software": "Willon Felix,  VAGUETTI, L.,  Jaba.net",
+                    "ano": "2004",
+                    "finalidade": "Ensino de Algoritmos e Programação."
+                },
+                {
+                    "autor": "VAGUETTI",
+                    "software": "L.,  GRANVILLE, L. Z.,  DIMAS - Discovery Mobile Agents System",
+                    "ano": "2001",
+                    "finalidade": "Descoberta de Serviços em Redes de Computadores."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "LEMOS, L. E. S.",
+                "titulo": "VAGUETTI, L",
+                "evento": "; Desenvolvimento de Aplicação online para Cadastro de Coleções Biológicas de Insetos com Base nas Chaves Presente no Livro Entomologia Agrícola do Gallo (2002). Conecta IF",
+                "local": "Brasília",
+                "ano": "2025"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "PINHO, G",
+                "evento": "O.; Processo Seletivo Inteligente. 14a Semana de Produção Científica (SP14)",
+                "local": "Brasília",
+                "ano": "2025"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "GONDIM, Paulo; A web-Service-Based architecture Solution to Ubiquitous Personalized Digital Television",
+                "evento": "UbiqUM2008 - 5th International Workshop on Ubiquitous User Modeling",
+                "local": "Maspalomas, Gran Canaria",
+                "ano": "2008"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "GONDIM, Paulo; Hierarchical Intra-Context Handoff Awareness Approach to Personal Recommender Systems: A Mobile DTV Case Study",
+                "evento": "First IEEE International Conference on the Applications of Digital Information and Web Technologies (ICADIWT 2008)",
+                "local": "Ostrava",
+                "ano": "2008"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "GRANVILLE, L",
+                "evento": "Z.; ALMEIDA",
+                "local": "M. J. B.; TAROUCO, L. M. R.; Solução baseada em políticas para Gerenciamento Integrado de QoS e Multicast em Redes IP, usando PCIMe. SBRC 2004 - 22th Brazilian Symposium On Computer Networks, Gramado/RS",
+                "ano": "2004"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "Bueno, A",
+                "evento": "; Basegio",
+                "local": "T.; ALMEIDA, M. J. B.; GRANVILLE, L. Z.; A PDP Fast Development Framework to PBNM Architectures. Seminário de Gerência de Redes - UFRGS, Porto Alegre",
+                "ano": "2003"
+            },
+            {
+                "autores": "NEISSE, R.",
+                "titulo": "VAGUETTI, L",
+                "evento": "; GRANVILLE",
+                "local": "L. Z.; ALMEIDA, M. J. B.; TAROUCO, L. M. R.; An Architecture for Integrated Management of Grids. Seminário de Gerência de Redes - UFRGS, Porto Alegre",
+                "ano": "2003"
+            },
+            {
+                "autores": "GRANVILLE, L. Z.",
+                "titulo": "VAGUETTI, L",
+                "evento": "; TAROUCO",
+                "local": "L. M. R.; ALMEIDA, M. J. B.; A PBNM System for Integrated QoS and Multicast Management. Fourth IEEE Internacional Workshop on Policies For Distributed Systems And Networks, Lake Como",
+                "ano": "2003"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "NEISSE, R",
+                "evento": "; GRANVILLE",
+                "local": "L. Z.; ALMEIDA, M. J. B.; TAROUCO, L. M. R.; An architecture for Integrated Poilcy-based Management of QoS and Multicast-Enabled Networks. 21 Simpósio Brasileiro de Redes de Computadores (SBRC), Natal - RN",
+                "ano": "2003"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "GRANVILLE, L",
+                "evento": "Z.; ALMEIDA",
+                "local": "M. J. B.; TAROUCO, L. M. R.; DIMAS - DIscovery Mobile Agent System. 21 Simpósio Brasileiro de Redes de Computadores (SBRC), Natal - RN",
+                "ano": "2003"
+            },
+            {
+                "autores": "TAROUCO, L. M. R.",
+                "titulo": "AMORETTI, M",
+                "evento": "S. M.; KELLER",
+                "local": "R.; MACHADO, A.; VAGUETTI, L.; WebStorming: Brainstorming in the Web. Society for Information Technology and Teacher Education International Conference (SITE), Albuquerque, New Mexico",
+                "ano": "2003"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "GRANVILLE, L",
+                "evento": "Z.; TAROUCO",
+                "local": "L. M. R.; ALMEIDA, M. J. B.; DIMAS - Discovery Mobile Agents System. WTNN - Workshop de Gerência de Redes e TMN, Búzios",
+                "ano": "2002"
+            },
+            {
+                "autores": "KELLER, R.",
+                "titulo": "AMORETTI, M",
+                "evento": "S. M.; TAROUCO",
+                "local": "L.; VAGUETTI, L.; GARRIDO, S.; MACHADO, A.; Webstorming - Thunderstorm of ideas on the web. ICTE - International Conference on Information and Comunication Technologies in Education, Badajoz",
+                "ano": "2002"
+            },
+            {
+                "autores": "VAGUETTI, L.",
+                "titulo": "MERGEN, S",
+                "evento": "; HIETINGER",
+                "local": "W.; Estudo e Fabricação de um carro-Robô controlado por computador co características Lúdico Pedagógicas. V Seminário de Iniciação Cientifica e IV Jornada de Ensino, Pesquisa e extensão da UNISC, Santa Cruz do Sul",
+                "ano": "1999"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Arthur Wallace Silva Lopes",
+                "titulo": "ESTUDO DE TÉCNICAS DE FILTRAGEM RELATIVAS AO PROCESSAMENTO DE LINGUAGEM NATURAL PARA DESENVOLVIMENTO DE CHATBOTS",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+            },
+            {
+                "orientando": "Igor Pupe Rocha, Victor Rego Medeiros Lino",
+                "titulo": "Gerenciamento Adaptativo de Tráfego VoIP baseado em DiffServ",
+                "ano": "2009",
+                "curso": "Engenharia de Redes de Comunicação",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Pablo Giordano",
+                "titulo": "Estudo de tecnologias de Autenticação e análise para implantação em aplicações para TVDigital",
+                "ano": "2008",
+                "curso": "Engenharia de Redes de Comunicação",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Carlos Roberto Vieira da Silva",
+                "titulo": "Avaliação de Ferramentas de Business Process Modeling (BPM) utilizando o modelo Ontológico de Bunge-Wand-Weber(BWW)",
+                "ano": "2007",
+                "curso": "Eng. de Software apoiada por Fábrica de Software",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "ALBERTO ARAUJO CAVALCANTE NETO, WADSON SAMPAIO PEREIRA",
+                "titulo": "Arquitetura de software para projetos de desenvolvimento no STJ",
+                "ano": "2007",
+                "curso": "Eng. de Software apoiada por Fábrica de Software",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Glaucio Southier",
+                "titulo": "CONTROLE DE ACESSO EM MÓDULOS HETEROGENEOS DE SOFTWARE",
+                "ano": "2007",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Rafael Nunes Medeiros dos Santos",
+                "titulo": "Orientação a Aspectos e Framework Spring",
+                "ano": "2007",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Nélio Mesquita de Lima, Hernany Ferreira Pinto",
+                "titulo": "Componentes Interativos para TV Digital",
+                "ano": "2007",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Egisberto Vicente da Silva",
+                "titulo": "MVC & Zend Framework: Padrões, Teoria e Análise Prática",
+                "ano": "2007",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Janaina Barcelos Resende",
+                "titulo": "Acessibilidade na Web: Proposta de Avaliação e Breve estudo de Caso",
+                "ano": "2007",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Pedro Machado, Igor Andrade Viana",
+                "titulo": "Sistema Baseado na Web para gerenciamento de Traps SNMP (Co-orientação)",
+                "ano": "2007",
+                "curso": "Engenharia de Redes de Comunicação",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Adriano Araújo Rosa, Marcelo Vinícius Elias Barbosa",
+                "titulo": "TVNavigator - Interpretador HTML não residente para TV Digital",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Eliane Tomás, Ana Flávia Araújo",
+                "titulo": "Integração de Sistema de Video-Conferência ao Moodle",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Anderson Pierre, Denise Bezerra",
+                "titulo": "Protótipo de Sofware para dispositivos móveis utilizando J2ME",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Ailton de Freitas, Gilberto Kratka",
+                "titulo": "Mini Controle Financeiro para Celulares",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Wesley Barbaresco Silva",
+                "titulo": "Gerenciamento de Redes Wireless em Ambiente WEB",
+                "ano": "2005",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Cintya Santana Teixeira Araújo, Fabrício Gomes Araújo",
+                "titulo": "Desenvolvimento de Sistemas Web (utilizando XML, Struts e JSP) com Interface Dinâmica com Base em Perfis de Usuários",
+                "ano": "2005",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Alexandre Augusto Godinhho de Freitas, Fabiano Falco Palhari",
+                "titulo": "Desenvolvimento de Sistemas Web (utilizando XML ,Struts e JSP)",
+                "ano": "2005",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "ANA CLÁUDIA BORGES COUTRIM, ÉRIKA SUZANA SANTOS",
+                "titulo": "DESENVOLVIMENTO DE APLICAÇÕES EM J2EE UTILIZANDO CONTROLE E INTERFACE STRUTS/JSP",
+                "ano": "2005",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Elmiro Luiz da Silva Neto, Fabiano Nascimento Carrijo",
+                "titulo": "Ferramenta de Integração Apache-ASP",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Adriane Sabino, Débora Arrais e Marcilene de Souza Melo",
+                "titulo": "Sistema de Automação Parlamentar - SIAP",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Edson L",
+                "titulo": "dos Santos, Francisco C. Araújo, Luiz Sávio Rocha.  Ilog - Integrador de Sistemas de Monitoramento",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Leonardo Schwindt",
+                "titulo": "Gerenciamento de Projetos de Engenharia de Sistemas",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Antônio C",
+                "titulo": "dos Anjos, Gustavo A. R. Rocha e Leonardo Alves.  Desenvolvimento de Browser para TV Digita e : Estudo da API JavaTV",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Anselmo A",
+                "titulo": "Rizzi, Carlos E. C. Oliveira e SimoneLopes.  SICSF - Sistema de Cadastramento de Famílias do Programa Saúde da Família",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Anderson Guerra Filho",
+                "titulo": "Implementação de Redes de Computadores com suporte a QoS para aplicações VoIP",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Marcelo Ricardo, Willon Felix",
+                "titulo": "Jaba.NET - Compilador de Português Estruturado .NET",
+                "ano": "2004",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário UniEuro"
+            },
+            {
+                "orientando": "Jamil Calixto Said, Tiago Caceraghi dos Santos",
+                "titulo": "Implementação de uma Solução de Balanced ScoredCard (BSC) em pequenas empresas utilizando J2EE e JSP",
+                "ano": "2004",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Igor Almeida Machado",
+                "titulo": "Desenvolvimento de Aplicações para equipamentos HandHeld (J2ME)",
+                "ano": "2004",
+                "curso": "OBJETOS, SISTEMAS DISTRIBUÍDOS E INTERNET",
+                "instituicao": "Universidade de Brasília"
+            },
+            {
+                "orientando": "Sigfrid Murillo",
+                "titulo": "CONTROLE DE ESTAÇÕES NO AMBIENTE QAME",
+                "ano": "2003",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade de Santa Cruz do Sul"
+            }
+        ]
+    }
+}

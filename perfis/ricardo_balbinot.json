@@ -1,0 +1,479 @@
+{
+    "campus": "- Campus Canoas",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2025",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "orientador": "Ivan Müller"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2000 - 2002",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "titulo": "Modelagem e Prototipagem de Sistemas de Voz sobre IP com Mecanismos de Transmissão Robusta",
+                "orientador": "Jorge Guedes Silveira"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1995 - 2000",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "periodo": "2002 - 2008",
+                "cargo": "Professor assistente, Professor assistente nas disciplinas:Redes Digitais, Redes de Comunicação, Sistemas Multiplexados e Gerência em Redes de Telecomunicações, Eletrônica Digital."
+            },
+            {
+                "empresa": "Celular Crt S A",
+                "periodo": "2001 - 2006",
+                "cargo": "Especialista, Atuando como coordenador de projetos de pesquisa e desenvolvimento junto a universidades e ICTs (UFRGS, PUCRS, ULBRA, CPqD).Atuando na função de seleção de tecnologias e planejamento tecnológico.Empresa passou a se denominar Vivo a partir de 2006.."
+            },
+            {
+                "empresa": "Universidade de Caxias do Sul",
+                "periodo": "2004 - 2015",
+                "cargo": "Professor, Docente do curso de Automação Industrial até 2005, em Caxias do Sul, e a partir de então atuando como docente no curso de Engenharia Elétrica/Eletrônica da instituição, em Bento Gonçalves.."
+            },
+            {
+                "empresa": "VIVO S.A.",
+                "periodo": "2006 - 2011",
+                "cargo": "Consultor, Atuando como consultor em tecnologia e na coordenação de projetos e equipes de pesquisa, inovação e desenvolvimento, com recursos próprios da empresa ou em parceria com empresas como Motorola, Huawei e outras, preferencialmente com uso das leis de incentivo (lei do Bem e PPB).."
+            },
+            {
+                "empresa": "Instituto Federal Sul-Rio-Grandense",
+                "periodo": "2010 - 2012",
+                "cargo": "Professor, Nomeação de acordo com portaria n. 1239, IFSUL, de 20 de agosto de 2010, conforme DOU (ISSN 1677-7050) n. 161, de 23 de agosto de 2010. Redistribuído ao IFRS, nos termos da portaria n. 1253, de 4 de setembro de 2012, conforme DOU (ISSN 1677-7050) n. 173, de 5 de setembro de 2012.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2012",
+                "cargo": "Professor, Professor no curso de Engenharia Eletrônica, atuando na área de Telecomunicações e Sistemas Digitais. Atua também como docente no curso técnico integrado ao ensino médio em Eletrônica. Redistribuído ao IFRS, nos termos da portaria n. 1253, de 4 de setembro de 2012, conforme DOU (ISSN 1677-7050) n. 173, de 5 de setembro de 2012.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nGraduacao (2021) - Engenharia Eletrônica.\nEnsino-medio (2016) .\nGraduacao (2012 - 2022) - Automação Industrial.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Redes Metropolitanas de Alta Velocidade",
+                "periodo": "1998 - 2001",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Jorge Guedes Silveira",
+                    "Fladhimyr Câmara Castello",
+                    "André Ricardo Vieira",
+                    "Eloísio Bergamaschi",
+                    "Fernando Thiesen",
+                    "André Balen",
+                    "Rafael Rehm",
+                    "Paulo Lomando Nunes",
+                    "Fernando Lunardelli"
+                ],
+                "financiador": "Companhia de Processamento de Dados do Estado do Rio Grande do Sul, Companhia de Processamento de Dados do Município de Porto Alegre, Companhia Rio Grandense de Telecomunicações, Conselho Nacional de Desenvolvimento Científico e Tecnológico, Universidade do Vale do Rio dos Sinos, Universidade Federal do Rio Grande do Sul, Pontifícia Universidade Católica do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Convênio Telefonica Celular-PUCRS",
+                "periodo": "2001 - 2002",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Jorge Guedes Silveira",
+                    "Fladhimyr Câmara Castello",
+                    "Alexandre da Silva Quadra",
+                    "André Ricardo Vieira",
+                    "José Augusto de Oliveira Neto",
+                    "Eloísio Bergamaschi",
+                    "Fernando Thiesen",
+                    "Rodrigo Borges",
+                    "Pedro Schaan"
+                ],
+                "financiador": "Pontifícia Universidade Católica do Rio Grande do Sul, Celular Crt S A,"
+            },
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Convênio PARKS",
+                "periodo": "2000 - 2002",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Jorge Guedes Silveira",
+                    "Marcelo Azambúja"
+                ],
+                "financiador": "Parks Comunicações Digitais,"
+            },
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Redes Metropolitanas de Alta Velocidade- Fase 2",
+                "periodo": "2003 - 2006",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Jorge Guedes Silveira",
+                    "Fladhimyr Câmara Castello",
+                    "André Ricardo Vieira",
+                    "Rafael Rehm",
+                    "Marcelo Azambúja",
+                    "Gabriel Pundrich"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Pontifícia Universidade Católica do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Pesquisa e Desenvolvimento em Sistemas de Voz Sobre IP com Mecanismos de Transmissão Robusta",
+                "periodo": "2003 - 2004",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Pedro Martins dos Santos",
+                    "Jorge Guedes Silveira",
+                    "Fladhimyr Câmara Castello",
+                    "Alexandre da Silva Quadra",
+                    "Bruno Romeiro Pasetto",
+                    "Lourenço de Oliveira Basso",
+                    "Taciane Vendrúsculo",
+                    "Ricardo Mello",
+                    "Gustavo Tourinho",
+                    "Angelo Felipe Chiella",
+                    "Alexandre Coster",
+                    "Moisés Coster",
+                    "Daniel Korndorfer Silva",
+                    "Felipe Mobus",
+                    "Guilherme Rauter Corsetti",
+                    "Luis Carlos Poletto",
+                    "Leonardo da Silva Correa Romeiro",
+                    "Marcelo Chwartzmann Halpern",
+                    "Ricardo Becker",
+                    "Ricardo Soares",
+                    "Virgílio Marcos Tort Peixoto"
+                ],
+                "financiador": "Celular Crt S A, Pontifícia Universidade Católica do Rio Grande do Sul, Financiadora de Estudos e Projetos,"
+            },
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Convênio Vivo-PUCRS",
+                "periodo": "2003 - 2004",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Jorge Guedes Silveira",
+                    "Flávia Luiz Caminha",
+                    "Raphael Lucas Moita",
+                    "Antônio Cláudio Kieling Júnior",
+                    "Paulo César Ribeiro Júnior",
+                    "Natália Viola Beck",
+                    "Bruno Romeiro Pasetto"
+                ],
+                "financiador": "Pontifícia Universidade Católica do Rio Grande do Sul, Celular Crt S A,"
+            },
+            {
+                "instituicao": "Celular Crt S A",
+                "nome": "Projeto CelTel- Telemetria em ambientes celulares com garantias de qualidade de serviço fim-a-fim",
+                "periodo": "2004 - 2005",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Jorge Guedes Silveira",
+                    "Fladhimyr Câmara Castello",
+                    "José Augusto de Oliveira Neto",
+                    "Eloísio Bergamaschi",
+                    "Roberto Irajá Tavares da Costa Filho"
+                ],
+                "financiador": "Celular Crt S A, Universidade Federal do Rio Grande do Sul, Motorola,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Arduino Day - Campus Canoas",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Augusto Alexandre Durgante de Mattos",
+                    "Otavio Simoes Mano",
+                    "Douglas da Silva Costa",
+                    "Lucas Nitz",
+                    "Cássio Klein"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Clube de Eletrônica",
+                "periodo": "2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Ricardo Becker",
+                    "AUGUSTO ALEXANDRE DURGANTE DE MATTOS",
+                    "CLAUDIO ENRIQUE FERNANDEZ RODRIGUEZ",
+                    "JOEL AUGUSTO LUFT",
+                    "OTAVIO SIMOES MANO",
+                    "EMILIO RODOLFO AREND",
+                    "CAIO GRACO PRATES ALEGRETTI"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Prototipagem de circuitos impressos: estudo, concepção e produção de placas de circuitos eletrônicos como laboratório didático de apoio ao ensino de eletrônica",
+                "periodo": "2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Ricardo Balbinot",
+                    "Ricardo Becker",
+                    "AMADEU MOZARTE FREITAS PINHEIRO",
+                    "AUGUSTO ALEXANDRE DURGANTE DE MATTOS",
+                    "CLAUDIO ENRIQUE FERNANDEZ RODRIGUEZ",
+                    "JOEL AUGUSTO LUFT",
+                    "OTAVIO SIMOES MANO",
+                    "EAN CARLOS ESPERANCA"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "BALBINOT",
+                    "evento": "R.,  Arduino Day no Campus Canoas/IFRS",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Rio Grande do Sul."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Daronco, Leonardo Crauss",
+                "titulo": "Roesler, Valter;  Lima, JosÃ© Valdeni;  BALBINOT, R.;  Quality analysis of scalable video coding on unstable transmissions",
+                "ano": "2011",
+                "periodico": "MULTIMEDIA TOOLS AND APPLICATIONS. ISBN: 13807501   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "STANGHERLIN, K.",
+                "titulo": "FILHO, R",
+                "evento": "COSTA; LAUTENSCHLAGER",
+                "local": "W.; GUADAGNIN, V.; BALBINOT, L.; BALBINOT, R.; ROESLER, V.; One-way delay measurement in wired and wireless mobile full-mesh networks. 2011 IEEE Wireless Communications and Networking Conference (WCNC), Cancun",
+                "ano": "2011"
+            },
+            {
+                "autores": "SANTOS, G. L.",
+                "titulo": "GUIMARAES, V",
+                "evento": "T.; SILVEIRA",
+                "local": "J. G.; COSTA, R.; BALBINOT, R.; OLIVEIRA NETO, J. A.; Avaliação da Técnica de Amostragem Estratificada Adaptativa para Identificação de Fluxos Elefantes em Redes Convergentes. XXV Simpósio Brasileiro de Telecomunicações, Recife",
+                "ano": "2007"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SANTOS, G",
+                "evento": "L.; SILVEIRA",
+                "local": "J. G.; OLIVEIRA NETO, J. A.; COSTA, R.; GUIMARAES, V. T.; VIEIRA, A. T.; UAMA: a unified architecture for active measurements in IP networks. Integrated Network Management, Munique",
+                "ano": "2007"
+            },
+            {
+                "autores": "BECKER, R.",
+                "titulo": "CORSETTI, G",
+                "evento": "; SILVEIRA",
+                "local": "J. G.; BALBINOT, R.; CASTELLO, F. C.; A Silence Detection and Suppression Technique Design for Voice Over IP Systems. IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Victoria",
+                "ano": "2005"
+            },
+            {
+                "autores": "CORSETTI, G. R.",
+                "titulo": "COSTER, M",
+                "evento": "; BALBINOT",
+                "local": "R.; CASTELLO, F. C.; SILVEIRA, J. G.; Implementação de um filtro LMS adaptativo aplicado ao cancelamento de eco em voz sobre IP. Segunda Escola Regional de Redes de Computadores, Canoas",
+                "ano": "2004"
+            },
+            {
+                "autores": "SANTOS, P. M.",
+                "titulo": "BALBINOT, R",
+                "evento": "; SILVEIRA",
+                "local": "J. G.; CASTELLO, F. C.; Analysis of Packet Loss Correction and Concealment Algorithms in Robust Voice Over IP Environments. IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Victoria",
+                "ano": "2003"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; OLIVEIRA NETO",
+                "local": "J. A.; CASTELLO, F. C.; QUADRA, A. S.; VIEIRA, A.; Interoperability of Mobile Location Systems. IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Victoria",
+                "ano": "2003"
+            },
+            {
+                "autores": "CASTELLO, F. C.",
+                "titulo": "BALBINOT, R",
+                "evento": "; SILVEIRA",
+                "local": "J. G.; SANTOS, P. M.; A robust architecture for IP telephony systems interconnection. IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Victoria",
+                "ano": "2003"
+            },
+            {
+                "autores": "SILVEIRA, J. G.",
+                "titulo": "BALBINOT, R",
+                "evento": "; OLIVEIRA NETO",
+                "local": "J. A.; CASTELLO, F. C.; QUADRA, A. S.; VIEIRA, A.; Telemetry Extensions for the Mobile Location Protocol. IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, Victoria",
+                "ano": "2003"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; OLIVEIRA NETO",
+                "local": "J. A.; CASTELLO, F. C.; QUADRA, A. S.; VIEIRA, A.; Ubiquitous Mobile Location System. ICCCN 2003, Austin",
+                "ano": "2003"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; CASTELLO",
+                "local": "F. C.; SANTOS, P. M.; QUADRA, A. S.; Voz Sobre IP- Tecnologia e Tendências. Simpósio Brasileiro de Redes de Computadores, Natal",
+                "ano": "2003"
+            },
+            {
+                "autores": "CASTELLO, F. C.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; BALBINOT",
+                "local": "R.; Desenvolvimento de gateways para telefonia IP. Simpósio Brasileiro de Telecomunicações, Rio de Janeiro",
+                "ano": "2003"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; CASTELLO",
+                "local": "F. C.; Transmissão Robusta de Voz sobre IP Aplicado a Redes de Comunicação. Conferencia Iberoamericana en Sistemas, Cibernética e Informática CISCI 2002, Orlando",
+                "ano": "2002"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; FRANCO",
+                "local": "P.; Desktop Voice Over IP Development with PSTN Integration. Pacific Rim Conference On Communications, Computers and Signal Processing, Victoria",
+                "ano": "2001"
+            },
+            {
+                "autores": "SILVEIRA, J. G.",
+                "titulo": "BALBINOT, R",
+                "evento": "; VIEIRA",
+                "local": "A.; A Modular System Tool for the Distance Learning. Pacific Rim Conference On Communications, Computers and Signal Processing, Victoria",
+                "ano": "2001"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; Webtchê: Um Sistema Modular para a Educação à Distância. Conferência Internacional de Educação em Engenharia e Computação",
+                "local": "São Paulo",
+                "ano": "2000"
+            },
+            {
+                "autores": "BALBINOT, R.",
+                "titulo": "SILVEIRA, J",
+                "evento": "G.; NUNES",
+                "local": "P. L.; Desenvolvimento de Aplicações Multimídia para Redes de Alta Velocidade. II Workshop RNP 2, Belo Horizonte",
+                "ano": "2000"
+            },
+            {
+                "autores": "SILVEIRA, J. G.",
+                "titulo": "BALBINOT, R",
+                "evento": "; NUNES",
+                "local": "P. L.; FoneTchê: um sistema modular de telefonia por computador para serviços de voz sobre IP. II Workshop RNP 2, Belo Horizonte",
+                "ano": "2000"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jorge Douglas Rigo",
+                "titulo": "Estudo Comparativo de Métodos de Análise de Assimetrias em Motores de Indução em Gaiola de Esquilo com Desenvolvimento de Algoritmo de Simulação",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Jankiel Girelli Fabro",
+                "titulo": "Estudo de Métodos para Detecção de Assimetria Elétrica em Motores de Indução Trifásicos através da Análise de Assinatura",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Michel Carra",
+                "titulo": "SISTEMA AUTÔNOMO PARA MEDIÇÃO DE ATRASO EM REDES DE PACOTES",
+                "ano": "2009",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Márcio Zilio",
+                "titulo": "REDES NEURAIS NA CLASSIFICAÇÃO DE IMAGENS APLICADAS A INSPEÇÃO DA QUALIDADE DE PRODUTOS FABRICADOS",
+                "ano": "2009",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Tiago Borth",
+                "titulo": "Implementação de Sistemas Domóticos Integrando Redes de Comunicação",
+                "ano": "2009",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Eduardo dos Santos Rocha",
+                "titulo": "Sistema digital de controle através do protocolo de gerência de rede SNMP",
+                "ano": "2005",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Paulo César Ribeiro Júnior",
+                "titulo": "Sistemas de telemetria baseados em redes celulares",
+                "ano": "2004",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Ricardo Becker",
+                "titulo": "Análise comparativa de técnicas de supressão de silêncio aplicadas à voz sobre IP",
+                "ano": "2004",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Fabiano Cornelli",
+                "titulo": "Dispositivo de Furação Automatizado do Suporte do Pára-lama",
+                "ano": "2004",
+                "curso": "Tecnológo em Automação Industrial",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Cristiano Lauer",
+                "titulo": "Automação de máquina para polimento de virabrequins",
+                "ano": "2004",
+                "curso": "Tecnológo em Automação Industrial",
+                "instituicao": "Universidade de Caxias do Sul"
+            },
+            {
+                "orientando": "Diego Arias Wolff",
+                "titulo": "Sensoriamento remoto utilizando o microcontrolador MSP 430F149",
+                "ano": "2003",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+            }
+        ]
+    }
+}

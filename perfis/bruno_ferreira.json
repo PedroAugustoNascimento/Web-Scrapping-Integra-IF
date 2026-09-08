@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -143,10 +144,10 @@
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Bruno Ferreira",
                     "Efrem Ferreira",
                     "Bruno Eustáquio Enes",
-                    "Patrícia Pieroni"
+                    "Patrícia Pieroni",
+                    "Bruno Ferreira"
                 ]
             },
             {
@@ -425,10 +426,10 @@
                 "ano": "2012"
             },
             {
-                "autores": "COSTA, D.",
-                "titulo": "FERREIRA, B",
-                "evento": "; DIAS",
-                "local": "T. M. R.; MOITA, G. F.; Validação de Processo de Desenvolvimento de Software por Métricas de Satisfação de Uso. IX SIMMEC Simpósio de Mecânica Computacional, São João Del Rei",
+                "autores": "FERREIRA, B.",
+                "titulo": "DIAS, T",
+                "evento": "M. R.; MOITA",
+                "local": "G. F.; COSTA, D.; Validação de Processo de Desenvolvimento de Software por Métricas de Satisfação de Uso. IX SIMMEC Simpósio de Mecânica Computacional, São João Del Rei",
                 "ano": "2010"
             },
             {
@@ -617,12 +618,12 @@
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 13.119991302490234,
-            "indian": 14.297466278076172,
-            "black": 5.769350528717041,
-            "white": 15.316182136535645,
-            "middle eastern": 15.737841606140137,
-            "latino hispanic": 35.75917053222656
+            "asian": 13.069618225097656,
+            "indian": 10.445591926574707,
+            "black": 4.972364902496338,
+            "white": 20.20793342590332,
+            "middle eastern": 17.35502052307129,
+            "latino hispanic": 33.9494743347168
         }
     }
 }

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus São João Evangelista",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -51,7 +52,7 @@
             {
                 "empresa": "Prefeitura Municipal de Belo Horizonte",
                 "periodo": "2000 - 2005",
-                "cargo": "Professor Municipal."
+                "cargo": "Professor Municipal, Servidor público."
             },
             {
                 "empresa": "Pontifícia Universidade Católica de Minas Gerais",
@@ -71,7 +72,7 @@
             {
                 "empresa": "SECRETARIA DE ESTADO DE EDUCAÇÃO DE MINAS GERAIS",
                 "periodo": "1999 - 2010",
-                "cargo": "Professora da Educação Básica(Matemática)."
+                "cargo": "Professora da Educação Básica(Matemática), Servidor público."
             },
             {
                 "empresa": "Prefeitura Municipal de Contagem",
@@ -91,7 +92,7 @@
             {
                 "empresa": "IFMG - Campus São João Evangelista",
                 "periodo": "2017",
-                "cargo": "Membro de grupo de pesquisa, Membro do GEPETEM - Grupo de estudos e pesquisas em Tecnologia na Educação Matemática.."
+                "cargo": "Membro de grupo de pesquisa, Servidor público, Membro do GEPETEM - Grupo de estudos e pesquisas em Tecnologia na Educação Matemática.."
             },
             {
                 "empresa": "Universidade Tecnológica Federal do Paraná",
@@ -404,10 +405,10 @@
                 "ano": "2014"
             },
             {
-                "autores": "BICALHO, Jossara Bazílio de Souza",
-                "titulo": "ANDRADE, H",
+                "autores": "FERREIRA, B. S.",
+                "titulo": "BICALHO, Jossara Bazílio de Souza; ANDRADE, H",
                 "evento": "A.; AVILA FILHO",
-                "local": "F. S.; FERNANDES, N. R.; FERREIRA, B. S.; SILVA, A. B.; MAGALHAES, L. G. S.; Corrida de obstáculos: uma alternativa didática no ensino de operações com números inteiros. II Semana de Integração Acadêmica do IFMG Câmpus São João Evangelista e II Semana de Estudos em Educação Matemática, São João Evangelista, MG",
+                "local": "F. S.; FERNANDES, N. R.; SILVA, A. B.; MAGALHAES, L. G. S.; Corrida de obstáculos: uma alternativa didática no ensino de operações com números inteiros. II Semana de Integração Acadêmica do IFMG Câmpus São João Evangelista e II Semana de Estudos em Educação Matemática, São João Evangelista, MG",
                 "ano": "2014"
             },
             {
@@ -481,9 +482,9 @@
                 "ano": "2014"
             },
             {
-                "autores": "AVILA FILHO, F. S.",
-                "titulo": "ANDRADE, H",
-                "evento": "A.; BICALHO",
+                "autores": "ANDRADE, H. A.",
+                "titulo": "AVILA FILHO, F",
+                "evento": "S.; BICALHO",
                 "local": "Jossara Bazílio de Souza; Geometria Fracta: uma proposta inovadora no âmbito do PIBID/CAPES. III FEIRA NACIONAL DE MATEMÁTICA, SALVADOR, BA",
                 "ano": "2014"
             },
@@ -692,14 +693,14 @@
     "Cor/Raça": {
         "raca_original": "white",
         "raca_ibge": "Branca",
-        "confiança": 0.99,
+        "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.002819351153448224,
-            "indian": 0.011245270259678364,
-            "black": 0.0002319896884728223,
-            "white": 93.34133911132812,
-            "middle eastern": 3.824406623840332,
-            "latino hispanic": 2.8199563026428223
+            "asian": 0.0005779647617600858,
+            "indian": 0.0015284521505236626,
+            "black": 2.233804843854159e-05,
+            "white": 97.41453552246094,
+            "middle eastern": 1.5378330945968628,
+            "latino hispanic": 1.045500636100769
         }
     }
 }

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -33,14 +34,14 @@
         ],
         "atuacoes_profissionais": [
             {
-                "empresa": "Ministério da Educação",
-                "periodo": "2010 - 2010",
-                "cargo": "Tutor, Tutor, Tutor no programa de ensino a distância do Gorverno Federal. O programa e_Proinfo tem o objetivo principal de introduzir o uso das tecnologias de informação e comunicação nas escolas da rede pública, além de articular as atividades desenvolvidas sob sua jurisdição, em especial as ações dos Núcleos de Tecnologia Educacional (NTEs).."
-            },
-            {
                 "empresa": "Universidade Federal de Ouro Preto",
                 "periodo": "2008 - 2011",
                 "cargo": "Bolsista, Bolsista."
+            },
+            {
+                "empresa": "Ministério da Educação",
+                "periodo": "2010 - 2010",
+                "cargo": "Tutor, Tutor, Tutor no programa de ensino a distância do Gorverno Federal. O programa e_Proinfo tem o objetivo principal de introduzir o uso das tecnologias de informação e comunicação nas escolas da rede pública, além de articular as atividades desenvolvidas sob sua jurisdição, em especial as ações dos Núcleos de Tecnologia Educacional (NTEs).."
             },
             {
                 "empresa": "Ministerio da Educacao e Cultura",
@@ -241,8 +242,8 @@
                     "instituicao_promotora": "International Association for development of the information society."
                 },
                 {
-                    "autores": "Saulo H. C. Silva",
-                    "titulo": "SUELLEN,,  André L.L. de Aquino,  RABELO,Ricardo A. R. Oliveira,  Caracterização de Algoritmos de Redução de Dados Baseados em Stream de Dados em Redes de Sensores Sem Fio",
+                    "autores": "SUELLEN",
+                    "titulo": ",  Saulo H. C. Silva,  André L.L. de Aquino,  RABELO,Ricardo A. R. Oliveira,  Caracterização de Algoritmos de Redução de Dados Baseados em Stream de Dados em Redes de Sensores Sem Fio",
                     "ano": "2011",
                     "instituicao_promotora": "SOBRAPO."
                 },
@@ -550,12 +551,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.0031288382597267628,
-            "indian": 0.20906192064285278,
-            "black": 0.001304413191974163,
-            "white": 81.65430450439453,
-            "middle eastern": 16.4350528717041,
-            "latino hispanic": 1.6971492767333984
+            "asian": 0.0035729005467146635,
+            "indian": 0.23574236035346985,
+            "black": 0.001293219393119216,
+            "white": 81.17546844482422,
+            "middle eastern": 16.476194381713867,
+            "latino hispanic": 2.1077306270599365
         }
     }
 }

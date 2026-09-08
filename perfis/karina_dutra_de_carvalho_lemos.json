@@ -1,5 +1,6 @@
 {
     "campus": "- Campus São João Evangelista",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -238,18 +239,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Software para cálculo do custo de produção para o setor agroindustrial",
-                "periodo": "2011 - 2012",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Karina Dutra de Carvalho Lemos",
-                    "Claudineia Gonçalves de Arruda",
-                    "Guidson Coelho de Andrade"
-                ],
-                "financiador": "Instituto Federal Minas Gerais,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Programa de análise e recomendação de nutrientes para o solo",
                 "periodo": "2011 - 2012",
                 "natureza": "Desenvolvimento",
@@ -269,6 +258,18 @@
                     "Karina Dutra de Carvalho Lemos",
                     "Michelle Nery",
                     "Daniela Couto de Oliveira"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Software para cálculo do custo de produção para o setor agroindustrial",
+                "periodo": "2011 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Karina Dutra de Carvalho Lemos",
+                    "Claudineia Gonçalves de Arruda",
+                    "Guidson Coelho de Andrade"
                 ],
                 "financiador": "Instituto Federal Minas Gerais,"
             },
@@ -1070,20 +1071,6 @@
                 "instituicao": "IFMG - Campus São João Evangelista"
             },
             {
-                "orientando": "Daiane Roberta Cândido",
-                "titulo": "Estágio Extra Curricular",
-                "ano": "2010",
-                "curso": "Sistemas de Informação",
-                "instituicao": "Centro Universitário Presidente Antônio Carlos"
-            },
-            {
-                "orientando": "Jean Carlos Batista",
-                "titulo": "Estágio Extra Curricular",
-                "ano": "2010",
-                "curso": "Sistemas de Informação",
-                "instituicao": "Centro Universitário Presidente Antônio Carlos"
-            },
-            {
                 "orientando": "Flávia Ries de Souza",
                 "titulo": "Estágio Curricular",
                 "ano": "2010",
@@ -1105,9 +1092,16 @@
                 "instituicao": "Centro Universitário Presidente Antônio Carlos"
             },
             {
-                "orientando": "Cibele Almeida Franco",
-                "titulo": "Gerenciador financeiro pessoal para celular",
-                "ano": "2009",
+                "orientando": "Daiane Roberta Cândido",
+                "titulo": "Estágio Extra Curricular",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Jean Carlos Batista",
+                "titulo": "Estágio Extra Curricular",
+                "ano": "2010",
                 "curso": "Sistemas de Informação",
                 "instituicao": "Centro Universitário Presidente Antônio Carlos"
             },
@@ -1177,6 +1171,13 @@
             {
                 "orientando": "Aldrin Leandro Ribeiro",
                 "titulo": "Estágio Extra Curricular",
+                "ano": "2009",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos"
+            },
+            {
+                "orientando": "Cibele Almeida Franco",
+                "titulo": "Gerenciador financeiro pessoal para celular",
                 "ano": "2009",
                 "curso": "Sistemas de Informação",
                 "instituicao": "Centro Universitário Presidente Antônio Carlos"

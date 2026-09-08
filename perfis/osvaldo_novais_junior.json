@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Preto",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -67,8 +68,8 @@
                 "periodo": "2012 - 2013",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Osvaldo Novais Junior",
                     "Ana Elisa Costa Novais",
+                    "Osvaldo Novais Junior",
                     "Elke Beatriz Felix Pena"
                 ]
             },
@@ -201,16 +202,16 @@
         "outras_orientacoes": []
     },
     "Cor/Raça": {
-        "raca_original": "middle eastern",
-        "raca_ibge": "Parda",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.3218172788619995,
-            "indian": 4.957995891571045,
-            "black": 0.14283721148967743,
-            "white": 39.873252868652344,
-            "middle eastern": 40.41221237182617,
-            "latino hispanic": 14.291884422302246
+            "asian": 0.1682247519493103,
+            "indian": 1.9156283140182495,
+            "black": 0.08406401425600052,
+            "white": 53.34137725830078,
+            "middle eastern": 32.38373947143555,
+            "latino hispanic": 12.106968879699707
         }
     }
 }

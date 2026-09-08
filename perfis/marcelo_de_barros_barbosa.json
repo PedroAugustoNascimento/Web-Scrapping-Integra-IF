@@ -1,0 +1,308 @@
+{
+    "campus": "- Campus Ceará-Mirim",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "EUPAT for WoW: Uma Ferramenta de Assistência à Programação por Usuário Final",
+                "orientador": "Jair Cavalcanti Leite"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciencia da Computação",
+                "periodo": "2006 - 2010",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2014",
+                "cargo": ", Professor de Desenvolvimento de Jogos Digitais pelo campus Ceará-Mirim.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2013 - 2014",
+                "cargo": "Professor substituto."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2007 - 2008",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Comunicação na Tecnologia da Informação: Jornalismo e difusão da Mídia Impressa no IFRN e comunidade local",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcelo de Barros Barbosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "IFNews: aplicativo móvel para soluções de comunicação no IFRN",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo de Barros Barbosa",
+                    "Daniel Ferreira Lopes",
+                    "Arthur Antônio Freire Alves"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Geração Procedural em Motores de Jogos de baixo esforço",
+                "periodo": "2017 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo de Barros Barbosa",
+                    "Erikson Pedro da Silva Nicácio",
+                    "José Luiz Dantas de Lima e Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Liga de Esportes Eletrônicos do IFRN",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcelo de Barros Barbosa",
+                    "Franklim Mateus Mendonca Barbosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Empreendedorismo S2S: Gameficação de alunos para alunos",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcelo de Barros Barbosa",
+                    "Idelmarcia Dantas de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Geração Procedural de Cenários em Jogos Digitais",
+                "periodo": "2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo de Barros Barbosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Soluções de Acessibilidade em Jogos Digitais para portadores de LER/Tendinite crônica",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo de Barros Barbosa"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  Reis",
+                    "ano": "2016",
+                    "finalidade": "Engine for developing 2D games.."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  MuSSE: Multi-sized Sprite Sheet meta-data Exporter",
+                    "ano": "2016",
+                    "finalidade": "MuSSE is a tool developed to extract XML data from sprite sheet images.."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BARBOSA",
+                    "titulo": "M. B.,  Como desenvolver sua própria Engine",
+                    "ano": "2018",
+                    "instituicao_promotora": "Campus Party."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BARBOSA",
+                    "curso": "M. B.,  Introdução a criação de jogos utilizando Construct 2",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "BARBOSA",
+                    "curso": "M. B.,  Introdução a criação de jogos utilizando Construct 2",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "BARBOSA",
+                    "curso": "M. B.,  Oficina Robocode",
+                    "ano": "2013"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "BARBOSA",
+                    "evento": "M. B.,  MADEIRA, C.,  Encontro Potiguar de Jogos, Entretenimento e Educação (EPoGames)",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte (UFRN)."
+                },
+                {
+                    "autores": "BARBOSA",
+                    "evento": "M. B.,  MADEIRA, C.,  Encontro Potiguar de Jogos, Entretenimento e Educação (EPoGames)",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte (UFRN)."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BARBOSA, M. B.",
+                "titulo": "BARBOSA, A. F.;  BARBOSA, C. B.;  Proposing a practical approach to extract and read XML meta-data from sprite sheets using Blob detection algorithm",
+                "ano": "2016",
+                "periodico": "SBC JOURNAL ON 3D INTERACTIVE SYSTEMS. ISBN: 22363297   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "BARBOSA, M. B.",
+                "titulo": "REGO, A",
+                "evento": "B.; MEDEIROS",
+                "local": "I.; HEEG: Heuristic Evaluation for Educational Games. XIV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2015), Teresina",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARBOSA, M. B.",
+                "titulo": "REGO, A",
+                "evento": "B.; MEDEIROS",
+                "local": "I.; Developing games with object composition: A case study using the Unity3D platform. XIV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2015), Teresina",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARBOSA, M. B.",
+                "titulo": "BARBOSA, C",
+                "evento": "B.; BARBOSA",
+                "local": "A. F.; MuSSE: a tool to extract meta-data from game sprite sheets using blob detection algorithm. XIV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2015), Teresina",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARBOSA, M. B.",
+                "titulo": "Jair C",
+                "evento": "Leite; EUPAT for WoW: uma ferramenta criação de extensões em Lua. IX Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2010)",
+                "local": "Florianópolis-SC",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Sâmia Kárima Oliveira de Lima",
+                "titulo": "Liga de Esportes Eletrônicos do IFRN",
+                "ano": "2017",
+                "curso": "Programação de Jogos Digitais",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Antônio Carlos Feitosa da Silva",
+                "titulo": "Liga de Esportes Eletrônicos do IFRN",
+                "ano": "2017",
+                "curso": "Programação de Jogos Digitais",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Franklin Mateus Mendonça Barbosa",
+                "titulo": "Liga de Esportes Eletrônicos do IFRN",
+                "ano": "2017",
+                "curso": "Programação de Jogos Digitais",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Erikson Pedro da Silva Nicácio",
+                "titulo": "Geração Procedural em Motores de Jogos de baixo esforço",
+                "ano": "2017",
+                "curso": "Programação de Jogos Digitais",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "José Luiz Dantas de Lima e Silva",
+                "titulo": "Geração Procedural em Motores de Jogos de baixo esforço",
+                "ano": "2017",
+                "curso": "Programação de Jogos Digitais",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Andreza Barbosa Rêgo",
+                "titulo": "HEEG: Heuristic Evaluation for Educational Games",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Igor de Medeiros",
+                "titulo": "Developing games with object composition: A case study using the Unity3D platform",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Arthur Antônio Freire Alves",
+                "titulo": "IFNews: aplicativo móvel para soluções de comunicação no IFRN",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Kayanny Elidja de Lima",
+                "titulo": "Comunicação na Tecnologia da Informação: Jornalismo e difusão da Mídia Impressa no IFRN e comunidade local",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Fernando Breno dos Santos Barbosa",
+                "titulo": "Comunicação na Tecnologia da Informação: Jornalismo e difusão da Mídia Impressa no IFRN e comunidade local",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Daniel Ferreira Lopes",
+                "titulo": "IFNews: aplicativo móvel para soluções de comunicação no IFRN",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.01781981810927391,
+            "indian": 1.1406766176223755,
+            "black": 0.0050720456056296825,
+            "white": 39.71563720703125,
+            "middle eastern": 54.811195373535156,
+            "latino hispanic": 4.30959415435791
+        }
+    }
+}

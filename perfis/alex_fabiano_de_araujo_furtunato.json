@@ -1,0 +1,152 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2016 - 2021",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Analytical speedup modeling for parallel applications with variable memory-access delay in symmetric architectures",
+                "orientador": "Samuel Xavier de Souza"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1995 - 1997",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Implementação de um Controlador de Velocidade usando Modos Deslizantes Suaves para um Motor de Indução Trifásico",
+                "orientador": "Andrés Ortiz Salazar"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1990 - 1994",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "1990 - 1997",
+                "cargo": "."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Rn",
+                "periodo": "1997",
+                "cargo": ", Servidor público ou celetista."
+            }
+        ],
+        "direcao_administracao": ": Centro Federal de Educação Tecnológica do Rn\nDepartamento de Gestão de TI (2007) : Chefe Do Departamento De Gestão De Ti.\nCoordenação de Informatização Administrativa (2000 - 2007) .\nCoordenação de Informatização Administrativa (2001 - 2002): Sistema de Autenticação,",
+        "ensino": ": Centro Federal de Educação Tecnológica do Rn\nGraduacao (1997) .",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "FURTUNATO",
+                    "software": "A. F. A.;FURTUNATO, A.F.A.;FURTUNATO, ALEX F. A.;A. Furtunato, Alex F.;de A. Furtunato, Alex F.,  CARVALHO, TULIO P. M,  SUAP - Sistema Unificado de Administração Pública",
+                    "ano": "2011",
+                    "finalidade": "Gestão Acadêmica de Instituição Pública de Ensino.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 0012774-3."
+                },
+                {
+                    "autor": "CARVALHO",
+                    "software": "TULIO P. M,  FURTUNATO, A. F. A.;FURTUNATO, A.F.A.;FURTUNATO, ALEX F. A.;A. Furtunato, Alex F.;de A. Furtunato, Alex F.,  PyPonto",
+                    "ano": "2007",
+                    "finalidade": "Sistema de Gerenciamemno de Ponto Eletrônico."
+                },
+                {
+                    "autor": "FURTUNATO",
+                    "software": "A. F. A.;FURTUNATO, A.F.A.;FURTUNATO, ALEX F. A.;A. Furtunato, Alex F.;de A. Furtunato, Alex F.,  CARVALHO, TULIO P. M,  Sistema de Almoxarifado e Patrimônio",
+                    "ano": "2007",
+                    "finalidade": "Sistema de Gerenciamento de Almoxarifado e Patrimônio."
+                },
+                {
+                    "autor": "FURTUNATO",
+                    "software": "A. F. A.;FURTUNATO, A.F.A.;FURTUNATO, ALEX F. A.;A. Furtunato, Alex F.;de A. Furtunato, Alex F.,  SILVA, R. B.,  ALBUQUERQUE, S. A. L.,  Ponto Eletrônico",
+                    "ano": "2002",
+                    "finalidade": "Sistema de Gerenciamento de Ponto Eletrônico."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FURTUNATO, A. F. A.",
+                "titulo": "FURTUNATO, A.F.A.;FURTUNATO, ALEX F. A.;A. Furtunato, Alex F.;de A. Furtunato, Alex F.;  GEORGIOU, KYRIAKOS;  EDER, KERSTIN;  Xavier-de-Souza, Samuel;  When Parallel Speedups Hit the Memory Wall",
+                "ano": "2020",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "OLIVEIRA, VICTOR H. F.",
+                "titulo": "FURTUNATO, ALEX F",
+                "evento": "A.; SILVEIRA",
+                "local": "LUIZ F.; GEORGIOU, KYRIAKOS; EDER, KERSTIN; XAVIER-DE-SOUZA, SAMUEL; Application Speedup Characterization. Companion of the 2018 ACM/SPEC International Conference, Berlin",
+                "ano": "2018"
+            },
+            {
+                "autores": "XAVIER-DE-SOUZA, SAMUEL",
+                "titulo": "NEVES, EDUARDO A",
+                "evento": "; FURTUNATO",
+                "local": "ALEX F. A.; SILVEIRA, LUIZ F. Q.; GEORGIOU, KYRIAKOS; EDER, KERSTIN I.; The benefits of low operating voltage devices to the energy efficiency of parallel systems. 2017 Fifth Berkeley Symposium on Energy Efficient Electronic Systems & Steep Transistors Workshop (E3S), Berkeley",
+                "ano": "2017"
+            },
+            {
+                "autores": "FURTUNATO, A. F. A.",
+                "titulo": "FURTUNATO, A",
+                "evento": "F.A.;FURTUNATO",
+                "local": "ALEX F. A.;A. Furtunato, Alex F.;de A. Furtunato, Alex F.; SALAZAR, A. O.; ARAÚJO, A. D.; Implementação de um Controle de Velocidade usando Modos Deslizantes Suaves para um Motor de Indução Trifásico. Comgresso Brasileiro de Eletrônica de Potência, Belo Horizonte",
+                "ano": "1997"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Fábio Fernandes Penha",
+                "titulo": "Introdução a conceitos LDAP",
+                "ano": "2003",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rn"
+            },
+            {
+                "orientando": "Charles César Magno de Freitas",
+                "titulo": "Sistema de pesquisa eletrônica para o site do CEFET/RN",
+                "ano": "2003",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rn"
+            },
+            {
+                "orientando": "Rodrigo Belo da Silva",
+                "titulo": "Desenvolvimento de um sistema de ponto eletrônico em Software Livre",
+                "ano": "2002",
+                "curso": "Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rn"
+            },
+            {
+                "orientando": "Helder Lira da Silva",
+                "titulo": "Análise, Modelagem e Produção do Controle Acadêmico do CEFET/RN",
+                "ano": "2001",
+                "curso": "Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rn"
+            },
+            {
+                "orientando": "Givanaldo Rocha de Souza",
+                "titulo": "Análise, Modelagem e Produção do Controle Acadêmico do CEFET/RN",
+                "ano": "2001",
+                "curso": "Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rn"
+            }
+        ]
+    }
+}

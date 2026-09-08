@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Avançado Ponte Nova",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -348,14 +349,14 @@
     "Cor/Raça": {
         "raca_original": "white",
         "raca_ibge": "Branca",
-        "confiança": 0.99,
+        "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.0037981788627803326,
-            "indian": 0.03984300419688225,
-            "black": 0.0036164168268442154,
-            "white": 90.9019775390625,
-            "middle eastern": 5.7478108406066895,
-            "latino hispanic": 3.3029444217681885
+            "asian": 0.0025803709868341684,
+            "indian": 0.0489632822573185,
+            "black": 0.002811472862958908,
+            "white": 85.71888732910156,
+            "middle eastern": 9.475926399230957,
+            "latino hispanic": 4.750833511352539
         }
     }
 }

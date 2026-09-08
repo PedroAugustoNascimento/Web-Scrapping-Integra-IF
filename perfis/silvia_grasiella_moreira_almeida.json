@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Preto",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -53,27 +54,27 @@
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2022",
-                "cargo": "Coordenadora - Pós em Inteligência Artificial."
+                "cargo": "Coordenadora - Pós em Inteligência Artificial, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2021 - 2023",
-                "cargo": "Diretora de Inovação, Pesquisa, Pós-Graduação."
+                "cargo": "Diretora de Inovação, Pesquisa, Pós-Graduação, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2021 - 2021",
-                "cargo": "Transição da Diretoria de Extensão DIPPE/DEXT."
+                "cargo": "Transição da Diretoria de Extensão DIPPE/DEXT, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2019 - 2020",
-                "cargo": "Supervisora de Pesquisa."
+                "cargo": "Supervisora de Pesquisa, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2015 - 2016",
-                "cargo": "Coordenadora de Pesquisa."
+                "cargo": "Coordenadora de Pesquisa, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
@@ -83,12 +84,12 @@
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2007 - 2008",
-                "cargo": "Coordenadora de Curso Técnico Integrado."
+                "cargo": "Coordenadora de Curso Técnico Integrado, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2006",
-                "cargo": "Professora."
+                "cargo": "Professora, Servidor público."
             },
             {
                 "empresa": "IFMG - Campus Ouro Preto",
@@ -98,7 +99,12 @@
             {
                 "empresa": "IFMG - Campus Ouro Preto",
                 "periodo": "2003 - 2003",
-                "cargo": "Professora substituta."
+                "cargo": "Professora substituta, Servidor público."
+            },
+            {
+                "empresa": "IFMG",
+                "periodo": "2025",
+                "cargo": "Coordenadora do Centro de IA Aplicada do IFMG, Servidor público."
             },
             {
                 "empresa": "IFMG",
@@ -108,182 +114,13 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2025",
-                "cargo": "Centro de Excelência em IA Aplicada."
+                "cargo": "Centro de Excelência em IA Aplicada, Servidor público."
             }
         ],
         "direcao_administracao": "",
         "ensino": ": Serviço Nacional de Aprendizagem Industrial/BH\nAperfeicoamento (2003 - 2005) - Pós-técnico Em Instrumentação Eletrônica E Control.",
         "comissoes": "",
         "projetos": [
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "Uai-e - Protótipo de um catador de lixo de praia",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Sarah Esther Augusta Murta Ambrósio",
-                    "Laura Maria de Souza Saldanha",
-                    "Júlia Silva Reis"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "EXTENSION - Protótipo de uma luva para auxilio de pessoas com Síndrome do Túnel do Carpo",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Eduardo Henrique Diniz",
-                    "Miguel Daher Ferreira",
-                    "Murilo Gabriel Loredo Reis",
-                    "Sânzio de Jesus Ribeiro"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "Vênus Veículo terrestre não tripulado para a exploração de zonas de risco.",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Yan Lucas Bezerra Silva",
-                    "Tarcísio José Mapa Soares",
-                    "Gabriel Souza de Oliveira",
-                    "Breno Ferreira Ribas",
-                    "Altamiro Marcos Ferreira Neto"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "CACSS - Casa Automatizada com Sistema de Segurança",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Arthur Souza Sales Cardoso",
-                    "Bruno Henrique Ferreira Mesquita",
-                    "Marcio Henrique Viana Junior",
-                    "Samara Carolina Carlos Teixeira"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "GROOVER JS2K - Construção do protótipo de um robô para entretenimento",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Caio Miranda Shimomura",
-                    "Karine Isabelle Marins",
-                    "Júlia Vieira Lopes Tavares",
-                    "Samanta Keila de Jesus"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "CASEY - Cabeça robótica interativa",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Julia Trindade Gonçalves",
-                    "Karine Leal Rocha",
-                    "Thaís Aline Ferreira da Silva",
-                    "Paulo Vitor de Castro Magalhães Correa"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "PARKEN - Protótipo de um estacionamento automático",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Iron Yure Alcântara",
-                    "Ian Martins Arantes",
-                    "Matheus Durães da Cunha Pereira",
-                    "Samanta Tamires Motta Souza"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "OXUM: UM PROTÓTIPO MAPEADOR DE RIOS E LAGOS",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Fernanda Henriques Campos",
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Adriano Natividade Nepomuceno Júnior",
-                    "Lauro Felipe Eusébio Gomes",
-                    "Luiz Henrique de Carvalho"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "IFood - Monitoramento de restaurante estudantil",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "André Ylazor Maciel Lopes",
-                    "Júnior Jesus Gomes de Freitas",
-                    "Laryssa Aparecida Gomes Fagundes",
-                    "Lucas José Nunes Martins",
-                    "Sílvia Paula Carvalho da Costa Pimenta"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "L.A.V.A. - Limpador Automático de Vidros Altos",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Érika Milagres Jacinto",
-                    "Ludmila Silva Fortes",
-                    "Maíne Magalhães Pereira",
-                    "Marcela Neves Del?Gaudio"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "SOUNDCHESS - Xadrez automático comandado por voz",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Pedro Henrique Gomes",
-                    "ernardo Saraiva Oliveira Duarte",
-                    "Daniel Venâncio Ramos",
-                    "Otávio Barroso de Oliveira",
-                    "Thiago Dias Oliveira"
-                ]
-            },
-            {
-                "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "Subitis - Carro de emergência autônomo",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Alan Cassiano Franklin",
-                    "Guilherme Xavier Barbosa",
-                    "Marina Luiza de Jesus Novais"
-                ]
-            },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
                 "nome": "Dangerino - Robô de Reconhecimento de Áreas de Risco",
@@ -322,8 +159,8 @@
                 "natureza": "Extensao",
                 "equipe": [
                     "Laryssa Aparecida Gomes Fagundes",
-                    "Ana Beatriz Ansaloni Dias",
                     "Silvia Grasiella Moreira Almeida",
+                    "Ana Beatriz Ansaloni Dias",
                     "Pâmela Starling Bergamini",
                     "Viviane de Paula Silva"
                 ],
@@ -359,19 +196,16 @@
             },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "FAB LAB: estímulo à inovação, usando a fabricação digital no combate à pandemia do Covid-19",
-                "periodo": "2021",
-                "natureza": "Desenvolvimento",
+                "nome": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
+                "periodo": "2021 - 2021",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Silvia Grasiella Moreira Almeida",
-                    "André Luís Barroso Almeida",
-                    "Paulo Raimundo Pinto",
-                    "Lucas Emiliano de Souza Moreira",
-                    "Guilherme de Oliveira Walter",
-                    "Edson Martins de Oliveira",
-                    "Gradimilo Cândido de Jesus"
+                    "Júnior Jesus Gomes de Freitas",
+                    "Pedro Assunção Pereira",
+                    "Lucas Emiliano de Souza Moreira"
                 ],
-                "financiador": "2a Vara do Trabalho de Ouro Preto,"
+                "financiador": "IFMG - Campus Ouro Preto,"
             },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
@@ -388,16 +222,19 @@
             },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "Desenvolvimento de um aplicativo para automatizar a coleta de dados para caracterização dos aspectos biológicos, neurobiológicos e sociais de interesse do Projeto MEDIANTAR - Medicina, Fisiologia e Antropologia Antártica - UFMG",
-                "periodo": "2021 - 2021",
-                "natureza": "Pesquisa",
+                "nome": "FAB LAB: estímulo à inovação, usando a fabricação digital no combate à pandemia do Covid-19",
+                "periodo": "2021",
+                "natureza": "Desenvolvimento",
                 "equipe": [
                     "Silvia Grasiella Moreira Almeida",
-                    "Júnior Jesus Gomes de Freitas",
-                    "Pedro Assunção Pereira",
-                    "Lucas Emiliano de Souza Moreira"
+                    "André Luís Barroso Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Lucas Emiliano de Souza Moreira",
+                    "Guilherme de Oliveira Walter",
+                    "Edson Martins de Oliveira",
+                    "Gradimilo Cândido de Jesus"
                 ],
-                "financiador": "IFMG - Campus Ouro Preto,"
+                "financiador": "2a Vara do Trabalho de Ouro Preto,"
             },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
@@ -433,8 +270,8 @@
                 "periodo": "2021 - 2022",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
-                    "Nívea Cristina da Silva Viana"
+                    "Nívea Cristina da Silva Viana",
+                    "Silvia Grasiella Moreira Almeida"
                 ],
                 "financiador": "IFMG - Campus Ouro Preto,"
             },
@@ -444,11 +281,30 @@
                 "periodo": "2023 - 2024",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Silvia Grasiella Moreira Almeida",
                     "Miriam Conceicao de Souza",
+                    "Silvia Grasiella Moreira Almeida",
                     "Thalita Macedo Araujo"
                 ],
                 "financiador": "IFMG - Campus Ouro Preto,"
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Educar para Transformar: Preparatório de Concursos como Instrumento de Educação Continuada",
+                "periodo": "2024 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Marcos Dias da Rocha",
+                    "Davi Yuri de Almeida",
+                    "Lais Maria de Oliveira",
+                    "Denilson Junio Marques Soares",
+                    "Jarbas Glauber Santos Lopes",
+                    "Rafaela Kelsen Dias",
+                    "Elke Beatriz Felix Pena",
+                    "Paulo Ricardo Moura da Silva",
+                    "Ana Elisa Costa Novais",
+                    "Erica Alessandra Fernandes Aniceto"
+                ]
             },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
@@ -495,21 +351,171 @@
             },
             {
                 "instituicao": "IFMG - Campus Ouro Preto",
-                "nome": "Educar para Transformar: Preparatório de Concursos como Instrumento de Educação Continuada",
-                "periodo": "2024 - 2024",
-                "natureza": "Extensao",
+                "nome": "OXUM: UM PROTÓTIPO MAPEADOR DE RIOS E LAGOS",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
                 "equipe": [
                     "Silvia Grasiella Moreira Almeida",
-                    "Marcos Dias da Rocha",
-                    "Davi Yuri de Almeida",
-                    "Lais Maria de Oliveira",
-                    "Denilson Junio Marques Soares",
-                    "Jarbas Glauber Santos Lopes",
-                    "Rafaela Kelsen Dias",
-                    "Elke Beatriz Felix Pena",
-                    "Paulo Ricardo Moura da Silva",
-                    "Ana Elisa Costa Novais",
-                    "Erica Alessandra Fernandes Aniceto"
+                    "Paulo Raimundo Pinto",
+                    "Adriano Natividade Nepomuceno Júnior",
+                    "Fernanda Henriques Campos",
+                    "Lauro Felipe Eusébio Gomes",
+                    "Luiz Henrique de Carvalho"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "CACSS - Casa Automatizada com Sistema de Segurança",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Arthur Souza Sales Cardoso",
+                    "Bruno Henrique Ferreira Mesquita",
+                    "Marcio Henrique Viana Junior",
+                    "Samara Carolina Carlos Teixeira"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "SOUNDCHESS - Xadrez automático comandado por voz",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Pedro Henrique Gomes",
+                    "ernardo Saraiva Oliveira Duarte",
+                    "Daniel Venâncio Ramos",
+                    "Otávio Barroso de Oliveira",
+                    "Thiago Dias Oliveira"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "IFood - Monitoramento de restaurante estudantil",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "André Ylazor Maciel Lopes",
+                    "Júnior Jesus Gomes de Freitas",
+                    "Laryssa Aparecida Gomes Fagundes",
+                    "Lucas José Nunes Martins",
+                    "Sílvia Paula Carvalho da Costa Pimenta"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Vênus Veículo terrestre não tripulado para a exploração de zonas de risco.",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Yan Lucas Bezerra Silva",
+                    "Tarcísio José Mapa Soares",
+                    "Gabriel Souza de Oliveira",
+                    "Breno Ferreira Ribas",
+                    "Altamiro Marcos Ferreira Neto"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "EXTENSION - Protótipo de uma luva para auxilio de pessoas com Síndrome do Túnel do Carpo",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Eduardo Henrique Diniz",
+                    "Miguel Daher Ferreira",
+                    "Murilo Gabriel Loredo Reis",
+                    "Sânzio de Jesus Ribeiro"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "GROOVER JS2K - Construção do protótipo de um robô para entretenimento",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Caio Miranda Shimomura",
+                    "Karine Isabelle Marins",
+                    "Júlia Vieira Lopes Tavares",
+                    "Samanta Keila de Jesus"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "L.A.V.A. - Limpador Automático de Vidros Altos",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Érika Milagres Jacinto",
+                    "Ludmila Silva Fortes",
+                    "Maíne Magalhães Pereira",
+                    "Marcela Neves Del?Gaudio"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "CASEY - Cabeça robótica interativa",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Paulo Vitor de Castro Magalhães Correa",
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Julia Trindade Gonçalves",
+                    "Karine Leal Rocha",
+                    "Thaís Aline Ferreira da Silva"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "PARKEN - Protótipo de um estacionamento automático",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Iron Yure Alcântara",
+                    "Ian Martins Arantes",
+                    "Matheus Durães da Cunha Pereira",
+                    "Samanta Tamires Motta Souza"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Subitis - Carro de emergência autônomo",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Paulo Raimundo Pinto",
+                    "Alan Cassiano Franklin",
+                    "Silvia Grasiella Moreira Almeida",
+                    "Guilherme Xavier Barbosa",
+                    "Marina Luiza de Jesus Novais"
+                ]
+            },
+            {
+                "instituicao": "IFMG - Campus Ouro Preto",
+                "nome": "Uai-e - Protótipo de um catador de lixo de praia",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Silvia Grasiella Moreira Almeida",
+                    "Paulo Raimundo Pinto",
+                    "Sarah Esther Augusta Murta Ambrósio",
+                    "Laura Maria de Souza Saldanha",
+                    "Júlia Silva Reis"
                 ]
             },
             {
@@ -1176,12 +1182,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 1.268752098083496,
-            "indian": 2.733839750289917,
-            "black": 0.22713321447372437,
-            "white": 45.985511779785156,
-            "middle eastern": 27.13126564025879,
-            "latino hispanic": 22.65349769592285
+            "asian": 0.17267951369285583,
+            "indian": 0.8594825267791748,
+            "black": 0.023555535823106766,
+            "white": 56.94317626953125,
+            "middle eastern": 24.25983238220215,
+            "latino hispanic": 17.74127769470215
         }
     }
 }

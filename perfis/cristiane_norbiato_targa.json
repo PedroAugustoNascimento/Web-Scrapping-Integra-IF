@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Sabará",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -56,7 +57,7 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2013",
-                "cargo": "Professor D3 Nível 1."
+                "cargo": "Professor D3 Nível 1, Servidor público."
             }
         ],
         "direcao_administracao": "",
@@ -108,6 +109,21 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Plataforma para Classificação da Amigabilidade de Gênero das Empresas de Tecnologia da Informação do Município de Belo Horizonte",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Gabriel Felipe Candido Novy",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Carlos Alberto Severiano Junior",
+                    "Pedro Afonso Ramos de Souza",
+                    "Paulo Henrique Rodrigues da Cunha Santos",
+                    "Daniel Elias Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "APLICAÇÃO DE REGRAS DE ASSOCIAÇÃO SOBRE DADOS ACADÊMICOS",
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
@@ -130,21 +146,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Plataforma para Classificação da Amigabilidade de Gênero das Empresas de Tecnologia da Informação do Município de Belo Horizonte",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Cristiane Norbiato Targa",
-                    "Gabriel Felipe Candido Novy",
-                    "Daniel Bruno Fernandes Conrado",
-                    "Carlos Alberto Severiano Junior",
-                    "Pedro Afonso Ramos de Souza",
-                    "Paulo Henrique Rodrigues da Cunha Santos",
-                    "Daniel Elias Santos"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Proposta de desenvolvimento de um sistema baseado em machine learning para a gestão da neurociência cognitiva",
                 "periodo": "2017 - 2019",
                 "natureza": "Pesquisa",
@@ -158,22 +159,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "PS4W - Programa Sabará for Women",
-                "periodo": "2019 - 2020",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Cristiane Norbiato Targa",
-                    "Gabriel Felipe Candido Novy",
-                    "Bruno Nonato Gomes",
-                    "Carlos Alexandre Silva",
-                    "Daniel Bruno Fernandes Conrado",
-                    "Kênia Carolina Gonçalves",
-                    "Lillia dos Santos Barsante"
-                ],
-                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "CogIF - Plataforma de análise e estímulo de funções cognitivas para ambientes de aprendizagem no Instituto Federal de Minas Gerais",
                 "periodo": "2018 - 2021",
                 "natureza": "Pesquisa",
@@ -183,32 +168,6 @@
                     "Daniel Bruno Fernandes Conrado",
                     "Daniela M Batista",
                     "Bárbara S Rabelo"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "DAMAS - Disseminação e Apoio à participação de Mulheres em Áreas de STEM",
-                "periodo": "2023",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Cristiane Norbiato Targa",
-                    "ROSA",
-                    "K. C. G",
-                    "Michele A. Brandão"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Programa Sabará - Equidade Racial",
-                "periodo": "2023",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Cristiane Norbiato Targa",
-                    "Bruno Nonato Gomes",
-                    "Carlos Alexandre Silva",
-                    "Carlos Alberto Severiano Junior",
-                    "Marcia Basilia de Araujo",
-                    "Luciane Silva de Almeida"
                 ]
             },
             {
@@ -228,6 +187,20 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa Sabará - Equidade Racial",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Bruno Nonato Gomes",
+                    "Carlos Alexandre Silva",
+                    "Carlos Alberto Severiano Junior",
+                    "Marcia Basilia de Araujo",
+                    "Luciane Silva de Almeida"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "ConectivIDADE: inclusão digital para a Melhor Idade",
                 "periodo": "2023",
                 "natureza": "Extensao",
@@ -235,6 +208,27 @@
                     "Cristiane Norbiato Targa",
                     "Daniel Bruno Fernandes Conrado",
                     "Lara Righi Viggiano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "DAMAS - Disseminação e Apoio à participação de Mulheres em Áreas de STEM",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "ROSA",
+                    "K. C. G",
+                    "Michele A. Brandão"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "RE-ConectivIDADE",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane Norbiato Targa"
                 ]
             },
             {
@@ -281,12 +275,30 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "RE-ConectivIDADE",
-                "periodo": "2020 - 2021",
+                "nome": "A influência do futebol nos números de violência doméstica",
+                "periodo": "2025 - 2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiane Norbiato Targa",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Marcelo Paulino Simoes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "PS4W - Programa Sabará for Women",
+                "periodo": "2019 - 2020",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Cristiane Norbiato Targa"
-                ]
+                    "Cristiane Norbiato Targa",
+                    "Gabriel Felipe Candido Novy",
+                    "Bruno Nonato Gomes",
+                    "Carlos Alexandre Silva",
+                    "Daniel Bruno Fernandes Conrado",
+                    "Kênia Carolina Gonçalves",
+                    "Lillia dos Santos Barsante"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
             }
         ]
     },
@@ -519,12 +531,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.7349115014076233,
-            "indian": 0.7450174689292908,
-            "black": 0.045411307364702225,
-            "white": 58.54148864746094,
-            "middle eastern": 15.737922668457031,
-            "latino hispanic": 24.19524574279785
+            "asian": 1.2033867835998535,
+            "indian": 0.8005756139755249,
+            "black": 0.05967488884925842,
+            "white": 58.578914642333984,
+            "middle eastern": 11.729238510131836,
+            "latino hispanic": 27.628210067749023
         }
     }
 }

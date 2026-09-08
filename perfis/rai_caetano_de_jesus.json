@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -112,12 +113,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.12598712742328644,
-            "indian": 0.4211253821849823,
-            "black": 0.041897837072610855,
-            "white": 69.05372619628906,
-            "middle eastern": 12.387110710144043,
-            "latino hispanic": 17.970144271850586
+            "asian": 0.010215098038315773,
+            "indian": 0.06412356346845627,
+            "black": 0.003323011565953493,
+            "white": 85.42681121826172,
+            "middle eastern": 7.111872673034668,
+            "latino hispanic": 7.383664608001709
         }
     }
 }

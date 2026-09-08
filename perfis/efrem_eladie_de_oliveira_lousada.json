@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ibirité",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -183,9 +184,9 @@
                 "periodo": "2009 - 2011",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Orlando Silva Junior",
                     "Efrem Eladie de Oliveira Lousada",
                     "Raquel Aparecida de Freitas Mini",
+                    "Orlando Silva Junior",
                     "Michael Martins Consedey",
                     "Mirna Paula Silva"
                 ],
@@ -233,8 +234,8 @@
                     "finalidade": "Aumento de robustez no Spectrum S."
                 },
                 {
-                    "autor": "LOUSADA",
-                    "software": "Efrem Eladie de Oliveira,  VITAL, Roberto Eduardo,  SUAREZ, Fernando,  S2004",
+                    "autor": "VITAL",
+                    "software": "Roberto Eduardo,  LOUSADA, Efrem Eladie de Oliveira,  SUAREZ, Fernando,  S2004",
                     "ano": "2005",
                     "finalidade": "Novas implementações ABNT para medidores de energia elétrica."
                 },
@@ -366,10 +367,10 @@
                 "ano": "2016"
             },
             {
-                "autores": "LOUSADA, Efrem Eladie de Oliveira",
-                "titulo": "ROSA, K",
-                "evento": "F.; SANTOS",
-                "local": "A. C.; SANTOS, T. G.; SANTOS, M. M.; Uma abordagem comparativa na usabilidade de aplicativos móveis para transporte público. VIII Simpósio de Informática - Instituto Federal do Norte de Minas Gerais (IFNMG), Januária",
+                "autores": "ROSA, K. F.",
+                "titulo": "LOUSADA, Efrem Eladie de Oliveira; SANTOS, A",
+                "evento": "C.; SANTOS",
+                "local": "T. G.; SANTOS, M. M.; Uma abordagem comparativa na usabilidade de aplicativos móveis para transporte público. VIII Simpósio de Informática - Instituto Federal do Norte de Minas Gerais (IFNMG), Januária",
                 "ano": "2016"
             },
             {
@@ -593,12 +594,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.5566652417182922,
-            "indian": 1.0420868396759033,
-            "black": 0.1304224580526352,
-            "white": 56.12918472290039,
-            "middle eastern": 17.595115661621094,
-            "latino hispanic": 24.546527862548828
+            "asian": 0.8407781720161438,
+            "indian": 0.8773031830787659,
+            "black": 0.09530148655176163,
+            "white": 58.36505126953125,
+            "middle eastern": 15.029297828674316,
+            "latino hispanic": 24.792264938354492
         }
     }
 }

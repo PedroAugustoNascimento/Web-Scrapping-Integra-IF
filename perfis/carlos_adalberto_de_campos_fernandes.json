@@ -1,0 +1,230 @@
+{
+    "campus": "- Campus Porto Alegre",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Educação em Ciências e Matemática",
+                "periodo": "2005 - 2007",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "titulo": "Contribuições de Projetos de Aula na Educação Científica e Tecnológica",
+                "orientador": "Regina Maria Rabello Borges"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Análise de Sistemas",
+                "periodo": "1990 - 1990",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "orientador": "Ricardo M"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1978 - 1982",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Física",
+                "periodo": "1979 - 1988",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "1991",
+                "cargo": "Professor do Ensino Básico Tec Tecnológico."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "periodo": "1983",
+                "cargo": "Analista de Tecnologia da Informação."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "periodo": "1979 - 1980",
+                "cargo": "Monitor de disciplina, Monitoria."
+            },
+            {
+                "empresa": "Colégio Militar de Porto Alegre",
+                "periodo": "1979 - 1980",
+                "cargo": "Estagiário, Estágio."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Programa UCA",
+                "periodo": "2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Adalberto de Campos Fernandes"
+                ],
+                "financiador": "Banco Interamericano de Desenvolvimento,"
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Programa UCA",
+                "periodo": "2009 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Adalberto de Campos Fernandes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Emissão de material particulado, simulação via computador",
+                "periodo": "1979 - 1983",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Adalberto de Campos Fernandes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Projeto Machadinho",
+                "periodo": "1982 - 1982",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Adalberto de Campos Fernandes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Obras On-Line",
+                "periodo": "2009",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Carlos Adalberto de Campos Fernandes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Banco de Dados Geoespacial da UFRGS",
+                "periodo": "2009",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Carlos Adalberto de Campos Fernandes"
+                ],
+                "financiador": ","
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "FERNANDES",
+                    "software": "C. A. C.,  Simulador de emissão de material particulado em ambiente UNIX",
+                    "ano": "1983",
+                    "finalidade": "Produção de um sofware para simular a emissão de material particulado em chaminés de plantas industriais."
+                },
+                {
+                    "autor": "FERNANDES",
+                    "software": "C. A. C.,  Criação da Escola Técnica Maxwell Educacional",
+                    "ano": "1999",
+                    "finalidade": "Criação de uma escola técnica profissional particular junto ao Conselho de Educação do RS."
+                },
+                {
+                    "autor": "FERNANDES",
+                    "software": "C. A. C.,  Parecer técnico dos laboratórios de informática da Escola Técnica da ACM Porto Alegre",
+                    "ano": "1991",
+                    "finalidade": "Parecer técnico para funcionamento de escola junto à Secretaria da Educação do RS."
+                },
+                {
+                    "autor": "FERNANDES",
+                    "software": "C. A. C.,  Implantação do computador na Escola",
+                    "ano": "1987",
+                    "finalidade": "Implantação de laboratórios de ensino de informática para 1º e 2º graus no Instituto Educacional João XXIII."
+                },
+                {
+                    "autor": "FERNANDES",
+                    "software": "C. A. C.,  Projeto SERE - Sensoreamento Remoto",
+                    "ano": "1983",
+                    "finalidade": "Geração de imagens computadorizadas via satélite do RS para fins de produção agrícola."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "FERNANDES",
+                    "curso": "C. A. C.,  Curso de Automação de escritórios",
+                    "ano": "1987"
+                },
+                {
+                    "autor": "FERNANDES",
+                    "curso": "C. A. C.,  Programação estruturada",
+                    "ano": "1987"
+                },
+                {
+                    "autor": "FERNANDES",
+                    "curso": "C. A. C.,  Análise estruturada de sistemas",
+                    "ano": "1987"
+                },
+                {
+                    "autor": "FERNANDES",
+                    "curso": "C. A. C.,  Desenvolvimento de aptidões para secretárias executivas",
+                    "ano": "1987"
+                },
+                {
+                    "autor": "FERNANDES",
+                    "curso": "C. A. C.,  Curso de Automação de escritórios",
+                    "ano": "1985"
+                },
+                {
+                    "autor": "FERNANDES",
+                    "curso": "C. A. C.,  Curso de Automação de escritórios",
+                    "ano": "1985"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "FERNANDES",
+                    "evento": "C. A. C.,  Programa UCA - Encontro de IE Globais",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFRGS/LEC - Laboratório de Estudos Cognitivos."
+                },
+                {
+                    "autores": "FERNANDES",
+                    "evento": "C. A. C.,  Squeakfest Brasil - 2009",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFRGS/LEC - Laboratório de Estudos Cognitivos."
+                },
+                {
+                    "autores": "FERNANDES",
+                    "evento": "C. A. C.,  IV Encontro Estadual de Escolas Técnicas do RS",
+                    "ano": "1992",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CEFET PELOTAS."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "José Lucas Freitas de Lima",
+                "titulo": "Obras On-Line: solução de baixo custo para fornecer imagens em tempo real para acompanhamento de obras de engenharia",
+                "ano": "2009",
+                "curso": "Técnico em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    }
+}

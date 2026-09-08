@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Bambuí",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -39,6 +40,11 @@
             }
         ],
         "atuacoes_profissionais": [
+            {
+                "empresa": "Evolving Systems",
+                "periodo": "2024",
+                "cargo": ", Revisor de periódico."
+            },
             {
                 "empresa": "B&M Solutions",
                 "periodo": "2005 - 2006",
@@ -103,14 +109,9 @@
                 "empresa": "Discover Artificial Intelligence",
                 "periodo": "2023",
                 "cargo": ", Revisor de periódico."
-            },
-            {
-                "empresa": "Evolving Systems",
-                "periodo": "2024",
-                "cargo": ", Revisor de periódico."
             }
         ],
-        "direcao_administracao": ": INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS\nInstituto Federal de Minas Gerais - Campus Bambuí (2024 - 2026) : Coordenador Do Bacharelado Em Engenharia De Computação.\nInstituto Federal de Minas Gerais - Campus Bambuí (2023 - 2025) : Representante Dos Professores Do Núcleo De Computação Do Departamento De Engenharia E Computação.\nInstituto Federal de Minas Gerais - Campus Bambuí (2014 - 2015) : Coordenador Do Curso De Tecnologia Em Análise E Desenvolvimento De Sistemas.\nInstituto Federal de Minas Gerais - Campus Bambuí (2014 - 2015) : Coordenador Substituto Do Curso De Bacharelado Em Engenharia De Computação.\nInstituto Federal de Minas Gerais - Reitoria (2011 - 2012) : Gerente De Projetos Na Comissão Institucional De Implantação De Erp Acadêmico E Administrativo Linha Totvs (protheus/rm/pergamum).\nInstituto Federal de Minas Gerais - Reitoria (2010 - 2012) : Diretor De Tecnologia Da Informação.\nInstituto Federal de Minas Gerais - Reitoria (2009 - 2010) : Diretor De Tecnologia Da Informação Substituto.\nInstituto Federal de Minas Gerais - Reitoria (2009 - 2010) : Coordenador De Sistemas De Informação.\nInstituto Federal de Minas Gerais - Campus Bambuí (2024): Líder do Grupo de Pesquisa em Sistemas Computacionais (GPSisCom),",
+        "direcao_administracao": ": INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS\nInstituto Federal de Minas Gerais - Campus Bambuí (2024 - 2026) : Coordenador Do Bacharelado Em Engenharia De Computação.\nInstituto Federal de Minas Gerais - Campus Bambuí (2023 - 2025) : Representante Dos Professores Do Núcleo De Computação Do Departamento De Engenharia E Computação.\nInstituto Federal de Minas Gerais - Campus Bambuí (2014 - 2015) : Coordenador Do Curso De Tecnologia Em Análise E Desenvolvimento De Sistemas.\nInstituto Federal de Minas Gerais - Campus Bambuí (2014 - 2015) : Coordenador Substituto Do Curso De Bacharelado Em Engenharia De Computação.\nInstituto Federal de Minas Gerais - Reitoria (2011 - 2012) : Gerente De Projetos Na Comissão Institucional De Implantação De Erp Acadêmico E Administrativo Linha Totvs (protheus/rm/pergamum).\nInstituto Federal de Minas Gerais - Reitoria (2010 - 2012) : Diretor De Tecnologia Da Informação.\nInstituto Federal de Minas Gerais - Reitoria (2009 - 2010) : Coordenador De Sistemas De Informação.\nInstituto Federal de Minas Gerais - Reitoria (2009 - 2010) : Diretor De Tecnologia Da Informação Substituto.\nInstituto Federal de Minas Gerais - Campus Bambuí (2024): Líder do Grupo de Pesquisa em Sistemas Computacionais (GPSisCom),",
         "ensino": ": INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS\nGraduacao (2023 - 2024) - Engenharia De Computação.\nGraduacao (2013) - Engenharia De Computação.\nGraduacao (2012 - 2014) - Tecnólogo Em Análise E Desenvolvimento De Sistemas.\nEnsino-medio (2012) .\nEnsino-medio (2011 - 2011) .",
         "comissoes": ": Conselho Nacional das Instituições da Rede Federal de Educação Profissional\nMembro Da Comissão Avaliadora Dos Sistemas Siga-adm E Siga-edu (2012 - 2012).\nMembro Do Forti (fórum Nacional De Tecnologia Da Informação Da Rede Eptc) (2010 - 2012).",
         "projetos": [
@@ -130,20 +131,6 @@
             },
             {
                 "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS",
-                "nome": "Sistema Inteligente de Negociação Algorítmica (SINAL)",
-                "periodo": "2024 - 2026",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Ciniro Aparecido Leite Nametala",
-                    "Rodrigo Menezes Sobral Zacaroni",
-                    "Luan Carlos dos Santos",
-                    "Ricardo Antônio Nascimento de Almeida",
-                    "Ian Mariano Libânio e Souza"
-                ],
-                "financiador": "NEGOCIA NEGOCIACOES AUTOMATIZADAS LTDA, Serviço de Apoio às Micro e Pequenas Empresas de Belo Horizonte, Empresa Brasileira de Pesquisa e Inovação Industrial,"
-            },
-            {
-                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS",
                 "nome": "Avaliação e Aplicação de Técnicas de Inteligência Artificial no Desenvolvimento de um Sistema Identificador de Oportunidades de Investimento para o Mercado de Ações",
                 "periodo": "2018 - 2019",
                 "natureza": "Pesquisa",
@@ -154,6 +141,20 @@
                     "Júlio Cézar Coutinho de Oliveira"
                 ],
                 "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS",
+                "nome": "Sistema Inteligente de Negociação Algorítmica (SINAL)",
+                "periodo": "2024 - 2026",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ciniro Aparecido Leite Nametala",
+                    "Rodrigo Menezes Sobral Zacaroni",
+                    "Luan Carlos dos Santos",
+                    "Ricardo Antônio Nascimento de Almeida",
+                    "Ian Mariano Libânio e Souza"
+                ],
+                "financiador": "Empresa Brasileira de Pesquisa e Inovação Industrial, SERVICO DE APOIO A MICRO E PEQUENAS EMPRESAS DE MINAS GERAIS, NEGOCIA NEGOCIACOES AUTOMATIZADAS LTDA,"
             }
         ]
     },
@@ -161,6 +162,12 @@
         "producao_tecnica": {
             "softwares": [],
             "apresentacoes_trabalho": [
+                {
+                    "autores": "FARIA",
+                    "titulo": "W. R.,  NAMETALA, CINIRO A. L.,  PEREIRA JUNIOR, B. R.,  Fuse Melting Curve Fitting and Implementation in a Time-Domain Simulation Environment",
+                    "ano": "2024",
+                    "instituicao_promotora": "Sociedade Brasileira de Pesquisa Operacional."
+                },
                 {
                     "autores": "NAMETALA",
                     "titulo": "CINIRO A. L.,  NUNES, G. H.,  AMARAL, P. J.,  Comparative Analysis of Runtimes from Compiled and Interpreted R Code in Linux and Windows Systems. In: III International Seminar on Statistics with R",
@@ -260,6 +267,12 @@
         "livros": [],
         "artigos": [
             {
+                "autores": "PEREIRA, H. A.",
+                "titulo": "RIBEIRO, M. R.;  NAMETALA, CINIRO A.L.;  Comparison of Tree-Based Machine Learning Models for Classification of Tuberculosis Outcomes in Brazil",
+                "ano": "2026",
+                "periodico": "IEEE Latin America Transactions. ISBN: 15480992   ."
+            },
+            {
                 "autores": "NAMETALA, CINIRO APARECIDO LEITE",
                 "titulo": "FARIA, WANDRY RODRIGUES;  LAGE, GUILHERME GUIMARÃES;  PEREIRA, BENVINDO RODRIGUES;  Analysis of hourly price granularity implementation in the Brazilian deregulated electricity contracting environment",
                 "ano": "2023",
@@ -333,6 +346,27 @@
             }
         ],
         "trabalhos_eventos": [
+            {
+                "autores": "ROCHA, E. G.",
+                "titulo": "SOUZA, V",
+                "evento": "M. L. G.; SILVA",
+                "local": "A. A.; NAMETALA, CINIRO A.L.; RIBEIRO, M. R.; ALBERTO, B.; Análise do Impacto do Carregamento Paralelo de Dados no Treinamento de Redes Neurais Convolucionais. LVIII Simpósio Brasileiro de Pesquisa Operacional, Belo Horizonte",
+                "ano": "2026"
+            },
+            {
+                "autores": "OLIVEIRA, W. H. R.",
+                "titulo": "CANDIDO, M",
+                "evento": "V. M.; MENDES",
+                "local": "G. H. T.; NAMETALA, CINIRO A.L.; RIBEIRO, M. R.; ALBERTO, B.; Avaliação de Estratégias de Paralelismo em Pipelines de Processamento de Imagens de Sensoriamento Remoto: Um Estudo com o Dataset EuroSAT. LVIII Simpósio Brasileiro de Pesquisa Operacional, Belo Horizonte",
+                "ano": "2026"
+            },
+            {
+                "autores": "LEAL, H. C.",
+                "titulo": "ALBERTO, B",
+                "evento": "; ASSIS",
+                "local": "A. C. L.; MENDES, S. M. C. G.; NAMETALA, CINIRO A.L.; RIBEIRO, M. R.; Inferência da ResNet18 no Fashion-MNIST: modelagem do trade-off e otimização do batch size sob a perspectiva da Pesquisa Operacional. LVIII Simpósio Brasileiro de Pesquisa Operacional, Belo Horizonte",
+                "ano": "2026"
+            },
             {
                 "autores": "MAGALHAES, D. C.",
                 "titulo": "DORNELAS, M",
@@ -436,13 +470,6 @@
     "producao_outra": {
         "outras_orientacoes": [
             {
-                "orientando": "Ian Mariano Libânio e Souza",
-                "titulo": "Sistema Automatizado de Negociação Algorítmica (SINAL)",
-                "ano": "2026",
-                "curso": "Engenharia de Computação",
-                "instituicao": "Instituto Federal Minas Gerais"
-            },
-            {
                 "orientando": "Luan Carlos dos Santos",
                 "titulo": "Sistema Automatizado de Negociação Algorítmica",
                 "ano": "2026",
@@ -471,10 +498,31 @@
                 "instituicao": "Instituto Federal Minas Gerais"
             },
             {
+                "orientando": "Ian Mariano Libânio e Souza",
+                "titulo": "Sinal (Sistema Inteligente de Negociação Algorítmica)",
+                "ano": "2025",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
                 "orientando": "Artur Francisco Pereira Carvalho",
                 "titulo": "Aplicação de uma Meta-Heurística para Otimização de Pontos de Saída de Operações em Negociações envolvendo o Minicontrato Futuro do Índice BOVESPA",
                 "ano": "2024",
                 "curso": "Engenharia de Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Patrícia Crescêncio Martins",
+                "titulo": "Estágio supervisionado obrigatório",
+                "ano": "2024",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Arthur Alexandre Tomaz Pereira",
+                "titulo": "Monitoria",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
                 "instituicao": "Instituto Federal Minas Gerais"
             },
             {

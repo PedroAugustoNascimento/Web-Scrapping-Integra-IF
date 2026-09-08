@@ -1,0 +1,114 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Classificação automática de modulações digitais usando histogramas e máquinas de vetores de suporte",
+                "orientador": "José Luís Almada Güntzel"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Processamento de Sinais para telecomunicações",
+                "periodo": "2002 - 2003",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "orientador": "Carlos Aurélio Faria da Rocha"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "engenharia eletrica",
+                "periodo": "1988 - 1993",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Exata Instrumentação Eletrônica Ltda",
+                "periodo": "1993 - 2001",
+                "cargo": "Engenheiro de desenvolvimento, Responsável pelo projeto, integração e testes de harware e software embarcado para equipamentos eletrônicos destinados à área de segurança patrimonial. Como principais realizações no período destaca-se o projeto de equipamentos coletores de dados baseados em memórias não voláteis, equipamentos de controle de acesso, equipamentos de controle de ponto, equipamentos de bilhetagem eletrônica para transporte público coletivo.."
+            },
+            {
+                "empresa": "Intelbras S/A",
+                "periodo": "2001 - 2014",
+                "cargo": "Engenheiro de telecom, Responsável pelo desenvolvimento de hardware digital e software embarcado para telefones sem fio. Atuou na especificação, desenvolvimento, integração e gerenciamento de validação/teste de diversos produtos da linha de telefones sem fio da empresa. No decorrer deste tempo, esteve envolvido/responsável por projetos de telefones sem fio analógicos e digitais com identificadores de chamada e sem identificadores de chamada, com secretária eletrônica, com viva voz etc.."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2001 - 2014",
+                "cargo": "Estudante, Pesquisador sem bolsa."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2015",
+                "cargo": "Professor do ensino básico, técnico e tecnog., Atua como professor no IFSC - campus florianópolis - nas áreas de instalações elétricas, acionamentos elétricos, eletrônica digital, e matérias relacionadas com o curso de eletrotécnica. Principal linha de atuação tem sido em disciplinas de acionamentos elétricos I e II, utilizando contatores, reles, equipamentos diversos de acionamento de motores, bem como CLP (com foco em linguagem LADER). Atua nos cursos de nível técnico nas modalidades integrado e subsequente.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Oficinas 4.0",
+                "periodo": "2020 - 2021",
+                "natureza": "Outra",
+                "equipe": [
+                    "Edson Sorato",
+                    "Sergio Luciano Avila",
+                    "Ariane Maciel",
+                    "Pamela Fialho",
+                    "Maria Clara Maia",
+                    "João Sutter"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SORATO, EDSON",
+                "titulo": "MICHEL, PEDRO; GUNTZEL, JOSE LUIS; CASTRO, ADALBERY R",
+                "evento": "; KLAUTAU",
+                "local": "ALDEBARO; VLSI architectures for Digital Modulation Classification using Support Vector Machines. 2013 IEEE 4th Latin American Symposium on Circuits and Systems (LASCAS), Cusco",
+                "ano": "2013"
+            },
+            {
+                "autores": "SORATO, EDSON",
+                "titulo": "FRONZA, EDUARDO P",
+                "evento": "; BARBOSA",
+                "local": "PAULO R.F.M.M.; GUNTZEL, JOSE LUIS; CASTRO, ADALBERY R.; KLAUTAU, ALDEBARO; Real-time digital modulation classification based on Support Vector Machines. 2013 26th Symposium on Integrated Circuits and Systems Design (SBCCI), Curitiba",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.41170138120651245,
+            "indian": 1.4527064561843872,
+            "black": 0.18622376024723053,
+            "white": 67.6322250366211,
+            "middle eastern": 18.483400344848633,
+            "latino hispanic": 11.833745956420898
+        }
+    }
+}

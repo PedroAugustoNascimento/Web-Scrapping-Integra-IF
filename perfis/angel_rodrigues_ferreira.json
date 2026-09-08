@@ -1,0 +1,253 @@
+{
+    "campus": "- Campus Morrinhos",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2023 - 2025",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Arquitetura Dinâmica de Realidade Aumentada Aplicada a Manutenção Assistida de Equipamentos de Subestações Elétricas: Sistemas HVDC",
+                "orientador": "Alexandre Cardoso"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "Bacharelado",
+                "instituicao": "Instituto Federal Goiano"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Goiano",
+                "periodo": "2019 - 2023",
+                "cargo": "Estudante/Bolsista, Estudante."
+            },
+            {
+                "empresa": "Universidade Federal de Uberlândia",
+                "periodo": "2023",
+                "cargo": "Estudante/Pesquisador/Bolsista, Bolsista."
+            },
+            {
+                "empresa": "IF Goiano Campus Cristalina",
+                "periodo": "2025",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal Goiano - IF Goiano",
+                "periodo": "2025",
+                "cargo": "Professor EBTT, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Reconstrução virtual de objetos por captura de nuvem de pontos para medições de parâmetros de densidade utilizando dispositivo de baixo custo",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Angel Rodrigues Ferreira",
+                    "Alexandre Carvalho Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de ambientes de Realidade Virtual para treinamento de operadores de subestações da Indústria de Energia Elétrica.",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Angel Rodrigues Ferreira",
+                    "Alexandre Carvalho Silva",
+                    "Gabriel Vieira Melo",
+                    "Gustavo Neri Pereira Dias",
+                    "Thyago Gomes Costa",
+                    "Geovane Reges de Jesus Campos",
+                    "Luciano Carlos Ribeiro da Silva",
+                    "Marcel da Silva Melo",
+                    "Joao Gabriel Moreira"
+                ],
+                "financiador": "Instituto Federal Goiano,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LIMA",
+                    "software": "D. A. C.,  SILVA, A. C.,  FERREIRA, A. R.,  AURELIANO JUNIOR, M. J.,  CTB 2023 - Um Aplicativo para aprendizagem de placas de trânsito",
+                    "ano": "2023",
+                    "finalidade": "Reconhecimento de placas de transito..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023003231-0."
+                },
+                {
+                    "autor": "ALVES",
+                    "software": "J. S.,  FERREIRA, A. R.,  DIAS, G. N. P.,  EResume WSBot - Sistema de Automação do Processo de Filtragem de Dados de Editais da FAPEG",
+                    "ano": "2022",
+                    "finalidade": "Automação de Web Scraping.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023000082-5."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "A. R.,  SILVA, A. C.,  Sistema de Linguagem Dinâmica para a Criação e o Processamento de Rotinas Interativas e Procedurais sobre Cenários de Ambientes de Realidade Virtual (RV) Imersivos",
+                    "ano": "2022",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "A. R.,  MELO, G. V.,  SILVA, A. C.,  BARRETO JUNIOR, C. L.,  INSTANCIAÇÃO PARAMÉTRICA SEMIAUTOMÁTICA DE OBJETOS 3D EM CENÁRIOS VIRTUAIS TRIDIMENSIONAIS",
+                    "ano": "2021",
+                    "instituicao_promotora": "IF Goiano - campus Iporá."
+                },
+                {
+                    "autores": "Ferreira",
+                    "titulo": "Angel Rodrigues,  SILVA, ALEXANDRE CARVALHO,  Barreto Junior, Camilo de Lellis,  Virtual Reconstruction of Objects by Point Cloud Capture to Measurement of Density Parameters Using Low Cost Device",
+                    "ano": "2021",
+                    "instituicao_promotora": "Universidade Presbiteriana Mackenzie."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "A. R.,  SILVA, A. C.,  Reconstrução virtual de objetos utilizando dispositivo de baixo custo",
+                    "ano": "2020",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "A. R.,  SILVA, A. C.,  RECONSTRUÇÃO VIRTUAL DE OBJETOS POR CAPTURA DE NUVEM DE PONTOS UTILIZANDO DISPOSITIVO DE BAIXO CUSTO",
+                    "ano": "2020",
+                    "instituicao_promotora": "Universidade Federal de Uberlândia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "Ferreira",
+                    "curso": "Angel Rodrigues,  LIMA, M. A. V.,  Estudo Orientado em Desenvolvimento de Realidade Virtual com Unity3D",
+                    "ano": "2024"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "AURELIANO JUNIOR, M. J.",
+                "titulo": "CARDOSO, A.;  LAMOUNIER JUNIOR, E. A.;  LIMA, D. A. C.;  FERREIRA, A. R.;  SILVA, A. C.;  CAMPOS, D. P.;  QUEIROZ, L. F.;  Uma solução de Realidade Aumentada para manutenção assistida em subestações de energia elétrica em HVDC",
+                "ano": "2024",
+                "periodico": "RISTI (PORTO). ISBN: 16469895   ."
+            },
+            {
+                "autores": "Ferreira, Angel Rodrigues",
+                "titulo": "SILVA, ALEXANDRE CARVALHO;  Barreto Junior, Camilo de Lellis;  Lima, Diogo Aparecido Cavalcante de;  SOUSA, LIGIA CHRISTINE OLIVEIRA;  Revisão da literatura: uso do conceito BIM em projetos do setor elétrico nos cenários (Inter)Nacional",
+                "ano": "2022",
+                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
+            },
+            {
+                "autores": "SILVA, ÍTALO MOREIRA",
+                "titulo": "SILVA, ALEXANDRE CARVALHO;  SILVA, LUCIANO CARLOS RIBEIRO DA;  ALVES, JESMMER DA SILVEIRA;  Ferreira, Angel Rodrigues;  Barreto Junior, Camilo de Lellis;  Lima, Diogo Aparecido Cavalcante de;  SOUSA, LIGIA CHRISTINE OLIVEIRA;  Proposta de metamodelos de geovisualização implementados com recursos adaptáveis",
+                "ano": "2022",
+                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Ferreira, Angel Rodrigues",
+                "titulo": "NETO, JAIR DE OLIVEIRA PEREIRA; CARDOSO, ALEXANDRE; LAMOUNIER JUNIOR, EDGARD; Júnior, Maurício José Aureliano; de Lima, Diogo Aparecido Cavalcante; SILVA, ALEXANDRE CARVALHO; CAMPOS, DAVIDSON PEREIRA; FEITOSA, JOÃO BATISTA SOARES; Technique for Identification of Electrical Substation Equipment Through Auto-Framing Interest Points and OCR Recognition of Text Tags in Environment for Augmented Reality Systems",
+                "evento": "SVR 2024: Symposium on Virtual and Augmented Reality",
+                "local": "Manaus Brazil",
+                "ano": "2024"
+            },
+            {
+                "autores": "FERREIRA, ANGEL R.",
+                "titulo": "SILVA, ALEXANDRE C",
+                "evento": "; Lima",
+                "local": "Diogo Aparecido Cavalcante de; AURELIANO JÚNIOR, MAURÍCIO J.; CARDOSO, ALEXANDRE; LAMOUNIER JUNIOR, EDGARD; Semi-automatic Assembly of 3D Virtual Scenarios Over Parametric Models: A Study of Electrical Power Substations. SVR &apos;23: Symposium on Virtual and Augmented Reality, Rio Grande Brazil",
+                "ano": "2023"
+            },
+            {
+                "autores": "FERREIRA, ANGEL R.",
+                "titulo": "MELO, G",
+                "evento": "V.; SILVA",
+                "local": "A. C.; Lucas de Carvalho Batista da Cruz; AUTORIA DE CENÁRIOS PROCEDURAIS EM APLICAÇÕES DE AMBIENTE DE REALIDADE VIRTUAL POR SISTEMA DE LINGUAGEM DINÂMICA. Integra do Instituto Federal Goiano, Goiânia",
+                "ano": "2023"
+            },
+            {
+                "autores": "FERREIRA, ANGEL R.",
+                "titulo": "SILVA, ALEXANDRE C",
+                "evento": "; Sistema de Linguagem Dinâmica para a Criação e o Processamento de Rotinas Interativas e Procedurais Sobre Cenários de Ambientes de Realidade Virtual Imersivos. Anais Estendidos do Simpósio de Realidade Virtual e Aumentada",
+                "local": "Brasil",
+                "ano": "2022"
+            },
+            {
+                "autores": "Vitor Henrique Silva de Sá",
+                "titulo": "Guilherme Jacinto de Araújo, Moreira; Alexandre Carvalho Silva; FERREIRA, ANGEL R",
+                "evento": "; IMPLEMENTAÇÃO DE CENÁRIOS EM AMBIENTES DE REALIDADE VIRTUAL SUPORTADO EM METÁFORA METAVERSO. Integra IF Goiano",
+                "local": "Urutaí",
+                "ano": "2022"
+            },
+            {
+                "autores": "MELO, G. V.",
+                "titulo": "FERREIRA, ANGEL R",
+                "evento": "; Guilherme Jacinto de Araújo",
+                "local": "Moreira; Vitor Henrique Silva de Sá; SILVA, A. C.; REALIDADE VIRTUAL PARA TREINAMENTO NO PROCESSO DE MANUTENÇÃO DE LINHA VIVA. Integra IF Goiano, Urutaí",
+                "ano": "2022"
+            },
+            {
+                "autores": "Ferreira, Angel Rodrigues",
+                "titulo": "SILVA, ALEXANDRE CARVALHO; Virtual Reconstruction of Objects by Point Cloud Capture to Measurement of Density Parameters Using Low Cost Device",
+                "evento": "2021 16th Iberian Conference on Information Systems and Technologies (CISTI)",
+                "local": "Chaves",
+                "ano": "2021"
+            },
+            {
+                "autores": "FERREIRA, ANGEL R.",
+                "titulo": "MELO, G",
+                "evento": "V.; SILVA",
+                "local": "A. C.; BARRETO JUNIOR, C. L.; INSTANCIAÇÃO PARAMÉTRICA SEMIAUTOMÁTICA DE OBJETOS 3D EM CENÁRIOS VIRTUAIS TRIDIMENSIONAIS. Integra IF Goiano, Iporá",
+                "ano": "2021"
+            },
+            {
+                "autores": "MELO, G. V.",
+                "titulo": "FERREIRA, ANGEL R",
+                "evento": "; SILVA",
+                "local": "A. C.; BARRETO JUNIOR, C. L.; CONVENÇÃO DE MODELAGEM 3D PARA AMBIENTES DE REALIDADE VIRTUAL ASSOCIADOS A INDÚSTRIA DE ENERGIA ELÉTRICA. Integra IF Goiano, Iporá",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, ALEXANDRE CARVALHO",
+                "titulo": "Ferreira, Angel Rodrigues; RECONSTRUÇÃO VIRTUAL DE OBJETOS POR CAPTURA DE NUVEM DE PONTOS UTILIZANDO DISPOSITIVO DE BAIXO CUSTO",
+                "evento": "XVIII CEEL &#45; Conferência de Estudos em Engenharia Elétrica",
+                "local": "Uberlândia",
+                "ano": "2020"
+            },
+            {
+                "autores": "FERREIRA, A. R.",
+                "titulo": "SILVA, A",
+                "evento": "C.; Reconstrução virtual de objetos utilizando dispositivo de baixo custo. II Integra IF Goiano",
+                "local": "Morrinhos",
+                "ano": "2020"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "indian",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.9749200344085693,
+            "indian": 34.07748794555664,
+            "black": 24.154949188232422,
+            "white": 3.811676502227783,
+            "middle eastern": 3.888622999191284,
+            "latino hispanic": 31.092348098754883
+        }
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Bambuí",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -36,7 +37,7 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2026",
-                "cargo": "Professora EBTT Efetiva, Servidor público."
+                "cargo": "Professora EBTT Efetiva, Servidor público, Membro suplente do Colegiado do curso de Engenharia de Computação."
             },
             {
                 "empresa": "Instituto Federal Minas Gerais",
@@ -97,6 +98,61 @@
                 "equipe": [
                     "Patrícia Aparecida Proença Avila",
                     "Juliana de sousa ribeiro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "ENSINO DE PROGRAMAÇÃO UTILIZANDO A LINGUAGEM SCRATCH",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Patrícia Aparecida Proença Avila"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "EXCEL BÁSICO",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Patrícia Aparecida Proença Avila"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Robótica Básica",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Patrícia Aparecida Proença Avila"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Informática Básica",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Patrícia Aparecida Proença Avila"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Robótica Básica",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Patrícia Aparecida Proença Avila"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão Digital IFMG Bambuí: aplicação de cursos e oficinas de informática para a comunidade",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Patrícia Aparecida Proença Avila",
+                    "Felipe Lopes de Melo Faria"
                 ]
             }
         ]
@@ -171,8 +227,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "PROENÇA, P. A.",
-                "titulo": "COSTA, H. A. X.;  SisBDR- Sistema de Acesso a Diferentes Bases de Dados Remotas com reconexão automática utilizando tecnologia móvel",
+                "autores": "COSTA, H. A. X.",
+                "titulo": "PROENÇA, P. A.;  SisBDR- Sistema de Acesso a Diferentes Bases de Dados Remotas com reconexão automática utilizando tecnologia móvel",
                 "ano": "2011",
                 "periodico": "Revista Científica da Faculdade Atenas/MG. ISBN: 19806957   ."
             },
@@ -219,16 +275,16 @@
         ]
     },
     "Cor/Raça": {
-        "raca_original": "middle eastern",
+        "raca_original": "latino hispanic",
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 1.1627241373062134,
-            "indian": 4.505974292755127,
-            "black": 0.36250728368759155,
-            "white": 22.48439598083496,
-            "middle eastern": 41.23850631713867,
-            "latino hispanic": 30.245887756347656
+            "asian": 1.9988232851028442,
+            "indian": 6.016758918762207,
+            "black": 0.36457717418670654,
+            "white": 26.164892196655273,
+            "middle eastern": 31.830965042114258,
+            "latino hispanic": 33.623985290527344
         }
     }
 }

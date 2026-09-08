@@ -74,17 +74,17 @@ class Recognition:
                 nome_pessoa = nome_pessoa.replace('_', ' ').title()
                 
                 print(f"Analisando: {nome_pessoa}...")
-                # reconhecimento racial usando DeepFace com backend MTCNN para detecção de rosto
-                resultado = DeepFace.analyze(imagem, actions=["race"], detector_backend="mtcnn", enforce_detection=False) # enforce_detection=False evita quebrar se o rosto estiver parcial
+                # reconhecimento racial usando DeepFace com backend RetinaFace para detecção de rosto
+                resultado = DeepFace.analyze(imagem, actions=["race"],  detector_backend="retinaface", enforce_detection=False) # enforce_detection=False evita quebrar se o rosto estiver parcial
                 
                 if isinstance(resultado, list) and resultado:
                     raca_original = resultado[0]["dominant_race"]
                     raca_ibge = self.mapear_raca_ibge(raca_original)
                     
-                    #print(f"Nome: {nome_pessoa}")
-                    #print(f"Raça Original (Deepface): {raca_original}")
-                    #print(f"Raça Mapeada (IBGE): -> {raca_ibge} <-")
-                    #print(f"Índice de Confiança para a detecção: {resultado[0]['face_confidence']}")
+                    print(f"Nome: {nome_pessoa}")
+                    print(f"Raça Original (Deepface): {raca_original}")
+                    print(f"Raça Mapeada (IBGE): -> {raca_ibge} <-")
+                    print(f"Índice de Confiança para a detecção: {resultado[0]['face_confidence']}")
 
                     dados = {
                         "raca_original": raca_original,
@@ -117,10 +117,10 @@ class Recognition:
                     else:
                         print(f"-> AVISO: Arquivo JSON não encontrado para {nome_pessoa} ({caminho_json_alvo})")
                     
-                    #print("Probabilidades do Modelo Original:")
-                    #for race, percentage in resultado[0]['race'].items():
-                    #    print(f"\t{race}: {percentage:.2f}%")
-                    #print("-" * 40)
+                    print("Probabilidades do Modelo Original:")
+                    for race, percentage in resultado[0]['race'].items():
+                        print(f"\t{race}: {percentage:.2f}%")
+                    print("-" * 40)
                 else:
                     print(f"Erro: Resultado inválido para a imagem {imagem_path.name}")
                     

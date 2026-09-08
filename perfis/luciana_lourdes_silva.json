@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -130,7 +131,7 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Detecção de Soft Skills para Setor de RH",
+                "nome": "Aplicação do codeBERT para Recomendação Automática de Código Fonte",
                 "periodo": "2022",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -140,7 +141,7 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Aplicação do codeBERT para Recomendação Automática de Código Fonte",
+                "nome": "Detecção de Soft Skills para Setor de RH",
                 "periodo": "2022",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -295,9 +296,9 @@
             },
             {
                 "autores": "SILVA, L. L.",
-                "titulo": "Félix, Daniel; VALENTE, M",
+                "titulo": "VALENTE, M",
                 "evento": "T. O.; MAIA",
-                "local": "M.; ModularityCheck: A Tool for Assessing Modularity using Co-Change Clusters. Sessão de ferramentas do CBSoft, Maceió",
+                "local": "M.; Félix, Daniel; ModularityCheck: A Tool for Assessing Modularity using Co-Change Clusters. Sessão de ferramentas do CBSoft, Maceió",
                 "ano": "2014"
             },
             {
@@ -360,12 +361,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.000137313298182562,
-            "indian": 0.0006249338039197028,
-            "black": 6.567707714566495e-06,
-            "white": 97.63350677490234,
-            "middle eastern": 1.2190443277359009,
-            "latino hispanic": 1.1466846466064453
+            "asian": 0.000584289722610265,
+            "indian": 0.0029069583397358656,
+            "black": 4.265309689799324e-05,
+            "white": 94.43882751464844,
+            "middle eastern": 2.8983914852142334,
+            "latino hispanic": 2.6592512130737305
         }
     }
 }

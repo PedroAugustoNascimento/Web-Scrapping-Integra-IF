@@ -1,0 +1,311 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica e Informática Industrial",
+                "periodo": "2018 - 2020",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "titulo": "Workflow para Desenvolvimento de Aplicações Robóticas com Requisitos de Tempo Real",
+                "orientador": "André Schneider de Oliveira"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Metodologia para o Ensino Superior e EAD",
+                "periodo": "2016 - 2017",
+                "instituicao": "Faculdade Educacional da Lapa",
+                "orientador": "Juliana Simões Bolfe"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2010 - 2014",
+                "instituicao": "Universidade Federal de Pelotas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Sul-Rio-Grandense",
+                "periodo": "2015 - 2016",
+                "cargo": "Substituto, Professor, Professor dos cursos técnicos em automação industrial e eletrotécnica, ministrando disciplinas na área de eletrônica analógica, eletrônica digital e eletrônica industrial.."
+            },
+            {
+                "empresa": "Contronic Sistemas Automáticos",
+                "periodo": "2014 - 2015",
+                "cargo": "Projetista de firmware embarcado, Estágiario."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2013 - 2014",
+                "cargo": "Bolsista de graduação, Bolsista, Bolsista de monitoria nas disciplinas de Circuitos Digitais I e II e Técnicas Digitais.."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2012 - 2013",
+                "cargo": "Bolsista de graduação, Bolsista, Bolsista de monitoria nas disciplinas de Conceitos de Linguagens de Programação, Estruturas de Dados I e II, Programação Orientada à Objetos, Programação de Computadores - Pascal, Programação de Microcomputadores e Metodologia de Desenvolvimento de Programas.."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2011 - 2011",
+                "cargo": "Bolsista de graduação, Bolsista, Bolsista de monitoria nas disciplinas de Conceitos de Linguagens de Programação e Estruturas de Dados I.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2016",
+                "cargo": "Professor efetivo, Servidor público."
+            },
+            {
+                "empresa": "Wildlabs",
+                "periodo": "2025",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Chapecó (2016 - 2018) : Coordenador Do Curso Técnico Em Eletroeletrônica.",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2024) - Engenharia Eletrônica.\nGraduacao (2024) - Eletrônica Industrial.\nGraduacao (2023 - 2023) - Engenharia Eletrônica.\nGraduacao (2023) - Eletrônica Industrial.\nGraduacao (2021 - 2022) - Eletrônica Industrial.\nGraduacao (2020 - 2022) - Eletrônica Industrial.\nEspecializacao (2019 - 2019) - Especialização Em Desenvolvimento De Produtos Eletrônicos.\nGraduacao (2019 - 2023) - Eletrônica Industrial.\nGraduacao (2017 - 2018) - Engenharia De Controle E Automação.\nOutro (2016 - 2018) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Pelotas",
+                "nome": "Estudo de uma metodologia para medição de consumo energético em sistemas embarcados",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "Júlio Carlos Balzano de Mattos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PIFPL3275-2023 INOVAÇÃO EM ROBÔS DE COMPETIÇÃO AUTÔNOMOS USANDO INTELIGÊNCIA ARTIFICIAL",
+                "periodo": "2023 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "Adriano Vitor",
+                    "Gabrielli Fertig",
+                    "Davi Feitosa Silva Santana",
+                    "Franco Valois de Luca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PVFPL2898-2022 Robótica Maker e Educativa",
+                "periodo": "2022 - 2022",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "Maria Claudia de Almeida Castro",
+                    "Reginaldo Steinbach"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PICTE1863-2020 Aplicação e Avaliação de Atividades Práticas no Ensino Remoto em Curso de Engenharia Eletrônica",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "Robinson Pizzio"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PIFPL4151-2024 - Robótica e Sustentabilidade: Um Projeto de Ensino Prático em Eletrônica Industrial",
+                "periodo": "2024 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "FERNANDO PEDRO HENRIQUES DE MIRANDA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PIFPL4595-2025 - Visão computacional em robô móvel",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Leitzke Pinto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PVFPL3329-2023 Desenvolvimento de um protótipo de robô móvel para utilização em atividades de ensino/pesquisa no curso de Engenharia Eletrônica",
+                "periodo": "2023 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "Maria Claudia de Almeida Castro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PJ310-2023 Robótica Divertida: Construindo Sonhos e Conexões no Hospital Infantil Joana de Gusmão",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "GREYSON ALBERTO RECH",
+                    "LEANDRO DAMIAO VIANA",
+                    "GUILHERME LORENZO MARTINS CARVALHO",
+                    "MARIA LUIZA SILVEIRA DA SILVA",
+                    "ALINE GARCEZ"
+                ]
+            },
+            {
+                "instituicao": "Wildlabs",
+                "nome": "Smart Drone to Tag Whales",
+                "periodo": "2025",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Matheus Leitzke Pinto",
+                    "Leandro Buss Becker",
+                    "Alexandre M. S. Machado",
+                    "Ana Fleck",
+                    "Felipe da Cunha Calegari",
+                    "Gabriel Beu Nogueira de Macedo",
+                    "Georgiy C. Tanca Nazarov Georgiy C. Tanca Nazarov",
+                    "iago silvestre",
+                    "Leandro de Medeiros Sebastião",
+                    "Leo William Hansch",
+                    "Maiquel de Brito"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PINTO",
+                    "titulo": "M. L.,  OLIVEIRA, A. S.,  Workflow para Desenvolvimento de Aplicações Robóticas com Requisitos de Tempo Real",
+                    "ano": "2020",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PINTO",
+                    "curso": "M. L.,  Programação com microcontroladores ARM com KDS e FreeRTOS",
+                    "ano": "2015"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "PINTO, M. L.",
+                "titulo": "WEHRMEISTER, M. A.;  OLIVEIRA, A. S.;  Real-Time Evaluation for Robotics - An Approach using the Robotsone Benchmark",
+                "ano": "2021",
+                "periodico": "JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS. ISBN: 09210296   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PINTO, Matheus Leitzke",
+                "titulo": "STARKE, RENAN AUGUSTO; VITOR, ADRIANO; Juca, An Embedded Mobile Robotics Board for Education",
+                "evento": "2025 Brazilian Symposium on Robotics (SBR) and 2025 Workshop on Robotics in Education (WRE)",
+                "local": "Vitoria",
+                "ano": "2025"
+            },
+            {
+                "autores": "BECKER, L. B.",
+                "titulo": "PINTO, M",
+                "evento": "L.; BODEVEIX",
+                "local": "J.-P.; FILALI, M.; AADL Model for Temporal Tuning of the Failsafe Triggering Mechanism from a Fire Fighting Drone. 2025 XV Symposium on Computing Systems Engineering (SBESC), Campinas",
+                "ano": "2025"
+            },
+            {
+                "autores": "PINTO, Matheus Leitzke",
+                "titulo": "Resultados preliminares no uso de robô móvel na disciplina de Microcontroladores 2 no CST em Eletrônica Industrial",
+                "evento": "Semana Nacional de Ciência e Tecnologia do IFSC",
+                "local": "Florianópolis",
+                "ano": "2025"
+            },
+            {
+                "autores": "LUCA, F. V.",
+                "titulo": "VITOR, A",
+                "evento": "; PINTO",
+                "local": "Matheus L.; SANTANA, D. F. S.; F. GABRIELLI; Visão computacional aplicada em robôs de competição. 10º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC - Sepei 2024, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "SANTANA, D. F. S.",
+                "titulo": "F",
+                "evento": "GABRIELLI; LUCA",
+                "local": "F. V.; VITOR, A.; PINTO, Matheus L.; Utilização de inteligência artificial para a calibração de constantes do sistema de controle PID. 10º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC - Sepei 2024, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "PINTO, Matheus Leitzke",
+                "titulo": "CASTRO, M",
+                "evento": "C. A.; STEINBACH",
+                "local": "R.; Robótica maker e educativa. 9º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, Joinville",
+                "ano": "2023"
+            },
+            {
+                "autores": "SANTANA, D. F. S.",
+                "titulo": "F",
+                "evento": "GABRIELLI; LUCA",
+                "local": "F. V.; PINTO, Matheus Leitzke; VITOR, A.; Inovação em robôs de competição autônoma com inteligência artificial. Semana Nacional de Ciência e Tenologia do IFSC, Florianópolis",
+                "ano": "2023"
+            },
+            {
+                "autores": "GIASSI JUNIOR, P.",
+                "titulo": "PACHECO, F",
+                "evento": "; LEIZOR",
+                "local": "A.; MOIA, J.; LEANDRO, G.; ARRUDA, L.; PINTO, Matheus Leitzke; Experimentação eletrônica remota no ensino técnico e profissionalizante: elaboração, desenvolvimento e resultados de aplicação no Curso Técnico Subsequente em Eletrônica. Semana Nacional de Ciência e Tenologia do IFSC, Florianópolis",
+                "ano": "2021"
+            },
+            {
+                "autores": "PINTO, Matheus Leitzke",
+                "titulo": "DE OLIVEIRA, ANDRE SCHNEIDER; WEHRMEISTER, MARCO AURELIO; Real-Time Systems Evaluation for Robotics Using the Hart-ROS Benchmark",
+                "evento": "2019 19th International Conference on Advanced Robotics (ICAR)",
+                "local": "Belo Horizonte",
+                "ano": "2019"
+            },
+            {
+                "autores": "LEITZKE PINTO, MATHEUS",
+                "titulo": "SCHNEIDER DE OLIVEIRA, ANDRE; Robotics Development Using Real-Time Embedded System",
+                "evento": "2019 Latin American Robotics Symposium (LARS)",
+                "local": "2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE), Rio Grande",
+                "ano": "2019"
+            },
+            {
+                "autores": "PINTO, M. L.",
+                "titulo": "OTT, G",
+                "evento": "; TAVARES",
+                "local": "M. C.; ADOÇÃO DE RTOS NA CRIAÇÃO DE DISPOSITIVO ELETROMÉDICO PARA AVALIAÇÃO DO BLOQUEIO NEUROMUSCULAR INTRAOPERATÓRIO. XXV Congresso Brasileiro de Engenharia Biomédica, Foz do Iguaçu",
+                "ano": "2016"
+            },
+            {
+                "autores": "PINTO, M. L.",
+                "titulo": "MATTOS, J",
+                "evento": "C. B.; BRISOLARA",
+                "local": "L.; ESTUDO DE UMA METODOLOGIA PARA MEDIÇÃO DE CONSUMO ENERGÉTICO EM SISTEMAS EMBARCADOS. XXIII Congresso de Iniciação Científica da Universidade Federal de Pelotas, Pelotas",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.301368236541748,
+            "indian": 2.595386028289795,
+            "black": 0.6610137820243835,
+            "white": 50.14239501953125,
+            "middle eastern": 17.967666625976562,
+            "latino hispanic": 26.33216667175293
+        }
+    }
+}

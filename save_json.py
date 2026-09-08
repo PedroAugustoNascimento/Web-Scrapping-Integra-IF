@@ -5,7 +5,7 @@ class JSON:
     def __init__(self):
         pass
 
-    def salvar_dados_json(self, campus, dados1, dados2, dados3, dados4, nome_arquivo, pasta="perfis"):
+    def salvar_dados_json(self, campus, instituto, dados1, dados2, dados3, dados4, nome_arquivo, pasta="perfis"):
         try:
             os.makedirs(pasta, exist_ok=True)
 
@@ -14,6 +14,7 @@ class JSON:
             with open(caminho_arquivo, 'w', encoding='utf-8') as f:
                 json.dump({
                      "campus": campus,
+                     "instituto": instituto,
                      "dados_gerais": dados1,
                      "producao_tecnica": dados2,
                      "producao_bibliografica": dados3,

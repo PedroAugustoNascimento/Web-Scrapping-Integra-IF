@@ -1,0 +1,613 @@
+{
+    "campus": "- Campus Parnamirim",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "periodo": "2017 - 2018"
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "GRADUAÇÃO EM ENGENHARIA ELÉTRICA E DE COMPUTAÇÃO",
+                "periodo": "2009 - 2014",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Método Híbrido para Detecção e Diagnóstico de Falhas baseado em Resíduos",
+                "orientador": "André Laurindo Maitelli"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2004 - 2006",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "SISTEMA INTELIGENTE PARA DETECÇÃO DE VAZAMENTOS EM DUTOS DE PETRÓLEO USANDO TRANSFORMADA WAVELET E REDES NEURAIS",
+                "orientador": "André Laurindo Maitelli"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia da Computação",
+                "periodo": "1997 - 2001",
+                "instituicao": "Universidade Potiguar"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Potiguar",
+                "periodo": "2009 - 2009",
+                "cargo": "Diretor de Curso, Celetista formal."
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "periodo": "2007 - 2009",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Liga de Ensino do Rio Grande do Norte",
+                "periodo": "2014 - 2014",
+                "cargo": "Professor, Professor do curso de especialização em redes de computadores - Disciplina: Gerência de Redes de Computadores e Administração de Redes de Computadores."
+            },
+            {
+                "empresa": "PRINCIPIA (JOÃO PESSOA)",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2003 - 2008",
+                "cargo": "Aluno Pesquisador."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial/RN",
+                "periodo": "2000 - 2008",
+                "cargo": "Administrador de Redes."
+            },
+            {
+                "empresa": "Aliança Consultoria (RN)",
+                "periodo": "2008 - 2009",
+                "cargo": "Consultor de TI, Celetista formal."
+            },
+            {
+                "empresa": "Companhia Águas e Esgostos do Rio Grande do Norte",
+                "periodo": "2009 - 2009",
+                "cargo": "Analista de Suporte."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2022",
+                "cargo": "Participação em comissão, Membro Comissão Responsável pelo Planejamento e Execução do ATIVOS - Núcleo de Empreendedorismo, Inovação e Prática Profissional no âmbito do Campus Parnamirim, conforme PORTARIA No 181/2022 - DG/PAR/RE/IFRN."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2021 - 2022",
+                "cargo": "Coordenador do curso de redes, PORTARIA No 142/2021 - DG/PAR/RE/IFRN."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2021",
+                "cargo": "Membro de Núcleo Docente Estruturante, PORTARIA Nº 64/2021 - DG/PAR/RE/IFRN."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2020 - 2020",
+                "cargo": "Coordenador de TI."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2020",
+                "cargo": "Coord. do Núc. de Ext. e Prática Profissional, PORTARIA No 94/2020 - DG/PAR/RE/IFRN."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2018",
+                "cargo": "Membro do Núcleo de Emp. e Inovação, PORTARIA Nº 347/2018 - DG/PAR/RE/IFRN."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2016 - 2018",
+                "cargo": "Diretor de Inovação Tecnológica, Portaria 1179/2016 - Representação do IFRN junto ao Instituto Nacional de Propriedade Intelectual, Ministério da Agricultura, Pecuária e Abastecimento (MAPA) e demais órgãos competentes em relação à proteção de propriedade intelectual.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2016 - 2018",
+                "cargo": "Coordenador do Núcleo de Inovação Tecnológica, Portaria 1315/2016 - Reitoria IFRN - Coordenador do Núcleo de Inovação Tecnológica (NIT)."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2016 - 2018",
+                "cargo": "Subs. Event. Pró-Reitor de Pesq. e Inovação, Portaria 776/2016 - RE/IFRN."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2015",
+                "cargo": "Avaliador de projetos, Edital no 11/2015 - PROPI/RE/IFRN - 2 projetos avaliados Edital no 10/2015 - PROPI/RE/IFRN - 4 projetos avaliados Edital no 09/2016 - PROPI/RE/IFRN - PIBIC-AF/CNPq - 1 projeto avaliado Edital no 07/2016 - PROPI/RE/IFRN - PIBIC/CNPq - 4 projetos avaliados Edital no 08/2016 - PROPI/RE/IFRN - PIBIC-EM/CNPq - 15 projetos avaliados Edital no 10/2016 - PROPI/RE/IFRN - PIBITI/CNPq - 1 projeto avaliado Edital no 11/2016 - PROPI/RE/IFRN - PIBIC-EM/CNPq - 2 projetos avaliados Edital no 03/2017 - PROPI/RE/IFRN - PIBITI/CNPq - 1 projeto avaliado Edital no 04/2017 - PROPI/RE/IFRN - 1 projeto avaliado Edital no 08/2017 - PROPI/RE/IFRN - 5 projetos avaliados Edital nº 01/2019 (1º Chamada) - PROPI/RE/IFRN - 3 projetos avaliados Edital nº 01/2020-PROPI/IFRN - 2 projetos avaliados Edital nº 06/2020 - PROPI/RE/IFRN - PIBIC/CNPq - 1 projeto avaliado Edital n° 09/2020 - PROPI/RE/IFRN - PIBITI/CNPq - 1 projeto avaliado Edital nº 16/2021 - PROPI/RE/IFRN - PIBIC/CNPq - 1 projeto avaliado."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2011 - 2011",
+                "cargo": "Coordenador do curso de informática."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2009",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Secretaria de Educação Profissional e Tecnologica",
+                "periodo": "2012 - 2012",
+                "cargo": "Avaliador Pronatec."
+            },
+            {
+                "empresa": "Asian Journal of Control",
+                "periodo": "2013",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "FUNDAÇÃO DE APOIO A EDUCAÇÃO E AO DESENVOLVIMENTO TECNOLÓGICO DO RN FUNCERN",
+                "periodo": "2013 - 2013",
+                "cargo": "Elaborador de questões de provas."
+            },
+            {
+                "empresa": "IEEE Transactions on Cybernetics",
+                "periodo": "2018",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Lancaster University",
+                "periodo": "2017 - 2018",
+                "cargo": "Visiting Researcher Computing & Communication, Research Area: Computer networks, anomaly detection, real time, typicality, eccentricity."
+            }
+        ],
+        "direcao_administracao": ": Universidade Potiguar\nDireção do Curso de Engenharia de Computação (2007 - 2009) : Diretor Do Curso De Engenharia De Computação.\nUniversidade Federal do Rio Grande do Norte (2003 - 2008): Processamento de Sinais e Controle Inteligente,\nIFRN Campus Parnamirim (2019 - 2019): Internet das Coisas - IOT, Automação industrial, Integração de sistemas,\nIFRN Campus Parnamirim (2019 - 2019): Redes de sensores sem fio, Cidades Inteligentes,\nIFRN Campus Parnamirim (2015 - 2016): Automação residencial,",
+        "ensino": ": Universidade Potiguar\nGraduacao (2007 - 2009) - Engenharia Da Computação.\nGraduacao (2007 - 2009) - Sistemas De Informação.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nComissão Organizadora Da Semana De Inovação 2022 - Portaria No 50/2022 - Dg/par/re/ifrn (2022).\nColegiado Da Diretoria Acadêmica Do Campus Parnamirim - Portaria No 53/2022 - Dg/par/re/ifrn (2022).\nMembro Do Grupo De Trabalho Do Centro De Tecnologias Espaciais - Ct Espacial - Portaria No 149/2022 - Re/ifrn (2022).\nMembro Do Núcleo Docente Estruturante Do Curso Superior De Tecnologia Em Sistemas Para Internet - Portaria No 64/2021 - Dg/par/re/ifrn (2021).\nMembro Da Comissão De Análise Dos Pedidos Dos Alunos Para Permanência No Ensino Remoto. Portaria No 239/2021 - Dg/par/re/ifrn (2021).\nCoordenador Do Núcleo De Extensão E Prática Profissional - Portaria No 94/2020 - Dg/par/re/ifrn (2020).\nMembro Comissão Responsável Pela Elaboração Da Reformulação Da Secitex. Portaria 567/2018 - Re/ifrn (2018 - 2018).\nMembro Comissão De Organização Do Ct Mineral - Portaria 700/2018 Re/ifrn (2018 - 2018).\nMembro Da Comissão De Organização Da Secitex - Portaria No. 963/2018 Re/ifrn (2018 - 2018).\nMembro Do Núcleo De Empreendedorismo E Inovação Do Campus Parnamirim. Conforme Portaria No 347/2018 - Dg/par/re/ifrn. Atualizada Por Portaria No 84/2021 - Dg/par/re/ifrn. (2018).\nConselho Municipal De Ciência, Tecnologia E Inovação (cmcti) - Ofício 42/2018 (2018 - 2018).\nComissão Criação Regulamento Da Pesquisa E Inovação - Port. 130/2018 - Re/ifrn (2018 - 2018).\nMembro Do Conselho Da Editora Do Ifrn - Port. 1983/2017 - Re/ifrn (2017 - 2018).\nGrupo De Trabalho Para Implantação Do Polo De Inovação Do Ifrn - Portaria 1308/2017 - Re/ifrn (2017 - 2017).\nGrupo De Trabalho Para Elaboração Da Política De Inovação Do Ifrn - Portaria 1307/2017 - Re/ifrn (2017 - 2017).\nComissão Para Elaboração De Edital Para O Prêmio De Empreendedorismo Inovador - Portaria No. 1939 Re/ifrn (2017 - 2017).\nMembro Comissão - Estudo E Viabilidade Do Curso Graduação Em Inovação - Port. 981/2017/dg/cnat/ifrn (2017 - 2018).\nConselho De Administração Do Parque Tecnológico Metrópole Digital - Ofício 434/2017-re/ifrn (2017 - 2018).\nComissão Elaboração Relatório Gestão 2017 - Portaria 2423/2017 - Re/ifrn (2017 - 2018).\nComissão De Elaboração Da Política Editorial Da Editora Do Ifrn - Portaria 2295/2016 - Re/ifrn (2016 - 2017).\nComissão Para Elaboração De Edital De Fomento De Servidores E Discentes Do Ifrn Em Eventos Acadêmicos-científicos - Portaria 1323/2016 - Re/ifrn (2016 - 2016).\nGrupo Gestor Do Repositório Institucional - Memoria - Portaria 1109/2016 - Re/ifrn (2016 - 2018).\nConselheiro No Conselho Municipal De Ciência E Tecnologia (2016 - 2017).\nConselheiro No Núcleo De Apoio A Inovação - Nagi (2016 - 2018).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo e aplicação de redes de sensores sem fio com aplicação em cidades inteligentes",
+                "periodo": "2019 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Siqueira Martins",
+                    "Credson Isaac Lopes dos Santos",
+                    "Estevão Henrique Lacerda",
+                    "Arthur Alves dos Santos"
+                ],
+                "financiador": "IFRN - Campus Parnamirim, IFRN - Campus Parnamirim,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Protótipo de um Sistema Automatizado para Irrigação Utilizando Internet das Coisas e Energia Solar",
+                "periodo": "2019 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Siqueira Martins",
+                    "Fábio Augusto Procópio de Paiva",
+                    "Jefferson Doolan Fernandes",
+                    "Jose Everson Barbosa da Silva",
+                    "Alexya Ferreira de Santana Brito",
+                    "Gabriele Pereira Rodrigues",
+                    "Jasmini Rebecca Gomes dos Santos",
+                    "Emanuel Lázaro Porpino Campos",
+                    "Rafaela Ribeiro Marques dos Santos"
+                ],
+                "financiador": "IFRN - Campus Parnamirim, IFRN - Campus Parnamirim,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "GEEKS",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Fábio Augusto Procópio de Paiva",
+                    "Jurandy Martins Soares Junior",
+                    "Juliana Ribeiro da Cunha",
+                    "Valerio Gutemberg de Medeiros Junior",
+                    "Rodrigo Siqueira Martins"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Desenvolvimento de um sistema de portfólio estudantil para estágios e egressos",
+                "periodo": "2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Siqueira Martins",
+                    "Bruno Emerson Gurgel Gomes",
+                    "Glenda Michelle Marques Fonseca Ferreira Dantas"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Desenvolvimento da plataforma ATIVOS - Empreendedorismo, Inovação e Prática profissional",
+                "periodo": "2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Siqueira Martins",
+                    "Ana Paula Borba Costa",
+                    "Valerio Gutemberg de Medeiros Junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Instituto Compartilhado: uma parceria IFRN e uma escola estadual para manutenção do projeto de inclusão digital de um computador por aluno (UCA)",
+                "periodo": "2015 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Siqueira Martins",
+                    "Lucas Araujo Caribe",
+                    "Diego da Silva Pereira",
+                    "Thavyla Vasconcelos de Brito",
+                    "Débora Araújo Ribeiro",
+                    "Elter Eduardo Bezerra da Rocha",
+                    "Emerson Weslley Guedes Silva",
+                    "Marcelo Victor Sousa Cunha",
+                    "Lucas Almeida Rosa",
+                    "Pedro Felisberto Coutinho Netto",
+                    "Jurandy Martins Soares Junior",
+                    "Joao Kennedy da Silva Junior",
+                    "João Paulo Fonseca Gomes",
+                    "Credson Isaac Lopes dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Iluminação Inteligente - um sistema embarcado para conforto e economia",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Siqueira Martins",
+                    "José Alandell Teixeira da Silva",
+                    "Marcos Henrique Fernander Marcone",
+                    "Pedro Henrique Castro"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "MEDEIROS JUNIOR",
+                    "software": "V. G.,  MARTINS, RODRIGO S.,  Reconhecimento de face",
+                    "ano": "2020",
+                    "finalidade": "sistema de informação, rede de informação, teoria da informação, fluxo de informação.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512022001205-7."
+                },
+                {
+                    "autor": "MARTINS",
+                    "software": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Informática Básica",
+                    "ano": "2012",
+                    "finalidade": "Análise Crítica."
+                },
+                {
+                    "autor": "MARTINS",
+                    "software": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Segurança da Informação",
+                    "ano": "2012",
+                    "finalidade": "Análise Crítica."
+                },
+                {
+                    "autor": "MARTINS",
+                    "software": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Sistemas Operacionais",
+                    "ano": "2010",
+                    "finalidade": "Análise e correção de livro técnico."
+                },
+                {
+                    "autor": "MARTINS",
+                    "software": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Redes de Computadores",
+                    "ano": "2010",
+                    "finalidade": "Análise e correção de livro técnico."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MARTINS",
+                    "titulo": "Rodrigo Siqueira,  Segurança Digital. O que fazer em um mundo conectado?",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "MARTINS",
+                    "titulo": "RODRIGO S.,  Segurança Digital. O que fazer em um mundo conectado?",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "MARTINS",
+                    "titulo": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  I Fórum Científico e Cultural da Região do Mato Grande",
+                    "ano": "2010",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do RN - IFRN."
+                },
+                {
+                    "autores": "MARTINS",
+                    "titulo": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  DUARTE, Victor J. L.,  MAITELLI, André Laurindo,  SALAZAR, Andrés O.,  D. NETO, Adrião D.,  Sistema de Detecção de Vazamentos em Dutos usando Redes Neurais e Máquinas de Vetor de Suporte",
+                    "ano": "2007",
+                    "instituicao_promotora": "Sociedade Brasileira de Redes Neurais."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MARTINS",
+                    "curso": "Rodrigo Siqueira,  Fábio Procópio,  LIMA, A. S. B.,  COSTA, A. P. B.,  SOUZA, G. F.,  Formação em Pesquisador Científico",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "MARTINS",
+                    "curso": "Rodrigo Siqueira,  Implantação e Gerenciamento do Windows Server 2012",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "MARTINS",
+                    "curso": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Redes de Computadores",
+                    "ano": "2007"
+                },
+                {
+                    "autor": "MARTINS",
+                    "curso": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Sistema Operacional Windows 2000",
+                    "ano": "2002"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "MARTINS",
+                    "evento": "Rodrigo Siqueira,  IV Semana de Ciência, Tecnologia e Extensão do IFRN (SECITEX)",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "CARVALHO NETO",
+                    "evento": "J. T.,  PASSOS, R. H. D.,  MARTINS, RODRIGO S.,  VIRGINIO, D. F.,  IV Mostra Tecnológica do IFRN",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "MARTINS",
+                    "evento": "RODRIGO S.,  VIRGINIO, D. F.,  XII Congresso de Iniciação Científica do IFRN - CONGIC",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "MARTINS",
+                    "evento": "RODRIGO S.,  VIRGINIO, D. F.,  I Prêmio de Empreendedorismo Inovador",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "MARTINS",
+                    "evento": "RODRIGO S.,  IV Fórum Estadual de Energia do Rio Grande do Norte",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "AMARAL",
+                    "evento": "F.,  MARTINS, Rodrigo Siqueira,  Como trabalhar numa empresa de internet",
+                    "ano": "2013",
+                    "duracao_semanas": "0",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "MARTINS",
+                    "evento": "Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  I Fórum Científico e Cultural da Região do Mato Grande",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia do RN."
+                },
+                {
+                    "autores": "NASCIMENTO",
+                    "evento": "J. M. A.,  MARTINS, Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S.,  Fábio Procópio,  BRAZ, E. C.,  I Simpósio de Informática da Região do Mato Grande",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Rio Grande do Norte - IFRN."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "Fábio Procópio",
+                "titulo": "MARTINS, Rodrigo Siqueira;  NASCIMENTO, J. M. A.;  SOUZA, G. R.;  INTRODUÇÃO A PYTHON COM APLICAÇÕES DE SISTEMAS OPERACIONAIS",
+                "ano": "2019",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786586293388, NATAL (Publicado)."
+            },
+            {
+                "autores": "VIRGINIO, D. F.",
+                "titulo": "AZEVEDO, M. A.;  MARTINS, Rodrigo Siqueira;  Manual de Processos relacionados a pesquisa, inovação e publicações",
+                "ano": "2018",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788594137289, Natal (Organizado(a))."
+            },
+            {
+                "autores": "PEREIRA, D. S.",
+                "titulo": "MARTINS, Rodrigo Siqueira;  Material de Apoio Ubuntuca",
+                "ano": "2017",
+                "informacoes_adicionais": "Varios. ISBN: 9788583332527, Natal (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "MARTINS, Rodrigo Siqueira",
+                "titulo": "MARTINS, RODRIGO;MARTINS, RODRIGO S.;  VALE, M. R. B. G.;  MAITELLI, André L.;  COMPARATIVE ANALYSIS BETWEEN TWO HYBRID SYSTEMS OF FAULT DETECTION AND DIAGNOSIS BASED ON THE RESIDUAL ANALYSIS",
+                "ano": "2014",
+                "periodico": "WSEAS Transactions on Systems and Control. ISBN: 19918763   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MARTINS, Rodrigo Siqueira",
+                "titulo": "COSTA, B",
+                "evento": "S. J.; ANGELOV",
+                "local": "P.; Automatic Detection of Computer Network Traffic Anomalies based on Eccentricity Analysis. 2018 IEEE International Conference on Fuzzy Systems, Rio de Janeiro",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, J. A. T.",
+                "titulo": "MARCONE, M",
+                "evento": "H. F.; CASTRO",
+                "local": "P. H.; MARTINS, RODRIGO S.; Controle de Iluminação Inteligente. XI CONGRESSO DE INICIAÇÃO CIENTÍFICA DO IFRN (CONGIC), Santa Cruz",
+                "ano": "2015"
+            },
+            {
+                "autores": "RIBEIRO, D. A.",
+                "titulo": "BRITO, T",
+                "evento": "V.; PEREIRA",
+                "local": "D. S.; MARTINS, RODRIGO S.; Instituto Compartilhado: uma parceria IFRN e uma escola estadual para manutenção do projeto de inclusão digital Um Computador por Aluno (UCA). COMPUTER ON THE BEACH 2016, Florianópolis",
+                "ano": "2015"
+            },
+            {
+                "autores": "OLINTO, N. M. M.",
+                "titulo": "MARTINS, Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S",
+                "evento": "; AUTOMAC&#807;A&#771;O RESIDENCIAL UTILIZANDO O PROTOCOLO SNMP. IX CONNEPI - Congresso Norte e Nordeste de Pesquisa e Inovação",
+                "local": "São Luiz",
+                "ano": "2014"
+            },
+            {
+                "autores": "LEITE, D. A. A.",
+                "titulo": "MARTINS, Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S",
+                "evento": "; Uma proposta para simplificar o gerenciamento de softwares e reduzir os custos dos laboratórios de informática de instituições de ensino. VIII CONNEPI - Congresso norte nordeste de pesquisa e inovação",
+                "local": "Salvado",
+                "ano": "2013"
+            },
+            {
+                "autores": "LEITE, D. A. A.",
+                "titulo": "MARTINS, Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S",
+                "evento": "; UMA PROPOSTA PARA SIMPLIFICAR O GERENCIAMENTO DE SOFTWARES E REDUZIR OS CUSTOS DOS LABORATÓRIOS DE INFORMÁTICA DE INSTITUIÇÕES DE ENSINO. VIII CONNEPI - Congresso norte nordeste de pesquisa e inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "DUARTE, Victor J. L.",
+                "titulo": "MARTINS, Rodrigo Siqueira;MARTINS, RODRIGO;MARTINS, RODRIGO S",
+                "evento": "; D. NETO",
+                "local": "Adrião D.; MAITELLI, André Laurindo; SALAZAR, Andres Ortis; Álvaro Medeiros Avelino; Medeiros, Thiago Queiroz de; Método de detecção de vazamentos com base em Wavelet e Software embarcado em DSP. Rio Pipeline Conference & Exposition 2007, Rio de Janeiro",
+                "ano": "2007"
+            },
+            {
+                "autores": "MARTINS, Rodrigo Siqueira",
+                "titulo": "MARTINS, RODRIGO;MARTINS, RODRIGO S",
+                "evento": "; DUARTE",
+                "local": "Victor J. L.; D. NETO, Adrião D.; MAITELLI, André L.; SALAZAR, Andrés O.; SISTEMAS DE DETECÇÃO DE VAZAMENTOS EM DUTOS USANDO REDES NEURAIS E MÁQUINAS DE VETOR DE SUPORTE. VIII Congresso Brasileiro de Redes Neurais, Florianópolis",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Tatiana Dantas dos Santos",
+                "titulo": "Supervisão de Estágio de Trabalho - Pró-reitoria de Pesquisa e Inovação",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Henry Medeiros de Paula",
+                "titulo": "Supervisão de Estágio de Trabalho - Pró-reitoria de Pesquisa e Inovação",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Emanuele Souza da Silva Galdino",
+                "titulo": "Relatório Supervisionado de Prática Profissional",
+                "ano": "2016",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Michel Madson Alves Cabral",
+                "titulo": "Integração do GLPI com Zabbix: Uma Validação de Ambiente para Automação de Helpdesk",
+                "ano": "2015",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Manoel Bezerra da Costa Neto",
+                "titulo": "Sistema de Detecção e Alerta de Vulnerabilidades em Ambiente de Alta Disponibilidade: Integração Zabbix-OpenVAS para prevenção de vulnerabilidades",
+                "ano": "2015",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Andreza Miranda de Andrade Barbosa",
+                "titulo": "Controle de Temperatura e Humidade de Ambientes usando ZABBIX",
+                "ano": "2015",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Wanderson Michel Correia da Silva",
+                "titulo": "Análise e gerenciamento de redes usando uma metodologia proativa com Zabbix",
+                "ano": "2015",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Erico Igor Teixeira",
+                "titulo": "Relatório de Prática Profissional: Um gerenciamento WEB para monitoramento e controle de ar-condicionados",
+                "ano": "2015",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Elias dos Santos Gomes",
+                "titulo": "ESTÁGIO CURRICULAR SUPERVISIONADO NO TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO NORTE",
+                "ano": "2015",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Nathan Mitchel Medeiros Olinto",
+                "titulo": "Automação Residencial Utilizando o Protocolo SNMP",
+                "ano": "2014",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Danilo Augusto Alves Leite",
+                "titulo": "Uma proposta para simplificar o gerenciamento de softwares e reduzir custos de laboratórios de informática",
+                "ano": "2013",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Guerra Vale da Fonseca",
+                "titulo": "Interface Virtual Touchscreen",
+                "ano": "2008",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Universidade Potiguar"
+            },
+            {
+                "orientando": "Helton Costa de Araújo e Fábio Alexandre Lima Fagundes",
+                "titulo": "Segurança da Informação em Redes Sem Fio",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Potiguar"
+            },
+            {
+                "orientando": "Andrielly Augusta de Souza Costa e Thiago Sampaio Montenegro",
+                "titulo": "Sistema de Controle de Provedor a Rádio",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Potiguar"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.3928675651550293,
+            "indian": 8.531415939331055,
+            "black": 2.0323286056518555,
+            "white": 21.623754501342773,
+            "middle eastern": 39.11796951293945,
+            "latino hispanic": 27.301666259765625
+        }
+    }
+}

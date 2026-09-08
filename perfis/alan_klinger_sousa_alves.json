@@ -1,0 +1,358 @@
+{
+    "campus": "- Campus Nova Cruz",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2021",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "orientador": "BRUNO MOTTA DE CARVALHO"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Engenharia de Software",
+                "periodo": "2016 - 2018",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "TeamBridge: Middleware para adaptação de games e controles de reabilitação motora",
+                "orientador": "RUMMENIGGE RUDSON DANTAS"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Metodologia do Ensino Superior e EAD",
+                "periodo": "2016 - 2017",
+                "instituicao": "Faculdade Educacional da Lapa",
+                "orientador": "Valter Zotto de Andrade"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "periodo": "2009 - 2011",
+                "instituicao": "Faculdade Câmara Cascudo"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2013 - 2015",
+                "instituicao": "Faculdade Estácio do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "ATI - Attalus Tecnologia da Informação",
+                "periodo": "2008 - 2011",
+                "cargo": "Desenvolvedor, Celetista formal."
+            },
+            {
+                "empresa": "ATI - Attalus Tecnologia da Informação",
+                "periodo": "2007 - 2008",
+                "cargo": "Assistente de desenolvedor - Estágio, Atuei como assistende de desenvolvedor e estudava a possibilidade de automatização do setor de publicação.."
+            },
+            {
+                "empresa": "Força Aérea Brasileira",
+                "periodo": "2012 - 2016",
+                "cargo": "Sargento, Atuei como Sargento SIN Sistemas de Informação, na Força Aérea Brasileira, gerenciando servidores Windows e Linux, equipamentos de redes, roteadores e switches. Implementando e desenvolvendo sistemas em PHP, Python e Java. Além de atuar como assistente na área de telefonia e Telesat.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2016",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2016 - 2018",
+                "cargo": "Membro de projeto de pesquisa."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Adaptação do TeamBridge para telerobótica",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "Emerson Fernandes de Oliveira",
+                    "Caio Rafael da Rocha Gomes",
+                    "Eduardo Pereira Carlos",
+                    "Jorge Richard dos Santos Rocha",
+                    "Ryam de Sousa Alves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Desenvolvimento de software de apoio à UNICAT",
+                "periodo": "2021 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "Milena da Silva Alves",
+                    "Wilson Patricio de Medeiros"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Plataforma web para cálculo da evapotranspiração e tempo de irrigação",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "Fabiana Alves de Araujo",
+                    "Julio Justino de Araujo",
+                    "José Antonio da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Defuse the bomb: elaboração de atividade gamificada para resolução de problemas",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "Carlos Deyvinson Reges Bessa",
+                    "Vinicios Adriano de Assis",
+                    "José Wanderson dos Santos Torres",
+                    "Juliana Fernandes de Lima",
+                    "Antônio Diogenes de Carvalho Neto",
+                    "David Caua Alves Rocha",
+                    "Monize Rodrigues de Menezes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Cadastramento das empresas locais ao Google Meu Negócio",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "Taynara de Lima Souza",
+                    "Shirley Luanna Vieira Peixoto Genuino",
+                    "Carlos Deyvinson Reges",
+                    "Maria Eduarda Benício Bernardino",
+                    "Helena Alexandra Barbalho de Souza"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "VirtuAlter: Um sistema de reabilitação virtual para treinamento do equilíbrio dinâmico de idosos",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "JULIO CESAR PAULINO DE MELO",
+                    "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+                    "RUMMENIGGE RUDSON DANTAS",
+                    "THAIANA BARBOSA FERREIRA PACHECO",
+                    "LUIZ MARCOS GARCIA GONCALVES",
+                    "DANILO ALVES PINTO NAGEM",
+                    "AQUILES MEDEIROS FILGUEIRA BURLAMAQUI",
+                    "MARCOS ALVARENGA OLIVEIRA",
+                    "ANDRÉ VIEIRA DOS SANTOS"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "NEDGlove: Um sistema computacional para uso em sessões de reabilitação motora virtual e interativa",
+                "periodo": "2016 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alan Klinger Sousa Alves",
+                    "JULIO CESAR PAULINO DE MELO",
+                    "JOSE GUILHERME DA SILVA SANTA ROSA",
+                    "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+                    "RUMMENIGGE RUDSON DANTAS",
+                    "ANTONIO PEREIRA JUNIOR"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ALVES",
+                    "titulo": "A. K. S.,  DANTAS, R. R.,  A non-invasive middleware for games adaptation and motor rehabilitation controls",
+                    "ano": "2022",
+                    "instituicao_promotora": "UFRN."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "A. L.,  ALVES, A. K. S.,  APLICATIVO PARA CONTROLE E GERENCIAMENTO DE APIÁRIO",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "COUTINHO",
+                    "titulo": "A. S. S.,  MORAIS, N. A.,  ALVES, A. K. S.,  CATCH-CATCH: Um Jogo para auxílio do processo de aprendizagem da leitura",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "H. K. L.,  SILVA, W. V. P.,  BARBOSA, A. F.,  ALVES, A. K. S.,  APLICATIVO PARA O APRENDIZADO PRÉ-CATEQUÉTICO INFANTIL (CATEkids)",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "FERNANDES",
+                    "titulo": "M. E. G.,  TEIXEIRA, V. O.,  SILVA;, M. V. F.,  LOPES, D. S.,  ALVES, A. K. S.,  VIANA, M. G.,  Crayon vírus: jogo plataforma para auxiliar no ensino lu&#769;dico sobre arboviroses transmitidas por mosquitos",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "BATISTA",
+                    "titulo": "B. K. N.,  NUNES, G. F.,  SENA, G. F. M.,  VIEIRA, L. O. S.,  ALVES, A. K. S.,  SANTOS, A. P. B.,  Relay: the cycle of the time",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "QUEIROZ",
+                    "titulo": "V. L.,  QUEIROZ, V. N. S.,  ALVES, A. K. S.,  CHNAIDERMAN, L. S.,  Hearts of iron IV: criando mod sobre o golpe militar e o regime ditatorial brasileiro",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "CARLOS",
+                    "titulo": "E. P.,  LEITE, P. H.,  ALVES, R. S.,  ALVES, A. K. S.,  BARBALHO, B. C.,  Molécula X: ensino e aprendizagem dinâmica",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "GOMES",
+                    "titulo": "C. R. R.,  OLIVEIRA, E. F.,  ROCHA, J. R. S.,  CARLOS, E. P.,  ALVES, R. S.,  ALVES, A. K. S.,  Adaptação do teambridge para Arduino",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ALVES",
+                    "curso": "A. K. S.,  CARVALHO, D. A. S. O.,  Introdução ao Arduino",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "ALVES",
+                    "curso": "A. K. S.,  CARVALHO, D. A. S. O.,  XAVIER, E. M.,  PINHEIRO, R. A.,  SOUSA, P. O. V. Q.,  Jogos de Tabuleiro",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "ALVES",
+                    "curso": "A. K. S.,  Pensamento Lógico",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "ALVES",
+                    "curso": "A. K. S.,  Web scraping com python",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ALVES",
+                    "evento": "A. K. S.,  VIII EXPOTEC",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "ALVES",
+                    "evento": "A. K. S.,  VII Expotec",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "ALVES",
+                    "evento": "A. K. S.,  IV SEDOC",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "ALVES",
+                    "evento": "A. K. S.,  SILVA, K. K. A.,  FERNANDES, S. N.,  SOUSA, P. O. V. Q.,  CARVALHO, D. A. S. O.,  FIGUEIREDO, D. L. S.,  MEDEIROS, E. L.,  MAIA, H. W.,  SILVA, J. I. D.,  OLIVEIRA, D. H. C.,  LOPES, L. R. A.,  IP-Config - Dia da informática de Ipanguaçu",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "FERNANDES FILHO, J.",
+                "titulo": "COSTA, E",
+                "evento": "T. S.; ALVES",
+                "local": "A. K. S.; ESTAÇÃO METEOROLÓGICA AUTOMÁTICA E DE BAIXO CUSTO EM ARDUINO. VI CONGRESSO NACIONAL DE EDUCAÇÃO, Fortaleza",
+                "ano": "2019"
+            },
+            {
+                "autores": "ALVES, A. K. S.",
+                "titulo": "DANTAS, R",
+                "evento": "R.; TeamBridge: Adaptando Kinect e joysticks para jogos de reabilitação. III Encontro Potiguar de Jogos",
+                "local": "Entretenimento e Educação, Natal",
+                "ano": "2017"
+            },
+            {
+                "autores": "ALVES, A. K. S.",
+                "titulo": "DANTAS, R",
+                "evento": "R.; Adaptador de dispositivos para jogos de reabilitação. Symposium on Virtual and Augmented Reality",
+                "local": "Curitiba",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Milena da Silva Alves",
+                "titulo": "PROPOSTA DE UM SISTEMA DE APOIO À UNICAT: PROCESSOS DE AVALIAÇÃO E RENOVAÇÃO",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Windson Patricio de Medeiros",
+                "titulo": "Sistema de Gestão de Criação de Gado de Corte",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Romário Pereira da Silva",
+                "titulo": "Visão computacional: um estudo de caso aplicado à língua brasileira de sinais (LIBRAS)",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "André Lima da Silva",
+                "titulo": "Aplicativo para Controle e Gerenciamento de Apiário",
+                "ano": "2021",
+                "curso": "Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.5850354177237023e-06,
+            "indian": 5.9945537032035645e-06,
+            "black": 1.5010850518137886e-07,
+            "white": 99.85514831542969,
+            "middle eastern": 0.1084398552775383,
+            "latino hispanic": 0.03640902787446976
+        }
+    }
+}

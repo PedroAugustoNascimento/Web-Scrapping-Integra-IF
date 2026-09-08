@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Sabará",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -164,6 +165,15 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de Ensino - FLIPERAMA",
+                "periodo": "2017 - 2017",
+                "natureza": "Outra",
+                "equipe": [
+                    "Gabriel Felipe Cândido Novy"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Projeto de Ensino - Lixo Eletrônico",
                 "periodo": "2017 - 2017",
                 "natureza": "Outra",
@@ -184,15 +194,6 @@
                     "Cristiane Norbiato Targa",
                     "Daniel Bruno Fernandes Conrado",
                     "Carlos Alberto Severiano Junior"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Projeto de Ensino - FLIPERAMA",
-                "periodo": "2017 - 2017",
-                "natureza": "Outra",
-                "equipe": [
-                    "Gabriel Felipe Cândido Novy"
                 ]
             },
             {
@@ -355,14 +356,14 @@
     "Cor/Raça": {
         "raca_original": "white",
         "raca_ibge": "Branca",
-        "confiança": 0.99,
+        "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.022233743220567703,
-            "indian": 0.06702228635549545,
-            "black": 0.0014156994875520468,
-            "white": 92.75672912597656,
-            "middle eastern": 4.674955368041992,
-            "latino hispanic": 2.4776499271392822
+            "asian": 0.11742931604385376,
+            "indian": 0.37111347913742065,
+            "black": 0.013451889157295227,
+            "white": 82.41896057128906,
+            "middle eastern": 8.993310928344727,
+            "latino hispanic": 8.085735321044922
         }
     }
 }

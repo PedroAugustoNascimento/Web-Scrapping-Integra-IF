@@ -1,0 +1,292 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2001 - 2004",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Conversores CC-CC com Eficiênci Energética Otimizada em Função da Aplicação",
+                "orientador": "João Carlos dos Santos Fagundes"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1992 - 1994",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Conversor CC - CC para aplicações em Sistemas Ininterruptos de Energia",
+                "orientador": "João Carlos dos Santos Fagundes"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1986 - 1992",
+                "instituicao": "Universidade Federal de Santa Maria"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Oeste de Santa Catarina",
+                "periodo": "1999 - 1999",
+                "cargo": "Professor Horista."
+            },
+            {
+                "empresa": "Universidade Regional do Noroeste do Estado do Rio Grande do Sul",
+                "periodo": "2000 - 2000",
+                "cargo": "Professor Horista."
+            },
+            {
+                "empresa": "Faculdade SATC",
+                "periodo": "2001 - 2005",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2005",
+                "cargo": "Professor Efetivo, Foi alterado o nome da instituição de CEFET-SC para IF-SC, portanto, foi criado um novo vínculo institucional.."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nCampus Florianópolis (2009 - 2011) : Coord. Cst Em Sistemas Eletrônicos.\nCampus Florianópolis (2007 - 2009) : Coordenador Do Curso Técnico Em Eletrônica.",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2017) - Engenharia Elétrica.\nEspecializacao (2012 - 2012) - Desenvolvimento De Produtos Eletrônicos.\nEspecializacao (2010 - 2010) - Desenvolvimento De Produtos Eletrônicos.\nEspecializacao (2009 - 2009) - Especialização No Desenv. De Prods Eletrônicos.\nOutro (2006) .",
+        "comissoes": ": Instituto Federal de Santa Catarina\nMembro Da Comissão De Reformulação Do Ppc Do Curso Técnico Em Eletrônica. (2012 - 2012).\nMembro Da Comissão Do Núcleo Docente Estruturante Do Cst Em Sistemas Eletrônicos (2012 - 2013).\nComissão Para Reestruturação Do Projeto Pedagógico Do Cst Em Sistemas Eletrônicos. (2010 - 2010).\nComissão De Reestruturação Do Plano Do Curso Técnico Em Eletrônica Subsequente. (2007 - 2007).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Estudo de Estabilizadores de 3 a 10 kVA.",
+                "periodo": "2007 - 2008",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Everton Luiz Ferret dos Santos",
+                    "Clóvis Antônio Petry",
+                    "Flábio Alberto B. Batista"
+                ],
+                "financiador": "Microsol Tecnologia,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pesquisa, estudo, escolha e projeto de topologia de condicionador de tensão AC/AC, com isolação em alta frequência.",
+                "periodo": "2008 - 2009",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Everton Luiz Ferret dos Santos",
+                    "Clóvis Antônio Petry",
+                    "Flábio Alberto B. Batista"
+                ],
+                "financiador": "Microsol Tecnologia,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto de capacitação e aperfeiçoamento técnico de estudantes e profissionais de nível médio na área de eletrônica para indústrias de informática de SC.",
+                "periodo": "2010 - 2011",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Everton Luiz Ferret dos Santos",
+                    "Mauro Tavares Peraça",
+                    "Charles Borges de Lima",
+                    "Leandro Schwarz"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Santos",
+                    "titulo": "E. L. F.,  Petry, Clóvis A.,  Batista, Flábio A.B.,  Pinheiro, L.G.,  Sistema didático para controle de processos com DSP.",
+                    "ano": "2007",
+                    "instituicao_promotora": "CEFET Maranhão."
+                },
+                {
+                    "autores": "Santos",
+                    "titulo": "E. L. F.,  Petry, Clóvis A.,  Coelho, L.H.P.,  SCHNEIDER, G. F.,  Sistema didático de processamento de energia elétrica a partir de painéis fotovoltaicos.",
+                    "ano": "2007",
+                    "instituicao_promotora": "CEFET Maranhão."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "Santos",
+                    "curso": "E. L. F.,  Eletrônica Básica",
+                    "ano": "2003"
+                },
+                {
+                    "autor": "Santos",
+                    "curso": "E. L. F.,  Eletricidade e Eletrônica Básica",
+                    "ano": "2001"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "A IEEE 802.15.4 como Plataforma de Comunicação de Dados",
+                "ano": "2013",
+                "periodico": "Revista Ilha Digital. ISBN: 21772649   ."
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "KINDERMANN, L. M.;  Estudo sobre o padrão ZigBee e desenvolvimento de sistema aplicado em automação residencial.",
+                "ano": "2012",
+                "periodico": "Revista Ilha Digital. ISBN: 21772649   ."
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "KINDERMANN, L. M.;  Sistema de acionamento microcontrolado para dispositivos eletroeletrônicos.",
+                "ano": "2011",
+                "periodico": "Revista Técnico-Científica (IFSC). ISBN: 23168382   ."
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "KINDERMANN, L. M.;  Sistema de acionamento automático de dispositivos ou aparelhos eletro-eletrônicos microcontrolado",
+                "ano": "2010",
+                "periodico": "Revista Ilha Digital. ISBN: 21772649   ."
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "Batista, Flábio A.B.;  Pinheiro, L.G.;  Sistema de Alimentação Ininterrupta Controlado por Processador de Sinais Digitais",
+                "ano": "2009",
+                "periodico": "Revista Ilha Digital. ISBN: 21772649   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Batista, Flábio A.B.",
+                "titulo": "Petry, Clóvis A",
+                "evento": "; Almeida",
+                "local": "Bruno R.; Santos, E. L. F.; Didactic System for Digital Control with Power Electronics Applications. X Brazilian Power Electronics Conference, Bonito - MS",
+                "ano": "2009"
+            },
+            {
+                "autores": "Pinheiro, L.G.",
+                "titulo": "Santos, E",
+                "evento": "L. F.; Batista",
+                "local": "Flábio A.B.; Petry, Clóvis A.; Sistema Didático para Controle de Processos com DSP.. I Jornada deProdução Científica da Educação Profissional e Tecnológica da Região Sul, Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "Petry, Clóvis A.",
+                "titulo": "Santos, E",
+                "evento": "L. F.; Coelho",
+                "local": "L.H.P.; Sistema de Processamento de Energia a partir de Painéis Fotovoltáicos. II Jornada Nacional da Produção Científica da Educação Profissional e Tecnológica da Região Sul., São Luís",
+                "ano": "2007"
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "Fagundes, J",
+                "evento": "C. dos Santos; Methodology for increasing the energetic efficiency applied to rectifying units for telecommunication applications. VI Induscon",
+                "local": "Joinville",
+                "ano": "2005"
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "Fagundes, J",
+                "evento": "C. dos Santos; Methodology for optimization of the efficiency in DC-DC PWM power converters according to application. Congresso Brasileiro de Eletrônica de Potência",
+                "local": "Fortaleza - CE",
+                "ano": "2003"
+            },
+            {
+                "autores": "Santos, E. L. F.",
+                "titulo": "Fagundes, J",
+                "evento": "C. dos Santos; Application of techniques to improve the efficiency of a 600W PWM PFC boost converter. Congresso Brasileiro de Eletrônica de Potência",
+                "local": "Fortaleza - CE",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Lucas de Mello Kindermann",
+                "titulo": "Desenvolvimento de uma interface remota para sistema de automação residencial utilizando a tecnologia Zigbee",
+                "ano": "2011",
+                "curso": "Curso de Tecnologia em Sistemas Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Lucas de Mello Kindermann",
+                "titulo": "Sistema Microcontrolado para Acionamento de Dispositivos Eletrônicos",
+                "ano": "2011",
+                "curso": "Curso de Tecnologia em Sistemas Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Filipe Gonçalves Teixeira",
+                "titulo": "Síntese e Avaliação de Arquiteturas para Filtros Decimadores",
+                "ano": "2011",
+                "curso": "Curso de Tecnologia em Sistemas Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Daniel Korbes",
+                "titulo": "Estudo e implementação de um traçador de perfil térmico para uso na indústria eletrônica",
+                "ano": "2011",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Lucas de Mello Kindermann",
+                "titulo": "Sistema de Acionamento Automático de Dispositivos e Aparelhos Eletro-Eletrônicos Microcontrolado",
+                "ano": "2010",
+                "curso": "Curso Superior de Tecnologia em Sist. Eletrônicos",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia"
+            },
+            {
+                "orientando": "Ana Carla santos",
+                "titulo": "Sistema para Automação de Ambientes",
+                "ano": "2010",
+                "curso": "Curso Superior de Tecnologia em Sist. Eletrônicos",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia"
+            },
+            {
+                "orientando": "Maicol Alves Pacheco",
+                "titulo": "Módulo de Sinalização de Capacetes com Comunicação de Dados Sem Fio",
+                "ano": "2010",
+                "curso": "Curso Superior de Tecnologia em Sist. Eletrônicos",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia"
+            },
+            {
+                "orientando": "Luis Fernando Garcia",
+                "titulo": "Controlador Eletrônico para Irrigação.",
+                "ano": "2009",
+                "curso": "Curso Superior de Tecnologia em Sist. Eletrônicos",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia"
+            },
+            {
+                "orientando": "Marcelo Brígido",
+                "titulo": "Banco de Capacitores para compensação de reativos e análise de sua influência em um sistema industrial de baixa tensão",
+                "ano": "2004",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Faculdade SATC"
+            },
+            {
+                "orientando": "Everton J",
+                "titulo": "Maestrelli.  Análise de taxas de distorções harmônicas em um sistema industrial de baixa tensão",
+                "ano": "2004",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Faculdade SATC"
+            },
+            {
+                "orientando": "Juliano Lodetti Milioli",
+                "titulo": "Fator de potência e harmônicas em sistema trifásico de baixa tensão",
+                "ano": "2003",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Faculdade SATC"
+            },
+            {
+                "orientando": "Adélcio Cavagnoli",
+                "titulo": "Análise de distorção harmônica na rede de baixa tensão",
+                "ano": "2003",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Faculdade SATC"
+            }
+        ]
+    }
+}

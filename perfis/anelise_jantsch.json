@@ -1,0 +1,411 @@
+{
+    "campus": "- Campus Alvorada",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "periodo": "2022 - 2023"
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática na Educação",
+                "periodo": "2010 - 2014",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "EATV: Uma aplicação T-learning para auxiliar os idosos na concretização do envelhecimento ativo e saudável",
+                "orientador": "José Valdeni de Lima"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "periodo": "2001 - 2003",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "TVMSE - Uma Implementação do Versionamento de Esquemas segundo o Modelo TVM",
+                "orientador": "Nina Edelweiss"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão da Educação",
+                "periodo": "2019 - 2020",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "orientador": "Letícia Bastos Nunes"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado Em Informática",
+                "periodo": "1993 - 1998",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Fundação de Apoio à Universidade Federal do Rio Grande do Sul",
+                "periodo": "2000 - 2001",
+                "cargo": "Pesquisador, Pesquisadora do Grupo Versões Tempo, projeto patrocinado pela IBM e pela SOLECTRON. Minha área era a pesquisa da evolução de esquemas sobre o TVM.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2002 - 2009",
+                "cargo": ", Professor contratado pela Inst, Fui professora titular das disciplinas de Algoritmos, de Estrutura de Dados, Fundamentos da Computação, Produção de Materiais Didáticos, Saúde Ocupacional em Ambiente Computacional e, Controle e Avaliação de Sistemas no curso de Licenciatura em Computação. Ministrei também a disciplina de Informática Instrumental para os cursos de Administração, História, Geografia, Letras, Pedagogia e Matemática.."
+            },
+            {
+                "empresa": "Escola Técnica José Cesar de Mesquita",
+                "periodo": "2001 - 2010",
+                "cargo": ", Ministro a disciplina de Algoritmos e Estruturas de Dados. Ministrei as disciplinas de Laboratório de Programação I ? linguagem de programação PASCAL, Fundamentos da Computação, Sistemas Operacionais e Orientação de Projetos de Conclusão.."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "periodo": "1999 - 2001",
+                "cargo": "Outro (INSTRUTORA), Ministrava cursos nas seguintes áreas: Microinformática, Dos, Windows 95/98, Word 6.0/7.0/97/2000, Excel 5.0/7.0/97/2000, Access7.0/97/2000, Internet, Datilografia Informatizada e cursos intensivos.."
+            },
+            {
+                "empresa": "Departamento Autônomo de Estradas de Rodagem",
+                "periodo": "1997 - 1998",
+                "cargo": "Outro (INSTRUTORA), Por intermédio de mídias (disquetes, CD-ROMs) instruía os alunos no campo da microinformática, intercalando o aprendizado com exercícios de acordo com o ritmo de cada um. Cursos oferecidos: Dos 5.0, Windows 3.1, Windows 95, Word 6.0/7.0, Excel 5.0/7.0, Power Point 4.0 e Access 2.0/7.0. Desenvolvi sistemas em Access para suprir as necessidades do setor (controle de alunos, emissão de certificados, controle de setores já treinados, etc.), manipulava imagens com uso do scanner.."
+            },
+            {
+                "empresa": "Associação Educ P E Morais Pereira Supletivo de 1º e 2º Graus",
+                "periodo": "1997 - 1997",
+                "cargo": "Outro (SUPORTE HARDWARE E SOFTWARE), Suporte ao usuário de microinformática a nível de software (Word 6.0, Excel 5.0, Windows, bem como explicações sobre funcionamento de software bancário). Configuração de hardware (placas de rede, modems, impressoras, configuração da resolução de vídeo e de memória da máquina, configuração de setup) e de software. Acompanhamento da instalação e adaptação de software específico para a área de cobrança do curso, realizando desta forma o interfaceamento entre o usuário e desenvolvedor (empresa terceirizada).."
+            },
+            {
+                "empresa": "Grupo Gerdau S/A",
+                "periodo": "1995 - 1996",
+                "cargo": "Atendente de Help-Desk, Suporte telefônico ao usuário de microinformática a nível de software ( Word 6.0, Excel 5.0, Power Point 4.0, Visio 2.0, Access 2.0, Correio Eletrônico, acesso à Internet, aplicativos para scanner). Configuração e instalação de hardware (instalar placas de rede, configuração da resolução de vídeo e de memória da máquina, instalação de memórias, configuração de setup) e de software. Desenvolvimento de sistemas de banco de dados em Access 2.0 utilizando recursos como access basic e SQL.."
+            },
+            {
+                "empresa": "Cia Carris Porto Alegrense",
+                "periodo": "1994 - 1994",
+                "cargo": "Outro (PROGRAMAÇÃO), Implementação de sistemas para o setor, confecção de planilhas de controle no Lotus 123.."
+            },
+            {
+                "empresa": "Faculdade Porto-Alegrense",
+                "periodo": "2003 - 2004",
+                "cargo": "Professor horista."
+            },
+            {
+                "empresa": "Centro Superior de Tecnologia TECBrasil",
+                "periodo": "2010 - 2010",
+                "cargo": "Professor horista, Celetista formal, Ingressei na FTEC no curso de Análise e Desenvolvimento de Sistemas para lecionar as disciplinas de Programação Web, Sistemas Operacionais e Algoritmos e Programação, todas as disciplinas tinham como suporte o ambiente virtual de aprendizagem Moodle para os alunos.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2008 - 2008",
+                "cargo": "Disciplina curso de especialização, Celetista formal, Ministrei a disciplina de Necessidades Especiais de Aprendizagem e Acessibilidade no curso de Especialização em Informática na Educação na sede de Gramado.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2007 - 2009",
+                "cargo": "Coord. curso de Espec. Informática Educação, Celetista formal, Coordenadora do curso de pós graduação \"Especialização em Informática na Educação\". Este curso aconteceu na CNEC Gramado para professores da rede pública e privada daquela região. Tinha como atribuições contratar professores, montar cronogramas e horários e acompanhar as demandas com a coordenadora local.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2007 - 2009",
+                "cargo": "Coordenadora Ação Social - Inclusão Digital, Celetista formal, Coordenei a ação \"Inclusão Digital\" dentro do Projeto Social Vila Viva de 2007 a 2008.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2007 - 2009",
+                "cargo": "Membro Comissão Permanente de Proc. Seletivos, Celetista formal, Integrei a comissão permanente de processos seletivos da CNEC Osório nos anos de 2007 a 2008.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2006 - 2009",
+                "cargo": "Coordenadora Graduação Licenc. em Computação, Celetista formal, Coordenei a graduação do curso em Licenciatura em Computação de 2006 a 2009. Neste período instaurei a Semana da Computação que era um momento de apresentações dos alunos dos estágios, ao todo o curso contava com três estágios, além de palestras sobre a área, apresentações de trabalhos e discussão sobre os caminhos do curso. Também neste período liderei a comissão de reestruturação do Projeto Pedagógico do curso, e iniciamos a nova grade em 2008. Participei da avaliação do MEC para a renovação do reconhecimento do curso. Redigi o Projeto para o Curso Técnico de Informática para a instituição, neste projeto o principal foco era trazer nossos melhores egressos como docentes no curso. Também era responsável por acompanhar e orientar o projeto social de Inclusão Digital para a comunidade carente do litoral norte. Neste período levamos os alunos a eventos como a escola de licenciatura em suas edições em Canoas e Santa Cruz do Sul. Nossos alunos também participaram do Casemode expondo trabalhos na UniRitter.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2003 - 2004",
+                "cargo": "Membro Conselho Superior, Integrei o conselho superior da CNEC Osório representando o curso de computação-licenciatura, de 2003 a 2004.."
+            },
+            {
+                "empresa": "Faculdade Cenecista de Osório",
+                "periodo": "2002 - 2009",
+                "cargo": ", Ministrei as seguintes disciplinas nos cursos da FACOS atual CNEC Osório: Curso História - Disciplina Informática Curso Computação: Estrutura de dados, Introdução à computação, Produção de Materiais Didáticos, Saúde Ocupacional em Ambiente Computacional, Algoritmos, Controle a Avaliação de Sistemas. Curso Matemática - Informática Aplicada ao ensino da matemática e da física Curso Educação Física - Informática instrumental Curso Administração - Informática Curso Geografia - Informática aplicada à Geografia."
+            },
+            {
+                "empresa": "Alfamidia",
+                "periodo": "2009 - 2010",
+                "cargo": "Instrutora cursos de formação profissional, Instrutora, Na Alfamídia ministrei cursos de Excel nos níveis básico, intermediário e avançado. Ministrei cursos de Lógica de Programação utilizando a linguagem interpretada Javascript. Ministrei o curso de Modelagem de Dados e SQL, neste curso utilizavamos a abordagem ER (software brModelo) e de classes (software DBDesigner) para a modelagem, após utilizávamos o MySQL para a implementação e consultas no banco de dados dentro do PHP MyAdmin.."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "periodo": "2018 - 2019",
+                "cargo": "Tutora de orientação de TCC, Bolsista, Curso de Especialização em Informática Instrumental para Professores da Educação Básica ? 3ª EDIÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL (UFRGS) SECRETARIA DE EDUCAÇÃO A DISTÂNCIA (SEAD) UNIVERSIDADE ABERTA DO BRASIL (UAB/UFRGS)."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "periodo": "2012 - 2012",
+                "cargo": "Tutora no apoio à orientação de monografia, Tutora, Atuei no apoio à orientação de monografia no curso de Especialização Mídias na Educação - Ciclo Avançado 2ª edição do MEC, na modalidade de educação a distância, com duração de 360 horas/aula, promovido pelo Centro Interdisciplinar de Novas Tecnologias na Educação - CINTED, na UFRGS.."
+            },
+            {
+                "empresa": "Tribunal de Justiça do Rio Grande do Sul",
+                "periodo": "2014 - 2024",
+                "cargo": "Programadora, Servidor público, Atualmente trabalho na função de testadora da equipe do sistema e-Proc, compondo o time de qualidade.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2024",
+                "cargo": "Professor EBTT, Servidor público, Sou professora EBTT de Informática Geral.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Faculdade Porto-Alegrense\nGraduacao (2003 - 2004) - Administração E Ciências Contábeis.\nTreinamento Ministrado: Serviço Nacional de Aprendizagem Comercial\nFormação Profissional (1999 - 2001) - Formação Profissional - Outro (INSTRUTORA).",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "JANTSCH",
+                    "titulo": "A.,  BARBOSA, M. L. K.,  REATEGUI, E.,  ROESLER, V.,  Proposta de uma Interface Simplificada para o TV-Care: homecare via TV Digital para a terceira idade",
+                    "ano": "2011",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "JANTSCH",
+                    "evento": "ANELISE,  TEIXEIRA, A. C.,  VII SENID - Seminário Internacional de Cultura Digital (comitê de programa)",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade de Passo Fundo."
+                },
+                {
+                    "autores": "TEIXEIRA",
+                    "evento": "A. C.,  JANTSCH, ANELISE,  VI Seminário Nacional de Inclusão Digital (avaliadora de artigos)",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade de Passo Fundo."
+                },
+                {
+                    "autores": "JANTSCH",
+                    "evento": "ANELISE,  GUERRERO, M. J. A.,  ALMEIDA, P.,  SILVA, T.,  9th Iberoamerican Conference on Applications and Usability for Interactive TV",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade de Aveiro, DigiMedia e RedAUTI."
+                },
+                {
+                    "autores": "ROESLER",
+                    "evento": "V.,  Wives, L.K.,  JANTSCH, ANELISE,  XXVIII Ciclo de Palestras sobre Novas Tecnologias na Educação (membro comitê de programa)",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CINTED."
+                },
+                {
+                    "autores": "JANTSCH",
+                    "evento": "A.,  ROESLER, V.,  XXVII Ciclo de Palestras Sobre Novas Tecnologias na Educação",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CINTED - UFRGS."
+                },
+                {
+                    "autores": "TEIXEIRA",
+                    "evento": "A. C.,  JANTSCH, A.,  6º Seminário Nacional de Inclusão Digital (avaliador de artigos)",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade de Passo Fundo."
+                },
+                {
+                    "autores": "JANTSCH",
+                    "evento": "A.,  LIMA, J. V.,  XXVI Ciclo de Palestras sobre Novas Tecnologias na Educação (avaliador de trabalhos científicos)",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CINTED UFRGS PPGIE."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "J. V.,  JANTSCH, A.,  XXV Ciclo de Palestras sobre Novas Tecnologias na Educação (avaliador de trabalhos científicos)",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CINTED UFRGS PPGIE."
+                },
+                {
+                    "autores": "TEIXEIRA",
+                    "evento": "A. C.,  JANTSCH, A.,  5º Seminário Nacional de Inclusão Digital (avaliador de artigos)",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade de Passo Fundo."
+                },
+                {
+                    "autores": "TEIXEIRA",
+                    "evento": "A. C.,  JANTSCH, A.,  4º Seminário Nacional de Inclusão Digital (avaliador de artigos)",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade de Passo Fundo."
+                },
+                {
+                    "autores": "JANTSCH",
+                    "evento": "A.,  VI Congresso Iberoamericano de Telemática - CITA (Session Chair)",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "BIAZUS",
+                    "evento": "M.C.V.,  JANTSCH, A.,  MACHADO, L.R.,  Schäfer, P.B.,  MAISSIAT, J.,  I ENCONTRO INTERDISCIPLINAR: CONEXÕES EM EDUCAÇÃO E NOVAS TECNOLOGIAS",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFRGS PROREXT."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MACHADO, L.R.",
+                "titulo": "JANTSCH, A.;  DOLL, J.;  BEHAR, P.A.;  LIMA, J. V.;  AUTO-ORGANIZAÇÃO E OS IDOSOS: A INTERLOCUÇÃO NECESSÁRIA ATRAVÉS DE UM FÓRUM",
+                "ano": "2012",
+                "periodico": "RENOTE. Revista Novas Tecnologias na Educação. ISBN: 16791916   ."
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "MACHADO, L.R.;  BEHAR, P.A.;  LIMA, J. V.;  As Redes Sociais e a Qualidade de Vida: os Idosos na Era Digital",
+                "ano": "2012",
+                "periodico": "IEEE-RITA. ISBN: 19328540   ."
+            },
+            {
+                "autores": "COSTA, P.S.C",
+                "titulo": "JANTSCH, A.;  FANTINEL, P.C.;  BIAZUS, M.C.V.;  ELISEO REATEGUI;  LIMA, J. V.;  O uso pedagógico da técnica cinemagraphs para a construção de fanfictions",
+                "ano": "2011",
+                "periodico": "RENOTE. Revista Novas Tecnologias na Educação. ISBN: 16791916   ."
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "BARBOSA, M. L. K.;  REATEGUI, E.;  ROESLER, V.;  Proposta de uma Interface Simplificada para o TV-Care: homecare via TV Digital para a terceira idade",
+                "ano": "2011",
+                "periodico": "Cadernos de Informática (UFRGS). ISBN: 1519132X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ÉRICO JOSÉ DE SOUZA SANTANA",
+                "titulo": "JANTSCH, ANELISE; Evasão na Educação a Distância: investigação das causas no curso de Geografia da UNIPAMPA no Pólo de Esteio",
+                "evento": "XXVII Ciclo de Palestras sobre novas tecnologias na educação",
+                "local": "Porto Alegre",
+                "ano": "2019"
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "CONCEICAO, S",
+                "evento": "C. O.; LIMA",
+                "local": "J. V.; The educational potential of technologies for older people - Reflections on the well-being. CSEDU 6th International Conference on Computer Supported Education, Barcelona",
+                "ano": "2014"
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "BASSO, L",
+                "evento": "O.; MACHADO",
+                "local": "R. P.; SANTAROSA, L.M.C.; ACESSIBILIDADE À TVDI E WEB: DESVELANDO PARÂMETROS DE SIMILARIDADES. II Jornadas Iberoamericanas de Difusión y Capacitación sobre Aplicaciones y Usabilidad de la Televisión Digital Interactiva. II jAUTI2013, Córdoba",
+                "ano": "2014"
+            },
+            {
+                "autores": "MACHADO, L.R.",
+                "titulo": "JANTSCH, A",
+                "evento": "; BEHAR",
+                "local": "P.A.; LIMA, J. V.; Cyberseniors and Quality of Life: a Focus on SocialNetworking. 13th European Conference on e-Learning ECEL-2014, Copenhagem",
+                "ano": "2014"
+            },
+            {
+                "autores": "COSTA, P.S.C",
+                "titulo": "JANTSCH, A",
+                "evento": "; FANTINEL",
+                "local": "P.C.; LIMA, J. V.; BIAZUS, M.C.V.; REATEGUI, E.; POTENCIAL CRIATIVO NA CONSTRUÇÃO DE FANFICTIONS A PARTIR DA TÉCNICA CINEMAGRAPHS. WCCA 2012 - V World Congress on Communication and Arts, Guimarães",
+                "ano": "2012"
+            },
+            {
+                "autores": "COSTA, P.S.C",
+                "titulo": "JANTSCH, A",
+                "evento": "; FANTINEL",
+                "local": "P.C.; LIMA, J. V.; BIAZUS, M.C.V.; REATEGUI, E.; POTENCIAL CRIATIVO NA CONSTRUÇÃO DE FANFICTIONS A PARTIR DA TÉCNICA CINEMAGRAPHS. WCCA'2012 - V World Congress on Communication and Arts, Guimarães",
+                "ano": "2012"
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "LIMA, J",
+                "evento": "V.; ELISEO REATEGUI; Uma aplicação para TVDi para a promoção do autocuidado no envelhecimento. XVIII Congresso de Geriatria e Gerontologia",
+                "local": "Rio de Janeiro",
+                "ano": "2012"
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "SANTAROSA, L",
+                "evento": "M.C.; Acessibilidade e usabilidade na TV Digital: interação e aprendizagem para idosos. jAUTI 2012 | I Jornadas de Difusión y Capacitación de Aplicaciones y Usabilidad de la Televisión Digital Interactiva",
+                "local": "La Plata",
+                "ano": "2012"
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "BARBOSA, M",
+                "evento": "L. K.; REATEGUI",
+                "local": "E.; ROESLER, V.; Proposta de uma Interface Simplificada para o TV-Care: homecare via TV Digital para a terceira idade. Congresso Ibero-Americano de Telemática, CITA 2011, Gramado",
+                "ano": "2011"
+            },
+            {
+                "autores": "JANTSCH, A.",
+                "titulo": "LIMA, J",
+                "evento": "V.; REATEGUI",
+                "local": "E.; Uma solução em TVDi para colaborar com o envelhecimento ativo. XVI Congresso Internacional de Informática Educativa, Santiago",
+                "ano": "2011"
+            },
+            {
+                "autores": "GALANTE, R. M.",
+                "titulo": "ROMA, A",
+                "evento": "B. S.; JANTSCH",
+                "local": "A.; EDELWEISS, N.; SANTOS, C. S.; Dynamic Schema Evolution Management using Version in Temporal Object-Oriented Databases. INTERNATIONAL CONFERENCE ON DATABASE AND EXPERT SYSTEMS APPLICATIONS, XIII, Aix-en-Provence",
+                "ano": "2002"
+            },
+            {
+                "autores": "ROMA, A. B. S.",
+                "titulo": "JANTSCH, A",
+                "evento": "; GALANTE",
+                "local": "R. M.; EDELWEISS, N.; SANTOS, C. S.; Gerenciamento Temporal de Versões para Evolução de Esquemas em BDOO. SIMPÓSIO BRASILEIRO DE BANCO DE DADOS, SBBD XVI, Rio de Janeiro",
+                "ano": "2001"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "CAROLINE SIERVO PINTO",
+                "titulo": "O ENSINO DA LÓGICA DE PROGRAMAÇÃO UTILIZANDO A FERRAMENTA DE APRENDIZAGEM VISUALG",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM INFORMÁTICA INSTRUMENTAL PARA PROFESSORES DO EN",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "FELÍCIA REGINA FLÔRES VALLE SILVEIRA",
+                "titulo": "ALFABETIZAÇÃO: O USO DO TABLET COMO FERRAMENTA DE APRENDIZAGEM",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM INFORMÁTICA INSTRUMENTAL PARA PROFESSORES DO EN",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "ÉRICO JOSÉ DE SOUZA SANTANA",
+                "titulo": "EVASÃO NA EDUCAÇÃO À DISTÂNCIA: INVESTIGAÇÃO SOBRE AS CAUSAS DA EVASÃO NO CURSO DE GEOGRAFIA DA UNIPAMPA NO POLO ESTEIO",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM INFORMÁTICA INSTRUMENTAL PARA PROFESSORES DO EN",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 52.58053970336914,
+            "indian": 9.797874450683594,
+            "black": 15.06009292602539,
+            "white": 1.9870823621749878,
+            "middle eastern": 0.954192042350769,
+            "latino hispanic": 19.620222091674805
+        }
+    }
+}

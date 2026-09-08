@@ -1,0 +1,545 @@
+{
+    "campus": "- Reitoria",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Informática",
+                "periodo": "2021",
+                "instituicao": "Universidade de Coimbra",
+                "orientador": "Henrique Madeira"
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia e Tecnologia Espaciais",
+                "periodo": "2022",
+                "instituicao": "Instituto Nacional de Pesquisas Espaciais",
+                "titulo": "Verificação e validação em sistemas espaciais para segmento solo",
+                "orientador": "Maria de Fátima Mattiello-Francisco"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2010 - 2011",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Detector de sinais com separação em canais para a Estação Multimissão de Natal",
+                "orientador": "Allan de Medeiros Martins"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Não definido",
+                "orientador": "Márcio Eduardo Kreutz"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Inovação e Tecnologia",
+                "periodo": "2015 - 2017",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Gestão de inovação em startup de coleta de dados sem fio, multipropósito, e modular: estudo de caso de um spin-off de pesquisa da plataforma Samanaú",
+                "orientador": "Edgard de Faria Corrêa"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência no Ensino Superior",
+                "periodo": "2010 - 2010",
+                "instituicao": "Universidade Potiguar",
+                "orientador": "Antonio Vladimir Félix da Silva"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2005 - 2009",
+                "instituicao": "Universidade Potiguar"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Diginet LTDA",
+                "periodo": "2005 - 2006",
+                "cargo": "Téc de Suporte, Celetista formal, - Suporte técnico de acesso a internet banda larga DSL ao cliente via telefone, internet e fisicamente. - Configuração de pequenas redes em eventos - Desenvolvimento do site do Suporte técnico, incluindo: criação visual, montagem e programação - Desenvolvimento de sistemas web internos de pequeno porte - Montagem e manutenção de computadores."
+            },
+            {
+                "empresa": "Diginet LTDA",
+                "periodo": "2005 - 2005",
+                "cargo": "Téc. de Suporte, Estágio."
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "periodo": "2010 - 2012",
+                "cargo": ", Professor."
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitor de Algorítimos e Estruturas de Dados, Monitor da disciplina de Algorítimos e Estruturas de Dados I."
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitor de Algorítimos e Estruturas de Dados, Monitor da disciplina de Algorítimos e Estruturas de Dados II."
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "periodo": "2005 - 2005",
+                "cargo": "Monitor de Laboratório, Estágio, Monitor de Laboratórios de Engenharia de Computação e Sistemas de Informação."
+            },
+            {
+                "empresa": "Ativa Comunicação e Design",
+                "periodo": "2004 - 2005",
+                "cargo": "Designer, Celetista formal."
+            },
+            {
+                "empresa": "Secretaria de Estado da Infra-estrutura",
+                "periodo": "2006 - 2006",
+                "cargo": "Administração de redes e Suporte Interno, Estagiário, - Adm. de redes de computadores e suporte em ambiente de servidores Microsoft Windows Server 2003, com SQL Server 2005, Access, DHCP, IIS, DNS, SMB e backup em rede. - Organização, gestão, manutenção, instalação e adaptação de sistema computacionais. - Montagem e manutenção de computadores."
+            },
+            {
+                "empresa": "Maxmeio Comunicação S/c LTDS",
+                "periodo": "2007 - 2007",
+                "cargo": "Analista de Sistemas, Celetista formal, - Gerente do setor de programação do período de 01/03/2007 - 01/07/2007, com equipe de 7 programadores - Analista de requisitos - Eng. de software - Desenvolvimento de sistemas para web com PHP, Javascript, MySQL e PostgreSQL. - Organização, gestão, manutenção, instalação e adaptação de sistema computacionais para web. - Adm. de redes e sistemas Linux com com MySQL, DHCP, Apache, DNS, SMB, FTP, SSH, LDAP, SVN, NFS e backup em rede.."
+            },
+            {
+                "empresa": "Rits Prestação de Serviços de Informática LTDA ME",
+                "periodo": "2007 - 2008",
+                "cargo": "Engenheiro de Software, Estágio, - Desenvolvimento de sistemas para web com PHP, Zen framework, Fusebox, Jquery, Javascript, Ajax, MySQL, Firebird e PostgreSQL. - Organização, gestão, manutenção, instalação e adaptação de sistema computacionais para web.."
+            },
+            {
+                "empresa": "Instituto Nacional de Pesquisas Espaciais",
+                "periodo": "2010 - 2010",
+                "cargo": "Bolsista de produtividade, Bolsista de Desenvolvimento Tecnológico Industrial 7G Pesquisador com bolsa de produtividade em pesquisa no CNPq.."
+            },
+            {
+                "empresa": "Instituto Nacional de Pesquisas Espaciais",
+                "periodo": "2008 - 2009",
+                "cargo": "Estágio, Bolsista PIBIC, Bolsista CNPq Brasil. - Desenvolvimento de driver de rede para o sistema de controle e rastreio de satélites da Estação Multimissão de Natal - Desenvolvimento em Linux - Desenvolvimento em Qt - Programação em C/C++/ShellScirpt - Comunicação embarcada via rede Ethernet com TCP/IP Este trabalho descreve um driver de rede para comunicação entre a Interface Gráfica Supervisória (IGS) e o Software de Supervisão e Controle (SSC) da antena da Estação Multimissão de Natal ? EMMN. Neste trabalho, muda-se a arquitetura monolítica existente anteriormente, para um arquitetura em camadas, baseada no paradigma cliente/servidor. Esta arquitetura é composta de estrutura onde o programa cliente (utilizado pelo operador, que é a IGS), comunica-se via rede Ethernet, através do protocolo TCP/IP, ao programa servidor. O programa servidor comunica-se então diretamente ao hardware do módulo de controle da antena através de um conversor AD/DA, executando o comando desejado. O programa cliente (IGS), recebe e envia as informações para controle, acessíveis de forma usual e simplificada ao operador, tornando simples o processo que anteriormente exigia um operador com conhecimentos aprofundados em Linux.."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial - RN",
+                "periodo": "2009 - 2010",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "IT CURSOS LTDA",
+                "periodo": "2008 - 2010",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2012",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2010 - 2012",
+                "cargo": "Professor Substituto, Professor substituto, - Membro da comissão de organização da EXPOTEC 2011."
+            },
+            {
+                "empresa": "Agência Espacial Brasileira",
+                "periodo": "2013 - 2016",
+                "cargo": "Pesquisador."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2019 - 2019",
+                "cargo": "Professor Convidado, Professor convidado do Programa de Especialização em Internet Das Coisas do Instituto Metrópole Digital."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nPró-reitoria de Pesquisa e Inovação (2021) : Assessor De Projetos Especiais.\nIFRN Campus Natal Central (2019 - 2020) : Diretor De Pesquisa E Inovação - Substituto Eventual - Portaria 1761/2019-re/ifrn.\nIFRN Campus Natal Central (2017 - 2019) : Coordenador Do Curso Técnico Integrado Em Manutenção E Suporte Em Informática.\nIFRN Campus Natal Central (2015 - 2016) : Coordenador Do Curso Técnico Integrado Em Manutenção E Suporte Em Informática.\nIFRN Campus Santa Cruz (2014 - 2015) : Coordenação Do Curso Técnico Em Informática.\nCCSL-IFRN - Centro de Competências em Software Livre do IFRN (2012) : Coordenação Geral.\nEstação Multi Missão Natal (2008 - 2009): Desenvolvimento de uma interface gráfica para o sistema de controle da antena da Estação Multimissão de Natal - EMMN,\nPrograma Uniespaço (2013 - 2016): Samanaú.sat: Plataforma de coleta de dados com transmissor de baixo custo,",
+        "ensino": ": Universidade Federal do Rio Grande do Norte\nEspecializacao (2019 - 2019) - Especialização Em Sistemas Embarcados Para Internet Das Coisas - Sembiot.\nExtensão Universitária: Universidade Potiguar\nUniversidade Potiguar: Dia Global Do Voluntariado Jovem (2006 - 2006) - Dia Global Do Voluntariado Jovem.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nNúcleo Docente Estruturante ? Nde Do Curso Superior De Engenharia Sanitária E Ambiental (2020).\nComissão Para Implantação Do Ecossistema De Estímulo À Inovação - Membro (2016 - 2017).\nComissão De Organização Do I Workshop Do Curso Técnico Em Manutenção E Suporte Em Informática - 1º Wtms - Presidente (2016 - 2016).\nComissão De Criação E Implantação De Um Ecossistema De Estímulo À Inovação Do Campus Natal Central - Membro (2016 - 2016).\nComissão De Elaboração Da Proposta Do Laboratório De Inovação Tecnológica Da Diatinf - Membro (2015 - 2016).\nComissão De Elaboração Da Proposta Do Plano De Oferta Educacional - Membro (2015 - 2016).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Centro de Competências em Software Livre - CCSL/IFRN - Campus Caicó - Edital 03/2012-PROEX/IFRN",
+                "periodo": "2012 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira",
+                    "Luiz Paulo de Souza Medeiros",
+                    "Bruno Augusto Ferreira Vitorino"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Projeto Samanaú: Projeto de coleta de dados com uso de energias renováveis e sensores de baixo custo usando software livre - EDITAL 04/2012-PROEX/IFRN",
+                "periodo": "2012 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Capacitação em desenvolvimento web com Ruby on Rails - EDITAL 04/2012-PROEX/IFRN",
+                "periodo": "2012 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Centro de Competências em Software Livre ? IFRN ? Campus Ipanguaçu - Edital 01/2013-PROEX/IFRN",
+                "periodo": "2013 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Adorilson Bezerra de Araújo",
+                    "Filipe de Carvalho Pinto Raulino",
+                    "Diego Silveira Costa Nascimento",
+                    "Everson Mizael Cortez Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Pluviômetro e anemomêtro de baixo custo",
+                "periodo": "2013 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira",
+                    "Bruno Augusto Ferreira Vitorino"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "CCSL-IFRN | Centro de Competências em Software Livre - Edital 01/2013-PROEX/IFRN",
+                "periodo": "2013 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Pesquisa com definição de arquitetura para integração entre coletor de dados em estações climáticas e interface web",
+                "periodo": "2013 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira",
+                    "Felipe Lúcio de Oliveira Tavares",
+                    "José Luiz Coe do Nascimento de Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sistemas Digitais para Processamento de Sinais e Comunicações utilizando HDLs e Lógica Programável",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Manoel Jozeane Mafra de Carvalho",
+                    "Max Miller da Silveira",
+                    "Anderson Manoel de Azevedo Pereira",
+                    "Felipe Lúcio de Oliveira Tavares",
+                    "Bruno Augusto Ferreira Vitorino",
+                    "Aline Alves de Souza",
+                    "Jaine Chianca da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Projeto Samanaú: otimização e melhorias",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira",
+                    "Bruno Augusto Ferreira Vitorino"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "IFGames",
+                "periodo": "2013 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Pluviômetro ultrassônico de baixo custo com transmissão via satélite",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira",
+                    "Ka&#769;dson Breno Benvindo de Lima"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "IFRN.TV; Sistema de mídias interatias como meio de disseminação e comunicação com a comunicade",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira",
+                    "Moisés Morais de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sensor de sentido para anemômetro mecânico com arduino e sensor infravermelho",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Max Miller da Silveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Plataforma para mapeamento de personalidade profissional implícita",
+                "periodo": "2016",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Melquiades Pereira de Lima Junior",
+                    "Robinson Luis de Souza Alves"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Agência Espacial Brasileira",
+                "nome": "Samanaú.sat: Plataforma de coleta de dados com transmissor de baixo custo",
+                "periodo": "2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Moisés Cirilo de Brito Souto",
+                    "Manoel Jozeane Mafra de Carvalho",
+                    "Max Miller da Silveira",
+                    "Bruno Augusto Ferreira Vitorino"
+                ],
+                "financiador": "Agência Espacial Brasileira,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUTO",
+                    "titulo": "M. C. B,,  ARAUJO, J. P.,  Solução integrada de coleta de dados ambinetais em rede com baixo custo",
+                    "ano": "2015",
+                    "instituicao_promotora": "UFRN."
+                },
+                {
+                    "autores": "VITORINO",
+                    "titulo": "B. A. F.,  SOUTO, M. C. B,,  SILVEIRA, M. M.,  CARVALHO, M. J. M.,  Samanaú.SAT: Plataforma de coleta de dados com transmissor de baixo custo",
+                    "ano": "2015",
+                    "instituicao_promotora": "Agência Espacial Brasileira / UFRN / CLBi."
+                },
+                {
+                    "autores": "VITORINO",
+                    "titulo": "B. A. F.,  SOUTO, M. C. B,,  SILVEIRA, M. M.,  CARVALHO, M. J. M.,  PEREIRA, A. M. A.,  Transmissor reconfigurável para platatormas de coleta de dados ambientais baseado em FPGA",
+                    "ano": "2015",
+                    "instituicao_promotora": "CLBi - Centro de Lançamentos da Barreira do Inferno."
+                },
+                {
+                    "autores": "SOUTO",
+                    "titulo": "Moisés C. B.,  ARAUJO, A. B.,  CCSL-IFRN: Educação colaborativa no IFRN",
+                    "ano": "2014",
+                    "instituicao_promotora": "ASL - Associação"
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUTO",
+                    "evento": "Moisés C. B.,  CARVALHO, M. J. M.,  SOYSAL, M.,  GARBI, G.,  DURAO, O. S. C.,  United Nations/Brazil Symposium on Basic Space Technology &quot;Creating Novel Opportunities with Small Satellite Space Missions&quot;",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Governo do Brasil / INPE / IFRN / UFRN."
+                },
+                {
+                    "autores": "SOUTO",
+                    "evento": "M. C. B,,  2º WTMS - Workshop do Curso Técnico em Manutenção e Suporte em Informática",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN - Campus Natal Central."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "GOMES, Anna Cecília Chaves",
+                "titulo": "MÓL, Anderson Luiz Rezende;  SOUTO, Moisés C. B.;SOUTO, M. C. B,;SOUTO, M C B;  ANALYSIS OF OVERREACTION AND UNDEREACTION IN ASSETS OF THE FIRST AND SECOND LINE OF BRAZILIAN STOCK MARKET",
+                "ano": "2015",
+                "periodico": "REVISTA UNIVERSO CONTÁBIL. ISBN: 18093337   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "VITORINO, B. A. F.",
+                "titulo": "SOUTO, M",
+                "evento": "C. B",
+                "local": "; SILVEIRA, M. M.; CARVALHO, M. J. M.; PEREIRA, A. M. A.; Transmissor reconfigurável para platatormas de coleta de dados ambientais baseado em FPGA. V FOPI-CLBI | Fórum de Pesquisa e Inovação da Barreira do Inferno, Natal, RN",
+                "ano": "2015"
+            },
+            {
+                "autores": "TAVARES, F. L. O.",
+                "titulo": "PEREIRA, A",
+                "evento": "M. A.; ARAUJO",
+                "local": "J. P.; SOUTO, M C B; VITORINO, B. A. F.; Samanaú.SAT - Plataforma para coleta de dados e de baixo custo integrada ao Sistema Integrado de Dados Ambientais - SINDA. FEBRACE - Feira Brasileira de Ciências e Engenharia, São Paulo",
+                "ano": "2014"
+            },
+            {
+                "autores": "PEREIRA, D. C. A.",
+                "titulo": "OLIVEIRA, M",
+                "evento": "M.; SILVEIRA",
+                "local": "M. M.; SOUTO, M. C. B,; Anemômetro de baixo custo. X Congresso de Iniciação Científica do IFRN - CONGIC, Pau dos Ferros",
+                "ano": "2014"
+            },
+            {
+                "autores": "MAIA, A. R.",
+                "titulo": "TAVARES, F",
+                "evento": "L. O.; SILVA",
+                "local": "G. A.; SILVEIRA, M. M.; SOUTO, M. C. B,; Interfaces ricas com HTML5, CSS3 e JavaScript através de serviços REST. X Congresso de Iniciação Científica do IFRN - CONGIC, Pau dos Ferros, RN",
+                "ano": "2014"
+            },
+            {
+                "autores": "TAVARES, F. L. O.",
+                "titulo": "PEREIRA, A",
+                "evento": "M. A.; ARAUJO",
+                "local": "J. P.; SILVA, G. A.; SOUTO, Moisés C. B.; SILVEIRA, M. M.; Projeto Samanaú: Plataforma para coleta de dados e de baixo custo. IX Congresso de Iniciação Científica do IFRN - CONGIC, Currais Novos, RN",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOUTO, Moisés C. B.",
+                "titulo": "SILVEIRA, M",
+                "evento": "M.; Centro de Competências em Software Livre como ferramenta de apoio ao ensino",
+                "local": "extensão e pesquisa no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. IX Congresso de Iniciação Científica do IFRN - CONGIC, Currais Novos, RN",
+                "ano": "2013"
+            },
+            {
+                "autores": "PEREIRA, A. M. A.",
+                "titulo": "TAVARES, F",
+                "evento": "L. O.; VITORINO",
+                "local": "B. A. F.; SOUTO, M. C. B,; SILVEIRA, M. M.; Sistema de análise e controle de carga a partir do uso de painel solar e baterias para o projeto Samanaú. VIII CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação, Salvador, BA",
+                "ano": "2013"
+            },
+            {
+                "autores": "PEREIRA, A. M. A.",
+                "titulo": "TAVARES, F",
+                "evento": "L. O.; SOUTO",
+                "local": "Moisés C. B.; SILVEIRA, M. M.; Projeto Samanaú: rede de coleta de dados sem fio. Feira Brasileira de Ciência e Engenharia - FEBRACE, São Paulo",
+                "ano": "2013"
+            },
+            {
+                "autores": "GOMES, A. C. C.",
+                "titulo": "MOL, Anderson Luiz Rezende; SOUTO, Moisés C",
+                "evento": "B.; Aplicação de um modelo Fuzzy Comportamental para análise de sub-reação e sobre-reação no mercado acionário brasileiro. II Congresso Brasileiro de Sistemas Fuzzy",
+                "local": "Natal",
+                "ano": "2012"
+            },
+            {
+                "autores": "GOMES, A. C. C.",
+                "titulo": "MOL, Anderson Luiz Rezende; SOUTO, Moisés C",
+                "evento": "B.; Análise de sobre-reação e sub-reação nos ativos de primeira e segunda linha do mercado acionário brasileiro. SEMEAD - Seminários de Administração",
+                "local": "São Paulo",
+                "ano": "2012"
+            },
+            {
+                "autores": "SOUTO, Moisés C. B.",
+                "titulo": "PERES, H",
+                "evento": "S.; CARVALHO",
+                "local": "M. J. M.; Servic&#807;o de rede para o sistema de controle e rastreio de Sate&#769;lites da Estac&#807;a&#771;o Multimissa&#771;o de Natal (emmn). XI Workshop de Software Livre, Porto Alegre",
+                "ano": "2010"
+            },
+            {
+                "autores": "SOUTO, Moisés C. B.",
+                "titulo": "CARVALHO, M",
+                "evento": "J. M.; Desenvolvimento de uma interface gráfica para o sistema de controle da antena da Estação Multimissão de Natal ? EMMN. Seminário de Iniciação Cientifica do INPE",
+                "local": "São José dos Campos",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "MARTIN, Jamel",
+                "titulo": "Supervisão de estágio curricular - Realizado no CCSL-IFRN - Campus Natal Central - Desenho industrial para plataforma Samanaú",
+                "ano": "2016",
+                "curso": "Brevet de Technicien Supérieur",
+                "instituicao": "Lycée Tecnhologique Eugène Livet"
+            },
+            {
+                "orientando": "BOISRAMÉ, Antoine",
+                "titulo": "Supervisão de estágio curricular - Realizado no CCSL-IFRN - Campus Natal Central - Sensor de detecção de radiação para a plataforma Samanaú",
+                "ano": "2016",
+                "curso": "Brevet de Technicien Supérieur",
+                "instituicao": "Lycée Tecnhologique Eugène Livet"
+            },
+            {
+                "orientando": "COCENTINO, Ítalo Rossi Batista; SOUZA, Alyson Felipe de",
+                "titulo": "Comunicação em rede Ethernet de sensores conectados a interface serial",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Potiguar"
+            },
+            {
+                "orientando": "OLIVEIRA, André Queiroz; BEZERRA, Ruben Batista",
+                "titulo": "Projeto de implantação de infra-estrutura virtual de desktops (VDI)",
+                "ano": "2011",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Potiguar"
+            },
+            {
+                "orientando": "RODRIGUES, Fillipe Morais; ARAÚJO,Thales Leandro Freire de",
+                "titulo": "Realidade Aumentada aplicada a interações com obras literárias",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Potiguar"
+            },
+            {
+                "orientando": "MENEZES, Fábio Borges",
+                "titulo": "Estudo de caso da implatanção da Melhoria de Processos de Software brasileiro (MPS.BR) nível G, aliado à metodologia ágil de desenvolvimento de software SCRUM, na empresa NatalSoft LTDA",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Potiguar"
+            },
+            {
+                "orientando": "PAIVA, Lineu Rodrigues de",
+                "titulo": "Análise e restruturação de topologia física na rede de computadores da Liga de Ensino do Rio Grande do Norte",
+                "ano": "2010",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.6240466833114624,
+            "indian": 0.6808210015296936,
+            "black": 0.08908207714557648,
+            "white": 71.75418853759766,
+            "middle eastern": 13.033246994018555,
+            "latino hispanic": 13.818618774414062
+        }
+    }
+}

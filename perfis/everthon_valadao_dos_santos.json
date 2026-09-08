@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -68,8 +69,8 @@
                     "Filipe Nunes Ribeiro",
                     "Vinícius Fernandes Soares Mota",
                     "Hugo Machado Falcão",
-                    "Carlos Frederico Marcelo da Cunha Cavalcanti",
-                    "Álvaro Sant'Anna Filho"
+                    "Álvaro Sant'Anna Filho",
+                    "Carlos Frederico Marcelo da Cunha Cavalcanti"
                 ],
                 "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Universidade Federal de Ouro Preto, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
             },
@@ -165,18 +166,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Cluster computacional para implementação de aplicações de computação científica de alto desempenho em ciências e engenharias",
-                "periodo": "2015 - 2016",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Everthon Valadão dos Santos",
-                    "Diego Mello da Silva",
-                    "Rafael Vinicius Tayette da Nobrega",
-                    "Reginaldo Gonçalves Leão Junior"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Informática Aplicada à Educação",
                 "periodo": "2015 - 2016",
                 "natureza": "Extensao",
@@ -185,6 +174,18 @@
                     "Regis de Souza Morais",
                     "Rogelson Deipson Arantes",
                     "Ricardo José da Fonseca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Cluster computacional para implementação de aplicações de computação científica de alto desempenho em ciências e engenharias",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Diego Mello da Silva",
+                    "Rafael Vinicius Tayette da Nobrega",
+                    "Reginaldo Gonçalves Leão Junior"
                 ]
             },
             {
@@ -217,6 +218,18 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Caracterização de comunicação na Internet com análise dos nós da rede PlanetLab",
+                "periodo": "2011 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Everthon Valadão dos Santos",
+                    "Christiano Eduardo Dutra e Silva",
+                    "Thais Sena Faria"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Instituto Federal Minas Gerais, Campus Formiga,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Estruturação de Software para Otimização de Rede CAN Automotiva",
                 "periodo": "2019 - 2019",
                 "natureza": "Pesquisa",
@@ -227,18 +240,6 @@
                     "Júlio César de Melo Cândido"
                 ],
                 "financiador": "Instituto Federal Minas Gerais,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Caracterização de comunicação na Internet com análise dos nós da rede PlanetLab",
-                "periodo": "2011 - 2013",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Everthon Valadão dos Santos",
-                    "Christiano Eduardo Dutra e Silva",
-                    "Thais Sena Faria"
-                ],
-                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Instituto Federal Minas Gerais, Campus Formiga,"
             }
         ]
     },
@@ -685,14 +686,14 @@
     "Cor/Raça": {
         "raca_original": "white",
         "raca_ibge": "Branca",
-        "confiança": 0.99,
+        "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.19060182571411133,
-            "indian": 0.8236397504806519,
-            "black": 0.01572434976696968,
-            "white": 51.90278625488281,
-            "middle eastern": 29.24993324279785,
-            "latino hispanic": 17.81731414794922
+            "asian": 0.2624674141407013,
+            "indian": 1.0011812448501587,
+            "black": 0.026332462206482887,
+            "white": 56.93214416503906,
+            "middle eastern": 22.31842041015625,
+            "latino hispanic": 19.459447860717773
         }
     }
 }

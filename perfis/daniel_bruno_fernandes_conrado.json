@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Sabará",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -414,12 +415,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.25979745388031006,
-            "indian": 0.550926148891449,
-            "black": 0.03168318048119545,
-            "white": 64.86763000488281,
-            "middle eastern": 17.399545669555664,
-            "latino hispanic": 16.89041519165039
+            "asian": 0.09366042166948318,
+            "indian": 0.29208844900131226,
+            "black": 0.011500011198222637,
+            "white": 71.291015625,
+            "middle eastern": 16.344602584838867,
+            "latino hispanic": 11.967137336730957
         }
     }
 }

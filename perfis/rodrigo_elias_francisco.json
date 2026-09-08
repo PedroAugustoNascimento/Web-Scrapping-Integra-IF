@@ -1,0 +1,453 @@
+{
+    "campus": "- Campus Morrinhos",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2017 - 2023",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Sistema Tutor Inteligente baseado em Aprendizado de Máquina para ensino-aprendizagem de Manutenção de Software",
+                "orientador": "Flávio de Oliveira Silva"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "periodo": "2014 - 2016",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Juiz Online no Ensino de CS1: Requisitos, Dificuldade de Problemas e Plágio em Código-Fonte",
+                "orientador": "Ana Paula Laboissière Ambrósio"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência na Educação Profissional e Tecnológica",
+                "periodo": "EPT",
+                "instituicao": "IF Goiano - Campus Avançado Catalão",
+                "orientador": "Igor Gonzaga Lopes"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Segurança da Informação",
+                "periodo": "2010 - 2011",
+                "instituicao": "Universidade Federal de Goiás - Campus Catalão",
+                "orientador": "Márcio de Souza Dias"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "periodo": "2004 - 2007",
+                "instituicao": "Faculdade de Caldas Novas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "PREFEITURA MUNICIPAL DE ÁGUA LIMPA",
+                "periodo": "2009 - 2011",
+                "cargo": "Técnico Administrativo - Informática, Responsável pela manutenção de sistemas utilizados e rede de computadores. Desenvolvimento de softwares. Atuação com as tecnologias: Postgre-Sql, Firebird, php, Delphi, Windows 2003 Server.."
+            },
+            {
+                "empresa": "PREFEITURA MUNICIPAL DE ÁGUA LIMPA",
+                "periodo": "2005 - 2008",
+                "cargo": "Técnico Administrativo - Informática, Responsável pelos Sistemas DATASUS-MS no município e suporte à rede de computadores. Desenvolvimento de softwares.."
+            },
+            {
+                "empresa": "SW Brasil Soluções Integradas Ltda",
+                "periodo": "2009 - 2010",
+                "cargo": "Analista de Sistemas, Terceiro (PJ), Atuação como Analista\\Programador (Projetos) em Sistemas para área de Telecom. Trabalhei com desenvolvimento em (Vantive System, Oracle PL\\Sql) e modelagem (UML - Enterprise Architect).."
+            },
+            {
+                "empresa": "SW Brasil Soluções Integradas Ltda",
+                "periodo": "2008 - 2008",
+                "cargo": "Analista de Sistemas, Atuação como Analista\\Programador (Outsourcing) em Sistemas para área de Telecom. Trabalhei com manutenção e acompanhamento de processamento \"schedulado\" em Packages de migração de dados implementadas em Oracle Pl\\Sql, documentação das mesmas em (UML - Enterprise Architect).."
+            },
+            {
+                "empresa": "Grupo diRoma",
+                "periodo": "2011 - 2011",
+                "cargo": "Programador/Analista de Sistemas, CLT, Atuação na equipe de desenvolvimento e suporte aos sistemas de informação e banco de dados utilizando as tecnologias (Embarcadero Delphi, PostgreSql, Oracle, MySql). Implantação dos seguintes softwares livres (Ocomon e mediaWiki).."
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "periodo": "2013",
+                "cargo": "Professor Efetivo, Servidor público, Professor na área de Informática no Campus Morrinhos.."
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "periodo": "2012 - 2012",
+                "cargo": "Professor Temporário, Contrato."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "periodo": "2012 - 2013",
+                "cargo": "Professor Efetivo, Professor na área de Informática no Campus Luziânia.."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Goiano\nIF Goiano - Campus Morrinhos (2022) : Coordenação De Tc Do Curso De Tecnologia Em Sistemas Para Internet.\nIF Goiano - Campus Morrinhos (2014 - 2014) : Coordenador.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia de Goiás\nGraduacao (2013 - 2013) - Sistemas De Informação.\nEnsino-medio (2013 - 2013) - Técnico Em Informática Integrado.\nGraduacao (2013 - 2013) - Tecnologia Em Análise E Desenv. Sistemas.",
+        "comissoes": ": Instituto Federal Goiano\nMembro Titular Do Núcleo Docente Estruturante (nde) Do Curso Superior De Bacharelado Em Ciência Da Computação (2017 - 2018).\nMembro Titular Do Núcleo Docente Estruturante (nde) Do Curso Superior De Tecnologia Em Sistemas Para Internet (2014 - 2024).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para Competições em Computação",
+                "periodo": "2013 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para competições em computação - modalidade Maratona de Programação",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para competições em computação - modalidade OBI",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "BPMN como ferramenta para alinhar TI e Negócio: estudo de caso no IFGoiano",
+                "periodo": "2017 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Elias Francisco",
+                    "Aryel Evelin Vieira Garcia"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Chemistery - um sistema web que visa levar conhecimento químico para a comunidade",
+                "periodo": "2017 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Elias Francisco",
+                    "Cinthia Maria Felicio",
+                    "Márcio Lucas de Oliveira Rezende"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "IFRequisitos - Levantamento dos processos de negócios do IF Goiano",
+                "periodo": "2017 - 2017",
+                "natureza": "Outra",
+                "equipe": [
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Dojo de Programação como atividade complementar à formação",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Elias Francisco"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "M. L. R.,  CORTEZ FILHO, J. A. N.,  SILVA, L. M. I.,  FELICIO, C. M.,  FRANCISCO, R. E.,  INTERLOCUÇÃO NA ELABORAÇÃO DE UM SITE SOBRE MANEJO DE PRODUTOS QUÍMICOS PARA A ABORDAGEM CTS",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFGOIANO - URUTAÍ."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "MATOS",
+                    "evento": "F. B.,  FRANCISCO, R. E.,  2º WTMI - Workshop de Tecnologias Móveis e para a Internet",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano - Campus Morrinhos."
+                },
+                {
+                    "autores": "FRANCISCO",
+                    "evento": "RODRIGO,  I Mostra de Trabalhos Científicos em Tecnologia da Informação",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "FRANCISCO",
+                    "evento": "R. E.,  Workshop de Tecnologias Móveis e para Internet (WTMI)",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFGoiano."
+                },
+                {
+                    "autores": "RIBEIRO",
+                    "evento": "A. C. C.,  MARTINS, C. M.,  FELICIO, C. M.,  FRANCISCO, R. E.,  Comissão Organizadora da 1ª Oficina de Práticas Pedagógicas em Química, Alimentos e Informática - (IV Congresso Est. de Inic. Científica do IFGoiano)",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFGoiano."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FRANCISCO, RODRIGO ELIAS",
+                "titulo": "AMBRÓSIO, ANA PAULA LABOISSIÈRE;  JUNIOR, CLEON XAVIER PEREIRA;  FERNANDES, MÁRCIA APARECIDA;  Juiz Online no ensino de CS1 - lições aprendidas e proposta de uma ferramenta",
+                "ano": "2018",
+                "periodico": "REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO. ISBN: 14145685   ."
+            },
+            {
+                "autores": "PEREIRA JÚNIOR, C. X.",
+                "titulo": "HOFFMANN, Z.;  FRANCISCO, R. E.;  CASTRO, C. P.;  SANTOS, G.;  AIRES, T. A.;  Chemis3 - Uma Proposta de Jogo para o Ensino de Ciências",
+                "ano": "2017",
+                "periodico": "JOURNAL ON ADVANCES IN THEORETICAL AND APPLIED INFORMATICS. ISBN: 24475033   ."
+            },
+            {
+                "autores": "FRANCISCO, R. E.",
+                "titulo": "Ambrósio, A.P.L.;  Uso do Algoritmo Distância de Edição com Técnicas de Pré-Processamento para Apoiar a Identificação de Plágio em Códigos-Fonte de Problemas de Programação Introdutória",
+                "ano": "2016",
+                "periodico": "iSys: Revista Brasileira de Sistemas de Informação. ISBN: 19842902   ."
+            },
+            {
+                "autores": "RIBEIRO, M. F.",
+                "titulo": "FRANCISCO, R. E.;  WEB SERVICES REST - CONCEITOS, ANÁLISE E IMPLEMENTAÇÃO",
+                "ano": "2016",
+                "periodico": "Revista E.T.C Educação, tecnologia e cultura. ISBN: 25253859   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MELO, MARCEL DA SILVA",
+                "titulo": "MATOS, FERNANDO BARBOSA; FRANCISCO, RODRIGO ELIAS; PEREIRA JÚNIOR, CLEON XAVIER; ARAÚJO, RAFAEL DIAS; Uso de LLMs para correção de atividades de programação: uma análise comparativa no contexto de orientação a objetos",
+                "evento": "Simpósio Brasileiro de Educação em Computação",
+                "local": "Brasil",
+                "ano": "2026"
+            },
+            {
+                "autores": "FRANCISCO, RODRIGO E.",
+                "titulo": "SILVA, F",
+                "evento": "O.; A Recommendation Module based on Reinforcement Learning to an Intelligent Tutoring System for Software Maintenance. 14th International Conference on Computer Supported Education - CSEDU",
+                "local": "Online",
+                "ano": "2022"
+            },
+            {
+                "autores": "FRANCISCO, RODRIGO",
+                "titulo": "SILVA, F",
+                "evento": "O.; Intelligent Tutoring System for Computer Science Education and the Use of Artificial Intelligence: A Literature Review. 14th International Conference on Computer Supported Education - CSEDU",
+                "local": "Online",
+                "ano": "2022"
+            },
+            {
+                "autores": "NOGUEIRA, S. P.",
+                "titulo": "FRANCISCO, R",
+                "evento": "E.; SILVA",
+                "local": "LUCIANE; FERNANDES, MARCIA; PEREIRA JÚNIOR, C. X.; Big Data com Learning Analytics para apoiar o Planejamento Pedagógico Acadêmico. 7º Workshop de Desafios da Computac&#807;a&#771;o aplicada a&#768; Educac&#807;a&#771;o (DesafIE) - CSBC 2018, Natal - RN",
+                "ano": "2018"
+            },
+            {
+                "autores": "FRANCISCO, R. E.",
+                "titulo": "PEREIRA JUNIOR, C",
+                "evento": "; AMBROSIO",
+                "local": "A. P.; Grau de Dificuldade de problemas de programação introdutória: Uma Revisão Sistemática da Literatura. 25º WEI - Workshop sobre Educação em Computação - CSBC 2017, São Paulo",
+                "ano": "2017"
+            },
+            {
+                "autores": "GARCIA, A. E. V.",
+                "titulo": "FRANCISCO, R",
+                "evento": "E.; Gestão de Processos: Alinhamento Estratégico entre TI e Negócio com BPMN. XIII Encontro Anual de Computação (EnAComp) 2017",
+                "local": "Catalão - GO",
+                "ano": "2017"
+            },
+            {
+                "autores": "REZENDE, M. L. O.",
+                "titulo": "CORTEZ, J",
+                "evento": "A. N.; SILVA",
+                "local": "L. M. I.; FELICIO, C. M.; FRANCISCO, R. E.; Chemistery: Colaboração na Web visando Aprendizagem em Espaços Informais em Química Básica. Workshop em Tecnologias, Linguagens e Mídias em Educação 2017, Uberlândia",
+                "ano": "2017"
+            },
+            {
+                "autores": "PEREIRA, CLEON X.",
+                "titulo": "HOFFMANN, ZARA; CASTRO, CAROLINE P",
+                "evento": "; SANTOS",
+                "local": "GEOVANNA S.; AIRES, THAIS A.; FRANCISCO, RODRIGO E.; CHEMIS3: A game for learning chemical concepts through elements of nature. 2017 12th Iberian Conference on Information Systems and Technologies (CISTI), Lisbon",
+                "ano": "2017"
+            },
+            {
+                "autores": "OLIVEIRA, M. L. R.",
+                "titulo": "CORTEZ, J",
+                "evento": "A. N.; SILVA",
+                "local": "L. M. I.; FELICIO, C. M.; FRANCISCO, R. E.; INTERLOCUÇÃO NA ELABORAÇÃO DE UM SITE SOBRE MANEJO DE PRODUTOS QUÍMICOS PARA ABORDAGEM CTS. VI Congresso Estadual de Iniciação Científica e Tecnológica do IF Goiano, Urutaí-GO",
+                "ano": "2017"
+            },
+            {
+                "autores": "JÚNIOR, CLEON PEREIRA",
+                "titulo": "FRANCISCO, RODRIGO; SILVA, LUCIANE; VEIGA, ERNESTO; FERNANDES, MARCIA; DORÇA, FABIANO; Uso de Ontologias para Agentes Conversacionais no Contexto de Ensino-Aprendizagem: Uma Revisão Sistemática da Literatura",
+                "evento": "XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education)",
+                "local": "Recife",
+                "ano": "2017"
+            },
+            {
+                "autores": "FRANCISCO, R. E.",
+                "titulo": "Ambrósio, A",
+                "evento": "P.L.; Mining an Online Judge System to Support Introductory Computer Programming Teaching. Educational Datamining 2015",
+                "local": "Madri",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luiz Guilherme Curcino Nogueira",
+                "titulo": "APOIANDO A GESTÃO DE PROJETOS DE SOFTWARE EM EDUCAÇÃO: UMA ABORDAGEM COM INTELIGÊNCIA ARTIFICIAL",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Edson Inácio Batista",
+                "titulo": "Ensino-aprendizagem de Experiência de Usuário no Curso Superior de Tecnologia em Sistemas para Internet: um estudo de caso",
+                "ano": "2025",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Tales Gabriel Silva Costa",
+                "titulo": "COMPREENSÃO DE SOFTWARE COMO APOIO AO ENSINO-APRENDIZAGEM DE INTRODUÇÃO À PROGRAMAÇÃO: PROPOSTA DE UMA FERRAMENTA",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Pedro Henrique Marcelino Silva",
+                "titulo": "INTEGRIDADE DE DADOS NO CONTEXTO DE UM SISTEMA PARA GESTÃO DE COBRANÇA",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Raimundo João Nascimento Sampaio Junior",
+                "titulo": "RELATÓRIO DE ATIVIDADES PROFISSIONAIS: RESOLUÇÃO E PREVENÇÃO DE INCIDENTES DE TI NA GESTÃO PÚBLICA",
+                "ano": "2025",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Eduardo dos Santos Pires",
+                "titulo": "RELATÓRIO TÉCNICO: USO DE PADRÕES DE PROJETO E TRANSPORT LAYER SECURITY (TLS) NO CONTEXTO DO FRAMEWORK WEB SYMFONY",
+                "ano": "2025",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Samuel Costa Pereira de Toledo",
+                "titulo": "RELATÓRIO DE ESTÁGIO SUPERVISIONADO: TOPNET",
+                "ano": "2025",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Gabriely Candido Amorim",
+                "titulo": "RELATÓRIO DE ESTÁGIO SUPERVISIONADO: INVENT SOFTWARE",
+                "ano": "2024",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Marcos Antônio Baccin Paulino",
+                "titulo": "MACHINE LEARNING PARA A CLASSIFICAÇÃO DE PROBLEMAS CARDÍACOS: PROPOSTA DE UMA APLICAÇÃO",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Ludmylla Alves Fagundes",
+                "titulo": "RELATÓRIO TÉCNICO: Desenvolvimento de Sistema Web de Cobranças com Vue.js e PHP",
+                "ano": "2023",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Adriana Márcia Vieira",
+                "titulo": "USO DO SOFTWARE GEOGEBRA NO ENSINO FUNDAMENTAL II: GEOMETRIA PLANA",
+                "ano": "2018",
+                "curso": "Especialização (lato sensu) em Ensino de Ciências e Matemática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Juanes Adriano Nunes Cortez Filho",
+                "titulo": "Desenvolvimento do Sistema Web Chemistery - Ênfase no Front-End",
+                "ano": "2018",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Márcio Lucas Rezende de Oliveira",
+                "titulo": "Desenvolvimento do Sistema Web Chemistry - Ênfase no Back-End",
+                "ano": "2018",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Brunno de Souza Oliveira",
+                "titulo": "Estágio Supervisionado na Cooperativa SICOOB CENTRO SUL",
+                "ano": "2018",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Aryel Evelin Vieira Garcia",
+                "titulo": "Gestão de Processos: Alinhamento Estratégico entre TI e Negócio com BPMN",
+                "ano": "2017",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Aryel Evelin Vieira Garcia",
+                "titulo": "BPMN como ferramenta para alinhar TI e negócios: estudo de caso no IF Goiano",
+                "ano": "2017",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Michel Fernandes Ribeiro",
+                "titulo": "Web Services REST: Um protótipo de Implementação",
+                "ano": "2014",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Felipe Carvalho de Saboya",
+                "titulo": "Utilização de jogos para aprimoramento do raciocínio lógico",
+                "ano": "2014",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Hugo Barbosa",
+                "titulo": "Projeto de Extensão - Treinamento para competições em computação - modalidade maratona de programação",
+                "ano": "2014",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Letícia Azevedo Lima",
+                "titulo": "Modelagem de um Sistema de Informação com BPMN para Suportar a Arquitetura SOA: um estudo de caso",
+                "ano": "2013",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            }
+        ]
+    }
+}

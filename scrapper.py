@@ -1,3 +1,4 @@
+import unicodedata
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -80,12 +81,18 @@ class Scrapper:
             self.driver.get(url)
 
             time.sleep(2) 
-
+            #verificando se é docente
+            if not self.eh_docente():
+                        print(f"DEBUG - Pulando perfil (não é docente): {url}")
+                        continue
+            
             nome = self.get_nome()
             if nome is None:
-                print(f"DEBUG - pulando perfil (não é docente ou tem erro: {url})")
+                print(f"DEBUG - pulando perfil (erro ao obter nome): {url}")
                 continue
+            nome = self.remover_acentos(nome)
             json = JSON()
+            instituto = self.get_instituto(url)
             campus = self.get_campus()
             foto_perfil = self.get_foto_perfil()
             nome_arquivo = nome.replace(" ", "_").lower()
@@ -115,7 +122,7 @@ class Scrapper:
             dados_limpos_outra = cleaner.limpar_producao_outra(producao_outra)
             print("DEBUG - Producao outra extraida")
 
-            json.salvar_dados_json(campus,dados_limpos, dados_limpos_tec, dados_limpos_bib, dados_limpos_outra, f"{nome_arquivo}.json")
+            json.salvar_dados_json(campus, instituto, dados_limpos, dados_limpos_tec, dados_limpos_bib, dados_limpos_outra, f"{nome_arquivo}.json")
 
 
             
@@ -124,18 +131,56 @@ class Scrapper:
             #self.wait.until(
                 #EC.presence_of_element_located((By.CLASS_NAME, "integra-item"))
             #)
+    def remover_acentos(self, texto):
+        return "".join(
+            c for c in unicodedata.normalize('NFD', str(texto))
+            if unicodedata.category(c) != 'Mn'
+        )
+
+    def get_instituto(self, url):
+        instituicoes = {
+            "ifmg": "IFMG",
+            "ifrj": "IFRJ",
+            "ifba": "IFBA",
+            "ifrn": "IFRN",
+            "ifgoiano": "IF Goiano",
+            "ifb": "IFB",
+            "ifam": "IFAM",
+            "ifrs": "IFRS",
+            "ifpa": "IFPA",
+            "ifsc": "IFSC",
+        }
+
+        url = url.lower()
+
+        for dominio, instituto in instituicoes.items():
+            if dominio in url:
+                return instituto
+
+        return "Instituto não identificado"
 
     def get_nome(self):
         try:
-            nome = self.driver.find_element(By.XPATH, "//h3[@class='titulo-interno__titulo text-muted']")
-            if 'Docente' in nome.text:
-                return nome.text.strip().splitlines()[0]
-            else:
-                print("DEBUG - Não é docente")
-                return None
+            elemento = self.driver.find_element(By.XPATH, "//h3[@data-cy='integra-cabecalho-interno-titulo']")
+            texto = elemento.text.strip()
+            nome = texto.split("\n")[0].strip()  
+            return nome
         except Exception as e:
             print(f"Erro ao obter nome: {e}")
             return None
+
+  
+    def eh_docente(self):
+        try:
+            # Busca o elemento onde fica a informação do cargo/vínculo
+            cargo_elem = self.wait.until(
+                EC.presence_of_element_located((By.XPATH, "//p[contains(@class, 'perfil__cargo')]"))
+            )
+            # Retorna True se a palavra "docente" estiver no texto (sem diferenciar maiúsculas/minúsculas)
+            return "docente" in cargo_elem.text.lower()
+        except Exception as e:
+            print(f"DEBUG - Erro ou tempo esgotado ao verificar cargo: {e}")
+            return False    
         
     def get_campus(self):
         try:

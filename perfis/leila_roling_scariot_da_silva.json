@@ -1,0 +1,741 @@
+{
+    "campus": "- Campus Morrinhos",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2011 - 2015",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Sobre Alianças Defensivas e Ofensivas Globais em Alguns Produtos de Grafos e Grafos Simpliciais",
+                "orientador": "Rommel Melgaço Barbosa"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2000 - 2003",
+                "instituicao": "Universidade Estadual de Campinas",
+                "titulo": "Aprendizagem Participativa em Agrupamento Neguloso de Dados",
+                "orientador": "Fernando Antônio Campos Gomide"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Projeto e Desenvolvimento de Sistemas Baseados Em",
+                "periodo": "2006 - 2008",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "orientador": "Jefferson Gustavo Martins"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "",
+                "periodo": "2019 - 2022",
+                "instituicao": "Instituto Federal Goiano",
+                "orientador": "Rodrigo Borges de Andrade"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1996 - 1999",
+                "instituicao": "Universidade Estadual do Oeste do Paraná"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "União de Ensino Superior do Iguaçu",
+                "periodo": "2003 - 2008",
+                "cargo": ", Professor."
+            },
+            {
+                "empresa": "Universidade Tecnológica Federal do Paraná",
+                "periodo": "2003 - 2005",
+                "cargo": "Professor substituto, Professor substituto, Sai para assumir vaga de professor efetivo na UFMT. Porém não assumi a vaga por motivos pessoais.."
+            },
+            {
+                "empresa": "Centro de Ensino Superior de Foz do Iguaçu",
+                "periodo": "2005 - 2005",
+                "cargo": "professor, professor."
+            },
+            {
+                "empresa": "Universidade Estadual do Oeste do Paraná",
+                "periodo": "2006 - 2007",
+                "cargo": "Outro professor contratado, Professor substituto."
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "periodo": "2009",
+                "cargo": "Prof. de Ensino Básico, técnico e tecnológico, Servidor público."
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "periodo": "2014 - 2015",
+                "cargo": "Doutorado, Bolsista, Bolsista de doutorado UFG-Fapeg."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Goiano\nAperfeicoamento (2010 - 2010) - Curso Técnico Em Informática.\nGraduacao (2009) - Sistema Para Internet.\nAperfeicoamento (2009) - Curso Técnico Em Manutenção E Redes De Computadore.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Estudo, comparação e escolha entre as ferramentas de Sistema de Gestão de Conteúdo de um Website para professores.",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Lucas Garcia de Araújo",
+                    "Luciano Carlos Ribeiro da Silva",
+                    "Woska Pires da Costa"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de WebSites para cursos Superiores: metodologias, padrões e ferramentas.",
+                "periodo": "2010 - 2011",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leila Roling Scariot da Silva"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicação da Realidade Aumentada no apoio á educação",
+                "periodo": "2010 - 2011",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leila Roling Scariot da Silva"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Automação de uma horta em pequena escala",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Rafael Borges Fernandes",
+                    "Thander Augusto Rodrigues de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Mineração de dados para um aplicativo de auxílio em atividades físicas",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Yago Silva Peixoto",
+                    "José Osmar Martins Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Estudo e projeto de uma impressora 3D",
+                "periodo": "2017 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Pedro Henrique Isaias",
+                    "Railson Ferreira de Souza"
+                ],
+                "financiador": "Instituto Federal Goiano,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento do módulo da agenda médica para o aplicativo para apoio de portadores de fibrose cística",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Ítalo Moreira Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Estudo de técnicas de Inteligência artificial para reconhecimento de LIBRAS",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Railson Ferreira de Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Integratech IF Goiano: Museu da Tecnologia como Ferramenta de Curricularização da Extensão",
+                "periodo": "2024 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Jesmmer Alves",
+                    "Bruno Rodrigues Capingote"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Projeto de Extensão: Integratech - Caminhos da Tecnologia e Inclusão Digital",
+                "periodo": "2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Jesmmer Alves",
+                    "Bruno Rodrigues Capingote"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Integratech IF Goiano: Museu da Tecnologia como Ferramenta de Curricularização da Extensão",
+                "periodo": "2023 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Jesmmer Alves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Integratech IF Goiano: Museu da Tecnologia como Ferramenta de Curricularização da Extensão",
+                "periodo": "2023 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Jesmmer Alves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
+                "periodo": "2023 - 2023",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Jesmmer Alves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para Programação Competitiva",
+                "periodo": "2024 - 2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Jesmmer Alves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Caminhos da Tecnologia: Intervenções pedagógicas para promover a história da tecnologia entre estudantes",
+                "periodo": "2024 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Bruno Rodrigues Capingote",
+                    "ALVES",
+                    "JESMMER DA SILVEIRA",
+                    "Leonardo Faustino de Oliveira Dias",
+                    "Larah Beatriz Lima Vasconcelos"
+                ],
+                "financiador": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Otimização de Biodigestores de Dejetos Bovinos em Pequenas Propriedades Rurais com Tecnologias da Indústria 4.0",
+                "periodo": "2026",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Nadson de Carvalho Pontes",
+                    "ALVES",
+                    "JESMMER DA SILVEIRA",
+                    "Eliandra Maria Bianchini Oliveira"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "DESENVOLVIMENTO DE SOFTWARE PARA CONTAGEM DIGITAL DE OVOS Meloidogyne spp.",
+                "periodo": "2018 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Pedro Henrique Isaias",
+                    "Leila Roling Scariot da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Mineração de dados na reprodução de suínos",
+                "periodo": "2018 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Paulo César Costa da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Software interprete de G-Code para impressoras tridimensionais e bidimensionais",
+                "periodo": "2018 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Railson Ferreira de Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "PABLOFICA - APLICATIVO PARA ORIENTAÇÃO DE PESSOAS COM FIBROSE CÍSTICA",
+                "periodo": "2018 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Freddy Enrique Ramos Guimarães",
+                    "Ítalo Moreira Silva"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Goiás",
+                "nome": "Alianças Defensivas e Ofensivas Globais em Alguns Produtos de Grafos e Grafos Simpliciais",
+                "periodo": "2014 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leila Roling Scariot da Silva",
+                    "Barbosa",
+                    "R.M."
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "P. C. C.,  Leila R.S.da Silva,  CAMARGOS, A. S.,  Mineração de Dados na Inseminação em Matrizes Suínas",
+                    "ano": "2020",
+                    "instituicao_promotora": "IF Goiano."
+                },
+                {
+                    "autores": "Silva",
+                    "titulo": "L.R.S.,  ISAIAS, P. H.,  SOUZA, R. F.,  Estudo e projeto de uma impressora 3D",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "I. M.,  Silva, L. R. S.,  GUIMARAES, F. E. R.,  PROJETO PABLO FICA: AUXÍLIO NO CONTROLE DA FIBROSE CÍSTICA",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "ISAIAS",
+                    "titulo": "P. H.,  SOUZA, R. F.,  SOUSA, V. F.,  Leila R.S.da Silva,  Estudo e projeto de uma impressora tridimensional",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia Goiano."
+                },
+                {
+                    "autores": "Silva",
+                    "titulo": "L.R.S.,  FERNANDES, R. B.,  OLIVEIRA, T. A. R.,  Automação de uma horta em pequena escala",
+                    "ano": "2017",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "Silva",
+                    "titulo": "L.R.S.,  PEIXOTO, Y. S.,  GUIMARAES, F. E. R.,  Mineração de dados em prol de atividades físicas",
+                    "ano": "2017",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "A. C.,  MATOS, F. B.,  Silva, L. R. S.,  FRANCISCO, R. E.,  InovaComp 2025 ? Inovação e Tecnologia em Computação",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Goiano."
+                },
+                {
+                    "autores": "MATOS",
+                    "evento": "F. B.,  SILVA, A. C.,  CARVALHO, A. M. M.,  ALVES, J.,  Silva, L.R.S.,  Workshop de Tecnologias Móveis para Internet(WTMI)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Goiano."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "L. R. S.,  Workshop de tecnologia móveis e para internet - WTMI",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFGoiano - Campus Morrinhos."
+                },
+                {
+                    "autores": "Silva",
+                    "evento": "L. R. S.,  I Mostra de trabalhos científicos em tecnologia da informação",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFGoiano - Campus Morrinhos."
+                },
+                {
+                    "autores": "CAPPELLE",
+                    "evento": "M. R.,  BARBOSA, R. M.,  Silva, L.R.S.,  LAWCG 2014 - 6th Latin American Workshop on Cliques in Graphs",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFG."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MIRANDA, CARLOS EDUARDO ROCHA",
+                "titulo": "ALVES, JESMMER DA SILVEIRA;  Silva, Leila Roling Scariot da;  BERGAMO, THELMA MARIA DE MOURA;  MATOS, FERNANDO BARBOSA;  SILVA, ALEXANDRE CARVALHO;  SANTOS, LAÍS ALICE OLIVEIRA;  CAMARGOS, ALINE SOUSA;  Autismo no Reddit: um estudo de sentimentos e tópicos por meio de modelos de aprendizado de máquina",
+                "ano": "2025",
+                "periodico": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE). ISBN: 19830882   ."
+            },
+            {
+                "autores": "VICENTE, VITTORIA SANTOS DE",
+                "titulo": "Silva, Leila Roling Scariot da;  SCARIOT, MARLEI ROLING;  Machine learning for predicting the temperature profile of heat exchanger",
+                "ano": "2025",
+                "periodico": "STUDIES IN ENGINEERING AND EXACT SCIENCES. ISBN: 27640981   ."
+            },
+            {
+                "autores": "Barbosa, R.M.",
+                "titulo": "DOURADO, M.;  Leila R.S.da Silva;  Global defensive alliances in the lexicographic product of paths and cycles",
+                "ano": "2020",
+                "periodico": "DISCRETE APPLIED MATHEMATICS. ISBN: 0166218X   ."
+            },
+            {
+                "autores": "BATISTA, B. L.",
+                "titulo": "Silva, L. R. S.;  ROCHA, B.;  RODRIGUES, J. L.;  BERRETTA-SILVA, A;  BONATES, T.;  GOMES, V.;  BARBOSA, R. M.;  BARBOSA, F.;  Multi-element determination in Brazilian honey samples by inductively coupled plasma mass spectrometry and estimation of geographic origin with data mining techniques",
+                "ano": "2012",
+                "periodico": "Food Research International. ISBN: 09639969   ."
+            },
+            {
+                "autores": "Aguiar, G.F.M.",
+                "titulo": "Silva, L. R. S.;  Batista, B.L.;  Rodrigues, J.L.;  Campiglia, A.D.;  Barbosa, R.M.;  BARBOSA, F.;  Determination of trace elements in bovine semen samples by inductively coupled plasma mass spectrometry and data mining techniques for identification of bovine class",
+                "ano": "2012",
+                "periodico": "Journal of Dairy Science. ISBN: 00220302   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "CAPINGOTE, B. R.",
+                "titulo": "DA SILVA, LEILA R",
+                "evento": "S.; APLICANDO RECONHECIMENTO DE IMAGENS NOS ARTEFATOS TECNOLÓGICOS DO MUSEU DE TECNOLOGIA DO CMPHOS INTEGRATECH. VII INTEGRA E 14º CPPG DO IF Goiano",
+                "local": "Rio Verde",
+                "ano": "2025"
+            },
+            {
+                "autores": "DA SILVA, LEILA R.S.",
+                "titulo": "CAMARGOS, A",
+                "evento": "S.; SILVA",
+                "local": "P. C. C.; MINERAÇÃO DE DADOS NA INSEMINAÇÃO EM MATRIZES SUÍNAS. II Integra IF Goiano, Morrinhos",
+                "ano": "2020"
+            },
+            {
+                "autores": "ISAIAS, P. H.",
+                "titulo": "SOUZA, R",
+                "evento": "F.; Silva",
+                "local": "L. R. S.; SILVA, R. V.; CONTAGEM DE GRÃOS DE FEIJÃO UTILIZANDO REDES NEURAIS PROFUNDAS. Integra IF Goiano, Ceres",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, I. M.",
+                "titulo": "MIRANDA, V",
+                "evento": "G.; Leila R.S.da Silva; GUIMARAES",
+                "local": "F. E. R.; Projeto PabloFica: Aplicação móvel no controle de fibrose cística. I Integra IF Goiano, Ceres",
+                "ano": "2019"
+            },
+            {
+                "autores": "Silva, L.R.S.",
+                "titulo": "ISAIAS, P",
+                "evento": "H.; SOUZA",
+                "local": "R. F.; SOUSA, V. F.; Estudo e projeto de uma impressora tridimensional. Exposição de Ensino Ciência e Tecnologia, Rio Verde",
+                "ano": "2018"
+            },
+            {
+                "autores": "ISAIAS, P. H.",
+                "titulo": "SOUZA, R",
+                "evento": "F.; Silva",
+                "local": "L. R. S.; ESTUDO E PROJETO DE UMA IMPRESSORA 3D.. 7º CEICT 7º CPPG e 8º Semapós, Rio Verde",
+                "ano": "2018"
+            },
+            {
+                "autores": "Silva, L.R.S.",
+                "titulo": "PEIXOTO, Y",
+                "evento": "S.; COMPARAÇÃO DE SOFTWARES POPULARES PARA ATIVIDADES FÍSICAS COM O SYSAPPFITNESS. VI Congresso Estatua de Iniciação Científica e Tecnológica do Instituto Federal Goiano",
+                "local": "Urutai",
+                "ano": "2017"
+            },
+            {
+                "autores": "Silva, L.R.S.",
+                "titulo": "FERNANDES, R",
+                "evento": "B.; Projeto da Horta Automatizada. VI Congresso Estatua de Iniciação Científica e Tecnológica do Instituto Federal Goiano",
+                "local": "Urutaí",
+                "ano": "2017"
+            },
+            {
+                "autores": "Barbosa, R.M.",
+                "titulo": "DOURADO, M",
+                "evento": "; Leila Roling Scariot da Silva; Aliança Global Ofensiva em alguns produtos lexicográficos em grafos. VI LAWCG - VI Latin American Workshop on Cliques in Graphs",
+                "local": "Pirenópolis",
+                "ano": "2014"
+            },
+            {
+                "autores": "ARAÚJO, G. L.",
+                "titulo": "Silva, L",
+                "evento": "R. S.; SILVA",
+                "local": "C. R. Luciano; COSTA, W. P.; Estudo, comparação e escolha entre as ferramentas de Sistema de Gestão de Conteúdo de um Website para professores.. II Encontro de Iniciação Científica, Morrinhos",
+                "ano": "2010"
+            },
+            {
+                "autores": "Silva, L.",
+                "titulo": "GOMIDE, F",
+                "evento": "; YAGER",
+                "local": "R.; Participatory Learning in Fuzzy Clustering. The 14th IEEE International Conference on Fuzzy Systems, 2005. FUZZ &apos;05., Reno",
+                "ano": "2005"
+            },
+            {
+                "autores": "GOMIDE, Fernando",
+                "titulo": "Silva, L",
+                "evento": "R. S.; RONALD",
+                "local": "Yager; Participatory Learning in Clustering, Forecasting, and Evolutionary Fuzzy Systems. The Berkeley Initiative in Soft Computing University of California-Berkeley - BISCSE 2005, Berkeley",
+                "ano": "2005"
+            },
+            {
+                "autores": "Silva, L. R. S.",
+                "titulo": "GOMIDE, Fernando; Um estudo comparativo entre as funções de validação para agrupamento nebuloso de dados",
+                "evento": "IV Congresso Brasileiro de Computação",
+                "local": "Itajaí",
+                "ano": "2004"
+            },
+            {
+                "autores": "Silva, L. R. S.",
+                "titulo": "GOMIDE, Fernando; Aprendizagem Participativa em Agrupamento Nebuloso de Dados",
+                "evento": "IV Encontro Nacional de Inteligência Artificial - IV ENIA",
+                "local": "Campinas",
+                "ano": "2003"
+            },
+            {
+                "autores": "Silva, L. R. S.",
+                "titulo": "DINNOUTI, L",
+                "evento": "S.; Métodos Pedagógicos abordados por Gardner aplicados nos Sistemas Tutores Inteligentes. I Semana da Computação de Foz do Iguaçu (I SECOMFI)",
+                "local": "Foz do Iguaçu",
+                "ano": "1999"
+            },
+            {
+                "autores": "Silva, L. R. S.",
+                "titulo": "DINNOUTI, L",
+                "evento": "S.; Sistema Tutor Inteligente em Matemática utilizando o paradigma construtivista. VIII Seminário Anual de Iniciação Científica",
+                "local": "Cascavel",
+                "ano": "1999"
+            },
+            {
+                "autores": "Silva, L. R. S.",
+                "titulo": "Métodos Educacionais de Piaget e Gardner aplicados nos Sistemas Tutores Inteligentes",
+                "evento": "Encontro Anual de Pesquisa e de Iniciação Científica da Unoeste (ENAP)",
+                "local": "Presidente Prudente",
+                "ano": "1998"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Arthur Fernandes Miranda Borges de Morais",
+                "titulo": "Identificação de textos com agrecivos nas redes sociais.",
+                "ano": "2024",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Verônica Mendes da Costa",
+                "titulo": "Desenvolvimento de um Sistema de Controle Leiteiro",
+                "ano": "2023",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Pedro Henrique Isaias",
+                "titulo": "Reconhecimento de padrões de imagens com técnicas de Inteligência Artificial",
+                "ano": "2021",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Railson Ferreira de Souza",
+                "titulo": "Software interprete de G-Code para impressoras tridimensionais e bidimensionais",
+                "ano": "2019",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Pedro Henrique Isaias",
+                "titulo": "DESENVOLVIMENTO DE SOFTWARE PARA CONTAGEM DIGITAL DE OVOS Meloidogyne spp.",
+                "ano": "2019",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Italo Moreira Silva",
+                "titulo": "PABLOFICA - APLICATIVO PARA ORIENTAÇÃO DE PESSOAS COM FIBROSE CÍSTICA",
+                "ano": "2019",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Lucas Chagas Dantas",
+                "titulo": "Aplicação de técnicas de mineração de dados aplicada a análise de aspectos toxicológicos do glifosato em organismos aquáticos",
+                "ano": "2019",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "JOSÉ OSMAR MARTINS SILVA",
+                "titulo": "Manipulação e Organização de Componentes com VueJS",
+                "ano": "2018",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Yago Silva Peixoto",
+                "titulo": "Mineração de Dados em Prol de Atividades Físicas",
+                "ano": "2018",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Paulo César Costa da Silva",
+                "titulo": "Mineração de dados na reprodução de suínos",
+                "ano": "2018",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Railson Ferreira de Souza",
+                "titulo": "Estudo e projeto de uma impressora 3D",
+                "ano": "2017",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Pedro Henrique Isaias",
+                "titulo": "Estudo e projeto de uma impressora 3D",
+                "ano": "2017",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Railson Ferreira de Souza",
+                "titulo": "Estudo e projeto de uma impressora 3D",
+                "ano": "2017",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Thander Augusto Rodrigues de Oliveira",
+                "titulo": "AUTOMAÇÃO DE UMA HORTA EM PEQUENA ESCALA",
+                "ano": "2017",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Rafael Borges Fernandes",
+                "titulo": "Automação de uma horta em pequena escala",
+                "ano": "2016",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Yago Silva Peixoto",
+                "titulo": "Mineração de dados para um aplicativo de auxílio em atividades físicas",
+                "ano": "2016",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "José Osmar Martins Silva",
+                "titulo": "Mineração de dados para um aplicativo de auxílio em atividades físicas",
+                "ano": "2016",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Lindomar Carvalho Sobrinho",
+                "titulo": "Automação de uma horta em pequena escala",
+                "ano": "2016",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Sheila Ribeiro Ferreira",
+                "titulo": "Desenvolvimento de site dinâmico para a área biológica",
+                "ano": "2013",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Lucas Alves Quirino",
+                "titulo": "Desenvolvimento de WebSites para cursos Superiores: metodologias, padrões e ferramentas.",
+                "ano": "2011",
+                "curso": "Sistema para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Lucas Garcia de Araújo",
+                "titulo": "Estudo, comparação e escolha entre ferramentas de sistema de gestão de conteúdo de um web site para docentes",
+                "ano": "2011",
+                "curso": "Sistema para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Ademilton Carlos Rosa Junior",
+                "titulo": "Desenvolvimento de websites para cursos superiores: metodologias, padrões e ferramentas",
+                "ano": "2011",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Lucas Garcia de Araújo",
+                "titulo": "Estudo, comparação e escolha entre as ferramentas de Sistema de Gestão de Conteúdo de um Website para professores.",
+                "ano": "2009",
+                "curso": "Sistema para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Maristela Lamperti",
+                "titulo": "Segurança da Informação",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "União de Ensino Superior do Iguaçu"
+            },
+            {
+                "orientando": "Clicério Liesenfeld",
+                "titulo": "Gestao ambiental no tratamento de Efluentes da Frimesa",
+                "ano": "2004",
+                "curso": "Sistemas de Informação",
+                "instituicao": "União de Ensino Superior do Iguaçu"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00036259653279557824,
+            "indian": 8.858632645569742e-05,
+            "black": 1.1525453373906203e-06,
+            "white": 99.44967651367188,
+            "middle eastern": 0.14661087095737457,
+            "latino hispanic": 0.40326061844825745
+        }
+    }
+}

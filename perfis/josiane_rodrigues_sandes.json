@@ -1,0 +1,143 @@
+{
+    "campus": "- Campus Avançado Iranduba",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "periodo": "2015 - 2022",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Recuperação de Imagens com Múltiplos Rótulos Usando Hashing Profundo",
+                "orientador": "Marco Antônio Pinheiro de Cristo"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "periodo": "2013 - 2015",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Detecção de Opiniões e Análise de Polaridade em Documentos Financeiros com Múltiplas Entidades",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2008 - 2012",
+                "instituicao": "Universidade do Estado do Amazonas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Fundação Centro de Análise Pesquisa e Inovação Tecnológica",
+                "periodo": "2016 - 2017",
+                "cargo": "Professor Assistente."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "periodo": "2019 - 2020",
+                "cargo": "Coordenadora de Curso de Graduação, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "periodo": "2017 - 2020",
+                "cargo": "Efetivo, Servidor público."
+            },
+            {
+                "empresa": "Universidade Federal do Amazonas",
+                "periodo": "2015 - 2019",
+                "cargo": "Pesquisador, Bolsista, Pesquisa de Doutorado como Bolsista da Capes.."
+            },
+            {
+                "empresa": "Universidade Federal do Amazonas",
+                "periodo": "2013 - 2015",
+                "cargo": "Pesquisador, Bolsista, Pesquisa de Mestrado como Bolsista da Capes.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2024",
+                "cargo": "Comitê de Ética em Pesquisa."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2020",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "periodo": "2021",
+                "cargo": "Professor Formador, Bolsista."
+            },
+            {
+                "empresa": "Universidade Aberta do Brasil - UAB/IFAM",
+                "periodo": "2024",
+                "cargo": "Coordenadora Geral, Bolsista."
+            },
+            {
+                "empresa": "Universidade Aberta do Brasil - UAB/IFAM",
+                "periodo": "2023 - 2024",
+                "cargo": "Coordenadora de Pós-Graduação Lato Sensu, Bolsista."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "RODRIGUES, JOSIANE",
+                "titulo": "CRISTO, MARCO;  COLONNA, JUAN G.;  Deep hashing for multi-label image retrieval: a survey",
+                "ano": "2020",
+                "periodico": "ARTIFICIAL INTELLIGENCE REVIEW. ISBN: 02692821   ."
+            },
+            {
+                "autores": "RODRIGUES, JOSIANE",
+                "titulo": "CRISTO, MARCO;  FERREIRA, JAVIER ZAMBRANO;  DE OLIVEIRA, DAVID FERNANDES;  CARVALHO, A. L. C.;  Multi-Entity Polarity Analysis and Detection of Subjectivity in Financial Documents",
+                "ano": "2015",
+                "periodico": "Journal of Information and Data Management - JIDM. ISBN: 21787107   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "KRUGER, J. M.",
+                "titulo": "SILVA, J",
+                "evento": "R.; SOUZA",
+                "local": "T. M. F.; NA CALHA DOS RIOS E A BORDO DE CANOAS E VOADEIRAS: MEMÓRIAS, DESAFIOS E POSSIBILIDADES NA CONSTRUÇÃO DA UAB NO IFAM. Congresso Brasileiro de Ensino Superior à Distância, Belo Horizonte",
+                "ano": "2025"
+            },
+            {
+                "autores": "Maria Ivanilse Ribeiro",
+                "titulo": "SILVA, J",
+                "evento": "R.; Interação na Web Social: Conhecendo as necessidades dos Usuários de Aplicações Móveis (App) por Meio das Avaliações da App (App Reviews). VIII Workshop sobre Aspectos da Interação Humano-Computador na Web Social (WAIHCWS'17)",
+                "local": "Joinville",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.6653304100036621,
+            "indian": 4.672134876251221,
+            "black": 0.5227747559547424,
+            "white": 22.82802391052246,
+            "middle eastern": 42.86958694458008,
+            "latino hispanic": 28.4421443939209
+        }
+    }
+}

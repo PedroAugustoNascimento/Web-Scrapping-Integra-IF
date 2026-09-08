@@ -1,0 +1,614 @@
+{
+    "campus": "- Câmpus São José",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2006 - 2011",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Um Controle de Acesso ao Meio Híbrido em Redes Sem-Fio para Coordenação de Sistemas de Tempo-Real Auônomos e Móveis",
+                "orientador": "Leandro Buss Becker"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "1998 - 2000",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Caracterização de Tráfego em TMN",
+                "orientador": "Paulo José de Freitas Filho"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Física Bacharelado",
+                "periodo": "1994 - 1997",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "1993 - 1999",
+                "cargo": "Administrador de Redes, Servidor público ou celetista."
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "periodo": "2000 - 2008",
+                "cargo": "Professor, Celetista formal."
+            },
+            {
+                "empresa": "11th International Conference On Principles Of Distributed Systems",
+                "periodo": "2007 - 2007",
+                "cargo": ", Revisor de periódico, Participation as co-reviewer of OPODIS'07, included in the Proceedings of the 11th International Conference On Principles Of Distributed Systems."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2009",
+                "cargo": "Professor de Ensino Técnico e Tecnológico."
+            }
+        ],
+        "direcao_administracao": ": Universidade do Vale do Itajaí\nPró Reitoria de Ensino (2000 - 2002) : Coordenador Do Núcleo De Informática - Unidade São José.\nPesquisa e Desenvolvimento\nCentro Tecnológico (1991 - 1993): Sistemas de Tempo-Real,",
+        "ensino": ": Universidade do Vale do Itajaí\nGraduacao (2004 - 2004) - Ciência Da Computação.\nGraduacao (2003 - 2006) - Ciência Da Computação.\nEspecializacao (2001 - 2006) - Especialização Para Web.\nGraduacao (2000 - 2006) - Ciência Da Computação.\nGraduacao (2000 - 2006) - Engenharia De Computação.\nGraduacao (2000 - 2000) - Ciência Da Computação.",
+        "comissoes": ": Universidade do Vale do Itajaí\nMembro De Comissão Temporária - Art 170 (2003 - 2003).\nMembro De Colegiado Superior (2003 - 2004).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Access Point IEEE 802.11 com Transição Rápida de BSS",
+                "periodo": "2010 - 2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Transmissão de audio e video por redes sem-fio IEEE 802.11e",
+                "periodo": "2010 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sensoriamento remoto de dados metereológicos via crowdsourcing",
+                "periodo": "2013 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Flávia de Oliveira Barbosa"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Um protocolo de transporte eficiente para redes sem-fio IEEE 802.11",
+                "periodo": "2014 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Ronaldo João Borges"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de uma rede telefônica colaborativa com VoIP",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Nicole da Rosa Feijó"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Um protocolo MAC flexível para redes IEEE 802.11",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "mathias hillesheim",
+                    "Gabriel Coser Cantu"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Um MAC flexível e adaptativo para redes sem-fio IEEE 802.11",
+                "periodo": "2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Marcos Vinicius Pinho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pesquisa e Especificação de um Protótipo do Protocolo Ponto-A-Ponto e Ponto-Multi-Ponto para Roteadores Sem Fio Outdoor",
+                "periodo": "2018 - 2020",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Roberto de Matos",
+                    "Hugo Marcondes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pesquisa e Desenvolvimento do Porte do Protocolo PTMP para Plataforma 802.11ac",
+                "periodo": "2021 - 2022",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Roberto de Matos",
+                    "Hugo Marcondes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Otimização do uso de canal sem-fio em redes sem-fio PTMP",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Camilla Barreto de Sousa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Residência em TIC 08 - Capacitação em Redes 5G",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Mário Noronha Neto",
+                    "Arliones Stevert Hoeller Júnior",
+                    "Odilson Tadeu Valle",
+                    "Rubem Toledo bergamo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pesquisa e Desenvolvimento do Porte do Protocolo PTMP para uma Plataforma 802.11ac",
+                "periodo": "2020 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Roberto de Matos",
+                    "Hugo Marcondes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "vNet: Laboratório virtual para ensino de redes de computadores",
+                "periodo": "2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "suyan moriel viese moura"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "ESPECIFICAÇÃO DE UM PROTOCOLO PONTO-A-PONTO (PTP) E PONTO-MULTI-PONTO (PTMP) PARA ROTEADORES SEM FIO OUTDOOR",
+                "periodo": "2018 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Roberto de Matos",
+                    "Hugo Marcondes"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SOBRAL",
+                    "software": "M. M.,  ABNF++",
+                    "ano": "2015",
+                    "finalidade": "Gerador de parser ABNF para C++."
+                },
+                {
+                    "autor": "SOBRAL",
+                    "software": "M. M.,  ASN.1++",
+                    "ano": "2015",
+                    "finalidade": "Compilador ASN.1 para C++."
+                },
+                {
+                    "autor": "SOBRAL",
+                    "software": "M. M.,  Netkit2",
+                    "ano": "2014",
+                    "finalidade": "Disponibilizar um laboratório virtual sobre redes de computadores para fins educacionais."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker;  Evaluating the Benefits and Feasibility of Coordinated Medium Access in MANETS",
+                "ano": "2011",
+                "periodico": "SIGBED Review. ISBN: 15513688   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "B. SOUSA, CAMILLA",
+                "titulo": "M",
+                "evento": "SOBRAL",
+                "local": "Marcelo; Um controlador para um protocolo MAC híbrido em redes sem-fio baseado em aprendizado por reforço. XVIII Escola Regional de Redes de Computadores, Brasil",
+                "ano": "2020"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Evaluating the Benefits and Feasibility of Coordinated Medium Access in MANETS",
+                "evento": "10th International Workshop on Real-Time Systems",
+                "local": "Porto",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Uma investigação sobre a capacidade tempo-real de uma rede sem-fio móvel",
+                "evento": "XIII Workshop Brasileiro de Sistemas de Tempo-Real",
+                "local": "Florianópolis",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Performance Evaluation of a Real-Time MAC Protocol for MANETS",
+                "evento": "12th Brazilian Workshop on Real-Time and Embedded Systems",
+                "local": "Gramado",
+                "ano": "2010"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Asessing the Clusters Formation in the HCT-MAC Protocol",
+                "evento": "8th International Workshop on Real-Time Networks",
+                "local": "Dublin",
+                "ano": "2009"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Towards a Clustering Approach to Support Real-Time Communication in Ad-Hoc Wireless Networks",
+                "evento": "11th Brazilian Workshop on Real-Time and Embedded Systems",
+                "local": "Recife",
+                "ano": "2009"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; A Wireless Hybrid Contention/TDMA-Based MAC for Real-Time Mobile Applications",
+                "evento": "23rd ACM Symposium on Applied Computing",
+                "local": "Fortaleza",
+                "ano": "2008"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; A Real-Time Subject Routing Protocol for MANETs",
+                "evento": "10th Brazilian Workshop on Real-Time and Embedded Systems",
+                "local": "Rio de Janeiro",
+                "ano": "2008"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; The Real-Time Subject Routing Protocol",
+                "evento": "7th International Workshop on Real-Time Networks RTN'08",
+                "local": "Praga",
+                "ano": "2008"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Communication Architecture for Real-Time Mobile Cooperative Applications",
+                "evento": "International Workshop on Dependable Network Computing and Mobile Systems",
+                "local": "Napoles",
+                "ano": "2008"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Infrastructure for Autonomous Mobile Robots Communication and Coordination",
+                "evento": "9th Workshop on Real-Time Systems",
+                "local": "Belém",
+                "ano": "2007"
+            },
+            {
+                "autores": "Silva",
+                "titulo": "SOBRAL, M",
+                "evento": "M.; Becker; Proposta de Arquitetura de Comunicação para Sistemas Embarcados Baseado no Protocolo Publisher/Subscriber. Workshop de Tempo Real",
+                "local": "Curitiba",
+                "ano": "2006"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "Becker; Guidelines for Creating Real-Time MANETs",
+                "evento": "27th IEEE Real-Time Systems Symposium",
+                "local": "Rio de Janeiro",
+                "ano": "2006"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "KANAAN NETO, A",
+                "evento": "N.; AMORIM",
+                "local": "A.; Automating Stellar Spectral Classification. Optical and Infrared Astronomical Instrumentation for Modern Telescopes, amgra dos reis",
+                "ano": "2003"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "KANAAN NETO, A",
+                "evento": "N.; AMORIM",
+                "local": "A.; A Sorting Algorithm for Astronomic Observations. Optical and Infrared Astronomical Instrumentation for Modern Telescopes, angra dos reis",
+                "ano": "2003"
+            },
+            {
+                "autores": "SOBRAL, M. M.",
+                "titulo": "FREITAS FILHO, P",
+                "evento": "J.; Traffic Generators for TMN Simulation. 14th European Simulation Multiconference",
+                "local": "Ghent",
+                "ano": "2000"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Yan Lucas Martins",
+                "titulo": "Protocolo com Múltiplos Canais Assíncronos sobre o protocolo USB-CDC",
+                "ano": "2023",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Vinícius da Luz Souza",
+                "titulo": "ferramenta para Captura e Análise de Mensagens OMCI em redes GPON",
+                "ano": "2021",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Suyan Moriel Viese Moura",
+                "titulo": "vNet: Laboratório virtual para ensino de redes de computadores",
+                "ano": "2018",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ana Luiza Scharf",
+                "titulo": "Engenharia de Tráfego com MPLS",
+                "ano": "2016",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ronaldo João Borges",
+                "titulo": "Um protocolo de transporte eficiente para redes sem-fio IEEE 802.11",
+                "ano": "2015",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ângelo Damásio Machado",
+                "titulo": "Um protocolo de transporte eficiente para redes sem-fio IEEE 802.11",
+                "ano": "2014",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Nicole da Rosa Feijó",
+                "titulo": "Rede de telefonia colaborativa com VoIP",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Renato Muller Rosa",
+                "titulo": "Tarifador de chamadas para FreeSwitch",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Nadir Bernardo Biachini",
+                "titulo": "Estabelecimento de um enlace IEEE 802.11 ponto-a-ponto de alta vazão",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Anderson Rosa",
+                "titulo": "Aumento da capacidade de uma rede mesh IEEE 802.11 com uso de múltiplos canais",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Francisco Igor Garcia",
+                "titulo": "Gerenciamento de vagas em estacionamentos",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Kalvim Scotti",
+                "titulo": "Balanceamento de Tráfego em LANs Ethernet a usando uma abordagem SDN/Openflow",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ricardo Martins",
+                "titulo": "Criação de uma infraestrutura para execução remota do Netkit",
+                "ano": "2014",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "André Felipe Klauberg",
+                "titulo": "Isolamento das redes virtuais (VN) em uma infraestrutura em nuvem usando uma abordagem SDN/Openflow",
+                "ano": "2014",
+                "curso": "Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "João Carlos Warmling; Eduardo Guse",
+                "titulo": "Implementação de um Software de Reconhecimento Automático de Impressão Digital",
+                "ano": "2013",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Murilo Bauer",
+                "titulo": "Redes Sem-Fio Mesh: Padrão IEEE 802.11s",
+                "ano": "2012",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "André Manoel da Silveira",
+                "titulo": "Rede IPv6 com Integração IPv4",
+                "ano": "2012",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gustavo Paulo Medeiros da Silva",
+                "titulo": "Lar inteligente através de microcontroladores e dispositivos Android",
+                "ano": "2012",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sergio Heinzen",
+                "titulo": "Desenvolvimento de Access Point IEEE 802.11 com Transição Rápida de BSS",
+                "ano": "2011",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Murilo Bauer",
+                "titulo": "Implantação de uma rede sem-fios mesh IEEE 802.11s",
+                "ano": "2011",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "André M",
+                "titulo": "da Silveira.  Redes IPv6 com Mecanismos de Convivência com Redes IPv4",
+                "ano": "2011",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Thiago Wasserberg Linhares",
+                "titulo": "Redução do Atraso de Transição em Redes Sem-&#64257;o IEEE 802.11 para Usuários VoIP Móveis",
+                "ano": "2010",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Anderson Rosa",
+                "titulo": "Transmissão de audio e video por redes sem-fio IEEE 802.11e",
+                "ano": "2009",
+                "curso": "Curso Superior de Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ewerton Wiezbicki",
+                "titulo": "Identificação de estados de uma rede de computadores",
+                "ano": "2005",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Anderson Alfredo Stollmeier",
+                "titulo": "Sistema portátil para monitoramento de tráfego em redes de computadores",
+                "ano": "2005",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Conrado Vardanega",
+                "titulo": "Simulacao de roteamento em redes de computadores IP",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Felipe Castro",
+                "titulo": "Simulador de Trânsito Urbano",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Giliardi dos Santos",
+                "titulo": "Autoridade Certificadora com Java",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Biagio Taffarel",
+                "titulo": "Delegação de direitos de acesso",
+                "ano": "2004",
+                "curso": "Especialização Para Web",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Daniel Benthien",
+                "titulo": "Servidor Web Embarcado",
+                "ano": "2004",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Andre Muller Pereira",
+                "titulo": "Interface para Reconhecimento de Gestos",
+                "ano": "2004",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Sérgio Velozo",
+                "titulo": "Protocolo para transmissão com privacidade",
+                "ano": "2004",
+                "curso": "Especialização Para Web",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Fernando Nadir da Silveira",
+                "titulo": "Controle de fluxo por sessões",
+                "ano": "2003",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Laércio Brehmer",
+                "titulo": "Politica de Segurança para o CIASC",
+                "ano": "2003",
+                "curso": "Especialização Para Web",
+                "instituicao": "Universidade do Vale do Itajaí"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.08149044215679169,
+            "indian": 3.2882158756256104,
+            "black": 0.09682688862085342,
+            "white": 30.70545768737793,
+            "middle eastern": 54.350799560546875,
+            "latino hispanic": 11.47721004486084
+        }
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Betim",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -200,36 +201,14 @@
                 "periodo": "2021",
                 "natureza": "Outra",
                 "equipe": [
+                    "Wanderson de Oliveira Leite",
+                    "Francisco Mata Cabreira",
                     "FAUSTO GABRIEL MORENO CASTILLO",
                     "JOAQUÍN FUENTES DEL BURGO",
                     "JOSÉ MANUEL DE LA CRUZ GÓMEZ",
                     "VICENTE TOLEDANO FUENTES",
-                    "Wanderson de Oliveira Leite",
-                    "Francisco Mata Cabreira",
                     "MANUEL ROQUE MUÑOZ"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Desenvolvimento de Um Protótipo de Descontaminador de Baixo Custo para Vírus Coronarianos",
-                "periodo": "2020 - 2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Wanderson de Oliveira Leite",
-                    "CAMPOS RUBIO",
-                    "J. C."
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "TECNOLOGIAS DE MANUFATURA ADITIVA NO ENSINO: APRIMORAMENTO DA VISÃO ESPACIAL POR MEIO DE MATERIAIS CONCRETOS IMPRESSOS EM 3D",
-                "periodo": "2024 - 2025",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Wanderson de Oliveira Leite",
-                    "Soraya Teixeira Faustino"
-                ],
-                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais,"
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
@@ -245,16 +224,26 @@
                 "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
             },
             {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
-                "nome": "Otimização da Usinabilidade de Materiais Aplicados a Área Médica (protética) por Meio de Redes Neurais Artificiais (RNA)",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "TECNOLOGIAS DE MANUFATURA ADITIVA NO ENSINO: APRIMORAMENTO DA VISÃO ESPACIAL POR MEIO DE MATERIAIS CONCRETOS IMPRESSOS EM 3D",
+                "periodo": "2024 - 2025",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Wanderson de Oliveira Leite",
+                    "Soraya Teixeira Faustino"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de Um Protótipo de Descontaminador de Baixo Custo para Vírus Coronarianos",
                 "periodo": "2020 - 2022",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Wanderson de Oliveira Leite",
-                    "Helio Luiz Simonetti",
-                    "Dionatan Diego Geraldo Resende"
-                ],
-                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais,"
+                    "CAMPOS RUBIO",
+                    "J. C."
+                ]
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
@@ -268,6 +257,18 @@
                     "Aline Renata Mateus Madruga",
                     "Carlos Eustaquio Pinto",
                     "Virgil Del Duca Almeida"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+                "nome": "Otimização da Usinabilidade de Materiais Aplicados a Área Médica (protética) por Meio de Redes Neurais Artificiais (RNA)",
+                "periodo": "2020 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Wanderson de Oliveira Leite",
+                    "Helio Luiz Simonetti",
+                    "Dionatan Diego Geraldo Resende"
                 ],
                 "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais,"
             },
@@ -368,87 +369,15 @@
         "artigos": [
             {
                 "autores": "LEITE, W. O.",
-                "titulo": "FAUSTINO, S. T.;  Tecnologias de manufatura aditiva no ensino: aprimoramento da visão espacial por meio de materiais concretos impressos em 3D",
-                "ano": "2025",
-                "periodico": "Anuário de Projetos de Ensino, PIBEN 2026. ISBN: 27645215   ."
+                "titulo": "SOUSA, I. C.;  CAMPOS RUBIO, J.C.;  UM ESTUDO EXPERIMENTAL DA ACURÁCIA GEOMÉTRICA EM RECONSTRUÇÃO 3D POR FOTOGRAMETRIA DE BAIXO CUSTO",
+                "ano": "2026",
+                "periodico": "XIII Congresso Nacional de Engenharia Mecânica (CONEM 2026). ISBN: 2178180X   ."
             },
             {
-                "autores": "MAGALHÃES, FREDERICO DE CASTRO",
-                "titulo": "LEITE, WANDERSON DE OLIVEIRA;  CAMPOS RUBIO, JUAN CARLOS;  A study of mechanical properties of photosensitive resins used in vat photopolymerization process",
-                "ano": "2024",
-                "periodico": "Journal of Elastomers and Plastics. ISBN: 15308006   ."
-            },
-            {
-                "autores": "RESENDE, D. D. G.",
-                "titulo": "LEITE, W. O.;  CAMPOS RUBIO, J. C.;  SIMONETTI, H. L.;  UM ESTUDO DO USO DE REDES NEURAIS ARTIFICIAIS (RNA) PARA PREVISÃO DE PARÂMETROS DO PROCESSO DE FABRICAÇÃO DE TÂNTALO 99,9% DE PUREZA",
-                "ano": "2022",
-                "periodico": "ACTA MECHANÌCA ET MOBILITATEM. ISBN: 25259350   ."
-            },
-            {
-                "autores": "CAMPOS RUBIO, J. C.",
-                "titulo": "GUASCA GONZALEZ, ANDRES GUILLERMO;  BARCELOS, D. J.;  CAMARA, M.;  MATA, F.;  LEITE, W. O.;  Tribological analysis and performance of a DLC coating on tungsten carbide micro-tools to use at tantalum precision machining",
-                "ano": "2021",
-                "periodico": "INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY. ISBN: 02683768   ."
-            },
-            {
-                "autores": "MATA CABRERA, FRANCISCO",
-                "titulo": "GUASCA GONZALEZ, ANDRES GUILLERMO;  DOS SANTOS, ANDERSON JUNIOR;  DE OLIVEIRA LEITE, WANDERSON;  CAMPOS RUBIO, JUAN;  MICROMECANIZADO DE UN MATERIAL BIOCOMPATIBLE PARA LA PRODUCCIÓN DE PRÓTESIS: TÁNTALO DE 99.9 % DE PUREZA. DYNA INGENIERIA E INDUSTRIA",
-                "ano": "2020",
-                "periodico": "Dyna. ISBN: 00127361   ."
-            },
-            {
-                "autores": "EZENDE, B. A",
-                "titulo": "LEITE, W. O.;  LEAO JUNIOR, R. G.;  O uso de avaliação diagnóstica para ingressantes da educação profissional técnica de nível médio: uma revisão sistemática de literatura",
-                "ano": "2020",
-                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
-            },
-            {
-                "autores": "LEITE, WANDERSON",
-                "titulo": "CAMPOS RUBIO, JUAN;  MATA CABRERA, FRANCISCO;  CARRASCO, ANGELES;  HANAFI, ISSAM;  Vacuum Thermoforming Process: An Approach to Modeling and Optimization Using Artificial Neural Networks",
-                "ano": "2018",
-                "periodico": "Polymers. ISBN: 20734360   ."
-            },
-            {
-                "autores": "LEITE, W. O.",
-                "titulo": "RUBIO, J. C. CAMPOS;  MATA, F.;  HANAFI, I.;  CARRASCO, A.;  Dimensional and Geometrical Errors in Vacuum Thermoforming Products: An Approach to Modeling and Optimization by Multiple Response Optimization",
-                "ano": "2018",
-                "periodico": "Measurement Science Review. ISBN: 13358871   ."
-            },
-            {
-                "autores": "MATA, CARMEN",
-                "titulo": "DE OLIVEIRA LEITE, WANDERSON;  MORENO, RICARDO;  AGUDELO, JOHN R.;  ARMAS, OCTAVIO;  Prediction of NOx Emissions and Fuel Consumption of a City Bus under Real Operating Conditions by Means of Biharmonic Maps",
-                "ano": "2016",
-                "periodico": "Journal of Energy Engineering. ISBN: 07339402   ."
-            },
-            {
-                "autores": "LEITE, W. O.",
-                "titulo": "CAMPOS RUBIO, JUAN CARLOS;  DUDUCH, J. G.;  ALMEIDA, P. E. M.;  Correcting geometric deviations of CNC Machine-Tools: An approach with Artificial Neural Networks",
-                "ano": "2015",
-                "periodico": "Applied Soft Computing (Print). ISBN: 15684946   ."
-            },
-            {
-                "autores": "LEITE, WANDERSON DE OLIVEIRA",
-                "titulo": "CAMPOS RUBIO, J.C.;  MATA CABRERA, FRANCISCO;  José Tejero-Manzanares;  Issam Hanaf;  Utilización de modelos de redes neuronales artificiales para predecir la influencia del tipo de fresado en la calidad del producto",
-                "ano": "2014",
-                "periodico": "Dyna. ISBN: 00127361   ."
-            },
-            {
-                "autores": "PANZERA, TULIO HALLAK",
-                "titulo": "FILHO, SERGIO LUIZ MONI RIBEIRO;  RUBIO, JUAN CARLOS CAMPOS;  SILVA, LEANDRO JOSÉ DA;  LEITE, WANDERSON DE OLIVEIRA;  DAVIM, JOÃO PAULO;  Investigations on the drilling process of unreinforced and reinforced polyamides using Taguchi method",
-                "ano": "2013",
-                "periodico": "Composites. Part B, Engineering. ISBN: 13598368   ."
-            },
-            {
-                "autores": "ABRAO, A",
-                "titulo": "OLIVEIRA, E.M.;  CAMPOS RUBIO, J.;  LEITE, W. O.;  Impacto da diferentes estratégias de fresamento sobre a qualidade da peça",
-                "ano": "2012",
-                "periodico": "Maquinas e Metais. ISBN: 00252700   ."
-            },
-            {
-                "autores": "GAITONDE, V.",
-                "titulo": "KARNIK, S.;  CAMPOS RUBIO, J. C.;  DE OLIVEIRA LEITE, W.;  DAVIM, J.;  Experimental studies on hole quality and machinability characteristics in drilling of unreinforced and reinforced polyamides",
-                "ano": "2012",
-                "periodico": "JOURNAL OF COMPOSITE MATERIALS. ISBN: 00219983   ."
+                "autores": "SOUSA, I. C.",
+                "titulo": "CAMPOS RUBIO, J. C.;  MAGALHAES, F. C.;  LEITE, W. O.;  DIGITALIZAÇÃO E IMPRESSÃO 3D: NOVAS PERSPECTIVAS PARA PRÓTESES TRANSFEMORAIS PERSONALIZADAS",
+                "ano": "2026",
+                "periodico": "XIII Congresso Nacional de Engenharia Mecânica (CONEM 2026). ISBN: 2178180X   ."
             }
         ],
         "trabalhos_eventos": [
@@ -568,6 +497,13 @@
     },
     "producao_outra": {
         "outras_orientacoes": [
+            {
+                "orientando": "Guilherme Amaral Souza Aeissami",
+                "titulo": "Estudo da precisão dimensional e Geometrica de Scanner 3D de Baixo Custo",
+                "ano": "2025",
+                "curso": "Bacharelado em Engenharia Mecânica",
+                "instituicao": "Instituto Federal de Minas Gerais, Campus Betim"
+            },
             {
                 "orientando": "Thierry Valentim Vasconcelos",
                 "titulo": "APRIMORAMENTO DA VISÃO ESPACIAL POR MEIO DA TECNOLOGIAS DE MANUFATURA ADITIVA APLICADA AO ENSINO",
@@ -715,12 +651,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 4.714004262496019e-06,
-            "indian": 0.00012269114085938781,
-            "black": 6.100871701164579e-07,
-            "white": 98.46306610107422,
-            "middle eastern": 0.6833376884460449,
-            "latino hispanic": 0.8534747362136841
+            "asian": 6.46070418497402e-07,
+            "indian": 1.1372793778718915e-05,
+            "black": 3.694159644851425e-08,
+            "white": 99.19202423095703,
+            "middle eastern": 0.28179043531417847,
+            "latino hispanic": 0.5261757373809814
         }
     }
 }

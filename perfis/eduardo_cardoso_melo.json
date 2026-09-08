@@ -1,5 +1,6 @@
 {
     "campus": "- Reitoria",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -161,7 +162,6 @@
                 "periodo": "2012 - 2013",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Eduardo Cardoso Melo",
                     "Janiel Madureira Oliveira",
                     "Arthur de Oliveira Galvão",
                     "Luan Henrique Bernardes",
@@ -170,17 +170,8 @@
                     "Samuel Pontes Almeida",
                     "Caio César Cançado Araújo",
                     "Patrícia Lacerda Pinto",
-                    "Rodolfo de Castro Fiuza"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de São Paulo",
-                "nome": "Desenvolvimento de um aplicativo para apresentar a Biblioteca Municipal de Campos do Jordão a seus visitantes",
-                "periodo": "2014 - 2014",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Eduardo Cardoso Melo",
-                    "Michelle Almeida"
+                    "Rodolfo de Castro Fiuza",
+                    "Eduardo Cardoso Melo"
                 ]
             },
             {
@@ -194,15 +185,25 @@
                 ]
             },
             {
+                "instituicao": "Instituto Federal de São Paulo",
+                "nome": "Desenvolvimento de um aplicativo para apresentar a Biblioteca Municipal de Campos do Jordão a seus visitantes",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Cardoso Melo",
+                    "Michelle Almeida"
+                ]
+            },
+            {
                 "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Lixo Eletrônico: cada um precisa fazer a sua parte",
                 "periodo": "2016 - 2016",
                 "natureza": "Extensao",
                 "equipe": [
+                    "ISABELLA MIRANDA SILVA",
                     "Eduardo Cardoso Melo",
                     "ITALO SANTOS CLEMENTE",
                     "LARA DAMIAO GARCIA",
-                    "ISABELLA MIRANDA SILVA",
                     "JEFFREY CANDIDO DO PRADO"
                 ]
             },
@@ -241,6 +242,16 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Parceria para desenvolvimento de sistema de gerenciamento de informações do CESEC Prof. Zaíra Batista Teixeira",
+                "periodo": "2017 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Cardoso Melo",
+                    "SAMIRA MARIA ARAÚJO"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Desenvolvimento de um aplicativo Android para cálculo da alimentação de gado de leite",
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
@@ -262,16 +273,6 @@
                     "JORGE LUIS VIEIRA MURILO"
                 ],
                 "financiador": "Instituto Federal Minas Gerais,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Parceria para desenvolvimento de sistema de gerenciamento de informações do CESEC Prof. Zaíra Batista Teixeira",
-                "periodo": "2017 - 2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Eduardo Cardoso Melo",
-                    "SAMIRA MARIA ARAÚJO"
-                ]
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
@@ -314,8 +315,8 @@
                 "periodo": "2018 - 2018",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Gabriel da Silva",
                     "Eduardo Cardoso Melo",
+                    "Gabriel da Silva",
                     "ROBSON SHIGUEAKI SASAKI"
                 ],
                 "financiador": "Instituto Federal Minas Gerais,"
@@ -682,7 +683,7 @@
             },
             {
                 "autores": "MARQUES, YURI BENTO",
-                "titulo": "BAX, MARCELLO PEIXOTO;  LOPES JÚNIOR, GERALDO;  SOUZA, GUSTAVO HENRIQUE SILVA DE;  MELO, EDUARDO CARDOSO;  Dados abertos dos Institutos Federais de Educação: análise de temas sugeridos pela Controladoria-Geral da União",
+                "titulo": "BAX, MARCELLO PEIXOTO;  LOPES JÚNIOR, GERALDO;  MELO, EDUARDO CARDOSO;  SOUZA, GUSTAVO HENRIQUE SILVA DE;  Dados abertos dos Institutos Federais de Educação: análise de temas sugeridos pela Controladoria-Geral da União",
                 "ano": "2022",
                 "periodico": "ATOZ: NOVAS PRÁTICAS EM INFORMAÇÃO E CONHECIMENTO. ISBN: 2237826X   ."
             },
@@ -995,16 +996,16 @@
         ]
     },
     "Cor/Raça": {
-        "raca_original": "middle eastern",
+        "raca_original": "latino hispanic",
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 5.533788204193115,
-            "indian": 8.590693473815918,
-            "black": 2.554755926132202,
-            "white": 26.225921630859375,
-            "middle eastern": 29.25143814086914,
-            "latino hispanic": 27.84341049194336
+            "asian": 9.631641387939453,
+            "indian": 8.765482902526855,
+            "black": 3.72969126701355,
+            "white": 26.461748123168945,
+            "middle eastern": 24.137392044067383,
+            "latino hispanic": 27.274051666259766
         }
     }
 }

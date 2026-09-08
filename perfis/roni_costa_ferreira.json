@@ -1,0 +1,987 @@
+{
+    "campus": "- Campus Engenheiro Paulo de Frontin",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia de Produção e Sistemas",
+                "periodo": "2018 - 2023",
+                "instituicao": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+                "titulo": "O Ensino de Programação de Computadores por meio de Redes de Conhecimento Colaborativas",
+                "orientador": "Marco Antonio Barbosa Braga"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Tecnologia e Educação",
+                "periodo": "2015 - 2017",
+                "instituicao": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+                "titulo": "Uma Visão sobre as Estratégias do Ensino de Programação no Brasil como Resposta às Demandas da Cibercultura",
+                "orientador": "Sérgio Eduardo Silva Duarte"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática na Educação",
+                "periodo": "2013 - 2015",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+                "orientador": "Carlos Alexandre Siqueira da Silva"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA",
+                "periodo": "2010 - 2012",
+                "instituicao": "Fundação Getúlio Vargas",
+                "orientador": "Jose Angelo Santos do Valle"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Computação Aplicada à Educação",
+                "periodo": "2018 - 2020",
+                "instituicao": "Instituto de Ciências Matemáticas e de Computação",
+                "orientador": "Seiji Isotani"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2003 - 2009",
+                "instituicao": "Universidade Estácio de Sá"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Companhia Municipal de Desenvolvimento de Petrópolis",
+                "periodo": "2009 - 2014",
+                "cargo": "Gerente de Projetos de TI, Servidor público, Administração da infraestrutura tecnológica, gerenciamento do sistema integrado de informações, além de coordenação da equipe de TI da instituição. Reestruturação da intranet com uma ampla arquitetura de rede (UTP, fibra óptica e wireless) e com a inclusão de servidores Windows 2008, SUSE Linux Enterprise e Ubuntu LTS. Gerenciamento do projeto ?E-cidade?, sistema de gestão pública para aumentar a eficiência operacional e fornecer informações confiáveis aos gestores. Integração do ERP com os sistemas on-line do TCE (SIGFIS e SICOD) e com o software de gestão de pessoas SENIOR-RH. Desenvolvimento de um novo website corporativo para aumentar os canais de interação com o cidadão e alinhar a imagem da companhia a modernização. O sistema em HTML, CSS e PHP, contava com um módulo de comunicação síncrono, mensuração e monitoração da qualidade do atendimento, plataforma móvel e suporte as redes sociais. Administração e manutenção de Banco de Dados SQL Server 2008, MySQL e PostgreSQL 8.2.."
+            },
+            {
+                "empresa": "MARAMBAIA CAPITAL S/A",
+                "periodo": "2008 - 2009",
+                "cargo": "Coordenador de Sistemas de Informação, Administração e coordenação da infraestrutura interna para atender as demandas do plano de negócios do Provedor de Internet TAHO e da empresa RedeVox Telecomunicações. Reformulação do workflow do setor financeiro para integração com a contabilidade, adequando o ERP Logix da TOTVS às mudanças fiscais da época. Realização de treinamento interno para capacitação de usuários e novos colaboradores. Gerenciamento do Active Directory e do Exchange Server 2003. Administração e controle do Banco de Dados Oracle 10g em Linux CentOS.."
+            },
+            {
+                "empresa": "CREAÇÕES OPÇÃO LTDA",
+                "periodo": "2006 - 2007",
+                "cargo": "Supervisor de Suporte, Supervisão do suporte da equipe de TI e administração de servidores. Colaboração no projeto de conexão Matriz-Filial, onde implantou-se o front-end do ERP LINX, em 43 lojas espalhadas pelos estados do RJ, SP, MG, BA, PE e DF. Sincronização de dados utilizando SQL Server 2005. O processo automatizado, consolidava as informações de vendas com o setor de faturamento e atualizava o estoque central, acionando novos abastecimentos. Treinamento e o acompanhamento das equipes, incluindo o desenvolvimento de todo material aplicado no projeto.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2017",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "REVISTA CONTEMPORÂNEA DE EDUCAÇÃO",
+                "periodo": "2017 - 2025",
+                "cargo": ", Revisor de periódico, Avaliador na área de Tecnologias Educacionais."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2021 - 2021",
+                "cargo": ", Revisor de projeto de fomento, Participou como avaliador de Projetos de Pesquisa, no âmbito dos EDITAIS INTEGRADOS DE ENSINO, PESQUISA, INOVAÇÃO E EXTENSÃO Nº 03 E 04/2021, referentes aos programas institucionais de incentivo a projetos e bolsas do Instituto Federal do Rio de Janeiro (IFRJ).."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2019 - 2019",
+                "cargo": ", Revisor de projeto de fomento, Participou como avaliador(a) no processo de seleção referente aos Programas Institucionais de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI e PIBITI Junior) ? Edital Nº 39/2019.."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2019 - 2019",
+                "cargo": ", Revisor de projeto de fomento, Participou como avaliador(a) no processo de seleção referente ao Programa Institucional de Bolsas de Iniciação Científica (PIBIC 2019-2020) - Edital N°01/2019 e ao Programa Institucional de Incentivo à Produção Científica, Tecnológica e Artístico-Cultural (PROCIÊNCIA 2019-2020) ? Edital Nº 02/2019.."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2018 - 2018",
+                "cargo": ", Revisor de projeto de fomento, Participou como avaliador(a) no processo de seleção referente ao Programa Institucional de Bolsas de Iniciação Científica e Tecnológica (PIBICT 2018-2019) - Edital No 01/2018 e ao Programa Institucional de Incentivo à Produção Científica, Tecnológica e Artístico-Cultural (PROCIÊNCIA 2018) ? Edital No 02/2018.."
+            },
+            {
+                "empresa": "REVISTA IBERO-AMERICANA DE ESTUDOS EM EDUCAÇÃO",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "REVISTA DIADORIM",
+                "periodo": "2019 - 2025",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "INTERFACES DA EDUCAÇÃO",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "REVISTA DIÁLOGO EDUCACIONAL",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "REVISTA DE ESTUDOS E PESQUISAS SOBRE ENSINO TECNOLÓGICO",
+                "periodo": "2024",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Tear: Revista de Educação, Ciência e Tecnologia",
+                "periodo": "2023 - 2025",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "EDUCITEC - Revista de Estudos e Pesquisas sobre Ensino Tecnológico",
+                "periodo": "2024",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Universidade Aberta do Brasil",
+                "periodo": "2025",
+                "cargo": "Professor Formador, Bolsista."
+            },
+            {
+                "empresa": "PEMO - Revista Práticas Educativas, Memórias e Oralidades",
+                "periodo": "2025",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "CONTEXTO & EDUCAÇÃO",
+                "periodo": "2025",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "periodo": "2025",
+                "cargo": "Docente, Docente de Pós-graduação."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nCampus Engenheiro Paulo de Frontin (2025 - 2026) : Diretor De Ensino.\nCampus São João de Meriti (2018 - 2022): STEM Education, Pensamento Computacional, Metodologias Ativas de Aprendizagem, Redes Colaborativas de Conhecimento, Jogos no Contexto Escolar,\nInstituto de Computação (2025): Redes Colaborativas de Conhecimento, Pensamento Computacional, Educação STEAM, Gamificação em Ambientes Virtuais de Aprendizagem, IA na Educação Profissional e Tecnológica, Ensino de Computação na Educação Básica,",
+        "ensino": ": Universidade Federal do Rio de Janeiro\nPos-graduacao (2025) - Programa De Mestrado Profissional De Ensino De Computação - Profcomp.\nTreinamento Ministrado: Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nCampus Engenheiro Paulo De Frontin (2025 - 2025) - Campus Engenheiro Paulo De Frontin - Professor EBTT.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nFiscal Titular Contrato De Transporte 17/2025 (2026).\nComissão Criação Ppc Curso Técnico Informática Modalidade Ead (2024 - 2026).\nRepresentante Docente Titular Do Colegiado De Campus (cocam) (2023 - 2025).\nColegiado De Campus (cocam) - Representante Eixo Ciências Exatas E Da Terra (2019 - 2020).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Práticas de Ensino de Programação por meio de Jogos Digitais",
+                "periodo": "2018 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Gabriel Lohan"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "LABIOS3D - Ambiente de Realidade Virtual para Capacitação de Alunos e Profissionais do IOC em Práticas Laboratoriais Seguras",
+                "periodo": "2019 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Marco Braga",
+                    "Suelen Lara Lima Junger",
+                    "Felipe Felix Pessoa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "II Feira Integrada de Ciência, Tecnologia e Inovação de São João de Meriti",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Ely Severiano Junior"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "II Feira IntegrART - Empreendedorismo e Economia Criativa",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Ana Carolina Salles",
+                    "Sara Ferreira",
+                    "Lucas Ribeiro de Andrade",
+                    "DAYSI LUCIDI GOMES DE FARIAS"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "PREVCOVID - aplicativo de vigilância epidemiológica e prevenção de contágio da COVID-19",
+                "periodo": "2019 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Marco Braga",
+                    "NARDI",
+                    "LEONARDO",
+                    "Gabrielle de Almeida Silva Paula"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Desenvolvimento de uma Metodologia de Ensino Híbrido na Formação Técnica de Informática",
+                "periodo": "2017 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Bruno Carlos da Cunha Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "LABINOVAMERITI - Espaço Maker de Inovação em Aprendizagem e Soluções Criativas para Inclusão e Acessibilidade",
+                "periodo": "2020 - 2021",
+                "natureza": "Outra",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Leonardo Nardi",
+                    "Edival Ponciano de Carvalho Filho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "INTERFACES PARA O FUTURO - Programação e Robótica no Ensino Fundamental",
+                "periodo": "2022 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leonardo Nardi",
+                    "Roni Costa Ferreira",
+                    "SEVERIANO JUNIOR",
+                    "ELY",
+                    "Edival Ponciano de Carvalho Filho",
+                    "Jessica Sayuri Saito",
+                    "ROMUALDO DA FONSECA MARINATO",
+                    "IAGO ALVES DA SILVA",
+                    "GI0VANA RAMOS RIBEIRO",
+                    "André da Silva Barreto Júnior",
+                    "Alessandro do Nascimento Silva",
+                    "ANA JULIA VELASQUE DOS SANTOS"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "LABIOS3D V2 Programando Novas Missões para a Capacitação de Práticas Laboratoriais Seguras",
+                "periodo": "2023 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Izack Igor Costa",
+                    "Maria Luiza Elias Lopes Gonçalves",
+                    "Caio Henrique dos Santos Carvalho",
+                    "Geysa Mauricio dos Reis",
+                    "Naan Moreira Lorena",
+                    "Gabriel Tavares Coutinho dos Santos",
+                    "Henrique C. Soares"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Projeto STEAM: Horta Girassol Esperança",
+                "periodo": "2022",
+                "natureza": "Outra",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Marcelo Barbosa Almeida"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Plataforma Sunflower: sistema inclusivo de neurodivergentes para qualificação profissional em informática",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Leonardo Soares de Souza",
+                    "Maria Eduarda Rezende Franzoni",
+                    "Guilherme Pereira dos Santos",
+                    "Guilherme Pereira Costa",
+                    "Giovanna da Cunha Passos Gonçalves",
+                    "Dimitri Duboc Alonso",
+                    "David Ferreira Lopes",
+                    "Bruno Ferreira Filgueiras",
+                    "Arthur Batista de Araujo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Clube da Lutz - academia STEAM para meninas",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roni Costa Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Mergulhando no desenvolvimento de sites e apps",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Enzo Alves Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Sistema Mensageiro para Alertas da Defesa Civil da PMEPF",
+                "periodo": "2024 - 2025",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Guilherme Pereira Costa",
+                    "Maria Clara Magest"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Sistema de Controle Moeda Virtual Vale do Café",
+                "periodo": "2025",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Miguel Dias Bauerfeldt de Jesus",
+                    "Albram da Silva Ramos",
+                    "Jeniffer Suellen Xavier Reis"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "I Semana Nacional de Ciência e Tecnologia do Campus São João de Meriti",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Ely Severiano Junior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Educação para o Empreendedorismo de A a Z",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roni Costa Ferreira",
+                    "Ana Carolina Salles",
+                    "Flávio Medeiros Henriques"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "FERREIRA",
+                    "software": "Roni C.,  Plataforma Sunflower",
+                    "ano": "2024",
+                    "finalidade": "Ambiente web de aprendizagem multissensorial e gamificada para qualificação profissional de neurodivergentes na área de TI.."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "Roni C.,  LABIOS3D",
+                    "ano": "2022",
+                    "finalidade": "Ambiente tridimensional de simulação para práticas laboratoriais seguras de capacitação para profissionais da área da saúde.."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "Roni,  Sistema de Ordem de Serviços do Disk Entulho Petrópolis",
+                    "ano": "2010",
+                    "finalidade": "Controlar e gerenciar o atendimento de pedidos do Programa Disk Entulho do Município de Petrópolis."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "COSTA FERREIRA",
+                    "titulo": "RONI,  FRANZONI, M. E. R.,  COSTA, G. P.,  SANTOS, G. P.,  SOUZA, L. S.,  GONCALVES, G. C. P.,  Plataforma Sunflower",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "COSTA FERREIRA",
+                    "titulo": "RONI,  PEREIRA, C. E. F.,  Podcast no Ensino Médio",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "CAMARGO",
+                    "titulo": "E. I. H.,  FERREIRA, R.,  Oficina Blender: iniciação à modelagem 3D",
+                    "ano": "2023",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "A. P. M.,  LORENA, N. M.,  SOUZA, G. L. E.,  REIS, G. M.,  CARVALHO, C. H. S.,  FERREIRA, R.,  LABIOS3D - Ambiente de RV para Capacitação em Práticas Laboratoriais Seguras",
+                    "ano": "2023",
+                    "instituicao_promotora": "IFRJ / SETEC / MEC."
+                },
+                {
+                    "autores": "LORENA",
+                    "titulo": "N. M.,  SILVA, A. P. M.,  CARVALHO, C. H. S.,  SANTOS, G. T. C.,  REIS, G. M.,  COSTA, I. I.,  GONCALVES, M. L. E. L.,  FERREIRA, R.,  Ambiente de RV para Capacitação em Práticas Laboratoriais Seguras",
+                    "ano": "2023",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "Roni,  NARDI, LEONARDO,  Ambiente de RV Para Capacitação em Práticas Laboratoriais Seguras",
+                    "ano": "2022",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "Roni,  NARDI, L.,  SILVA, I. A.,  Aplicativo de Vigilância Epidemiológica e Prevenção de Contágio da Covid-19",
+                    "ano": "2022",
+                    "instituicao_promotora": "IFRJ."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R.,  MAIA, I.,  Criando Games para Aprender Lógica de Programação",
+                    "ano": "2025"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "Roni,  Desenvolvimento Front-End",
+                    "ano": "2025"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R.,  COSTA, G. P.,  GITHUB: o que o Programador Profissional precisa saber",
+                    "ano": "2025"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. C.,  Aprendendo a Programar por meio de Jogos Digitais",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. C.,  Jogos de PBL: Usando Celular na Sala de Aula",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "R. C.,  COSTA, B. C. C.,  SILVA, P. G.,  Utilização do Moodle no Ensino Presencial",
+                    "ano": "2018"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "KNEIPP",
+                    "evento": "R.,  FERREIRA, R.,  XAVIER, M. A. G.,  III Seminário Internacional de Educação, Empreendedorismo e Gestão de Projetos",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "R.,  SILVA, S. D.,  XV Semana Acadêmica",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "Roni,  SILVA, S. D.,  XIV Semana Acadêmica do Campus Engenheiro Paulo de Frontin",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "S. D.,  FERREIRA, Roni C.,  XIV Semana Acadêmica do campus Engenheiro Paulo de Frontin",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, CIência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "KNEIPP",
+                    "evento": "R.,  BORGES, D. C.,  FERREIRA, Roni C.,  II Seminário Internacional de Educação, Empreendedorismo e Gestão de Projetos",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, CIência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "B. C. C.,  SILVA, P. G.,  FERREIRA, R.,  I Workshop sobre concepções para currículos de cursos de Informática e Computação sob a perspectiva da integração, diversidade, inclusão e inovação",
+                    "ano": "2019",
+                    "duracao_semanas": "32",
+                    "instituicao_promotora": "Congresso Brasileiro de Informática da Educação."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "R.,  NARDI, L.,  ALBUQUERQUE, A. A.,  AMORIM, M.,  LAMAS, C.,  II Semana Nacional de Ciência e Tecnologia do Campus São João de Meriti",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "R. C.,  SALLES, A. C.,  HENRIQUES, F. M.,  I Feira IntegrART IFRJ São João de Meriti - Gastronomia, Cultura, Lazer e Arte",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Rio de Janeiro - IFRJ."
+                },
+                {
+                    "autores": "SEVERIANO JUNIOR",
+                    "evento": "E.,  FERREIRA, R. C.,  I Semana Nacional de Ciência e Tecnologia do Campus São João de Meriti",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Braga, M.",
+                "titulo": "DIONYSIO, L. G.;  FERREIRA, R.;  GUTTMANN, G.;  Knowledge Networks in Learning Environments for Deaf Students",
+                "ano": "2023",
+                "periodico": "Learning Environments Research. ISBN: 15731855   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FERREIRA, Roni C.",
+                "titulo": "MATTANA, L",
+                "evento": "; Gamificação e Engajamento em AVAS:um Modelo para o Moodle Baseado no Design de Genshin Impact. 31º Congresso Internacional ABED de Educação a Distância ? CIAED 2026",
+                "local": "João Pessoa - PB",
+                "ano": "2026"
+            },
+            {
+                "autores": "FERREIRA, Roni",
+                "titulo": "Braga, M",
+                "evento": "; Tecendo Redes de Conhecimento Colaborativo: Um Modelo para Conectar a Educação Profissional ao Ecossistema de Inovação. XXI Simpósio Brasileiro de Sistemas Colaborativos - SBSC 2026",
+                "local": "Porto Alegre - RS",
+                "ano": "2026"
+            },
+            {
+                "autores": "FERREIRA, Roni C.",
+                "titulo": "Braga, M",
+                "evento": "; Collaborative Innovation Networks: A Pedagogical Framework for Empowering Student-Innovators in Digital Environments. 3rd International Conference Mathematical Analysis and Applications in Science and Engineering",
+                "local": "Porto",
+                "ano": "2026"
+            },
+            {
+                "autores": "FERREIRA, Roni C.",
+                "titulo": "SOUZA, L",
+                "evento": "S.; FRANZONI",
+                "local": "M. E. R.; SANTOS, G. P.; COSTA, G. P.; GONCALVES, G. C. P.; Plataforma Sunflower. II Seminário Internacional de Educação, Empreendedorismo e Gestão de Projetos,",
+                "ano": "2024"
+            },
+            {
+                "autores": "PEREIRA, C. E. F.",
+                "titulo": "FERREIRA, R",
+                "evento": "C.; Podcast Conhecimentos",
+                "local": "Saberes, etc. ? uma alternativa para superar as limitações curriculares tradicionais. 8o. ENSOC - Encontro Estadual de Ensino de Sociologia, Rio de Janeiro",
+                "ano": "2024"
+            },
+            {
+                "autores": "PEREIRA, C. E. F.",
+                "titulo": "FERREIRA, Roni C",
+                "evento": "; Podcast no Ensino Médio: um novo encontro pedagógico de conhecimentos",
+                "local": "saberes e práticas. II Seminário Internacional de Educação, Empreendedorismo e Gestão de Projetos, Engenheiro Paulo de Frontin",
+                "ano": "2024"
+            },
+            {
+                "autores": "MORAIS, V.",
+                "titulo": "FERREIRA, Roni C",
+                "evento": "; Desafios e Possibilidades da Robótica Educacional: um relato de experiência das competições de robótica e seus impactos na educação tecnológica. II Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Engenharia Paulo de Frontin",
+                "ano": "2024"
+            },
+            {
+                "autores": "XAVIER, E. C.",
+                "titulo": "FERREIRA, Roni C",
+                "evento": "; Educação STEAM: impactos na realidade escolar e seus resultados pedagógicos. II Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Engenheiro Paulo de Frontin",
+                "ano": "2024"
+            },
+            {
+                "autores": "PESSOA, F. F.",
+                "titulo": "LORENA, N",
+                "evento": "M.; SILVA",
+                "local": "A. P. M.; REIS, G. M.; SAITO, J. S.; CARVALHO, C. H. S.; SOUZA, G. L. E.; COSTA, I. I.; FERREIRA, R. C.; LABIOS3D - Software em RV para práticas laboratoriais seguras. II Seminário Internacional de Educação, Empreendedorismo e Gestão de Projetos, Engenheiro Paulo de Frontin",
+                "ano": "2024"
+            },
+            {
+                "autores": "SOUSA, F. S.",
+                "titulo": "CAMPOS, M",
+                "evento": "L. R.; MONIER",
+                "local": "E. B.; FERREIRA, R.; SILVA, A. M. B. S.; Realidade Virtual nas disciplinas da grade curricular do curso de Odontologia no Brasil: uma revisão integrativa. I Congresso Nacional Acadêmico de Odontologia da Universidade Federal do Maranhão (CONAO-UFMA), Luzeiros - São Luís",
+                "ano": "2023"
+            },
+            {
+                "autores": "VILARIM, G. O.",
+                "titulo": "FERREIRA, R",
+                "evento": "; Pensamento Computacional na Educação: uma visão de seus conceitos e usos. I SIEEG - Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Engenheiro Paulo de Frontin",
+                "ano": "2023"
+            },
+            {
+                "autores": "MENEZES, A. E.",
+                "titulo": "FERREIRA, R",
+                "evento": "; Levantamento do uso de bancadas didáticas em publicações da revista RBEPT. I SIEEG - Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Engenheiro Paulo de Frontin",
+                "ano": "2023"
+            },
+            {
+                "autores": "PEREIRA, C. E. F.",
+                "titulo": "FERREIRA, R",
+                "evento": "; O uso de podcasts no Ensino Médio: uma alternativa revigorada. I SIEEG - Seminário Internacional de Educação",
+                "local": "Empreendedorismo e Gestão de Projetos, Engenheiro Paulo de Frontin",
+                "ano": "2023"
+            },
+            {
+                "autores": "MAGRANI, L.",
+                "titulo": "FERREIRA, R",
+                "evento": "; Os Desafios Digitais Enfrentados na Pandemia: uma análise da realidade tecnológica das escolas públicas em contexto pandêmico no município de Petrópolis/RJ. 28° CIAED Congresso Internacional ABED de Educação a Distância",
+                "local": "Rio de Janeiro",
+                "ano": "2023"
+            },
+            {
+                "autores": "MAGRANI, L.",
+                "titulo": "FERREIRA, R",
+                "evento": "; Os Desafios Digitais Enfrentados na Pandemia: uma análise da realidade tecnológica das escolas públicas em contexto pandêmico no município de Petrópolis/RJ. 28° CIAED Congresso Internacional ABED de Educação a Distância",
+                "local": "Rio de Janeiro",
+                "ano": "2023"
+            },
+            {
+                "autores": "COSTA FERREIRA, RONI",
+                "titulo": "ANTONIO BARBOSA BRAGA, MARCO; REDES DE CONHECIMENTO STEAM NA FORMAÇÃO DO ENGENHEIRO CONTEMPORÂNEO: UMA REVISÃO SISTEMÁTICA DA LITERATURA",
+                "evento": "CONGRESSO BRASILEIRO DE EDUCAÇÃO EM ENGENHARIA",
+                "local": "",
+                "ano": "2021"
+            },
+            {
+                "autores": "FERREIRA, R. C.",
+                "titulo": "COSTA, BRUNO; Desenvolvimento de uma Metodologia de Ensino Híbrido na Formação Técnica de Informática",
+                "evento": "CIET:EnPED",
+                "local": "",
+                "ano": "2020"
+            },
+            {
+                "autores": "GOMES, L. M. J. B.",
+                "titulo": "SANTOS, J",
+                "evento": "J. A.; FERREIRA",
+                "local": "R. C.; DUARTE, S. E. S.; Territórios Virtuais no WhatsApp: uma plataforma democrática no espaço escolar. XII ENPEC - Encontro Nacional de Pesquisa em Educação em Ciências, Natal",
+                "ano": "2019"
+            },
+            {
+                "autores": "ORIENTE, A. C. N.",
+                "titulo": "FERREIRA, R",
+                "evento": "C.; SALLES",
+                "local": "A. C.; Educação para o Empreendedorismo sob a Perspectiva da Economia Criativa. VI Congreso Cubano de Desarrollo Local, Granma",
+                "ano": "2019"
+            },
+            {
+                "autores": "FERREIRA, R.",
+                "titulo": "Braga, M",
+                "evento": "; Ensino de programação: um ateliê virtual para o desenvolvimento de competências STEM no Brasil. COBENGE 2019",
+                "local": "Fortaleza",
+                "ano": "2019"
+            },
+            {
+                "autores": "COSTA, BRUNO",
+                "titulo": "FERREIRA, Roni; PINTO, WERUSCA; FILHO, ALBERTO; LAMAS, CAIO; SEVERIANO JUNIOR, ELY; RIBEIRO, IGOR; NARDI, LEONARDO; AMORIM, MARCEL DE; SILVA, PATRÍCIA GRASEL DA; COSTA, RAFAEL; Itinerário de Concepção Curricular para Curso Técnico em Informática sob a Perspectiva da Indissociabilidade e Interdisciplinaridade",
+                "evento": "VIII Congresso Brasileiro de Informática na Educação",
+                "local": "Brasília",
+                "ano": "2019"
+            },
+            {
+                "autores": "GOMES, L. M. J. B.",
+                "titulo": "SANTOS, J",
+                "evento": "J. A.; FERREIRA",
+                "local": "R. C.; DUARTE, S. E. S.; Análise Crítica do Uso do Jigsaw no Ensino-Aprendizagem das Teorias Evolutivas. V ENCONTRO NACIONAL DE ENSINO DE CIÊNCIAS DA SAÚDE E DO AMBIENTE, Niterói",
+                "ano": "2018"
+            },
+            {
+                "autores": "LIMA, D. S. A.",
+                "titulo": "FERREIRA, R",
+                "evento": "C.; SILVA",
+                "local": "P. G.; Formação Continuada de Professores e Cibercultura: Desenvolvendo Competências para o Letramento Digital. V Congresso Internacional TIC e Educação - ticEDUCA, Lisboa",
+                "ano": "2018"
+            },
+            {
+                "autores": "FERREIRA, R. C.",
+                "titulo": "GOMES, L",
+                "evento": "M. J. B.; SANTOS",
+                "local": "J. J. A.; DUARTE, S. E. S.; Jogos Digitais para aprendizagem STEAM e a postura crítica sobre gênero. XII Congreso Iberoamericano de Ciencia, Tecnología y Género, Bilbao",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTOS, J. J. A.",
+                "titulo": "GOMES, L",
+                "evento": "M. J. B.; FERREIRA",
+                "local": "R. C.; DUARTE, S. E. S.; Interface e Aplicabilidade do KODU Game Lab. VI SINECT - Simpósio Nacional de Ensino de Ciência e Tecnologia, Ponta Grossa",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTOS, J. J. A.",
+                "titulo": "GOMES, L",
+                "evento": "M. J. B.; FERREIRA",
+                "local": "R.; DUARTE, S. E. S.; Jogos digitais no contexto escolar: percepção dos estudantes sobre jogo e o ato de jogar. Encontro Nacional de Pesquisa em Educação em Ciências, Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "FERREIRA, R.",
+                "titulo": "MOURA, C",
+                "evento": "B.; DUARTE",
+                "local": "S. E. S.; Práxis Reflexiva: uma proposta para o Ensino de Ciências & Tecnologia com enfoque NdC. Congreso Internacional sobre Investigación en la Didáctica de las Ciencias, Sevilha",
+                "ano": "2017"
+            },
+            {
+                "autores": "FERREIRA, R. C.",
+                "titulo": "Senra, C",
+                "evento": "; Braga",
+                "local": "M.; Percepções de Alunos do Ensino Médio sobre o Ensino de Programação e sua Importância para o Século XXI. IV Congresso Internacional TIC e Educação - ticEDUCA, Lisboa",
+                "ano": "2016"
+            },
+            {
+                "autores": "GOMES, L. M. J. B.",
+                "titulo": "FERREIRA, R",
+                "evento": "C.; DUARTE",
+                "local": "S. E. S.; Percepções dos professores de Ciências sobre aulas práticas no Ensino Fundamental. III Simposio Internacional de Enseñanza de las Ciencias - SIEC, Vigo",
+                "ano": "2016"
+            },
+            {
+                "autores": "FERREIRA, Roni",
+                "titulo": "CHRISPINO, A",
+                "evento": "; BOCK",
+                "local": "B.; A Responsabilidade Envolvida no Uso da Tecnologia Cotidiana. VII Congreso Internacional de Formación de Profesores de Ciencias, Bogotá",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Karla Lessa de Andrade",
+                "titulo": "Proposta de Curso Online para dar Suporte a Alunos do Curso Técnico de Secretário Escolar",
+                "ano": "2026",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Solange Carvalho da Cruz",
+                "titulo": "O Uso do Escape Room para aprimorar a Identidade Visual e Profissional de Estudantes de Ensino Médio",
+                "ano": "2026",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Caroline Maria Ferreira Drummond",
+                "titulo": "História em Jogo: a Disputa pela Memória Coletiva o Museu da Falsa Revolução de Yara em Far Cry 6",
+                "ano": "2025",
+                "curso": "Pós-graduação em Tecnologias Educacionais e Educação a Distância (TEEAD)",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Jussara Ramalho Dias dos Santos",
+                "titulo": "Educação Digital: O uso de jogos digitais no ensino da geometria como ferramenta de aprendizado",
+                "ano": "2025",
+                "curso": "Pós-graduação em Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Gabriela Marcomini de Lima",
+                "titulo": "Formação continuada de professores para o ensino de computação na educação básica: um relato de experiência",
+                "ano": "2025",
+                "curso": "Pós-graduação em Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "ValquÍria Santos Segurado",
+                "titulo": "Da Sala de Aula ao Digital: Inteligência Artificial Apoiando o Redesign de Aulas Presenciais para EaD",
+                "ano": "2025",
+                "curso": "Pós-graduação em Tecnologias Educacionais e Educação a Distância (TEEAD)",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Vinícius Rodrigues Soares",
+                "titulo": "NeuroREA_br: Mapeando os Recursos Educacionais Abertos Disponíveis nos Repositórios Brasileiros",
+                "ano": "2025",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Marcio Luiz do Prado e Rogervan de Sousa Soares",
+                "titulo": "Aprendizagem Baseada Em Projetos no Curso Técnico em Administração: uma Proposta de Sequência Didática para a Disciplina de Gestão de Projetos",
+                "ano": "2025",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Lorena Mattana Ribeiro",
+                "titulo": "Gamificação e Educação: Customização do Moodle com base no jogo Genshin Impact",
+                "ano": "2024",
+                "curso": "Pós-graduação em Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Victor Morais",
+                "titulo": "Desafios e possibilidades da Robótica Educacional: um relato de experiência das competições de robótica e seus impactos na EPT",
+                "ano": "2024",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Leonardo Valesi Valente",
+                "titulo": "Relato de experiência de uma década de ensino de neuropsicologia e reabilitação cognitiva na graduação de terapia ocupacional: autoavaliação a partir da formação em Docência para a Educação Profissional e Tecnológica",
+                "ano": "2024",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Carlos Eduardo Fontes Pereira",
+                "titulo": "Conhecimento, saberes ETC.: Um podcast para o Ensino Médio",
+                "ano": "2024",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Gerson Pereira Boy",
+                "titulo": "As Tecnologias mais Utilizadas no Ensino Fundamental para Ampliar a Educação Geográfica Brasileira",
+                "ano": "2023",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Franciele Golçalves de Oliveira",
+                "titulo": "O uso de recursos educacionais digitais no ensino de física: Uma análise a partir dos títulos das dissertações do Mestrado Nacional Profissional em Ensino de Física",
+                "ano": "2023",
+                "curso": "Pós-graduação em Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Wivian de Paula Ferreira Machado Lapa",
+                "titulo": "O possível uso de jogos na formação do professor de ciências da UFRPE: o que apontam os PPCs e os planos de aulas dos docentes.",
+                "ano": "2023",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Ezequiel da Cunha Xavier",
+                "titulo": "Educação STEAM: Estudo e análise de suas perspectivas na educação",
+                "ano": "2023",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Ana Luiza Leite",
+                "titulo": "Experiência dos professores universitários durante a Pandemia da Covid-19: uma revisão sistemática da literatura",
+                "ano": "2023",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Álvaro Eduardo do Amaral Menezes Junior",
+                "titulo": "Uso de bancadas didáticas para o ensino na área de manutenção automotiva",
+                "ano": "2023",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Claudio Aprigio da Silva; Leyde Maura Honório da Silva",
+                "titulo": "Robótica com sucata: uma Sequência Didática para os Anos Finais do Ensino Fundamental",
+                "ano": "2023",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Luciano Mesentier da Costa",
+                "titulo": "Proposta de Sequência Didática para a utilização de Metodologias Ativas na Qualificação de Registradores de Câncer",
+                "ano": "2022",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Larissa Gomes Magrani",
+                "titulo": "Os Desafios Digitais Enfrentados na Pandemia: uma análise da realidade tecnológica das escolas públicas em contexto pandêmico no município de Petrópolis/RJ",
+                "ano": "2022",
+                "curso": "Pós-graduação em Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Rejane Alves de Araújo",
+                "titulo": "O Virtual e o Feminino: utilizando jogos eletrônicos para desenvolver práticas educacionais sobre questões de gênero à luz da transversalidade curricular",
+                "ano": "2022",
+                "curso": "Pós-graduação em Informática Aplicada à Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Rafaela Alves Luzia da Silva",
+                "titulo": "Percepções docentes sobre o letramento científico no Ensino Fundamental I",
+                "ano": "2020",
+                "curso": "Pós-graduação lato sensu em Práticas de Letramento",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Genildo Nonato Santos e Ana Carla de Souza Gomes dos Santos",
+                "titulo": "Um dispositivo remoto para auxiliar em aulas experimentais de laboratório",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Mariana Paranhos Stelling",
+                "titulo": "Análise de equipamentos de microscopia voltados para uso em escolas e suas aplicabilidades nas práticas pedagógicas",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Gilvan de Oliveira Vilarim",
+                "titulo": "Pensamento computacional na educação: possibilidades e interdisciplinaridades",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Caio Henriques Sica Lamas",
+                "titulo": "Projetos de jogos digitais em sala de aula: ensino de programação por meio de uma abordagem orientada a projetos",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Erivelton Muniz da Silva",
+                "titulo": "Um modelo de aprendizagem STEAM Aplicado em um Curso de Formação Inicial e Continuada de Tingimento e Estamparia Artesanal",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Monique Pacheco do Amaral e André Augusto Isnard",
+                "titulo": "Uma proposta de sequência didática utilizando sala de aula invertida para formação de professores de física",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Livia Tenorio Cerqueira Crespo Vilela",
+                "titulo": "Exposição Virtual Química da Casa",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Thiago Cordeiro da Silva",
+                "titulo": "Uma Revisão Sistemática sobre a Aplicação de Metodologias Ativas no Ensino de Ciências",
+                "ano": "2020",
+                "curso": "Pós-graduação em Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.5887771844863892,
+            "indian": 6.232726573944092,
+            "black": 0.5490338206291199,
+            "white": 18.539302825927734,
+            "middle eastern": 49.3005256652832,
+            "latino hispanic": 24.78962516784668
+        }
+    }
+}

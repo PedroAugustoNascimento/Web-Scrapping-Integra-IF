@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Avançado Piumhi",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -152,8 +153,8 @@
                 "periodo": "2015 - 2015",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Humberto Coelho de Melo",
                     "Stella Maria Gomes",
+                    "Humberto Coelho de Melo",
                     "Letícia Efrem Natividade Olvieira",
                     "Rafaela Dias Silva",
                     "Cleiton Junio Alves",
@@ -186,16 +187,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Tradições, Memórias, Cultura e Identidade Negra",
-                "periodo": "2016",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Stella Maria Gomes",
-                    "Mônica do Nascimento Barros"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Implementação de conceitos de Modelagem da Informação da Construção (BIM) no processo de gestão da rede de esgotos no município de Piumhi/MG",
                 "periodo": "2016",
                 "natureza": "Pesquisa",
@@ -213,6 +204,16 @@
                     "Stella Maria Gomes",
                     "Tobias Ribeiro Ferreira",
                     "Humberto Coelho de Melo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Tradições, Memórias, Cultura e Identidade Negra",
+                "periodo": "2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stella Maria Gomes",
+                    "Mônica do Nascimento Barros"
                 ]
             },
             {
@@ -508,12 +509,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 5.349642753601074,
-            "indian": 5.9540863037109375,
-            "black": 1.0530598163604736,
-            "white": 35.288665771484375,
-            "middle eastern": 27.899749755859375,
-            "latino hispanic": 24.454790115356445
+            "asian": 5.071971416473389,
+            "indian": 5.8882737159729,
+            "black": 1.1380985975265503,
+            "white": 35.88166046142578,
+            "middle eastern": 27.086597442626953,
+            "latino hispanic": 24.933399200439453
         }
     }
 }

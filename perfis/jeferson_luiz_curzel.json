@@ -1,0 +1,264 @@
+{
+    "campus": "- Câmpus Joinville",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica e Informática Industrial",
+                "periodo": "2013 - 2019",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "titulo": "UMA METODOLOGIA DE ANÁLISE DA OPERAÇÃO DO TRANSPORTE PÚBLICO DE CURITIBA USANDO LINK STREAMS",
+                "orientador": "RICARDO LÜDERS"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2007 - 2008",
+                "instituicao": "Universidade do Estado de Santa Catarina",
+                "titulo": "Síntese e Implementação de Controle Supervisório em uma Célula Flexível de Manufatura Didática",
+                "orientador": "André Bittencourt Leal"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Sociedade Educacional de Santa Catarina (Escola Técnica Tupy)",
+                "periodo": "2004 - 2007",
+                "cargo": "Professor, Não possui mais vínculo empregatício, desligado em 01/07/2007."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2007",
+                "cargo": "Professor."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Santa Catarina\nOutro (2007) .",
+        "comissoes": ": Instituto Federal de Santa Catarina\nComissão Para Projeto Fic Automação (2011 - 2011).\nComissão De Planejamento 2011 (2010 - 2010).\nComissão De Urbanização E Paisagismo Fase I (2009 - 2009).\nComissão De Meio Ambiente (2008 - 2008).\nComissão Do Projeto Para Implementar O Laboratório De Informática Industrial (2008 - 2008).\nComissão Para Definição E Logística Do Lote Da Receita Federal - Portaria 040/2008 (2008 - 2008).\nComissão Para Implementação Do Laboratório De Instalações Prediais (portaria 016/2007); (2007 - 2007).\nComissão Para Implementação Do Laboratório De Instalações Industriais, Maquinas Elétricas E Eletromagntismo (portaria 017/2007); (2007 - 2007).\nComissão Para Implementação Do Laboratório De Informática Industrial (portaria 018/2007); (2007 - 2007).\nComissão Para Implementação Do Laboratório De Eletronica Digital E Analógica (portaria 020/2007). (2007 - 2007).\nChefe De Laboratórios Da Eletroeletrônica (portaria 025/2007) (2007 - 2008).",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CURZEL",
+                    "titulo": "J. L.,  LEAL, A. B.,  Concepção de uma Célula Flexível de Manufatura Didática para o Ensino de Engenharia",
+                    "ano": "2006",
+                    "instituicao_promotora": "Abenge - Associação Brasileira de Ensino de Engenharia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CURZEL",
+                    "curso": "J. L.,  Programação de CLP - Avançado",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "CURZEL",
+                    "curso": "J. L.,  Programação de CLP - Básico",
+                    "ano": "2006"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LÜDERS, R.;  FONSECA, K. V. O.;  ROSA, M. O.;  Temporal Performance Analysis of Bus Transportation Using Link Streams",
+                "ano": "2019",
+                "periodico": "MATHEMATICAL PROBLEMS IN ENGINEERING (ONLINE). ISBN: 15635147   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "Zeplin; HUGO, V",
+                "evento": "; Oficina de inicialização tecnológica interativa.. SEPEI",
+                "local": "Florianópolis",
+                "ano": "2023"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LUDERS, R",
+                "evento": "; MORAIS",
+                "local": "G. P.; On Modeling Interleaved Events in a Bus Transportation System with Real-World Data Monitoring. CTS 2016 - 14-th IFAC Symposium on Control in Transportation Systems, Istambul - Turkey",
+                "ano": "2016"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LUDERS, R",
+                "evento": "; Using FPGA to Control a Virtual Sorting System. 11th International Conference on Remote Engineering and Virtual Instrumentation (REV)",
+                "local": "Porto - Portugal",
+                "ano": "2014"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LUDERS, R",
+                "evento": "; Modelagem e Implementação em FPGA do Controle Discreto de uma Planta Didática de Separação de Ítens. XX Congresso Brasileiro de Automática",
+                "local": "Belo Horizonte, MG",
+                "ano": "2014"
+            },
+            {
+                "autores": "Zeplin",
+                "titulo": "CURZEL, J",
+                "evento": "L.; O Ensino de Software Aplicado à Automação Industrial Utilizando a Aprendizagem Baseada em Problemas: RELATO DE DESENVOLVIMENTO NO ENSINO PROFISSIONALIZANTE DO CAMPUS JOINVILLE DO IFSC. II Congresso Internacional TIC e Educação ? ticEDUCA 2012",
+                "local": "Lisboa",
+                "ano": "2012"
+            },
+            {
+                "autores": "Zeplin",
+                "titulo": "CURZEL, J",
+                "evento": "L.; Neto; Sousa; Trizotti; Desenvolvimento de um Sistema Didático de Transporte de Peças Automatizado. I CICPG - Sul Brasil -I Congresso de Iniciação Científica e Pós-Graduação do Sul do Brasil",
+                "local": "Florianópolis - SC",
+                "ano": "2010"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LEAL, A",
+                "evento": "B.; Implementação de Controle Supervisório Modular Local em uma Célula de Manufatura Didática. VIII INDUSCON",
+                "local": "POÇOS DE CALDAS - MG",
+                "ano": "2008"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LEAL, A",
+                "evento": "B.; Projeto e Implementação de Supervisores Modulares Locais para uma Célula de Manufatura Didática. CBA - Congresso Brasileiro de Automática",
+                "local": "Juiz de Fora - MG",
+                "ano": "2008"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "HOUNSELL, M",
+                "evento": "S.; LEAL",
+                "local": "A. B.; Uso da Realidade Virtual para Ensino de Automação da Manufatura. International Conference on Engineering and Computer Education - ICECE?2007, Santos - SP",
+                "ano": "2007"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LEAL, A",
+                "evento": "B.; HOUNSELL",
+                "local": "M. S.; Realidade Virtual como Ferramenta de Simulação Aplicada no Ensino de Automação da Manufatura. 4º Simposio Iberoamericano de Educación, Cibernética e Informática (SIECI 2007), Orlando - EUA",
+                "ano": "2007"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LEAL, A",
+                "evento": "B.; Implementação de Controle Supervisório em Linguagem Ladder para uma Célula Flexível de Manufatura Didática. CBA - Congresso Brasileiro de Automática",
+                "local": "Salvador",
+                "ano": "2006"
+            },
+            {
+                "autores": "CURZEL, J. L.",
+                "titulo": "LEAL, A",
+                "evento": "B.; SILVA",
+                "local": "Fabiano T.; Concepção de uma Célula de Manufatura Didática para o Ensino de Engenharia. Cobenge - Congresso Brasileiro de Ensino de Engenharia, Passo Fundo - RS",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Eduardo Dutra Pains",
+                "titulo": "Automatização de um Dispositivo Manual",
+                "ano": "2006",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Alisson Ubirajara Martins",
+                "titulo": "Processo de Produção Automatizado por Clp e Monitorado Através da IHM TP170B",
+                "ano": "2006",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Edimar Engeler e Gustavo Milbratz",
+                "titulo": "Aplicação de Sistema Supervisório em Processo de Revestimento de Peças",
+                "ano": "2006",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Cláudio Fernando Andrade e Gerson Andrezejewski",
+                "titulo": "Utilização de Supervisório para Monitoramento e Controle de Manutenção e Produção de Máquinas Industriais",
+                "ano": "2006",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Cassiano Surdi Librelato e Eder de Souza",
+                "titulo": "Sistema de Supervisão e Controle para um Processo de Preparação de Areia",
+                "ano": "2006",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Alfredo Guilherme Blume Neto e Anderson Matos",
+                "titulo": "Simulação de Linha de Pintura a Pó com Tratamento de Superfície em CLP S7-300 e Supervisório Elipse Scada",
+                "ano": "2006",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Alfredo José Bezerra e Luciano Waldir Bona",
+                "titulo": "Supervisão e Controle de Caldeira Flamotubular e Desaerador",
+                "ano": "2005",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Carlos José Cordeiro e Julio César Agrícola Costa da Silveir",
+                "titulo": "Coleta de Dados On-Line com Padrão OPC",
+                "ano": "2005",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Jailson Goularte e José Jaroiz",
+                "titulo": "Monitoramento de Injetora de Poliuretano Utilizando Software de Supervisão",
+                "ano": "2005",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Elias Gideão Menezes e Douglas Tiago Hardt",
+                "titulo": "Controle de Umidade",
+                "ano": "2005",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Ricardo Nehls e Volnei Ferreira",
+                "titulo": "Estudo para Aplicação do Software Supervisório à uma Linha de Tratamento de Superfície de Peças",
+                "ano": "2005",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            },
+            {
+                "orientando": "Felipe Saramento e José Roberto de Moura",
+                "titulo": "Supervisório de Compressores de Ar e Caldeiras",
+                "ano": "2005",
+                "curso": "Tecnologia em Automação Industrial",
+                "instituicao": "Sociedade Educacional de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.008182374760508537,
+            "indian": 0.013153865933418274,
+            "black": 0.00041110438178293407,
+            "white": 93.61103820800781,
+            "middle eastern": 3.334146738052368,
+            "latino hispanic": 3.033066511154175
+        }
+    }
+}

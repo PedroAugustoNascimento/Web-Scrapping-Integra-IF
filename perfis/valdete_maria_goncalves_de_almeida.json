@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ribeirão das Neves",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -104,12 +105,12 @@
                 "periodo": "2004 - 2005",
                 "natureza": "Pesquisa",
                 "equipe": [
+                    "Marcelo Santos Daibert",
                     "Valdete Maria Gonçalves de Almeida",
                     "Marco Antônio Pereira Araújo",
                     "Alessandreia Marta de Oliveira Julio",
                     "João Carlos da Silva",
-                    "Leandro Nolasco",
-                    "Marcelo Santos Daibert"
+                    "Leandro Nolasco"
                 ]
             },
             {
@@ -170,13 +171,13 @@
                 "periodo": "2014",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Elisa Boari de Lima",
                     "Valdete Maria Gonçalves de Almeida",
                     "Marcos Augusto dos Santos",
                     "Douglas Eduardo Valente Pires",
                     "Raquel Melo Minardi",
                     "Carlos Henrique da Silveira",
                     "Gisele Papa",
+                    "Elisa Boari de Lima",
                     "François Artiguenave",
                     "MEIRA JR",
                     "WAGNER",
@@ -498,12 +499,12 @@
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 9.527134895324707,
-            "indian": 14.87739372253418,
-            "black": 2.897092580795288,
-            "white": 18.65935707092285,
-            "middle eastern": 23.435693740844727,
-            "latino hispanic": 30.60332489013672
+            "asian": 10.416413307189941,
+            "indian": 13.716995239257812,
+            "black": 2.8344857692718506,
+            "white": 18.998109817504883,
+            "middle eastern": 24.841482162475586,
+            "latino hispanic": 29.192520141601562
         }
     }
 }

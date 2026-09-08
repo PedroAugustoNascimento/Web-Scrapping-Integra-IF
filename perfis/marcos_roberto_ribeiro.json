@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Bambuí",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -1353,16 +1354,16 @@
         ]
     },
     "Cor/Raça": {
-        "raca_original": "indian",
+        "raca_original": "latino hispanic",
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 3.3357882499694824,
-            "indian": 44.271080017089844,
-            "black": 4.61773157119751,
-            "white": 6.877954006195068,
-            "middle eastern": 11.050561904907227,
-            "latino hispanic": 29.846881866455078
+            "asian": 3.2064218521118164,
+            "indian": 36.106475830078125,
+            "black": 4.287520408630371,
+            "white": 9.079154968261719,
+            "middle eastern": 11.031438827514648,
+            "latino hispanic": 36.28899002075195
         }
     }
 }

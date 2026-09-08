@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -89,8 +90,8 @@
                 "periodo": "2019 - 2022",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Ricardo Augusto Rabelo Oliveira",
-                    "Charles Tim Batista Garrocho"
+                    "Charles Tim Batista Garrocho",
+                    "Ricardo Augusto Rabelo Oliveira"
                 ]
             },
             {
@@ -125,8 +126,8 @@
                     "Charles Tim Batista Garrocho",
                     "Everton Fernando Barros",
                     "Moisés Vieira Roja",
-                    "Taffarel Henrique Barbosa da Silva",
                     "João Vitor Da Silva Correia",
+                    "Taffarel Henrique Barbosa da Silva",
                     "Adrian Daniel Piveta",
                     "José Eduardo de Souza"
                 ]
@@ -246,22 +247,22 @@
             },
             {
                 "instituicao": "Instituto Federal de Minas Gerais",
-                "nome": "Projeto, Desenvolvimento e Avaliação de um Middleware para Gerenciamento e Execução de Serviços em Dispositivos da Nuvem, Névoa, Orvalho e Coisas",
-                "periodo": "2019 - 2019",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Charles Tim Batista Garrocho",
-                    "Marcus Vinícius de Faria Santos"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Minas Gerais",
                 "nome": "Um Sistema de Registro e Monitoramento da Qualidade do Leite Baseado na Internet das Coisas de Longo Alcance e Blockchain",
                 "periodo": "2023 - 2024",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Charles Tim Batista Garrocho",
                     "Thulio Fernando Andrade Fonseca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais",
+                "nome": "Projeto, Desenvolvimento e Avaliação de um Middleware para Gerenciamento e Execução de Serviços em Dispositivos da Nuvem, Névoa, Orvalho e Coisas",
+                "periodo": "2019 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Charles Tim Batista Garrocho",
+                    "Marcus Vinícius de Faria Santos"
                 ]
             }
         ]
@@ -824,12 +825,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.010174416936933994,
-            "indian": 0.17206653952598572,
-            "black": 0.0039733583107590675,
-            "white": 74.22412109375,
-            "middle eastern": 16.440650939941406,
-            "latino hispanic": 9.149003028869629
+            "asian": 0.01023748330771923,
+            "indian": 0.15406297147274017,
+            "black": 0.0030041858553886414,
+            "white": 74.93740844726562,
+            "middle eastern": 16.62091636657715,
+            "latino hispanic": 8.274374961853027
         }
     }
 }

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -131,8 +132,8 @@
                 "periodo": "2014 - 2016",
                 "natureza": "Desenvolvimento",
                 "equipe": [
-                    "Raí Caetano de Jesus",
                     "Roger Santos Ferreira",
+                    "Raí Caetano de Jesus",
                     "Josiane da Silva Rosa",
                     "Diego Mello da Silva"
                 ]
@@ -189,19 +190,6 @@
             },
             {
                 "instituicao": "Polo EMBRAPII do IFMG",
-                "nome": "Semáforo Inteligente para Controle de Fluxo Mediante Detecção de Presença",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Roger Santos Ferreira",
-                    "Carlos Bernardes Rosa Júnior",
-                    "Niltom Vieira Júnior",
-                    "Fernando Paim Lima",
-                    "Dandara Lorrayne do Nascimento"
-                ]
-            },
-            {
-                "instituicao": "Polo EMBRAPII do IFMG",
                 "nome": "INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias",
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
@@ -213,6 +201,19 @@
                     "Francisco de Sousa Júnior",
                     "Wesley Henrique Batista Nunes",
                     "Leandro Vagner Arcebispo"
+                ]
+            },
+            {
+                "instituicao": "Polo EMBRAPII do IFMG",
+                "nome": "Semáforo Inteligente para Controle de Fluxo Mediante Detecção de Presença",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roger Santos Ferreira",
+                    "Carlos Bernardes Rosa Júnior",
+                    "Niltom Vieira Júnior",
+                    "Fernando Paim Lima",
+                    "Dandara Lorrayne do Nascimento"
                 ]
             },
             {
@@ -318,8 +319,8 @@
                     "ano": "2017"
                 },
                 {
-                    "autor": "MEDEIROS",
-                    "curso": "Fernanda,  FERREIRA, R. S.,  RODRIGUES, Manuela de C.,  FREITAS, Fabrício D.,  PEIXOTO, Fellipe,  TERRA, Samuel,  Tópicos de Administração Financeira em Planilhas Eletrônicas",
+                    "autor": "FERREIRA",
+                    "curso": "R. S.,  RODRIGUES, Manuela de C.,  FREITAS, Fabrício D.,  MEDEIROS, Fernanda,  PEIXOTO, Fellipe,  TERRA, Samuel,  Tópicos de Administração Financeira em Planilhas Eletrônicas",
                     "ano": "2017"
                 },
                 {
@@ -388,12 +389,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.10591905564069748,
-            "indian": 0.3785492777824402,
-            "black": 0.01916000060737133,
-            "white": 68.38346099853516,
-            "middle eastern": 20.74543571472168,
-            "latino hispanic": 10.367472648620605
+            "asian": 0.27159756422042847,
+            "indian": 1.0300612449645996,
+            "black": 0.06442851573228836,
+            "white": 53.82378005981445,
+            "middle eastern": 30.87812614440918,
+            "latino hispanic": 13.9320068359375
         }
     }
 }

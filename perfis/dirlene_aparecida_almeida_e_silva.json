@@ -1,5 +1,6 @@
 {
     "campus": "- Campus São João Evangelista",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -53,7 +54,7 @@
             {
                 "empresa": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
                 "periodo": "2013 - 2024",
-                "cargo": "Professor do Ensino Básico, Técnico e Tecnoló."
+                "cargo": "Professor do Ensino Básico, Técnico e Tecnoló, Servidor público."
             },
             {
                 "empresa": "SENAI - Departamento Regional de Minas Gerais",
@@ -63,37 +64,13 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2024",
-                "cargo": "Professora EBTT."
+                "cargo": "Professora EBTT, Servidor público."
             }
         ],
         "direcao_administracao": "",
         "ensino": ": SENAI - Departamento Regional de Minas Gerais\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nAperfeicoamento (2012 - 2013) - Técnico Em Informática - Pronatec.\nExtensão Universitária: Pontifícia Universidade Católica de Minas Gerais\nPontifícia Universidade Católica de Minas Gerais: Projeto E-para Todos (2007) - Projeto E-para Todos.",
         "comissoes": "",
         "projetos": [
-            {
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Transferência Tecnológica de Gerenciamento Metodológico para Implantação de um Projeto Piloto de Hortas Domésticas no Município de Araçuaí: Projeto Horta Social",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Dirlene Aparecida Almeida e Silva",
-                    "Fernando Marcos Souza Silva",
-                    "Andre Marcos Sousa Nunes",
-                    "Harley Alves Lima",
-                    "Jose Fernando Vieira de Faria"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Mapeando dados, tecendo redes",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Joao Luiz Jacintho",
-                    "Dirlene Aparecida Almeida e Silva",
-                    "Maria Cristina Silva dos Santos"
-                ]
-            },
             {
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
                 "nome": "Clicar na Melhor Idade",
@@ -131,16 +108,50 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Conexão entre escolas: o uso das novas tecnologias aplicadas ao ensino",
-                "periodo": "2021 - 2021",
+                "nome": "Transferência Tecnológica de Gerenciamento Metodológico para Implantação de um Projeto Piloto de Hortas Domésticas no Município de Araçuaí: Projeto Horta Social",
+                "periodo": "2022 - 2022",
                 "natureza": "Extensao",
                 "equipe": [
                     "Dirlene Aparecida Almeida e Silva",
                     "Fernando Marcos Souza Silva",
-                    "Felipe Túlio de Castro",
+                    "Andre Marcos Sousa Nunes",
+                    "Harley Alves Lima",
+                    "Jose Fernando Vieira de Faria"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Mapeando dados, tecendo redes",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Maria Cristina Silva dos Santos",
+                    "Joao Luiz Jacintho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Informática na escola: uma perspectiva de inclusão digital e cidadania",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Claudia Beatriz Berti",
                     "Gustavo Rezende Sa",
-                    "Ednardo Lopes dos Santos",
-                    "Fernando Claudio dos Santos Junior"
+                    "Yuri Soares Rodrigues",
+                    "Letícia Rodrigues Amaral"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Introdução ao desenvolvimento de aplicações web",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva"
                 ]
             },
             {
@@ -152,27 +163,6 @@
                     "Dirlene Aparecida Almeida e Silva",
                     "Fernando Marcos Souza Silva",
                     "Felipe Túlio de Castro"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Compartilhando conhecimento: o uso do Canva na educação",
-                "periodo": "2023 - 2023",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Dirlene Aparecida Almeida e Silva",
-                    "Fernando Marcos Souza Silva",
-                    "Gustavo Jardim Givisiez Fonseca"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Introdução ao desenvolvimento de aplicações web",
-                "periodo": "2023 - 2023",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Dirlene Aparecida Almeida e Silva",
-                    "Fernando Marcos Souza Silva"
                 ]
             },
             {
@@ -189,6 +179,17 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Compartilhando conhecimento: o uso do Canva na educação",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Dirlene Aparecida Almeida e Silva",
+                    "Fernando Marcos Souza Silva",
+                    "Gustavo Jardim Givisiez Fonseca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
                 "nome": "OBI em Foco 2023",
                 "periodo": "2023 - 2023",
                 "natureza": "Desenvolvimento",
@@ -199,16 +200,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Informática na escola: uma perspectiva de inclusão digital e cidadania",
-                "periodo": "2023 - 2023",
+                "nome": "Conexão entre escolas: o uso das novas tecnologias aplicadas ao ensino",
+                "periodo": "2021 - 2021",
                 "natureza": "Extensao",
                 "equipe": [
                     "Dirlene Aparecida Almeida e Silva",
                     "Fernando Marcos Souza Silva",
-                    "Claudia Beatriz Berti",
+                    "Felipe Túlio de Castro",
                     "Gustavo Rezende Sa",
-                    "Yuri Soares Rodrigues",
-                    "Letícia Rodrigues Amaral"
+                    "Ednardo Lopes dos Santos",
+                    "Fernando Claudio dos Santos Junior"
                 ]
             }
         ]
@@ -270,12 +271,12 @@
         "raca_ibge": "Amarela",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 54.20002746582031,
-            "indian": 8.953498840332031,
-            "black": 3.0346992015838623,
-            "white": 7.145569324493408,
-            "middle eastern": 3.2303943634033203,
-            "latino hispanic": 23.43581199645996
+            "asian": 42.758941650390625,
+            "indian": 7.603825569152832,
+            "black": 2.8694992065429688,
+            "white": 8.0311918258667,
+            "middle eastern": 4.089911937713623,
+            "latino hispanic": 34.64663314819336
         }
     }
 }

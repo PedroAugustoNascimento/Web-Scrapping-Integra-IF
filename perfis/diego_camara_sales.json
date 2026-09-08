@@ -1,0 +1,378 @@
+{
+    "campus": "- Campus Manaus Distrito",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia de Automação e Sistemas",
+                "periodo": "2017 - 2021",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Abordagem para Evolução da Arquitetura de Sistemas Embarcados com uso Intenso de Sensores e Atuadores",
+                "orientador": "Leandro Buss Becker"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Controle de Atitude de um Quadrotor utilizando lógica Fuzzy",
+                "orientador": "João Edgar Chaves Filho"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Enegenharia Elétrica",
+                "periodo": "2004 - 2009",
+                "instituicao": "Universidade Federal do Amazonas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2015 - 2016",
+                "cargo": "Chefe do Departamento de Automação e Produção, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2011 - 2015",
+                "cargo": "Coordenador do Ensino Técnico."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2010",
+                "cargo": "Professor, Servidor público."
+            },
+            {
+                "empresa": "Fundação Nokia de Ensino",
+                "periodo": "2006 - 2010",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "CENTRO DE REFERÊNCIA EM TECNOLOGIA PROF. HARLAN JULU GUERRA MARCELICE",
+                "periodo": "2016 - 2017",
+                "cargo": "Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Polo de inovação Manaus - IFAM (INNOVA)",
+                "periodo": "2022",
+                "cargo": "Coordenador do NPI IFAM POLO de inovação, voluntário."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "FORMAÇÃO DO GRUPO DE PESQUISA APLICADA A PARTICIPAR DA OLIMPIADA BRASILEIRA DE ROBOTICA",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Diego Câmara Sales"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Network interface Card (NIC) LoRaWAB para medidores de energia elétrica",
+                "periodo": "2022 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales"
+                ],
+                "financiador": "Polo de inovação Manaus - IFAM (INNOVA),"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um sistema automatizado de metrologia dimensional em ferramentas outline para suportar a área de processos da SMART da Amazônia.",
+                "periodo": "2022 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales"
+                ],
+                "financiador": "Polo de inovação Manaus - IFAM (INNOVA),"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "IA-FogoBio: Inteligência Artificial para Predição de Risco e Avaliação de Impacto de \"Eventos de Fogo\" na Biodiversidade Amazônica",
+                "periodo": "2025",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales",
+                    "Luiz Eduardo Sales e Silva",
+                    "Gabriel Pinheiro Compto",
+                    "Jose Pinheiro de Queiroz Neto",
+                    "Victor Beltrão Valente Duarte",
+                    "Mônica Alves de Vasconcelos",
+                    "Raimundo Fagner Costa",
+                    "Deydila Michele Bonfim dos Santos",
+                    "Dayse Swelen da Silva Ferreira",
+                    "Maria Antônia Falcão de Oliveira",
+                    "Elienai de Souza Nogueira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Sistema Inteligente para Análise Preditiva e Dashboards Adaptativos na Gestão de Performance de Redes AMI",
+                "periodo": "2026",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales",
+                    "Luiz Eduardo Sales e Silva",
+                    "Gabriel Pinheiro Compto",
+                    "Victor Beltrão Valente Duarte",
+                    "Raimundo Fagner Costa",
+                    "alexandre martiniano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Formação do grupo de pesquisa aplicada a participar da Competição Brasileira de Robótica ? Corrida de Humanoides 2015",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Diego Câmara Sales",
+                    "Johnson Pontes de Moura"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
+            },
+            {
+                "instituicao": "CENTRO DE REFERÊNCIA EM TECNOLOGIA PROF. HARLAN JULU GUERRA MARCELICE",
+                "nome": "SISTEMA AUTOMATIZADO DE CONTAGEM E PRODUTIVIDADE DE RODAS DE BICICLETAS MONTADAS NO PROCESSO DE PRODUÇÃO",
+                "periodo": "2016 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales",
+                    "ADRIANO FRUTUOSO"
+                ]
+            },
+            {
+                "instituicao": "CENTRO DE REFERÊNCIA EM TECNOLOGIA PROF. HARLAN JULU GUERRA MARCELICE",
+                "nome": "SISTEMA AUTOMATIZADO DE EMBALAGEM DE BICICLETA",
+                "periodo": "2016 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales",
+                    "André Miguel Huc Enriconi",
+                    "joão nery rodrigues filho"
+                ]
+            },
+            {
+                "instituicao": "CENTRO DE REFERÊNCIA EM TECNOLOGIA PROF. HARLAN JULU GUERRA MARCELICE",
+                "nome": "Sistema inteligente de aferição de cotas dimensionais para medidores",
+                "periodo": "2023 - 2024",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales",
+                    "José Fabio Nascimento"
+                ]
+            },
+            {
+                "instituicao": "CENTRO DE REFERÊNCIA EM TECNOLOGIA PROF. HARLAN JULU GUERRA MARCELICE",
+                "nome": "Gamificação e Tecnologia LoRaWAN: Inovando para a Sustentabilidade Energética na Indústria de Manufatura",
+                "periodo": "2024 - 2025",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Diego Câmara Sales"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Sales",
+                    "titulo": "D. C.,  LIMA, H. F. O.,  MARTINS, G. B.,  Advancing Technical Education at IFAM: Real-World Application and Impact of LoRaWAN Integration on Developing Future-Ready Skills",
+                    "ano": "2024",
+                    "instituicao_promotora": "IEEE."
+                },
+                {
+                    "autores": "Sales",
+                    "titulo": "D. C.,  QUEIROZ-NETO, JOSE P.,  MARTINS, G. B.,  Integrating Active Methodologies in the R,D&I Projects to Improve Student's Skills: A Case Study",
+                    "ano": "2023",
+                    "instituicao_promotora": "IEEE."
+                },
+                {
+                    "autores": "SALES",
+                    "titulo": "DIEGO C.,  Veículos Aéreos Não Tripulados - Conceitos e Controle",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFAM - Campus Manaus Distrito Industrial."
+                },
+                {
+                    "autores": "Sales",
+                    "titulo": "D. C.,  Aplicação de Ligas SMA em um Braço Robótico",
+                    "ano": "2013",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SALES",
+                    "curso": "DIEGO C.,  Ambientação no AVA Moodle no município de EIRUNEPÉ",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "SALES",
+                    "curso": "DIEGO C.,  Ambientação no AVA Moodle no Município de MANACAPURU",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "Sales",
+                    "curso": "D. C.,  Ambientação no AVA Moodle no município de TEFÉ",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "Sales",
+                    "curso": "D. C.,  Ambientação no AVA Moodle",
+                    "ano": "2012"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "Luciana P. N. Vaz",
+                    "evento": "Sales, D. C.,  Mara R. B. S.,  Maria L. A. Vinhote,  1º CAMPEONATO DE ROBÓTICA NA 12ª SEMANA NACIONAL DE CIENCIA E TECNOLOGIA NO AMAZONAS",
+                    "ano": "2015",
+                    "duracao_semanas": "24",
+                    "instituicao_promotora": "SEPLAN-CTI - Secretaria de Estado de Planejamento, Desenvolvimento, Ciência, Tecnologia e Inovação."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DA CUNHA, MARIANA SILVA",
+                "titulo": "DAS NEVES, CLEONOR CRESCÊNCIO;  NASCIMENTO-E-SILVA, DANIEL;  ROCHA, JHIEMELLE AMANDA DA SILVA;  MACHADO, ANA LÚCIA SOARES;  MARTINS, GILBERT BREVES;  DA SILVA, LUANA MONTEIRO;  PIO, MAURO CÉLIO DA SILVEIRA;  CLARO JÚNIOR, LUIZ HENRIQUE;  SALES, DIEGO CÂMARA;  REIS, AILTON GONÇALVES;  Applications and goals of bioeconomy: a synthesis of the scientific literature",
+                "ano": "2023",
+                "periodico": "REVISTA DE GESTÃO E SECRETARIADO. ISBN: 21789010   ."
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "BECKER, LEANDRO BUSS;  KOLIVER, C.;  The systems architecture ontology (SAO): an ontology-based design method for cyber?physical systems",
+                "ano": "2022",
+                "periodico": "https://doi.org/10.1108/ACI-09-2021-0249. ISBN: 26341964   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SALES, DIEGO C.",
+                "titulo": "OLIVEIRA, GABRIEL; CEZAR, BRENDA; DA CUNHA, ALISON; LIMA, HILLERMANN F",
+                "evento": "O.; SANTOS",
+                "local": "LUIS DOS; Green Energy: An IoT-Driven, LLM-Enhanced Gamification Platform for Industrial Energy Efficiency, Conservation and Savings. 2025 IEEE 13th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa",
+                "ano": "2025"
+            },
+            {
+                "autores": "SALES, DIEGO CAMARA",
+                "titulo": "LIMA, HILLERMANN FERREIRA O",
+                "evento": "; BREVES",
+                "local": "GILBERT M.; DA SILVA, MARIÉLIO; Advancing Technical Education at IFAM: Real-World Application and Impact of LoRaWAN Integration on Developing Future-Ready Skills. 2024 IEEE Frontiers in Education Conference (FIE), Washington",
+                "ano": "2024"
+            },
+            {
+                "autores": "SALES, DIEGO C.",
+                "titulo": "BREVES, GILBERT M",
+                "evento": "; NETO",
+                "local": "JOSE P. Q.; FIGUEIRA, CLEBER; Integrating Active Methodologies in the R,D&amp;I Projects to Improve Student's Skills: A Case Study. 2023 IEEE Frontiers in Education Conference (FIE), College Station",
+                "ano": "2023"
+            },
+            {
+                "autores": "BECKER, LEANDRO",
+                "titulo": "SALES, DIEGO; Approach for Evolving Sensing and Actuation Devices in Cyberphysical Systems Architectures",
+                "evento": "9th International Conference on ModelDriven Engineering and Software Development",
+                "local": "Online Streaming",
+                "ano": "2021"
+            },
+            {
+                "autores": "SALES, DIEGO CAMARA",
+                "titulo": "KOLIVER, CRISTIAN; BECKER, LEANDRO BUSS; Ontology and Rules for Characterization of Sensors and Actuators Devices in AADL Models",
+                "evento": "2020 X Brazilian Symposium on Computing Systems Engineering (SBESC)",
+                "local": "Florianopolis",
+                "ano": "2020"
+            },
+            {
+                "autores": "SALES, DIEGO",
+                "titulo": "BUSS BECKER, LEANDRO; Systematic Literature Review of System Engineering Design Methods",
+                "evento": "2018 VIII Brazilian Symposium on Computing Systems Engineering (SBESC)",
+                "local": "Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "QUEIROZ-NETO, JOSE P.",
+                "titulo": "SALES, DIEGO C",
+                "evento": "; PINHEIRO",
+                "local": "HAYANNE S.; NETO, BENJAMIN O.; Using modern pedagogical tools to improve learning in technological contents. 2015 IEEE Frontiers in Education Conference (FIE), Camino Real El Paso",
+                "ano": "2015"
+            },
+            {
+                "autores": "FRUTUOSO, A.",
+                "titulo": "Sales, D",
+                "evento": "C.; SANTOS",
+                "local": "A. L.; ESTABILIZAÇÃO DE UM PÊNDULO INVERTIDO USANDO CONTROLADOR H2 CONTÍNUO. XX Congresso Brasileiro de Automática 2014 (CBA 2014), Belo Horizonte",
+                "ano": "2014"
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "CHAVES FILHO, J",
+                "evento": "E.; FRUTUOSO",
+                "local": "A.; DESENVOLVIMENTO DE UM CONTROLADOR FUZZY PARA QUADROTORES. IV Simpósio Brasileiro de Engenharia de Sistemas Computacionais, Manaus - Amazonas",
+                "ano": "2014"
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "MONTEIRO, M",
+                "evento": "S. N.; BRUCE",
+                "local": "M. T. T.; PICANCO, A. C. S.; Bolsa Escolar Identificadora de Carga Excessiva. Congresso Norte Nordeste de Pesquisa e Inovação, Salvador-Bahia",
+                "ano": "2013"
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "Aplicação de Ligas SMA em um Braço Robótico",
+                "evento": "Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador-Bahia",
+                "ano": "2013"
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "CAVALCANTE, N",
+                "evento": "G.; PIRES",
+                "local": "M. A.; Rede de Sensoriamente de Embarcações: Uma Garantia de proteção aos Banhistas. Feira Brasileira de Ciências e Engenharia -Febrace, São Paulo",
+                "ano": "2013"
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "SOUZA, R",
+                "evento": "O.; Dispositivo de Auxílio Educacional para Deficientes Visuais. Feira Brasileira de Ciências e Engenharia -Febrace",
+                "local": "São Paulo",
+                "ano": "2013"
+            },
+            {
+                "autores": "Sales, D. C.",
+                "titulo": "Juscelino, T",
+                "evento": "Saraiva; Julio C. T. Saraiva; Carregabô - Robô com garra articulada controlada por celular através de conexão sem fio.. Feira Brasileira de Ciência e Engenharia",
+                "local": "São Paulo",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Victoria da Silva Leite",
+                "titulo": "SIP- Sistema Identificador de Pílulas",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Mecatrônica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Rodrigo Haruo O",
+                "titulo": ".  Robô Autônomo com Sistema de Orientação via Níveis de Intensidade de propagação de Rádio frequência e sensoriamento Ultrassônico",
+                "ano": "2011",
+                "curso": "Técnico em Mecatrônica - Ensino Médio",
+                "instituicao": "Instituto Federal do Amazonas"
+            }
+        ]
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "campus": "-",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Materiais",
+                "periodo": "2010 - 2012",
+                "instituicao": "Centro Universitário de Volta Redonda",
+                "titulo": "Desenvolvimento e Implementação de um Software para Gerenciamento de Propriedades de Materiais Cerâmicos: ProCeram",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gerênc e Seg de Redes de Computadores",
+                "periodo": "2007 - 2008",
+                "instituicao": "Centro Universitário de Volta Redonda",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Computação",
+                "periodo": "2003 - 2006",
+                "instituicao": "Fundação Educacional Rosemar Pimentel"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2022 - 2023",
+                "cargo": "Diretor de Ensino do Campus Pinheiral."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2011 - 2013",
+                "cargo": "Supervisor de curso PRONATEC, Bolsista, Supervisor do Curso Técnico em Informática do CaNP/IFRJ pelo PRONATEC.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2010 - 2011",
+                "cargo": "Membro Tit. do Conselho Acadêmico de Ens. Téc."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2010 - 2011",
+                "cargo": "Coordenador do Núcleo de Tec. da Informação."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2009",
+                "cargo": "Professor da Ed Básica, Técnica e Tecnológica."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2009 - 2012",
+                "cargo": "Coordenador do Curso Técnico em Informática."
+            },
+            {
+                "empresa": "Governo do Estado do Rio de Janeiro",
+                "periodo": "2008 - 2008",
+                "cargo": "Professor Docente."
+            },
+            {
+                "empresa": "Universidade Federal Fluminense",
+                "periodo": "2007 - 2008",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "JOB Informática Comércio e Representações LTDA",
+                "periodo": "2001 - 2006",
+                "cargo": "Gerente Técnico, Funcionário."
+            },
+            {
+                "empresa": "CIEP 291 Dom Martinho Schlude",
+                "periodo": "2004 - 2005",
+                "cargo": "Laboratório de Informática, Amigo da Escola, Capacitação e acompanhamento para alunos monitores de informática.."
+            },
+            {
+                "empresa": "Inforpil Informática",
+                "periodo": "2001 - 2002",
+                "cargo": "Instrutor de Informática, Contratado, Ministrando aulas de Windows Me, Office 2000 e Manutenção e montagem de microcomputadores.."
+            },
+            {
+                "empresa": "Colégio do Instituto Batista Americano",
+                "periodo": "2007 - 2007",
+                "cargo": "Curso Técnico em Informática Nível Médio, Estágio Supervisionado, Estágio supervisionado obrigatório de docência para a obtenção do grau de Licenciado em Computação.."
+            },
+            {
+                "empresa": "Programa Institucional de Incentivo a projetos e bolsas do IFRJ",
+                "periodo": "2020 - 2020",
+                "cargo": ", Revisor de projeto de fomento."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Fábrica de Software",
+                "periodo": "2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Roberto Pires Silveira",
+                    "Rosenclever Lopes Gazoni"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "SGProMudas",
+                "periodo": "2018 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roberto Pires Silveira",
+                    "Thiago Andrade Bernini",
+                    "Aramis Paes Pena Barcellos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Semáforo IoT",
+                "periodo": "2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roberto Pires Silveira",
+                    "Gilmar Gonçalves de Oliveira",
+                    "Nilmara Guimarães"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Aprendizagem móvel: criação do Judô Game",
+                "periodo": "2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roberto Pires Silveira",
+                    "Daniel da Cruz Amaral Rocha",
+                    "Gabriela Conceição de Souza"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVEIRA",
+                    "software": "R. P.,  Semáforo IoT",
+                    "ano": "2020",
+                    "finalidade": "Aplicativo para dispositivos mobile de análise de semáforo IoT em tempo real."
+                },
+                {
+                    "autor": "ROCHA",
+                    "software": "D. C. A.,  SILVEIRA, R. P.,  Judô Game",
+                    "ano": "2020",
+                    "finalidade": "Aplicativo de jogo para aprendizagem do judô em dispositivos móveis."
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "software": "R. P.,  ProCeram",
+                    "ano": "2012",
+                    "finalidade": "Programa de gerenciamento de propriedades físicas e mecânicas de materiais cerâmicos."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUZA",
+                    "titulo": "G. C.,  SILVEIRA, R. P.,  FONSECA, A. M.,  SOUZA, I.,  App Aventureiros: Uso de tecnologia para o esporte orientação",
+                    "ano": "2024",
+                    "instituicao_promotora": "Universidade Católica de Petrópolis - UCP."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "G. G.,  SILVEIRA, R. P.,  MILITAO, E. P.,  BARBOSA, L. O. S.,  SCALI, R.,  GANDRA, V. M.,  Desenvolvimento de Protótipo para Monitoramento de Semáforo em Tempo Real por Meio da Internet das Coisas",
+                    "ano": "2020",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "ROCHA",
+                    "titulo": "D. C. A.,  SOUZA, G. C.,  SILVEIRA, R. P.,  Aprendizagem móvel: criação do judô game",
+                    "ano": "2020",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "R. P.,  Exclusão Digital",
+                    "ano": "2013",
+                    "instituicao_promotora": "Semana Acadêmica - A Era dos Excluídos."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "R. P.,  SANTOS, C.,  PROCERAM: Programa de Gerenciamento de Propriedades de Materiais Cerâmicos",
+                    "ano": "2012",
+                    "instituicao_promotora": "Associação Brasileira de Cerâmica."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "R. P.,  Programação Orientada e Evento com Visual Studio 2008",
+                    "ano": "2012",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "R. P.,  SILVERIO, G.,  Segurança em Redes Celulares 3G",
+                    "ano": "2008",
+                    "instituicao_promotora": "Centro Universitário de Volta Redonda - UniFOA."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "R. P.,  SILVERIO, G.,  Sistema de Gerenciamento Clínico",
+                    "ano": "2006",
+                    "instituicao_promotora": "Centro Universitário Geraldo di Biase."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVEIRA",
+                    "curso": "R. P.,  Programação Orientada e Evento com Visual Studio 2008",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "curso": "R. P.,  Técnicas de Digitação",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "curso": "R. P.,  Programação Orientada e Evento com Visual Studio",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "curso": "R. P.,  Oficina de Inclusão Digital",
+                    "ano": "2007"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "GIL",
+                    "evento": "L. P. B.,  SILVEIRA, R. P.,  Almeida, A. G.,  LIMA, E. B.,  FRANCO, H. A.,  WEBTEC EXPOCANP",
+                    "ano": "2020",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "IFRJ."
+                },
+                {
+                    "autores": "ESCOSTEGUY FILHO",
+                    "evento": "J. C.,  BISPO, E. C.,  SILVEIRA, R. P.,  II Sematec - XX ExpoCanp",
+                    "ano": "2018",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "Campus Pinheiral - IFRJ."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SILVEIRA, R. P.",
+                "titulo": "Caiu na Rede, é Geek! Uma introdução às Redes de Computadores",
+                "ano": "2024",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501019680, Volta Redonda (Publicado)."
+            },
+            {
+                "autores": "SILVEIRA, R. P.",
+                "titulo": "Caiu na rede, é Geek!",
+                "ano": "2020",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786500139426, Volta Redonda (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SOUZA, G. C.",
+                "titulo": "ROCHA, D. C. A.;  SOUZA, I.;  SILVEIRA, R. P.;  Aprendizagem móvel: app judô game",
+                "ano": "2021",
+                "periodico": "Temática - Revista eletrônica de publicação mensal. ISBN: 18078931   ."
+            },
+            {
+                "autores": "SILVEIRA, R. P.",
+                "titulo": "SANTOS, C.;  PROCERAM: Programa de Gerenciamento de Propriedades de Materiais Cerâmicos",
+                "ano": "2012",
+                "periodico": "Estudo sobre Solidificação/Estabilização de Lodo de Lavanderias Industriais para Fabricação de Blocos Cerâmicos Acústicos (Ressoadores de Helmholtz). ISBN: 21758891   ."
+            },
+            {
+                "autores": "FORTES, M.",
+                "titulo": "SILVEIRA, R. P.;  SA, T. M.;  FREDHOLM, Y. C.;  VIOL, J. B.;  MARINKOVIC, B. A.;  Caracterização e avaliação comparativa do desempenho fotocatalítico dos novos nanopós comerciais de TiO2",
+                "ano": "2011",
+                "periodico": "Cadernos UniFOA (Impresso). ISBN: 18099475   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVEIRA, R. P.",
+                "titulo": "ALCANTARA, S",
+                "evento": "; Relato da experiência do trabalho com jogos manuais de raciocínio lógico como reforço para as disciplinas de algoritmos e linguagem de programação. 3º Congresso Brasileiro de Informática na Educação",
+                "local": "Dourados, MS",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.858050376010397e-09,
+            "indian": 8.72529568596292e-08,
+            "black": 1.229484181131113e-09,
+            "white": 99.99544525146484,
+            "middle eastern": 0.002111214678734541,
+            "latino hispanic": 0.0024429168552160263
+        }
+    }
+}

@@ -1,0 +1,915 @@
+{
+    "campus": "- Campus Rio Grande",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "COMPUTAÇÃO",
+                "periodo": "2020 - 2024",
+                "instituicao": "Universidade Federal de Pelotas",
+                "titulo": "Deterioração Clínica em Unidades de Terapia Intensiva: uma Abordagem Híbrida de Estimação de Situação Baseada em Inteligência Computacional",
+                "orientador": "Adenauer Correa Yamin"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "COMPUTAÇÃO",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade Federal de Pelotas",
+                "titulo": "EXEHDA-TG: Uma Contribuição à Avaliação das Metas Terapêuticas Explorando uma Abordagem Ubíqua Consciente de Situação",
+                "orientador": "Adenauer Correa Yamin"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA Executivo em Gerenciamento de Projetos",
+                "periodo": "2006 - 2007",
+                "instituicao": "Fundação Getúlio Vargas/RS",
+                "orientador": "José Angelo Santos do Valle"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática",
+                "periodo": "2016 - 2017",
+                "instituicao": "Claretiano Centro Universitário"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrônica",
+                "periodo": "1998 - 2005",
+                "instituicao": "Universidade Católica de Pelotas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Lifemed Industrial de Equipamentos e Artigos Médicos Hospitalares",
+                "periodo": "2005 - 2016",
+                "cargo": "Engenheiro Eletrônico, Atividades realizadas: Projetos para automação da linha de produção. Projeto, desenvolvimento, teste e controle de qualidade de hardware e software para diagnóstico médico e terapias de infusão. Ensaios em laboratórios certificadores, preparação, estudo e adequações de equipamentos visando marcação CE (Comunidade Européia) e certificação IEC 60601-1 (produtos eletromédicos). Experiência em liderança de equipes, planejamento e controle de projetos. Vivência em empresa com certificações NBR ISO 9001:2000 e ISO 13485:2003. Desenvolvimento de software para PC (linguagens de programação Visual Basic, Delphi, Access, C, C++, Pascal e Assembly) e microcontroladores (linguagens de programação C e Assembly para as famílias Microchip PIC, Intel MCS-51 e MCS-96). Projeto de hardware com microcontroladores (Microchip PIC, Intel 8031 e 80196). Pesquisa e desenvolvimento de novos produtos e tecnologias nas áreas de administração de medicamentos e Critical Care. Desenvolvimento e controle de projetos de equipamentos eletromédicos com marcação CE (Comunidade Européia), selo INMETRO, certificações ABNT e IEC. Ótimo conhecimento no desenvolvimento de hardware e software (linguagens C e Assembly) para microcontroladores. Experiência no desenvolvimento de software em linguagens Delphi e C++ para interface e teste de equipamentos eletrônicos. Suporte técnico e cursos a clientes. Especificação de novos produtos e soluções junto a clientes. Experiência na elaboração de manuais de novos produtos e documentação técnica. Facilidade para trabalho em equipe.."
+            },
+            {
+                "empresa": "COMPANYTEC - Automação e controle Ltda",
+                "periodo": "2003 - 2005",
+                "cargo": "Técnico em Eletrônica, Atividades realizadas: Projeto, coordenação, desenvolvimento, teste e controle de qualidade de hardware e software para automação industrial. Desenvolvimento de software para PC (Delphi, C, C++ e Assembly) e microcontroladores (C e Assembly para Microchip PIC). Projeto de hardware e software com microcontroladores Microchip PIC. Pesquisa e desenvolvimento de novos produtos e tecnologias nas áreas de postos de combustíveis, coleta de dados, telemetria, telecontrole, segurança, rastreamento e gerenciamento de frotas de veículos. Desenvolvimento de equipamentos eletrônicos e sistemas de localização através de GPS (Sistema de Posicionamento Global). Projeto e implantação de produtos inteligentes para controle e supervisão à distância de equipamentos eletro-eletrônicos e eletromecânicos através de telefonia celular. Desenvolvimento de software em Delphi e C++ para interface e teste de equipamentos eletrônicos. Suporte técnico. Especificação de novos produtos e soluções junto a clientes. Experiência na elaboração de manuais de novos produtos e documentação técnica.."
+            },
+            {
+                "empresa": "Contronic Sistemas Automáticos",
+                "periodo": "1997 - 2000",
+                "cargo": "Técnico em Eletrônica, Atividades realizadas: Projeto, coordenação, desenvolvimento, teste e controle de qualidade de hardware e software para automação industrial e diagnóstico médico. Desenvolvimento de software para PC (Visual Basic, Access, C, C++, Pascal e Assembly) e microcontroladores (C e Assembly para as famílias Intel MCS-51 e MCS-96). Projeto de hardware com microcontroladores Intel 8031 e 80196. Pesquisa e desenvolvimento de novos produtos e tecnologias nas áreas de engenharia biomédica. Desenvolvimento de hardware e software (C e Assembly) para microcontroladores. Desenvolvimento de software em C++ para interface e teste de equipamentos eletrônicos. Suporte técnico e cursos a clientes. Especificação de novos produtos e soluções junto a clientes. Elaboração de manuais de novos produtos e documentação técnica.."
+            },
+            {
+                "empresa": "Contronic Sistemas Automáticos",
+                "periodo": "1994 - 1996",
+                "cargo": "Estagiário, Estagiário."
+            },
+            {
+                "empresa": "Universidade Católica de Pelotas",
+                "periodo": "2014 - 2015",
+                "cargo": "Professor Auxiliar III, Professor dos cursos de Engenharia Elétrica, Engenharia Eletrônica e Engenharia da Computação. Disciplinas ministradas: Engenharia Computacional, Microprocessadores, Instrumentação Eletrônica, Gerenciamento de Projetos, Desenho de Eletrônica, Tópicos Especiais em Engenharia Eletrônica e Laboratório de Programação II.."
+            },
+            {
+                "empresa": "Universidade Católica de Pelotas",
+                "periodo": "2012 - 2014",
+                "cargo": "Professor Auxiliar I, Professor dos cursos de Engenharia Elétrica e Engenharia Eletrônica. Disciplinas ministradas: Engenharia Computacional 2, Engenharia Computacional, Microprocessadores, Instrumentação Eletrônica, Gerenciamento de Projetos, Desenho de Eletrônica, Tópicos Especiais em Engenharia Eletrônica.."
+            },
+            {
+                "empresa": "Universidade Católica de Pelotas",
+                "periodo": "2010 - 2012",
+                "cargo": "Auxiliar de Ensino, Professor dos cursos de Engenharia Elétrica e Engenharia Eletrônica. Disciplinas ministradas: Engenharia Computacional 2, Engenharia Computacional, Microprocessadores, Instrumentação Eletrônica, Gerenciamento de Projetos, Desenho de Eletrônica, Tópicos Especiais em Engenharia Eletrônica.."
+            },
+            {
+                "empresa": "Anhanguera Educacional Ltda.",
+                "periodo": "2008 - 2013",
+                "cargo": "Prest. Serviços (Professor de pós-graduação), Professor do MBA em Gestão de Projetos, MBA em Gestão Estratégica de Negócios e MBA em Engenharia da Qualidade Integrada. Disciplinas lecionadas: Ferramentas de Software para Gestão de Projetos, Gerenciamento de Projetos, Avaliação de Projetos e de Riscos, Qualidade no Projeto. Unidades Anhanguera Pelotas/RS, Rio Grande/RS e Jaraguá do Sul/SC.."
+            },
+            {
+                "empresa": "Company Tecnologia e Com. Equipamentos Eletrônicos Ltda.",
+                "periodo": "2000 - 2003",
+                "cargo": "Técnico Eletrônico, Atividades realizadas: Projeto, coordenação, desenvolvimento, teste e controle de qualidade de hardware e software para automação industrial. Desenvolvimento de software para PC (Delphi, C, C++ e Assembly) e microcontroladores (C e Assembly para Microchip PIC). Projeto de hardware e software com microcontroladores Microchip PIC. Pesquisa e desenvolvimento de novos produtos e tecnologias nas áreas de postos de combustíveis, coleta de dados, telemetria, telecontrole, segurança, rastreamento e gerenciamento de frotas de veículos. Desenvolvimento de equipamentos eletrônicos e sistemas de localização através de GPS (Sistema de Posicionamento Global). Projeto e implantação de produtos inteligentes para controle e supervisão à distância de equipamentos eletro-eletrônicos e eletromecânicos através de telefonia celular. Desenvolvimento de software em Delphi e C++ para interface e teste de equipamentos eletrônicos. Suporte técnico. Especificação de novos produtos e soluções junto a clientes. Experiência na elaboração de manuais de novos produtos e documentação técnica.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2026",
+                "cargo": "Coordenador de Curso Técnico (Automação Ind.), Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2016",
+                "cargo": "Professor Ensino Básico Técnico e Tecnológico, Servidor público, Professor do Curso Técnico em Automação Industrial (Modalidades Integrado e Subsequente)Disciplinas ministradas: Eletrônica Básica, Eletrônica Industrial, Eletrônica Digital, Fundamentos de Automação, Automação Predial, Comandos Elétricos, Eletrônica, Instrumentação Industrial, Projetos de Automação."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2013 - 2014",
+                "cargo": "."
+            },
+            {
+                "empresa": "UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG",
+                "periodo": "2026",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Anhanguera Educacional Ltda.\nPos-graduacao (2013 - 2013) - Mba Em Gerenciamento De Projetos.\nEspecializacao (2012 - 2012) - Mba Em Gestão De Projetos.\nPos-graduacao (2012 - 2012) - Engenharia Da Qualidade Integrada.\nEspecializacao (2011 - 2011) - Mba Em Gestão De Projetos.\nEspecializacao (2010 - 2010) - Mba Em Gestão De Projetos.\nEspecializacao (2010 - 2010) - Mba Em Gestão De Projetos.\nEspecializacao (2010 - 2010) - Mba Em Gestão Estratégica De Negócios.\nEspecializacao (2009 - 2009) - Mba Em Gestão De Projetos.\nEspecializacao (2009 - 2009) - Mba Em Gestão De Projetos.\nEspecializacao (2009 - 2009) - Mba Em Gestão Estratégica De Negócios.\nEspecializacao (2009 - 2009) - Mba Em Gestão De Projetos.\nEspecializacao (2009 - 2009) - Mba Em Gestão De Projetos.\nEspecializacao (2009 - 2009) - Mba Em Gestão Estratégica De Negócios.\nEspecializacao (2009 - 2009) - Mba Em Gestão De Projetos.\nEspecializacao (2009 - 2009) - Mba Em Gestão De Projetos.\nEspecializacao (2008 - 2008) - Mba Em Gestão De Projetos.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nMembro Titular No Segmento Docente (2016 - 2020).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Deterioração Clínica em Unidades de Terapia Intensiva: uma Abordagem Híbrida de Estimação de Situação Baseada em Inteligência Computacional",
+                "periodo": "2020 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Guilherme Kuhn Krause",
+                    "Leonardo da Costa Reichow",
+                    "Adenauer Corrêa Yamin",
+                    "REISER",
+                    "RENATA HAX SANDER"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "DeepCare-ICU: Monitoramento e Predição da Deterioração Clínica em Unidades de Terapia Intensiva Explorando Técnicas Avançadas de Inteligência Computacional",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Adenauer Correa Yamin",
+                    "Rogério Malta Branco",
+                    "Helida Salles Santos",
+                    "BRUNO MOURA PAZ DE MOURA",
+                    "CECÍLIA SILVA DA COSTA BOTELHO",
+                    "EDUARDO MAROÑAS MONKS",
+                    "GIANCARLO LUCCA",
+                    "LIDIANE COSTA DA SILVA",
+                    "LIZANDRO DE SOUZA OLIVEIRA",
+                    "MANUELA PERES VIEIRA",
+                    "RAFAEL ALVES DE AZEVEDO",
+                    "RAFAEL RODRIGUES BASTOS",
+                    "RENATA HAX SANDER REISER",
+                    "ANITA MORAES LOPES",
+                    "ISABELE REMEDIOS DOS SANTOS"
+                ],
+                "financiador": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "e-Health LAB|IFRS - Laboratório de Projetos em Automação Biomédica: protótipo didático embarcado para emulação de sinais vitais",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Rogério Malta Branco",
+                    "ISABELE REMEDIOS DOS SANTOS"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Gerador de Sinais Vitais a partir de Bases Clínicas Reais: Ferramenta para Pesquisa em Automação Biomédica e Testes de Dispositivos Médicos",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Adenauer Correa Yamin",
+                    "Francisco Cesar Campbell Mesquitta",
+                    "Guilherme Kuhn Krause",
+                    "Rogério Malta Branco",
+                    "MANUELA PERES VIEIRA",
+                    "ANITA MORAES LOPES",
+                    "ISABELE REMEDIOS DOS SANTOS",
+                    "ISABELA TAROUCO MARTINS",
+                    "Guilherme dos Santos Brincker",
+                    "Guilherme Oliveira Silveira",
+                    "Miguel Real Muniz Cardoso De Queiroz"
+                ],
+                "financiador": "Lifemed Indústria de Eq. e Art. Méd. e Hosp. S.A., Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "I2Care+: Predição da Deterioração Clínica em Unidades de Terapia Intensiva Explorando Técnicas Híbridas de Aprendizado Profundo e Lógica Fuzzy",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Adenauer Correa Yamin",
+                    "Rogério Malta Branco",
+                    "Helida Salles Santos",
+                    "BRUNO MOURA PAZ DE MOURA",
+                    "GIANCARLO LUCCA",
+                    "LIZANDRO DE SOUZA OLIVEIRA",
+                    "MANUELA PERES VIEIRA",
+                    "RENATA HAX SANDER REISER",
+                    "ANITA MORAES LOPES",
+                    "ISABELE REMEDIOS DOS SANTOS",
+                    "ISABELA TAROUCO MARTINS"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria acadêmica e aquisição de materiais para prototipação de circuitos dos projetos da disciplina de EletrônicaIndustrial",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Rogério Malta Branco",
+                    "ISABELA TAROUCO MARTINS"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Laboratório de Robótica - ASiMov",
+                "periodo": "2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Rogério Malta Branco",
+                    "Maurício Soares Ortiz",
+                    "Carlos Rodrigues Rocha",
+                    "Patrícia Anselmo Zanotta"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Avaliação de Sistemas de Controle e Sensoriamento para Bombas de Infusão",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Guilherme Kuhn Krause",
+                    "Leonardo da Costa Reichow",
+                    "Diego Caldas Salengue",
+                    "Angelo Piegas Neves",
+                    "Gabriela Melo Devillo",
+                    "Viviane Avila Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Pelotas",
+                "nome": "Sistemas Autônomos e Ubíquos: Estratégias Distribuídas para Consciência do Contexto e Controle",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Adenauer Correa Yamin",
+                    "Lucas Pereira Ferreira",
+                    "Rogerio da Costa Albandes",
+                    "Alexandra Lackmann Zimpeck",
+                    "Matheus Gonçalves Stigger",
+                    "Fernanda Pinto Mota",
+                    "Graciela Barbosa Viana",
+                    "Pedro Abrantes Tavares",
+                    "Daniel Gonçalves Capua"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Pelotas",
+                "nome": "Abordagem Distribuída para Consciência de Situação e Atuação na UBICOMP",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "Cláudio Fernando Resin Geyer",
+                    "Francisco Cesar Campbell Mesquitta",
+                    "Rodrigo Santos de Souza",
+                    "Adenauer Corrêa Yamin",
+                    "Lopes",
+                    "João Ladislau Barbará",
+                    "Fleischmann",
+                    "Ana Marilza Pernas",
+                    "Gizele Ingrid Gadotti",
+                    "Luthiano Rodrigues Venecian",
+                    "Marcia Zechlinski Gusmão",
+                    "Caue Duarte",
+                    "Ânderson dos Santos Ritta",
+                    "Otavio Real Salvador"
+                ],
+                "financiador": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL,"
+            },
+            {
+                "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG",
+                "nome": "SIGPLUS - Avaliação Automatizada de Energia em Ensaios SPT",
+                "periodo": "2026",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Renato Rodrigues de Souza",
+                    "ISABELE REMEDIOS DOS SANTOS",
+                    "Vagner Santos da Rosa",
+                    "Adriano Welasqui Werhli",
+                    "André Prisco Vargas",
+                    "Rodrigo Dias Fagundes",
+                    "Fabiano Sandrini Moraes",
+                    "Alice Tissot Garcia Pintanel",
+                    "Luan Bianchi Penha",
+                    "Mathias Leitzke",
+                    "Miguel da Silva Martins"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SOUZA",
+                    "software": "A. R. R., MESQUITTA, F. C. C., KRAUSE, G. K., SALENGUE, D. C., SmartTouch - Bomba de Infusão Volumétrica Inteligente com Protocolo DERS",
+                    "ano": "2015",
+                    "finalidade": "Dispositivo médico utilizado para a administração controlada e precisa de líquidos diretamente na corrente sanguínea do paciente."
+                },
+                {
+                    "autor": "SOUZA",
+                    "software": "A. R. R., NEVES, A. P., MESQUITTA, F. C. C., KRAUSE, G. K., Lifeview - Central de Monitorização",
+                    "ano": "2015",
+                    "finalidade": "Monitorameto remoto de dados de bombas de infusão e monitores multiparâmetro."
+                },
+                {
+                    "autor": "SOUZA",
+                    "software": "A. R. R., MESQUITTA, F. C. C., KRAUSE, G. K., SALENGUE, D. C., LF Smart - Bomba de Infusão Volumétrica",
+                    "ano": "2010",
+                    "finalidade": "Dispositivo médico utilizado para a administração controlada e precisa de líquidos diretamente na corrente sanguínea do paciente.."
+                },
+                {
+                    "autor": "SOUZA",
+                    "software": "A. R. R., Coletor de dados para medições de consumo de água, energia elétrica e gás",
+                    "ano": "2005",
+                    "finalidade": "Hardware com microcontrolador Microchip PIC e"
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUZA",
+                    "titulo": "A. R. R.,  Doutores e Mestres em Empresas",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "A. R. R.,  O Profissional de Gerenciamento de Projetos",
+                    "ano": "2013",
+                    "instituicao_promotora": "UFPel."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Programação em Linguagem C",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Arduino",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Programação em Linguagem C",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Edição de textos científicos com LaTeX",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  REICHOW, L. C.,  Gestão da Inovação - Gerenciamento de Projetos",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Mapas Mentais e Gerenciamento de Escopo em Tempo em Projetos",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Mapas Mentais e Gerenciamento de Escopo em Tempo em Projetos",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "A. R. R.,  Linguagem de Programação Turbo Pascal 5.5",
+                    "ano": "1994"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALBANDES, ROGÉRIO",
+                "titulo": "SOUZA, ALEXANDRE;  LAMBRECHT, RODRIGO;  PIEPER, LEANDRO;  BARCELLOS, FRANKLIN;  YAMIN, ADENAUER;  IoT Peritoneal Dialysis: an approach exploring remote patient monitoring",
+                "ano": "2024",
+                "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE). ISBN: 16784804   ."
+            },
+            {
+                "autores": "LOPES, J. L. B.",
+                "titulo": "SOUZA, A. R. R.;  JUNIOR, D. M.;  SOUZA, R. S.;  PERNAS, ANA MARILZA;  YAMIN, A. C.;  GEYER, C. F. R.;  A situation-aware ubiquitous approach for assessing therapeutic goals in hospital environment",
+                "ano": "2014",
+                "periodico": "Journal of Applied Computing Research. ISBN: 22368434   ."
+            },
+            {
+                "autores": "RODRIGUES, S.",
+                "titulo": "VENECIAN, L.;  SOUZA, A. R. R.;  LOPES, J. L. B.;  YAMIN, Adenauer Correa;  GEYER, C. F. R.;  Uma Proposta Baseada em Processamento Semântico para Consciência do Contexto na Medicina Ubíqua",
+                "ano": "2012",
+                "periodico": "Revista do CCEI. ISBN: 14152061   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Souza, Alexandre Renato Rodrigues de",
+                "titulo": "Ferreira, Fabrício Neitzke; LAMBRECHT, RODRIGO BLANKE; Reichow, Leonardo Costa; REISER, RENATA HAX SANDER; YAMIN, Adenauer Correa; Avaliando Métodos de Aprendizado de Máquina na Concepção de uma Abordagem para Predição Antecipada do Risco de Mortalidade em UTIs",
+                "evento": "Seminário Integrado de Software e Hardware",
+                "local": "Brasil",
+                "ano": "2022"
+            },
+            {
+                "autores": "ALBANDES, ROGÉRIO",
+                "titulo": "SOUZA, ALEXANDRE; LAMBRECHT, RODRIGO; BARCELLOS, FRANKLIN; YAMIN, ADENAUER; IoT EWS: Uma Abordagem Explorando Monitoramento Remoto de Pacientes na Internet das Coisas",
+                "evento": "Simpósio Brasileiro de Computação Ubíqua e Pervasiva",
+                "local": "Brasil",
+                "ano": "2022"
+            },
+            {
+                "autores": "ALBANDES, ROGÉRIO",
+                "titulo": "SOUZA, ALEXANDRE; LAMBRECHT, RODRIGO; BARCELLOS, FRANKLIN; YAMIN, ADENAUER; IoT Diálise Peritoneal: Uma Abordagem Explorando o Monitoramento Remoto de Pacientes",
+                "evento": "Seminário Integrado de Software e Hardware",
+                "local": "Brasil",
+                "ano": "2022"
+            },
+            {
+                "autores": "FERREIRA, F. N.",
+                "titulo": "GRUENDEMANN, F",
+                "evento": "; BARBOSA",
+                "local": "J. L. V.; SOUZA, A. R. R.; YAMIN, Adenauer Correa; AGOSTINI, L. V.; Controlling Alerts in Intravenous Devices: Some Results Exploring Bayesian Networks. XXXIV Simpósio Sul de Microeletrônica (EMICRO/SIM), Pelotas",
+                "ano": "2019"
+            },
+            {
+                "autores": "FERREIRA, FABRÍCIO",
+                "titulo": "YAMIN, ADENAUER; PERNAS, ANA; AGOSTINI, LUCIANO; DE SOUZA, ALEXANDRE; BARBOSA, JORGE; IPBN",
+                "evento": "the 34th ACM/SIGAPP Symposium",
+                "local": "Limassol",
+                "ano": "2019"
+            },
+            {
+                "autores": "ALBUQUERQUE, L. D.",
+                "titulo": "SANTOS, C",
+                "evento": "S. S.; MARTINS",
+                "local": "D. S.; SOUZA, A. R. R.; Transmissor IoT para Deficientes Visuais. III Mostra de Ensino, Pesquisa e Extensão do Instituto Federal de Ed ucação Ciência e Tecnologia do Rio Grande do Sul - Campus Rio Grande (MEPERG), Rio Grande",
+                "ano": "2019"
+            },
+            {
+                "autores": "LAMOTTE, E. G.",
+                "titulo": "ROSA, L",
+                "evento": "E.; DU",
+                "local": "L. I.; SOUZA, A. R. R.; Pulseira Inteligente de Monitoramento e Auxílio de Idosos (PIMAI). II Mostra de Ensino, Pesquisa e Extensão do Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul - Campus Rio Grande (MEPERG 2018), Rio Grande",
+                "ano": "2018"
+            },
+            {
+                "autores": "COSTA, H.",
+                "titulo": "SOUZA, L",
+                "evento": "; DZIEKANIAK",
+                "local": "M.; SOUZA, A. R. R.; Cooler Automatizado para Transporte de Órgãos (CATO). 16a Mostra da Produção Universitária - MPU, Rio Grande",
+                "ano": "2017"
+            },
+            {
+                "autores": "LOPES, JOAO",
+                "titulo": "SOUZA, RODRIGO; GEYER, CLAUDIO; SOUZA, ALEXANDRE; DAVET, PATRICIA; PERNAS, ANA; YAMIN, ADENAUER; A situation-aware pervasive approach for assessing therapeutic goals in healthcare environment",
+                "evento": "the 31st Annual ACM Symposium",
+                "local": "Pisa",
+                "ano": "2016"
+            },
+            {
+                "autores": "URRUTH, N.",
+                "titulo": "COZZA, G",
+                "evento": "; ALEGRE",
+                "local": "Y.; SOUZA, A. R. R.; MARC: Microestacao Automatizada de Reaproveitamento de Celulose. 15a Mostra da Produção Universitária - MPU, Rio Grande",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOUZA, A. R. R.",
+                "titulo": "LOPES, J",
+                "evento": "L. B.; JOAO",
+                "local": "L.; DAVET, P.; SOUZA, R.; PERNAS, A. M.; YAMIN, Adenauer Correa; GEYER, C. F. R.; Avaliação de Metas Terapêuticas: Uma Proposta de Arquitetura Direcionada à UbiComp. Workshop de Informática Médica (15º WIM), Recife/PE",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOUZA, R.",
+                "titulo": "LOPES, J",
+                "evento": "L. B.; SOUZA",
+                "local": "A. R. R.; DAVET, P.; PERNAS, A. M.; YAMIN, Adenauer Correa; GEYER, C. F. R.; Uma Arquitetura Distribuída para Internet das Coisas na Medicina Ubíqua. Seminário Integrado de Software e Hardware, Recife, PE - Brasil",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOUZA, A. R. R.",
+                "titulo": "MESQUITTA, F",
+                "evento": "C. C.; LOPES",
+                "local": "J. L. B.; SOUZA, R.; PERNAS, A. M.; YAMIN, Adenauer Correa; GEYER, C. F. R.; Uma Abordagem Ubíqua Consciente de Situação para Avaliação de Metas Terapêuticas em Ambiente Hospitalar. Simpósio Brasileiro de Computação Ubíqua e Pervasiva, Brasília",
+                "ano": "2014"
+            },
+            {
+                "autores": "LOPES, J. L. B.",
+                "titulo": "SOUZA, R",
+                "evento": "; SOUZA",
+                "local": "A. R. R.; DAVET, P.; PERNAS, A. M.; YAMIN, A.; GEYER, C. F. R.; Uma Abordagem Autonômica Baseada em Regras para Consciência de Situação na Computação Ubíqua. Simpósio em Sistemas Computacionais, Porto de Galinhas",
+                "ano": "2013"
+            },
+            {
+                "autores": "LOPES, JOÃO",
+                "titulo": "YAMIN, ADENAUER; GEYER, CLAUDIO; GUSMAO, MARCIA; SOUZA, RODRIGO; DAVET, PATRICIA; SOUZA, ALEXANDRE; COSTA, CRISTIANO; BARBOSA, JORGE; PERNAS, ANA; Towards a distributed architecture for context-aware mobile applications in UbiComp",
+                "evento": "the 19th Brazilian symposium",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "LOPES, J. L. B.",
+                "titulo": "GADOTTI, G",
+                "evento": "; DAVET",
+                "local": "P.; SOUZA, A. R. R.; SOUZA, R.; PERNAS, A. M.; YAMIN, Adenauer Correa; GEYER, C. F. R.; Consciência de Situação na Ubicomp: Um Estudo de Caso Aplicado à Análise de Sementes. Congresso Brasileiro de Agroinformática, Cuiabá",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOUZA, A. R. R.",
+                "titulo": "MESQUITTA, F",
+                "evento": "C. C.; KRAUSE",
+                "local": "G. K.; YAMIN, Adenauer Correa; EXEHDA-TG - Qualificac&#807;a&#771;o das Metas Terape&#770;uticas: Uma Abordagem Ubi&#769;qua Consciente de Situac&#807;a&#771;o. Encontro de Po&#769;s-Graduac&#807;a&#771;o (ENPOS), Pelotas",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOUZA, A. R. R.",
+                "titulo": "MESQUITTA, F",
+                "evento": "C. C.; KRAUSE",
+                "local": "G. K.; YAMIN, Adenauer Correa; Qualificação das metas terapêuticas: uma abordagem ubíqua consciente de situação. Salão Universitário UCPel, Pelotas",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Allan Nogueira, Carlos Junior, Pablo Gonzales",
+                "titulo": "Sistema de Automação para Gestão de Umidade do Solo",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Gabriel Timm, Júlia Rocha, Marina Carvalho",
+                "titulo": "Sistema para Monitoramento da Qualidade na Distribuição em Redes de Energia",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Dener da Silva Garcia",
+                "titulo": "Semáforo Acessível para Deficientes Visuais",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Yuri da Rosa Barbosa",
+                "titulo": "Empresa Nuntws Tecnologia LTDA.",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Emilly Ropke Kerstner",
+                "titulo": "[Supervisor]",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Manuela Peres Vieira",
+                "titulo": "[Supervisor]",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Isabele Remedios dos Santos",
+                "titulo": "[Supervisor]",
+                "ano": "2025",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Felipe Rodrigues, Luan Santos, Samuel Campos",
+                "titulo": "Sistema de Irrigação em Uma Casa Inteligente",
+                "ano": "2024",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Adriano Ferreira Maiato, Thalles Tierry Lopes Teixeira",
+                "titulo": "Automação de Luminária Automatizada",
+                "ano": "2024",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Ana Flávia Delgado Reis",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Julie Anne Edelma dos Santos Froés",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Lisliê de Mello Vianna",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Ana Flávia Reis",
+                "titulo": "Projeto de Bolsa de Monitoria de Ensino da disciplina de Eletrônica Básica",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Hiago Moraes Martins",
+                "titulo": "Projeto de Bolsa de Monitoria de Ensino da disciplina de Eletrônica Industrial",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Letícia das Neves Correa",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Felipe Huszcza Machado",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Letícia Morales Lehn",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Mariana de Souza Oliveira",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Rafael Huszcza Machado",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Kauã Ortiz Silveira",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Matheus Silveira Santos",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Murilo Rodrigues da Costa",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Murilo Bastos Huber",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Douglas Rodrigues Coelho",
+                "titulo": "Skate Elétrico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Gabriel Costa Coelho, Thiago Merladeti Machado",
+                "titulo": "Braço Robótico com Gripper Universal",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Clarisse Santos, Lucas Albuquerque, Maria Eduarda da Silva",
+                "titulo": "Transmissor IoT para Cegos",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Adryan Chaves Copello",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2019",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Emilly Gomes Lamotte, Larissa Ereno da Rosa, Lucas Isoldi Du",
+                "titulo": "PIMAI - Pulseira Inteligente de Monitoramento e Auxílio de Idosos (TCC)",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Igor Duarte Bottero, Jéssica Silva Dias",
+                "titulo": "Iluminação Inteligente (TCC)",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Bruno Brechane, Christian Torres, Rafael Almeida",
+                "titulo": "Cooler Automatizado para Transporte de Órgãos (TCC)",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Hérika Coelho Mano",
+                "titulo": "Projeto de Bolsa de Monitoria de Ensino da disciplina de Eletrônica Industrial",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Hiago Moraes Martins",
+                "titulo": "Projeto de Bolsa de Monitoria de Ensino da disciplina de Eletrônica Básica",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Igor Duarte Bottero",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Pamela de Moraes Alves Rodrigues",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Mikael das Neves Farias",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Luan de Werk Formolo",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2018",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Hábny Barros Costa, Lethiéle Santos Souza, Mario Dziekaniak",
+                "titulo": "Coletor Automatizado para Transporte de Órgãos (TCC)",
+                "ano": "2017",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Alex Souza Junior, Aline Bilhalva, Gabriel Ferreira Alves",
+                "titulo": "Dispositivo para Monitoramento de Sinais Vitais (TCC)",
+                "ano": "2017",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Priscila Machado Amaro",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2017",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Lethiéle Santos de Souza",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2017",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Gianluca Coelho Cozza, Nicolas Soares Urruth, Yan Costa Aleg",
+                "titulo": "Microestação Automatizada de Reaproveitamento de Celulose (TCC)",
+                "ano": "2016",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Angelica Lima da Rosa",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2016",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Liane Lemos de Araujo",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2016",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Yan Costa Alegre",
+                "titulo": "Estágio obrigatório de curso técnico",
+                "ano": "2016",
+                "curso": "Automação Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Pedro Carvalho Santos Martinez",
+                "titulo": "Medidor Eletrônico de Energia Elétrica com Acesso Remoto",
+                "ano": "2014",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Maurício Fiss Rodrigues",
+                "titulo": "Monitor de Movimento Respiratório e Posicional e Posicional para Recém-Nascidos",
+                "ano": "2014",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Gerson Fehlberg",
+                "titulo": "Sistema de Monitoramento Remoto de Usina de Produção de Oxigênio",
+                "ano": "2012",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Fernando Balbé Chagas",
+                "titulo": "Software para Gerenciamento de Cargas em Baterias",
+                "ano": "2011",
+                "curso": "Engenharia Elétrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Anderson da Silva Martins",
+                "titulo": "Módulo para Controle de Motor de Passo por Micropassos",
+                "ano": "2010",
+                "curso": "Engenharia Elétrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Gessy Helena Schwanz de Sousa",
+                "titulo": "Módulo de Gerenciamento de Carga de Baterias",
+                "ano": "2010",
+                "curso": "Engenharia Elétrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Guilherme Kuhn Krause",
+                "titulo": "Fresadora CNC para Prototipação de Placas de Circuito Impresso",
+                "ano": "2010",
+                "curso": "Engenharia Elétrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            },
+            {
+                "orientando": "Rafael Schmidt",
+                "titulo": "RealSolid - Sistema de Desenho e Impressão Tridimensional de Objetos Sólidos",
+                "ano": "2010",
+                "curso": "Engenharia Elétrônica",
+                "instituicao": "Universidade Católica de Pelotas"
+            }
+        ]
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -111,22 +112,6 @@
             },
             {
                 "instituicao": "Universidade Federal de Ouro Preto",
-                "nome": "EducaMinasVR - Plataforma de Realidade Virtual como Interface de Qualificação Rumo à Educação 4.0 de Qualidade no Estado de Minas Gerais",
-                "periodo": "2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Daniela Costa Terra",
-                    "Saul Emanuel Delabrida Silva",
-                    "Rone Ilídio da Silva",
-                    "Reinaldo Silva Fortes",
-                    "Andrea Gomes Campos Bianchi",
-                    "RODRIGO GERALDO RIBEIRO",
-                    "SÉRGIO DE OLIVEIRA",
-                    "EDUARDO SARQUIS SOARES"
-                ]
-            },
-            {
-                "instituicao": "Universidade Federal de Ouro Preto",
                 "nome": "Aprendizagem de máquina na investigação de células cervicais",
                 "periodo": "2022",
                 "natureza": "Pesquisa",
@@ -140,6 +125,22 @@
                     "Débora Nasser Diniz",
                     "Rafael Alves Bonfim de Queiroz",
                     "Breno Nunes de Sena Keller"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "EducaMinasVR - Plataforma de Realidade Virtual como Interface de Qualificação Rumo à Educação 4.0 de Qualidade no Estado de Minas Gerais",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Daniela Costa Terra",
+                    "Saul Emanuel Delabrida Silva",
+                    "Rone Ilídio da Silva",
+                    "Reinaldo Silva Fortes",
+                    "Andrea Gomes Campos Bianchi",
+                    "RODRIGO GERALDO RIBEIRO",
+                    "SÉRGIO DE OLIVEIRA",
+                    "EDUARDO SARQUIS SOARES"
                 ]
             },
             {
@@ -423,12 +424,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.0354873351752758,
-            "indian": 0.03652304410934448,
-            "black": 0.0021367024164646864,
-            "white": 90.47786712646484,
-            "middle eastern": 4.614159107208252,
-            "latino hispanic": 4.833831787109375
+            "asian": 0.002807261422276497,
+            "indian": 0.0034041833132505417,
+            "black": 8.250896644312888e-05,
+            "white": 97.20088195800781,
+            "middle eastern": 1.4955192804336548,
+            "latino hispanic": 1.2972921133041382
         }
     }
 }

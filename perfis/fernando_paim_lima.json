@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -136,18 +137,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias",
-                "periodo": "2017 - 2018",
-                "natureza": "Desenvolvimento.",
-                "equipe": [
-                    "Fernando Paim Lima",
-                    "Manoel Pereira Júnior",
-                    "Juliana de Sousa Ribeiro",
-                    "Francisco de Sousa Júnior"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Semáforo Inteligente para Controle de Fluxo Mediante Detecção de Presença",
                 "periodo": "2017 - 2018",
                 "natureza": "Desenvolvimento",
@@ -177,6 +166,18 @@
                 "equipe": [
                     "Fernando Paim Lima",
                     "Paloma Maira de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias",
+                "periodo": "2017 - 2018",
+                "natureza": "Desenvolvimento.",
+                "equipe": [
+                    "Fernando Paim Lima",
+                    "Manoel Pereira Júnior",
+                    "Juliana de Sousa Ribeiro",
+                    "Francisco de Sousa Júnior"
                 ]
             },
             {
@@ -711,12 +712,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.041020724922418594,
-            "indian": 0.04082806035876274,
-            "black": 0.006266161799430847,
-            "white": 91.61270904541016,
-            "middle eastern": 3.2855520248413086,
-            "latino hispanic": 5.0136213302612305
+            "asian": 0.005984005052596331,
+            "indian": 0.011080603115260601,
+            "black": 0.0011473651975393295,
+            "white": 95.72879028320312,
+            "middle eastern": 1.646109938621521,
+            "latino hispanic": 2.6068906784057617
         }
     }
 }

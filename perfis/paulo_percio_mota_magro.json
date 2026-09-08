@@ -1,0 +1,308 @@
+{
+    "campus": "- Campus Ceilândia",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "ENGENHARIA DE SISTEMAS ELETRÔNICOS E DE AUTOMAÇÃO",
+                "periodo": "2013 - 2017",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "Bimodal hybrid control of rigid-body attitude based on unit quaternions",
+                "orientador": "João Yoshiyuki Ishihara"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1991 - 1995",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "titulo": "Diagnóstico de falhas em um subsistema protótipo de produção de uma plataforma utilizando SDG",
+                "orientador": "Amit Bhaya"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Consultoria em Internet",
+                "periodo": "2000 - 2000",
+                "instituicao": "Faculdades Associadas de São Paulo",
+                "orientador": "Andréa de Souza Almeida"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "periodo": "2001 - 2002",
+                "instituicao": "Universidade de São Paulo",
+                "orientador": "Vivian Bastos Dias"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Eletrônica",
+                "periodo": "1986 - 1990",
+                "instituicao": "Universidade Federal do Rio de Janeiro"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Presys Instrumentos e Sistemas Ltda",
+                "periodo": "1993 - 2012",
+                "cargo": "Engenheiro sênior, Celetista formal."
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "periodo": "1988 - 1991",
+                "cargo": "Estagiário, Estagiário."
+            },
+            {
+                "empresa": "Universidade de Brasília",
+                "periodo": "2013 - 2017",
+                "cargo": "aluno, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "periodo": "2022 - 2024",
+                "cargo": "Coordenador de curso, Servidor público, Curso Técnico em Equipamentos Biomédicos subsequente ao Ensio Médio, portaria 644/2022 - RIFB/IFBRASILIA, de 20 de julho de 2022.."
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "periodo": "2018",
+                "cargo": "Professor de Ensino Técnico e Tecnológico, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Brasília\nEnsino-medio (2018) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Capacitação de pessoas com deficiência (paraplégicos e tetraplégicos) na área de tecnologia",
+                "periodo": "2020 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Paulo Percio Mota Magro",
+                    "Paulo Henrique Sales Wanderley",
+                    "Alessandro Pinheiro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Supervisão de débito urinário em pacientes internados em Unidade de Terapia Intensiva",
+                "periodo": "2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo Percio Mota Magro"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "NOGUEIRA",
+                    "software": "J. W. S.,  MAGRO, PAULO PERCIO MOTA,  Magro, M. C. S.,  SEPSE GAME PARA A ENFERMAGEM",
+                    "ano": "2025",
+                    "finalidade": "Facilitar o aprendizado do protocolo de Sepse.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025004324-4."
+                },
+                {
+                    "autor": "MAGRO",
+                    "software": "P. P. M.,  Parecer_Paper 532 - SBAI 2015",
+                    "ano": "2015",
+                    "finalidade": "Apresentação do trabalho no SBAI 2015."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MAGRO",
+                    "titulo": "P. P. M.,  KUSSABA, H. T. M.,  FIGUEREDO, L. F. C.,  ISHIHARA, J. Y.,  Dual quaternion-based bimodal global control for robust rigid body pose kinematic stabilization",
+                    "ano": "2017",
+                    "instituicao_promotora": "American Automatic Control Council - AACC."
+                },
+                {
+                    "autores": "MAGRO",
+                    "titulo": "P. P. M.,  ISHIHARA, J. Y.,  FERREIRA, H. C.,  Controle híbrido robusto e global de atitude de um corpo rígido usando quatérnions unitários",
+                    "ano": "2016",
+                    "instituicao_promotora": "Faculdade de Tecnologia - UnB."
+                },
+                {
+                    "autores": "MAGRO",
+                    "titulo": "P. P. M.,  ISHIHARA, J. Y.,  FERREIRA, H. C.,  Controle híbrido robusto e global de atitude de um corpo rígido usando quatérnions unitários",
+                    "ano": "2015",
+                    "instituicao_promotora": "UFRN."
+                },
+                {
+                    "autores": "MAGRO",
+                    "titulo": "P. P. M.,  ISHIHARA, J. Y.,  FERREIRA, H. C.,  Controle híbrido robusto e global de atitude de um corpo rígido usando quatérnions unitários",
+                    "ano": "2015",
+                    "instituicao_promotora": "Faculdade de Tecnologia - UnB."
+                },
+                {
+                    "autores": "MENEGAZ",
+                    "titulo": "H. M. T.,  ISHIHARA, J. Y.,  MAGRO, P. P. M.,  Unscented Kalman filter for attitude estimation of satellites",
+                    "ano": "2015",
+                    "instituicao_promotora": "UFRN."
+                },
+                {
+                    "autores": "Magro",
+                    "titulo": "M. C. S.,  VATTIMO, M. F. F.,  MAGRO, P. P. M.,  Cystatin C and RIFLE: advances in the evaluation of the renal function in postoperative period of heart surgery",
+                    "ano": "2009",
+                    "instituicao_promotora": "International Society of Nephrology."
+                },
+                {
+                    "autores": "Magro",
+                    "titulo": "M. C. S.,  VATTIMO, M. F. F.,  MAGRO, P. P. M.,  Cistatina C e Rifle: avanços na avaliação da função renal no período de pós-operatório da cirurgia cardíaca",
+                    "ano": "2008",
+                    "instituicao_promotora": "SBN - Sociedade Brasileira de Nefrologia."
+                },
+                {
+                    "autores": "Magro",
+                    "titulo": "M. C. S.,  VATTIMO, M. F. F.,  MAGRO, P. P. M.,  RIFLE sensibility in the acute kidney injury (AKI) after heart surgery",
+                    "ano": "2007",
+                    "instituicao_promotora": "ISN - International Society of Nephrology."
+                },
+                {
+                    "autores": "PETKOVIC",
+                    "titulo": "S. G.,  QUELHAS, K. N.,  SANTOS, P. R. F.,  ANTUNES, A. R. S.,  MAGRO, P. P. M.,  NUNES, V. G.,  Termômetro digital programável para termopares de platina na faixa de 0° C a 1100 °C",
+                    "ano": "2005",
+                    "instituicao_promotora": "REMESP - Rede Metrológica do Estado de São Paulo."
+                },
+                {
+                    "autores": "MAGRO",
+                    "titulo": "P. P. M.,  BHAYA, A.,  KASKUREWICZ, E.,  Detecção e diagnóstico de falhas no subsistema protótipo de produção de uma plataforma utilizando",
+                    "ano": "1993",
+                    "instituicao_promotora": "ABIQUIM - Associação Brasileira da Indústria Química e de Produtos Derivados."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ROCHA, JOÃO MARCOS SANTOS",
+                "titulo": "DUARTE, TAYSE TÂMARA DA PAIXÃO;  IPOLITO, MICHELLE ZAMPIERI;  SANTOS, WALTERLÂNIA SILVA;  MAGRO, PAULO PERCIO MOTA;  MAGRO, MARCIA CRISTINA DA SILVA;  Impacto do suporte ventilatório mecânico invasivo na função renal de pacientes críticos",
+                "ano": "2026",
+                "periodico": "REVISTA DA ESCOLA DE ENFERMAGEM DA USP. ISBN: 1980220X   ."
+            },
+            {
+                "autores": "PEREIRA, SUSI CRISTALINO",
+                "titulo": "PIRES, MIKAEL LUCAS ANJO;  MAGRO, PAULO PERCIO MOTA;  DUARTE, TAYSE TÂMARA DA PAIXÃO;  MAGRO, MARCIA CRISTINA DA SILVA;  Efeito de estratégias ativas de ensino no julgamento clínico interprofissional: quase-experimento",
+                "ano": "2025",
+                "periodico": "REVISTA BRASILEIRA DE ENFERMAGEM. ISBN: 19840446   ."
+            },
+            {
+                "autores": "REIS, ABRAÃO ALVES DOS",
+                "titulo": "DUARTE, TAYSE TÂMARA DA PAIXÃO;  IPOLITO, MICHELLE ZAMPIERI;  SILVA, KAMILLA GRASIELLE NUNES DA;  MAGRO, PAULO PERCIO MOTA;  SILVA MAGRO, MARCIA CRISTINA DA;  Impact of prognostic scores on acute kidney injury assessment in the postoperative period of myocardial revascularization",
+                "ano": "2025",
+                "periodico": "REVISTA DA ESCOLA DE ENFERMAGEM DA USP. ISBN: 1980220X   ."
+            },
+            {
+                "autores": "PAIVA, ALBERTO AUGUSTO MARTINS",
+                "titulo": "MAGRO, MARCIA CRISTINA DA SILVA;  MAGRO, PAULO PERCIO MOTA;  DUARTE, TAYSE TAMARA DA PAIXÃO;  Impacto da recuperação renal na mortalidade intra e pós alta hospitalar",
+                "ano": "2023",
+                "periodico": "REVISTA DA ESCOLA DE ENFERMAGEM DA USP. ISBN: 1980220X   ."
+            },
+            {
+                "autores": "MAGRO, PAULO P. M.",
+                "titulo": "KUSSABA, HUGO TADASHI M.;  ISHIHARA, JOÃO YOSHIYUKI;  Robust global distributed attitude control for multiple rigid bodies using a hybrid controller",
+                "ano": "2020",
+                "periodico": "INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE. ISBN: 00207721   ."
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "ISHIHARA, J. Y.;  Robust global bimodal rest-to-rest attitude control of rigid body using unit quaternion",
+                "ano": "2017",
+                "periodico": "JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS. ISBN: 00160032   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "KUSSABA, H",
+                "evento": "T. M.; FIGUEREDO",
+                "local": "L. F. C.; ISHIHARA, J. Y.; Dual quaternion-based bimodal global control for robust rigid body pose kinematic stabilization. 2017 American Control Conference, Seattle, WA, USA",
+                "ano": "2017"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "ISHIHARA, J",
+                "evento": "Y.; FERREIRA",
+                "local": "H. C.; Controle híbrido robusto e global de atitude de um corpo rígido usando quatérnions unitários. XII Simpósio Brasileiro de Automação Inteligente - SBAI2015, Natal - RN",
+                "ano": "2015"
+            },
+            {
+                "autores": "MENEGAZ, H. M. T.",
+                "titulo": "ISHIHARA, J",
+                "evento": "Y.; MAGRO",
+                "local": "P. P. M.; Unscented Kalman filter for attitude estimation of satellites. XII Simpósio Brasileiro de Automação Inteligente - SBAI2015, Natal - RN",
+                "ano": "2015"
+            },
+            {
+                "autores": "Magro, M. C. S.",
+                "titulo": "MAGRO, P",
+                "evento": "P. M.; VATTIMO",
+                "local": "M. F. F.; Cystatin C and RIFLE: advances in the evaluation of the renal function in postoperative period of heart surgery. World Congress of Nephrology 2009, Milão",
+                "ano": "2009"
+            },
+            {
+                "autores": "Magro, M. C. S.",
+                "titulo": "VATTIMO, M",
+                "evento": "F. F.; MAGRO",
+                "local": "P. P. M.; Cistatina C e Rifle: avanços na avaliação da função renal no período de pós-operatório da cirurgia cardíaca. XXIV Congresso Brasileiro de Nefrologia, Curitiba",
+                "ano": "2008"
+            },
+            {
+                "autores": "PETKOVIC, S. G.",
+                "titulo": "QUELHAS, K",
+                "evento": "N.; SANTOS",
+                "local": "P. R. F.; ANTUNES, A. R. S.; MAGRO, P. P. M.; NUNES, V. G.; Termômetro digital programável para termopares de platina na faixa de 0° C a 1100 °C. ENQUALAB-2005 Encontro para a Qualidade de Laboratórios, São Paulo",
+                "ano": "2005"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "BHAYA, A",
+                "evento": "; KASKUREWICZ",
+                "local": "E.; Detecção e diagnóstico de falhas no subsistema protótipo de produção de uma plataforma utilizando &quot;Signed Directed Graph (SDG)&quot;. I Congresso de Equipamentos e Automação da Indústria Química e Petroquímica, São Paulo",
+                "ano": "1993"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "Dias, A",
+                "evento": "C. D.; SIDCON - Sistema de Identificação e Controle. V Congresso Latino-americano de Controle Automático",
+                "local": "Havana",
+                "ano": "1992"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "Dias, A",
+                "evento": "C. D.; Placa Digitalizadora. IX Congresso de Iniciação Científica e Tecnológica em Engenharia",
+                "local": "São Carlos",
+                "ano": "1990"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "Dias, A",
+                "evento": "C. D.; QUEIROZ",
+                "local": "J. D.; PASCAL-SD - Uma Linguagem para Processamento Paralelo. VIII Congresso de Iniciação Científica e Tecnológica em Engenharia, São Carlos",
+                "ano": "1989"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "Dias, A",
+                "evento": "C. D.; QUEIROZ",
+                "local": "J. D.; Um Ambiente para Processamento Paralelo. VII Congresso de Iniciação Científica e Tecnológica em Engenharia, São Carlos",
+                "ano": "1988"
+            },
+            {
+                "autores": "MAGRO, P. P. M.",
+                "titulo": "Dias, A",
+                "evento": "C. D.; Fenômeno de Gibbs",
+                "local": "uma Aplicação para Circuitos. VII Congresso de Iniciação Científica e Tecnológica em Engenharia, São Carlos",
+                "ano": "1988"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

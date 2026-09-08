@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Betim",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -91,8 +92,8 @@
                 "periodo": "2009 - 2010",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Virgil Del Duca Almeida",
-                    "José Marcos S. Nogueira"
+                    "José Marcos S. Nogueira",
+                    "Virgil Del Duca Almeida"
                 ]
             },
             {
@@ -101,8 +102,8 @@
                 "periodo": "2014 - 2015",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Virgil Del Duca Almeida",
                     "Lenadro Freitas de Abreu",
+                    "Virgil Del Duca Almeida",
                     "Reginaldo Vagner Ferreira",
                     "Flávio Magno de Carvalho Fonseca.",
                     "Gabriel Peixoto Guimarães Ubirajara e Silva.",
@@ -191,6 +192,17 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Jogos no desenvolvimento cognitivo de jovens e idosos",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Virgil Del Duca Almeida",
+                    "Daniele Marques Ferreira",
+                    "Vitor Samuel Pereira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Projeto de Ensino - OBR",
                 "periodo": "2018 - 2018",
                 "natureza": "Ensino",
@@ -209,17 +221,6 @@
                 "equipe": [
                     "Virgil Del Duca Almeida",
                     "Bruno de Souza Baptista"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Jogos no desenvolvimento cognitivo de jovens e idosos",
-                "periodo": "2018 - 2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniele Marques Ferreira",
-                    "Vitor Samuel Pereira",
-                    "Virgil Del Duca Almeida"
                 ]
             },
             {
@@ -247,10 +248,10 @@
                 "periodo": "2019 - 2019",
                 "natureza": "Ensino",
                 "equipe": [
-                    "Maurício Monteiro da Silva",
                     "Virgil Del Duca Almeida",
                     "Michelle Mendes Santos",
-                    "Victor Alves Silva e Melo"
+                    "Victor Alves Silva e Melo",
+                    "Maurício Monteiro da Silva"
                 ]
             },
             {
@@ -259,9 +260,9 @@
                 "periodo": "2023 - 2023",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "VALÉRIO SILVA ALMEIDA",
                     "Virgil Del Duca Almeida",
-                    "HÉLIO LUIZ SIMONETTI"
+                    "HÉLIO LUIZ SIMONETTI",
+                    "VALÉRIO SILVA ALMEIDA"
                 ]
             },
             {
@@ -917,12 +918,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.007044803351163864,
-            "indian": 0.10036004334688187,
-            "black": 0.0009018465643748641,
-            "white": 86.90746307373047,
-            "middle eastern": 9.324507713317871,
-            "latino hispanic": 3.659719228744507
+            "asian": 0.015622502192854881,
+            "indian": 0.1256486028432846,
+            "black": 0.0026342107448726892,
+            "white": 86.01931762695312,
+            "middle eastern": 7.160273551940918,
+            "latino hispanic": 6.676499843597412
         }
     }
 }

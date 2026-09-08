@@ -1,0 +1,437 @@
+{
+    "campus": "- Campus Rio de Janeiro",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Informação",
+                "periodo": "2017",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "orientador": "Lena Vania Pinheiro"
+            },
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissional em Computação Aplicada",
+                "periodo": "2009 - 2012",
+                "instituicao": "Universidade Estadual do Ceará",
+                "titulo": "Mapeamento de Possíveis Vulnerabilidades em Nuvens Públicas com Uso de Ontologias no contexto IaaS",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnológo em Processamento de Dados",
+                "periodo": "1990 - 1993",
+                "instituicao": "Faculdades Integradas Anglo Americano"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Pará",
+                "periodo": "2006 - 2008",
+                "cargo": "Professor Temporário, Professor Subistituto."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "periodo": "2005 - 2007",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "HLM - Centro de Formação Profissional",
+                "periodo": "2003 - 2004",
+                "cargo": "Professora de Informática, Contrato, Elaboração, pesquisa e padronização do material didático utilizado nas filiais da empresa. Treinamento de novos professores. Orientação e encaminhamento dos alunos ao mercado de trabalho.."
+            },
+            {
+                "empresa": "Jornal Valor Economico",
+                "periodo": "2001 - 2002",
+                "cargo": "Analista de Suporte, Prestadora de Serviços, Responsável pelo setor de tecnologia da Sucursal do Rio de Janeiro do Jornal Valor Economico. Suporte as usuários. Gerenciamento e manutenção das contas dos usuários. Monitoramento do link de dados. Administração de estações de trabalho via VNC. Configuração e administração do servidor de anti-vírus. Rotinas de Segurança.."
+            },
+            {
+                "empresa": "Site Informática",
+                "periodo": "2000 - 2001",
+                "cargo": "Analista de Suporte, Prestadora de Serviço."
+            },
+            {
+                "empresa": "Sistema PH de Ensino",
+                "periodo": "1998 - 2000",
+                "cargo": "Analista de Suporte."
+            },
+            {
+                "empresa": "Marinha do Brasil",
+                "periodo": "1988 - 1997",
+                "cargo": "Militar."
+            },
+            {
+                "empresa": "Caixa de Assist. dos Funcionários do Banco do Nordeste",
+                "periodo": "2008 - 2011",
+                "cargo": "Auditor de Sistemas e Segurança da Informação, Funcionário, Responsável pelo Projeto de implantação da Política de Segurança da Informação da empresa. Em conformidade com as Normas ABNT NBR ISO 27001 e 27002. Análise de Riscos e criação do Plano de Continuidade do Negócio (PCN).."
+            },
+            {
+                "empresa": "Faculdade de Ciências Tecnológicas de Fortaleza",
+                "periodo": "2009 - 2009",
+                "cargo": "Professor, Professor."
+            },
+            {
+                "empresa": "Instituto Federal do Ceará",
+                "periodo": "2011",
+                "cargo": "Professor do Ensino Básico Téc. Tecnológico, Professora da Área de Gêrencia de Redes e Segurança da Informação."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2017",
+                "cargo": "Coordenação do Curso MSI, DOU nº 94 de 18 de maio de 2017, pág. 25. Portaria nº 479 de 25 de Abril de 2017.."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal do Ceará\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO CEARÁ (2011) : Coordenadora Do Curso De Tecnologia Em Redes De Computadores.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO CEARÁ (2012): Segurança da Informação, Segurança em Redes, Computação Forense,",
+        "ensino": ": Instituto Federal do Ceará\nGraduacao (2011) - Redes De Computadores.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal do Ceará",
+                "nome": "Política de Segurança da Informação: Implantação e Estratégias de Monitoramento Contínuo",
+                "periodo": "2011",
+                "natureza": "Outra",
+                "equipe": [
+                    "Rita de Cássia Cordeiro de Castro",
+                    "Luiza Domingos Araújo",
+                    "Antonia Glaucivânia Pereira Luz"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Desmitificando a Deep Web",
+                "periodo": "2014 - 2015",
+                "natureza": "Outra",
+                "equipe": [
+                    "Rita de Cássia Cordeiro de Castro",
+                    "Rafael Holanda da Silva",
+                    "Raiane Paiva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Aprendizado de Máquina: Aplicações ao nosso alcance",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rita de Cássia Cordeiro de Castro"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  Segurança de Redes e Sistemas",
+                    "ano": "2016",
+                    "instituicao_promotora": "IFRJ - Campus Rio de Janeiro."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  As Ameaças Persistentes Avançadas e os novos Paradigmas da Segurança da Informação no Cenário Global",
+                    "ano": "2015",
+                    "instituicao_promotora": "IFCE Campus Canindé."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  ROCHA, K. C. B.,  PAIVAA, R. L.,  POLONIO, A. P.,  SILVA, R. H.,  Desmitificando a Deep Web",
+                    "ano": "2015",
+                    "instituicao_promotora": "IFPE."
+                },
+                {
+                    "autores": "CUNHA",
+                    "titulo": "I. K. B.,  CASTRO, R. C. C.,  Gestão de Segurança da Informação em Ambiente BYOD: Um Mecanismo de Apoio baseado nas boas práticas ITIL",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade Federal de Santa Maria."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  Segurança da Informação em Ambientes Corporativos",
+                    "ano": "2013",
+                    "instituicao_promotora": "Faculdade Católica Rainha do Sertão."
+                },
+                {
+                    "autores": "CRUZ",
+                    "titulo": "J.A.B,  CASTRO, R. C. C.,  Araújo, A. R. S.,  CyberWar: Protegendo as Infraestruturas de Artefatos Maliciosos",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "Araújo",
+                    "titulo": "A. R. S.,  CASTRO, R. C. C.,  Computação Forense: Classificação dos procedimentos periciais em dispositivos móveis com Android",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "ARAUJO",
+                    "titulo": "L. D.,  CASTRO, R. C. C.,  Gestão de Riscos de Segurança da Informação: Desafios do Uso de Dispositivos Móveis no Ambiente Corporativo",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  LUZ, A. G. P.,  Taxonomia do Cibercrime no Contexto da Legislação Vigente",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  ARAUJO, L. D.,  LUZ, A. G. P.,  Gestão de Vulnerabilidades em Cloud Computing: Um Cenário da Nuvem Pública",
+                    "ano": "2012",
+                    "instituicao_promotora": "InfoBrasil TI & Telecom."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  Gestão da Segurança da Informação em Ambientes Corporativos - Fraudes e Ameaças",
+                    "ano": "2011",
+                    "instituicao_promotora": "Companhia Energética do Ceará - COELCE."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "R. C. C.,  PIMENTEL DE SOUSA, Veronica Lima,  Segurança em Cloud Computing: Governança e Gerenciamento de Riscos de Segurança",
+                    "ano": "2010",
+                    "instituicao_promotora": "InfoBrasil TI e Telecom."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CASTRO",
+                    "curso": "R. C. C.,  Redes sem fio domésticas - Como evitar invasões e manter a sua segura",
+                    "ano": "2015"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "Cavalcanti",
+                    "evento": "M. C. B.,  ALBAGLI, S.,  CASTRO, R. C. C.,  1º Simpósio Internacional Network Science / IV Seminário Big Data Brasil",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CRIE-COPPE/UFRJ e IBICT."
+                },
+                {
+                    "autores": "CASTRO",
+                    "evento": "R. C. C.,  SOUSA, A. C. G.,,  VASCONCELOS, R.F.,,  IV Mostra de Trabalhos Acadêmicos do IFCE - Campus Canindé",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFCE - Campus Canindé."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "CASTRO, R. C. C.",
+                "titulo": "Computação Forense e Testes de Inavsão",
+                "ano": "2021",
+                "informacoes_adicionais": "Varios. ISBN: 9786556638522, Indaial (Publicado)."
+            },
+            {
+                "autores": "CASTRO, R. C. C.",
+                "titulo": "CUNHA, J. A.;  ALVES, J. A. C.;  MORAES, L. S.;  SALDANHA, G. S.;  CORREA, G. B.;  Informação na Sociedade Contemporânea",
+                "ano": "2020",
+                "informacoes_adicionais": "Impresso. ISBN: 9786587264059, Florianópolis (Organizado(a))."
+            },
+            {
+                "autores": "SILVA, H. C.",
+                "titulo": "CASTRO, R. C. C.;  GOMES, M. J. N.;  GARCIA, A. S.;  Well-Founded IT Architecture Ontology: An Approach from a Service Continuity Perspective. Título do capítulo: Well-Founded IT Architecture Ontology: An Approach from a Service Continuity Perspective",
+                "ano": "2012",
+                "informacoes_adicionais": "ISBN: 9783642305672, Berlin, Heidelberg."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "CASTRO, R. C. C.",
+                "titulo": "SILVA, H. C.;  GARCIA, A. S.;  GOMES, M. J. N.;  Mapping of Vulnerabilities in the Public Cloud with the use of Foundational Ontology: A Perspective for Service IaaS",
+                "ano": "2012",
+                "periodico": "Journal of Information Security Research. ISBN: 09764143   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MAGALHAES, V. R. V.",
+                "titulo": "CASTRO, R",
+                "evento": "C. C.; SILVA",
+                "local": "F. A. G.; SANTOS, F. E. G.; MARQUES, J. A. F.; O uso do Big Data na violação da privacidade dos usuários para estratégias de negócios. III Encontro Regional de Computação e Sistemas de Informação, Manaus",
+                "ano": "2014"
+            },
+            {
+                "autores": "LOPES, K. D.",
+                "titulo": "CASTRO, R",
+                "evento": "C. C.; Pentest em ambientes de computação em nuvem: Proposta de Checklist para planejamento e preparação. III Encontro Regional de Computação e Sistemas de Informação",
+                "local": "Manaus",
+                "ano": "2014"
+            },
+            {
+                "autores": "CUNHA, I. K. B.",
+                "titulo": "CASTRO, R",
+                "evento": "C. C.; Uma análise holistica dos riscos da adesão do BYOD dentro do ambiente corporativo. III Encontro Regional de Computação e Sistemas de Informação",
+                "local": "Manaus",
+                "ano": "2014"
+            },
+            {
+                "autores": "CUNHA, I. K. B.",
+                "titulo": "CASTRO, R",
+                "evento": "C. C.; Gestão de Segurança da Informação em Ambiente BYOD: Um Mecanismo de Apoio baseado nas boas práticas ITIL. V Encontro Anual de Tecnologia da Informação - EATI",
+                "local": "Frederico Westphalen",
+                "ano": "2014"
+            },
+            {
+                "autores": "CASTRO, R. C. C.",
+                "titulo": "ARAUJO, L",
+                "evento": "D.; Uma proposta de gestão de riscos de segurança da informação para uso de dispositivos móveis no ambiente corporativo. VIII Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "Araújo, A. R. S.",
+                "titulo": "CASTRO, R",
+                "evento": "C. C.; Cyberwar: Protegendo as Infraestruturas de artefatos maliciosos. VIII Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "Araújo, A. R. S.",
+                "titulo": "CASTRO, R",
+                "evento": "C. C.; Computação Forense: Classificação dos procedimentos periciais em dispositivos móveis com Android. VIII Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "CASTRO, R. C. C.",
+                "titulo": "LUZ, A",
+                "evento": "G. P.; Taxonomia do Cibercrime no contexto da legislação vigente. VIII Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "CASTRO, R. C. C.",
+                "titulo": "SILVA, H",
+                "evento": "C.; GARCIA",
+                "local": "A. S.; GOMES, M. J. N.; Mapping of Vulnerabilities in the public cloud with the use of foundational ontology: A perspective for Service IAAS. Seventh Internacional Conference on Digital Information Management (ICDIM), Macau",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "MARCOS JAMILSON RAMOS ARAÚJO",
+                "titulo": "INCLUSÃO E LETRAMENTO DIGITAL: UM OLHAR SOBRE AS PRÁTICAS E ABORDAGENS EDUCACIONAIS",
+                "ano": "2025",
+                "curso": "ESPECIALIZAÇÃO EM INFORMÁTICA APLICADA À EDUCAÇÃO",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Ilane Karise Barbosa Cunha",
+                "titulo": "Uma Análise Holística dos Riscos de adesão do BYOD dentro do Ambiente Corporativo",
+                "ano": "2014",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Vitória Régia Viana Magalhães",
+                "titulo": "Uso do Big Data: Violação da Privacidade dos Usuários para Estratégias de Negócios",
+                "ano": "2014",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Raimundo Rogério Sales Sousa",
+                "titulo": "Proposta de Cartilha de Política de Segurança para Dispositivos Móveis em Ambientes Coorporativos",
+                "ano": "2014",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Francisco Marcelo Gomes da Silva",
+                "titulo": "Engenharia Social: Técnicas de Abordagens em Redes Sociais",
+                "ano": "2014",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Kelvin Dias Lopes",
+                "titulo": "Pentest em Ambientes de Computação em Nuvem: Proposta de um Checklist para planejamento e preparação",
+                "ano": "2014",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "José Adeilson Bezerra Cruz",
+                "titulo": "Cyberwar: Protegendo as Infraestruturas de Artefatos Maliciosos",
+                "ano": "2013",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará Campus Canindé"
+            },
+            {
+                "orientando": "Antonia Glaucivânia Pereira Luz",
+                "titulo": "Taxonomia do Cibercrime no Contexto da Legislação Vigente",
+                "ano": "2013",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Luiza Domingos Araújo",
+                "titulo": "Gestão de Riscos de Segurança da Informação: Desafios do Uso de Dispositivos Móveis no Ambiente Corporativo",
+                "ano": "2013",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Antonia Raiane Santos Araújo",
+                "titulo": "Computação Forense: Classificação dos Procedimentos Periciais em Dispositivos Móveis com Android",
+                "ano": "2013",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal do Ceará - Campus Canindé"
+            },
+            {
+                "orientando": "Clenilson A",
+                "titulo": "Gonçalves e Ester Paixão Correa.  Projeto de Implantação de um Link para a Interligação entre o Campus I e o Campus II da UFPA em Marabá",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "Francisco A",
+                "titulo": "C. de Oliveira e Rosemarck Patrick Pombo.  Estudo da Tecnologia de Radiofrequencia nos enlaces de dados que utilizam o padrão 802.11 do IEEE - Estudo de Caso Casa Goiás materiais de Construção",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "Glauber Rocha Martins",
+                "titulo": "Estudo da utilização da Tecnologia PLC - Power Line Communication na comunicação de dados no Brasil",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "Alexsandro Araújo de Lima",
+                "titulo": "Modelagem de Ferramenta para a Coleta de Dados na Camada Física para Auxílio em Projetos de Implantação de Redes sem Fio Padrão 802.11",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Universidade Federal do Pará"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "indian",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 10.842663764953613,
+            "indian": 31.268346786499023,
+            "black": 9.720014572143555,
+            "white": 8.48307991027832,
+            "middle eastern": 8.863581657409668,
+            "latino hispanic": 30.822315216064453
+        }
+    }
+}

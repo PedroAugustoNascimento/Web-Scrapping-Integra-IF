@@ -1,0 +1,112 @@
+{
+    "campus": "- Campus Manaus Centro",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Produção",
+                "periodo": "2014 - 2015",
+                "instituicao": "Universidade do Minho",
+                "titulo": "Desenvolvimento de uma aplicação informática para a criação de Diagramas de Identificação de Desperdícios",
+                "orientador": "José Dinis de Araújo Carvalho"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "ANALISE DE SISTEMAS",
+                "periodo": "1990 - 1992",
+                "instituicao": "Centro Universitário FECAP"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Processamento de Dados",
+                "periodo": "1987 - 1990",
+                "instituicao": "Universidade de Taubaté"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2002",
+                "cargo": "PROFESSOR, PROFESSOR DE ENSINO BÁSICO, TÉCNICO E TECNOLO."
+            },
+            {
+                "empresa": "Instituto Don Adalberto Marzi - IDAM",
+                "periodo": "2008",
+                "cargo": "Analista de Sistemas, Desenvolvimento, Manutenção e suporte a sistemas de informação.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  Sistema de Apoio ao Processo de Solitação/Entrega de Bens/Serviços",
+                    "ano": "2009",
+                    "finalidade": "Apoio ao Processo de Solitação e Entrega de Bens ou Serviços."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA ATEND",
+                    "ano": "2007",
+                    "finalidade": "Apoio organizacional aos restaurantes populares administrados pelo Governo do Estado do Amazonas."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA BORUN",
+                    "ano": "2006",
+                    "finalidade": "Sistema para arquivamento de imagens em banco de dados."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA DE FATURAMENTO",
+                    "ano": "1995",
+                    "finalidade": "Emissão de N,F., Boleto Bancário."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA DE FATURAMENTO E DUPLICATA",
+                    "ano": "1994",
+                    "finalidade": "Emissão de N,F. e Duplicata."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jonathas da Silva Pessoa",
+                "titulo": "Sistema Analisador de Dióxido de Nitrogenio SANO2",
+                "ano": "2007",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.8980870246887207,
+            "indian": 6.787408351898193,
+            "black": 0.5119915008544922,
+            "white": 29.864728927612305,
+            "middle eastern": 41.62995910644531,
+            "latino hispanic": 19.307828903198242
+        }
+    }
+}

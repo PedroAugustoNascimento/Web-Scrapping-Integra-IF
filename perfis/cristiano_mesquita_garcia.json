@@ -1,0 +1,872 @@
+{
+    "campus": "- Câmpus Caçador",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "periodo": "2021 - 2025",
+                "instituicao": "Pontifícia Universidade Católica do Paraná",
+                "titulo": "Concept Drift Adaptation for SentenceBERT Models in Text Stream Classification Settings",
+                "orientador": "Jean Paul Barddal"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Sistemas e Automação",
+                "periodo": "2017 - 2018",
+                "instituicao": "Universidade Federal de Lavras",
+                "titulo": "Incremental Missing Data Imputation via Modified Granular Evolving Fuzzy Model",
+                "orientador": "Daniel Furtado Leite"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Tecnologias Para Aplicações Web",
+                "periodo": "2015 - 2016",
+                "instituicao": "Universidade Norte do Paraná"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2010 - 2015",
+                "instituicao": "Universidade Federal de Lavras"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Informática",
+                "periodo": "2019 - 2020",
+                "instituicao": "Centro Universitário Leonardo da Vinci"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnólogo em Big Data e Inteligência Analítica",
+                "periodo": "2020 - 2022",
+                "instituicao": "Centro Universitário Leonardo da Vinci"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2014 - 2019",
+                "cargo": "Técnico em Tecnologia da Informação, Servidor público, Como principal projeto desenvolvido até agora, trabalhei com 2 colegas no desenvolvimento de um conjunto de Webservices, no qual viemos unindo esforços desde a fase de projeto. Os objetivos desse conjunto de webservices são, entre outros, efetivamente integrar alguns de muitos sistemas rodando no ambiente da Ufla, facilitar detecção e correção de erros, bem como sua manutenção. Também está sendo desenvolvido uma interface Web para facilitar o monitoramento e a gerência do sistema todo que envolve os WS's. Atualmente, trabalho na integração de sistemas de informação, criando scripts, sistemas web, desenvolvendo Web Services e gerenciando dados. Também desenvolvo sistemas web para suporte de outras atividades na Universidade, como por exemplo sistema de controle de cartões institucionais. Tais sistemas foram desenvolvidos usando PHP, CodeIgniter e Twitter Bootstrap, e MySQL como banco de dados. Principais tecnologias utilizadas até o momento: PHP5, SOAP, CodeIgniter 2, Twitter Bootstrap 3, jQuery 2.x, HighCharts, MySQL 5, AngularJS.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2011 - 2012",
+                "cargo": "Voluntário de Iniciação Científica, Bolsista."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2010 - 2011",
+                "cargo": "Monitor (Algoritmos e Estruturas de Dados I), Bolsista, Totalizadas 543 horas de monitoria de Algoritmos e Estruturas de Dados I."
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+                "periodo": "2012 - 2013",
+                "cargo": "Bolsista Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Genno Alarmes",
+                "periodo": "2008 - 2008",
+                "cargo": "Auxiliar Técnico de Eletrônica, CLT, Realizou testes e manutenção em equipamentos eletrônicos, tais como eletrificadores de cerca, sensores sem fio, controles remotos, alarmes.."
+            },
+            {
+                "empresa": "Genno Alarmes",
+                "periodo": "2007 - 2008",
+                "cargo": "Estagiário, Estagiário, Realizou testes e manutenção em equipamentos eletrônicos, tais como eletrificadores de cerca, sensores sem fio, controles remotos, alarmes.."
+            },
+            {
+                "empresa": "Sensotron Eletrônica Ltda.",
+                "periodo": "2008 - 2009",
+                "cargo": "Auxiliar Técnico de Eletrônica, CLT, Trabalhou como técnico de processos, testando e calibrando equipamentos de teste.."
+            },
+            {
+                "empresa": "Omnilink Tecnologia S/A",
+                "periodo": "2009 - 2010",
+                "cargo": "Auxiliar Técnico de Eletrônica, CLT."
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "periodo": "2013 - 2014",
+                "cargo": "Bolsista Ciência sem Fronteiras - Hungria, Bolsista, Foi bolsista durante 11 meses, sendo 10 semanas respectivo a curso de Inglês, 9 meses relacionados à 2 semestres de aulas. O curso de Inglês foi realizado na Budapest University of Technology and Engineering. Os semestres de aula foram realizados na Budapest Business School.."
+            },
+            {
+                "empresa": "Evolving Systems",
+                "periodo": "2018",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "INFORMATION SCIENCES",
+                "periodo": "2018",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2019",
+                "cargo": "Professor EBTT - Informática, Servidor público."
+            },
+            {
+                "empresa": "JOURNAL OF INTELLIGENT & FUZZY SYSTEMS",
+                "periodo": "2021",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "REVISTA TÉCNICO-CIENTÍFICA (IFSC)",
+                "periodo": "2021",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica do Paraná",
+                "periodo": "2023 - 2025",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Campus Caçador (2021 - 2021) : > Substituição Da Coordenação Do Bacharelado Em Sistemas De Informação.\nInstituto Federal de Santa Catarina - Campus Caçador (2021 - 2022) : > Assessoria Da Direção De Ensino, Pesquisa E Extensão.",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2026) - Sistemas De Informação.\nEnsino-medio (2026) .\nEnsino-medio (2026) .\nGraduacao (2025 - 2025) - Sistemas De Informação.\nEnsino-medio (2025 - 2025) .\nGraduacao (2025 - 2025) - Sistemas De Informação.\nGraduacao (2022 - 2022) - Sistemas De Informação.\nOutro (2022 - 2022) .\nOutro (2021 - 2021) .\nGraduacao (2021 - 2021) - Sistemas De Informação.\nGraduacao (2021 - 2021) - Sistemas De Informação.\nGraduacao (2021 - 2021) - Engenharia De Produção.\nOutro (2020 - 2020) .\nGraduacao (2020 - 2021) - Sistemas De Informação.\nGraduacao (2020 - 2020) - Sistemas De Informação.\nGraduacao (2019 - 2019) - Sistemas De Informação.\nEnsino-medio (2019 - 2019) .",
+        "comissoes": ": Instituto Federal de Santa Catarina\n> Membro Do Grupo De Trabalho Para Organização Da Semana Acadêmica De Sistemas De Informação (2021 - 2021).\nChefe De Laboratórios 2213, 1003 E 1008 (2019 - 2022).\nMembro Do Núcleo De Educação À Distância (nead) (2019 - 2022).\nMembro Do Núcleo Docente Estruturante Do Curso Bacharelado Em Sistemas De Informação (2019 - 2022).\nMembro Do Colegiado Do Curso De Bacharelado Em Sistemas De Informação (2019 - 2022).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Desenvolvimento de Algoritmos para Extração e Desambiguação de Citações Bibliográficas",
+                "periodo": "2011 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "Denilson Alves Pereira",
+                    "Eduardo Petrini"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Explorando Raspberry Pi em Sistemas Distribuídos e Redes",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "ADEMIR GOULART",
+                    "JESSICA DUARTE"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Explorando Raspberry Pi em Inteligência Artificial e Big Data",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "Bruno Mazzotti",
+                    "Vinicius Bortolini",
+                    "ADEMIR GOULART"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Saúde 4.0 - Aplicação de Técnicas de Inteligência Artificial para a Triagem de Pacientes",
+                "periodo": "2020 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "SAMUEL S. FEITOSA",
+                    "Bryan Breno Pires de Morais",
+                    "Leila Zanatta",
+                    "Fernanda Norbak Dalla Cort",
+                    "Rafael Cendron",
+                    "Laura Vivan Gonçalves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Minicursos, oficinas, palestras e eventos na área de Sistemas de Informação na região de Caçador ? Ano 2021",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Anthony Cruz",
+                    "Henrique Fantin",
+                    "Robson Venturin",
+                    "Lucas de Mattos",
+                    "Cristiano Mesquita Garcia",
+                    "Vinicius Bortolini",
+                    "SAMUEL S. FEITOSA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistemas de Informação e sua aplicação na região de Caçador ? Ano 2021",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "Vinicius Bortolini",
+                    "SAMUEL S. FEITOSA",
+                    "Anthony Cruz",
+                    "Milena Cristina França",
+                    "Henrique Fantin",
+                    "Robson Venturin",
+                    "Lucas de Mattos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "I Datathon de Big Data e Data Analytics do IFSC Caçador - 2025",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "Ramon Abílio",
+                    "PAULO Roberto Córdova",
+                    "Bruno Mazzotti",
+                    "ADEMIR GOULART",
+                    "Eduardo Camargo Ribeiro Borges",
+                    "Gabriel f. bino",
+                    "Laura Vivan Gonçalves",
+                    "Eduardo Guedes Villar",
+                    "BRUNO YUITI LEAO IMAI",
+                    "Guilherme Cauduro Scholl",
+                    "Matheus Henrique Eger",
+                    "Ricardo Augusto Franco",
+                    "Sérgio Henrique Preiss",
+                    "joao vitor trindade lopes",
+                    "Raphael Pereira Gomes",
+                    "Taylor Luiz Meira Lima",
+                    "Guilherme Augusto Levecke",
+                    "Rafael Lima Dalmagro",
+                    "Felipe Souza Rocha",
+                    "Nicolas Matheus Beckert dos Santos Ramos",
+                    "Eduarda Hartkopt",
+                    "Marcio Moreno Nunes",
+                    "Eduardo Gustavo da Silva Rodrigues"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "I Ciclo de Estudos Avançados em Tecnologias Computacionais - CEATEC",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "Eduardo Guedes Villar",
+                    "Ricardo Augusto Franco",
+                    "taynara cerigueli dutra",
+                    "paolo targioni",
+                    "luzitania dall agnol",
+                    "talita estefani zunino santana",
+                    "william cesar tome"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Banda de música popular do IFSC Caçador",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "Gabriel Hermann Negri",
+                    "alex sandro matos de oliveira",
+                    "clarianne natali de campos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "AQUINO: Um sistema ide aprendizagem colaborativa baseado em Agentes Morais Artificiais",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "Rosa Maria Vicari",
+                    "taynara cerigueli dutra",
+                    "geovana oliveira de sousa",
+                    "Luis Fernando Weber"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Coral do IFSC Caçador - Edição 2025",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "ALICE FELISBINO GOLIN",
+                    "Gabriel Hermann Negri",
+                    "ester hasse",
+                    "luzitania dall agnol",
+                    "edmar dionizio",
+                    "patricia frangelli bugallo lopes",
+                    "jeferson schneider carletto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto IntegrAÇÃO: Conectando Saberes Técnicos às Demandas Locais",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "taynara cerigueli dutra",
+                    "ricardo de campos",
+                    "renan de brito pitilin",
+                    "adriana salvador zanini"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto Integrador II Curso Técnico Integrado em Informática - Cãmpus Caçador - Edição 2025",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "Eli Lopes da Silva",
+                    "ester hasse",
+                    "janaina stabile soares lenzi",
+                    "nelson maurilio coelho junior",
+                    "rosana trevisol seibt",
+                    "mariana silva hafele"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Coleta de dados meteorológicos usando comunicação LoRa e análise com IA",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "ADEMIR GOULART",
+                    "ester hasse"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema Inteligente para Monitoramento de Vagas de Estacionamento Disponíveis utilizando Aprendizado de Máquina e Visão Computacional",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "joao vitor trindade lopes",
+                    "geovana oliveira de sousa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema baseado em Retrieval-Augmented Generation para Assistência a Estudantes dos Cursos Técnicos Integrados do IFSC, campus Caçador",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "PAULO Roberto Córdova",
+                    "nicole kerin siqueira araujo",
+                    "sofia da silva oliveira",
+                    "victor danese",
+                    "dhavi gustavo scolaro de matos",
+                    "manuela andrade fabichak"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aplicação e Monitoramento de Modelos Inteligentes para auxílio na Redução da Evasão Escolar",
+                "periodo": "2020 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "SAMUEL S. FEITOSA",
+                    "Gabriel f. bino",
+                    "Pablo Miranda",
+                    "Luiz Marcelo Higashi Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aplicação de Técnicas de Aprendizagem de Máquina para Detecção de Fake News",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "SAMUEL S. FEITOSA",
+                    "Eduardo Camargo Borges"
+                ]
+            },
+            {
+                "instituicao": "Pontifícia Universidade Católica do Paraná",
+                "nome": "Uma abordagem de aprendizagem de máquina para previsão de taxas de inadimplência e intenção de recuperação de crédito",
+                "periodo": "2023 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cristiano Mesquita Garcia",
+                    "ALCEU BRITTO JR",
+                    "Jean Paul Barddal",
+                    "BRUNO YUITI LEAO IMAI",
+                    "MÁRCIO VINICIUS ROCHA",
+                    "Luiz Eduardo Soares Oliveira"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LEITE",
+                    "software": "D. F.,  GARCIA, C. M.,  SOARES, E. A.,  SGE-P: Sistemas Granulares Evolutivos para Previsão de Séries Temporais Não-Estacionárias (Matlab-Python: plataforma com variações de algoritmos de aprendizado de máquina incrementais para previsão) v.2018-1 (2011) Disponibilidade restrita",
+                    "ano": "2011",
+                    "finalidade": "Disponibilidade restrita."
+                },
+                {
+                    "autor": "LEITE",
+                    "software": "D. F.,  SOARES, E. A.,  GARCIA, C. M.,  SGE-C: Sistemas Granulares Evolutivos para Classificação de Padrões (Matlab: plataforma com variações de algoritmos de aprendizado de máquina incrementais para clusterização e classificação de padrões) v.2018-1 (2011) Disponibilidade restrita",
+                    "ano": "2011",
+                    "finalidade": "Disponibilidade restrita."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BORGES",
+                    "titulo": "E. C. R.,  FEITOSA, S. S.,  GARCIA, C. M.,  Desenvolvimento de Modelos Inteligentes para Detecção de Fake News",
+                    "ano": "2021",
+                    "instituicao_promotora": "Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação - Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "L. M. H.,  SANTOS, J. C. B.,  FEITOSA, S. S.,  GARCIA, C. M.,  Desenvolvimento de Modelos de Aprendizado de Máquina para Detecção de Potencial de Evasão",
+                    "ano": "2021",
+                    "instituicao_promotora": "Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação - Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "GARCIA",
+                    "titulo": "C. M.,  Imputação Recursiva de Dados Faltantes com Sistema Fuzzy Granular",
+                    "ano": "2018",
+                    "instituicao_promotora": "Departamento de Engenharia - Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "GARCIA",
+                    "titulo": "C. M.,  Imputação de valores faltantes com Fuzzy",
+                    "ano": "2017",
+                    "instituicao_promotora": "Departamento de Engenharia - Universidade Federal de Lavras."
+                },
+                {
+                    "autores": "GARCIA",
+                    "titulo": "C. M.,  Imputação de valores faltantes com Sistemas Fuzzy: Um overview",
+                    "ano": "2017",
+                    "instituicao_promotora": "Departamento de Engenharia - Núcleo de Eletricidade e Automação."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "GARCIA, CRISTIANO MESQUITA",
+                "titulo": "KOERICH, A. L.;  BRITTO JR, A.;  BARDDAL, J. P.;  Methods for Generating Drift in Text Streams",
+                "ano": "2024",
+                "periodico": "ArXiv Quantum Physics e-print. ISBN: 07053010   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SCHOLL, G. C.",
+                "titulo": "SILVA, E",
+                "evento": "L.; MESQUITA GARCIA",
+                "local": "C.; Amar & Gestar: aplicativo para apoio gestacional. Semana Nacional de Ciência e Tecnologia, Caçador",
+                "ano": "2025"
+            },
+            {
+                "autores": "EGER, M. H.",
+                "titulo": "SILVA, E",
+                "evento": "L.; MESQUITA GARCIA",
+                "local": "C.; Desenvolvimento de um Dashboard para Análise de Fundos Imobiliários para Investidores Iniciantes. Semana Nacional de Ciência e Tecnologia, Caçador",
+                "ano": "2025"
+            },
+            {
+                "autores": "PREISS, S. H.",
+                "titulo": "MESQUITA GARCIA, C",
+                "evento": "; CORDOVA",
+                "local": "P. R.; Combate Inteligente ao fogo: Uso de Inteligência Artificial para Detecção de Focos Ativos de Incêndios Florestais.. Seminário de Ensino, Pesquisa e Extensão do IFSC, Palhoça",
+                "ano": "2025"
+            },
+            {
+                "autores": "GOULART, A.",
+                "titulo": "HASSE, E",
+                "evento": "; CORDOVA",
+                "local": "P. R.; GARCIA, CRISTIANO MESQUITA; WEBER, L. F.; Coleta de dados meteorológicos usando comunicação LoRa e análise com IA. Semana Nacional de Ciência e Tecnologia, Caçador",
+                "ano": "2025"
+            },
+            {
+                "autores": "FRANCO, R. A.",
+                "titulo": "SILVA, E",
+                "evento": "L.; GARCIA",
+                "local": "CRISTIANO MESQUITA; Desenvolvimento de guardrails para controle e marcação de mensagens na interação de usuários em sistemas baseados em grandes modelos de linguagem. Semana Nacional de Ciência e Tecnologia, Caçador",
+                "ano": "2025"
+            },
+            {
+                "autores": "IMAI, B. Y. L.",
+                "titulo": "GARCIA, C",
+                "evento": "M.; ROCHA",
+                "local": "M. V.; KOERICH, A. L.; BRITTO JR, A.; BARDDAL, J. P.; Is it Fine to Tune? Evaluating SentenceBERT Fine-tuning for Brazilian Portuguese Text Stream Classification. IEEE Big Data, Washington DC",
+                "ano": "2024"
+            },
+            {
+                "autores": "GARCIA, C. M.",
+                "titulo": "KOERICH, A",
+                "evento": "L.; BRITTO JR",
+                "local": "A.; BARDDAL, J. P.; Improving Sampling Methods for Fine-tuning SentenceBERT in Text Streams. International Conference on Pattern Recognition (ICPR), Kolkota, India",
+                "ano": "2024"
+            },
+            {
+                "autores": "THUMA, B. S.",
+                "titulo": "VARGAS, P",
+                "evento": "S.; GARCIA",
+                "local": "C.; BRITTO JR, A.; BARDDAL, J. P.; Benchmarking Feature Extraction Techniques for Textual Data Stream Classification. International Joint Conference on Neural Networks, Queensland, Australia",
+                "ano": "2023"
+            },
+            {
+                "autores": "REGINATO, V. S. C.",
+                "titulo": "FEITOSA, S",
+                "evento": "S.; GARCIA",
+                "local": "C. M.; ESPINOZA, J. M. A.; BACK, G. B.; Análise De Sintomas E Comorbidades De Infectados Pelo Covid-19 No Estado De Santa Catarina No Primeiro Ano De Pandemia. II Congresso Brasileiro de Estudos Epidemiológicos On-line, Online",
+                "ano": "2023"
+            },
+            {
+                "autores": "REGINATO, V. S. C.",
+                "titulo": "ESPINOZA, J",
+                "evento": "M. A.; FEITOSA",
+                "local": "S. S.; GARCIA, C. M.; BACK, G. B.; Panorama Da Covid-19 No Estado De Santa Catarina (SC) No Primeiro Ano De Pandemia. II Congresso Brasileiro de Estudos Epidemiológicos On-line, Online",
+                "ano": "2023"
+            },
+            {
+                "autores": "GARCIA, C. M.",
+                "titulo": "BRITTO JR, A",
+                "evento": "; BARDDAL",
+                "local": "J. P.; Event-driven Sentiment Drift Analysis in Text Streams: An Application in a Soccer Match. 22nd International Conference on Machine Learning and Applications, Jacksonville, FL, USA",
+                "ano": "2023"
+            },
+            {
+                "autores": "DUARTE, J.",
+                "titulo": "BORGES, E",
+                "evento": "C. R.; FEITOSA",
+                "local": "S. S.; GARCIA, C. M.; Desenvolvimento de um Verificador de Fake News Utilizando Aprendizagem de Máquina. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "MAZZOTTI, B.",
+                "titulo": "ABILIO, R",
+                "evento": "; GOULART",
+                "local": "A.; CORDOVA, P. R.; GARCIA, C. M.; Raspberry Pi e processamento distribuído em Big Data: um Mapeamento Sistemático. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "HAAS, W.",
+                "titulo": "BOHN, J",
+                "evento": "M. E.; FEITOSA",
+                "local": "S. S.; GARCIA, C. M.; Identificação de tentativas de invasão a servidores utilizando aprendizagem de máquina. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "MORAIS, B. B. P.",
+                "titulo": "FEITOSA, S",
+                "evento": "S.; GARCIA",
+                "local": "C. M.; ZANATTA, L.; CORT, F. N. D.; Desenvolvimento de um sistema de classificação de risco usando Inteligência Artificial. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "MURARO, A. F.",
+                "titulo": "ROSA, V",
+                "evento": "S. D.; GARCIA",
+                "local": "C. M.; FEITOSA, S. S.; Modelos Matemáticos no Combate ao COVID-19. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "SANTOS, J. C. B.",
+                "titulo": "FEITOSA, S",
+                "evento": "S.; GARCIA",
+                "local": "C. M.; Desenvolvimento de uma ferramenta para predição de potenciais alunos evasores. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "BORTOLINI, V.",
+                "titulo": "GARCIA, C",
+                "evento": "M.; FEITOSA",
+                "local": "S. S.; Usando aprendizagem de máquina para predição do diagnóstico da COVID-19. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "ABILIO, R.",
+                "titulo": "GARCIA, C",
+                "evento": "; FERNANDES",
+                "local": "V.; Data Mining applied on Web Robots Detection: A Systematic Mapping. XV Brazilian Congress on Computational Intelligence, Joinville-SC / Online",
+                "ano": "2021"
+            },
+            {
+                "autores": "ABILIO, R.",
+                "titulo": "GARCIA, C",
+                "evento": "; FERNANDES",
+                "local": "V.; Estudo de Caso sobre Identificação de Robôs por Softwares de Análise de Logs de Servidores Web. XII CONICT - Congresso de Inovação, Ciência e Tecnologia, Cubatão",
+                "ano": "2021"
+            },
+            {
+                "autores": "FERREIRA, L. M. H.",
+                "titulo": "SANTOS, J",
+                "evento": "C. B.; FEITOSA",
+                "local": "S. S.; GARCIA, C. M.; Desenvolvimento de Modelos de Aprendizado de Máquina para Detecção de Potencial de Evasão. Mostra de Iniciação Científica e Tecnológica do IFSC, Online",
+                "ano": "2021"
+            },
+            {
+                "autores": "BORGES, E. C. R.",
+                "titulo": "FEITOSA, S",
+                "evento": "S.; GARCIA",
+                "local": "C. M.; Desenvolvimento de Modelos Inteligentes para Detecção de Fake News. Mostra de Iniciação Científica e Tecnológica do IFSC, Online",
+                "ano": "2021"
+            },
+            {
+                "autores": "CRUZ, A.",
+                "titulo": "GARCIA, C",
+                "evento": "M.; FEITOSA",
+                "local": "S. S.; Aplicando Deep Learning em Exames Laboratoriais de Sangue. Segundo Congresso Nacional do Contestado, Virtual",
+                "ano": "2021"
+            },
+            {
+                "autores": "MUSSKOPF, B.",
+                "titulo": "SOUZA, F",
+                "evento": "F.; SCHMIDT",
+                "local": "I.; SILVA, L. M.; WOJEICCHOWSKI, N.; ABATTI, N.; SCHINAIDER, J.; GARCIA, C. M.; FEITOSA, S. S.; Latinder: Modernizando Adoções de Animais Pets. Computer on the Beach, Balneário Camboriú",
+                "ano": "2020"
+            },
+            {
+                "autores": "GONCALVES, D.",
+                "titulo": "GARCIA, C",
+                "evento": "; LACERDA",
+                "local": "W.; LEITE, D.; Classificação do Estado dos Olhos via Dados EEG e Redes Neurais Feed-Forward, Recorrente e Evolutiva. 14o Simpósio Brasileiro de Automação Inteligente (SBAI), Ouro Preto",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOARES, E. A.",
+                "titulo": "LEITE, D",
+                "evento": "F.; GARCIA",
+                "local": "C.; Classificadores Não-Supervisionados baseados em Conjuntos Fuzzy e Nuvens de Dados para Detecção de Spam. 14o Simpósio Brasileiro de Automação Inteligente, Ouro Preto",
+                "ano": "2019"
+            },
+            {
+                "autores": "ABILIO, R.",
+                "titulo": "GARCIA, C",
+                "evento": "M.; SILVA",
+                "local": "J. A.; Gradle para Geração de Multi-Aplicativos Móveis: Um Estudo de Caso em uma Universidade. XI Workshop de Tecnologia da Informação e Comunicação das Instituições Federais de Ensino Superior, Recife",
+                "ano": "2017"
+            },
+            {
+                "autores": "GARCIA, C. M.",
+                "titulo": "CATALANO, M",
+                "evento": "D.; SOARES",
+                "local": "E. A.; BARBOSA, B. H. G.; Teaching-Learning-Based Optimization no Treinamento de Redes Neurais Artificiais para Problemas de Classificação. XIII Congresso Brasileiro de Inteligência Computacional, Niterói / RJ",
+                "ano": "2017"
+            },
+            {
+                "autores": "GLORIA, S.",
+                "titulo": "GARCIA, C",
+                "evento": "M.; ABILIO",
+                "local": "R.; MALHEIROS, N.; Acesso a Serviços e Informações Acadêmicas da Universidade Federal de Lavras em Dispositivos Móveis com a Plataforma Android. X Workshop de Tecnologia de Informação e Comunicação das Instituições Federais de Ensino Superior, Gramado, RS",
+                "ano": "2016"
+            },
+            {
+                "autores": "GLORIA, S.",
+                "titulo": "GARCIA, C",
+                "evento": "M.; ABILIO",
+                "local": "R.; MALHEIROS, N.; Um aplicativo para acesso a serviços e informações acadêmicas em dispositivos móveis com a plataforma Android. X Congresso de Extensão da Universidade Federal de Lavras, Lavras",
+                "ano": "2015"
+            },
+            {
+                "autores": "GARCIA, C. M.",
+                "titulo": "PEREIRA, D",
+                "evento": "A.; Desenvolvimento de uma Ferramenta para Extração de Citações Bibliográficas de Documentos. XXV CIUFLA - Congresso de Iniciação Científica da Universidade Federal de Lavras",
+                "local": "Lavras/MG",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "João Victor Arruda Tobias Vieira",
+                "titulo": "Desenvolvimento de um Protótipo para Gestão de Manutenção Industrial utilizando Algoritmos Genéticos",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Luis Gustavo Freitas e Silva",
+                "titulo": "(coorientador) Previsão de demanda utilizando machine learning em uma loja de esportes de pequeno porte",
+                "ano": "2025",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sérgio Henrique dos Santos Preiss",
+                "titulo": "Combate inteligente ao fogo: uso de Inteligência Artificial para detecção de focos ativos de incêndios florestais",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Guilherme Cauduro Scholl",
+                "titulo": "(coorientador) Desenvolvimento de software para auxílio gestacional",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Matheus Henrique Eger",
+                "titulo": "(coorientador) Desenvolvimento de um dashboard para análise de fundos imobiliários para investidores iniciantes",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ricardo Augusto Franco",
+                "titulo": "(coorientador) Desenvolvimento de guardrails para controle e marcação de mensagens na interação de usuários em sistemas baseados em grandes modelos de linguagem",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "João Vitor Trindade",
+                "titulo": "(coorientador) HelpDesk com GPT: Reduzindo a intervenção humana com inteligência artificial.",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Luiz André Zeredo",
+                "titulo": "(coorientador) IFSC-Aliza: Uma aplicação para o Enfrentamento da Evasão Escolar em Instituições Públicas de Ensino com Inteligência Artificial",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Jonathan Sampaio",
+                "titulo": "(cancelado) (coorientador) Comparação De Algoritmos De Aprendizado De Máquina Aplicados A Sistemas De Detecção De Intrusão Em Tempo Real",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Eduardo Camargo Ribeiro Borges",
+                "titulo": "(coorientador) Aplicação e comparação de algoritmos para detecção de fake reviews em português",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Andreia de Fátima Muraro",
+                "titulo": "(coorientador) Segurança da Informação em Organizações que adotam a Cultura BYOD: Um Estudo Sobre a Utilização dos Dispositivos Móveis no Ambiente de Trabalho",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rui Batista dos Santos",
+                "titulo": "(coorientador) Adequação De Pequenas E Médias Empresas À Lei Geral De Proteção De Dados Pessoais Na Região De Caçador/SC: Um Estudo De Caso",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Jonathan Sampaio",
+                "titulo": "(cancelado) Comparação De Algoritmos De Aprendizado De Máquina Aplicados A Sistemas De Detecção De Intrusão Em Tempo Real",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Welinton Haas",
+                "titulo": "(coorientador) Aplicando Modelos de Aprendizado de Máquina Online para Trading no Mercado Financeiro",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Jessé Fernando Bueno",
+                "titulo": "(coorientador) Software Web para Documentação Unifilar da camada física de Redes Ópticas",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ronei Simões Calistro",
+                "titulo": "(coorientador) Modelagem De Software: Um Estudo De Caso Em Uma Empresa De Costura",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Luiz Marcelo Higashi Ferreira",
+                "titulo": "(coorientador) Desenvolvimento E Aplicação De Sistema De Informação Inteligente Para Predição De Evasão Escolar",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Vinicius Bortolini",
+                "titulo": "Usando Aprendizado de Máquina para Predição de Diagnóstico de COVID-19",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Anthony Cruz",
+                "titulo": "(coorientador) Aplicando Deep Learning em Exames Laboratoriais de Sangue",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Julio Cesar Belenke dos Santos",
+                "titulo": "Usando Mineração de Dados para Predição da Evasão Escolar",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Thatijanne Santos Gonzaga de Carvalho Garcia",
+                "titulo": "(coorientador) Impacto Emocional da Pandemia do COVID-19 no Instituto Federal de Santa Catarina (IFSC), Câmpus Caçador",
+                "ano": "2020",
+                "curso": "Interdisciplinaridade em Práticas Pedagógicas",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Jéssica Duarte",
+                "titulo": "(cancelado) Detecção e Classificação de Fake News utilizando Aprendizagem de Máquina (coorientador)",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sara Glória de Souza Araújo",
+                "titulo": "Acesso a Serviços e Informações Acadêmicas da UFLA em Dispositivos Móveis com a Plataforma Android (coorientador)",
+                "ano": "2016",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00011107156024081632,
+            "indian": 0.0007147077703848481,
+            "black": 4.542224633041769e-05,
+            "white": 98.49531555175781,
+            "middle eastern": 0.8379393219947815,
+            "latino hispanic": 0.6658738255500793
+        }
+    }
+}

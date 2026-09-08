@@ -1,0 +1,168 @@
+{
+    "campus": "- Campus Restinga",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Computação Aplicada",
+                "periodo": "2020 - 2024",
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "titulo": "Um modelo multinível para estruturação de informações contidas em evoluções de prontuários escritos em texto livre",
+                "orientador": "Cristiano André da Costa"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "PIPCA",
+                "periodo": "2008 - 2010",
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "titulo": "Global: Um Ambiente Descentralizado para Educação Ubíqua",
+                "orientador": "Jorge Luis Victória Barbosa"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2001 - 2007",
+                "instituicao": "Universidade do Vale do Rio dos Sinos"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Vale do Rio dos Sinos",
+                "periodo": "2008 - 2010",
+                "cargo": "Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Universidade do Vale do Rio dos Sinos",
+                "periodo": "2002 - 2003",
+                "cargo": "Monitor em diversas matérias, Monitor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2017",
+                "cargo": "Professor Efetivo."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "nome": "UbiCampus: Um Modelo para Suporte à Educação Ubíqua",
+                "periodo": "2008 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jezer Machado de Oliveira",
+                    "Jorge Luis Victória Barbosa",
+                    "Solon A Rabello"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Estruturação de prontuário",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jezer Machado de Oliveira"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DE OLIVEIRA, JEZER MACHADO",
+                "titulo": "ANTUNES, RODOLFO STOFFEL;  DA COSTA, CRISTIANO ANDR';  SOAP classifier for free-text clinical notes with domain-specific pre-trained language models",
+                "ano": "2024",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "DE OLIVEIRA, JEZER MACHADO",
+                "titulo": "DA COSTA, CRISTIANO ANDRÉ;  ANTUNES, RODOLFO STOFFEL;  Data structuring of electronic health records: a systematic review",
+                "ano": "2021",
+                "periodico": "HEALTH AND TECHNOLOGY. ISBN: 21907188   ."
+            },
+            {
+                "autores": "BARBOSA, Jorge L. V.",
+                "titulo": "BARBOSA, Débora N. F.;  OLIVEIRA, J. M.;  RABELLO, Solon A;  A Decentralized Infrastructure for Ubiquitous Learning Environments",
+                "ano": "2014",
+                "periodico": "Journal of Universal Computer Science (Print). ISBN: 0948695X   ."
+            },
+            {
+                "autores": "BARBOSA, Jorge L. V.",
+                "titulo": "BARBOSA, Débora N. F.;  RIGO, Sandro J.;  OLIVEIRA, J. M.;  RABELLO, Solon A;  Integrating Collaborative and Decentralized Models to Support Ubiquitous Learning",
+                "ano": "2014",
+                "periodico": "International Journal of Information and Communication Technology Education. ISBN: 15501337   ."
+            },
+            {
+                "autores": "BARBOSA, Jorge L. V.",
+                "titulo": "OLIVEIRA, J. M.;  BARBOSA, Débora N. F.;  RIGO, Sandro J.;  Modelagem Multiagentes de uma Infraestrutura Descentralizada para Aprendizagem Ubíqua",
+                "ano": "2014",
+                "periodico": "RENOTE. Revista Novas Tecnologias na Educação. ISBN: 16791916   ."
+            },
+            {
+                "autores": "RABELLO, Solon A",
+                "titulo": "OLIVEIRA, J. M.;  WAGNER, André;  BARBOSA, Jorge L. V.;  BARBOSA, Débora N. F.;  CoolEdu: a Collaborative Multiagent Model for Decentralized Ubiquitous Education Environments",
+                "ano": "2012",
+                "periodico": "Revista Brasileira de Informática na Educação. ISBN: 14145685   ."
+            },
+            {
+                "autores": "BARBOSA, Jorge L. V.",
+                "titulo": "OLIVEIRA, J. M.;  RABELLO, Solon A;  BARBOSA, Débora N. F.;  Uma Infraestrutura Descentralizada para Ambientes de Aprendizagem Ubíqua",
+                "ano": "2012",
+                "periodico": "Revista Brasileira de Informática na Educação. ISBN: 14145685   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "OLIVEIRA, J. M.",
+                "titulo": "RABELLO, Solon A; BARBOSA, Jorge L",
+                "evento": "V.; Um Modelo Multi-agente Descentralizado para Ambientes de Educação Ubíqua. XX Simpósio Brasileiro de Informática na Educação (SBIE)",
+                "local": "Florianópolis",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Levy Marcelo Goulart Cunha",
+                "titulo": "BEERPOA: SITE DE CERVEJAS ARTESANAIS DA CIDADE DE PORTO ALEGRE",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Cassiane Ribas Da Silva Dos Santos",
+                "titulo": "PONTOTEC: SISTEMA INTELIGENTE DE PONTO ELETRÔNICO",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 5.1135406494140625,
+            "indian": 10.044126510620117,
+            "black": 2.9729089736938477,
+            "white": 21.560327529907227,
+            "middle eastern": 13.901252746582031,
+            "latino hispanic": 46.40784454345703
+        }
+    }
+}

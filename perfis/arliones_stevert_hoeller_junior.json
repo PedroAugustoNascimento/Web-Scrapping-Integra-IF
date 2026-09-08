@@ -1,0 +1,783 @@
+{
+    "campus": "- Câmpus São José",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2017 - 2021",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Performance Analysis and Optimization of Low-Power Wide-Area Networks",
+                "orientador": "Richard Demo Souza"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2004 - 2007",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Gerência do Consumo de Energia Dirigida pela Aplicação em Sistemas Embarcados",
+                "orientador": "Antonio Augusto Medeiros Fröhlich"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciências da Computação",
+                "periodo": "1999 - 2004",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2018 - 2020",
+                "cargo": "Pesquisador Associado, Pesquisador doutorando no Programa de Pós-Graduação em Engenharia Elétrica, atuando junto ao Laboratório de Circuitos e Processamento de Sinais (LINSE).."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2013 - 2016",
+                "cargo": "Pesquisador Associado, Pesquisador Associado ao Laboratório de Integração Software/Hardware (LISHA).."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2010 - 2013",
+                "cargo": "Pesquisador, Bolsista, Atuando como pesquisador no Laboratório de Integração Software/Hardware (LISHA) em projetos relacionados a sistemas embarcados e redes de sensores sem fios.."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2004 - 2007",
+                "cargo": "Pesquisador, Bolsista, Atuando como pesquisador no Laboratório de Integração Software/Hardware (LISHA) em atividades relacionadas ao projeto PDSCE (FINEP), que construiu uma plataforma para o desenvolvimento de sistemas computacionais embarcados. Minha atuação específica foi nas questões relacionadas ao gerenciamento do consumo de energia na plataforma desenvolvida.."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2003 - 2004",
+                "cargo": "Assistente de pesquisa, Bolsista, Atuando no Laboratório de Integração Software/Hardware (LISHA) em atividades relacionadas ao projeto ParaBioInfo (CNPq), que desenvolveu infraestrutura - hardware e software básico para um cluster de computadores - para aplicações de bio-informática. Autação específica no desenvolvimento do subsistema de gerenciamento de memória do sistema operacional do cluster em questão.."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2001 - 2002",
+                "cargo": "Programador Web, Bolsista, Bolsista em projeto desenvolvendo um sistema web colaborativo para suporte a atividades de ensino a distância.."
+            },
+            {
+                "empresa": "Fachhochschule Kiel (University of Applied Sciences Kiel)",
+                "periodo": "2006 - 2006",
+                "cargo": "Pesquisador Visitante, Bolsista, Pesquisador visitante, atuando no Centro de Adaptronics da universidade, sob a tutela do Prof. Dr. Helmut Dispert.."
+            },
+            {
+                "empresa": "Suntech Intelligent Solutions",
+                "periodo": "2007 - 2008",
+                "cargo": "Programador Pleno."
+            },
+            {
+                "empresa": "Automatisa Sistemas",
+                "periodo": "2008 - 2010",
+                "cargo": "Engenheiro de Software."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2013",
+                "cargo": "Professor EBTT DIV-1, Servidor público."
+            },
+            {
+                "empresa": "University of Oulu",
+                "periodo": "2018 - 2020",
+                "cargo": "Pesquisador Visitante, Bolsista, Visiting researcher with the Machine-Type Communications group of the Centre for Wireless Communications, University of Oulu, Finland.."
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
+                "periodo": "2017",
+                "cargo": ", Revisor de projeto de fomento, Consultor ad-hoc em programas/chamadas da FAPESC.."
+            },
+            {
+                "empresa": "IEEE Communications Letters",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico, Revisor ad-hoc.."
+            },
+            {
+                "empresa": "IEEE Internet of Things Journal",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Access",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Transactions on Wireless Communications",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Embedded Systems Letters",
+                "periodo": "2017",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "TELECOMMUNICATION SYSTEMS",
+                "periodo": "2018",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Transactions on Industrial Informatics",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Wireless Communications Letters",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Latin America Transactions",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Wireless Communications",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Power Engineering Letters",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "ACM Transactions on Sensor Networks",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Transactions on Network and Service Management",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Internet Technology Letters",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Faculdade de Tecnologia SENAI Joinville",
+                "periodo": "2022 - 2022",
+                "cargo": "Professor, Consultor esporádico, Unidade Curricular Internet das Coisas para Produtos Inteligentes no curso de pos-graduação lato sensu MBI Indústria 4.0.."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus São José (2023) : Coordenador Do Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas.\nPesquisa e Desenvolvimento\nUNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC (2018): Comunicações Móveis,\nLaboratorio de Integracao Software/Hardware - LISHA (2002 - 2016): Sistemas Operacionais, Sistemas Embarcados, Redes de Sensores sem Fios,\nCenter for Adaptronics (2006 - 2006): Redes de Sensores sem Fios, Sistemas Embarcados,\nInstituto Federal de Santa Catarina - Câmpus São José (2014): Sistemas Embarcados, Sistemas Operacionais, Internet das Coisas, Aprendizado de Máquina e Inteligência Artificial,\nCentre for Wireless Communications - CWC (2018): Performance Analysis of Machine-Type Communication Systems,",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2014) - Engenharia De Telecomunicações.\nEnsino-medio (2013) .\nExtensão Universitária: Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina: Instrutor - Huawei Ict Academy (2021) - Instrutor - Huawei Ict Academy.",
+        "comissoes": ": Instituto Federal de Santa Catarina\nMembro Do Núcleo Docente Estruturante Do Cst Em Análise E Desenvolvimento De Sistemas (2023).\nMembro No Núcleo Docente Estruturante (nde) Do Curso De Engenharia De Telecomunicações (2020 - 2023).\nMembro No Núcleo Docente Estruturante (nde) Do Curso De Engenharia De Telecomunicações (2014 - 2018).\nMembro Do Colegiado Acadêmico Do Curso De Engenharia De Telecomunicações (2014 - 2018).\nMembro Do Colegiado Acadêmico Do Curso Superior De Tecnologia Em Sistemas De Telecomunicações (2014 - 2018).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Identificação automática de símbolos da linguagem de sinais por video",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Thiago Henrique Bonotto da Silva",
+                    "Elton Ferreira Broering",
+                    "Guilherme Evangelista de Albuquerque"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Concepção de Experimentos de Sistemas Embarcados para Disciplinas do Curso de Engenharia de Telecomunicações",
+                "periodo": "2015 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Katharine Schaeffer Fertig"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Plataforma de desenvolvimento de aplicações da Internet das Coisas com tecnologia LoRa",
+                "periodo": "2016 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Leonan da Silva Saraiva"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de infraestrutura de rede para Internet das Coisas com tecnologia LoRaWAN",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Richard Demo Souza",
+                    "Mario de Noronha Neto"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Instalação e manutenção de pontos de acesso outdoor à rede The Things Network",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Mario de Noronha Neto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Codificação Híbrida para Replicação de Mensagens em Redes LoRaWAN",
+                "periodo": "2022 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema inteligente de gestão de alertas para dispositivos IoT em saúde - Fase 1",
+                "periodo": "2023 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "NETO",
+                    "MARIO DE NORONHA",
+                    "Odilson Tadeu Valle",
+                    "João Vitor Rosa Negri",
+                    "Fausto Cristiano",
+                    "Filipi Virgilio",
+                    "Gustavo Paulo",
+                    "Sergio Rohling"
+                ],
+                "financiador": "SENSORWEB SERVICOS DE TECNOLOGIA DA INFORMACAO S/A,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Softex Residência em TIC 08 - Rede 5G IFSC",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Marcelo Maia Sobral",
+                    "Mario de Noronha Neto",
+                    "Rubem Toledo Bergamo",
+                    "Odilson Tadeu Valle"
+                ],
+                "financiador": "Sociedade para Promoção da Excelência do Software Brasileiro,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Ferramenta computacional para detecção, identificação e quantificação de perdas energéticas em usinas fotovoltaicas",
+                "periodo": "2023 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Richard Demo Souza",
+                    "Mario de Noronha Neto",
+                    "SIMÃO",
+                    "TIAGO EDMIR",
+                    "VARELA",
+                    "FERNANDO SANTOS",
+                    "Roberto Wanderley da Nóbrega",
+                    "ROBERTO ALEXANDRE DIAS",
+                    "JACKSON LAGO"
+                ],
+                "financiador": "ENGIE BRASIL ENERGIA S.A,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Análise de sistemas multiagentes com IA generativa para suporte operacional e comercial no setor elétrico brasileiro",
+                "periodo": "2025 - 2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior"
+                ],
+                "financiador": "Associação Brasileira de Pesquisa e Inovação Industrial, Instituto Federal de Santa Catarina, Serviço de Apoio às Micro e Pequenas Empresas de Florianópolis, Enpower Consultoria Ltda,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Levantamento de perfil energético de um módulo de redes de sensores sem fios",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Marcus Vinicius Bunn"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "University of Oulu",
+                "nome": "Modelagem e Análise de Desempenho de Redes de Baixa Potência e Longo Alcance",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Arliones Stevert Hoeller Junior",
+                    "Richard Demo Souza",
+                    "ALVES",
+                    "HIRLEY",
+                    "Matti Latva-Aho"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  SOUZA, R. D.,  Redes de baixa potência e longo alcance para a IoT",
+                    "ano": "2018",
+                    "instituicao_promotora": "Semana Acadêmica de Engenharia Elétrica e Eletrônica da UFSC."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  SOUZA, R. D.,  Low-Power and Long-Range IoT Networks: Performance Analysis of the LoRaWAN Technology",
+                    "ano": "2018",
+                    "instituicao_promotora": "IEEE South Brazil IM09/CAS04/COM19 Technical Chapter."
+                },
+                {
+                    "autores": "NORONHA-NETO",
+                    "titulo": "M.,  HOELLER JR, A.,  Tecnologias de comunicação para a IoT",
+                    "ano": "2016",
+                    "instituicao_promotora": "Associação Catarinense das Empresas de Tecnologia (ACATE)."
+                },
+                {
+                    "autores": "REIS",
+                    "titulo": "J. G.,  FROHLICH, A. A.,  HOELLER JR, A.,  On the FPGA Dynamic Partial Reconfiguration Interference on Real-Time Systems",
+                    "ano": "2015",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  FROHLICH, A. A.,  SmartBuildings as Distributed Embedded Systems",
+                    "ano": "2014",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  OLIVEIRA, P.,  VITOR, M.,  FROHLICH, A. A.,  SmartHome Central: integrating network technologies in smart spaces",
+                    "ano": "2013",
+                    "instituicao_promotora": "Intel/SBC."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "P.,  HOELLER JR, A.,  FROHLICH, A. A.,  Dynamic Adjustment of Transmission Power of Mobile Ad-Hoc Wireless Sensor Networks",
+                    "ano": "2013",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "MEIRA",
+                    "titulo": "G. R. N.,  HOELLER JR, A.,  FRÖHLICH, Antonio Augusto Medeiros,  Real-Time Dynamic Voltage Scaling for the EPOS Operating System",
+                    "ano": "2012",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "FRÖHLICH",
+                    "titulo": "Antonio Augusto Medeiros,  HOELLER JR, A.,  EPOSMote, A Internet das Coisas e os Sistemas Ciber-físicos",
+                    "ano": "2012",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  SLONGO, L. K.,  Research roadmap for power management in computing systems",
+                    "ano": "2012",
+                    "instituicao_promotora": "LISHA."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  FRÖHLICH, Antonio Augusto Medeiros,  On the Monitoring of System-Level Energy Consumption of Battery-Powered Embedded Systems",
+                    "ano": "2011",
+                    "instituicao_promotora": "IEEE."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  FRÖHLICH, Antonio Augusto Medeiros,  Tutorial 2: Wireless Sensor Networks",
+                    "ano": "2011",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "HOELLER JR",
+                    "titulo": "A.,  FRÖHLICH, Antonio Augusto Medeiros,  Construindo redes de sensores sem fio com o EPOS",
+                    "ano": "2011",
+                    "instituicao_promotora": ""
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DE SOUZA SANT?ANA, JEAN MICHEL",
+                "titulo": "NETO, OSVALDO DA SILVA;  HOELLER, ARLIONES;  REBELATTO, JOÃO LUIZ;  SOUZA, RICHARD DEMO;  ALVES, HIRLEY;  Asynchronous Contention Resolution-Aided ALOHA in LR-FHSS Networks",
+                "ano": "2024",
+                "periodico": "IEEE Internet of Things Journal. ISBN: 23274662   ."
+            },
+            {
+                "autores": "SIMÃO, TIAGO EDMIR",
+                "titulo": "VALLE, BRUNO CASTRO;  ROSA, YAGO CASTRO;  VARELA, FERNANDO SANTOS;  HOELLER, ARLIONES;  NETO, MARIO DE NORONHA;  FRIES, CARLOS ERNANI;  SOUZA, RICHARD DEMO;  A Method for the Estimation of Missing Strings in Very-Large-Scale Photovoltaic Power Plants",
+                "ano": "2024",
+                "periodico": "IEEE Journal of Photovoltaics. ISBN: 21563381   ."
+            },
+            {
+                "autores": "DE JESUS, GABRIEL GERMINO MARTINS",
+                "titulo": "SOUZA, RICHARD DEMO;  MONTEZ, CARLOS;  HOELLER, ARLIONES;  LoRaWAN Adaptive Data Rate With Flexible Link Margin",
+                "ano": "2021",
+                "periodico": "IEEE Internet of Things Journal. ISBN: 23274662   ."
+            },
+            {
+                "autores": "DE SOUZA SANT ANA, JEAN MICHEL",
+                "titulo": "Hoeller, Arliones Stevert;  SOUZA, RICHARD DEMO;  MONTEJO-SANCHEZ, SAMUEL;  ALVES, HIRLEY;  DE NORONHA NETO, MARIO;  Hybrid Coded Replication in LoRa Networks",
+                "ano": "2020",
+                "periodico": "IEEE Transactions on Industrial Informatics. ISBN: 19410050   ."
+            },
+            {
+                "autores": "Hoeller,A.",
+                "titulo": "SOUZA, R. D.;  MONTEJO-SANCHEZ, SAMUEL;  ALVES, HIRLEY;  Performance Analysis of Single-Cell Adaptive Data Rate-Enabled LoRaWAN",
+                "ano": "2020",
+                "periodico": "IEEE Wireless Communications Letters. ISBN: 21622337   ."
+            },
+            {
+                "autores": "SANTRANA, JEAN MICHEL DE SOUZA",
+                "titulo": "HOELLER, ARLIONES;  SOUZA, RICHARD DEMO;  ALVES, HIRLEY;  MONTEJO-SANCHEZ, SAMUEL;  LORA Performance Analysis with Superposed Signal Decoding",
+                "ano": "2020",
+                "periodico": "IEEE Wireless Communications Letters. ISBN: 21622337   ."
+            },
+            {
+                "autores": "MONTEJO-SANCHEZ, SAMUEL",
+                "titulo": "AZURDIA-MEZA, CESAR A.;  SOUZA, RICHARD DEMO;  FERNANDEZ, EVELIO MARTIN GARCIA;  SOTO, ISMAEL;  HOELLER, ARLIONES;  Coded Redundant Message Transmission Schemes for Low-Power Wide Area IoT Applications",
+                "ano": "2019",
+                "periodico": "IEEE Wireless Communications Letters. ISBN: 21622337   ."
+            },
+            {
+                "autores": "HOELLER, ARLIONES",
+                "titulo": "SOUZA, RICHARD DEMO;  ALVES, HIRLEY;  LOPEZ, ONEL L. ALCARAZ;  MONTEJO-SANCHEZ, SAMUEL;  PELLENZ, MARCELO EDUARDO;  Optimum LoRaWAN Configuration Under Wi-SUN Interference",
+                "ano": "2019",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            },
+            {
+                "autores": "IQBAL, JUNNAID",
+                "titulo": "ASAD ULLAH, MUHAMMAD;  HOELLER, ARLIONES;  SOUZA, RICHARD;  ALVES, HIRLEY;  K-Means Spreading Factor Allocation for Large-Scale LoRa Networks",
+                "ano": "2019",
+                "periodico": "SENSORS. ISBN: 14248220   ."
+            },
+            {
+                "autores": "HOELLER, ARLIONES",
+                "titulo": "SOUZA, RICHARD DEMO;  LOPEZ, ONEL L. ALCARAZ;  ALVES, HIRLEY;  NETO, MARIO DE NORONHA;  BRANTE, GLAUBER;  Analysis and Performance Optimization of LoRa Networks with Time and Antenna Diversity",
+                "ano": "2018",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            },
+            {
+                "autores": "HOELLER, ARLIONES",
+                "titulo": "Fröhlich, Antônio Augusto;  Evaluation of Energy-Efficient Heuristics for ACO-based Routing in Mobile Wireless Sensor Networks",
+                "ano": "2015",
+                "periodico": "INTERNATIONAL JOURNAL OF ADVANCED STUDIES IN COMPUTER SCIENCE AND ENGINEERING. ISBN: 22787917   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DE SOUZA SANT?ANA, JEAN MICHEL",
+                "titulo": "HOELLER, ARLIONES; ALVES, HIRLEY; SOUZA, RICHARD DEMO; LR-FHSS-Sim: A Discrete-Event Simulator for LR-FHSS Networks",
+                "evento": "2024 Joint European Conference on Networks and Communications &amp;amp; 6G Summit (EuCNC/6G Summit)",
+                "local": "Antwerp",
+                "ano": "2024"
+            },
+            {
+                "autores": "ROSA, YAGO CASTRO",
+                "titulo": "VALLE, BRUNO CASTRO; SIMÃO, TIAGO EDMIR; HOELLER JR, A",
+                "evento": "; VARELA",
+                "local": "FERNANDO SANTOS; NORONHA-NETO, M.; SOUZA, R. D.; Método de Estimação de Strings Ausentes em Usinas Fotovoltaicas de Grande Escala usando Aprendizado de Máquina não Supervisionado. XVIII EDAO - Encontro para Debates de Assuntos de Operação, Florianópolis",
+                "ano": "2024"
+            },
+            {
+                "autores": "HOELLER, ARLIONES",
+                "titulo": "SANT'ANA, JEAN; MARKKULA, JUHO; MIKHAYLOV, KONSTANTIN; SOUZA, RICHARD; ALVES, HIRLEY; Beyond 5G Low-Power Wide-Area Networks: A LoRaWAN Suitability Study",
+                "evento": "2020 2nd 6G Wireless Summit (6G SUMMIT)",
+                "local": "Levi",
+                "ano": "2020"
+            },
+            {
+                "autores": "JESUS, GABRIEL",
+                "titulo": "SOUZA, RICHARD; MONTEZ, CARLOS; JR",
+                "evento": ", ARLIONES; Improving LoRaWAN Performance Through Adaptive Data Rate Parameter Selection. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+                "local": "Florianopolis",
+                "ano": "2020"
+            },
+            {
+                "autores": "HENRIQUE, WILLIAN",
+                "titulo": "JR",
+                "evento": ", ARLIONES; SOUZA",
+                "local": "RICHARD; Alocação Conjunta de Potência e SF em Redes LoRaWAN com Múltiplos Gateways. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Florianopolis",
+                "ano": "2020"
+            },
+            {
+                "autores": "HONORIO, F. G.",
+                "titulo": "BRANTE, G",
+                "evento": "G. O.; MORITZ",
+                "local": "G. L.; NORONHA-NETO, M.; HOELLER JR, A.; SOUZA, R. D.; Effect of Nakagami-m Fading on the Scalability of LoRa/LoRaWAN Networks. 33º Simpósio Sul de Microeletrônica (SIM 2018), Curitiba",
+                "ano": "2018"
+            },
+            {
+                "autores": "HOELLER, ARLIONES",
+                "titulo": "SOUZA, RICHARD DEMO; ALCARAZ LOPEZ, ONEL L",
+                "evento": "; ALVES",
+                "local": "HIRLEY; DE NORONHA NETO, MARIO; BRANTE, GLAUBER; Exploiting Time Diversity of LoRa Networks Through Optimum Message Replication. 2018 15th International Symposium on Wireless Communication Systems (ISWCS), Lisbon",
+                "ano": "2018"
+            },
+            {
+                "autores": "Hoeller, A.S.",
+                "titulo": "FRÖHLICH, Antonio Augusto Medeiros; SmartBuildings as Embedded Distributed Systems",
+                "evento": "Simpósio Brasileiro de Engenharia de Sistemas Computacionais",
+                "local": "Manaus",
+                "ano": "2014"
+            },
+            {
+                "autores": "HOELLER, ARLIONES",
+                "titulo": "GRACIOLI, G",
+                "evento": "; FRÖHLICH",
+                "local": "Antonio Augusto Medeiros; On the reliability of performance counters for power models. Benchmarking of Embedded Systems Workshop, Montreal",
+                "ano": "2013"
+            },
+            {
+                "autores": "HOELLER JR, A.",
+                "titulo": "FRÖHLICH, Antonio Augusto Medeiros; Redes de sensores sem-fio sob a perspectiva do EPOS",
+                "evento": "XI Simpósio de Sistemas Computacionais",
+                "local": "Petrópolis",
+                "ano": "2010"
+            },
+            {
+                "autores": "WIEDENHOFT, G. R.",
+                "titulo": "HOELLER JR, A",
+                "evento": "; FRÖHLICH",
+                "local": "Antonio Augusto Medeiros; Um Gerente de Energia para Sistemas Profundamente Embarcados. Quarto Workshop Brasileiro de Sistemas Operacionais, Rio de Janeiro",
+                "ano": "2007"
+            },
+            {
+                "autores": "WIEDENHOFT, G. R.",
+                "titulo": "HOELLER JR, A",
+                "evento": "; FRÖHLICH",
+                "local": "Antonio Augusto Medeiros; Quality-Of-Service: The Role of Energy. 9th Workshop on Real-Time Systems, Belém",
+                "ano": "2007"
+            },
+            {
+                "autores": "HOELLER JR, A.",
+                "titulo": "WIEDENHOFT, G",
+                "evento": "R.; FRÖHLICH",
+                "local": "Antonio Augusto Medeiros; Energia como um Parâmetro para Qualidade de Serviço em Sistemas Embarcados. XXXIII Latin American Conference on Informatics, San José",
+                "ano": "2007"
+            },
+            {
+                "autores": "HOELLER JR, A.",
+                "titulo": "WANNER, Lucas Francisco; OLIVEIRA, Augusto Born de; IMMICH, Roger Kreutz; FRÖHLICH, Antonio Augusto Medeiros; Gerenciamento de Energia em Sistemas de Sensoriamento Remoto",
+                "evento": "Terceiro Workshop Brasileiro de Sistemas Operacionais",
+                "local": "Campo Grande",
+                "ano": "2006"
+            },
+            {
+                "autores": "HOELLER JR, A.",
+                "titulo": "WANNER, Lucas Francisco; FRÖHLICH, Antonio Augusto Medeiros; Gerenciamento do Consumo de Energia Dirigido pela Aplicação em Sistemas Profundamente Embarcados",
+                "evento": "32th Latin-American Conference on Informatics",
+                "local": "Santiago, Chile",
+                "ano": "2006"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "HOELLER JR, A",
+                "evento": "; WANNER",
+                "local": "Lucas Francisco; SANTOS, D. M.; CANCIAN, R. L.; FRÖHLICH, Antonio Augusto Medeiros; EPOS: Um Sistema Operacional Portável para Sistemas Profundamente Embarcados. Terceiro Workshop Brasileiro de Sistemas Operacionais, Campo Grande",
+                "ano": "2006"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "HOELLER JR, A",
+                "evento": "; WANNER",
+                "local": "Lucas Francisco; FRÖHLICH, Antonio Augusto Medeiros; Portabilidade de sistemas operacionais no domínio de sistemas embarcados. 32th Latin-American Conference on Informatics, Santiago, Chile",
+                "ano": "2006"
+            },
+            {
+                "autores": "WANNER, Lucas Francisco",
+                "titulo": "HOELLER JR, A",
+                "evento": "; POLPETA",
+                "local": "Fauze Valério; FRÖHLICH, Antonio Augusto Medeiros; Suporte de Sistema Operacional para Tratamento de Heterogeneidade em Redes de Sensores sem Fios. Segundo Workshop Brasileiro de Sistemas Operacionais, São Leopoldo",
+                "ano": "2005"
+            },
+            {
+                "autores": "WANNER, Lucas Francisco",
+                "titulo": "HOELLER JR, A",
+                "evento": "; POLPETA",
+                "local": "Fauze Valério; FRÖHLICH, Antonio Augusto Medeiros; Operating System Support for Handling Heterogeneity in Wireless Sensor Networks. 10th IEEE International Conference on Emerging Technologies and Factory Automation, Catania",
+                "ano": "2005"
+            },
+            {
+                "autores": "POLPETA, Fauze Valério",
+                "titulo": "FRÖHLICH, Antonio Augusto Medeiros; HOELLER JR, A",
+                "evento": "; D'AGOSTINI",
+                "local": "T. S.; Portabilidade em Sistemas Operacionais Baseados em Componentes de Software. Primeiro Workshop Brasileiro de Sistemas Operacionais, Salvador",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Yago Castro Rosa",
+                "titulo": "Desenvolvimento de uma Ferramenta para Detecção e Predição de Falhas em Trackers para Usinas Fotovoltaicas de Grande Porte",
+                "ano": "2025",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gustavo Paulo",
+                "titulo": "Aplicação de modelos fundacionais de séries temporais para a previsão em diferentes domínios",
+                "ano": "2025",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Filipi Virgílio",
+                "titulo": "Avaliação de bancos de dados para séries temporais: um estudo comparativo entre MariaDB e InfluxDB",
+                "ano": "2025",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "João Vitor da Rosa Negri",
+                "titulo": "Simulação do desempenho de rede IoT direto para satélite com LoRa e LR-FHSS e suporte a múltiplos satélites",
+                "ano": "2024",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Guilherme Lopes Roque",
+                "titulo": "Uma ferramenta para gerenciamento de aplicações LoRaWAN",
+                "ano": "2023",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Alana Beatriz Rostirolla Mandim",
+                "titulo": "Sistema IoT para Gestão de Frotas",
+                "ano": "2023",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Fabiano Kraemer",
+                "titulo": "Dispositivo IoT para monitoramento e diagnóstico de sistemas de refrigeração",
+                "ano": "2022",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Alisson Mateus Boeing",
+                "titulo": "TCC: 63 - Título: Estudo e melhoria da aquisição de dados de acelerômetros MEMS para análise de vibração por sistemas embarcados de baixa potência",
+                "ano": "2022",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "João Vitor Rosa Negri",
+                "titulo": "Codificação Híbrida para Replicação de Mensagens em Redes LoRaWAN",
+                "ano": "2022",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Adonis Andreas Marinos",
+                "titulo": "Sistema IoT para monitoramento da qualidade do ar",
+                "ano": "2021",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Jean Michel de Souza SantAna",
+                "titulo": "Redes LoRaWAN: implantação e desenvolvimento de aplicações",
+                "ano": "2017",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Leonan da Silva Saraiva",
+                "titulo": "Plataforma de desenvolvimento para aplicações IoT utilizando redes LoRaWAN",
+                "ano": "2017",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Renan Gonçalves",
+                "titulo": "Sistema Autônomo de Controle de Acesso Patrimonial por RFID",
+                "ano": "2016",
+                "curso": "Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rafael Ossamu Togo",
+                "titulo": "Implementação e avaliação de cenário de convergência telefonia-rede integrando serviços de VoIP e vídeo-chamada com o uso de WebRTC",
+                "ano": "2015",
+                "curso": "Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Leonardo Pereira",
+                "titulo": "Implementação e análise de um roteador de borda de rede 6LoWPAN com suporte a IPsec",
+                "ano": "2015",
+                "curso": "Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Katharine Schaeffer Fertig",
+                "titulo": "Concepção de Experimentos de Sistemas Embarcados para Disciplinas do Curso de Engenharia de Telecomunicações",
+                "ano": "2015",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Leonardo Fin",
+                "titulo": "Sistema de Redes de Sensores Sem Fio para Controle da Qualidade de Ar em Escritórios Climatizados",
+                "ano": "2014",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rafael de Lucena Valle",
+                "titulo": "Implementação do protocolo CoAP para serviços de monitoramento em redes de sensores sem fio",
+                "ano": "2014",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marcos Vinicius Bunn",
+                "titulo": "Levantamento de perfil energético de um módulo de redes de sensores sem fios",
+                "ano": "2014",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Thiago Henrique Bonotto da Silva",
+                "titulo": "Identificação automática de símbolos da linguagem de sinais por vídeo",
+                "ano": "2014",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gustavo Roberto Nardon Meira",
+                "titulo": "Real-Time Dynamic Voltage and Frequency Scaling no sistema EPOS",
+                "ano": "2011",
+                "curso": "Bacharelado em Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Raphael Tucunduva Gonçalves",
+                "titulo": "Monitoramento da carga de baterias em sistemas embarcados",
+                "ano": "2007",
+                "curso": "Bacharelado em Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ]
+    }
+}

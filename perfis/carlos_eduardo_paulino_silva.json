@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -149,16 +150,16 @@
                 "periodo": "2023",
                 "natureza": "Pesquisa",
                 "equipe": [
+                    "Andre Nunes de Alcantara",
+                    "Arthur Andrade Vieira",
+                    "Joao Victor Moreira Carvalho",
                     "Carlos Eduardo Paulino Silva",
                     "André Gustavo dos Santos",
                     "João Lucas Silva Solano",
                     "Lucas Nascimento Ferreira",
                     "Julio Cesar Soares dos Reis",
                     "Joao Pedro Medrado Sena",
-                    "Jonas Magalhães Moreira",
-                    "Andre Nunes de Alcantara",
-                    "Arthur Andrade Vieira",
-                    "Joao Victor Moreira Carvalho"
+                    "Jonas Magalhães Moreira"
                 ],
                 "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
             },
@@ -184,14 +185,14 @@
                 "periodo": "2023 - 2023",
                 "natureza": "Outra",
                 "equipe": [
+                    "Glenda Samara Dias Santos",
                     "Carlos Eduardo Paulino Silva",
                     "Mateus José dos Santos",
                     "Vinicius Catão",
                     "Sidney Pires Martins",
                     "Rita Márcia Andrade Vaz de Mello",
                     "Andreia Francisco Afonso",
-                    "Luciana Hoffert",
-                    "Glenda Samara Dias Santos"
+                    "Luciana Hoffert"
                 ]
             },
             {
@@ -200,11 +201,11 @@
                 "periodo": "2009 - 2009",
                 "natureza": "Desenvolvimento",
                 "equipe": [
-                    "SAMPAIO",
-                    "J. O.",
                     "Carlos Eduardo Paulino Silva",
                     "SOUZA",
-                    "J. M."
+                    "J. M.",
+                    "SAMPAIO",
+                    "J. O."
                 ],
                 "financiador": "Financiadora de Estudos e Projetos,"
             },
@@ -395,6 +396,17 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Professor Digital",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Carlos Eduardo Paulino Silva",
+                    "Suelen Mapa de Paula"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,"
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "ProgramaOB 2.0",
                 "periodo": "2021 - 2022",
                 "natureza": "Extensao",
@@ -405,17 +417,6 @@
                     "Edilene Cristina Pereira"
                 ],
                 "financiador": "Ministério da Educação, Ministério da Educação,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Professor Digital",
-                "periodo": "2021 - 2021",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Carlos Eduardo Paulino Silva",
-                    "Suelen Mapa de Paula"
-                ],
-                "financiador": "Instituto Federal Minas Gerais,"
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
@@ -434,8 +435,8 @@
                 "periodo": "2026",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Ederson Naves Fernandes Gonçalves Júnior",
                     "Carlos Eduardo Paulino Silva",
+                    "Ederson Naves Fernandes Gonçalves Júnior",
                     "Ana Cecília Fagundes Rodrigues",
                     "Jamille Evellin Lima Gomes",
                     "Sofia Maria Gomes dos Santos"
@@ -484,8 +485,8 @@
                     "finalidade": "Desenvolvimento de um site de rede social para a interação dos moradores das diversas comunidades do país que fazem parte da Rede Nacional de Mobilização Social (COEP).."
                 },
                 {
-                    "autor": "RODRIGUES Nt",
-                    "software": "J. A.,  FERNANDES, O. C.,  PAES, M.,  MACHADO, M.,  BARROS, P.,  PADULA, R.,  BARROS, R. O.,  CARNEIRO FILHO, H. J. A.,  FERREIRA, F. R. S.,  PAULINO, C.,  FoxSet",
+                    "autor": "PAES",
+                    "software": "M.,  RODRIGUES Nt, J. A.,  FERNANDES, O. C.,  MACHADO, M.,  BARROS, P.,  PADULA, R.,  BARROS, R. O.,  CARNEIRO FILHO, H. J. A.,  FERREIRA, F. R. S.,  PAULINO, C.,  FoxSet",
                     "ano": "2008",
                     "finalidade": "Ferramenta utilizada para criação e gerenciamento de datasets utilizando índices de qualidade.."
                 },
@@ -661,8 +662,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "MIRANDA, M. A.",
-                "titulo": "NEVES, V. A.;  TERRA, D. C.;  PAULINO, C.;  ClassMatch: plataforma para a organização de compromissos escolares",
+                "autores": "NEVES, V. A.",
+                "titulo": "TERRA, D. C.;  PAULINO, C.;  MIRANDA, M. A.;  ClassMatch: plataforma para a organização de compromissos escolares",
                 "ano": "2018",
                 "periodico": "REVISTA TECNOLOGIAS NA EDUCAÇÃO. ISBN: 19844751   ."
             },
@@ -1338,16 +1339,16 @@
         ]
     },
     "Cor/Raça": {
-        "raca_original": "asian",
-        "raca_ibge": "Amarela",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 38.88877487182617,
-            "indian": 10.841235160827637,
-            "black": 7.381026268005371,
-            "white": 11.526917457580566,
-            "middle eastern": 8.883872985839844,
-            "latino hispanic": 22.47817611694336
+            "asian": 18.31251335144043,
+            "indian": 3.8894875049591064,
+            "black": 1.6648995876312256,
+            "white": 44.139442443847656,
+            "middle eastern": 14.099664688110352,
+            "latino hispanic": 17.89398956298828
         }
     }
 }

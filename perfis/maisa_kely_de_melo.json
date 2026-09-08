@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -27,6 +28,11 @@
         ],
         "atuacoes_profissionais": [
             {
+                "empresa": "Mathematics",
+                "periodo": "2022",
+                "cargo": ", Revisor de periódico."
+            },
+            {
                 "empresa": "Universidade Federal de Viçosa",
                 "periodo": "2013 - 2014",
                 "cargo": "Professor Substituto."
@@ -39,22 +45,22 @@
             {
                 "empresa": "Universidade Federal de Lavras",
                 "periodo": "2011 - 2011",
-                "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Equações Diferenciais Ordinárias.."
-            },
-            {
-                "empresa": "Universidade Federal de Lavras",
-                "periodo": "2011 - 2011",
                 "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Análise Matemática.."
             },
             {
                 "empresa": "Universidade Federal de Lavras",
-                "periodo": "2008 - 2008",
-                "cargo": "Monitora voluntária, Bolsista, Monitora voluntária da disciplina Introdução à Lógica.."
+                "periodo": "2011 - 2011",
+                "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Equações Diferenciais Ordinárias.."
             },
             {
                 "empresa": "Universidade Federal de Lavras",
                 "periodo": "2008 - 2008",
                 "cargo": "Monitora remunerada, Bolsista, Monitora remunerada da disciplina Estatística Básica.."
+            },
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitora voluntária, Bolsista, Monitora voluntária da disciplina Introdução à Lógica.."
             },
             {
                 "empresa": "EXPERT SYSTEMS WITH APPLICATIONS",
@@ -73,11 +79,6 @@
             },
             {
                 "empresa": "Artificial Intelligence Review",
-                "periodo": "2022",
-                "cargo": ", Revisor de periódico."
-            },
-            {
-                "empresa": "Mathematics",
                 "periodo": "2022",
                 "cargo": ", Revisor de periódico."
             },
@@ -161,10 +162,10 @@
                     "Jo&#347;e Márcio Carvalho",
                     "Carlos Rosano Pena",
                     "Tiago Mota dos Santos",
-                    "Vitor Bandeira Borges",
                     "Joao Gabriel de Moraes Souza",
                     "Marcos Vinicius Pinheiro Dib",
                     "Carlos Alberto Alvares Rocha",
+                    "Vitor Bandeira Borges",
                     "Johnathan Milagres"
                 ]
             },
@@ -215,8 +216,8 @@
                 "periodo": "2023 - 2023",
                 "natureza": "Ensino",
                 "equipe": [
-                    "Maisa Kely de Melo",
                     "Ana Maria Teles",
+                    "Maisa Kely de Melo",
                     "Fernanda Maria Rodrigues Castro",
                     "Paloma Resende Silva",
                     "Ana Caroline Pessoni"
@@ -274,8 +275,8 @@
         "producao_tecnica": {
             "softwares": [
                 {
-                    "autor": "MELO",
-                    "software": "MAISA KELY,  CELESTINO, V. R. R.,  FARIA, A. V. A.,  R. DE OLIVEIRA, FLÁVIO,  CELESTINO, F. R.,  Laura (Language Automation for User Responsive Assistance)",
+                    "autor": "FARIA",
+                    "software": "A. V. A.,  MELO, MAISA KELY,  CELESTINO, V. R. R.,  R. DE OLIVEIRA, FLÁVIO,  CELESTINO, F. R.,  Laura (Language Automation for User Responsive Assistance)",
                     "ano": "2023",
                     "finalidade": "Agente de IA conversacional.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025001214-4."
                 },
@@ -342,8 +343,8 @@
                     "instituicao_promotora": "Universidade Federal de Lavras."
                 },
                 {
-                    "autores": "SAVIAN",
-                    "titulo": "T. V.,  MELO, M. K.,  SILVEIRA, S. C.,  MUNIZ, J. A.,  Comparação de modelos não-lineares ajustados aos dados de crescimento de frutos da tamareira-anã",
+                    "autores": "MELO",
+                    "titulo": "M. K.,  SILVEIRA, S. C.,  SAVIAN, T. V.,  MUNIZ, J. A.,  Comparação de modelos não-lineares ajustados aos dados de crescimento de frutos da tamareira-anã",
                     "ano": "2009",
                     "instituicao_promotora": "Universidade Federal de São Carlos."
                 }
@@ -567,12 +568,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.06206949055194855,
-            "indian": 0.33271124958992004,
-            "black": 0.014443600550293922,
-            "white": 58.824275970458984,
-            "middle eastern": 18.03045654296875,
-            "latino hispanic": 22.73604393005371
+            "asian": 0.04767465963959694,
+            "indian": 0.33637291193008423,
+            "black": 0.0100473053753376,
+            "white": 58.25998306274414,
+            "middle eastern": 19.52983283996582,
+            "latino hispanic": 21.816091537475586
         }
     }
 }

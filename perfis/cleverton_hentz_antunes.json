@@ -1,0 +1,143 @@
+{
+    "campus": "- Campus Natal - Zona Norte",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2013 - 2017",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "A Family of Coverage Criteria Based on Patterns to the Test of Metaprograms",
+                "orientador": "Anamaria Martins Moreira"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2008 - 2010",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Geração de Testes a partir de gramáticas",
+                "orientador": "Anamaria Martins Moreira"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciência da Computação",
+                "periodo": "2002 - 2007",
+                "instituicao": "Faculdade Lourenço Filho"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Softium Informática",
+                "periodo": "2000 - 2007",
+                "cargo": "Analista de Sistemas, Livre."
+            },
+            {
+                "empresa": "Softium Informática",
+                "periodo": "1998 - 2000",
+                "cargo": "Programador de computador, Livre."
+            },
+            {
+                "empresa": "Núcleo de Desenvolvimento de Engenharia & Software",
+                "periodo": "2007 - 2008",
+                "cargo": "Analista de Sistemas, Livre."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2010",
+                "cargo": "Docente de Sistemas de Informação."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nEnsino-medio (2010) .",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "HENTZ",
+                    "software": "C.,  Moreira, A. M.,  Lua Language Generator (LGen)",
+                    "ano": "2011",
+                    "finalidade": "Ferramenta para geração de casos de teste baseados em gramáticas.."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Moreira, A. M.",
+                "titulo": "HENTZ, C",
+                "evento": "; DEHARBE",
+                "local": "D. B. P.; MATOS, E. C. B.; SOUZA NETO, J. B.; MEDEIROS JUNIOR, V. G.; Verifying Code Generation Tools for the B-Method Using Tests: A Case Study. 9th International Conference, TAP 2015, L?Aquila",
+                "ano": "2015"
+            },
+            {
+                "autores": "HENTZ, C.",
+                "titulo": "VINJU, J",
+                "evento": "J.; Moreira",
+                "local": "A. M.; Reducing the Cost of Grammar-Based Testing Using Pattern Coverage. 27th IFIP WG 6.1 International Conference, ICTSS 2015, Dubai",
+                "ano": "2015"
+            },
+            {
+                "autores": "Moreira, A. M.",
+                "titulo": "HENTZ, C",
+                "evento": "; RAMALHO",
+                "local": "V. M.; Grammars for Test Generation. Latin American Workshop on Formal Methods, Buenos Aires",
+                "ano": "2013"
+            },
+            {
+                "autores": "Moreira, A. M.",
+                "titulo": "HENTZ, C",
+                "evento": "; RAMALHO",
+                "local": "V. M.; Application of a Syntax-based Testing Method and Tool to Software Product Lines. 7th Brazilian Workshop on Systematic and Automated Software Testing, Brasília",
+                "ano": "2013"
+            },
+            {
+                "autores": "Santos, J. P.",
+                "titulo": "HENTZ, C",
+                "evento": "; Avaliação do Uso da Linguagem Lua e Gramáticas de Expressão de Parsing no Reconhecimento de Sentenças. Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica",
+                "local": "Natal",
+                "ano": "2011"
+            },
+            {
+                "autores": "HENTZ, C.",
+                "titulo": "Moreira, A",
+                "evento": "M.; Geração de Sentenças para Teste a partir de Descrições de Linguagens. Workshop Brasileiro de Teste de Software Sistemático e Automatizado",
+                "local": "Gramado",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jailson Pereira dos Santos",
+                "titulo": "Construção de Tradutor da Notação EBNF para Gerador de Testes",
+                "ano": "2010",
+                "curso": "Técnico Subsequente em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.6676356792449951,
+            "indian": 2.757578134536743,
+            "black": 0.8626648783683777,
+            "white": 48.027591705322266,
+            "middle eastern": 22.469417572021484,
+            "latino hispanic": 24.215116500854492
+        }
+    }
+}

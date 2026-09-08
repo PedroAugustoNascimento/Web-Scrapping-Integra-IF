@@ -1,0 +1,445 @@
+{
+    "campus": "- Câmpus Gaspar",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação e Matemática Computacional",
+                "periodo": "2012 - 2014",
+                "instituicao": "Universidade de São Paulo",
+                "titulo": "Sobre a Escolha dos Parâmetros de Relaxação e Ordenação das Projeções no Método de Kaczmarz com Ênfase em Implementações Altamente Paralelas e Aplicações em Reconstrução Tomográfica",
+                "orientador": "Elias Salomão Helou Neto"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "periodo": "2010 - 2012",
+                "instituicao": "Universidade Federal da Grande Dourados"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2007 - 2010",
+                "instituicao": "Centro Universitário da Grande Dourados"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal da Grande Dourados",
+                "periodo": "2011 - 2011",
+                "cargo": "Monitor de Graduação, Bolsista, Monitor da Disciplina: Álgebra Linear e Geometria Analítica."
+            },
+            {
+                "empresa": "Universidade de São Paulo",
+                "periodo": "2013 - 2013",
+                "cargo": "Estagio Programa de Aperfeiçoamento de Ensino, Volutário."
+            },
+            {
+                "empresa": "Universidade Estadual de Mato Grosso do Sul",
+                "periodo": "2016 - 2017",
+                "cargo": "Professor ensino superior, Servidor público, Computadores e Sociedade."
+            },
+            {
+                "empresa": "Centro Universitário da Grande Dourados",
+                "periodo": "2017 - 2017",
+                "cargo": "Professor ensino superior, Análise de Algoritmos e Modelagem de Banco de Dados."
+            },
+            {
+                "empresa": "Centro Universitário da Grande Dourados",
+                "periodo": "2016 - 2016",
+                "cargo": "Professor ensino superior, Computação Gráfica e Teoria dos Grafos."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "periodo": "2019 - 2019",
+                "cargo": "Professor EBTT, Servidor público, Banco de Dados I (Médio Técnico-Técnico em Informática), Tópicos Especiais em Tecnologia da Informação (Médio Técnico-Técnico em Informática), Projeto de Banco de Dados (Superior-ADS), Tópicos Especiais em Tecnologia da Informação (Superior-ADS) e Sistemas de Informação (Superior-ADS).."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "periodo": "2018 - 2018",
+                "cargo": "Professor EBTT, Servidor público, Algoritmos 1 (Médio Técnico-Técnico em Informática), Administração de Banco de Dados (Superior-ADS), Projeto de Banco de Dados (Superior-ADS) e Sistemas de Informação (Superior-ADS).."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "periodo": "2018 - 2018",
+                "cargo": "Professor EBTT, Servidor público, Algoritmos 2 (Médio Técnico-Técnico em Informática), Administração de Banco de Dados (Superior-ADS) e Tópicos Especiais em Tecnologia da Informação (Superior-ADS).."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "periodo": "2017 - 2017",
+                "cargo": "Professor EBTT, Servidor público, Projeto de Banco de Dados (Superior-ADS) e Sistemas de Informação (Superior-ADS).."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "periodo": "2017 - 2017",
+                "cargo": "Professor EBTT, Servidor público, Algoritmos 2 (Médio Técnico-Técnico em Informática), Administração de Banco (Superior-ADS) de Dados (Superior-ADS), Tópicos Especiais em Tecnologia da Informação (Superior-ADS) e Ferramentas de Desenho (Médio Técnico - FIC).."
+            },
+            {
+                "empresa": "XINFINITY GAMES",
+                "periodo": "2016 - 2017",
+                "cargo": "Modelador 3D, Programador e Game Designer, Voluntário."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2022 - 2022",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas Ministradas: INTRODUÇÃO À INFORMÁTICA; DESENVOLVIMENTO DE SISTEMAS WEB 2.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2022 - 2022",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas ministradas: DESENVOLVIMENTO DE SISTEMAS WEB II; INTRODUÇÃO À PROGRAMAÇÃO; TÓPICOS ESPECIAIS EM PROGRAMAÇÃO; PROGRAMAÇÃO EM C.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2021 - 2021",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas Ministradas: DESENVOLVIMENTO DE SISTEMAS WEB II.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2021 - 2021",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas ministradas: DESENVOLVIMENTO DE SISTEMAS WEB II.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2020 - 2020",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas ministradas: WEB DESIGN; DESENVOLVIMENTO DE SISTEMAS WEB II; LABORATÓRIO DE PROGRAMAÇÃO.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2020 - 2020",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas ministradas: DESENVOLVIMENTO DE SISTEMAS WEB II.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2019 - 2019",
+                "cargo": "Professor EBTT, Servidor público, Disciplinas Ministradas: SISTEMAS DE INFORMAÇÃO; TEORIA DOS GRAFOS; WEB DESIGN; INFORMÁTICA E SOCIEDADE; TÓPICOS EM PROGRAMAÇÃO; SEGURANÇA DA INFORMAÇÃO;."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Lages (2022 - 2022) : Coordenação Curso Ciência Da Computação.\nInstituto Federal de Santa Catarina - Câmpus Lages (2022 - 2022) : Coordenação Curso Ciência Da Computação.\nInstituto Federal de Santa Catarina - Câmpus Lages (2021 - 2021) : Coordenação Curso Ciência Da Computação.\nInstituto Federal de Santa Catarina - Câmpus Lages (2021 - 2021) : Coordenação Curso Ciência Da Computação.\nInstituto Federal de Santa Catarina - Câmpus Lages (2020 - 2020) : Coordenação Curso Ciência Da Computação.",
+        "ensino": ": Instituto Federal de Santa Catarina\nOutro (2022 - 2022) .\nOutro (2022 - 2022) .\nOutro (2021 - 2021) .\nOutro (2021 - 2021) .\nOutro (2020 - 2020) .\nOutro (2020 - 2020) .\nOutro (2019 - 2019) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal da Grande Dourados",
+                "nome": "Programa de iniciação ao trabalho Bombeiro Esperança",
+                "periodo": "2011 - 2011",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Selma Helena Marchiori Hashimoto"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal da Grande Dourados",
+                "nome": "Estudo da Metaheurística GRASP para a solução de problemas presentes na literatura",
+                "periodo": "2011 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Selma Helena Marchiori Hashimoto",
+                    "Irene Magalhães Craveiro"
+                ]
+            },
+            {
+                "instituicao": "Universidade de São Paulo",
+                "nome": "Reconstrução de Imagens em Tomografia por Emissão: Novos Métodos de Otimização em Dois Níveis e uma Nova abordagem para o Problema de Escolha de Parâmetros",
+                "periodo": "2012 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Elias Salomão Helou Neto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Projeto de banco de dados e aplicação web para manter dados analíticos de aviários",
+                "periodo": "2017 - 2018",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Silvério Luiz de Sousa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Como utilizar game engines no ensino de química",
+                "periodo": "2017 - 2018",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "BEATRIZ LANDIGRAF RIOS DOS SANTOS",
+                    "Narcimário Pereira Coelho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Jogos Digitais ? Desenvolvimento de ambientes virtuais para ensino de química experimental",
+                "periodo": "2018",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Maria Fernanda de Abreu Aguiar",
+                    "Narcimário Pereira Coelho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Automação e controle do aviário do campus IFMS - Nova Andradina",
+                "periodo": "2018 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Wesley Tessaro Andrade"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Projeto de apoio ao ensino da disciplina de construção de algoritmos",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Leonardo Bravo Estácio"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Desenvolvimento de jogos digitais em LÖVE",
+                "periodo": "2017 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "Daniel Borges Brumazzi"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto multidisciplinar integrativo: diversificação dasatividades acadêmicas do IFSC Câmpus Lages",
+                "periodo": "2019 - 2019",
+                "natureza": "Outra",
+                "equipe": [
+                    "Leonardo Bravo Estácio",
+                    "ANA MARIA MARTINS ROEBER",
+                    "ANDRÉ SALVARO FURTADO",
+                    "FERNANDO WEBER ALBIERO",
+                    "GABRIEL GRANZOTTO MADRUGA",
+                    "JULIO RAFAEL BUENO",
+                    "LUCIANA SCHMIDT",
+                    "LUCIANE BITTENCOURT GOMES BATISTA DE OLIVEIRA",
+                    "MARCELO MARASCHIN DE SOUZA",
+                    "MONIA STREMEL AZEVEDO",
+                    "PAOLA DE OLIVEIRA SOUZA",
+                    "VILMA GISELE KARSBURG"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ESTÁCIO",
+                    "software": "L. B.,  SANTOS, B. L. R.,  AGUIAR, M. F. A.,  COELHO, N. P.,  Laboratório Curie: Jogo para o ensino de química experimenta e boas práticas no laboratório",
+                    "ano": "2018",
+                    "finalidade": "Ensino."
+                },
+                {
+                    "autor": "ESTÁCIO",
+                    "software": "L. B.,  Fornatto System - Sistema de automação comercial para caixa e estoque de pizzarias",
+                    "ano": "2016",
+                    "finalidade": "Informatização do controle de caixa e estoque de empresas."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "AGUIAR",
+                    "titulo": "M. F. A.,  ESTÁCIO, L. B.,  Desenvolvimento dos cenários de ensino/aprendizagem e site de divulgação do jogo digital Laboratório Curie",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal de Educação,Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "ESTÁCIO",
+                    "titulo": "L. B.,  HASHIMOTO, S. H. M.,  CRAVEIRO, I. M.,  ESTUDO E IMPLEMENTAÇÃO DE UM ALGORITMO HEURÍSTICO BASEADO EM GRASP PARA SOLUÇÃO DO PROBLEMA DO CONJUNTO INDEPENDENTE MÁXIMO",
+                    "ano": "2011",
+                    "instituicao_promotora": "UNESP - Presidente Prudente."
+                },
+                {
+                    "autores": "ESTÁCIO",
+                    "titulo": "L. B.,  HASHIMOTO, S. H. M.,  LOPES, J.C.,  CARDOSO, V.F.,  HASHIMOTO, H. T. B.,  PINTO, P.F.,  LOPES, M. T.,  ALEXANDRE, E.S.,  PROGRAMA DE INICIAÇÃO AO TRABALHO PROJETO BOMBEIRO ESPERANÇA",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade Federal da Grande Dourados."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ESTÁCIO",
+                    "curso": "L. B.,  Pintura digital utilizando o programa substance painter",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "ESTÁCIO",
+                    "curso": "L. B.,  Introdução a modelagem 3D com Autodesk 3DS Max",
+                    "ano": "2018"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "VIEIRA NETO",
+                    "evento": "D.,  SILVA, A. P. E.,  FRAYTAG, J.,  WOEHL, M. A.,  PESSOA, C. R.,  OLIVEIRA, J. C. S.,  BAMBERG, L. S.,  LEMOS FILHO, F. B.,  LUNARDI, W. G.,  MORAES, M. V. A.,  ESTÁCIO, L. B.,  MORAIS, G. S.,  BOELTER, N. M.,  RECH, C. P. D.,  KINIZ JUNIOR, M.,  SANTOS, L. S.,  RAMOS, N. C.,  ARENHART, R.,  TELES, V. S. A.,  LIBERATO, M. M.,  et.al,  Semana Nacional de Ciência e Tecnolocia 2022 - IFSC - Câmpus Lages",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "KUPSKI",
+                    "evento": "L.,  SANSON, M. S.,  LIMA, G. F. S.,  PROVESI, J. G.,  SUAVE, J.,  KOMATSU, R. A.,  SILVA, J. D. P.,  ALBIERO, F. W.,  PRIMIERI, S.,  ROSA, A. M.,  HILDEBRANDO, L.,  CABRAL, T. H.,  OLIVEIRA, L. C.,  FIUZA FILHO, F.,  AZEVEDO, M. S.,  ESTÁCIO, L. B.,  JESUS, P. C. S. G.,  BRANCO, R. C. T.,  ELIAS, M. A.,  MELLO, S. F.,  et.al,  Semana Nacional de Ciência e Tecnolocia 2020 - IFSC - Câmpus Lages",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "FIGUEIRO",
+                    "evento": "E. O.,  JESUS, P. C. S. G.,  ESTÁCIO, L. B.,  SCHMIDT, L.,  BRANCO, R. C. T.,  FURTADO, A. S.,  NETO JUNIOR, C. B.,  A Arte do Grafite",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "CARAMIT",
+                    "evento": "R. P.,  TROPALDI, R. A. S.,  ESTÁCIO, L. B.,  CONCEICAO, F. R.,  OCON, D. C. M.,  SARAIVA, D. A.,  GARCEZ, B. P.,  COUTO, K. F.,  GALINDO, M. C.,  BARBOSA, R. A.,  SOUZA, A. C. O.,  Feira de Ciência e Tecnologia de Nova Andradina",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação,Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "OCON",
+                    "evento": "D. C. M.,  PIERETTI, E. R.,  NUNEZ, E. E.,  MARQUES, F. J.,  JUNGLOS, F. S.,  SANTOS, G. C.,  RUFINO, K.,  ESTÁCIO, L. B.,  PICOLO, L. F.,  SANTOS, M. L.,  BRANDAO, M. A.,  BORGES, A. F.,  CAMARGO, M. I. S. L.,  SOUZA, A. C. O.,  VIOLIN, A. L.,  REIS, C. R.,  GARCEZ, B. P.,  COELHO, D. F. B. O.,  SARAIVA, D. A.,  SOUZA, E. A.,  et.al,  IV Semana do Meio Ambiente de Nova Andradina",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação,Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "SANCHES",
+                    "evento": "S. C. P.,  SOUZA, S. P.,  CAMARGO, P. F.,  ESTÁCIO, L. B.,  ROYER, A. F. B.,  OCON, D. C. M.,  GARCEZ, B. P.,  MIRANDA, D. T. S. Z.,  BRASIL, L. S.,  ITO, R. H.,  CARVALHO, A. O.,  BRANDAO, M. A.,  II Festival de Arte e Cultura do IFMS",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação,Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "PEVIANI",
+                    "evento": "C. R. T.,  TÁPARO, M.,  CAIRES, A.,  FOGAÇA, D.,  SILVA, B.A.,  DIAS, E.,  ESTÁCIO, L. B.,  ELISA, K.,  GULARTE, N.O.,  1ª Semana de Informática da UFGD. SEINFO",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal da Grande Dourados."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "ESTÁCIO, L. B.",
+                "titulo": "AGUIAR, M",
+                "evento": "F. A.; SOUSA",
+                "local": "S. L.; RODRIGUES, W. M.; CASAS, B. A.; DESENVOLVIMENTO DOS CENÁRIOS DE ENSINO/APRENDIZAGEM E SITE DE DIVULGAÇÃO DO JOGO DIGITAL LABORATÓRIO CURIE. Feira de Ciência e Tecnologia de Nova Andradina MS, Nova Andradina MS",
+                "ano": "2018"
+            },
+            {
+                "autores": "ESTÁCIO, L. B.",
+                "titulo": "SANTOS, B",
+                "evento": "L. R.; AGUIAR",
+                "local": "M. F. A.; COELHO, N. P.; Laboratório Curie: Jogo para o ensino de química experimental e boas práticas no laboratório. Feira de Tecnologias, Engenharias, e Ciências de MS, Campo Grande",
+                "ano": "2018"
+            },
+            {
+                "autores": "ESTÁCIO, L. B.",
+                "titulo": "HELOU NETO, E",
+                "evento": "S.; Desempenho do Método de Kaczmarz Aleatório com Parâmetros de Relaxação Bem Escolhidos. XXXV CONGRESSO NACIONAL DE MATEMÁTICA APLICADA E COMPUTACIONAL",
+                "local": "Natal - RN",
+                "ano": "2014"
+            },
+            {
+                "autores": "ESTÁCIO, L. B.",
+                "titulo": "HELOU NETO, E",
+                "evento": "S.; Escolha do Parâmetro de Relaxação e Implementações Paralelas do Método de Kaczmarz. Congresso de Matemática Aplicada e Computacional",
+                "local": "Bauru - SP",
+                "ano": "2013"
+            },
+            {
+                "autores": "ESTÁCIO, L. B.",
+                "titulo": "HASHIMOTO, S",
+                "evento": "H. M.; LOPES",
+                "local": "J.C.; CARDOSO, V.F.; HASHIMOTO, H. T. B.; PINTO, P.F.; LOPES, M. T.; ALEXANDRE, E.S.; PROGRAMA DE INICIAÇÃO AO TRABALHO PROJETO BOMBEIRO ESPERANÇA. Encontro de Ensino e Pesquisa, ENEPE - UFGD, Dourados",
+                "ano": "2011"
+            },
+            {
+                "autores": "ESTÁCIO, L. B.",
+                "titulo": "HASHIMOTO, S",
+                "evento": "H. M.; CRAVEIRO",
+                "local": "I. M.; ESTUDO E IMPLEMENTAÇÃO DE UM ALGORITMO HEURÍSTICO BASEADO EM GRASP PARA SOLUÇÃO DO PROBLEMA DO CONJUNTO INDEPENDENTE MÁXIMO. VI Simpósio de Matemática da FCT (VI SMAT) e Encontro Regional de Matemática Aplicada e Computacional (ERMAC), Presidente Prudente",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Aiesa Moraes Rosa; João Vitor Xavier",
+                "titulo": "Carpilator: Jogo digital educativo para ensino de programação",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Breno R",
+                "titulo": "Maia; Luisa F. Macedo.  Data Guida: Jogo para o ensino de banco de dados e conscientização ambiental",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Joao Pedro B",
+                "titulo": "A. Zanchett; Bruno Santos.  Jogo digital de ritmo com analise musical em tempo real",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Cesar H",
+                "titulo": "Sousa; Keila D. Fernandes.  Sistema para auxiliar na mudança de imóveis",
+                "ano": "2020",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "BEATRIZ LANDIGRAF RIOS DOS SANTOS",
+                "titulo": "LABORATÓRIO CURIE: JOGO PARA O ENSINO DE QUÍMICA EXPERIMENTAL E BOAS PRÁTICAS NO LABORATÓRIO",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "LUCAS OLIVEIRA SANTOS",
+                "titulo": "SISGAE - SISTEMA GERENCIADOR DE ATENDIMENTO ESTÉTICO",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.4724221229553223,
+            "indian": 5.212677478790283,
+            "black": 1.3380544185638428,
+            "white": 26.650592803955078,
+            "middle eastern": 12.848053932189941,
+            "latino hispanic": 50.47820281982422
+        }
+    }
+}

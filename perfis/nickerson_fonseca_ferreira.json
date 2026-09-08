@@ -1,0 +1,162 @@
+{
+    "campus": "- Campus João Câmara",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Informática",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universidade de Coimbra",
+                "titulo": "Real-Time Warehousing",
+                "orientador": "Pedro Nuno San-Bento Furtado"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "móveis",
+                "periodo": "2008 - 2009",
+                "instituicao": "FACULDADE DE TECNOLOGIA DE JOÃO PESSOA",
+                "orientador": "Ricardo Roberto de Lima"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2002 - 2006",
+                "instituicao": "Centro Universitário de João Pessoa"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "FS & VASCONCELOS LTDA.",
+                "periodo": "2005 - 2007",
+                "cargo": "Analista de Sistemas, - Analista de sistemas responsável por uma equipe de desenvolvedores (estagiários), coordenando/organizando projetos da TI relacionados à área comercial da empresa. - Desenvolvendo sistemas Web com auxílio do framework e-Gen, utilizando tecnologias como: JSP, JDBC, Servlets, XML, PL/SQL.."
+            },
+            {
+                "empresa": "Politec Tecnologia da Informação S. A.",
+                "periodo": "2007 - 2011",
+                "cargo": "Analista de Sistemas, -Analista de sistemas da Politec Filial João Pessoa, desenvolvendo sistemas utilizados pela Secretaria das Finanças do Estado da Paraíba, como por exemplo, a carga dos arquivos entregue pelos contribuintes com as informações das movimentações financeiras realizadas. Utilizando tecnologias como: JSP, Servlet, JDBC, EJB, XML, JavaScript, entre outras.."
+            },
+            {
+                "empresa": "Flor de Utopia :: Sistemas de Informação, Internet e Multimédia",
+                "periodo": "2011 - 2012",
+                "cargo": "Programador Informático Assistente, Contrato de Trabalho, -Membro da equipe de desenvolvimento do projeto EDUCA, que é um projeto para desenvolvimento de uma plataforma informática que permite agregar, pesquisar, publicar e proteger conteúdos multimédia empresariais, científicos, educativos e culturais automaticamente. Para o desenvolvimento dessa plataforma estão sendo utilizadas tecnologias como: Maven, Spring, JSF, Hibernate, entre outas.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2014",
+                "cargo": "Professor Efetivo."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Promovendo o Ensino de Lógica, Algoritmos e Programação de Computadores em Escolas da Rede Pública do Municipio de João Câmara/RN",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Nickerson Fonseca Ferreira"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "FERREIRA, N. F.",
+                "titulo": "Furtado, Pedro;  Data Warehouse de tempo real: projeto e avaliação",
+                "ano": "2013",
+                "informacoes_adicionais": "Impresso. ISBN: 9788540607217, Olinda (Publicado)."
+            },
+            {
+                "autores": "Cuzzocrea, Alfredo",
+                "titulo": "Ferreira, Nickerson;  Furtado, Pedro;  Lecture Notes in Computer Science. Título do capítulo: Enhancing Traditional Data Warehousing Architectures with Real-Time Capabilities",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9783319083254, Suiça."
+            },
+            {
+                "autores": "Cuzzocrea, Alfredo",
+                "titulo": "Ferreira, Nickerson;  Furtado, Pedro;  Lecture Notes in Computer Science. Título do capítulo: Real-Time Data Warehousing: A Rewrite/Merge Approach",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9783319101590."
+            },
+            {
+                "autores": "Cecílio, José",
+                "titulo": "Costa, João;  Martins, Pedro;  Ferreira, Nickerson;  Furtado, Pedro;  Lecture Notes in Computer Science. Título do capítulo: Evaluating and Bounding Operations Performance in Heterogeneous Sensor and Actuator Networks with Wireless Components",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9783642392467."
+            },
+            {
+                "autores": "Cecílio, José",
+                "titulo": "Costa, João;  Martins, Pedro;  Ferreira, Nickerson;  Furtado, Pedro;  Lecture Notes in Computer Science. Título do capítulo: MidSN &#45; A Middleware for Uniform Configuration and Processing over Heterogeneous Sensor and Actuator Networks",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9783642392467."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "Cuzzocrea, Alfredo",
+                "titulo": "Ferreira, Nickerson;  Furtado, Pedro;  A rewrite/merge approach for supporting real-time data warehousing via lightweight data integration",
+                "ano": "2018",
+                "periodico": "THE JOURNAL OF SUPERCOMPUTING (DORDRECHT. ONLINE). ISBN: 15730484   ."
+            },
+            {
+                "autores": "ANDRADE, A. F. N.",
+                "titulo": "FERREIRA, N. F.;  DESENVOLVIMENTO DE UM DATA WAREHOUSE PARA ARMAZENAMENTO E ANÁLISE DOS DADOS DA GERAÇÃO DE ENERGIA EÓLICA NA REGIÃO DO MATO GRANDE",
+                "ano": "2016",
+                "periodico": "Anais da II Semana de Ciência, Tecnologia e Extensão do IFRN. ISBN: 23581034   ."
+            },
+            {
+                "autores": "Ferreira, Nickerson",
+                "titulo": "Furtado, Pedro;  Real-time data warehouse: a solution and evaluation",
+                "ano": "2013",
+                "periodico": "International Journal of Business Intelligence and Data Mining. ISBN: 17438187   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTIAGO, B. C. F.",
+                "titulo": "SOUZA, C",
+                "evento": "H. T.; FERREIRA",
+                "local": "N. F.; Ambiente Virtual de Comunicação e Troca de Conhecimento. II Congresso sobre Tecnologias na Educação (Ctrl+E 2017), Mamaguape",
+                "ano": "2017"
+            },
+            {
+                "autores": "Ferreira, Nickerson",
+                "titulo": "Martins, Pedro; Furtado, Pedro; Near real-time with traditional data warehouse architectures",
+                "evento": "the 17th International Database Engineering &amp; Applications Symposium",
+                "local": "Barcelona",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.29044103622436523,
+            "indian": 1.479526400566101,
+            "black": 0.13595661520957947,
+            "white": 63.26310348510742,
+            "middle eastern": 18.43953514099121,
+            "latino hispanic": 16.391441345214844
+        }
+    }
+}

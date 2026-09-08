@@ -1,5 +1,6 @@
 {
     "campus": "- Campus São João Evangelista",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -95,18 +96,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
-                "nome": "Mais Cultura nas Escolas",
-                "periodo": "2015",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Fernando Marcos Souza Silva",
-                    "Dirlene Ararecida Almeida e Silva",
-                    "Marcelo Moreira West",
-                    "Maria Alice Gomes Lopes Leite"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
                 "nome": "Projeto de ensino: OBI em Foco",
                 "periodo": "2015",
                 "natureza": "Outra",
@@ -117,6 +106,18 @@
                     "Ruan Alves Gonçalves",
                     "Vinícius Gonçalves",
                     "Marcelo Moreira West"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais",
+                "nome": "Mais Cultura nas Escolas",
+                "periodo": "2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Fernando Marcos Souza Silva",
+                    "Dirlene Ararecida Almeida e Silva",
+                    "Marcelo Moreira West",
+                    "Maria Alice Gomes Lopes Leite"
                 ]
             },
             {
@@ -276,12 +277,12 @@
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 1.9868072271347046,
-            "indian": 8.9322509765625,
-            "black": 1.7333135604858398,
-            "white": 24.590391159057617,
-            "middle eastern": 32.142520904541016,
-            "latino hispanic": 30.614721298217773
+            "asian": 1.8014817237854004,
+            "indian": 10.14254379272461,
+            "black": 1.7369290590286255,
+            "white": 27.489797592163086,
+            "middle eastern": 29.90287971496582,
+            "latino hispanic": 28.926368713378906
         }
     }
 }

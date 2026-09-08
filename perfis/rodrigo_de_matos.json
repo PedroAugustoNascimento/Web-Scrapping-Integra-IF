@@ -1,0 +1,123 @@
+{
+    "campus": "- Câmpus Lages",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Governança de TI",
+                "periodo": "2013 - 2014",
+                "instituicao": "Faculdade do Grupo UNIASSELVI",
+                "orientador": "Claudia Melissa Carnevalli Torres"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Inglês",
+                "periodo": "2022 - 2023",
+                "instituicao": "Centro Universitário Leonardo da Vinci"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Informática",
+                "periodo": "1999 - 2004",
+                "instituicao": "Universidade do Planalto Catarinense"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Secretaria de Educação do Município de Lages",
+                "periodo": "2008 - 2023",
+                "cargo": "Assistente de Tecnologia da Informação, Coordenador do Núcleo de Tecnologia Municipal - NTMProfessor Formador do Programa Nacional de Informática - PROINFO."
+            },
+            {
+                "empresa": "Centro Universitário FACVEST",
+                "periodo": "2014 - 2015",
+                "cargo": "Professor de Pós Graduação, Professor contratado nas disciplinas de Engenharia de Software e Banco de Dados, no curso de Pós Graduação em Engenharia de Sistemas e Ciência da Computação.."
+            },
+            {
+                "empresa": "CEDUP Renato Ramos da Silva",
+                "periodo": "2025",
+                "cargo": "Professor de Informática."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MATOS",
+                    "titulo": "R.,  Computação Musical",
+                    "ano": "2004",
+                    "instituicao_promotora": "Uniplac."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MATOS",
+                    "curso": "R.,  Curso de Introdução a Educação Digital",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "MATOS",
+                    "curso": "R.,  Curso de Introdução a Educação Digital",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "MATOS",
+                    "curso": "R.,  Curso de Introdução a Educação Digital",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "MATOS",
+                    "curso": "R.,  Curso de Introdução a Educação Digital",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "MATOS",
+                    "curso": "R.,  Curso de Excel Avançado",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "MATOS",
+                    "curso": "R.,  Curso de Introdução a Educação Digital",
+                    "ano": "2010"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "MATOS, R.",
+                "titulo": "BRANCO NETO; Dinamizando o Desenvolvimento da Percepção Musical: Um Sistema de Apoio a Relização de Exercícios",
+                "evento": "Workshop sobre Informática na Escola",
+                "local": "Porto Alegre",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 21.083921432495117,
+            "indian": 11.829239845275879,
+            "black": 13.795356750488281,
+            "white": 10.374054908752441,
+            "middle eastern": 6.119750022888184,
+            "latino hispanic": 36.79767990112305
+        }
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Congonhas",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -176,12 +177,12 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Desenvolvimento de um sistema para mensurar distâncias percorridas em atividades físicas",
+                "nome": "Estudo comparativo entre sistema de simulação numérico baseado em software livre e em sistema comercial",
                 "periodo": "2015 - 2016",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Fabrício Carvalho Soares",
-                    "Lucas Adriel Elias Ferreira"
+                    "Guilherme de Souza Paiva"
                 ],
                 "financiador": "Instituto Federal Minas Gerais,"
             },
@@ -199,12 +200,12 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Estudo comparativo entre sistema de simulação numérico baseado em software livre e em sistema comercial",
+                "nome": "Desenvolvimento de um sistema para mensurar distâncias percorridas em atividades físicas",
                 "periodo": "2015 - 2016",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Fabrício Carvalho Soares",
-                    "Guilherme de Souza Paiva"
+                    "Lucas Adriel Elias Ferreira"
                 ],
                 "financiador": "Instituto Federal Minas Gerais,"
             },
@@ -466,10 +467,10 @@
                 "ano": "1999"
             },
             {
-                "autores": "OUTROS",
-                "titulo": "SOARES, F",
-                "evento": "C.; NAGEN",
-                "local": "D. A.; BRACARENSE, A.; GRUPO PARAMEC - CVP Cadeira com variação de posição e a engenharia e o portador de deficiência. 2 Bienal de extensão proex, Belo Horizonte",
+                "autores": "SOARES, F. C.",
+                "titulo": "NAGEN, D",
+                "evento": "A.; BRACARENSE",
+                "local": "A.; OUTROS; GRUPO PARAMEC - CVP Cadeira com variação de posição e a engenharia e o portador de deficiência. 2 Bienal de extensão proex, Belo Horizonte",
                 "ano": "1999"
             }
         ]
@@ -721,12 +722,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.30839648842811584,
-            "indian": 1.0045766830444336,
-            "black": 0.1463826596736908,
-            "white": 60.01783752441406,
-            "middle eastern": 22.1348819732666,
-            "latino hispanic": 16.38792610168457
+            "asian": 4.974328517913818,
+            "indian": 2.6428136825561523,
+            "black": 0.5579808950424194,
+            "white": 48.960025787353516,
+            "middle eastern": 22.273141860961914,
+            "latino hispanic": 20.591711044311523
         }
     }
 }

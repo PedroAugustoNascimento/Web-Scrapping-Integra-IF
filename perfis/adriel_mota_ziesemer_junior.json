@@ -1,0 +1,382 @@
+{
+    "campus": "- Campus Canoas",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Microeletrônica",
+                "periodo": "2007 - 2014",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Síntese Automática de Células com Baixo Consumo de Energia",
+                "orientador": "Ricardo Augusto da Luz Reis"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "periodo": "2005 - 2007",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Geração Automática de Partes Operativas de Circuitos VLSI",
+                "orientador": "Ricardo Augusto da Luz Reis"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciências da Computação",
+                "periodo": "2000 - 2004",
+                "instituicao": "Universidade Federal de Pelotas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "CGM - Sistemas",
+                "periodo": "1999 - 1999",
+                "cargo": "Programador e Técnico de Computadores, Estagiário."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2004 - 2005",
+                "cargo": "Pesquisador, Bolsista AT."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2002 - 2002",
+                "cargo": "Pesquisador, Bolsista IC, Bolsista do Programa lnstitucional - PIBIC - CNPq/UFPel."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2001 - 2001",
+                "cargo": "Bolsista, Laboratorista do Curso de Ciências da Computação."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2010",
+                "cargo": "Prof. do ensino básico, téc. e tecnoló[gico."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LEONHARDT",
+                    "software": "Charles Capella,  NESELLO, F.,  REIS, Ricardo,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  ICPD/ASTRAN - Automatic Synthesis of Transistor Networks",
+                    "ano": "2009",
+                    "finalidade": "Ferramenta para Síntese Física de Circuitos VLSI."
+                },
+                {
+                    "autor": "LAZZARI",
+                    "software": "Cristiano,  HENTSCHKE, R.,  SANTOS, G. V. B.,  REIS, Ricardo,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  CellGen - Gerador Automático de Leiaute de Células CMOS",
+                    "ano": "2007",
+                    "finalidade": "Gerador Automático de Leiautes para Circuitos CMOS."
+                },
+                {
+                    "autor": "HENTSCHKE",
+                    "software": "R.,  REIS, Ricardo,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Jungle Parrot - Montador Automático de Partes Operativas",
+                    "ano": "2006",
+                    "finalidade": "Criar de forma automática leiautes de partes operativas utilizando células provindas de uma biblioteca."
+                },
+                {
+                    "autor": "ALTEMANN",
+                    "software": "Wagner,  GÜNTZEL, José Luís,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Jaguar - Gerador Automático de Somadores e Multiplicadores",
+                    "ano": "2004",
+                    "finalidade": "Gerador Automático de Somadores e Multiplicadores."
+                },
+                {
+                    "autor": "ZIESEMER",
+                    "software": "Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  SPCCheque - Serviço de Proteção ao Crédito da Associação Comercial e Industrial de São Lourenço do Sul",
+                    "ano": "1996",
+                    "finalidade": "Automatização do Serviço de Proteção ao Crédito da Associação Comercial e Industrial de São Lourenço do Sul."
+                },
+                {
+                    "autor": "ZIESEMER",
+                    "software": "Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Geração Automática de Multiplicadores para Números Inteiros Binários",
+                    "ano": "2004",
+                    "finalidade": "Trabalho de Conclusão de Curso."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Moreira",
+                    "titulo": "Mateus,  Arendt Michel,  Ziesemer, A. M.,  Reis, R.,  Calazans, Ney,  Automated Synthesis of Cell Libraries for Semi-Custom Asynchronous Design",
+                    "ano": "2014",
+                    "instituicao_promotora": "IEEE."
+                },
+                {
+                    "autores": "KLUMB",
+                    "titulo": "Aline,  BALDEZ, Alexandre,  ZIESEMER, Adriel,  NASCIMENTO, L. V. do,  Sistema de Monitoramento Inteligente para Transporte Público",
+                    "ano": "2012",
+                    "instituicao_promotora": "Siemens."
+                },
+                {
+                    "autores": "REIS",
+                    "titulo": "Ricardo,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Reducing Power Leakage and NBTI Effects by Using Automatic Generated Cells",
+                    "ano": "2009",
+                    "instituicao_promotora": "UFRGS/UFSC."
+                },
+                {
+                    "autores": "ALTEMANN",
+                    "titulo": "Wagner,  GÜNTZEL, José Luís,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Visualisação e edição de Layouts de Circuítos CMOS",
+                    "ano": "2003",
+                    "instituicao_promotora": "UFPEL."
+                },
+                {
+                    "autores": "ALTEMANN",
+                    "titulo": "Wagner,  GÜNTZEL, José Luís,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Geração de Bit-Slice para Blocos Operativos em Tecnologia CMOS",
+                    "ano": "2003",
+                    "instituicao_promotora": "UFPEL."
+                },
+                {
+                    "autores": "BORGES",
+                    "titulo": "Rafael Vergara,  CALDEIRA, Helena Pinto,  FOSSATI, Leonardo,  MACHADO, Amauri de Almeida,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Implementação de um Ambiente para Cursos de Estatística Utilizando Recursos Multimídia",
+                    "ano": "2002",
+                    "instituicao_promotora": "UFRGS."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BRAUNER",
+                    "curso": "Daniela Francisco,  ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA,  Curso de Desenvolvimento WEB com PHP + MySQL",
+                    "ano": "2003"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ZIESEMER, ADRIEL MOTA",
+                "titulo": "REIS, Ricardo;  Physical design automation of transistors network",
+                "ano": "2015",
+                "periodico": "Microelectronic Engineering. ISBN: 01679317   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SMANIOTTO, G. H.",
+                "titulo": "MOREIRA, MATHEUS T",
+                "evento": "; Ziesemer",
+                "local": "A. M.; MARQUES, F. S.; ROSA JR., L.; Implementing Transistor Folding Technique in ASTRAN CAD Tool. SIM - Simpósio Sul de Microeletrônica, Santa Maria",
+                "ano": "2015"
+            },
+            {
+                "autores": "MOURA, G. B.",
+                "titulo": "Ziesemer, A",
+                "evento": "M.; Reis",
+                "local": "R.; A Study on the Automatic Synthesis of Layout with ASTRAN using FreePDK 45nm. SIM - Simpósio Sul de Microeletrônica, Santa Maria",
+                "ano": "2015"
+            },
+            {
+                "autores": "Ziesemer, A. M.",
+                "titulo": "Reis, R",
+                "evento": "; Moreira",
+                "local": "Mateus; Arendt Michel; Calazans, Ney; A design flow for physical synthesis of digital cells with ASTRAN. GLSVLSI '14, Houston",
+                "ano": "2014"
+            },
+            {
+                "autores": "Moreira, Mateus",
+                "titulo": "Arendt Michel; Ziesemer, A",
+                "evento": "M.; Reis",
+                "local": "Ricardo; Calazans, Ney; Automated Synthesis of Cell Libraries for Asynchronous Circuits. SBCCI 2014, Aracaju",
+                "ano": "2014"
+            },
+            {
+                "autores": "Ziesemer, A. M.",
+                "titulo": "REIS, Ricardo; Simultaneous Two-Dimensional Cell Layout Compaction Using MILP with ASTRAN",
+                "evento": "ISVLSI",
+                "local": "Tampa",
+                "ano": "2014"
+            },
+            {
+                "autores": "POSSER, G.",
+                "titulo": "ZIESEMER, Adriel; Guimares, D",
+                "evento": "; WILKE",
+                "local": "G.; REIS, Ricardo; Estudo da Qualidade do Leiaute de Células Geradas Automaticamente. IBERCHIP, Bogotá",
+                "ano": "2011"
+            },
+            {
+                "autores": "Vazquez, Julio",
+                "titulo": "CHAMPAC, Victor H",
+                "evento": "; REIS",
+                "local": "Ricardo; TEIXEIRA, Isabel; SANTOS, Marcelino; TEIXEIRA, João P.; ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA; Delay Sensing for Parametric Variations and Defects Monitoring in Safety-Critical. LASCAS, Foz do Iguaçu",
+                "ano": "2010"
+            },
+            {
+                "autores": "LEONHARDT, Charles Capella",
+                "titulo": "NESELLO, F",
+                "evento": "; REIS",
+                "local": "Ricardo; ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA; Roteamento Detalhado Usando Path&#64257;nder e A*. IBERCHIP, Foz do Iguaçu",
+                "ano": "2010"
+            },
+            {
+                "autores": "NESELLO, F.",
+                "titulo": "LEONHARDT, Charles Capella; REIS, Ricardo; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; ASTRAN: Ferramenta para Geração Automática de Circuitos VLSI. IBERCHIP, Foz do Iguaçu",
+                "ano": "2010"
+            },
+            {
+                "autores": "POSSER, G.",
+                "titulo": "Ziesemer, A",
+                "evento": "M.; Guimares",
+                "local": "D.; WILKE, G.; Reis, R.; A study on layout quality of automatic generated cells. ICECS, Atenas",
+                "ano": "2010"
+            },
+            {
+                "autores": "LEONHARDT, Charles Capella",
+                "titulo": "REIS, Ricardo; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Improved Detailed Routing using Pathfinder and A*. SIM, Pelotas",
+                "ano": "2009"
+            },
+            {
+                "autores": "Vazquez, Julio",
+                "titulo": "CHAMPAC, Victor H",
+                "evento": "; REIS",
+                "local": "Ricardo; TEIXEIRA, Isabel; SANTOS, Marcelino; TEIXEIRA, João P.; ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA; Built-In Aging Monitoring for Safety-Critical Applications. IOLTS'09, Sesimbra-Lisboa",
+                "ano": "2009"
+            },
+            {
+                "autores": "REIS, Ricardo",
+                "titulo": "ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Cellgen - An Automatic Cell Synthesis Tool. SIM - Simpósio Sul de Microeletrônica, Bento Gonçalves",
+                "ano": "2008"
+            },
+            {
+                "autores": "SALDANHA, Luca B.",
+                "titulo": "LEONHARDT, Charles Capella; REIS, Ricardo; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Improving Pathfinder using Iterated 1-Steiner Algorithm. Simpósil Sul de Microeletrônica, Bento Gonçalves",
+                "ano": "2008"
+            },
+            {
+                "autores": "LAZZARI, Cristiano",
+                "titulo": "REIS, Ricardo; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Automatic Transistor-Level Layout Generator of CMOS Cells. XXII SIM, Porto Alegre",
+                "ano": "2007"
+            },
+            {
+                "autores": "HENTSCHKE, R.",
+                "titulo": "SANTOS, G",
+                "evento": "V. B.; REIS",
+                "local": "Ricardo; ZIESEMER, Adriel;Ziesemer, A. M.;Adriel Mota Ziesemer Jr;ZIESEMER, ADRIEL MOTA; Cell Size Estimation in an Automatic Layout Generation Flow. SIM 2006, Porto Alegre",
+                "ano": "2006"
+            },
+            {
+                "autores": "BRAGA, Matheus P",
+                "titulo": "COSTA, Eduardo; GÜNTZEL, José Luís; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Automatic Layout Generation of 2's Complement Multipliers in CMOS Technology. IWS, Salvador - Brasil",
+                "ano": "2005"
+            },
+            {
+                "autores": "BRAGA, Matheus P",
+                "titulo": "ALTEMANN, Wagner; AGOSTINI, Luciano; GÜNTZEL, José Luís; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Automatic Layout Generation of Binary Adders in Static CMOS Logic. XX SIM, Santa Cruz do Sul",
+                "ano": "2005"
+            },
+            {
+                "autores": "BRAGA, Matheus P",
+                "titulo": "COSTA, Eduardo; GÜNTZEL, José Luís; ZIESEMER, Adriel;Ziesemer, A",
+                "evento": "M.;Adriel Mota Ziesemer Jr;ZIESEMER",
+                "local": "ADRIEL MOTA; Development of an Automatic Regular Layout Generator of 2's Complement Multipliers in CMOS Technology. XX SIM, Santa Cruz do Sul",
+                "ano": "2005"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "GELSON BRAGA COSTA",
+                "titulo": "RELATÓRIO DE ESTÁGIO SUPERVISIONADO",
+                "ano": "2014",
+                "curso": "Te&#769;cnico em Manutenc&#807;a&#771;o e Suporte em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Diego Canto Rodrigues",
+                "titulo": "Daily: Criando um Diário Móvel",
+                "ano": "2014",
+                "curso": "Te&#769;cnico em Informa&#769;tica Integrado ao Ensino Me&#769;di",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Felipe San Martin Ignacio Gomes",
+                "titulo": "Estudo de Te&#769;cnicas de Intelige&#770;ncia Artificial Aplicadas a Jogos e Implementac&#807;a&#771;o de Algoritmos de Pathfinding Em Um Jogo RTS",
+                "ano": "2013",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "KARINA BECKER DEKEN",
+                "titulo": "RELATÓRIO DE ESTÁGIO SUPERVISIONADO",
+                "ano": "2013",
+                "curso": "Te&#769;cnico em Manutenc&#807;a&#771;o e Suporte em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Alexandre Marques Baldes Junior",
+                "titulo": "Sistema Inteligente de Monitoramento de Frotas de O&#770;nibus",
+                "ano": "2012",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Aline Klumb",
+                "titulo": "Sistema Inteligente de Monitoramento de Frotas de O&#770;nibus",
+                "ano": "2012",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Charles Leonhardt",
+                "titulo": "Roteamento de Circuitos VLSI",
+                "ano": "2009",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Luca Bochi Saldanha",
+                "titulo": "Aperfeiçoamento do Pathfinder usando o Algoritmo de Iterated 1-Steiner",
+                "ano": "2008",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Charles Leonhardt",
+                "titulo": "Desenvolvimento de um Roteador Detalhado para Circuitos VLSI",
+                "ano": "2007",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Felipe Ávila Nesello",
+                "titulo": "Aprimoramento da Ferramenta ICPD para Geração Automática de Circuitos VLSI",
+                "ano": "2007",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.171943187713623,
+            "indian": 7.91766881942749,
+            "black": 2.8237287998199463,
+            "white": 44.23329544067383,
+            "middle eastern": 26.085725784301758,
+            "latino hispanic": 11.7676420211792
+        }
+    }
+}

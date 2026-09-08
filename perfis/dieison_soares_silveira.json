@@ -1,0 +1,814 @@
+{
+    "campus": "- Campus Canoas",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Microeletrônica",
+                "periodo": "2016 - 2021",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Gestão e Aproximação de Dados em Sistemas de Memórias com NV-RAMs Dedicados a Codificadores de Vídeo Eficientes",
+                "orientador": "Sergio Bampi"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "COMPUTAÇÃO",
+                "periodo": "2013 - 2015",
+                "instituicao": "Universidade Federal de Pelotas",
+                "titulo": "Algoritmos e Arquiteturas de Hardware para a compressão de Quadros de Referência em Codificadores de Vídeo Digitais",
+                "orientador": "Marcelo Schiavon Porto"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Computação para Educação Básica",
+                "periodo": "2024 - 2026",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "orientador": "João Cesar Netto"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Computação",
+                "periodo": "2017 - 2018",
+                "instituicao": "Claretiano Centro Universitário"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2008 - 2012",
+                "instituicao": "Universidade Federal de Pelotas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2011 - 2013",
+                "cargo": "Bolsista graduação, Estudante, Atividade realizada: Pesquisa, ensino e extensão no Grupo PET Computação.."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2010 - 2010",
+                "cargo": "Bolsista graduação, Estudante, Atividade realizada: Monitor da disciplina de Algoritmos e programação.."
+            },
+            {
+                "empresa": "Universidade Federal de Pelotas",
+                "periodo": "2009 - 2009",
+                "cargo": "Bolsista graduação, Estudante, Atividade realizada: Monitor da disciplina de Algoritmos e programação.."
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "periodo": "2016 - 2017",
+                "cargo": "Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "periodo": "2015 - 2015",
+                "cargo": "Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "periodo": "2013 - 2015",
+                "cargo": "Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal Sul-Rio-Grandense",
+                "periodo": "2014 - 2015",
+                "cargo": "Professor EBTT Substituto, Servidor público, Professor substituto no IFSUL campus Camaquã.."
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "periodo": "2015 - 2016",
+                "cargo": "Pesquisador, Bolsista."
+            },
+            {
+                "empresa": "Journal of Computational Science",
+                "periodo": "2016",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2021 - 2024",
+                "cargo": "Coordenador de curso de graduação, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2017",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "periodo": "2016 - 2021",
+                "cargo": "Doutorando pesquisador."
+            },
+            {
+                "empresa": "IEEE Transactions on Circuits and Systems I",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Micro and Nano Systems",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Transactions on Circuits and Systems for Video Technology",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nGraduacao (2026) - Engenharia Eletrônica.\nGraduacao (2017) - Análise E Desenvolvimento De Sistemas.\nEnsino-medio (2017) .\nGraduacao (2017 - 2023) - Automação Industrial.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nMembro Da Comissão Permanente De Pessoal Docente (cppd) (2021 - 2023).\nRepresentante Do Núcleo De Integração Do Ensino, Pesquisa E Extensão (niepe) Da Área De Informática (2021 - 2021).\nSecretário Na Comissão Permanente De Pessoal Docente - Cppd (2017 - 2019).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Pelotas",
+                "nome": "Algorimos Eficientes para a Codificação de Vídeos em Sistemas Embarcados Adaptativos",
+                "periodo": "2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "PORTO",
+                    "MARCELO",
+                    "Dieison Soares Silveira",
+                    "GRELLERT",
+                    "M.",
+                    "Bruno Zatt",
+                    "Luciano Volcan Agostini",
+                    "Daniel Munari Palomino"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Pelotas",
+                "nome": "Investigação e Desenvolvimento de Arquiteturas e de Algoritmos para a Compressão de Vídeos Digitais de Acordo com o Padrão Emergente HEVC High Efficiency Video Coding",
+                "periodo": "2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "AGOSTINI",
+                    "LUCIANO",
+                    "GRELLERT",
+                    "M.",
+                    "Guilherme Ribeiro Corrêa",
+                    "Luís Alberto da Silva Cruz",
+                    "Daniel Munari Palomino",
+                    "Pedro Amado Assunção",
+                    "Cássio Rodrigo Cristani"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Pelotas",
+                "nome": "Desenvolvimento de Software e Hardware para Codificação de Vídeos Digitais",
+                "periodo": "2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "Leomar Soares da Rosa Junior",
+                    "Luciano Volcan Agostini"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Offboard - Manutenção e suporte a serviço da comunidade",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "Marcio Bigolin",
+                    "Carla Odete Balestro Silva",
+                    "Sandro José Ribeiro da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "JA-TADS - Jornada Acadêmica do TADS - IFRS Canoas 2023",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dieison Soares Silveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Desenvolvimento de Tecnologias da Informação e Comunicação voltadas ao Acordo de Cooperação Técnica entre IFRS-Canoas e TCE-RS",
+                "periodo": "2023 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "Marcio Bigolin",
+                    "Carla Odete Balestro Silva",
+                    "MARCOS DANIEL SCHMIDT DE AGUIAR",
+                    "PATRICIA NOGUEIRA HUBLER"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Offboard - Manutenção com consciência ambiental a serviço da comunidade",
+                "periodo": "2023 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "Carla Odete Balestro Silva",
+                    "Sandro José Ribeiro da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "MMC-PC: Montagem, Manutenção e Configuração de Computadores Pessoais",
+                "periodo": "2025",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "Sandro José Ribeiro da Silva",
+                    "Henrique Miranda da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Offboard - Manutenção de computadores com consciência ambiental a serviço da comunidade",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "Sandro José Ribeiro da Silva",
+                    "Yuri de Oliveira Bitencourt"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Offboard - Manutenção e suporte a serviço da comunidade - 2022",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Dieison Soares Silveira"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Sischip2 - Concepção e Síntese de Sistemas em Chip",
+                "periodo": "2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Dieison Soares Silveira",
+                    "PORTO",
+                    "MARCELO",
+                    "Sergio Bampi",
+                    "Ricardo Augusto da Luz Reis"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVEIRA",
+                    "software": "DIEISON SOARES,  MERSy: Memory Energy Reduction System",
+                    "ano": "2020",
+                    "finalidade": "Analisar a avaliar a utilização conjunta de diferentes técnicas para atingir alta redução de consumo de energia em codificadores de vídeo.."
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "software": "DIEISON SOARES,  DDRFC: Double Differential Reference Frame Compressor",
+                    "ano": "2014",
+                    "finalidade": "Redução da largura de banda de memória externa durante a codificação de vídeos digitais de alta definição."
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "software": "DIEISON SOARES,  DRFVLC: Differential Reference Frame Variable-Length Coder",
+                    "ano": "2014",
+                    "finalidade": "Redução da largura de banda de memória externa durante a codificação de vídeos digitais de alta definição."
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "software": "DIEISON SOARES,  RFCAVLC8T: Reference Frame Context Adaptive Variable Length Coder with 8 Tables",
+                    "ano": "2013",
+                    "finalidade": "Redução da largura de banda de memória externa durante a codificação de vídeos digitais de alta definição."
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "software": "DIEISON SOARES,  DRFC: Differential Reference Frame Coder",
+                    "ano": "2013",
+                    "finalidade": "Redução da largura de banda de memória externa durante a codificação de vídeos digitais de alta definição."
+                },
+                {
+                    "autor": "SILVEIRA",
+                    "software": "DIEISON SOARES,  RFCAVLC: Reference Frame Context-Adaptative Variable-Length Coder",
+                    "ano": "2012",
+                    "finalidade": "Compressão de quadros de referência em codificadores de vídeo."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "DIEISON,  Energy efficiency memory schemes for video coding systems",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Sul."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "DIEISON,  Memory Energy Consumption Reduction In Video Coding Systems",
+                    "ano": "2014",
+                    "instituicao_promotora": "Synopsys Inc.."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "DIEISON,  An Efficient Reference Frame Compression Approach for Video Coding Systems",
+                    "ano": "2014",
+                    "instituicao_promotora": "Synopsys Inc.."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "DIEISON,  Configurable Hardware Design for the HEVC-Based Adaptive Loop Filter",
+                    "ano": "2014",
+                    "instituicao_promotora": "Synopsys Inc.."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "DIEISON,  POVALA, G.,  AMARAL, L. S.,  ZATT, B.,  AGOSTINI, LUCIANO,  PORTO, Marcelo Schiavon,  Arquitetura vlsi de baixa potência para um compressor de quadros de referência",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "D. S.,  RFCAVLC: Uma Solução Eficiente para Redução da Largura de Banda de Memória e Energia em Codificadores de Vídeo",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "D. S.,  Desenvolvimento de Algoritmo para a Compressão de Quadros de Referência em Codificadores de Vídeos Digitais",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "D. S.,  Algoritmo para Compressão Sem Perdas de Quadros de Referência em Codificadores de Vídeos Digitais",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "titulo": "D. S.,  Redução da Largura de Banda de Memória Utilizando Compressão Sem Perdas Para Quadros de Referência na Codificação de Vídeos Digitais",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "C. O. B.,  SILVA, S. J. R.,  BIGOLIN, M.,  NICOLAU, M.,  SILVEIRA, DIEISON SOARES,  Capacita - Capacitação em Informática Básica",
+                    "ano": "2018"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "C. O. B.,  SILVA, S. J. R.,  ALMEIDA, I. L.,  PECHMANN, D. R.,  SILVEIRA, DIEISON SOARES,  XII IFCITEC ? Feira de Ciências e Inovação Tecnológica do IFRS - Campus Canoas",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "C. O. B.,  SILVEIRA, DIEISON S.,  Jornada Acadêmica do PROEJA",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  AGOSTINI, L. V.,  POSSANI, V. N.,  ROSA JUNIOR, L. S.,  VIII Southern Programmable Logic Conference",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  17ª Semana Acadêmica da Computação - UFPel",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  XVI Semana Acadêmica da Computação - UFPel",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  I Workshop-Escola de Informática Teórica (WEIT 2011)",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  AGOSTINI, L. V.,  GONÇALVES, G. W.,  Projeto de Inclusão Digital 2011",
+                    "ano": "2011",
+                    "duracao_semanas": "12",
+                    "instituicao_promotora": "Grupo PET Computação."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  XV Semana Acadêmica da Computação - UFPel",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "SILVEIRA",
+                    "evento": "D. S.,  AGOSTINI, L. V.,  Projeto de Inclusão Digital 2010",
+                    "ano": "2010",
+                    "duracao_semanas": "12",
+                    "instituicao_promotora": "Grupo PET Computação."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SILVEIRA, DIEISON S.",
+                "titulo": "Redução do consumo de energia em codificadores de vídeo digital: algoritmos e arquiteturas para a compressão de quadros de referência",
+                "ano": "2017",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788551700020, Pelotas (Publicado)."
+            },
+            {
+                "autores": "SILVEIRA, DIEISON",
+                "titulo": "POVALA, G.;  AMARAL, LIVIA;  ZATT, BRUNO;  AGOSTINI, LUCIANO;  PORTO, Marcelo Schiavon;  Trabalhos Premiados no 23º Congresso de Iniciação Científica e no 16º Encontro de Pós-Graduação da UFPel. Título do capítulo: Arquitetura de Hardware para um Compressor de Quadros de Referência em Codificadores de Vídeos Digitais",
+                "ano": "2016",
+                "informacoes_adicionais": "ISBN: 9788571929715, Pelotas."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SILVEIRA, DIEISON SOARES",
+                "titulo": "AMARAL, LÍVIA;  POVALA, GUILHERME;  ZATT, BRUNO;  AGOSTINI, Luciano Volcan;  PORTO, Marcelo Schiavon;  BAMPI, Sergio;  Low-energy motion estimation memory system with dynamic management",
+                "ano": "2021",
+                "periodico": "Journal of Real-Time Image Processing. ISBN: 18618200   ."
+            },
+            {
+                "autores": "ZATT, Bruno",
+                "titulo": "SILVEIRA, DIEISON S.;  POVALA, GUILHERME;  AMARAL, LÍVIA;  AGOSTINI, L. V.;  PORTO, Marcelo;  Efficient reference frame compression scheme for video coding systems: algorithm and VLSI design",
+                "ano": "2019",
+                "periodico": "Journal of Real-Time Image Processing. ISBN: 18618200   ."
+            },
+            {
+                "autores": "SILVEIRA, DIEISON",
+                "titulo": "ZATT, BRUNO;  AGOSTINI, LUCIANO;  PORTO, MARCELO;  Reference frame context-adaptive variable-length coder: a real-time hardware-friendly approach for lossless external memory bandwidth reduction in current video-coding systems",
+                "ano": "2018",
+                "periodico": "Journal of Real-Time Image Processing. ISBN: 18618200   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MONACO, V. S.",
+                "titulo": "SILVEIRA, DIEISON SOARES; Sistema Inteligente de Sinalização para Emergências Veiculares (SISEV)",
+                "evento": "XII IFCITEC ? Feira de Ciências e Inovação Tecnológica do IFRS - Campus Canoas",
+                "local": "Canoas",
+                "ano": "2024"
+            },
+            {
+                "autores": "SOUZA, V. C.",
+                "titulo": "GOMES, E",
+                "evento": "F.; ASSIS",
+                "local": "G. G.; SILVEIRA, DIEISON SOARES; Impacto da Inteligência Artificial Generativa no Mercado de Trabalho De Programação. XII IFCITEC ? Feira de Ciências e Inovação Tecnológica do IFRS - Campus Canoas, Canoas",
+                "ano": "2024"
+            },
+            {
+                "autores": "BAMPI, Sergio",
+                "titulo": "MATIVI, A",
+                "evento": "C.; SILVEIRA",
+                "local": "DIEISON S.; A Survey on Approximate Memory Techniques for Error-Tolerant Applications. XXXIV South Microelectronics School, Pelotas",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVEIRA, DIEISON SOARES",
+                "titulo": "MATIVI, ANA; PORTO, Marcelo Schiavon; BAMPI, Sergio; Energy Savings with Non-Volatile Memory System for High Definition Video Encoders",
+                "evento": "2019 17th IEEE International New Circuits and Systems Conference (NEWCAS)",
+                "local": "Munich",
+                "ano": "2019"
+            },
+            {
+                "autores": "MATIVI, A. C.",
+                "titulo": "SILVEIRA, DIEISON S",
+                "evento": "; BAMPI",
+                "local": "Sergio; Exploring Approximate Memories in High Efficiency Video Coding. IEEE CASS Rio Grande do Sul Workshop, Porto Alegre",
+                "ano": "2018"
+            },
+            {
+                "autores": "VASCONCELOS, L. F. S.",
+                "titulo": "FERREIRA, K",
+                "evento": "V.; SILVEIRA",
+                "local": "DIEISON S.; Offboard - Manutenção e suporte a serviço da comunidade - ENPEX. Salão de Ensino, Pesquisa e Extensão do IFRS (Enpex), Canoas",
+                "ano": "2018"
+            },
+            {
+                "autores": "FERREIRA, K. V.",
+                "titulo": "VASCONCELOS, L",
+                "evento": "F. S.; SILVEIRA",
+                "local": "DIEISON S.; Offboard - Manutenção e suporte a serviço da comunidade - IFCITEC. Feira de Ciências e Inovação Tecnológica do IFRS ? Campus Canoas (IFCITEC), Canoas",
+                "ano": "2018"
+            },
+            {
+                "autores": "VASCONCELOS, L. F. S.",
+                "titulo": "FERREIRA, K",
+                "evento": "V.; SILVEIRA",
+                "local": "DIEISON S.; Offboard - Manutenção e suporte a serviço da comunidade - SEMEX. 3º Salão de Ensino, Extensão e Pesquisa do IFRS, Bento Gonçalves",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVEIRA, DIEISON",
+                "titulo": "PORTO, MARCELO; BAMPI, Sergio; Performance and energy consumption analysis of the X265 video encoder",
+                "evento": "2017 25th European Signal Processing Conference (EUSIPCO)",
+                "local": "Kos",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVEIRA, DIEISON",
+                "titulo": "MORO, G",
+                "evento": "B.; CRUZ",
+                "local": "Eduardo H. M.; NAVAUX, Philippe O. A.; SCHNORR, Lucas M.; BAMPI, Sergio; Energy consumption estimation in parallel applications: an analysis in real and theoretical models. Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD), Aracaju",
+                "ano": "2016"
+            },
+            {
+                "autores": "POVALA, G.",
+                "titulo": "AMARAL, LÍVIA; SILVEIRA, DIEISON; PORTO, Marcelo Schiavon; ZATT, Bruno; AGOSTINI, LUCIANO; Compressor de quadros de referência de alta eficiência para codificadores de vídeo de alta definição",
+                "evento": "Congresso de Iniciação Científica UFPel",
+                "local": "Pelotas",
+                "ano": "2015"
+            },
+            {
+                "autores": "AMARAL, LÍVIA",
+                "titulo": "POVALA, G",
+                "evento": "; SILVEIRA",
+                "local": "DIEISON; AGOSTINI, LUCIANO; PORTO, MARCELO; ZATT, Bruno; Arquitetura de hardware para um compressor de quadros de referência baseado no algoritmo DDRFC-H. Congresso de Iniciação Científica UFPel, Pelotas",
+                "ano": "2015"
+            },
+            {
+                "autores": "POVALA, G.",
+                "titulo": "SILVEIRA, DIEISON; AMARAL, L",
+                "evento": "S.; ZATT",
+                "local": "B.; PORTO, Marcelo Schiavon; AGOSTINI, LUCIANO; Compressor diferencial de quadros de referência sem perdas para codificadores de vídeo de alta definição. Congresso de Iniciação Científica UFPel, Pelotas",
+                "ano": "2014"
+            },
+            {
+                "autores": "AMARAL, L. S.",
+                "titulo": "SILVEIRA, DIEISON; POVALA, G",
+                "evento": "; AGOSTINI",
+                "local": "LUCIANO; PORTO, Marcelo Schiavon; ZATT, B.; Análise do consumo energético da estimação de movimento com reuso de dados em codificadores de vídeos digitais. Congresso de Iniciação Científica UFPel, Pelotas",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVEIRA, DIEISON",
+                "titulo": "POVALA, G",
+                "evento": "; AMARAL",
+                "local": "L. S.; ZATT, B.; AGOSTINI, LUCIANO; PORTO, Marcelo Schiavon; Arquitetura vlsi de baixa potência para um compressor de quadros de referência. Encontro de Pós-Graduação, Pelotas",
+                "ano": "2014"
+            },
+            {
+                "autores": "POVALA, G.",
+                "titulo": "AMARAL, L",
+                "evento": "S.; SILVEIRA",
+                "local": "D. S.; MATTOS, J. C. B.; PORTO, Marcelo Schiavon; AGOSTINI, L. V.; A VLSI Architecture for Reference Frame Compression on High Definition Video Coding Systems. South Microelectronics School, Porto Alegre",
+                "ano": "2013"
+            },
+            {
+                "autores": "POVALA, G.",
+                "titulo": "SILVEIRA, DIEISON; AMARAL, L",
+                "evento": "S.; ZATT",
+                "local": "B.; PORTO, Marcelo Schiavon; AGOSTINI, L.; Desenvolvimento de um Compressor de Quadros de Referência Utilizando Codificação Diferencial para Compressão de Vídeos Digitais. Congresso de Iniciação Científica UFPel, Pelotas",
+                "ano": "2013"
+            },
+            {
+                "autores": "AMARAL, L. S.",
+                "titulo": "SILVEIRA, DIEISON; POVALA, G",
+                "evento": "; PORTO",
+                "local": "Marcelo Schiavon; ZATT, B.; AGOSTINI, L.; MATTOS, J. C. B.; Redução do Consumo de Energia em Codificadores de Vídeo. Congresso de Iniciação Científica UFPel, Pelotas",
+                "ano": "2013"
+            },
+            {
+                "autores": "SILVEIRA, DIEISON",
+                "titulo": "POVALA, G",
+                "evento": "; AMARAL",
+                "local": "L. S.; ZATT, B.; AGOSTINI, L.; PORTO, Marcelo Schiavon; RFCAVLC: Uma Solução Eficiente para Redução da Largura de Banda de Memória e Energia em Codificadores de Vídeo. Encontro de Pós-Graduação, Pelotas",
+                "ano": "2013"
+            },
+            {
+                "autores": "SILVEIRA, D. S.",
+                "titulo": "GRELLERT, Mateus; AGOSTINI, L",
+                "evento": "V.; RFCAVLC8t: a Reference Frame Compression Algorithm for Video Coding Systems. South Microelectronics School",
+                "local": "São Miguel das Missões",
+                "ano": "2012"
+            },
+            {
+                "autores": "SILVEIRA, D. S.",
+                "titulo": "AGOSTINI, L",
+                "evento": "V.; Desenvolvimento de Algoritmo para a Compressão de Quadros de Referência em Codificadores de Vídeos Digitais. Congresso de Iniciação Científica UFPel",
+                "local": "Pelotas",
+                "ano": "2012"
+            },
+            {
+                "autores": "SILVEIRA, D. S.",
+                "titulo": "PORTO, Marcelo Schiavon; AGOSTINI, L",
+                "evento": "V.; Algoritmo para Compressão Sem Perdas de Quadros de Referência em Codificadores de Vídeos Digitais. Seminários de Pesquisa em Computação da UFPel",
+                "local": "Pelotas",
+                "ano": "2012"
+            },
+            {
+                "autores": "DOMINGUES JUNIOR, J. S.",
+                "titulo": "POSSANI, V",
+                "evento": "N.; SILVEIRA",
+                "local": "D. S.; ROSA JUNIOR, L. S.; AGOSTINI, L. V.; High Throughput 4x4 and 8x8 SATD Similarity Criteria Architectures for Video Coding Applications. Designers Forum of SPL 2011 - VII Southern Conference on Programmable Logic, Córdoba",
+                "ano": "2011"
+            },
+            {
+                "autores": "SILVEIRA, D. S.",
+                "titulo": "GRELLERT, Mateus; SANCHEZ G",
+                "evento": "F.; POSSANI",
+                "local": "V. N.; AGOSTINI, L. V.; Redução da Largura de Banda de Memória Utilizando Compressão Sem Perdas Para Quadros de Referência na Codificação de Vídeos Digitais. Congresso de Iniciação Científica UFPel, Pelotas",
+                "ano": "2011"
+            },
+            {
+                "autores": "SILVEIRA, D. S.",
+                "titulo": "GRELLERT, Mateus; SANCHEZ G",
+                "evento": "F.; POSSANI",
+                "local": "V. N.; AGOSTINI, L. V.; Redução de largura de banda da memória em sistemas de codificação de vídeo através da compressão de quadros de referência sem perdas adaptativa ao contexto. Seminário de Pesquisa em Computação da UFPel, Pelotas",
+                "ano": "2011"
+            },
+            {
+                "autores": "GRELLERT, Mateus",
+                "titulo": "SILVEIRA, D",
+                "evento": "S.; AGOSTINI",
+                "local": "L. V.; MATTOS, J. C. B.; Heurísticas para Decisão Rápida das Unidades de Predição do Padrão Emergente HEVC. Seminário de Pesquisa em Computação da UFPel, Pelotas",
+                "ano": "2011"
+            },
+            {
+                "autores": "DOMINGUES JUNIOR, J. S.",
+                "titulo": "SILVEIRA, D",
+                "evento": "S.; POSSANI",
+                "local": "V. N.; ROSA JUNIOR, L. S.; AGOSTINI, L. V.; Exploração do Espaço de Projeto do Critério de Similaridade SATD Aplicado a Blocos de Tamanho 4X4 e 8X8 na Codificação de Vídeos. Congresso de Iniciação Científica., Pelotas",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Gabriele Peschke Baum",
+                "titulo": "PumaJourney: Aplicação web para administração de hospedagem da Pousada Cabanas Passos do Puma",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Pedro Henrique Kieling Dagostini",
+                "titulo": "Protáthlima: Uma aplicação web para criação de campeonatos amadores do jogo virtual League Of Legends",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Vinícius Sitó Monaco",
+                "titulo": "SISEV: Sistema Inteligente de Sinalização Para Emergenciais Veiculares",
+                "ano": "2024",
+                "curso": "Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "William José De Moura Da Rosa",
+                "titulo": "Repositório virtual de Trabalhos de Conclusão de Curso",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Rafael de Luca",
+                "titulo": "Catálogo Online e Administração Simplificada: Desenvolvimento de uma Plataforma Web para Divulgação e Gerenciamento de Produtos de Higiene e Limpeza",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Mairus Pereira Campiol",
+                "titulo": "Bioscovery: Jogo para reforço no aprendizado de biologia do ensino médio",
+                "ano": "2022",
+                "curso": "Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Pedro Collet Krolikowski",
+                "titulo": "Seno: Plataforma web para monitoria e estudo de problemas matemáticos",
+                "ano": "2022",
+                "curso": "Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Jean Carlos Esperança",
+                "titulo": "Sistema de Controle de Acesso Agendado com Prototipagem Arduino",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Adriano Pereira Carvalho",
+                "titulo": "Manutenção Preventiva e Corretiva de Hardware e Software na Escola Estadual de Ensino Fundamental Érico Verissimo",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Clarice Buffon Basso",
+                "titulo": "Manutenção Preventiva e Corretiva de Computadores na Escola SEMEAR",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Elizandra Lima da Silva",
+                "titulo": "Manutenção Preventiva e Corretiva de Hardware e Software na Escola Estadual de Ensino Fundamental Professor Germano Witrock",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Jéssica Gonçalves de Lima",
+                "titulo": "Aulas de Informática Básica em uma Escola Pública",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Kristian Alberton Rodrigues",
+                "titulo": "Manutenção Preventiva e Corretiva de Hardware e Software na Escola Estadual de Ensino Fundamental Érico Verissimo",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Patrique dos Santos Oliveira",
+                "titulo": "Teste de Desempenho de Antivírus",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Paulo Roberto Brandão Júnior",
+                "titulo": "Ferramenta de Manutenção Preventiva",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Roseli Mesquita Cardoso",
+                "titulo": "Manutenção Preventiva e Corretiva de Hardware e Software em Laboratório de Informática",
+                "ano": "2018",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Rosemari Rodrigues da Silva",
+                "titulo": "Manutenção de Smartphones",
+                "ano": "2017",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Leandro Ferrando Severino",
+                "titulo": "Análise de Potência de Fontes ATX",
+                "ano": "2017",
+                "curso": "Técnico em Manutenção e Suporte em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Guilherme Povala",
+                "titulo": "Redução de acesso à memória externa na codificação de vídeos UHD utilizando compressão de quadros de referência",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Pelotas"
+            },
+            {
+                "orientando": "Lívia Silva do Amaral",
+                "titulo": "Modelagem SystemC para avaliação energética da comunicação com a memória em codificadores de vídeo",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Pelotas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.5906524062156677,
+            "indian": 3.3357980251312256,
+            "black": 0.5239676833152771,
+            "white": 41.67967987060547,
+            "middle eastern": 30.838428497314453,
+            "latino hispanic": 23.031475067138672
+        }
+    }
+}

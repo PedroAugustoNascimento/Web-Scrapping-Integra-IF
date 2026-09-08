@@ -1,0 +1,776 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2017 - 2022",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Um Modelo Computacional utilizando Técnicas de Machine Learning e Exames Laboratoriais de Rotina na Triagem e Apoio ao Diagnóstico de Diabetes Mellitus",
+                "orientador": "Jefferson Luiz Brum Marques"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2010 - 2012",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Sistema de avaliação postural para suporte no processo de decisão clínica",
+                "orientador": "Prof"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2002 - 2007",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Física",
+                "periodo": "2004 - 2005",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Reivax Automação e Controle",
+                "periodo": "2006 - 2007",
+                "cargo": "Entagiário."
+            },
+            {
+                "empresa": "DelGrande Informática",
+                "periodo": "2008 - 2008",
+                "cargo": "Engenheiro."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2008 - 2009",
+                "cargo": "Engenheiro Pesquisador, Projeto em parceria com a INTELBRAS."
+            },
+            {
+                "empresa": "Virtual Soluções",
+                "periodo": "2003 - 2003",
+                "cargo": "Entagiário."
+            },
+            {
+                "empresa": "Instituto de Engenharia Biomédica - Universidade Federal de Santa Catarina",
+                "periodo": "2012 - 2013",
+                "cargo": "Pesquisador."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2014",
+                "cargo": "Prof. de Ensino Básico, Técnico e Tecnológico, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2013 - 2013",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "Physioeasy LTDA ME",
+                "periodo": "2013",
+                "cargo": "Sócio Cotista, Sócio Cotista (Fundador), STARTUP oriunda do programa Sinapse da Inovação."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Reitoria (2017) : Coordenador De Pesquisa Da Pró-reitoria De Pesquisa, Pós-graduação E Inovação.\nInstituto Federal de Santa Catarina - Câmpus Urupema (2015 - 2017) : Coordenador De Pesquisa, Pós-graduação E Inovação.\nInstituto Federal de Santa Catarina - Câmpus Urupema (2014 - 2015) : Coordenador De Extensão.\nFAPEU - Fundação de Amparo a Pesquisa e Extenção Universitária (2008 - 2009): Processamento de sinais e dados em telecomunicações,\nIEB-UFSC (2012 - 2013): Sistemas inteligentes para apoio a toma de decisão, Gestão de Tecnologia da Informação e Comunicação - TICs,\nInstituto Federal de Santa Catarina (2014): Computação Ubíqua e Experiência do Usuário, Gestão de Tecnologia da Informação e Comunicação - TICs, Empreendedorismo, Startup e Tecnologia Social, Sistemas inteligentes para apoio a toma de decisão, Agroinformática,",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2014) - Gestão Da Tecnologia Da Informação.\nOutro (2014) .\nOutro (2013 - 2013) .\nGraduacao (2013 - 2013) - Gestão Da Tecnologia Da Informação.",
+        "comissoes": ": Instituto Federal de Santa Catarina\nMembro Do Comitê Gestor Do Edital De Apresentação De Trabalhos Em Eventos Científicos 03/proppi/2017 (2017 - 2017).\nMembro Do Grupo Estruturante Do Programa De Empreendedorismo Desafio Ifsc De Ideias Inovadoras 2016 (2016 - 2017).\nMembro Do Comitê Gestor Do Edital Universal 02/2016/proppi (2016 - 2016).\nMembro Do Comitê Gestor Do Edital De Fortalecimento De Grupos De Pesquisa 03/2016/proppi (2016 - 2016).\nMembro Da Banca Julgadora Do Programa Desafio Ifsc De Ideias Inovadoras 2015 (2015 - 2015).\nComitê Gestor Interno Do Edital Universal De Pesquisa No 05/2015/proppi (2014 - 2015).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "III Mini curso de engenharia biomédica na prática",
+                "periodo": "2010 - 2010",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Ana Emília Margoti"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Sistema de Avaliação Postural para apoio à Tomada de Decisão Clínica",
+                "periodo": "2011 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Maíra Junkes Cunha",
+                    "Fernando Mendes de Azevedo"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Desenvolvimento de tecnologia VOIP de suporte à PABX",
+                "periodo": "2008 - 2009",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Joceli Mayer",
+                    "Tales Ibiriba",
+                    "Ronaldo Borges"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de tecnologias para coletar dados meteorológicos visando implementar técnicas voltadas à agricultura sustentável e de precisão.",
+                "periodo": "2014 - 2015",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Roberto Akitoshi Komatsu",
+                    "Wilson Castello Branco Neto",
+                    "Ailton Durigon",
+                    "Bruno Dalazen Machado"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Avaliação de ascósporos de sarna da macieira no município de Urupema, SC",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Roberto Akitoshi Komatsu"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Inclusão Digital, Tecnológica e dos meios de Informação e Comunicação na região de Urupema",
+                "periodo": "2016 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento e implantação de um termômetro de sensações térmica",
+                "periodo": "2016 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um sistema eletrônico de medição de nível aquoso com infravermelho",
+                "periodo": "2016 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Rogerio De Oliveira Anese"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de tecnicas de medição de nível aquoso com análise da variação da pressão",
+                "periodo": "2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Rogerio De Oliveira Anese"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Diagnóstico e Monitoramento do Cancro Europeu das Pomáceas usando Visão Computacional e RFID",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Wilson Castello Branco Neto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Módulos Microcontrolados para Sistemas Telemétricos",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Physioeasy: sistema de avaliação postural para auxílio na tomada de decisão clínica",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Estruturação de uma Incubadora de Inovação Social do IFSC Campus Urupema na Região Serrana Catarinense",
+                "periodo": "2015 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Marcos R. D. Stroschein",
+                    "Adriana Murara Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Uso de IoT para monitoramento de ambientes laboratoriais",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Gêmeo digital de aerogerador com realidade aumentada gamificada",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Sérgio Luciano Ávila",
+                    "Bruno Panerai Velloso",
+                    "Fabiano Garcia",
+                    "Tiago Kaoru Matsuo",
+                    "César Penz",
+                    "Jose Roberto Cardoso",
+                    "Bruno Souza Carmo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PIFPL 3248 2023 - Identificação do comportamento operacional de um aerogerador",
+                "periodo": "2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Sérgio Luciano Ávila",
+                    "Bruno Panerai Velloso",
+                    "Cesar Alberto Penz"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PIFPL2507 - Uso de IoT para monitoramento de ambientes laboratoriais",
+                "periodo": "2020 - 2022",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PIFPL2884 - Serviços de virtualização e controle de versões GIT para as aulas de Tecnologia da Informação",
+                "periodo": "2022 - 2022",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Bruno Panerai Velloso"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Serviços de virtualização e controle de versões GIT para as aulas de Tecnologia da Informação GLAUCO CARDOZO",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Bruno Panerai Velloso",
+                    "HAMILCAR BOING",
+                    "ORLANDO OLIVEIRA DOS SANTOS",
+                    "EGON SEWALD JUNIOR",
+                    "ANDRINO FERNANDES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Serviços de virtualização e controle de versões GIT para as aulas de Tecnologia da Informação GLAUCO CARDOZO",
+                "periodo": "2022 - 2022",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Bruno Panerai Velloso",
+                    "HAMILCAR BOING",
+                    "ORLANDO OLIVEIRA DOS SANTOS",
+                    "EGON SEWALD JUNIOR",
+                    "ANDRINO FERNANDES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Serviços de virtualização e controle de versões GIT para as aulas de Tecnologia da Informação",
+                "periodo": "2022 - 2022",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Bruno Panerai Velloso",
+                    "HAMILCAR BOING",
+                    "ORLANDO OLIVEIRA DOS SANTOS",
+                    "EGON SEWALD JUNIOR",
+                    "ANDRINO FERNANDES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "EV094-20176 SEMINÁRIO DE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO DO IFSC SEPEI 2017",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "ANDRE DALA POSSA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PJxxx-2023DESENVOLVIMENTO DE SOLUÇÃO DE TI PARA SUPORTE À EXECUÇÃO DE PROGRAMA DE PROMOÇÃO DE ATIVIDADE FÍSICA NO CDS/UFSC",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "FELIPE CANTORIO SOARES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PJxxx-2023GESTÃO DE TI: UMA REFERÊNCIA PRÁTICA PARA ESCOLAS PÚBLICAS",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "FELIPE CANTORIO SOARES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PJxxx-2023Desenvolvimento de um Portal de Transparência sobre as políticas de segurança e privacidade da DIS - Diretoria de Informática e Sistema, da prefeitura de São José/SC",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "FELIPE CANTORIO SOARES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PJxxx-2023PROJETO DE MELHORIA NO PROCESSO DE CONTRATAÇÃO NA PREFEITURA MUNICIPAL DE PALHOÇA",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "FELIPE CANTORIO SOARES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "DESENVOLVIMENTO DE SOLUÇÃO DE TI PARA A OTIMIZAÇÃO DA GESTÃO EDUCACIONAL NA ONG PROTOTIPANDO A QUEBRADA (PAQ)",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "FELIPE CANTORIO SOARES",
+                    "RALF DE SOUSA GUTH",
+                    "JOAO CARLOS NOGUEIRA DE LIMA",
+                    "GABRIEL TRINDADE PIBER",
+                    "JOAO PEDRO ZIBETTI GIRARDELLO",
+                    "ANDREZZA DE MELO TROIAN"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Identificação do comportamento operacional de um aerogerador",
+                "periodo": "2023 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Sérgio Luciano Ávila",
+                    "Bruno Panerai Velloso",
+                    "Cesar Alberto Penz"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Transformação digital para melhorar a eficiência no monitoramento de aerogeradores",
+                "periodo": "2024",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "Sérgio Luciano Ávila",
+                    "Bruno Panerai Velloso",
+                    "Tiago Kaoru Matsuo",
+                    "Leonardo Sebatião de Medeiros",
+                    "Juliano Bitencourt Padilha",
+                    "Elison Vieira Wilamil",
+                    "Eduardo Raimundo Rodycz",
+                    "Gabriel Zapelini Barcelos",
+                    "João Vitor Rochinski Vieira",
+                    "Fabricio Rodrigues de Santana",
+                    "Ferando Rodrigues de Santana",
+                    "Bruno de Borba"
+                ],
+                "financiador": "Associação Brasileira de Pesquisa e Inovação Industrial,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Elaboração de aplicação web para conexão com modelo de Inteligência Artificial para detecção de Diabetes",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "CLEVERSON TABAJARA VIANNA",
+                    "FELIPE CANTORIO SOARES",
+                    "HURIEL ANDRADE ALESSIO",
+                    "ARIADNE BRANCO PEREIRA",
+                    "ALESSANDRO NETTO AMORIM",
+                    "ANA BARBARA CACHEADO SEABRA",
+                    "ARTHUR LUIS LIMA BENDER",
+                    "GUSTAVO DOMENICK ALCANTARA SILVA",
+                    "DHULY NASCIMENTO ALVES"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PJxxx-2021 - Elaboração de aplicação web para conexão com modelo de Inteligência Artificial para detecção de Diabetes",
+                "periodo": "2021 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Glauco Cardozo",
+                    "HAMILCAR BOING",
+                    "CLEVERSON TABAJARA VIANNA",
+                    "FELIPE CANTORIO SOARES"
+                ]
+            },
+            {
+                "instituicao": "Physioeasy LTDA ME",
+                "nome": "Physioeasy: uma plataforma web para apoio ao terapeuta e interação com seus pacientes (Sinapse da Inovação)",
+                "periodo": "2013 - 2014",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Glauco Cardozo"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CARDOZO",
+                    "software": "G.,  AVILA, S. L.,  VELLOSO, Bruno Panerai,  AQTECH - Análise fatorial das tendências de sensores de vibração mecânica do trem de força de turbinas eólicas",
+                    "ano": "2025",
+                    "finalidade": "AQTECH - Análise fatorial das tendências de sensores de vibração mecânica do trem de força de turbinas eólicas. 2025.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025003089-4."
+                },
+                {
+                    "autor": "CARDOZO",
+                    "software": "G.,  AZEVEDO, F. M.,  Sistema de Avaliação Postural",
+                    "ano": "2012",
+                    "finalidade": "Apoia a tomada de decisão clínica.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 14036-5."
+                },
+                {
+                    "autor": "CARDOZO",
+                    "software": "G.,  SAP - Sistema de Análise Postural",
+                    "ano": "2011",
+                    "finalidade": "Auxílio ao diagnóstico de problemas posturais."
+                },
+                {
+                    "autor": "Cardozo",
+                    "software": "G.,  xVision",
+                    "ano": "2007",
+                    "finalidade": "Sistema para desenvolvimento de aplicativos supervisório."
+                },
+                {
+                    "autor": "CARDOZO",
+                    "software": "G., Physioeasy",
+                    "ano": "2014",
+                    "finalidade": "Apoio a atividade fisioterapêutica."
+                },
+                {
+                    "autor": "CARDOZO",
+                    "software": "G., Physioeasy",
+                    "ano": "2014",
+                    "finalidade": "Sistema de apoio a atividade fisioterapêutica."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CARDOZO",
+                    "titulo": "G.,  Uso de IoT para monitoramento de ambientes laboratoriais",
+                    "ano": "2023",
+                    "instituicao_promotora": "IFSC - Florianópolis."
+                },
+                {
+                    "autores": "CARDOZO",
+                    "titulo": "G.,  CUNHA, M. J.,  DONIDA, R. D.,  Physioeasy: uma plataforma web para apoio ao terapeuta e interação com seus pacientes",
+                    "ano": "2016",
+                    "instituicao_promotora": "Associação Brasileira de Fisioterapia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Desenvolvimento de Games com Scratch",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Inteligência Artificial no Auxílio ao Diagnóstico",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Engenharia Biomédica na Prática",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Conversão Analógico Digital de Biosinais (ECG)",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Aplicações de Inteligência Artificial na Área da Saúde",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Aplicação de Redes Neurais Artificiais",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "CARDOZO",
+                    "curso": "G.,  Informática Básica",
+                    "ano": "2003"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CARDOZO",
+                    "evento": "G.,  VELLOSO, Bruno Panerai,  Semana Acadêmica do CST Gestão de Tecnologia da Informação 2022",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "CARDOZO",
+                    "evento": "G.,  III Mini-Curso de Engenharia Biomédica na Prática",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IEB-UFSC (Instituto de Engeria Biomédica - UFSC)."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "Cardozo, G.",
+                "titulo": "SEWALD JUNIOR, E.;  Tópicos especiais em informática para internet ? ciência de dados",
+                "ano": "2025",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786583787392 (Publicado)."
+            },
+            {
+                "autores": "VELLOSO, B. P.",
+                "titulo": "Cardozo, G.;  Programação para dispositivos móveis",
+                "ano": "2025",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786583787347 (Publicado)."
+            },
+            {
+                "autores": "VELLOSO, B. P.",
+                "titulo": "Cardozo, G.;  Ferreira, C. M.;  Banco de dados II",
+                "ano": "2025",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786583787262 (Publicado)."
+            },
+            {
+                "autores": "Ferreira, C. M.",
+                "titulo": "VELLOSO, Bruno Panerai;  Cardozo, G.;  Banco de dados I",
+                "ano": "2025",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786583787255 (Publicado)."
+            },
+            {
+                "autores": "CARDOZO, G.",
+                "titulo": "STROSCHEIN, M. R. D.;  COMASSETTO, E.;  Ciências Exatas e da Terra: Aprendizado, Integração e Necessidades do País 2. Título do capítulo: Desenvolvimento e implantação de um termômetro de sensação térmica no IFSC Campus Urupema",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9786557069615."
+            },
+            {
+                "autores": "Cunha, M. J.",
+                "titulo": "Cardozo, G.;  de Azevedo, F.;  IFMBE Proceedings. Título do capítulo: Automation of Evaluation Protocols of Stand-to-Sit Activity in Expert System",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9783319008455."
+            },
+            {
+                "autores": "Cardozo, G.",
+                "titulo": "Cunha, M. J.;  Azevedo, F.;  IFMBE Proceedings. Título do capítulo: Postural Assessment System to Support in the Process of Clinical Decision-Making",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9783642293047."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "AVILA, S. L.",
+                "titulo": "VELLOSO, B. P.;  Cardozo, G.;  MATSUO, T. K.;  Investigating the Operational Limits of a Horizontal Axis Wind Turbine Gearbox Through Unsupervised Comparison Between Units of the Same Equipment from Three Nearby Power Plants",
+                "ano": "2025",
+                "periodico": "Advances in Electrical and Computer Engineering. ISBN: 15827445   ."
+            },
+            {
+                "autores": "AVILA, S. L.",
+                "titulo": "VELLOSO, Bruno Panerai;  CARDOZO, G.;  MATSUO, T. K.;  Investigating the Operational Limits of a Horizontal Axis Wind Turbine Gearbox Through Unsupervised Comparison Between Units of the Same Equipment from Three Nearby Power Plants",
+                "ano": "2025",
+                "periodico": "Advances in Electrical and Computer Engineering. ISBN: 15827445   ."
+            },
+            {
+                "autores": "CARDOZO, GLAUCO",
+                "titulo": "TIRLONI, SALVADOR FRANCISCO;  PEREIRA MORO, ANTÔNIO RENATO;  MARQUES, JEFFERSON LUIZ BRUM;  Use of Artificial Intelligence in the Search for New Information Through Routine Laboratory Tests: Systematic Review",
+                "ano": "2022",
+                "periodico": "JMIR Bioinformatics and Biotechnology. ISBN: 25633570   ."
+            },
+            {
+                "autores": "CARDOZO, GLAUCO",
+                "titulo": "PINTARELLI, GUILHERME BRASIL;  ANDREIS, GUILHERME RETTORE;  LOPES, ANNELISE CORREA WENGERKIEVICZ;  MARQUES, JEFFERSON LUIZ BRUM;  Use of Machine Learning and Routine Laboratory Tests for Diabetes Mellitus Screening",
+                "ano": "2022",
+                "periodico": "BIOMED RESEARCH INTERNATIONAL. ISBN: 23146141   ."
+            },
+            {
+                "autores": "JUNKES-CUNHA, MAÍRA",
+                "titulo": "CARDOZO, G.;  BOOS, C. F.;  DE AZEVEDO, FERNANDO;  Implementation of expert systems to support the functional evaluation of stand-to-sit activity",
+                "ano": "2014",
+                "periodico": "Biomedical Engineering Online (Online). ISBN: 1475925X   ."
+            },
+            {
+                "autores": "JUNKES-CUNHA, MAÍRA",
+                "titulo": "CARDOZO, G.;  BOOS, C. F.;  DE AZEVEDO, FERNANDO;  Implementation of expert systems to support the functional evaluation of stand-to-sit activity",
+                "ano": "2014",
+                "periodico": "Biomedical Engineering Online (Online). ISBN: 1475925X   ."
+            },
+            {
+                "autores": "JUNKES-CUNHA, MAÍRA",
+                "titulo": "CARDOZO, GLAUCO;  BOOS, CHRISTINE F;  DE AZEVEDO, FERNANDO;  Implementation of expert systems to support the functional evaluation of stand-to-sit activity",
+                "ano": "2014",
+                "periodico": "Biomedical Engineering Online (Online). ISBN: 1475925X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "VIEIRA, J. V. R.",
+                "titulo": "BARCELOS, G",
+                "evento": "Z.; CARDOZO",
+                "local": "G.; VELLOSO, Bruno Panerai; SEWALD JUNIOR, E.; BOLETTI, G.; Desenvolvimento de Materiais Didáticos para Cursos de Capacitação em Business Intelligence: Uma Abordagem Prática no IFSC. 10º SEPEI - SEMANA DE ENSINO, PESQUISA E EXTENSÃO, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "VIEIRA, J. V. R.",
+                "titulo": "BOLETTI, G",
+                "evento": "; RODYCZ",
+                "local": "E. R.; CARDOZO, G.; SEWALD JUNIOR, E.; VELLOSO, Bruno Panerai; Aplicação de Experiência do Usuário 1para o desenvolvimento de paineis de Business Intelligence para o Instituto Federal de Santa Catarina. 10º SEPEI 2024, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "OIKE, D.",
+                "titulo": "CARDOZO, G",
+                "evento": "; SEWALD JUNIOR",
+                "local": "E.; VELLOSO, Bruno Panerai; EXPLORANDO ATIVIDADES DOCENTES COM TECNOLOGIA: EXTRAÇÃO, TRATAMENTO E CARREGAMENTO DE DADOS PARA ANÁLISE DE DADOS ABERTOS NO INSTITUTO FEDERAL DE SANTA CATARINA. 10º SEPEI - SEMANA DE ENSINO, PESQUISA E EXTENSÃO, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "CARDOZO, G.",
+                "titulo": "Stroschein M",
+                "evento": "R. D.; SILVA",
+                "local": "A. M.; COMASSETTO, E.; Desenvolvimento de um termômetro de sensação térmica. 6º SEPEI, Itajaí",
+                "ano": "2017"
+            },
+            {
+                "autores": "CARDOZO, G.",
+                "titulo": "JUNKES-CUNHA, MAÍRA; DONIDA, R",
+                "evento": "D.; Physioeasy: uma plataforma web para apoio ao terapeuta e interação com seus pacientes. XXI COBRAF",
+                "local": "Recife",
+                "ano": "2016"
+            },
+            {
+                "autores": "CARDOZO, G.",
+                "titulo": "CUNHA, M",
+                "evento": "J.; AZEVEDO",
+                "local": "F. M.; Physio Easy: Uma Ferramenta de Avaliac&#807;a&#771;o Postural para Auxi&#769;lio no Processo de Tomada de Decisa&#771;o Cli&#769;nica. XX Congresso Brasileiro de Fisioterapia, Fortaleza",
+                "ano": "2013"
+            },
+            {
+                "autores": "CARDOZO, G.",
+                "titulo": "AZEVEDO, F",
+                "evento": "M.; Sistema de Avaliac&#807;a&#771;o Postural para suporte no processo de tomada de decisa&#771;o cli&#769;nica. 10º SEPEX - UFSC",
+                "local": "Florianópolis",
+                "ano": "2011"
+            },
+            {
+                "autores": "CARDOZO, G.",
+                "titulo": "GONTIJO, W",
+                "evento": "A; Implementação em DSP de um Modem Padrão V.29. I Congresso Tecnológico InfoBrasil",
+                "local": "Fortaleza",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luciano Oliveira Pereira",
+                "titulo": "Inclusão Digital, Tecnológica e dos meios de Informação e Comunicação na região de Urupema",
+                "ano": "2016",
+                "curso": "Viticultura e Enologia",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Enzzo Comasseto dos Santos",
+                "titulo": "Desenvolvimento de tecnologias de coleta de dados para implementação de técnicas de agricultura de precisão de forma sustentável",
+                "ano": "2015",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Enzzo Comasseto dos Santos",
+                "titulo": "Desenvolvimento e implantação de um termômetro de sensação térmica no IFSC Campus Urupema",
+                "ano": "2015",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marconi da Silva Souza",
+                "titulo": "Estruturação de uma Incubadora de Inovação Social do IFSC Câmpus Urupema na Região Serrana Catarinense",
+                "ano": "2015",
+                "curso": "Técnico em Fruticultura",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Walter Luiz Moreira Tavares",
+                "titulo": "Desenvolvimento de tecnologias para coletar dados metereologicos visando implementar te&#769;cnicas voltadas a&#768; agricultura sustenta&#769;vel e de precisa&#771;o",
+                "ano": "2014",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Renata de Liz Silva",
+                "titulo": "Desenvolvimento de tecnologias para coletar dados metereologicos visando implementar te&#769;cnicas voltadas a&#768; agricultura sustenta&#769;vel e de precisa&#771;o",
+                "ano": "2014",
+                "curso": "Técnico em Fruticultura",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.047000057995319366,
+            "indian": 0.0888359472155571,
+            "black": 0.014483369886875153,
+            "white": 91.97415161132812,
+            "middle eastern": 4.2475762367248535,
+            "latino hispanic": 3.6279585361480713
+        }
+    }
+}

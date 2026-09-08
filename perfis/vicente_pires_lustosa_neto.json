@@ -1,0 +1,155 @@
+{
+    "campus": "- Campus Natal - Zona Norte",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "POPT: Uma Abordagem de Ensino de Programação Orientada a Problema e Testes",
+                "orientador": "Roberta de Souza Coelho"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "periodo": "1999 - 2004",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2010 - 2011",
+                "cargo": "Professor Substituto, Professor Substituto."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2004 - 2006",
+                "cargo": "Professor Substituto, Professor substituto."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2003 - 2004",
+                "cargo": "Bolsista."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2001 - 2003",
+                "cargo": "Bolsista."
+            },
+            {
+                "empresa": "CASA NORTE",
+                "periodo": "2007 - 2010",
+                "cargo": "Analista de Sistema, Empregado."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2011",
+                "cargo": "Professor."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal do Rio Grande do Norte\nGraduacao (2004 - 2006) - Ciências Da Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Tecnologias para Desenvolvimento e Pesquisa em Conteúdos Digitais/Conteudo Digital",
+                "periodo": "2003 - 2004",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vicente Pires Lustosa Neto"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Metropole Digital",
+                "periodo": "2009 - 2010",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vicente Pires Lustosa Neto",
+                    "Roberta de Souza Coelho"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Programa Básico de Engenharia de Produção",
+                "periodo": "2001 - 2003",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vicente Pires Lustosa Neto"
+                ],
+                "financiador": ","
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "LUSTOSA NETO, V. P.",
+                "titulo": "Roberta de Souza Coelho;  Sistemas operacionais",
+                "ano": "2010",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788572736350 (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SALES JUNIOR, R.",
+                "titulo": "Roberta de Souza Coelho; LUSTOSA NETO, V",
+                "evento": "P.; Exception-Aware AO Refactoring. IV Latin American Workshop on Aspect-Oriented Software Development",
+                "local": "Salvador",
+                "ano": "2010"
+            },
+            {
+                "autores": "LUSTOSA NETO, V. P.",
+                "titulo": "GOMES, Bruno Emerson Gurgel; Desenvolvendo Aplicações Web com Struts",
+                "evento": "IIIII WorkshopTécnico Científico do DIMAP",
+                "local": "Natal",
+                "ano": "2004"
+            },
+            {
+                "autores": "LUSTOSA NETO, V. P.",
+                "titulo": "CAMPOS, André Maurício C",
+                "evento": "; COSTA",
+                "local": "Aldo Cesar G.; GONÇALVES, Luiz Marcos G.; Introducing Personality in Game Characters. Workshop of Games and Digital Entertainment., Salvador",
+                "ano": "2003"
+            },
+            {
+                "autores": "LUSTOSA NETO, V. P.",
+                "titulo": "Análise integrada da Estratégia Competitiva, Qualidade e Tecnologia da Informação em setores de serviços do RN",
+                "evento": ". XII CONGRESSO DE INICIAÇÃO CIENTÍFICA",
+                "local": "Natal",
+                "ano": "2001"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 3.6106324195861816,
+            "indian": 12.449396133422852,
+            "black": 1.9833801984786987,
+            "white": 21.60264778137207,
+            "middle eastern": 30.617515563964844,
+            "latino hispanic": 29.736431121826172
+        }
+    }
+}

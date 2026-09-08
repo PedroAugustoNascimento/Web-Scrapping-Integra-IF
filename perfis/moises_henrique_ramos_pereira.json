@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ribeirão das Neves",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -744,16 +745,16 @@
         ]
     },
     "Cor/Raça": {
-        "raca_original": "indian",
-        "raca_ibge": "Parda",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 4.165829181671143,
-            "indian": 41.165306091308594,
-            "black": 5.566457748413086,
-            "white": 7.1719489097595215,
-            "middle eastern": 9.349235534667969,
-            "latino hispanic": 32.58121871948242
+            "asian": 7.415154933929443,
+            "indian": 13.2587890625,
+            "black": 5.38871431350708,
+            "white": 28.287797927856445,
+            "middle eastern": 18.498350143432617,
+            "latino hispanic": 27.151199340820312
         }
     }
 }

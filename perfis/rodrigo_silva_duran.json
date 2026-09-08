@@ -1,0 +1,826 @@
+{
+    "campus": "- Campus Taguatinga",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Computer Science",
+                "periodo": "2016 - 2020",
+                "instituicao": "Aalto University School of Science and Technology",
+                "titulo": "Cognitive Complexity of Comprehending Computer Programs",
+                "orientador": "Lauri Malmi"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação e Matemática Computacional",
+                "periodo": "2003 - 2005",
+                "instituicao": "Universidade de São Paulo",
+                "titulo": "Modelador e Simulador do Sistema Visual Humano",
+                "orientador": "Luis Gustavo Nonato"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1998 - 2002",
+                "instituicao": "Universidade Estadual de Londrina"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "periodo": "2011 - 2025",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Instituto Atheneu",
+                "periodo": "2010 - 2010",
+                "cargo": "Professor, Professor vistante."
+            },
+            {
+                "empresa": "COMPUTER SCIENCE EDUCATION",
+                "periodo": "2018",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Aalto University",
+                "periodo": "2017",
+                "cargo": "."
+            },
+            {
+                "empresa": "ACM Transactions on Computing Education",
+                "periodo": "2020",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Revista Brasileira de Informática na Educação (RBIE)",
+                "periodo": "2021",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Informatics in Education",
+                "periodo": "2021",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Transactions on Education",
+                "periodo": "2021",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "ACM Transactions on Computing Education",
+                "periodo": "2023",
+                "cargo": ", Membro de corpo editorial, Associate Editor."
+            },
+            {
+                "empresa": "Revista Brasileira de Informática na Educação (RBIE)",
+                "periodo": "2025",
+                "cargo": ", Membro de corpo editorial."
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "periodo": "2025",
+                "cargo": "Professor EBTT, Servidor público."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul\nINSTITUTO FEDERAL DE MATO GROSSO DO SUL (2013 - 2016) : Coordenador Do Eixo Tecnológico E Informática.\nPesquisa e Desenvolvimento\nIFMS - Campus Nova Andradina (2016): Avaliação de Complexidade Cognitiva de Programas de Computador,",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul\nEnsino-medio (2012 - 2013) .\nGraduacao (2012) - Análise E Desenvolvimento De Sistemas.\nEnsino-medio (2011) .",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul\nComissão De Educação Da Sociedade Brasileira De Educação (2019).\nMember Of The Sigcse 2020 International Committee (2019).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Startracker : Um arcabouço computacional para localização de corpos celestes",
+                "periodo": "2012 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Leonardo Vasconcelos Lopes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "FECINOVA 2015",
+                "periodo": "2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Cláudio Sanavria",
+                    "Adriana Smanhotto Soncela",
+                    "Daiane Sganzerla",
+                    "Ana Paula Hilgert"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "HortiTalk: Agricultura 4.0 no manejo de hortaliças",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Elcio Ferreira dos Santos"
+                ],
+                "financiador": "Fundação de Apoio ao Desenvolvimento da Ciência e Tecnologia,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Coleta Lixo Eletrônico",
+                "periodo": "2012",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Cláudio Sanavria",
+                    "Luiz Fernando Lomba",
+                    "Olavo José Luiz Júnior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Coleta, análise e reciclagem do Lixo Eletrônico na cidade de Nova Andradina/MS",
+                "periodo": "2012",
+                "natureza": "Outra",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Cláudio Sanavria",
+                    "Luiz Fernando Lomba"
+                ]
+            },
+            {
+                "instituicao": "Aalto University",
+                "nome": "Instrumentos de auto-avaliação de conteúdos relacionados aos cursos introdutórios de programação",
+                "periodo": "2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Juha Sorva",
+                    "Arto Hellas",
+                    "Sanna Suoranta",
+                    "Jan-Mikael Rybicki"
+                ]
+            },
+            {
+                "instituicao": "Aalto University",
+                "nome": "Complexidade Cognitiva de Compreensão de Programas de Computador",
+                "periodo": "2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Juha Sorva"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "IA Generativa no Ensino de Programação",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rodrigo Silva Duran",
+                    "Geisieli Rita de Oliveira",
+                    "Patrícia Fernanda da Silva",
+                    "Camila De Paoli Leporace",
+                    "Paula Carolei",
+                    "Clauirton de Albuquerque Siebra"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "DURAN",
+                    "curso": "R. S.,  Introdução ao Arduino",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "DURAN",
+                    "curso": "R. S.,  Delphi Avançado",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "DURAN",
+                    "curso": "R. S.,  Introdução ao Delphi",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "LEINONEN",
+                    "evento": "JUHO,  DURAN, R. S.,  Koli Calling",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "University of Eastern Finland."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "RODRIGO,  JULIO, A. M. O.,  EduComp 2025",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasildeira de Computação."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "RODRIGO,  MOTA, M.,  Workshop de Educação em Computação",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasildeira de Computação."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "R.,  DOYLE, M.,  STEPHENSON, B.,  DORN, B.,  SOH, L.,  BATTESTILLI, L.,  SIGCSE Technical Symposium",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "ACM Special Interest Group Computer Science Education."
+                },
+                {
+                    "autores": "FALCAO",
+                    "evento": "T. P.,  FRANCA, R.,  BITTENCOURT, Roberto,  VIANA, W.,  DURAN, R.,  Simpósio Brasileiro de Educação em Computação",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "RODRIGO,  BITTENCOURT, R. A.,  MORO, M.,  Simpósio Brasileiro de Educação em Computação",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "RODRIGO,  SONCELA, A. S.,  Feira de Ciências de Nova Andradina - FECINOVA",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "R. S.,  DOYLE, M.,  MERKLE, L.,  DORN, B.,  SHEARD, J.,  SOH, L.,  SIGCSE Technical Symposium",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "ACM Special Interest Group Computer Science Education."
+                },
+                {
+                    "autores": "MASCHIO",
+                    "evento": "E.,  DURAN, R.,  BITTENCOURT, Roberto,  BISPO JR, E. L.,  RAABE, A.,  GALVÃO, Leandro,  CAMBRAIA, Adão,  FALCAO, T. P.,  FRANCINE, Ellen,  Simpósio Brasileiro de Educação em Computação",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "R. S.,  SANAVRIA, C.,  SONCELA, A. S.,  SGANZERLA, D.,  Feira de Ciências e Tecnologia de Nova Andradina",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "DURAN",
+                    "evento": "R. S.,  SANAVRIA, C.,  Maratona de Programação - Sede Estadual",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "DURAN, R.",
+                "titulo": "Cognitive Complexity of Comprehending Computer Programs",
+                "ano": "2020",
+                "informacoes_adicionais": "Impresso. ISBN: 9789526039435, Helsinki (Publicado)."
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "Diálogos sobre Inteligência Artificial na educação com especialistas do Brasil e do Mundo. Título do capítulo: A revolução da IA na educação",
+                "ano": "2025",
+                "informacoes_adicionais": "ISBN: 9786501816548, Brasília/DF."
+            },
+            {
+                "autores": "DURAN, R.",
+                "titulo": "PACHECO, F.;  Práticas docentes na educação profissional. Título do capítulo: Ensino de programação utilizando utilizando game-based learning e aprendizagem criativa",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9786599108259, Uberlândia."
+            },
+            {
+                "autores": "HAARANEN, LASSI",
+                "titulo": "DURAN, RODRIGO;  Communications in Computer and Information Science. Título do capítulo: Computer Science in Online Gaming Communities",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9783319946399."
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "The future makers - professional teachers promoting pedagogical change. Título do capítulo: A collaborative virtual classroom for game-based learning using immersive and free creative simulated universe in multiple scales",
+                "ano": "2016",
+                "informacoes_adicionais": "ISBN: 9789517847797, Hämeenlinna."
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "MARGARIDO, Fabio Rodrigues Alves;  NONATO, Luis Gustavo;  Óptica e Fisiologia da Visão - Uma Abordagem Multidisciplinar. Título do capítulo: Simulação Computacional do Olho Humano",
+                "ano": "2008",
+                "informacoes_adicionais": "ISBN: 9788572417112, São Paulo."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "PIAS, MARCELO",
+                "titulo": "CUADROS-VARGAS, ERNESTO;  DURAN, RODRIGO;  Computer Science Education in Latin America and the Caribbean",
+                "ano": "2024",
+                "periodico": "ACM Inroads. ISBN: 21532184   ."
+            },
+            {
+                "autores": "GUARDA, GRAZIELA FERREIRA",
+                "titulo": "DURAN, RODRIGO SILVA;  BNCC computação na educação infantil: entendimento, dificuldades e perspectivas dos docentes da rede pública de ensino",
+                "ano": "2024",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            },
+            {
+                "autores": "DURAN, R.",
+                "titulo": "BIM, S. A.;  RIBEIRO, L.;  GIMENES, I.;  CORREIA, R.;  Potential Factors for Retention and Intent to Drop-out in Brazilian Computing Programs",
+                "ano": "2023",
+                "periodico": "ACM Transactions on Computing Education. ISBN: 19466226   ."
+            },
+            {
+                "autores": "BÖRSTLER, JÜRGEN",
+                "titulo": "TOLL, DANIEL;  VAN ASSEMA, JELLE;  BENNIN, KWABENA E.;  HOOSHANGI, SARA;  JEURING, JOHAN;  KEUNING, HIEKE;  KLEINER, CARSTEN;  MACKELLAR, BONNIE;  DURAN, RODRIGO;  STÖRRLE, HARALD;  Developers talking about code quality",
+                "ano": "2023",
+                "periodico": "EMPIRICAL SOFTWARE ENGINEERING. ISBN: 13823256   ."
+            },
+            {
+                "autores": "KATHER, P.",
+                "titulo": "DURAN, R.;  VAHRENHOLD, J.;  Through (Tracking) Their Eyes: Abstraction and Complexity in Program Comprehension",
+                "ano": "2022",
+                "periodico": "ACM Transactions on Computing Education. ISBN: 19466226   ."
+            },
+            {
+                "autores": "DURAN, R.",
+                "titulo": "ZAVGORODNIAIA, ALBINA;  SORVA, JUHA;  Cognitive Load Theory in Computing Education Research: A Review",
+                "ano": "2022",
+                "periodico": "ACM Transactions on Computing Education. ISBN: 19466226   ."
+            },
+            {
+                "autores": "DURAN, RODRIGO",
+                "titulo": "HAWTHORNE, ELIZABETH K.;  SABIN, MIHAELA;  TANG, CARA;  WEISS, MARK ALLEN;  ZWEBEN, STUART H.;  Retention in 2017--18 higher education computing programs in the United States",
+                "ano": "2021",
+                "periodico": "ACM Inroads. ISBN: 21532184   ."
+            },
+            {
+                "autores": "DURAN, R.",
+                "titulo": "SORVA, J.;  SEPPALLA, O.;  Rules of Program Behavior",
+                "ano": "2021",
+                "periodico": "ACM Transactions on Computing Education. ISBN: 19466226   ."
+            },
+            {
+                "autores": "BISPO JR, E. L.",
+                "titulo": "RAABE, A.;  MATOS, E.;  MASCHIO, E.;  BARBOSA, E. F.;  CARVALHO, L. G.;  BITTENCOURT, R. A.;  FALCAO, T. P.;  DURAN, R.;  Tecnologias na Educação em Computação: Primeiros Referenciais",
+                "ano": "2020",
+                "periodico": "Revista Brasileira de Informática na Educação (RBIE). ISBN: 23176121   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ALVIM, I. V.",
+                "titulo": "BITTENCOURT, R",
+                "evento": "A.; DURAN",
+                "local": "RODRIGO; Evasão nos Cursos de Graduação em Computação no Brasil. IV SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO, São Paulo",
+                "ano": "2024"
+            },
+            {
+                "autores": "BARBIERI, MARIA",
+                "titulo": "AMARAL, JAMILI; DURAN, RODRIGO; ¿Eu posso aprender tudo online¿: Uma Análise das Notional Machines do TikTok para Aprender Programação",
+                "evento": "Workshop sobre Educação em Computação",
+                "local": "Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "FERNANDES, A",
+                "evento": "; When Computing is Mandatory: Sense of Belonging and Self-Efficacy in Elementary and Secondary Education. 54th ACM Technical Symposium on Computer Science Education",
+                "local": "Toronto",
+                "ano": "2023"
+            },
+            {
+                "autores": "ERICSON, BARBARA J.",
+                "titulo": "RODGER, SUSAN H",
+                "evento": "; DENNY",
+                "local": "PAUL; PRATHER, JAMES; DURAN, RODRIGO; HELLAS, ARTO; LEINONEN, JUHO; MILLER, CRAIG S.; MORRISON, BRIANA B.; PEARCE, JANICE L.; Parsons Problems and Beyond. ITiCSE 2022: Innovation and Technology in Computer Science Education, Dublin Ireland",
+                "ano": "2022"
+            },
+            {
+                "autores": "DURAN, RODRIGO",
+                "titulo": "HAARANEN, LASSI; HELLAS, ARTO; Gender Differences in Introductory Programming",
+                "evento": "SIGCSE &apos;20: The 51st ACM Technical Symposium on Computer Science Education",
+                "local": "Portland OR USA",
+                "ano": "2020"
+            },
+            {
+                "autores": "SETTLE, AMBER",
+                "titulo": "BECKER, BRETT A",
+                "evento": "; DURAN",
+                "local": "RODRIGO; KUMAR, VIRAJ; LUXTON-REILLY, ANDREW; Improving Global Participation in the SIGCSE Technical Symposium. SIGCSE &apos;20: The 51st ACM Technical Symposium on Computer Science Education, Portland OR USA",
+                "ano": "2020"
+            },
+            {
+                "autores": "ZAVGORODNIAIA, ALBINA",
+                "titulo": "DURAN, RODRIGO; HELLAS, ARTO; SEPPALA, OTTO; SORVA, JUHA; Measuring the Cognitive Load of Learning to Program: A&nbsp;Replication Study",
+                "evento": "UKICER &apos;20: United Kingdom &amp; Ireland Computing Education Research conference.",
+                "local": "Glasgow United Kingdom",
+                "ano": "2020"
+            },
+            {
+                "autores": "PIRTTINEN, NEA",
+                "titulo": "HELLAS, ARTO; HAARANEN, LASSI; DURAN, RODRIGO; Study Major, Gender, and Confidence Gap: Effects on Experience, Performance, and Self-Efficacy in Introductory Programming",
+                "evento": "2020 IEEE Frontiers in Education Conference (FIE)",
+                "local": "Uppsala",
+                "ano": "2020"
+            },
+            {
+                "autores": "DURAN, RODRIGO SILVA",
+                "titulo": "RYBICKI, JAN-MIKAEL; HELLAS, ARTO; SUORANTA, SANNA; Towards a Common Instrument for Measuring Prior Programming Knowledge",
+                "evento": "the 2019 ACM Conference",
+                "local": "Aberdeen",
+                "ano": "2019"
+            },
+            {
+                "autores": "DURAN, RODRIGO",
+                "titulo": "RYBICKI, JAN-MIKAEL; SORVA, JUHA; HELLAS, ARTO; Exploring the Value of Student Self-Evaluation in Introductory Programming",
+                "evento": "the 2019 ACM Conference",
+                "local": "Toronto ON",
+                "ano": "2019"
+            },
+            {
+                "autores": "IZU, CRUZ",
+                "titulo": "MIROLO, CLAUDIO; WEEDA, RENSKE; SCHULTE, CARSTEN; AGGARWAL, ASHISH; CUTTS, QUINTIN; DURAN, RODRIGO; GUTICA, MIRELA; HEINEMANN, BIRTE; KRAEMER, EILEEN; LONATI, VIOLETTA; Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories",
+                "evento": "ITiCSE '19: Innovation and Technology in Computer Science Education",
+                "local": "Aberdeen Scotland Uk",
+                "ano": "2019"
+            },
+            {
+                "autores": "DURAN, RODRIGO",
+                "titulo": "SORVA, JUHA; LEITE, SOFIA; Towards an Analysis of Program Complexity From a Cognitive Perspective",
+                "evento": "the 2018 ACM Conference",
+                "local": "Espoo",
+                "ano": "2018"
+            },
+            {
+                "autores": "DURAN, RODRIGO",
+                "titulo": "Towards an Instructional Design of Complex Learning in Introductory Programming Courses",
+                "evento": "the 2018 ACM Conference",
+                "local": "Espoo",
+                "ano": "2018"
+            },
+            {
+                "autores": "HAARANEN, LASSI",
+                "titulo": "DURAN, RODRIGO; Link Between Gaming Communities in YouTube and Computer Science",
+                "evento": "9th International Conference on Computer Supported Education",
+                "local": "Porto",
+                "ano": "2017"
+            },
+            {
+                "autores": "DURAN, RODRIGO",
+                "titulo": "Towards a Fine-grained Analysis of Complexity of Programming Tasks",
+                "evento": "the 2017 ACM Conference",
+                "local": "Tacoma",
+                "ano": "2017"
+            },
+            {
+                "autores": "BÖRSTLER, JÜRGEN",
+                "titulo": "KLEINER, CARSTEN; MACKELLAR, BONNIE; STÖRRLE, HARALD; TOLL, DANIEL; VAN ASSEMA, JELLE; DURAN, RODRIGO; HOOSHANGI, SARA; JEURING, JOHAN; KEUNING, HIEKE; &quot;I know it when I see it&quot; Perceptions of Code Quality",
+                "evento": "the 2017 ITiCSE Conference",
+                "local": "Bologna",
+                "ano": "2017"
+            },
+            {
+                "autores": "VAZ, E. H. R.",
+                "titulo": "FIGUEIREDO, G",
+                "evento": "S.; DURAN",
+                "local": "R. S.; Eco House ? um sistema de automação residencial focado na máxima eficiência no uso de recursos. Feira Brasileira de Ciências e Engenharia - FEBRACE, São Paulo",
+                "ano": "2014"
+            },
+            {
+                "autores": "FERREIRA, L. F.",
+                "titulo": "DURAN, R",
+                "evento": "S.; E-music - construindo um instrumento musical de baixo custo a partir do reaproveitamento de resíduos tecnológicos. Feira Brasileira de Ciências e Engenharia - FEBRACE",
+                "local": "São Paulo",
+                "ano": "2014"
+            },
+            {
+                "autores": "DANTAS, M. S.",
+                "titulo": "CRIVELLI, C",
+                "evento": "I.; DURAN",
+                "local": "R. S.; Learning With : Sistemas de Jogos educativos na Web para o ensino médio. V Computer on The Beach, Florianópolis",
+                "ano": "2014"
+            },
+            {
+                "autores": "CARVALHO, V.",
+                "titulo": "DURAN, R",
+                "evento": "S.; FALLEIROS",
+                "local": "E. L.; Hear n Aid : Uma plataforma colaborativa online de tradução para libras. V Computer on The Beach, Florianópolis",
+                "ano": "2014"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "VAZ, T",
+                "evento": "R.; CRIVELLI",
+                "local": "C. I. P.; DANTAS, M. S.; Learning With - Sistema de Jogos Educativos na Web para o Ensino Médio: Módulo Matemática.. III Congresso Internacional TIC e Educação, Lisboa",
+                "ano": "2014"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "VAZ, T",
+                "evento": "R.; CRIVELLI",
+                "local": "C. I. P.; DANTAS, M. S.; Análise do Uso de Jogos Educativos na Web para o Ensino e Aprendizagem de Língua Inglesa. III Congresso Internacional TIC e Educação, Lisboa",
+                "ano": "2014"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "SILVEIRA, J",
+                "evento": "; FERREIRA",
+                "local": "L. F.; E-Music: Construindo um instrumento musical de baixo custo a partir do reaproveitamento de reíduos tecnológicos. III Congresso Internacional TIC e Educação, Lisboa",
+                "ano": "2014"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "LOPES, L",
+                "evento": "V.; Startracker: Um arcabouço computacional para localização de corpos celestes. Computer on the Beach",
+                "local": "Florianópolis",
+                "ano": "2013"
+            },
+            {
+                "autores": "LOPES, L. V.",
+                "titulo": "DURAN, R",
+                "evento": "S.; Startracker: Um arcabouço computacional para localização de corpos celestes. FEBRACE",
+                "local": "São Paulo",
+                "ano": "2013"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "CARVALHO, V",
+                "evento": "; Hear 'N' Aid: Um Software Livre de Auxílio aos Portadores de Necessidades Específicas Auditivas. III Encontro de Iniciação Científica do IFMS",
+                "local": "Nova Andradina",
+                "ano": "2013"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "FERREIRA, L",
+                "evento": "F.; Utilizando Arduino para a Construção de um Instrumento Musical a Partir do Reaproveitamento de Resíduos Tecnológicos. III Encontro de Iniciação Científica do IFMS",
+                "local": "Nova Andradina",
+                "ano": "2013"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "DANTAS, M",
+                "evento": "S.; CRIVELLI",
+                "local": "C. I.; Learning With - Jogos Educativos na Web Para o Ensino Médio. III Encontro de Iniciação Científica do IFMS, Nova Andradina",
+                "ano": "2013"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "VAZ, E",
+                "evento": "H. R.; FIGUEIREDO",
+                "local": "G. S.; ECOHOUSE - Um sistema de automação residencial visando a máxima eficiência no uso de recursos. III Encontro de Iniciação Científica do IFMS, Nova Andradina",
+                "ano": "2013"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "VAZ, E",
+                "evento": "H. R.; CRIVELLI",
+                "local": "C. I.; CARVALHO, V.; DANTAS, M. S.; Detecção da Vida Selvagem na Mata Limítrofe da Área de Nova Andradina Utilizando o Arduíno e Sensores CCD. Encontro de Iniciação científica do IFMS - ENIC IFMS, Nova Andradina",
+                "ano": "2012"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "LOMBA, Luiz Fernando; SANAVRIA, C",
+                "evento": "; LUIZ JUNIOR",
+                "local": "O. J.; Metodologia de Coleta Seletiva e Descarte de Lixo Tecnológico: O Estudo de Caso de Nova Andradina-MS. Congresso Nacional de Extensão Universitária, Londrina",
+                "ano": "2012"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "SANAVRIA, C",
+                "evento": "; LOMBA",
+                "local": "Luiz Fernando; Atividades de Ensino e Pesquisa no Curso Técnico em Manutenção e Suporte em Informática (Modalidade PROEJA) a partir do Uso da Plataforma Arduíno. Congresso Nacional de Extensão Universitária, Londrina",
+                "ano": "2012"
+            },
+            {
+                "autores": "DURAN, R.",
+                "titulo": "VENTURA, L",
+                "evento": "; NONATO",
+                "local": "L.; BRUNO, O.; Modeling and simulation of the human eye. Biomedical Optics (BiOS) 2007, San Jose",
+                "ano": "2007"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "VENTURA, Liliane; SOUZA, Sidney Faria e; Simlulação Computacional do Conóide de Sturm: Uma ferramenta auxiliar na Oftalmologia",
+                "evento": "XXX Encontro Nacional da Fisica da Matéria Condensada",
+                "local": "São Lourenço",
+                "ano": "2007"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "VENTURA, Liliane; NONATO, Luis Gustavo; BRUNO, Odemir Martinez; Virtual Eye - Um Modelador e Simulador do Sistema Visual Humano",
+                "evento": "XI Congresso Brasileiro de Fisica Medica",
+                "local": "Ribeirão Preto",
+                "ano": "2006"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "NONATO, Luis Gustavo; BRUNO, Odemir Martinez; VENTURA, Liliane; Virtual Eye - A Human Visual System Modeller and Simulator",
+                "evento": "World Congress on Medical Physics and Biomedical Engineering",
+                "local": "Seoul",
+                "ano": "2006"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "NONATO, Luis Gustavo; BRUNO, Odemir Martinez; VENTURA, Liliane; Virtual Eye: Um modelador e simulador do sistema visual humano",
+                "evento": "World Ophthalmology Congress",
+                "local": "São Paulo",
+                "ano": "2006"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "NONATO, Luis Gustavo; BRUNO, Odemir Martinez; VENTURA, Liliane; O Virtual Eye: Um modelador e simulador do sistema visual humano",
+                "evento": "XX Congresso Nacional de Engenharia Biomédica",
+                "local": "São Pedro",
+                "ano": "2006"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "NONATO, Luis Gustavo; BRUNO, Odemir Martinez; MARGARIDO, Fabio Rodrigues Alves; Modelador e simulador do sistema visual humano",
+                "evento": "Simpósio de Instrumentação e Imagens Médicas",
+                "local": "São Pèdro/SP",
+                "ano": "2005"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "NONATO, Luis Gustavo; BRUNO, Odemir Martinez; CARVALHO, Luis Alberto de; MARGARIDO, Fabio Rodrigues Alves; A 3D simulation of the optical properties of the human eye using in vivo anatomical data of the cornea",
+                "evento": "Congresso Brasileiro de Computação",
+                "local": "Itajai/SC",
+                "ano": "2004"
+            },
+            {
+                "autores": "DURAN, R. S.",
+                "titulo": "NONATO, Luis Gustavo; BRUNO, Odemir Martinez; CARVALHO, Luis Alberto de; MARGARIDO, Fabio Rodrigues Alves; Modelamento 3D do Sistema Óptico do Olho Humano com Dados in vivo de Videoceratografia",
+                "evento": "&#10;3D do Sistema Óptico do Olho Humano com Dados in vivo de Videoceratografia.. Reunião da Fesbe",
+                "local": "Águas de Lindóia/SP",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Lanna Rizzo",
+                "titulo": "Senso de pertencimento e autoeficácia dos estudantes do IFMS Nova Andradina",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Talita Vilalva",
+                "titulo": "Senso de pertencimento e autoeficácia dos estudantes do IFMS Nova Andradina",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Julye Roberta de Abreu Aguiar",
+                "titulo": "QuiTest: Testes psicometricamente validados de Química utilizando Inteligência Artificial e Learnersourcing",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Heloisa Satira Rios Do Santos",
+                "titulo": "QuiTest: Testes psicometricamente validados de Química utilizando Inteligência Artificial e Learnersourcing",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Rebeca Soares Nascimento",
+                "titulo": "QuiTest: Testes psicometricamente validados de Química utilizando Inteligência Artificial e Learnersourcing",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "João Pedro Lopes",
+                "titulo": "SISTEMA DE VISÃO COMPUTACIONAL PARA MONITORAMENTO DE ALFACE HIDROPÔNICA",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Gabriel Alves dos Santos",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA DE BIBLIOTECA DIGITAL PARA TRABALHOS DE CONCLUSÃO DE CURSO APROVADOS",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Luiz Paulo Rodrigues da Silva Santos",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA DE BIBLIOTECA DIGITAL PARA TRABALHOS DE CONCLUSÃO DE CURSO APROVADOS",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Clara Giovana Lazarini",
+                "titulo": "Classificação de especies aquáticas através de dados de vocalização utilizando extração de características com DCT e classificação traves de Hidden Markov Models e Machine Learning.",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Milena Soares Godoi",
+                "titulo": "Elaboração de um sistema de engenharia bio-inspirado e consequentes algoritmos de navegação para construção de um sistema semi-autônomo de coleta de dados marítimos.",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Mariana da Silva Chermont",
+                "titulo": "AutoGuardian: monitoramento e análise de dados automobilísticos para simulação de sinistros",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Bruna Luzia Almeida Rodrigues",
+                "titulo": "AutoGuardian: monitoramento e análise de dados automobilísticos para simulação de sinistros",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Lara Fernanda Ferreira",
+                "titulo": "E-music - construindo um instrumento musical de baixo custo a partir do reaproveitamento de resíduos tecnológicos",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Vinicios Faustino de Oliveira",
+                "titulo": "Hear and AId : Uma plataforma colaborativa para tradução de LIBRAS",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Gabriela Sarti Figueiredo",
+                "titulo": "Eco House : Um sistema de automação visando a máxima eficiência energética",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Emanuel Henrique Vaz",
+                "titulo": "Eco House : Um sistema de automação visando a máxima eficiência energética",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Mariana Dantas Souza",
+                "titulo": "Learning With : Ensino de Matemática e Inglês através de jogos educativos",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Carolyne Crivelli dos Santos",
+                "titulo": "Learning With : Ensino de Matemática e Inglês através de jogos educativos",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Vinicio Lacerda",
+                "titulo": "Plataforma de coleta de dados metereológicos",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Bruna Karine Ribeiro Simão",
+                "titulo": "Marketing em redes Sociais",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Leonardo Vasconcelos Lopes",
+                "titulo": "STARTRACKER: Um arcabouço computacional para localização de corpos celestes",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            }
+        ]
+    }
+}

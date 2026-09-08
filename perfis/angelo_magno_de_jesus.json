@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -85,23 +86,23 @@
         "projetos": [
             {
                 "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "IUNIUS",
+                "periodo": "2008 - 2008",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Elton José da Silva",
+                    "Henrique Borges Pereira",
+                    "Ângelo Magno de Jesus"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
                 "nome": "OriOnGroups",
                 "periodo": "2008 - 2009",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Ângelo Magno de Jesus",
                     "Elton José da Silva"
-                ]
-            },
-            {
-                "instituicao": "Universidade Federal de Ouro Preto",
-                "nome": "IUNIUS",
-                "periodo": "2008 - 2008",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Ângelo Magno de Jesus",
-                    "Elton José da Silva",
-                    "Henrique Borges Pereira"
                 ]
             },
             {
@@ -136,9 +137,9 @@
                 "periodo": "2013 - 2017",
                 "natureza": "Desenvolvimento",
                 "equipe": [
-                    "Douglas de Sá",
                     "Ângelo Magno de Jesus",
-                    "Vinicius Azevedo Viana"
+                    "Vinicius Azevedo Viana",
+                    "Douglas de Sá"
                 ]
             },
             {
@@ -177,6 +178,16 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "DOJO?GO: Uma Forma Divertida e Colaborativa de se Aprender através de Dojo de Programação de Jogos",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno de Jesus",
+                    "Gislaine Moura da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Inclusão do Pensamento Computacional para Ensino Especial nas APAE`s.",
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
@@ -185,16 +196,6 @@
                     "Antonio Carlos da Silva",
                     "Shirley Aparecida da Silva",
                     "Elizangela dos Santos Pimenta"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "DOJO?GO: Uma Forma Divertida e Colaborativa de se Aprender através de Dojo de Programação de Jogos",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Ângelo Magno de Jesus",
-                    "Gislaine Moura da Silva"
                 ]
             },
             {
@@ -878,12 +879,12 @@
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 3.0990817546844482,
-            "indian": 12.991997718811035,
-            "black": 4.517220497131348,
-            "white": 15.898637771606445,
-            "middle eastern": 43.327457427978516,
-            "latino hispanic": 20.165603637695312
+            "asian": 0.2440212368965149,
+            "indian": 9.045687675476074,
+            "black": 0.6679012179374695,
+            "white": 8.199298858642578,
+            "middle eastern": 68.41663360595703,
+            "latino hispanic": 13.4264554977417
         }
     }
 }

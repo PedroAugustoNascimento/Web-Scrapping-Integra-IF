@@ -1,0 +1,306 @@
+{
+    "campus": "- Campus Brasília",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2011 - 2016",
+                "instituicao": "Universidade Federal de Campina Grande",
+                "titulo": "Um Modelo Semântico para compartilhamento de Recursos Educacionais",
+                "orientador": "Evandro de Barros Costa"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Computacional de Conhecimento",
+                "periodo": "2010 - 2011",
+                "instituicao": "Universidade Federal de Alagoas",
+                "titulo": "Um arcabouço para gerenciamento de descoberta e invocação automática de Serviços Web Semânticos",
+                "orientador": "Evandro Barros Costa"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Especialista em Políticas Públicas e Gestão Governamental",
+                "periodo": "2026 - 2026",
+                "instituicao": "Escola Nacional de Administração Pública"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2006 - 2009",
+                "instituicao": "Universidade Federal de Alagoas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Alagoas",
+                "periodo": "2008 - 2010",
+                "cargo": "Desenvolvedor, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal de Alagoas",
+                "periodo": "2012 - 2018",
+                "cargo": "Professor de Informática, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "periodo": "2018",
+                "cargo": "Professor, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Alagoas",
+                "nome": "Concepção e Desenvolvimento de Sistemas Educacionais Adaptativos Baseados na Web Semântica e Arquitetura Orientada a Serviços e Agentes Inteligentes",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heitor José dos Santos Barros",
+                    "evandro de barros costa",
+                    "Lucas M. Braz"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Universidade Federal de Alagoas",
+                "nome": "Framework For Building Interactive Learning Environments - ForBILE",
+                "periodo": "2008 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heitor José dos Santos Barros",
+                    "Ig Ibert Bittencourt"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Universidade Federal de Alagoas",
+                "nome": "Concepção e Desenvolvimento de Sistemas de Gerenciamento de Informação Pessoal",
+                "periodo": "2008 - 2009",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heitor José dos Santos Barros",
+                    "evandro de barros costa",
+                    "Lucas M. Braz"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Universidade Federal de Alagoas",
+                "nome": "MASSAYO",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heitor José dos Santos Barros",
+                    "Ig Ibert Bittencourt"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "UM SISTEMA DE RECOMENDAÇÃO DE RECURSOS EDUCACIONAIS NA ÁREA DE PROGRAMAÇÃO",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heitor José dos Santos Barros",
+                    "Luiz Henrique Paiva"
+                ],
+                "financiador": "Fundação de Apoio à Pesquisa do Distrito Federal,"
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Desenvolvimento de um aplicativo para auxiliar no ensino de Lógica de Programação",
+                "periodo": "2019 - 2020",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heitor José dos Santos Barros",
+                    "André Luiz Gomes dos Santos"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CALADO",
+                    "software": "I.,  BARROS, H.,  Bittencourt, Ig Ibert,  COSTA, E. B.,  SILVA, M. T.,  Mecanismo para Descoberta e Composição automática de Semantic Web Services",
+                    "ano": "2009",
+                    "finalidade": "Prover uma ferramenta para descoberta e composição automática de Serviços Semânticos através do uso de métricas de similaridade."
+                },
+                {
+                    "autor": "BARROS",
+                    "software": "H.,  Bittencourt, Ig Ibert,  Gerenciador de Invocação de Serviços Web Semânticos",
+                    "ano": "2009",
+                    "finalidade": "Oferecer um mecanismo reusável para invocação de SWS, oferecendo descoberta, composição e invocação de maneira transparente ao usuário."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BARROS",
+                    "curso": "H.,  Desenvolvimento de Frameworks - Teoria e Prática",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "BARROS",
+                    "curso": "H.,  Introdução à HTML e CSS",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "M. T.,  ELIAS, E.,  BARROS, H.,  Bittencourt, Ig Ibert,  COSTA, E. B.,  UMA INTRODUÇÃO A SISTEMAS MULTIAGENTES COM JADE",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "BARROS",
+                    "curso": "H.,  SILVA, M. T.,  Bittencourt, Ig Ibert,  COSTA, E. B.,  SERVIÇOS WEB SEMÂNTICOS: CONCEITOS, TECNOLOGIAS E APLICAÇÕES",
+                    "ano": "2010"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "NEVES, D. F.",
+                "titulo": "BARROS, H.;  RIPPBEGER, T. E.;  GARRIDO, A. G.;  TRAJANO FILHO, E.;  FERLIN, R. M.;  FERREIRA, A. C.;  Teleultrassonografia: um marco no contexto da medicina no Brasil",
+                "ano": "2019",
+                "periodico": "RBUS. Revista Brasileira de Ultra-Sonografia. ISBN: 16798953   ."
+            },
+            {
+                "autores": "BARROS, H.",
+                "titulo": "Silva, Alan;  Costa, Evandro;  Bittencourt, Ig Ibert;  Holanda, Olavo;  Sales, Leandro;  Steps, techniques, and technologies for the development of intelligent applications based on Semantic Web Services: A case study in e-learning systems",
+                "ano": "2011",
+                "periodico": "Engineering Applications of Artificial Intelligence. ISBN: 09521976   ."
+            },
+            {
+                "autores": "SILVA, M. T.",
+                "titulo": "ELIAS, E.;  COSTA, E. B.;  Bittencourt, Ig Ibert;  BARROS, H.;  Dias, L.;  VERAS, D.;  Combining METHONTOLOGY and a Model Driven Ontology Approach to Build Educational Ontologies",
+                "ano": "2011",
+                "periodico": "IEEE multidisciplinary engineering education magazine. ISBN: 15587908   ."
+            },
+            {
+                "autores": "BARROS, H.",
+                "titulo": "SILVA, M. T.;  Bittencourt, Ig Ibert;  COSTA, E. B.;  VERAS, D.;  Providing reliable use of Semantic Web Services in Educational systems",
+                "ano": "2011",
+                "periodico": "IEEE multidisciplinary engineering education magazine. ISBN: 15587908   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Barros, Heitor",
+                "titulo": "Costa, Evandro; MAGALHÃES, JONATHAS; PAIVA, RANILSON; Integrating educational repositories to improve the reuse of learning objects",
+                "evento": "the 30th Annual ACM Symposium",
+                "local": "Salamanca",
+                "ano": "2015"
+            },
+            {
+                "autores": "Barros, Heitor",
+                "titulo": "MAGALHÃES, J",
+                "evento": "J.; COSTA",
+                "local": "E. B.; AN ONTOLOGY BASED APPROACH FOR SHARING DISTRIBUTED EDUCATIONAL RESOURCES. 13th International Conference on WWW/INTERNET, Porto, Portugal",
+                "ano": "2014"
+            },
+            {
+                "autores": "Barros, Heitor",
+                "titulo": "MARINHO, T",
+                "evento": "; COSTA",
+                "local": "E. B.; MAGALHÃES, J. J.; BRITO, P.; A Synonyms Dictionary Approach in Semantic Web Services Composition. IADIS International Conference WWW/Internet 2012, Fort Worth, TX",
+                "ano": "2013"
+            },
+            {
+                "autores": "VERAS, D.",
+                "titulo": "Bittencourt, Ig Ibert; SALES, L",
+                "evento": "; BARROS",
+                "local": "H.; SILVA, M. T.; COSTA, E. B.; A Solution for Personalized T-learning Applications Integrated with a Web Educational Platform. 26th Symposium On Applied Computing, TaiChung",
+                "ano": "2011"
+            },
+            {
+                "autores": "BARROS, H.",
+                "titulo": "SILVA, M",
+                "evento": "T.; COSTA",
+                "local": "E. B.; A Fault Tolerance approach for Semantic Web Services based Systems: A case study in E-Learning. XXI Simpósio Brasileiro de Informática na Educação, João Pessoa",
+                "ano": "2010"
+            },
+            {
+                "autores": "SILVA, M. T.",
+                "titulo": "BARROS, H",
+                "evento": "; COSTA",
+                "local": "E. B.; Using a Model Driven Approach for Specifying Educational Ontologies. XXI Simpósio Brasileiro de Informática na Educação, 2010, João Pessoa - PB",
+                "ano": "2010"
+            },
+            {
+                "autores": "CALADO, I.",
+                "titulo": "BARROS, H",
+                "evento": "; Bittencourt",
+                "local": "Ig Ibert; COSTA, E. B.; SILVA, M. T.; ARRUDA, M.; SOARES, E. A.; An Approach for Semantic Web Services Automatic Discovery and Composition With Similarity Metrics.. 24th Annual ACM Symposium on Applied Computing, Honolulu",
+                "ano": "2009"
+            },
+            {
+                "autores": "Bittencourt, Ig Ibert",
+                "titulo": "SANTOS, P",
+                "evento": "B. S.; PONTES",
+                "local": "J. P.; VERAS, D.; DERMEVAL, Diego.; COSTA, E. B.; LUNA, H. P. L.; BARROS, H.; Modeling JADE Agents from GAIA Methodology under the Perspective of Semantic Web. 11th International Conference, ICEIS 2009, Milão",
+                "ano": "2009"
+            },
+            {
+                "autores": "BARROS, H.",
+                "titulo": "CALADO, I",
+                "evento": "; SILVA",
+                "local": "M. T.; Bittencourt, Ig Ibert; COSTA, E. B.; Using Semantic Web Services to Automatically attend to Educational Requests. Simpósio Brasileiro de Informática em Educação, Florianopólis",
+                "ano": "2009"
+            },
+            {
+                "autores": "VERAS, D.",
+                "titulo": "SILVA, M",
+                "evento": "T.; BARROS",
+                "local": "H.; Bittencourt, Ig Ibert; COSTA, E. B.; LUNA, H. P. L.; SILVA, A.; Modelando um Sistema Educacional de MMC sob a perspectiva da Web Semântica. Simpósio Brasileiro de Informática em Educação, Florianopólis",
+                "ano": "2009"
+            },
+            {
+                "autores": "CUNHA, M. X. C.",
+                "titulo": "SOUZA JUNIOR, M",
+                "evento": "F.; BARROS",
+                "local": "H.; CALHEIROS, Giovanni; TORRES, Weslley; Desafios de Integração de Sistemas: Roadmap, Evolução Tecnológica e Impactos Organizacionais. II Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica, II CONNEPI",
+                "ano": "2007"
+            },
+            {
+                "autores": "SOUZA JUNIOR, M. F.",
+                "titulo": "CUNHA, M",
+                "evento": "X. C.; OLIVEIRA NETO",
+                "local": "J. G. C.; BARROS, H.; TORRES, Weslley; Implementação de um Protótipo para Integração Orientada a Serviços dos Sistemas de Informação do CEFET-AL. II Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica, João Pessoa",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "André Luiz Gomes dos Santos",
+                "titulo": "Desenvolvimento de um aplicativo para auxiliar no ensino de Lógica de Programação.",
+                "ano": "2020",
+                "curso": "Sistemas para a Internet",
+                "instituicao": "Instituto Federal de Brasília"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.8132005929946899,
+            "indian": 1.6787978410720825,
+            "black": 0.17196159064769745,
+            "white": 49.9102783203125,
+            "middle eastern": 27.40781021118164,
+            "latino hispanic": 20.017963409423828
+        }
+    }
+}

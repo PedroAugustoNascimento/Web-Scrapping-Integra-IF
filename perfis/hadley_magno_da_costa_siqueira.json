@@ -1,0 +1,116 @@
+{
+    "campus": "- Campus Santa Cruz",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2016 - 2020",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Proposta de Arquitetura de Alto Desempenho para Sistemas de Tempo Real",
+                "orientador": "Marcio Eduardo Kreutz"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2013 - 2015",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Proposta de um processador multithreading com características de previsibilidade",
+                "orientador": "Marcio Eduardo Kreutz"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2008 - 2013",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2016",
+                "cargo": "Professor EBTT."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Rede H.264 SBTVD",
+                "periodo": "2011 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hadley Magno da Costa Siqueira",
+                    "CORREA",
+                    "EDGARD F."
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CRUZ",
+                    "curso": "Marcos O.,  SIQUEIRA, HADLEY M.,  CORREA, EDGARD F.,  Projeto Baseado em Plataforma Microcontrolada: Arduino Básico",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "SIQUEIRA",
+                    "curso": "HADLEY M.,  CRUZ, Marcos O.,  PEREIRA, Monica Magalhães,  Projeto Baseado em Plataforma 1: Arquiteturas Reconfiguráveis",
+                    "ano": "2014"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SIQUEIRA, H. M. C.",
+                "titulo": "CORREA, EDGARD F",
+                "evento": "; SILVA",
+                "local": "IVAN S.; KREUTZ, MARCIO E.; PEREIRA, Monica Magalhães; A VLIW architecture with memory optimization. Iberchip XX Workshop, Santiago",
+                "ano": "2014"
+            },
+            {
+                "autores": "SIQUEIRA, HADLEY",
+                "titulo": "MARINHO, VICTOR; CORREA, EDGARD; A Complete H",
+                "evento": "264 Motion Estimation Architecture. 2012 Brazilian Symposium on Computing System Engineering (SBESC)",
+                "local": "Natal",
+                "ano": "2012"
+            },
+            {
+                "autores": "SIQUEIRA, HADLEY M.",
+                "titulo": "SILVA, IVAN S",
+                "evento": "; KREUTZ",
+                "local": "MARCIO E.; CORREA, EDGARD F.; DDR SDRAM Memory Controller for Digital TV Decoders. 2011 Brazilian Symposium on Computing System Engineering (SBESC), Florianopolis",
+                "ano": "2011"
+            },
+            {
+                "autores": "SIQUEIRA, H. M. C.",
+                "titulo": "GOLDBARG, M",
+                "evento": "C.; Algoritmos para o Jogo de Sudoku. CIC - XXI Congresso de Iniciação Cientifica da UFRN",
+                "local": "Natal",
+                "ano": "2010"
+            },
+            {
+                "autores": "SIQUEIRA, H. M. C.",
+                "titulo": "NUNES, R",
+                "evento": "O.; TV digital no Brasil: Conceitos",
+                "local": "Carcteristicas e Implantação. CIC - XIX Congresso de Iniciação Cientifica da UFRN, Natal",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Bambuí",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -26,11 +27,6 @@
             }
         ],
         "atuacoes_profissionais": [
-            {
-                "empresa": "Bambuí Bioenergia S/A",
-                "periodo": "2017 - 2018",
-                "cargo": "Estagiário no setor de elétrica, Estagiário."
-            },
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2026",
@@ -59,12 +55,12 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2015 - 2016",
-                "cargo": "Aluno de Projeto de Extensão, Título do Projeto: Prointec - Programa de Integração Escola e Comunidade.."
+                "cargo": "Aluno de Iniciação Científica, Bolsista, Título do projeto: Desenvolvimento de um aplicativo Android visando auxiliar na avaliação da qualidade da pulverização em condições de campo.."
             },
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2015 - 2016",
-                "cargo": "Aluno de Iniciação Científica, Bolsista, Título do projeto: Desenvolvimento de um aplicativo Android visando auxiliar na avaliação da qualidade da pulverização em condições de campo.."
+                "cargo": "Aluno de Projeto de Extensão, Título do Projeto: Prointec - Programa de Integração Escola e Comunidade.."
             },
             {
                 "empresa": "Instituto Federal Minas Gerais",
@@ -80,6 +76,11 @@
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "2013 - 2014",
                 "cargo": "Estagiário, Bolsista, O estágio aconteceu na Coordenadoria Geral de Recursos Humanos, onde foram desenvolvidos alguns projetos utilizando programação web, sempre com as linguagens PHP e Java, trabalhou também, com planilhas eletrônicas e atuou na parte das atividades inerentes ao setor de Recursos Humanos.."
+            },
+            {
+                "empresa": "Bambuí Bioenergia S/A",
+                "periodo": "2017 - 2018",
+                "cargo": "Estagiário no setor de elétrica, Estagiário."
             },
             {
                 "empresa": "SVA Tech - Soluções em Vídeo Analítico",
@@ -150,16 +151,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Prointec - Programa de Integração Escola e Comunidade",
-                "periodo": "2015 - 2016",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Bruno Alberto Soares Oliveira",
-                    "Helainne Vianey Gomes de Oliveira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Desenvolvimento de um aplicativo Android visando auxiliar na avaliação da qualidade da pulverização em condições de campo",
                 "periodo": "2015 - 2016",
                 "natureza": "Pesquisa",
@@ -171,12 +162,22 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Prointec - Programa de Integração Escola e Comunidade",
+                "periodo": "2015 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Bruno Alberto Soares Oliveira",
+                    "Helainne Vianey Gomes de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Inclusão Digital: Aplicação de cursos de informática para a comunidade de Bambui-MG",
                 "periodo": "2016 - 2017",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Bruno Alberto Soares Oliveira",
                     "Servílio Souza de Assis",
+                    "Bruno Alberto Soares Oliveira",
                     "Gabriel Silva",
                     "Robson Shigueaki Sasaki",
                     "Mayron Lacerda Reis",
@@ -209,18 +210,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Implantação de sistemas para reutilização da água descartada pelos destiladores do Instituto Federal de Minas Gerais campus Bambuí",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Bruno Alberto Soares Oliveira",
-                    "Bárbara Roberta Morais",
-                    "Paulinelly de Sousa Oliveira",
-                    "Meryene de Carvalho Teixeira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Bambuí Digital: Oficinas de Cidadania, Segurança da Informação e Combate a Fake News",
                 "periodo": "2026",
                 "natureza": "Extensao",
@@ -232,29 +221,69 @@
                 ]
             },
             {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Detecção precoce de desmatamento em remanescentes de cerrado em Minas Gerais com frequência mensal usando séries temporais sentinel-2 e redes neurais profundas",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Alberto Soares Oliveira",
+                    "Gabriel Fellipe Corrêa Costa",
+                    "João Bruno Faria Rezende",
+                    "Ryan Lucas Silva Carvalho",
+                    "Lídia Raiza Sousa Lima Chaves Trindade"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de aplicativo educacional para apoio à identificação de parasitos intestinais utilizando características morfológicas e imagens microscópicas",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Alberto Soares Oliveira",
+                    "Paulo Ricardo Silva Coelho",
+                    "Gabriel Augusto Gomides",
+                    "Gabriel Henrique Silva Duque",
+                    "Eduardo Pereira Muniz Leão"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Rastreamento Contínuo e Reidentificação (Re-ID) de Suínos sob Oclusão utilizando Visão Computacional",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Alberto Soares Oliveira",
+                    "Francisco Weider Willy dos Santos",
+                    "Markenil Gomes dos Santos",
+                    "Rodrigo Paulino de Souza Batista"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Implantação de sistemas para reutilização da água descartada pelos destiladores do Instituto Federal de Minas Gerais campus Bambuí",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Alberto Soares Oliveira",
+                    "Bárbara Roberta Morais",
+                    "Paulinelly de Sousa Oliveira",
+                    "Meryene de Carvalho Teixeira"
+                ]
+            },
+            {
                 "instituicao": "SVA Tech - Soluções em Vídeo Analítico",
                 "nome": "PD-00063-3073/2020 - Plataforma De Gestão De Obras Automatizada Através De Análise De Imagens Utilizando Redes Neurais E Deep Learning",
                 "periodo": "2020 - 2023",
                 "natureza": "Desenvolvimento",
                 "equipe": [
-                    "Amanda Lopes Fernandes",
-                    "Bruno Alberto Soares Oliveira"
+                    "Bruno Alberto Soares Oliveira",
+                    "Amanda Lopes Fernandes"
                 ]
             },
             {
                 "instituicao": "Universidade Federal de Minas Gerais",
                 "nome": "Diagnóstico Automático de Ovos de Parasitos Intestinais Humanos a partir de Imagens Microscópicas utilizando Redes Neurais Convolucionais",
                 "periodo": "2019 - 2020",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Bruno Alberto Soares Oliveira",
-                    "Frederico Gadelha Guimarães"
-                ]
-            },
-            {
-                "instituicao": "Universidade Federal de Minas Gerais",
-                "nome": "Sistema de Diagnóstico da Esquistossomose a Partir de Imagens Microscópicas preparadas com a Técnica Kato-Katz",
-                "periodo": "2020 - 2022",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Bruno Alberto Soares Oliveira",
@@ -273,16 +302,33 @@
                 ]
             },
             {
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "Sistema de Diagnóstico da Esquistossomose a Partir de Imagens Microscópicas preparadas com a Técnica Kato-Katz",
+                "periodo": "2020 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Alberto Soares Oliveira",
+                    "Frederico Gadelha Guimarães"
+                ]
+            },
+            {
                 "instituicao": "Fundação para Inovações Tecnológicas",
-                "nome": "LEWAIS: Sistema de predição de descargas atmosféricas",
-                "periodo": "2021 - 2025",
+                "nome": "Sistema embarcado para diagnóstico de doenças pulmonares em imagens de raio-x",
+                "periodo": "2021 - 2022",
                 "natureza": "Desenvolvimento",
                 "equipe": [
                     "Bruno Alberto Soares Oliveira",
-                    "CALVO",
-                    "DANIEL",
-                    "Marcos Antonio Alves",
-                    "Douglas Batista S Ferreira"
+                    "Daniel Calvo"
+                ]
+            },
+            {
+                "instituicao": "Fundação para Inovações Tecnológicas",
+                "nome": "Sistema de identificação de objetos ilícitos em penitenciárias",
+                "periodo": "2021 - 2022",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Daniel Calvo",
+                    "Bruno Alberto Soares Oliveira"
                 ]
             },
             {
@@ -330,22 +376,15 @@
             },
             {
                 "instituicao": "Fundação para Inovações Tecnológicas",
-                "nome": "Sistema embarcado para diagnóstico de doenças pulmonares em imagens de raio-x",
-                "periodo": "2021 - 2022",
+                "nome": "LEWAIS: Sistema de predição de descargas atmosféricas",
+                "periodo": "2021 - 2025",
                 "natureza": "Desenvolvimento",
                 "equipe": [
                     "Bruno Alberto Soares Oliveira",
-                    "Daniel Calvo"
-                ]
-            },
-            {
-                "instituicao": "Fundação para Inovações Tecnológicas",
-                "nome": "Sistema de identificação de objetos ilícitos em penitenciárias",
-                "periodo": "2021 - 2022",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Bruno Alberto Soares Oliveira",
-                    "Daniel Calvo"
+                    "CALVO",
+                    "DANIEL",
+                    "Marcos Antonio Alves",
+                    "Douglas Batista S Ferreira"
                 ]
             }
         ]
@@ -428,24 +467,6 @@
                     "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais."
                 },
                 {
-                    "autores": "OLIVEIRA",
-                    "titulo": "B. A. S.,  SANTOS, Y. A.,  Decisões automatizadas e a amplitude do direito à explicação na LGPD: um estudo de caso",
-                    "ano": "2020",
-                    "instituicao_promotora": "CONPEDI."
-                },
-                {
-                    "autores": "OLIVEIRA",
-                    "titulo": "B. A. S.,  CASTRO, G. Z.,  Além da visão jurídica: o funcionamento de um algoritmo de reconhecimento facial e suas implicações",
-                    "ano": "2020",
-                    "instituicao_promotora": "CONPEDI."
-                },
-                {
-                    "autores": "OLIVEIRA",
-                    "titulo": "B. A. S.,  CASTRO, G. Z.,  FERREIRA, G. L. M.,  GUIMARAES, F. G.,  Predição de Risco de Doença Cardiovascular Como Estratégia de Prevenção Primária Utilizando Aprendizado de Máquina e Modelos Explicáveis",
-                    "ano": "2020",
-                    "instituicao_promotora": "Sociedade Brasileira de Engenharia Biomédica."
-                },
-                {
                     "autores": "SANTOS",
                     "titulo": "F. W. W.,  VIEIRA, L. M.,  OLIVEIRA, B. A. S.,  PESSOA, L. A. M.,  DAVID, R. B.,  Utilização do modelo híbrido para reconhecimento de embarcações, a partir de imagens satélite, no contexto ambiental",
                     "ano": "2020",
@@ -462,6 +483,24 @@
                     "titulo": "B. A. S.,  FARIA NETO, A. P.,  FERNANDINO, R. M. A.,  COSTA, D. P.,  CARVALHO, R. F.,  GUIMARAES, F. G.,  Visão Computacional e Aprendizado de Máquina para Classificação de Componentes em Alimentadores de Subestações Elétricas",
                     "ano": "2020",
                     "instituicao_promotora": "Sociedade Brasileira de Automática (SBA)."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "B. A. S.,  SANTOS, Y. A.,  Decisões automatizadas e a amplitude do direito à explicação na LGPD: um estudo de caso",
+                    "ano": "2020",
+                    "instituicao_promotora": "CONPEDI."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "B. A. S.,  CASTRO, G. Z.,  Além da visão jurídica: o funcionamento de um algoritmo de reconhecimento facial e suas implicações",
+                    "ano": "2020",
+                    "instituicao_promotora": "CONPEDI."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "B. A. S.,  CASTRO, G. Z.,  FERREIRA, G. L. M.,  GUIMARAES, F. G.,  Predição de Risco de Doença Cardiovascular Como Estratégia de Prevenção Primária Utilizando Aprendizado de Máquina e Modelos Explicáveis",
+                    "ano": "2020",
+                    "instituicao_promotora": "Sociedade Brasileira de Engenharia Biomédica."
                 },
                 {
                     "autores": "OLIVEIRA",
@@ -633,6 +672,13 @@
             "organizacao_eventos": [
                 {
                     "autores": "OLIVEIRA",
+                    "evento": "BRUNO ALBERTO SOARES,  X Semana de Engenharia, Tecnologia e Computação",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Minas Gerais."
+                },
+                {
+                    "autores": "OLIVEIRA",
                     "evento": "B. A. S.,  II Semana de Engenharia, Tecnologia e Computação",
                     "ano": "2017",
                     "duracao_semanas": "1",
@@ -701,8 +747,8 @@
                 "periodico": "REVISTA DE ENGENHARIA DA UNIVERSIDADE CATÓLICA DE PETRÓPOLIS. ISBN: 23180692   ."
             },
             {
-                "autores": "ALVES, M. A.",
-                "titulo": "PINTO, O.;  OLIVEIRA, B. A. S.;  FERREIRA, D. B. S.;  SANTOS, A. P. P.;  MAIA, W. F. S.;  SOARES, W. S.;  SILVESTROW, F. P.;  RODRIGUES, L. F. M.;  DAHER, E. L.;  An automated technique and decision support system for lightning early warning",
+                "autores": "PINTO, O.",
+                "titulo": "ALVES, M. A.;  OLIVEIRA, B. A. S.;  FERREIRA, D. B. S.;  SANTOS, A. P. P.;  MAIA, W. F. S.;  SOARES, W. S.;  SILVESTROW, F. P.;  RODRIGUES, L. F. M.;  DAHER, E. L.;  An automated technique and decision support system for lightning early warning",
                 "ano": "2024",
                 "periodico": "INTERNATIONAL JOURNAL OF ENVIRONMENTAL SCIENCE AND TECHNOLOGY. ISBN: 17352630   ."
             },
@@ -785,8 +831,8 @@
                 "periodico": "REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO. ISBN: 25254782   ."
             },
             {
-                "autores": "SOUZA, RAYRA",
-                "titulo": "OLIVEIRA, BRUNO;  FONSECA, FLÁVIA;  GONÇALVES, STÉFANY;  JÚNIOR, CALEBE;  GUIMARÃES, FREDERICO;  ANÁLISE DE USO DO SISTEMA ELÉTRICO AUXILIAR DE UM AQUECEDOR SOLAR, LOCALIZADO EM UM INSTITUTO PÚBLICO NO CENTRO-OESTE DE MINAS GERAIS",
+                "autores": "OLIVEIRA, BRUNO",
+                "titulo": "SOUZA, RAYRA;  FONSECA, FLÁVIA;  GONÇALVES, STÉFANY;  JÚNIOR, CALEBE;  GUIMARÃES, FREDERICO;  ANÁLISE DE USO DO SISTEMA ELÉTRICO AUXILIAR DE UM AQUECEDOR SOLAR, LOCALIZADO EM UM INSTITUTO PÚBLICO NO CENTRO-OESTE DE MINAS GERAIS",
                 "ano": "2020",
                 "periodico": "REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO. ISBN: 25254782   ."
             },
@@ -876,8 +922,8 @@
                 "ano": "2024"
             },
             {
-                "autores": "ALVES, MARCOS",
-                "titulo": "ALBERTO SOARES OLIVEIRA, BRUNO; CALVO, DANIEL; DAHER, EUGENIO; PAULA SANTOS, ANA; FERREIRA, DOUGLAS; JÚNIOR, OSMAR; ANÁLISE SEGMENTADA DE DESCARGAS ATMOSFÉRICAS PARA GERAÇÃO ANTECIPADA DE ALERTAS DE SEGURANÇA EM ÁREAS COM ATIVIDADES EM CAMPO ABERTO",
+                "autores": "ALBERTO SOARES OLIVEIRA, BRUNO",
+                "titulo": "ALVES, MARCOS; CALVO, DANIEL; DAHER, EUGENIO; PAULA SANTOS, ANA; FERREIRA, DOUGLAS; JÚNIOR, OSMAR; ANÁLISE SEGMENTADA DE DESCARGAS ATMOSFÉRICAS PARA GERAÇÃO ANTECIPADA DE ALERTAS DE SEGURANÇA EM ÁREAS COM ATIVIDADES EM CAMPO ABERTO",
                 "evento": "ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL",
                 "local": "Fortaleza",
                 "ano": "2024"
@@ -1002,8 +1048,8 @@
                 "ano": "2020"
             },
             {
-                "autores": "COSTA, DIEGO",
-                "titulo": "OLIVEIRA, BRUNO; NETO, ABILIO; FERNANDINO, ROBERTO; GUIMARAES, FREDERICO; Deep Learning para Detecção de Componentes em Alimentadores de Subestações",
+                "autores": "OLIVEIRA, BRUNO",
+                "titulo": "NETO, ABILIO; FERNANDINO, ROBERTO; COSTA, DIEGO; GUIMARAES, FREDERICO; Deep Learning para Detecção de Componentes em Alimentadores de Subestações",
                 "evento": "XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
                 "local": "Florianópolis - SC",
                 "ano": "2020"
@@ -1128,10 +1174,10 @@
                 "ano": "2016"
             },
             {
-                "autores": "MATOS, G. B.",
-                "titulo": "MORAIS, B",
-                "evento": "R.; OLIVEIRA",
-                "local": "B. A. S.; ELISIARIO, J. D.; DUARTE, A. F.; TEIXEIRA, M. C.; Desenvolvimento de uma tabela periódica acessível para deficientes visuais. XXX Encontro Regional da Sociedade Brasileira de Química (ERSBQ-MG), Uberlândia-MG",
+                "autores": "MORAIS, B. R.",
+                "titulo": "OLIVEIRA, B",
+                "evento": "A. S.; ELISIARIO",
+                "local": "J. D.; MATOS, G. B.; DUARTE, A. F.; TEIXEIRA, M. C.; Desenvolvimento de uma tabela periódica acessível para deficientes visuais. XXX Encontro Regional da Sociedade Brasileira de Química (ERSBQ-MG), Uberlândia-MG",
                 "ano": "2016"
             },
             {

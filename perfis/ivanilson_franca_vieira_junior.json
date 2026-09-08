@@ -1,0 +1,450 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Informática",
+                "periodo": "2019",
+                "instituicao": "Universidade de Coimbra",
+                "titulo": "Network Monitoring for Industrial IoT",
+                "orientador": "António Jorge da Costa Granjal"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "2007 - 2009",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Uma abordagem na camada de middleware para troca dinâmica de componentes em sistemas multimídia distribuídos baseados no framework Cosmos",
+                "orientador": "Adilson Barboza Lopes"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2001 - 2004",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "periodo": "2003 - 2006",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Prefeitura Municipal de Natal",
+                "periodo": "2009 - 2009",
+                "cargo": "Chefe da Unidade Setorial de Informática, Lotação SEGAP."
+            },
+            {
+                "empresa": "Prefeitura Municipal de Natal",
+                "periodo": "2006 - 2007",
+                "cargo": "Administrador de Redes."
+            },
+            {
+                "empresa": "Prefeitura Municipal de Natal",
+                "periodo": "2001 - 2005",
+                "cargo": "Chefe do Setor de Assistencia Técnica."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Rio Grande do Norte",
+                "periodo": "2009 - 2009",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Rio Grande do Norte",
+                "periodo": "2007 - 2007",
+                "cargo": "Professor Substituto."
+            },
+            {
+                "empresa": "AsGa Sistemas",
+                "periodo": "2006 - 2007",
+                "cargo": "Gerente de Implantação."
+            },
+            {
+                "empresa": "Faculdade Estácio do Rio Grande do Norte",
+                "periodo": "2009 - 2009",
+                "cargo": "Professor, Celetista formal, Professor das disciplinas de Laboratório de Redes de Computadores 1 e Laboratório de Redes de Computadores 2.."
+            },
+            {
+                "empresa": "Faculdade Câmara Cascudo",
+                "periodo": "2009 - 2009",
+                "cargo": "Professor Horista, Celetista formal, Professor das disciplinas de Programação Orientada a Objetos e Segurança e Auditoria de Redes."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2010",
+                "cargo": "Docente."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nGraduacao (2011) - Tecnologia Em Redes De Computadores.\nGraduacao (2010 - 2010) - Tecnologia Em Redes De Computadores.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo de tecnologias sem fio usando Arduino",
+                "periodo": "2012 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "Aline Cristine Freire de Araújo",
+                    "Wanderson Douglas Souza de Vasconcelos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Monitoramento de acumuladores de água usando Arduíno",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "Carlos Gustavo Araújo da Rocha"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Projeto Sibite - O Drone do NUTEL",
+                "periodo": "2012 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "MANOEL BEZERRA DA COSTA NETO",
+                    "MATHEUS LUIZ NEGREIROS CAMARA",
+                    "Carlos Gustavo Araújo da Rocha",
+                    "Severino Stello Galvao Moreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "DIFUSÃO DO CONHECIMENTO TECNOLOGICO AOS ALUNOS DO IFRN ATRAVÉS DA PREPARAÇÃO E PARTICIPAÇÃO EM COMPETIÇÕES DE ROBÓTICA EDUCACIONAL",
+                "periodo": "2014 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "João Moreno Vilas Boas de Souza Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sistema de Gestão Acadêmica para Escolas Municipais",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "Marcal Jose de Oliveira Morais Ii"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Desenvolvimento de um sistema web para gerenciamento de controle de acesso para ambientes do IFRN",
+                "periodo": "2017 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "João Moreno Vilas Boas de Souza Silva"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "ESTUDO DE TECNOLOGIAS SEM FIO USANDO ARDUINO",
+                "periodo": "2012 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ivanilson França Vieira Júnior",
+                    "Aline Cristine Freire de Araújo",
+                    "Wanderson Douglas Souza de Vasconcelos"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SOUZA",
+                    "software": "C. H. M.,  VIEIRA JÚNIOR, I. F.,  OLIVEIRA, F. F.,  Sistema Embarcado para Medição de Pluviosidade e Gerenciamento SNMP",
+                    "ano": "2019",
+                    "finalidade": "Coleta de dados no campo.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512019000140-0."
+                },
+                {
+                    "autor": "SOUZA",
+                    "software": "C. H. M.,  VIEIRA JÚNIOR, I. F.,  SOUZA, R. L.,  SILVA, M. A.,  OCR-NAVI",
+                    "ano": "2018",
+                    "finalidade": "Reconhecimento de Placas.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512018000086-0."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "VIEIRA JÚNIOR",
+                    "titulo": "I. F.,  TSCH network health",
+                    "ano": "2022",
+                    "instituicao_promotora": "Communications and Telematics - Universidade de Coimbra."
+                },
+                {
+                    "autores": "VIEIRA JÚNIOR",
+                    "titulo": "I. F.,  SOARES, A. A. A. F.,  Introdução ao Arduíno",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "VIEIRA JÚNIOR",
+                    "titulo": "I. F.,  OLIVEIRA, C. E. S.,  CHACON, F. E. L.,  MELO, K. W. S.,  COSTA NETO, M. B.,  CAMARA, M. L. N.,  SILVA, T. D.,  SILVA, W. R.,  VANT ( Veiculo Aéreo Não Tripulado)",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "VIEIRA JÚNIOR",
+                    "titulo": "I. F.,  Introdução ao Arduíno",
+                    "ano": "2011",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "VIEIRA JÚNIOR",
+                    "titulo": "I. F.,  SALES JÚNIOR,  O uso de sistemas de gerenciamento de conteúdos web",
+                    "ano": "2005",
+                    "instituicao_promotora": "Centro Federal de Educação Tecnológica do Rio Grande do Norte."
+                },
+                {
+                    "autores": "VIEIRA JÚNIOR",
+                    "titulo": "I. F.,  VIDAL, Jorgiano Márcio Bruno,  Persistência com Prevalência",
+                    "ano": "2005",
+                    "instituicao_promotora": "Secretária de Educação Profissional e Tecnológica ? SETEC / MEC."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "VIEIRA JÚNIOR, I. F.",
+                "titulo": "Granjal, J",
+                "evento": "; CURADO",
+                "local": "M.; TSCH Network Health: Identifying the Breaking Point. 11th Workshop on the Reliability of Intelligent Environments, Biarritz, France",
+                "ano": "2022"
+            },
+            {
+                "autores": "VIEIRA JÚNIOR, I. F.",
+                "titulo": "Granjal, J",
+                "evento": "; CURADO",
+                "local": "M.; NALPIOS Not another log parser for an IoT OS. INForum - Simpósio de Informática, Lisboa",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, J. M. V. B. S.",
+                "titulo": "SOARES, A",
+                "evento": "A. A. F.; VIEIRA JÚNIOR",
+                "local": "I. F.; GOMES, E. L. G. T.; SILVA, I. B. L.; SILVA, S. R.; JACOBO, J. E. A.; GONCALVES, L. M. G.; The use of a maze solver robot to support the teaching and learning process. Workshop de Robótica Educacional, Recife",
+                "ano": "2016"
+            },
+            {
+                "autores": "VALENTIM, R. A. M.",
+                "titulo": "SOUZA, R",
+                "evento": "L.; VIEIRA JÚNIOR",
+                "local": "I. F.; SILVA, M. A.; RECONHECIMENTO AUTOMÁTICO DE PLACAS DE VEÍCULOS UTILIZANDO PROCESSAMENTO DIGITAL. Congresso de Métodos Numéricos em Engenharia, Lisboa",
+                "ano": "2015"
+            },
+            {
+                "autores": "GREATI, VITOR RODRIGUES",
+                "titulo": "RIBEIRO, VINICIUS CAMPOS TINOCO; DA SILVA, CELSO SOARES; COSTA, BRUNO SIELLY JALES; VIEIRA JÚNIOR, I",
+                "evento": "F.; Reconhecimento Visual de Objetos para Pouso Autônomo de Veículos Aéreos Não Tripulados Baseado em Classificação Fuzzy. Simpósio Brasileiro de Automação Inteligente",
+                "local": "Natal",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, J. M. V. B. S.",
+                "titulo": "VIEIRA JÚNIOR, I",
+                "evento": "F.; SILVA",
+                "local": "V. M. C.; CARDOSO, L. K. A.; CARDOSO, L. K. A.; Desenvolvimento de um dispositivo portátil para monitoramento de gases tóxicos e inflamáveis em indústrias petroquímicas. I Semana de Ciência, Tecnologia e Extensão do IFRN, Santa Cruz",
+                "ano": "2015"
+            },
+            {
+                "autores": "VIEIRA JÚNIOR, I. F.",
+                "titulo": "MEDEIROS, R",
+                "evento": "M.; MELO",
+                "local": "M. C. S.; BARROS, L. S. P.; BEZERRA, L. S. C.; MONITORAMENTO DE ACUMULADORES DE ÁGUA USANDO ARDUÍNO. MOCITEC ZN, Natal",
+                "ano": "2014"
+            },
+            {
+                "autores": "COSTA, A. E. S.",
+                "titulo": "VIEIRA JÚNIOR, I",
+                "evento": "F.; Gerenciamento remoto de datacenter com ferramenta Arduino. VIII congresso norte nordeste de pesquisa e inovação",
+                "local": "Salvador/BA",
+                "ano": "2013"
+            },
+            {
+                "autores": "MENDONCA, J. C. M.",
+                "titulo": "VIEIRA JÚNIOR, I",
+                "evento": "F.; SOLUÇÃO DE DETECÇÃO DE MALWARES EM UMA INTRANET COM O USO DO SNORT IDS. VIII CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "VIEIRA JÚNIOR, I. F.",
+                "titulo": "SOARES, A",
+                "evento": "A. A. F.; VASCONCELOS",
+                "local": "W. D. S.; ESTUDO E DESENVOLVIMENTO DE UMA REDE SEM FIO BASEADA EM BLUETOOTH SOBRE A FERRAMENTA DE PROTOTIPAGEM ARDUINO. IX Congresso de Iniciação Científica do IFRN, Currais Novos",
+                "ano": "2013"
+            },
+            {
+                "autores": "VIEIRA JÚNIOR, I. F.",
+                "titulo": "LOPES, A",
+                "evento": "B.; SILVA",
+                "local": "D.; PINTO, F. A. P.; Estabelecimento de Critérios para Adaptação Dinâmica de QoS em Sistemas Multimídia Distribuídos com Base em Testes Experimentais Realizados no Framework Cosmos. XIV Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), Vila Velha",
+                "ano": "2008"
+            },
+            {
+                "autores": "VIEIRA JÚNIOR, I. F.",
+                "titulo": "SILVA, M",
+                "evento": "; MAGAYVER",
+                "local": "R.; SILVA, C. E.; LOPES, A. B.; Ferramenta visual para especificação de aplicações em um Middleware para Sistemas de Televisão Interativa. XIII Brazilian Symposium on Multimedia and the Web, Gramado",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "MANNUEL VICTOR DI PACE MAROJA LIMEIRA",
+                "titulo": "Internet das Coisas: Uma Abordagem Prática de Baixo Custo",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Matheus Luiz Negreiros Camara",
+                "titulo": "Monitoramento de Temperatura e Umidade de Um Ambiente Utilizando O Protocolo Zigbee",
+                "ano": "2016",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Carlos Henrique da Costa e Silva",
+                "titulo": "Tacógrafo Digital",
+                "ano": "2015",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Wanderson Douglas Souza Vasconcelos",
+                "titulo": "Ensaio de um controle automatizado de iluminação usando bluetooth usando a plataforma Arduino",
+                "ano": "2013",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Thiago Medeiros de Menezes",
+                "titulo": "Galactus Telescope Interface: Uma Interface Para Controle Remoto de Telescópios Automatizados",
+                "ano": "2013",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Aline Cristine Freire de Araújo",
+                "titulo": "Ferramenta de gerenciamento SNMP aliada a tecnologia de rede sem fio utilizando o kit",
+                "ano": "2013",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Wal' Hença Marques",
+                "titulo": "Estudo das Tecnologias de Redes sem Fio para Automação Residencial - Um estudo de caso",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Kildery Eduardo da Silva",
+                "titulo": "Análise, Identificação e Implantação das Necessidades da Rede",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Paulo Victor Oliveira do Egito",
+                "titulo": "O monitoramento de fatores ambientais de datacenter utilizando hardware de baixo custo: Um estudo de caso",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "André Luiz Cunha de Andrade",
+                "titulo": "Datacenter: Fatores Ambientais",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Enoe Bastos de Almeida",
+                "titulo": "Implantação da Tecnologia de Virtualização na Rede do 16º Batalhão de Infantaria Motorizado.",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Aline Cristine Freire de Araújo",
+                "titulo": "Estudo de tecnologias sem fio usando Arduino",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Wanderson Douglas Souza de Vasconcelos",
+                "titulo": "Estudo de tecnologias sem fio usando Arduino",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Edon Hudan Cavalcante da Fonseca Ferreira",
+                "titulo": "Relatório de Estágio na Forte Network: Gerência de Redes e melhorias com Ferramentas Livres",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gilles Velleneuve Trindade Silvano",
+                "titulo": "Redes de Malha Sem Fio",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Sanderson Manuel de Paula Sousa",
+                "titulo": "Relatório de Estágio",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Cícero Ferreira de França Neto",
+                "titulo": "Relatório de Estágio na ATP Engenharia",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 11.31718921661377,
+            "indian": 3.7022664546966553,
+            "black": 13.347257614135742,
+            "white": 46.519325256347656,
+            "middle eastern": 9.580944061279297,
+            "latino hispanic": 15.533013343811035
+        }
+    }
+}

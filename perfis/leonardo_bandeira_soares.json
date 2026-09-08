@@ -1,0 +1,511 @@
+{
+    "campus": "- Campus Rio Grande",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Microeletrônica",
+                "periodo": "2014 - 2018",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "A Simulation-Based Methodology focused on Energy-efficient Approximate Hardware Accelerators Design",
+                "orientador": "Sergio Bampi"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Microeletrônica",
+                "periodo": "2011 - 2013",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Proposta e Avaliação de Técnicas para Compressão de Transitórios Rápidos e Análise Tempo-Frequência de Distúrbios em Redes Elétricas AC",
+                "orientador": "Sergio Bampi"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2006 - 2010",
+                "instituicao": "Universidade Federal do Rio Grande"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Computação",
+                "periodo": "2018 - 2018",
+                "instituicao": "Claretiano Centro Universitário"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "periodo": "2010 - 2011",
+                "cargo": "Bolsista de Iniciação Científica, Bolsista IC - CNPq."
+            },
+            {
+                "empresa": "União das Faculdades Integradas de Negócios",
+                "periodo": "2015 - 2016",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2016",
+                "cargo": "Professor do EBTT."
+            },
+            {
+                "empresa": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS. I, REGULAR PAPERS (ONLINE)",
+                "periodo": "2017",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "ANALOG INTEGRATED CIRCUITS AND SIGNAL PROCESSING",
+                "periodo": "2016",
+                "cargo": ", Revisor de periódico."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande",
+                "nome": "Plataforma de ensaios de manobras de embarcações",
+                "periodo": "2006 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Bandeira Soares",
+                    "Vitor Irigon Gervini",
+                    "Vagner Santos da Rosa",
+                    "Sebastião Cicero P. Gomes"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "DESENVOLVIMENTO DE UM PROTÓTIPO PARA DESCONTAMINAÇÃO UV DE MÁSCARAS DE PROTEÇÃO RESPIRATÓRIA: UMA ABORDAGEM PARA CONTENÇÃO DE SUPRIMENTOS DURANTE A PANDEMIA DO COVID-19\", amparado pelo Edital IFRS n° 23/2020 - APOIO A PROJETOS DE EXTENSÃO VOLTADOS AO ENF",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leonardo Bandeira Soares",
+                    "Thiago dos Santos da Fonseca",
+                    "RODRIGO GEHRKE TONIN",
+                    "Carlos Rodrigues Rocha",
+                    "Kauã Ortiz Silveira",
+                    "Patrick da Silva Varela",
+                    "Leonardo Rodrigues Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "PROTOTIPAGEM E CONCEPÇÃO DE UM VÍDEO LARINGOSCÓPIO OPEN SOURCE: UMA ABORDAGEM PARA FACILITAR A INTUBAÇÃO ENDOTRAQUEAL EM REGIME DE PANDEMIA DA COVID-19",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Leonardo Bandeira Soares",
+                    "Thiago dos Santos da Fonseca",
+                    "RODRIGO GEHRKE TONIN",
+                    "Carlos Rodrigues Rocha",
+                    "Patrick da Silva Varela",
+                    "Leonardo Rodrigues Costa",
+                    "Kauã Silveira Ortiz"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Desenvolvimento de um sistema embarcado para o eficiente alinhamento entre caminhões e guindastes de um terminal portuário",
+                "periodo": "2020 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Bandeira Soares",
+                    "Thiago dos Santos da Fonseca",
+                    "RODRIGO GEHRKE TONIN",
+                    "Carlos Rodrigues Rocha",
+                    "Kauã Ortiz Silveira",
+                    "Patrick da Silva Varela",
+                    "Leonardo Rodrigues Costa"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOARES",
+                    "titulo": "LEONARDO BANDEIRA,  Computação Aproximada: explorando eficiência energética em aceleradores de hardware",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Católica de Pelotas - UCPel."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "J. F. R.,  SOARES, LEONARDO BANDEIRA,  COSTA, E. A. C.,  BAMPI, S.,  Exploiting approximate adder circuits for power-efficient Gaussian and Gradient filters for Canny edge detector algorithm",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade Federal de Santa Catarina."
+                },
+                {
+                    "autores": "SOARES",
+                    "titulo": "LEONARDO B.,  DINIZ, Claudio M.,  COSTA, EDUARDO,  BAMPI, SERGIO,  A Novel Pruned-Based Algorithm for Energy-Efficient SATD Operation in the HEVC Coding",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade Federal de Minas Gerais."
+                },
+                {
+                    "autores": "SOARES",
+                    "titulo": "LEONARDO BANDEIRA,  COSTA, E. A. C.,  BAMPI, S.,  Approximate Adder Synthesis for Area- and Energy- Efficient FIR Filters in CMOS VLSI",
+                    "ano": "2015",
+                    "instituicao_promotora": "Grenoble INP e CEA-Leti."
+                },
+                {
+                    "autores": "ROSA",
+                    "titulo": "A. L. R.,  SOARES, LEONARDO BANDEIRA,  STANGHERLIN, KLEBER,  BAMPI, S.,  Designing CMOS for near-threshold minimum-energy operation and extremely wide V-F scaling",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade Federal da Bahia."
+                },
+                {
+                    "autores": "SOARES",
+                    "titulo": "L. B.,  DAPPER, R. E.,  CROVATO, C. D. P.,  BAMPI, S.,  SUSIN, A. A.,  Accuracy and Data Compression Trade-Offs for Power Quality Disturbance Representation with DWT and PCA techniques",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universidade de Vigo."
+                },
+                {
+                    "autores": "SOARES",
+                    "titulo": "L. B.,  GOMES, S. C. P.,  GERVINI, V. I.,  ROSA, V. S.,  Desenvolvimento de um sistema para controle de uma Plataforma de Ensaios Oceânicos",
+                    "ano": "2010",
+                    "instituicao_promotora": "FURG."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOARES",
+                    "evento": "LEONARDO B.,  31st IBERCHIP",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS."
+                },
+                {
+                    "autores": "SOARES",
+                    "evento": "LEONARDO B.,  13th IEEE CASS Rio Grande do Sul Workshop",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS."
+                },
+                {
+                    "autores": "CONCEICAO",
+                    "evento": "C. M. O.,  SOARES, L. B.,  12th IEEE CASS Rio Grande do Sul Workshop",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Sul."
+                },
+                {
+                    "autores": "RIBAS",
+                    "evento": "R. P.,  SOARES, L. B.,  XV Escola de Microeletrônica / 28º Simpósio Sul de Microeletrônica",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Sul - UFRGS."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MONTEIRO, MARCIO",
+                "titulo": "SEIDEL, ISMAEL;  GÜNTZEL, JOSÉ LUIS;  GRELLERT, MATEUS;  SOARES, LEONARDO;  Meinhardt, Cristina;  A Design Space Exploration of Power-efficient Gaussian Filter Architectures using Logical Optimization and Approximated Adders",
+                "ano": "2023",
+                "periodico": "JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS). ISBN: 18720234   ."
+            },
+            {
+                "autores": "BORGES, TALITA A.",
+                "titulo": "DA ROSA, VAGNER S.;  Meinhardt, Cristina;  SOARES, LEONARDO B.;  Accuracy-configurable 2D Gaussian filter architecture for energy-efficient image processing",
+                "ano": "2021",
+                "periodico": "IEEE Design & Test. ISBN: 21682364   ."
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "OLIVEIRA, JULIO;  DA COSTA, EDUARDO ANTONIO CÉSAR;  BAMPI, SERGIO;  An Energy-Efficient and Approximate Accelerator Design for Real-Time Canny Edge Detection",
+                "ano": "2020",
+                "periodico": "CIRCUITS SYSTEMS AND SIGNAL PROCESSING. ISBN: 15315878   ."
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "DA ROSA, MORGANA MACEDO AZEVEDO;  DINIZ, CLAUDIO MACHADO;  DA COSTA, EDUARDO ANTONIO CESAR;  BAMPI, SERGIO;  Design Methodology to Explore Hybrid Approximate Adders for Energy-Efficient Image and Video Processing Accelerators",
+                "ano": "2019",
+                "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS. I, REGULAR PAPERS (ONLINE). ISBN: 15580806   ."
+            },
+            {
+                "autores": "ROSA, M. M. A.",
+                "titulo": "SILVEIRA, B.;  SOARES, L. B.;  DINIZ, C.;  COSTA, E. A. C.;  Exploiting Parallel Prefix Adders in the Approximate Adders for Low-Power SAD Metric",
+                "ano": "2018",
+                "periodico": "REVISTA JUNIOR DE INICIAÇÃO CIENTÍFICA EM CIÊNCIAS EXATAS E ENGENHARIA. ISBN: 22360093   ."
+            },
+            {
+                "autores": "PAIM, G.",
+                "titulo": "ROCHA, L.;  SANTANA, G.;  SOARES, L. B.;  COSTA, E. A. C.;  BAMPI, S.;  Using Pruning and Truncation for Power-Efficient 2-D Approximate Tchebichef Transform Hardware Architecture",
+                "ano": "2018",
+                "periodico": "JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS). ISBN: 18071953   ."
+            },
+            {
+                "autores": "PAIM, GUILHERME",
+                "titulo": "ROCHA, LEANDRO MATEUS GIACOMINI;  SANTANA, GUSTAVO MADEIRA;  SOARES, LEONARDO BANDEIRA;  DA COSTA, EDUARDO ANTONIO CESAR;  BAMPI, SERGIO;  Power-, Area-, and Compression-Efficient Eight-Point Approximate 2-D Discrete Tchebichef Transform Hardware Design Combining Truncation Pruning and Efficient Transposition Buffers",
+                "ano": "2018",
+                "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS. ISBN: 15498328   ."
+            },
+            {
+                "autores": "PAIM, GUILHERME",
+                "titulo": "SANTANA, GUSTAVO MADEIRA;  ROCHA, LEANDRO MATEUS GIACOMINI;  SOARES, LEONARDO BANDEIRA;  DA COSTA, EDUARDO ANTÔNIO CÉSAR;  BAMPI, SERGIO;  Exploring approximations in 4- and 8- point DTT hardware architectures for low-power image compression",
+                "ano": "2018",
+                "periodico": "ANALOG INTEGRATED CIRCUITS AND SIGNAL PROCESSING. ISBN: 09251030   ."
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "DA COSTA, EDUARDO ANTONIO CÉSAR;  BAMPI, SERGIO;  Design of area and energy-efficient digital CMOS FIR filters with approximate adder circuits",
+                "ano": "2016",
+                "periodico": "Analog Integrated Circuits and Signal Processing (Dordrecht. Online). ISBN: 15731979   ."
+            },
+            {
+                "autores": "SOARES, L. B.",
+                "titulo": "DAPPER, R. E.;  CROVATO, C. D. P.;  BAMPI, S.;  SUSIN, A. A.;  Accuracy and Data Compression Trade-Offs for Power Quality Disturbance Representation with DWT and PCA techniques",
+                "ano": "2013",
+                "periodico": "RENEWABLE ENERGY & POWER QUALITY JOURNAL (RE&PQJ). ISBN: 2172038X   ."
+            },
+            {
+                "autores": "GOMES, S. S.",
+                "titulo": "ZEILMANN, A. P.;  TERRES, M. A. S.;  SOARES, L. B.;  GOMES, S. C. P.;  Controle do veículo subaquático tatuí utilizando estrutura variável",
+                "ano": "2012",
+                "periodico": "Vetor (FURG). ISBN: 01027352   ."
+            },
+            {
+                "autores": "GOMES, S. S.",
+                "titulo": "ZEILMANN, A. P.;  TERRES, M. A. S.;  SOARES, L. B.;  GOMES, S. C. P.;  Controle Baseado em Estrutura Variável Aplicado em Atuadores Robóticos: Resultados Experimentais",
+                "ano": "2010",
+                "periodico": "Mecánica Computacional. ISBN: 16666070   ."
+            },
+            {
+                "autores": "ZEILMANN, A. P.",
+                "titulo": "GOMES, S. S.;  TERRES, M. A. S.;  SOARES, L. B.;  GOMES, S. C. P.;  Teoria e Experimentação no Estudo sobre Atritos em Atuadores Robóticos",
+                "ano": "2010",
+                "periodico": "Mecánica Computacional. ISBN: 16666070   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MONTEIRO, MARCIO",
+                "titulo": "SEIDEL, ISMAEL; GÜNTZEL, JOSÉ; GRELLERT, MATEUS; SOARES, LEONARDO; Meinhardt, Cristina; A Dual-Kernel Size-Configurable Gaussian Filter Architecture",
+                "evento": "2024 37th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (SBCCI)",
+                "local": "Joao Pessoa",
+                "ano": "2024"
+            },
+            {
+                "autores": "MONTEIRO, MARCIO",
+                "titulo": "SEIDEL, ISMAEL; GRELLERT, MATEUS; GUNTZEL, JOSE LUIS; SOARES, LEONARDO; Meinhardt, Cristina; Exploring the Impacts of Multiple Kernel Sizes of Gaussian Filters Combined to Approximate Computing in Canny Edge Detection",
+                "evento": "2022 IEEE 13th Latin America Symposium on Circuits and System (LASCAS)",
+                "local": "Puerto Varas",
+                "ano": "2022"
+            },
+            {
+                "autores": "MONTEIRO, MARCIO",
+                "titulo": "AQUINO, PEDRO; SEIDEL, ISMAEL; GRELLERT, MATEUS; SOARES, LEONARDO; GUNTZEL, JOSE LUIS; Meinhardt, Cristina; Design of Energy-efficient Gaussian Filters by Combining Refactoring and Approximate Adders",
+                "evento": "2021 IEEE International Symposium on Circuits and Systems (ISCAS)",
+                "local": "Daegu",
+                "ano": "2021"
+            },
+            {
+                "autores": "LIMA, VICTOR H. S.",
+                "titulo": "STIGGER, MATHEUS F",
+                "evento": "; SOARES",
+                "local": "LEONARDO B.; DINIZ, Claudio M.; BAMPI, SERGIO; Configurable Approximate Hardware Accelerator to Compute SATD and SAD Metrics for Low Power All-Intra High Efficiency Video Coding. 2021 34th SBC/SBMicro/IEEE/ACM Symposium on Integrated Circuits and Systems Design (SBCCI), Campinas",
+                "ano": "2021"
+            },
+            {
+                "autores": "STIGGER, MATHEUS F.",
+                "titulo": "LIMA, VICTOR H",
+                "evento": "S.; SOARES",
+                "local": "LEONARDO B.; DINIZ, Claudio M.; BAMPI, SERGIO; Approximate SATD Hardware Accelerator Using the 8 × 8 Hadamard Transform. 2020 IEEE 11th Latin American Symposium on Circuits &amp; Systems (LASCAS), San Jose",
+                "ano": "2020"
+            },
+            {
+                "autores": "BORGES, TALITA ALVES",
+                "titulo": "SOARES, LEONARDO BANDEIRA; Meinhardt, Cristina; A Fine-grained Methodology for Accuracy-configurable and Energy-efficient Gaussian Filters Design",
+                "evento": "2020 33rd Symposium on Integrated Circuits and Systems Design (SBCCI)",
+                "local": "Campinas",
+                "ano": "2020"
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "DA COSTA, EDUARDO ANTONIO CESAR; BAMPI, SERGIO; A Configurable Pruning Gaussian Image Filter for Energy-Efficient Edge Detection",
+                "evento": "2019 26th IEEE International Conference on Electronics",
+                "local": "Circuits and Systems (ICECS), Genoa",
+                "ano": "2019"
+            },
+            {
+                "autores": "STIGGER, MATHEUS F.",
+                "titulo": "LIMA, VICTOR H",
+                "evento": "S.; SOARES",
+                "local": "LEONARDO B.; DINIZ, Claudio M.; BAMPI, SERGIO; Approximate Sum of Absolute Transformed Differences Hardware Accelerator. 2019 26th IEEE International Conference on Electronics, Circuits and Systems (ICECS), Genoa",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOARES, LEONARDO B.",
+                "titulo": "DA ROSA, MORGANA M",
+                "evento": "A.; DINIZ",
+                "local": "Claudio M.; DA COSTA, EDUARDO A. C.; BAMPI, SERGIO; Exploring power-performance-quality tradeoff of approximate adders for energy efficient sobel filtering. 2018 IEEE 9th Latin American Symposium on Circuits &amp; Systems (LASCAS), Puerto Vallarta",
+                "ano": "2018"
+            },
+            {
+                "autores": "PAIM, GUILHERME",
+                "titulo": "SOARES, LEONARDO B",
+                "evento": "; FERREIRA",
+                "local": "RAFAEL; COSTA, EDUARDO; BAMPI, SERGIO; Pruning and approximation of coefficients for power-efficient 2-D Discrete Tchebichef Transform. 2017 15th IEEE International New Circuits and Systems Conference (NEWCAS), Strasbourg",
+                "ano": "2017"
+            },
+            {
+                "autores": "SAPPER, ANDRE N.",
+                "titulo": "SOARES, LEONARDO; COSTA, EDUARDO; BAMPI, SERGIO; Exploring the combination of number of bits and number of iterations for a power-efficient fixed-point CORDIC implementation",
+                "evento": "2017 24th IEEE International Conference on Electronics",
+                "local": "Circuits and Systems (ICECS), Batumi",
+                "ano": "2017"
+            },
+            {
+                "autores": "MACEDO, MORGANA",
+                "titulo": "SOARES, LEONARDO; SILVEIRA, BIANCA; DINIZ, Claudio M",
+                "evento": "; DA COSTA",
+                "local": "EDUARDO A. C.; Exploring the use of parallel prefix adder topologies into approximate adder circuits. 2017 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS), Batumi",
+                "ano": "2017"
+            },
+            {
+                "autores": "DE OLIVEIRA, JULIO",
+                "titulo": "SOARES, LEONARDO; COSTA, EDUARDO; BAMPI, SERGIO; Exploiting approximate adder circuits for power-efficient Gaussian and Gradient filters for Canny edge detector algorithm",
+                "evento": "2016 IEEE 7th Latin American Symposium on Circuits &amp; Systems (LASCAS)",
+                "local": "Florianopolis",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "DINIZ, CLAUDIO MACHADO; DA COSTA, EDUARDO ANTONIO CESAR; BAMPI, SERGIO; A novel pruned-based algorithm for energy-efficient SATD operation in the HEVC coding",
+                "evento": "2016 29th Symposium on Integrated Circuits and Systems Design (SBCCI)",
+                "local": "Belo Horizonte",
+                "ano": "2016"
+            },
+            {
+                "autores": "PAIM, GUILHERME",
+                "titulo": "SOARES, LEONARDO; OLIVEIRA, JULIO F",
+                "evento": "R.; COSTA",
+                "local": "EDUARDO; BAMPI, SERGIO; A power-efficient imprecise radix-4 multiplier applied to high resolution audio processing. 2016 IEEE International Conference on Electronics, Circuits and Systems (ICECS), Monte Carlo",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "COSTA, E",
+                "evento": "A. C.; BAMPI",
+                "local": "SERGIO; Approximate Adder Synthesis for Area- and Energy- Efficient FIR Filters in CMOS VLSI. IEEE International NEW Circuits And Systems (NEWCAS) conference, Grenoble",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOARES, LEONARDO BANDEIRA",
+                "titulo": "BAMPI, SERGIO; ROSA, A",
+                "evento": "L. R.; COSTA",
+                "local": "E. A. C.; Near-Threshold Computing for Very Wide Frequency Scaling: Approximate Adders to Rescue Performance. IEEE International NEW Circuits And Systems (NEWCAS) conference, Grenoble",
+                "ano": "2015"
+            },
+            {
+                "autores": "JULIO, R. OLIVEIRA",
+                "titulo": "SOARES, LEONARDO B",
+                "evento": "; COSTA",
+                "local": "E. A. C.; BAMPI, SERGIO; Energy-efficient Gaussian filter for image processing using approximate adder circuits. 2015 IEEE International Conference on Electronics, Circuits, and Systems (ICECS), Cairo",
+                "ano": "2015"
+            },
+            {
+                "autores": "ROSA, ANDRE LUIS RODEGHIERO",
+                "titulo": "SOARES, LEONARDO BANDEIRA; STANGHERLIN, KLEBER HUGO; BAMPI, SERGIO; Designing CMOS for Near-Threshold Minimum-Energy Operation and Extremely Wide V-F Scaling",
+                "evento": "the 28th Symposium",
+                "local": "Salvador",
+                "ano": "2015"
+            },
+            {
+                "autores": "PAREDES CROVATO, CESAR DAVID",
+                "titulo": "SOARES, LEONARDO BANDEIRA; BAMPI, SERGIO; Numerical analysis of the harmonics influence on linear interpolation for Power Quality assessment",
+                "evento": "2014 16th International Conference on Harmonics and Quality of Power (ICHQP)",
+                "local": "Bucharest",
+                "ano": "2014"
+            },
+            {
+                "autores": "STANGHERLIN, K.",
+                "titulo": "SOARES, L",
+                "evento": "B.; BAMPI",
+                "local": "S.; Near-Threshold Notch Filter with Pole-Radius Variation. 28º Simpósio Sul de Microeletrônica - SIM 2013, Porto Alegre",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOARES, L. B.",
+                "titulo": "GOMES, S",
+                "evento": "C. P.; GERVINI",
+                "local": "V. I.; ROSA, V. S.; Desenvolvimento de um sistema para controle de uma Plataforma de Ensaios Oceânicos. IX Mostra de produção Universitária - FURG, Rio Grande",
+                "ano": "2010"
+            },
+            {
+                "autores": "SOARES, L. B.",
+                "titulo": "GOMES, S",
+                "evento": "C. P.; GERVINI",
+                "local": "V. I.; ROSA, V. S.; BELLICANTA, L. S.; TERRES, M. A. S.; ZEILMANN, A. P.; GOMES, S. S.; Aquisição e Análise de Modos de Vibração em Estruturas Flexíveis. 4th Southern Conference on Computational Modeling - 4º MCSUL, Rio Grande",
+                "ano": "2010"
+            },
+            {
+                "autores": "GOMES, S. S.",
+                "titulo": "ZEILMANN, A",
+                "evento": "P.; TERRES",
+                "local": "M. A. S.; SOARES, L. B.; GOMES, S. C. P.; Controle de um veículo subaquático baseado em estrutura variável. IV Seminário e Workshop em Engenharia Oceânica - SEMENGO 2010, Rio Grande",
+                "ano": "2010"
+            },
+            {
+                "autores": "GOMES, S. S.",
+                "titulo": "ZEILMANN, A",
+                "evento": "P.; TERRES",
+                "local": "M. A. S.; SOARES, L. B.; ROSA, V. S.; Uma Análise sobre Leis de Controle para Veículos Subaquáticos Não Tripulados. 4th Southern Conference on Computational Modeling - 4º MCSUL, Rio Grande",
+                "ano": "2010"
+            },
+            {
+                "autores": "ZEILMANN, A. P.",
+                "titulo": "GOMES, S",
+                "evento": "S.; SOARES",
+                "local": "L. B.; TERRES, M. A. S.; GOMES, S. C. P.; Comparação entre modelos de atrito para atuadores robóticos. IV Southern Conference on Computacional Modeling, Rio Grande",
+                "ano": "2010"
+            },
+            {
+                "autores": "SOARES, L. B.",
+                "titulo": "GERVINI, V",
+                "evento": "I.; GOMES",
+                "local": "S. C. P.; ROSA, V. S.; Data storage Using Compact Flash Card and Hardware/Software Interface for FPGA Embedded Systems. 24º Simpósio Sul de Microeletrônica, Pelotas",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Gabriel Lopes Veiga",
+                "titulo": "Tokiwen: Uma plataforma interativa e visual para o aprendizado de programação de computadores",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Patrick da Silva Varela",
+                "titulo": "2AI2C: Ambiente de Aprendizado Interativo para Construção de Circuitos Eletrônicos e Digitais",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.19904260337352753,
+            "indian": 1.9680981636047363,
+            "black": 0.11664855480194092,
+            "white": 58.33916473388672,
+            "middle eastern": 28.946252822875977,
+            "latino hispanic": 10.430798530578613
+        }
+    }
+}

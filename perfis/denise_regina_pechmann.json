@@ -1,0 +1,434 @@
+{
+    "campus": "- Campus Canoas",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação Aplicada",
+                "periodo": "2002 - 2004",
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "titulo": "Extração de Conhecimento a partir de Redes Neurais Recorrentes",
+                "orientador": "Adelmo Luis Cechin"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1994 - 2000",
+                "instituicao": "Universidade de Santa Cruz do Sul"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Programa Especial de Formação de Professores",
+                "periodo": "2009 - 2011",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Vale do Rio dos Sinos",
+                "periodo": "2005 - 2006",
+                "cargo": "Assistente de Pesquisa, Bolsista DTI - CNPq."
+            },
+            {
+                "empresa": "Universidade do Vale do Rio dos Sinos",
+                "periodo": "2004 - 2004",
+                "cargo": "Assistente de Pesquisa, Funcionário."
+            },
+            {
+                "empresa": "Universidade Regional Integrada do Alto Uruguai e das Missões",
+                "periodo": "2005 - 2008",
+                "cargo": ", Professor Horista."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",
+                "periodo": "2008 - 2010",
+                "cargo": "Professora de Ensino Básico, Técnico e Tecnol."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "periodo": "2010",
+                "cargo": "Professora de Ensino Bas. Técn. e Tecnológico."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nIFRS - Campus Canoas (2012 - 2014) : Coordenadora Do Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas.\nPesquisa e Desenvolvimento\nCentro de Ciências Exatas e Tecnológicas (2004 - 2006): Inteligência Artificial, Pesquisa Operacional, Bioinformática e Biologia Computacional,\nIFRS - Campus Canoas (2014): Tecnologias Computacionais Aplicadas à Educação,",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nGraduacao (2023) - Engenharia Eletrônica.\nGraduacao (2012) - Análise E Desenvolvimento De Sistemas.\nEnsino-medio (2010) .",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nMembro Da Comissão De Avaliação E Gestão De Projetos De Pesquisa E Inovação (cagppi) Do Ifrs Campus Canoas (2011 - 2015).\nMembro Do Nde Do Curso De Tecnologia Em Análise E Desenvolvimento De Sistemas (tads) (2011).\nMembro Da Comissão De Educação A Distância (cead) Do Ifrs Campus Canoas (2011 - 2015).",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "nome": "Bioinformática: Simulação computacional de metabolismo e modelagem de proteínas",
+                "periodo": "2004 - 2006",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Adelmo Luis Cechin",
+                    "Ney Lemke",
+                    "José Carlos Merino Mombach",
+                    "Daniela Saccol Peranconi"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "nome": "Desenvolvimento de Sistema Computacional Híbrido para Apoio à Decisão em Processos de Recomposição de Sistemas Elétricos, em Tempo Real.",
+                "periodo": "2005 - 2006",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Adelmo Luis Cechin",
+                    "José Vicente Canto dos Santos",
+                    "Arthur T. Gómez",
+                    "Fernando S. Osório"
+                ],
+                "financiador": "Companhia Estadual de Energia Elétrica Rs,"
+            },
+            {
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "nome": "Modelagem e Simulação em Biologia Computacional e Bioinformática",
+                "periodo": "2004 - 2006",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Adelmo Luis Cechin",
+                    "Ney Lemke",
+                    "José Carlos Merino Mombach",
+                    "Eduardo Battistella",
+                    "Fernando Haas"
+                ],
+                "financiador": "HP Computadores, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",
+                "nome": "AV-LComp: Um Ambiente Virtual para Apoio ao Aprendizado de Lógica Computacional",
+                "periodo": "2009 - 2010",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Ígor Lorenzato Almeida",
+                    "Ricardo Vilas Boas"
+                ],
+                "financiador": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "LogiC O ensinar e o aprender de Lógica de Programação e sua Implementação em Linguagem C",
+                "periodo": "2013 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Ígor Lorenzato Almeida",
+                    "Patricia Nogueira Hubler",
+                    "Silvia de Castro Bertagnolli",
+                    "Mariano Nicolao"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Aprofundando conhecimentos de computação através da música virtual",
+                "periodo": "2012 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Ígor Lorenzato Almeida",
+                    "Leonardo Cláudio da Rosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Aprimorando a criação de músicas virtuais através da seleção automática de fonemas.",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Ígor Lorenzato Almeida",
+                    "Leonardo Cláudio da Rosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Utilização de Tecnologia Móvel para Educação",
+                "periodo": "2014 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Ígor Lorenzato Almeida",
+                    "Augusto Zanella Bardini",
+                    "Augusto Berwaldt"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Cães Comunitários do Campus Canoas: Uma Questão de Respeito à Vida",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Denise Regina Pechmann",
+                    "Ígor Lorenzato Almeida",
+                    "Cintia Lauriane Steindorff Jhanke",
+                    "Letícia dos Passos Pereira Dias",
+                    "Andreia Solange Bos",
+                    "Alessandra da Costa Ribeiro",
+                    "Liege Barbieri Silveira"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Cechin, A. L.",
+                "titulo": "PECHMANN, D. R.;  Luiz P. L. de Oliveira;  Optimizing Markovian modeling of chaotic systems with recurrent neural networks.",
+                "ano": "2008",
+                "periodico": "Chaos, Solitons and Fractals. ISBN: 09600779   ."
+            },
+            {
+                "autores": "ALMEIDA, I. L.",
+                "titulo": "PECHMANN, D. R.;  Cechin, A. L.;  Gene Expression Analysis using Markov Chains extracted from RNNs.",
+                "ano": "2007",
+                "periodico": "CLEI Electronic Journal. ISBN: 07175000   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DIAS, L. M.",
+                "titulo": "BECKER, Y",
+                "evento": "; PECHMANN",
+                "local": "D. R.; BERTAGNOLLI, S. C.; HUBLER, P. N.; ALMEIDA, I. L.; LOGIC: APRIMORANDO O ENSINO DE LÓGICA DE PROGRAMAÇÃO EM MENOR PRAZO. V SALÃO DE EXTENSÃO, CANOAS",
+                "ano": "2016"
+            },
+            {
+                "autores": "BECKER, Y.",
+                "titulo": "DIAS, L",
+                "evento": "M.; PECHMANN",
+                "local": "D. R.; BERTAGNOLLI, S. C.; HUBLER, P. N.; ALMEIDA, I. L.; LOGIC - EXPLORANDO COMPETIÇÕES COMO FERRAMENTA DE APOIO AO ENSINO. V SALÃO DE EXTENSÃO, CANOAS",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALI, L. S.",
+                "titulo": "PEREIRA, A",
+                "evento": "J. P.; SILVA",
+                "local": "R. Q.; PECHMANN, D. R.; ALMEIDA, I. L.; IF SIMULATOR. IV IFCITEC, CANAOS",
+                "ano": "2016"
+            },
+            {
+                "autores": "TESCHE, F. R.",
+                "titulo": "RAMOS, R",
+                "evento": "L.; ALMEIDA",
+                "local": "I. L.; PECHMANN, D. R.; BERTAGNOLLI, S. C.; NOLL, R.; HUBLER, P. N.; DESENVOLVIMENTO DE APLICATIVO ANDROID COM INTEGRAÇÃO BLUETOOTH. V SALÃO DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "RAMOS, R. L.",
+                "titulo": "TESCHE, F",
+                "evento": "R.; BERTAGNOLLI",
+                "local": "S. C.; ALMEIDA, I. L.; PECHMANN, D. R.; NOLL, R.; HUBLER, P. N.; A ROBÓTICA EDUCACIONAL PARA O ESTÍMULO DO RACIONCÍNIO LÓGICO EM ESCOLAS DE ENSINO FUNDAMENTAL. V SALÃO DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARDINI, A. Z.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; DESENVOLVIMENTO DE UM APLICATIVO PARA DISPOSITIVOS MÓVEIS VOLTADO À ORGANIZAÇÃO ESCOLAR. V SALÃO DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "SALES, G. S.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; ANÁLISE DE FERRAMENTAS PARA O ESTUDO DE ALGORITMOS. V SALÃO DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "DIAS, L. M.",
+                "titulo": "LEAL, G",
+                "evento": "F.; GAZZO",
+                "local": "N.; BERTAGNOLLI, S. C.; ALMEIDA, I. L.; PECHMANN, D. R.; BIGOLIN, M.; NICOLAO, M.; HUBLER, P. N.; LOGIC: INSTRUMENTALIZANDO O ESTUDO DE PROGRAMAÇÃO ATRAVÉS DE COMPETIÇÕES. IV SALÃO DE EXTENSÃO, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "LEAL, G. F.",
+                "titulo": "DIAS, L",
+                "evento": "M.; GAZZO",
+                "local": "N.; ALMEIDA, I. L.; BERTAGNOLLI, S. C.; PECHMANN, D. R.; BIGOLIN, M.; NICOLAO, M.; HUBLER, P. N.; LOGIC - INCENTIVANDO O CONHECIMENTO DE PROGRAMAÇÃO COM A COMUNIDADE EXTERNA. IV SALÃO DE EXTENSÃO, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "GAZZO, N.",
+                "titulo": "LEAL, G",
+                "evento": "F.; DIAS",
+                "local": "L. M.; ALMEIDA, I. L.; PECHMANN, D. R.; BIGOLIN, M.; NICOLAO, M.; BERTAGNOLLI, S. C.; HUBLER, P. N.; LOGIC - APOSTILAS COMO MATERIAL DE AUXÍLIO NO ENSINO DE LÓGICA DE PROGRAMAÇÃO E LINGUAGEM C. I SALÃO DE ENSINO, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "LAGO, L. H. B.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; VISUALXADREZ. IV IFCITEC, CANOAS",
+                "ano": "2015"
+            },
+            {
+                "autores": "LEAL, G. F.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; HUBLER, P. N.; BERTAGNOLLI, S. C.; NICOLAO, M.; LOGIC - o ensinar e aprender de lógica de programação e sua implementação em linguagem C.. IV Salão de Iniciação Científica e Tecnológica e III Salão de Extensão do IFRS - Câmpus Canoas, Canoas",
+                "ano": "2014"
+            },
+            {
+                "autores": "BERWALDT, A.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; Trabalhando com banco de dados em aplicativos mobile.. IV Salão de Iniciação Científica e Tecnológica e III Salão de Extensão do IFRS - Câmpus Canoas, Canoas",
+                "ano": "2014"
+            },
+            {
+                "autores": "BARDINI, A. Z.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; IFHELPER, uma proposta de ferramenta acadêmica.. IV Salão de Iniciação Científica e Tecnológica e III Salão de Extensão do IFRS - Câmpus Canoas, Canoas",
+                "ano": "2014"
+            },
+            {
+                "autores": "ROSA, L. C.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; O desenvolvimento de um plug-in para seleção automática de fonemas.. III Salão de Iniciação Científica e Tecnológica e II Salão de Extensão do IFRS - Câmpus Canoas, Canoas",
+                "ano": "2013"
+            },
+            {
+                "autores": "ROSA, L. C.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; ALMEIDA",
+                "local": "I. L.; A criação de um banco de voz com fonemas da língua portuguesa.. II Salão de Iniciação Científica e Tecnológica e I Salão de Extensão do IFRS Câmpus Canoas, Canoas",
+                "ano": "2012"
+            },
+            {
+                "autores": "ROSA, L. C.",
+                "titulo": "TONELLO, G",
+                "evento": "H.; PECHMANN",
+                "local": "D. R.; ALMEIDA, I. L.; Síntese de voz. O futuro da música?. I Salão de Iniciação Científica e Tecnológica do IFRS Câmpus Canoas, Canoas",
+                "ano": "2011"
+            },
+            {
+                "autores": "NOVASKI, F.",
+                "titulo": "FALCADE, L",
+                "evento": "; CARDINAL",
+                "local": "D.; PECHMANN, D. R.; Avaliação de interesse em cursos de capacitação em informática no IFF Campus Santo Augusto.. I Mostra Técnica do Instituto Federal Farroupilha - Campus Santo Augusto, Santo Augusto",
+                "ano": "2009"
+            },
+            {
+                "autores": "ALMEIDA, I. L.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; AMARANTE",
+                "local": "M. B.; Cechin, A. L.; Gene Expression Analysis using Markov Chains extracted from Recurrent Neural Networks.. ENIA - VII Encontro Nacional de Inteligência Artificial, Bento Gonçalves",
+                "ano": "2009"
+            },
+            {
+                "autores": "AMARANTE, M. B.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; Um Estudo sobre Técnicas de Aprendizado de Máquina aplicadas à Mineração de Dados. VI Simpósio de Informática da Região Centro do RS - SIRC/RS 2007",
+                "local": "Santa Maria",
+                "ano": "2007"
+            },
+            {
+                "autores": "ALMEIDA, I. L.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; Cechin",
+                "local": "A. L.; Análise da Expressão Gênica através de Cadeias de Markov extraídas a partir de RNRs. XXXII Conferencia Latinoamericana de Informática (CLEI2006), Santiago",
+                "ano": "2006"
+            },
+            {
+                "autores": "ALMEIDA, I. L.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; Cechin",
+                "local": "A. L.; Markov Chain Inference from Microarray Data.. 5th Mexican International Conference on Artificial Intelligence, Apizaco",
+                "ano": "2006"
+            },
+            {
+                "autores": "PECHMANN, D. R.",
+                "titulo": "Cechin, A",
+                "evento": "L.; Finite State Automata Extraction from Recurrent Neural Networks Trained to Behave like an Inverted Pendulum. XXV Congresso da Sociedade Brasileira de Computação - V Encontro Nacional de Inteligência Artificial",
+                "local": "São Leopoldo",
+                "ano": "2005"
+            },
+            {
+                "autores": "PECHMANN, D. R.",
+                "titulo": "Cechin, A",
+                "evento": "L.; Comparison of Deterministic and Fuzzy Finite Automata Extraction Method from Jordan Networks. Fifth International conference on Hybrid Intelligent Systems (HIS'05)",
+                "local": "Rio de Janeiro",
+                "ano": "2005"
+            },
+            {
+                "autores": "PECHMANN, D. R.",
+                "titulo": "Cechin, A",
+                "evento": "L.; Representação do Comportamento Temporal de Redes Neurais Recorrentes em Cadeias de Markov. VIII Brazilian Symposium on Neural Networks (SBRN2004)",
+                "local": "São Luis",
+                "ano": "2004"
+            },
+            {
+                "autores": "PECHMANN, D. R.",
+                "titulo": "Cechin, A",
+                "evento": "L.; Extração de um Autômato Finito a partir de Redes Neurais Recorrentes na modelagem do Pêndulo Inverso. XXIII Congresso da Sociedade Brasileira de Computação- IV Encontro Nacional de Inteligência Artificial (ENIA2003)",
+                "local": "Campinas",
+                "ano": "2003"
+            },
+            {
+                "autores": "PECHMANN, D. R.",
+                "titulo": "Cechin, A",
+                "evento": "L.; STERTZ",
+                "local": "K.; Uma Comparação entre Métodos de Clusterização para Construção de Autômatos Finitos a partir de Redes Neurais Recorrentes. XXIX Conferência Latino-americana de Informática (CLEI2003), La Paz",
+                "ano": "2003"
+            },
+            {
+                "autores": "Cechin, A. L.",
+                "titulo": "PECHMANN, D",
+                "evento": "R.; STERTZ",
+                "local": "K.; State Automata Extraction from Recurrent Neural Nets using k-Means and Fuzzy Clustering. XXIII International Conference of the Chilean Computer Science Society (SCCC2003), Chillán",
+                "ano": "2003"
+            },
+            {
+                "autores": "PECHMANN, D. R.",
+                "titulo": "FURTADO, J",
+                "evento": "C.; SILVA",
+                "local": "C. F.; Análise do Processo de Recebimento de Fumo pela CTA - Continental Tobaccos Alliance Através da Simulação. VI Seminário de Iniciação Científica e V Jornada de Ensino, Pesquisa e Extensão da UNISC, Santa Cruz do Sul",
+                "ano": "2000"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "André Ficht",
+                "titulo": "Sistema de Processamento de Operações Aéreas em Aeródromos",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Danieli dos Santos Comis",
+                "titulo": "Avaliação de Ferramentas para a Construção de Ontologias através da Construção de um Modelo para Processos de Software",
+                "ano": "2008",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Regional Integrada do Alto Uruguai e das Missões"
+            },
+            {
+                "orientando": "Maicon de Brito do Amarante",
+                "titulo": "Neural-Agent - Uma Arquitetura para Avaliação de Dados Utilizando Agentes e Redes Neurais Artificiais",
+                "ano": "2008",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Regional Integrada do Alto Uruguai e das Missões"
+            }
+        ]
+    }
+}

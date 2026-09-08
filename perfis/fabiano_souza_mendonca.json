@@ -1,0 +1,103 @@
+{
+    "campus": "- Campus Rio Grande",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em Engenharia de Computação",
+                "periodo": "2023 - 2026",
+                "instituicao": "UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG",
+                "titulo": "ILM-Score ? Função de Escore Baseada em Modelo de Linguagem de Interações Proteína?Ligante",
+                "orientador": "Karina dos Santos Machado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2017 - 2022",
+                "instituicao": "Universidade Federal do Rio Grande"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "periodo": "2023 - 2024",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "NEXT GREEN LAB PESQUISA E DESENVOLVIMENTO LTDA",
+                "periodo": "2021 - 2022",
+                "cargo": "Estagiário, Bolsista."
+            },
+            {
+                "empresa": "Compass UOL Group",
+                "periodo": "2023 - 2023",
+                "cargo": "Bolsista - Machine Learning com AWS, Bolsista."
+            },
+            {
+                "empresa": "iTec - Centro de Robótica e Ciência de Dado",
+                "periodo": "2024 - 2025",
+                "cargo": "Pesquisador Pós Graduando, Bolsista, Liderança de equipe de desenvolvimento.Projeto em visão computacional.Aplicação de Python e algoritmos de ML em problemas reais, projeto desenvolvido em nível de maturidade TRL7.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MENDONÇA",
+                    "titulo": "F. S.,  PAES, Y. M.,  ADERHOLD, A.,  MACHADO, K. S.,  WERHLI, A.,  Deep Learning Scoring Function for Protein-Ligand Molecular Docking",
+                    "ano": "2024",
+                    "instituicao_promotora": "3DSig - 3D Special Interest Group: Structural Bioinformatics and Computational Biophysics of the International Society for Computational Biology."
+                },
+                {
+                    "autores": "MENDONÇA",
+                    "titulo": "F. S.,  PAES, Y. M.,  RICHTER, V. P.,  VEIGA, L. S.,  Bioinformática e Suas Aplicações",
+                    "ano": "2024",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande - FURG."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "MENDONÇA, Fabiano Souza",
+                "titulo": "MACHADO, Karina dos Santos; Função de Escore por Aprendizado Profundo para Docking Molecular de Proteína-Ligante",
+                "evento": "23ª Mostra da Produção Universitária ? MPU",
+                "local": "Rio Grande",
+                "ano": "2024"
+            },
+            {
+                "autores": "MENDONÇA, F. S.",
+                "titulo": "PAES, Y",
+                "evento": "M.; ADERHOLD",
+                "local": "A.; MACHADO, K. S.; WERHLI, A.; Deep Learning Scoring Function for Protein-Ligand Molecular Docking. X-Meeting 2024: 20º Congresso Brasileiro de Bioinformática, Salvador",
+                "ano": "2024"
+            },
+            {
+                "autores": "FALCHETTO, Laiz Helena Soares",
+                "titulo": "MATSUMOTO, Andressa Mai; FERNANDES E SILVA, Estela; MENDONÇA, F",
+                "evento": "S.; VOTTO",
+                "local": "Ana Paula; INTERAÇÕES IN SILICO DO EUCALIPTOL E PROTEÍNAS EXPRESSAS NO MELANOMA CUTÂNEO METASTÁTICO. 21ª Mostra da Produção Universitária - MPU, Rio Grande",
+                "ano": "2022"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ibirité",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -87,6 +88,17 @@
             },
             {
                 "instituicao": "Universidade Federal de São João Del-Rei",
+                "nome": "Desenvolvimento de um Procedimento Simplificado para Identificação de Estrabismo em Crianças com a Utilização de Visão Computacional",
+                "periodo": "2011 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paôla de Oliveira Souza",
+                    "Letícia Helena Januário"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade Federal de São João Del-Rei",
                 "nome": "Informatização da Classificação Internacional para a Prática de Enfermagem",
                 "periodo": "2008 - 2009",
                 "natureza": "Pesquisa",
@@ -94,17 +106,6 @@
                     "Paôla de Oliveira Souza",
                     "Letícia Helena Januário",
                     "Marcela Letícia Carneiro Januário"
-                ],
-                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
-            },
-            {
-                "instituicao": "Universidade Federal de São João Del-Rei",
-                "nome": "Desenvolvimento de um Procedimento Simplificado para Identificação de Estrabismo em Crianças com a Utilização de Visão Computacional",
-                "periodo": "2011 - 2012",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Paôla de Oliveira Souza",
-                    "Letícia Helena Januário"
                 ],
                 "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
             },
@@ -131,8 +132,8 @@
                 "periodo": "2020",
                 "natureza": "Extensao",
                 "equipe": [
-                    "juliana silva santos",
-                    "Paôla de Oliveira Souza"
+                    "Paôla de Oliveira Souza",
+                    "juliana silva santos"
                 ]
             }
         ]
@@ -186,18 +187,18 @@
                 "periodico": "ENGENHARIA TÉRMICA. ISBN: 16761790   ."
             },
             {
-                "autores": "ANTUNES, PEDRO DUARTE",
-                "titulo": "CORRE^A, EDMILSON OTONI;  BARBEDO, NANCY DELDUCCA;  SOUZA, PAOLA DE OLIVEIRA;  GONC'ALVES, JOSE' LUIZ;  DIACENCO, ADRIANA AMARO;  CANALE, L.;  DEAN, S. W.;  Mechanical and Microstrutural Characterization of Weldments of Ferritic Stainless Steel AISI 444 Using Austenitic Stainless Steels Filler Metals",
+                "autores": "CANALE, L.",
+                "titulo": "ANTUNES, PEDRO DUARTE;  CORRE^A, EDMILSON OTONI;  BARBEDO, NANCY DELDUCCA;  SOUZA, PAOLA DE OLIVEIRA;  GONC'ALVES, JOSE' LUIZ;  DIACENCO, ADRIANA AMARO;  DEAN, S. W.;  Mechanical and Microstrutural Characterization of Weldments of Ferritic Stainless Steel AISI 444 Using Austenitic Stainless Steels Filler Metals",
                 "ano": "2012",
                 "periodico": "Journal of ASTM International (Online). ISBN: 1546962X   ."
             }
         ],
         "trabalhos_eventos": [
             {
-                "autores": "OLIVEIRA, B.",
-                "titulo": "JANUÁRIO, Letícia Helena; RAMOS, A",
+                "autores": "JANUÁRIO, Letícia Helena",
+                "titulo": "RAMOS, A",
                 "evento": "C. B.; Souza",
-                "local": "P.O.; SANTOS, R. D. C.; RIBEIRO, H. C. T. C.; OLIVEIRA, J. M. P.; LIMA, L. G.; PIVATTI, V. M. S.; VARIÁVEIS INCÓGNITAS NA MEDIDA DA PRESSÃO ARTERIAL. Congresso Brasileiro de Saúde Coletiva, Rio de Janeiro",
+                "local": "P.O.; SANTOS, R. D. C.; RIBEIRO, H. C. T. C.; OLIVEIRA, J. M. P.; OLIVEIRA, B.; LIMA, L. G.; PIVATTI, V. M. S.; VARIÁVEIS INCÓGNITAS NA MEDIDA DA PRESSÃO ARTERIAL. Congresso Brasileiro de Saúde Coletiva, Rio de Janeiro",
                 "ano": "2019"
             },
             {
@@ -273,12 +274,12 @@
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 7.040491580963135,
-            "indian": 16.746557235717773,
-            "black": 3.9089488983154297,
-            "white": 8.045092582702637,
-            "middle eastern": 7.399483680725098,
-            "latino hispanic": 56.85942077636719
+            "asian": 9.898252487182617,
+            "indian": 22.824443817138672,
+            "black": 7.180846691131592,
+            "white": 9.771012306213379,
+            "middle eastern": 12.604934692382812,
+            "latino hispanic": 37.72051239013672
         }
     }
 }

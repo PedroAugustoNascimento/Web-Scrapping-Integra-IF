@@ -1,0 +1,530 @@
+{
+    "campus": "- Câmpus São Lourençco do Oeste",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Microeletrônica",
+                "periodo": "2011 - 2015",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "SAT-Based Environment for Logical Capacity Evaluation of Via-Configurable Block Templates",
+                "orientador": "Renato Perez Ribas"
+            },
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Microeletrônica",
+                "periodo": "2008 - 2010",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "CMOS Digital Integrated Circuit Design Faced to NBTI and Other Nanometric Effects",
+                "orientador": "Renato Perez Ribas"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Computer Engineering",
+                "periodo": "2003 - 2007",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Nangate UFRGS Resarch Labs",
+                "periodo": "2008 - 2008",
+                "cargo": "Researcher, Colaborator, Nangate UFRGS Resarch Labs is a microelectronics laboratory focused in a library-free digital design flow, therefore research works are all related: area, power, timing and noise estimation; electric simulations; libraries creation, characterization and testing...."
+            },
+            {
+                "empresa": "Centro Nacional de Tecnologia Eletrônica Avançada",
+                "periodo": "2013 - 2016",
+                "cargo": "Projetista de Circuitos Digitais, Especialista em Tecnologia Eletrônica Avançada - Projetista Digital - Codificação Atribuições: Atuar em atividades de codificação para projeto de circuitos integrados digitais. Projetar soluções integradas para SoCs (sistemas em chip) em diferentes níveis de abstração através de modelagem algorítmica, arquitetural ou RTL. Documentar e submeter soluções desenvolvidas para serem revisadas pelo grupo. Trabalhar juntamente com o arquiteto do sistema para especificar e projetar soluções que atendem às especificações. Trabalhar juntamente com o grupo de verificação para garantir a correta funcionalidade da solução. Trabalhar juntamente com o grupo de projetos físico para alcançar os objetivos de tempo, área e consumo desejados. Codificar em linguagem Verilog e/ou SystemVerilog. Desenvolver testbenches. Realizar a síntese lógica, verificação de equivalência e análise de tempo de atraso. Prototipar em FPGA a fim de validar os circuitos projetados. Auxiliar na fase de avaliação e teste do chip projetado e fabricado.."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2016",
+                "cargo": "Docente, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Semana Nacional de Ciência e Tecnologia - IFSC Câmpus Avançado São Lourenço do Oeste",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniela Bernardi",
+                    "Marina Geremia",
+                    "Oseias Teles Silva",
+                    "Daniel Fernando Carossi",
+                    "Gabriel Mathias Ferrari",
+                    "Fábio Zanella",
+                    "Marcia Danieli Szmereta Spak",
+                    "Mariene Peres Morona",
+                    "Ana Lucia da Silva Lima",
+                    "Jonathan Gilliard Richter",
+                    "Aguinaldo Silva Barbosa",
+                    "Ester Raquel Grosz",
+                    "Daiana Schmidt",
+                    "Alex Restelli",
+                    "Daiana Darli"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Mulheres Sim",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniela Bernardi",
+                    "Marina Geremia",
+                    "Arlete Tagliani Milani",
+                    "Oseias Teles Silva",
+                    "Daniel Fernando Carossi",
+                    "Gabriel Mathias Ferrari",
+                    "Fábio Zanella",
+                    "Marcia Danieli Szmereta Spak",
+                    "Mariene Peres Morona",
+                    "Ana Lucia da Silva Lima",
+                    "Jonathan Gilliard Richter"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Espelhos e Retratos",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniela Bernardi",
+                    "Marina Geremia",
+                    "Oseias Teles Silva",
+                    "Daniel Fernando Carossi",
+                    "Gabriel Mathias Ferrari",
+                    "Fábio Zanella",
+                    "Ana Lucia da Silva Lima",
+                    "Jonathan Gilliard Richter",
+                    "Aguinaldo Silva Barbosa",
+                    "Angelica de Lourdes Muraro",
+                    "Caroline de Andrade Machado",
+                    "Luiz Alberto Vicari",
+                    "Andressa Bregalda Belan",
+                    "Ester Raquel Grosz",
+                    "Eli Tais Spinello",
+                    "Tamara Castagnera",
+                    "Liliane Vanilde de Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Informática para Professores: Windows e Internet",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Oseias Teles Silva",
+                    "Daniel Fernando Carossi",
+                    "Jonathan Gilliard Richter"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Informática para professores: ferramentas de escritório",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Oseias Teles Silva",
+                    "Daniel Fernando Carossi",
+                    "Jonathan Gilliard Richter"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Exposição fotográfica com interação via realidade aumentada",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Oseias Teles Silva",
+                    "Gabriel Mathias Ferrari",
+                    "Jonathan Gilliard Richter",
+                    "Fernando Silvano Gonçalves",
+                    "Paulo Roberto Córdova"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Capacitação e Suporte em Gerenciamento de Projetos para Alunos do Curso Profissionalizante em Informática",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniel Fernando Carossi",
+                    "Fernando Silvano Gonçalves",
+                    "Paulo Roberto Córdova"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Horta escolar: Plante esta ideia!",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Arlete Tagliani Milani",
+                    "Fábio Zanella",
+                    "Mariene Peres Morona",
+                    "Ana Lucia da Silva Lima",
+                    "Daiana Schmidt",
+                    "Ivonei Boito",
+                    "Rosângela Lessa",
+                    "Sandra Regina Pastre Pereira",
+                    "Rozenei Bacca Bolzan"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Mulheres Sim",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniela Bernardi",
+                    "Oseias Teles Silva",
+                    "Mariene Peres Morona",
+                    "Jonathan Gilliard Richter",
+                    "Angelica de Lourdes Muraro",
+                    "DAIANE EVANGELISTA VIEIRA DE MATOS",
+                    "JOAREZ VIRGILIO DA COSTA",
+                    "LEANDRO BISPO VERAS",
+                    "MONICA APARECIDA TUSSI",
+                    "MARCIA DA SILVA GOMES BACKES",
+                    "LUCIANE BOFF COLLI",
+                    "JOCEMARA MASSOLA"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pedal-IFSC",
+                "periodo": "2020 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Jonathan Gilliard Richter",
+                    "Luiz Alberto Vicari",
+                    "DAYANE FILAKOSKI DOS SANTOS",
+                    "RAMAO TIAGO TIBURSKI",
+                    "JONAS MUSSOI GARCIA"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Produção/aquisição e distribuição de máscaras tipo faceshield em combate ao COVID-19",
+                "periodo": "2020 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniel Fernando Carossi"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Feira Nossa: aplicativo para comercialização direta de produtos da agricultura familiar",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniel Fernando Carossi",
+                    "Daiana Schmidt"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "ORIENTAÇÃO PROFISSIONAL PARA JOVENS: INSERÇÃO NO MERCADO DE TRABALHO (2 EDIÇÃO)",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Gabriel Mathias Ferrari",
+                    "Luiz Alberto Vicari",
+                    "Alex Restelli",
+                    "RAMAO TIAGO TIBURSKI",
+                    "JONAS MUSSOI GARCIA",
+                    "AMANDA LAIS JACOBSEN DE OLIVEIRA",
+                    "FABIANO GONCALVES MATOS",
+                    "ANDRESSA FERNANDES CUSTÓDIO",
+                    "NILMAR DIOGO DOS REIS",
+                    "DAIANE DE FATIMA WAGNER KUNZLER",
+                    "KLEBER FERREIRA DA SILVA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Metodologias Ativas de Aprendizagem para Iniciação Tecnológica no Oeste Catarinense",
+                "periodo": "2021 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "RAMAO TIAGO TIBURSKI",
+                    "KAL EL BASILIO BRITO",
+                    "JULIANA CRISTINA SCHNEIDER DIETRICH",
+                    "EVANDRO LUIS DA CUNHA",
+                    "YUSSEF PARCIANELLO",
+                    "LUIZ CARLOS BARON"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Software para Gestão de Propriedades Leiteiras",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniel Fernando Carossi"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "ORIENTAÇÃO PROFISSIONAL PARA JOVENS: INSERÇÃO NO MERCADO DE TRABALHO (3 EDIÇÃO)",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Luiz Alberto Vicari",
+                    "Alex Restelli",
+                    "JONAS MUSSOI GARCIA",
+                    "DAIANE DE FATIMA WAGNER KUNZLER",
+                    "KLEBER FERREIRA DA SILVA",
+                    "JOAO EDUARDO LINHARES",
+                    "EVANDRO FERREIRA MARTINS"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Infraestrutura de Ambiente Inteligente Visando Gerenciamento e Uso Sustentável dos Recursos Naturais e Tecnológicos.",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Fernando Silvano Gonçalves",
+                    "João Henrique Prim",
+                    "Matheus R. Da Silva"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Mulheres Sim",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vinícius Dal Bem",
+                    "Daniela Bernardi",
+                    "Oseias Teles Silva",
+                    "Daniel Fernando Carossi",
+                    "Mariene Peres Morona",
+                    "Jonathan Gilliard Richter",
+                    "Daiana Schmidt",
+                    "DAIANE EVANGELISTA VIEIRA DE MATOS",
+                    "DOUGLAS CEZAR REGINATTO",
+                    "JOAREZ VIRGILIO DA COSTA",
+                    "LEANDRO BISPO VERAS",
+                    "MARIA ELISA GEHRKE"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em ROBÓTICA BÁSICA - 40h",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em DESENVOLVIMENTO DE APLICATIVOS BÁSICOS PARA DISPOSITIVOS MÓVEIS&#09;- 40h",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  TIBURSKI, R. T.,  Metodologias Ativas de Aprendizagem aplicadas a Programação e Robótica",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em DESENVOLVIMENTO DE APLICATIVOS BÁSICOS PARA DISPOSITIVOS MÓVEIS&#09;- 240h",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação inicial em PROGRAMAÇÃO WEB&#09;- 160h",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em DESENVOLVIMENTO DE APLICATIVOS BÁSICOS PARA DISPOSITIVOS MÓVEIS&#09;- 120h",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em TRABALHO COLABORATIVO COM APLICATIVOS DE ESCRITÓRIO EM NUVEM&#09;- 30h",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em DESENVOLVIMENTO DE APLICATIVOS BÁSICOS PARA DISPOSITIVOS MÓVEIS&#09;- 40h",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "DAL BEM",
+                    "curso": "V.,  Curso de formação continuada em FERRAMENTAS DE ESCRITÓRIO&#09;- 60h",
+                    "ano": "2018"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "DAL BEM",
+                    "evento": "V.,  Qualifica IFSC (2ª edição) - Oficina: Ferramentas colaborativas",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFSC Campus São Lourenço do Oeste."
+                },
+                {
+                    "autores": "DAL BEM",
+                    "evento": "V.,  SILVA, R. R.,  GEREMIA, M.,  MATOS, F. G.,  ZAMPOLI, A.,  ASCARI, A. C.,  VIEIRA, T. G.,  SCHMIDT, D.,  OLIVEIRA, A. L. J.,  MACHADO, M. R.,  SOUZA, L. A.,  DENTZ, E. V.,  Sexta Semana Nacional de Ciência e Tecnologia do Câmpus Avançado São Lourenço do Oeste",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFSC Campus São Lourenço do Oeste."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DAL BEM, V.",
+                "titulo": "MARRANGHELLO, FELIPE;  REIS, ANDRE;  RIBAS, R. P.;  SAT-Based Formulation for Logical Capacity Evaluation of VIA-Configurable Structured ASIC",
+                "ano": "2017",
+                "periodico": "IEEE Transactions on Emerging Topics in Computing. ISBN: 21686750   ."
+            },
+            {
+                "autores": "BUTZEN, P. F.",
+                "titulo": "DAL BEM, V.;  REIS, A. I.;  RIBAS, Renato Perez;  BTI and HCI first-order aging estimation for early use in standard cell technology mapping",
+                "ano": "2013",
+                "periodico": "Microelectronics and Reliability. ISBN: 00262714   ."
+            },
+            {
+                "autores": "REIS, A. I.",
+                "titulo": "DAL BEM, V.;  BUTZEN, P. F.;  RIBAS, Renato Perez;  Design of CMOS logic gates with enhanced robustness against aging degradation",
+                "ano": "2012",
+                "periodico": "Microelectronics and Reliability. ISBN: 00262714   ."
+            },
+            {
+                "autores": "Butzen, Paulo F.",
+                "titulo": "DAL BEM, V.;  Reis, André I.;  Ribas, Renato P.;  Leakage Analysis Considering the Effect of Inter-Cell Wire Resistance for Nanoscaled CMOS Circuits",
+                "ano": "2010",
+                "periodico": "Journal of Low Power Electronics (Print). ISBN: 15461998   ."
+            },
+            {
+                "autores": "BUTZEN, P. F.",
+                "titulo": "DAL BEM, V.;  REIS, A. I.;  RIBAS, Renato Perez;  Transistor Network Restructuring Against NBTI Degradation",
+                "ano": "2010",
+                "periodico": "Microelectronics and Reliability. ISBN: 00262714   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DAL BEM, V.",
+                "titulo": "Reis, André I",
+                "evento": "; Ribas",
+                "local": "Renato P.; Challenges for Optimization of Transistors Array-based Via-Configurable Regular Layout. 27th South Symposium in Microelectronics (SIM'2012), São Miguel das Missões/RS",
+                "ano": "2012"
+            },
+            {
+                "autores": "DAL BEM, V.",
+                "titulo": "BUTZEN, P",
+                "evento": "; MARRANGHELLO",
+                "local": "F. S.; REIS, A. I.; RIBAS, R. P.; Area Overhead and Performance Impact of Regular Transistor Layout Design in Digital Integrated Circuit. 26th South Symposium on Microelectronics (SIM'2011), Novo Hamburgo - Brazil",
+                "ano": "2011"
+            },
+            {
+                "autores": "MARRANGHELLO, F. S.",
+                "titulo": "DAL BEM, V",
+                "evento": "; MOLL",
+                "local": "F.; REIS, A. I.; RIBAS, R. P.; Transistor Sizing Analysis of Regular Fabrics. 26th South Symposium on Microelectronics (SIM'2011), Novo Hamburgo - Brazil",
+                "ano": "2011"
+            },
+            {
+                "autores": "Dal Bem, Vinicius",
+                "titulo": "Butzen, Paulo; Marranghello, Felipe S",
+                "evento": "; Reis",
+                "local": "Andre I.; Ribas, Renato P.; Impact and optimization of lithography-aware regular layout in digital circuit design. 2011 IEEE 29th International Conference on Computer Design (ICCD 2011), Amherst",
+                "ano": "2011"
+            },
+            {
+                "autores": "BUTZEN, P.",
+                "titulo": "DAL BEM, V",
+                "evento": "; REIS",
+                "local": "A. I.; RIBAS, R. P.; Designing NBTI Robust Gates. 25th South Symposium in Microelectronics (SIM'2010), Porto Alegre/RS",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALEGRETTI, C. G. P.",
+                "titulo": "DAL BEM, V",
+                "evento": "; REIS",
+                "local": "A. I.; RIBAS, R. P.; Gate Sizing for Cell-Based Local Optimizations. VLSI SoC PhD Forum 2009, Florianópolis/SC",
+                "ano": "2009"
+            },
+            {
+                "autores": "SCHUCH, N.",
+                "titulo": "DAL BEM, V",
+                "evento": "; REIS",
+                "local": "A. I.; RIBAS, R. P.; Equivalent Circuit for NBTI Evaluation in CMOS Logic Gates. 24th South Symposium in Microelectronics (SIM'2009), Pelotas/RS",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Joarez Virgilio da Costa, Daniela de Lucca",
+                "titulo": "GAMIFICAÇÃO NO AMBIENTE EDUCACIONAL: UMA ESTRATÉGIA PARA O ENSINO E APRENDIZAGEM",
+                "ano": "2020",
+                "curso": "Tecnologias para Educação Profissional",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.86203932762146,
+            "indian": 1.374277114868164,
+            "black": 0.34158915281295776,
+            "white": 50.9505500793457,
+            "middle eastern": 16.36794662475586,
+            "latino hispanic": 30.10359764099121
+        }
+    }
+}

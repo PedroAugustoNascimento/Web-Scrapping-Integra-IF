@@ -1,0 +1,843 @@
+{
+    "campus": "- Campus Manaus Distrito",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2018 - 2024",
+                "instituicao": "Universidade de São Paulo",
+                "titulo": "Sistemas especialistas aplicados na análise de ciclos econômicos: um estudo comparativo utilizando indicadores antecedentes para classificação das fases do ciclo econômico brasileiro",
+                "orientador": "Flavio Almeida de Magalhães Cipparrone"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Mecânica",
+                "periodo": "2012 - 2015",
+                "instituicao": "Universidade Federal do ABC",
+                "titulo": "Modelagem Matemática e Controle Não Linear de Estruturas Flexíveis em Rotação",
+                "orientador": "André Fenili"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão Empresarial",
+                "periodo": "2010 - 2011",
+                "instituicao": "Universidade Nove de Julho",
+                "orientador": "Adriana Silva Santos"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Pedagógicos para Cursos na Modalidade a Distância",
+                "periodo": "2021 - 2023",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
+                "orientador": "Adriana Backx Noronha Viana"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Aeroespacial",
+                "periodo": "2011 - 2014",
+                "instituicao": "Universidade Federal do ABC"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática",
+                "periodo": "2016 - 2017",
+                "instituicao": "Universidade Federal do ABC"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência e Técnologia",
+                "periodo": "2006 - 2010",
+                "instituicao": "Universidade Federal do ABC"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2017 - 2017",
+                "cargo": "Instrutor, Livre, Capacitação em Excel Básico."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2016 - 2016",
+                "cargo": "Monitor, Livre, BC0505 - Processamento da Informação - semipresencial."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2015 - 2015",
+                "cargo": "Estágio em Docência, Livre, EN2710 - Sistemas de Controle II."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2014 - 2014",
+                "cargo": "Monitor, Livre, Termodinâmica Aplicada."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2014 - 2014",
+                "cargo": "Monitor, Livre, Termodinâmica Aplicada."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2014 - 2014",
+                "cargo": "Monitor, Livre, Termodinâmica Aplicada."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2012 - 2012",
+                "cargo": "Monitor, Livre, Funções de Várias Variáveis."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2011 - 2011",
+                "cargo": "Monitor, Livre, Funções de várias Variáveis."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2010 - 2021",
+                "cargo": "Técnico de tecnologia da informação, Empregado."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2010 - 2010",
+                "cargo": "Monitor, Livre, Funções de Várias Variáveis."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2010 - 2010",
+                "cargo": "Monitor, Livre, Funções de uma Variável."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2009 - 2009",
+                "cargo": "Monitor, Livre, Funções de Várias Variáveis."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2009 - 2009",
+                "cargo": "Monitor, Livre, Introdução à Relatividade e à Física Quântica."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
+                "periodo": "2008 - 2008",
+                "cargo": "Monitor, Livre, Introdução a Lógica."
+            },
+            {
+                "empresa": "Fatec Itaquera Miguel Reale",
+                "periodo": "2016 - 2017",
+                "cargo": "Professor de Ensino Superior."
+            },
+            {
+                "empresa": "Instituto Federal de São Paulo",
+                "periodo": "2019 - 2019",
+                "cargo": "Professor de Ensino Superior."
+            },
+            {
+                "empresa": "Faculdade Drummond",
+                "periodo": "2020 - 2021",
+                "cargo": "Professor de Ensino Superior."
+            },
+            {
+                "empresa": "UNIVERSIDADE MUNICIPAL DE SAO CAETANO DO SUL",
+                "periodo": "2021 - 2021",
+                "cargo": "Professor de Ensino Médio e Técnico."
+            },
+            {
+                "empresa": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
+                "periodo": "2021 - 2023",
+                "cargo": "Professor EAD de Graduação, Bolsista, Professor de Graduação a Distância nos Cursos de Gestão Pública, Licenciaturas e Engenharia da Computação.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2022 - 2023",
+                "cargo": "Coordenador de Gestão em Tecnologia e Informa, Servidor público, I Planejar, implantar e manter todas as atividades de interesse comum relacionadas à tecnologia da informação no Campus;II Coordenar os sistemas de informação e a infraestrutura de redes de comunicação de dados no Campus,III Dar suporte ao usuário e à manutenção dos equipamentos de informática;IV Planejar e coordenar as ações relativas ao uso dos recursos de informática no Campus;V Prover o ambiente computacional do Campus com recursos tecnológicos adequados ao seu desempenho e funcionamento;VI Analisar com a DG do Campus as novas tecnologias propostas pela Diretoria de Gestão de Tecnologia da Informação (DGTI) e coordenar suas implantações se for o caso;."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2021 - 2025",
+                "cargo": "Professor EBTT de Matemática, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal do Amazonas - Campus Zona Leste",
+                "periodo": "2025",
+                "cargo": "Professor de Curso FIC."
+            },
+            {
+                "empresa": "Instituto Federal do Amazonas - Campus Zona Leste",
+                "periodo": "2024",
+                "cargo": "Professor de Curso Lato Sensu."
+            },
+            {
+                "empresa": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL",
+                "periodo": "2025",
+                "cargo": "Professor EBTT de Matemática, Servidor público."
+            },
+            {
+                "empresa": "NEXUS - REVISTA DE EXTENSÃO DO IFAM",
+                "periodo": "2023",
+                "cargo": ", Revisor de periódico."
+            }
+        ],
+        "direcao_administracao": ": IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL\nDireção de Ensino Superior (2026) .",
+        "ensino": ": IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL\nGraduacao (2026 - 2026) - Engenharia Da Computação.\nGraduacao (2026) - Engenharia De Controle E Automação.\nEnsino-medio (2026) .\nGraduacao (2026) - Tecnologia Em Eletrônica Industrial.\nEnsino-medio (2025 - 2025) .\nGraduacao (2025 - 2025) - Engenharia Da Computação.\nExtensão Universitária: Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nInstituto Federal de Educação, Ciência e Tecnologia do Amazonas: Realização Do Curso De Excel Básico (2023 - 2023) - Realização Do Curso De Excel Básico.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nComitê Institucional De Iniciação Científica (2023 - 2025).\nMembro Titular Do Colegiado Do Curso De Licenciatura Em Ciências Agrárias (2022 - 2024).\nMembro Do Comitê Técnico Científico (2022 - 2025).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do ABC",
+                "nome": "Excel Básico",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Palhares Júnior"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do ABC",
+                "nome": "Princípios de Educação Financeira",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Rafael Lemes dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do ABC",
+                "nome": "Princípios de Educação Financeira",
+                "periodo": "2021 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Rafael Lemes dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do ABC",
+                "nome": "Síntese e caracterização de um compósito híbrido de azul da Prússia e polipirrol",
+                "periodo": "2006 - 2007",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Pablo Alejandro Fiorito"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "A CONTEXTUALIZAÇÃO DO ENSINO DE CIÊNCIAS: UMA VISÃO DO ALUNO SOBRE AS AULAS PRÁTICAS DE CIÊNCIAS MINISTRADAS NO IFAM CAMPUS ITACOATIARA",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Di Angelo Matos Pinheiro",
+                    "Noam Gadelha da Silva",
+                    "Jandson Carlos de Lima Martins",
+                    "Kaline Ziemniczak",
+                    "Rafael Augusto Ferraz",
+                    "Rondon Tatsuta Yamane Baptista de Souza",
+                    "Daiane Oliveira Medeiros"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "A IMPORTÂNCIA DA CONTEXTUALIZAÇÃO DO ENSINO NA VISÃO DO PROFESSOR DE CIÊNCIAS: AS PERCEPÇÕES E INOVAÇÕES EMPREGADAS NO CONTEXTO DO IFAM CAMPUS ITACOATIARA",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Di Angelo Matos Pinheiro",
+                    "Noam Gadelha da Silva",
+                    "Jandson Carlos de Lima Martins",
+                    "Kaline Ziemniczak",
+                    "Rafael Augusto Ferraz",
+                    "Rondon Tatsuta Yamane Baptista de Souza",
+                    "Daiane Oliveira Medeiros",
+                    "Sandro Ferronatto Francener"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Excel Básico",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Palhares Júnior"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  PENACHI, R.,  SOUZA, A. H.,  SILVA, N. R.,  SOUZA, W. S.,  CARDOSO, E. G.,  The effect of discretization on classification: a comparative study of machine learning methods applied to unusual discretization intervals for the characterization and prediction of economic variables",
+                    "ano": "2025",
+                    "instituicao_promotora": "Rede de Pesquisa em Políticas Públicas e Ciências de Dados."
+                },
+                {
+                    "autores": "FARIAS",
+                    "titulo": "E. S.,  PALHARES JÚNIOR, E.,  SILVA, N. R.,  MARTINIANO, A. L.,  Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision",
+                    "ano": "2025",
+                    "instituicao_promotora": "Rede de Pesquisa em Políticas Públicas e Ciências de Dados."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  IA e Machine Learning",
+                    "ano": "2025",
+                    "instituicao_promotora": "Universidade de Aveiro."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Inteligência Artificial e Medicina",
+                    "ano": "2024",
+                    "instituicao_promotora": "Afya Faculdae de Ciência Médicas."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Processamento de Linguagem Natural e Medicina",
+                    "ano": "2024",
+                    "instituicao_promotora": "Afya Faculdae de Ciência Médicas."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Educação Financeira e Inteligência Artificial",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal do Amazonas - Campus Itacoatiara."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  ARAUJO, A. M. T.,  SOUZA, A. H.,  SILVA, N. G.,  SOUZA, W. S.,  ENSEMBLE OF MACHINE LEARNING APPLIED TO ECONOMIC CYCLES ANALYSIS: A COMPARATIVE STUDY USING ANTECEDENT MACROECONOMIC INDICATORS FOR BRAZILIAN GDP PREDICTION CLASSIFICATION",
+                    "ano": "2024",
+                    "instituicao_promotora": "Rede de Pesquisa em Políticas Públicas e Ciências de Dados."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Aprendizagem estatística aplicada a análise e previsão de ciclos econômicos",
+                    "ano": "2023",
+                    "instituicao_promotora": "Universdade Federal do Amazonas."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Como a inteligência artificial está alterando o futuro das profissões?",
+                    "ano": "2022",
+                    "instituicao_promotora": "Instituto Federal do Amazonas."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Machine learning algorithms trained to characterize economic cycles: macroeconomic indicators applied to the classification of Brazilian GDP.",
+                    "ano": "2022",
+                    "instituicao_promotora": "Universidade Federal do Amazonas - Instituto de Ciências Exatas e Tecnologia."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Inteligência Artificial: A revolução cognitiva e o futuro das profissões",
+                    "ano": "2022",
+                    "instituicao_promotora": "Universidade Federal do Amazonas."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Inteligência Artificial: a revolução cognitiva e o futuro das profissões",
+                    "ano": "2022",
+                    "instituicao_promotora": "Universidade Federal do Amazonas - Instituto de Ciências Exatas e Tecnologia."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Inteligência Artificial Aplicada ao Mercado Financeiro",
+                    "ano": "2021",
+                    "instituicao_promotora": "UniDrummond."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Educação Financeira",
+                    "ano": "2020",
+                    "instituicao_promotora": "FAUESP - Faculdade Unificada do Estado de São Paulo."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  Machine Learning: algumas aplicações possíveis",
+                    "ano": "2019",
+                    "instituicao_promotora": "UniDrummond."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  FENILI, A.,  BURR, K. P.,  INFLUENCE OF THE SPATIAL DISCRETIZATION IN MODELING AND CONTROL OF THE FLEXIBLE STRUCTURE IN ROTATION CONSIDERING THE FLUID INTERACTION AND HOVERED FLIGHT",
+                    "ano": "2015",
+                    "instituicao_promotora": "Brazilian Association of Computational Methods in Engineering."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  FIORITO, P. A.,  Desenvolvimento de sensores amperométricos para a detecção de peróxido de hidrogênio",
+                    "ano": "2008",
+                    "instituicao_promotora": "Universidade Federal do ABC."
+                },
+                {
+                    "autores": "PALHARES JÚNIOR",
+                    "titulo": "E.,  OLIVEIRA, E. F.,  MOMO, L. H. S.,  BIANCHI, M. V.,  Método alternativo para a recuperação de cordas de instrumentos",
+                    "ano": "2006",
+                    "instituicao_promotora": "Universidade Federal do ABC."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PALHARES JÚNIOR",
+                    "curso": "E.,  SOUZA, W. F.,  CARDOSO, E. G.,  Excel Básico",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "PALHARES JÚNIOR",
+                    "curso": "E.,  CARDOSO, E. G.,  SOUZA, W. F.,  Excel Avançado",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "N. G.,  FERRAZ, R. A.,  ZIEMNICZAK, K.,  PINHEIRO, A. M.,  RAMOS, D. G.,  ARAUJO, D. M.,  FRANCENER, S. F.,  SANTOS, J. B. B.,  PALHARES JÚNIOR, E.,  MARTINS, J. C. L.,  FERREIRA, V. J. S.,  SOUZA, A. H.,  MEDEIROS, D. O.,  SOUZA, R. T. Y. B.,  XAVIER, A. M. L.,  REIS, W. S.,  Semana Nacional de Ciência e Tecnologia do IFAM Campus Itacoatiara",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Amazonas - Campus Itacoatiara."
+                },
+                {
+                    "autores": "LEAO",
+                    "evento": "L. D.,  SOUZA, A. H.,  PALHARES JÚNIOR, E.,  PINHEIRO, A. M.,  SILVA, N. G.,  SANTOS, J. B. B.,  Jogos escolares online",
+                    "ano": "2022",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "Instituto Federal do Amazonas - Campus Itacoatiara."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "N. G.,  SANTOS, J. B. B.,  SOUZA, A. H.,  PALHARES JÚNIOR, E.,  PINHEIRO, A. M.,  MARTINS, J. C. L.,  ZIEMNICZAK, K.,  FERRAZ, R. A.,  FERREIRA, V. J. S.,  ARAUJO, D. M.,  Semana Nacional de Ciência e Tecnologia do IFAM Campus Itacoatiara",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Amazonas - Campus Itacoatiara."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "Funções de uma variável: uma abordagem interativa com Python",
+                "ano": "2026",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501981413, Manaus (Publicado)."
+            },
+            {
+                "autores": "COSTA, R. F.",
+                "titulo": "PALHARES JÚNIOR, E.;  MARTINIANO, A. L.;  SOUZA, W. S.;  SILVA, N. R.;  Algoritmos e Programação na Linguagem Python (do básico à análise de dados com aplicações práticas)",
+                "ano": "2025",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501761169, Manaus (Publicado)."
+            },
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "SOUZA, W. S.;  COSTA, R. F.;  MARTINIANO, A. L.;  SILVA, N. R.;  Inteligência Artificial - Aprendizagem de Máquina (modelos preditivos e suas aplicações práticas em Python)",
+                "ano": "2025",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501744728, Manaus (Publicado)."
+            },
+            {
+                "autores": "SOUZA, W. S.",
+                "titulo": "MARTINIANO, A. L.;  PALHARES JÚNIOR, E.;  SANTOS, L. C. R.;  SILVA, N. R.;  Metodologias Ágeis: da empatia à entrega de valor com Design Thinking e Scrum",
+                "ano": "2025",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501808086, Manaus (Publicado)."
+            },
+            {
+                "autores": "COSTA, R. F.",
+                "titulo": "PALHARES JÚNIOR, E.;  SOUZA, W. S.;  MARTINIANO, A. L.;  SILVA, N. R.;  Ciência de Dados (Estudos Práticos de Análise e Exploração de Dados com Python)",
+                "ano": "2025",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501809601, Manaus (Publicado)."
+            },
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "SOUZA, W. S.;  SANTOS, A. J.;  MARTINIANO, A. L.;  SILVA, N. R.;  Inteligência Artificial - Redes Neurais (dos fundamentos às arquiteturas CNN e RNN)",
+                "ano": "2025",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786501591377, Manaus (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "ARAUJO, A. M. T.;  SOUZA, A. H.;  SILVA, N. G.;  SOUZA, W. S.;  ENSEMBLE OF MACHINE LEARNING APPLIED TO ECONOMIC CYCLES ANALYSIS: A COMPARATIVE STUDY USING ANTECEDENT MACROECONOMIC INDICATORS FOR BRAZILIAN GDP PREDICTION CLASSIFICATION",
+                "ano": "2026",
+                "periodico": "REVISTA BRASILEIRA DE PLANEJAMENTO E DESENVOLVIMENTO. ISBN: 23172363   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "PENACHI, R",
+                "evento": "; SOUZA",
+                "local": "A. H.; SILVA, N. R.; SOUZA, W. S.; CARDOSO, E. G.; The effect of discretization on classification: a comparative study of machine learning methods applied to unusual discretization intervals for the characterization and prediction of economic variable. III Conferência Internacional de Políticas Públicas e Ciência dos Dados - Territórios Inteligentes, Aveiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "PENACHI, R",
+                "evento": "; SOUZA",
+                "local": "A. H.; SILVA, N. R.; SOUZA, W. S.; CARDOSO, E. G.; The effect of discretization on classification: a comparative study of machine learning methods applied to unusual discretization intervals for the characterization and prediction of economic variable. III Conferência Internacional de Políticas Públicas e Ciência dos Dados - Territórios Inteligentes, Aveiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "FARIAS, E. S.",
+                "titulo": "PALHARES JÚNIOR, E",
+                "evento": "; SILVA",
+                "local": "N. R.; MARTINIANO, A. L.; Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision. III Conferência Internacional de Políticas Públicas e Ciência dos Dados - Territórios Inteligentes, Aveiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "FARIAS, E. S.",
+                "titulo": "PALHARES JÚNIOR, E",
+                "evento": "; SILVA",
+                "local": "N. R.; MARTINIANO, A. L.; Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision. III Conferência Internacional de Políticas Públicas e Ciência dos Dados - Territórios Inteligentes, Aveiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "MELO, J. M. S.",
+                "titulo": "PALHARES JÚNIOR, E",
+                "evento": "; MARTINIANO",
+                "local": "A. L.; SANTOS, A. J.; SILVA, R. A.; FORECASTING OCEAN HEAT CONTENT (OHC) IN THE SUBPOLAR NORTH ATLANTIC USING RANDOM FOREST WITH INTERNAL AND EXTERNAL VALIDATION. II Congresso Internacional de Tecnologias Emergentes, Manaus",
+                "ano": "2025"
+            },
+            {
+                "autores": "SILVA, E. J. S.",
+                "titulo": "PALHARES JÚNIOR, EDUARDO; FARIAS, E",
+                "evento": "S.; MARTINIANO",
+                "local": "A. L.; SOUZA, W. S.; SEMANTIC RETRIEVAL FOR SPECIALIZED DOMAINS: A RAG-LLM FRAMEWORK APPLIED TO ECONOMIC THEORY.. II Congresso Internacional de Tecnologias Emergentes, Manaus",
+                "ano": "2025"
+            },
+            {
+                "autores": "TERCEROS, D. A. B.",
+                "titulo": "MACHADO, M",
+                "evento": "C.; PALHARES JÚNIOR",
+                "local": "E.; SOUZA, D. F.; SANTOS, A. J.; APLICAÇÃO DE REDES NEURAIS NA VALIDAÇÃO DE DOCUMENTOS DE IDENTIDADE. II Congresso Internacional de Tecnologias Emergentes, Manaus",
+                "ano": "2025"
+            },
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "ARAUJO, A",
+                "evento": "M. T.; SOUZA",
+                "local": "A. H.; SILVA, N. G.; SOUZA, W. S.; ENSEMBLE OF MACHINE LEARNING APPLIED TO ECONOMIC CYCLES ANALYSIS: A COMPARATIVE STUDY USING ANTECEDENT MACROECONOMIC INDICATORS FOR BRAZILIAN GDP PREDICTION CLASSIFICATION. II Conferência Internacional de Políticas Públicas e Ciência de Dados, Curitiba",
+                "ano": "2024"
+            },
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "ARAUJO, A",
+                "evento": "M. T.; SOUZA",
+                "local": "A. H.; SILVA, N. G.; SOUZA, W. S.; ENSEMBLE OF MACHINE LEARNING APPLIED TO ECONOMIC CYCLES ANALYSIS: A COMPARATIVE STUDY USING ANTECEDENT MACROECONOMIC INDICATORS FOR BRAZILIAN GDP PREDICTION CLASSIFICATION. II Conferência Internacional de Políticas Públicas e Ciência de Dados, Curitiba",
+                "ano": "2024"
+            },
+            {
+                "autores": "OLIVEIRA, A. M.",
+                "titulo": "SANTOS, P",
+                "evento": "P. O.; PINTO",
+                "local": "M. E. M.; OLIVEIRA NETO, A. M.; VIANA, G. D.; PALHARES JÚNIOR, E.; MODESTO, A. T. T.; OLIVEIRA, C. A. S.; CARVALHO, A.; ZIEMNICZAKS, K.; ALCANTARA, D. M.; A DIDACTIC EXPERIMENT FOR REDUCTION OF SACCHAROMYCE CEREVISIAE IRRADIATED WITH MICROWAVE AT 2GHz USING PALM TREE CLASS VIVALDI ANTIPODAL ANTENNAS. SBMO/WMO'23 - XIV Workshop de Micro-ondas do LabMax 2023, Cubatão",
+                "ano": "2023"
+            },
+            {
+                "autores": "PALHARES JÚNIOR, EDUARDO",
+                "titulo": "FENILI, ANDRÉ; BURR, KARL PETER; Influence of the Spatial Discretization in Modeling and Control of the Flexible Structure in Rotation Considering the Fluid Interaction and Flight Hovered",
+                "evento": "XXXVI Iberian Latin American Congress on Computational Methods in Engineering",
+                "local": "Rio de Janeiro",
+                "ano": "2015"
+            },
+            {
+                "autores": "PALHARES JÚNIOR, E.",
+                "titulo": "FENILI, A",
+                "evento": "; MATHEMATICAL MODELING AND NONLINEAR CONTROL OF STRUCTURES UNDER ROTATION. COBEM",
+                "local": "International Congress of Mechanical Engineering, Ribeirão Preto",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Erick da Silva Farias",
+                "titulo": "Aplicação de Attention Mechanism com Bidirectional Long Short-Term Memory (BiLSTM) e CNN para Detecção de Conflitos Humanos com Visão Computacional",
+                "ano": "2025",
+                "curso": "Aprendizado de Máquina",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Emanuel de Jesus Santos da Silva",
+                "titulo": "Integração de Recuperação Semântica e Geração com LLMs: Uma Abordagem RAG Aplicada à Teoria Econômica",
+                "ano": "2025",
+                "curso": "Aprendizado de Máquina",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Denis Kalleb Oliveira Costa",
+                "titulo": "NLP aplicada à revisão sistemática de biomarcadores sanguíneos para diagnóstico da Doença de Alzheimer",
+                "ano": "2025",
+                "curso": "Aprendizado de Máquina",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Jhonathas Moutinho da Silva Melo",
+                "titulo": "FORECASTING OCEAN HEAT CONTENT (OHC) IN THE SUBPOLAR NORTH ATLANTIC USING RANDOM FOREST WITH INTERNAL AND EXTERNAL VALIDATION",
+                "ano": "2025",
+                "curso": "Aprendizado de Máquina",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Antonio Marcos Teixeira de Araujo",
+                "titulo": "O efeito da discretização na classificação: um estudo comparativo de técnicas de aprendizagem supervisionada para caracterização de variáveis econômicas",
+                "ano": "2024",
+                "curso": "Aprendizado de Máquina",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Luiz Eduardo Santos de Araujo",
+                "titulo": "Discretização e seu efeito na classificação: um estudo comparativo de intervalos não-usuais de discretização para caracterização de variáveis econômicas.",
+                "ano": "2024",
+                "curso": "Aprendizado de Máquina",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Cristiano & Joice & Kelly & Maura & Willian",
+                "titulo": "Otimizar processo de PCP na empresa Greenwood Ind. e Com. Ltda.",
+                "ano": "2022",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Bruno & Edson & Gabriel & José & Pedro & Renan",
+                "titulo": "E-Agricultor",
+                "ano": "2022",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Alfredo&Armando&Eliana&Luciano&Marcos&Ricardo&Stephanie",
+                "titulo": "Legal Office: Gestão de Fluxo de Trabalho.",
+                "ano": "2022",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Alexandre&Daniel&Gustavo&Josiane&Marcelo&Michele&Paulo&Raisa",
+                "titulo": "Teacher Binder 1.0: Organizador pedagógico digital com melhorias no software, para inclusão de API de acessibilidade.",
+                "ano": "2022",
+                "curso": "Ciência de dados",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Vicente A",
+                "titulo": "&Victor A.&Victor B.&Victor P.&Vinicius C..  RHPI ? Resources Humans Process Improvement - Software voltado para a área de Recursos Humanos (RH), com framework web que utiliza banco de dados, com inclusão de script web (Javascript), nuvem, uso de API, acessibilidade, controle de versão e testes",
+                "ano": "2022",
+                "curso": "Tecnologia da Informação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "ChristopherMartins&Rony Rodrigues&Victor Nigro&WilliamPekrul",
+                "titulo": "Sistema de Agendamento Odontológico",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Guilherme Carvalho & Yago Valderoza & Paulo Fagundes",
+                "titulo": "Gerenciador de Fundos de Investimentos",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Eduardo G",
+                "titulo": "R. Vitorino&Júlio César S.&Robério J. S.&Taylha S..  Planilha de Educação Financeira",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Gabriel C",
+                "titulo": "O. & Leandro S. S. & Lucas C. & Willian T. S..  Projeto de Website para Barbearia",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Antonio& Daniela& Ederaldo& Jonatha& Leandro& Thiago& Vagner",
+                "titulo": "Otimizar processo de PCP na empresa Greenwood Ind. e Com. Ltda.",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Guilherme & Natanael & Rodrigo & Patricia",
+                "titulo": "Proposta de inserção de tecnologias da Indústria 4.0 em uma empresa de defensivos agrícolas",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Cléber& Danilo& Divonei& Katia& Marcus& Rafael& Rodrigo",
+                "titulo": "Aplicação de soluções sustentáveis através da implementação de separadores de resíduos na indústria automotiva",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Alexandre& Aline& Daniel& Kevin& Lidiane& Rildo",
+                "titulo": "Otimização de processos e sustentabilidade no transplante de órgãos utilizando manufatura aditiva de biotecido",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Jose& Laercio& Ronaldo& Henrique",
+                "titulo": "Otimização de processos utilizando pilares da indústria 4.0 sob o tripé da sustentabilidade com Reciclagem de Pneus",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Amanda& Edilson& Ítalo& Nadja& Vinícius",
+                "titulo": "Melhoria do processo de fabricação com foco nos estudos da indústria 4.0 e sustentabilidade.",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Elton& Fabio& Jaqueline& Luciana& Priscila& Stefani",
+                "titulo": "Monitoramento da colheita de cana de açúcar via drone",
+                "ano": "2021",
+                "curso": "Engenharia de Produção",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Andrew & Arthur & Carlos & Matheus & Robson",
+                "titulo": "Análise de dados: Base Adult census",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Carlos & Lucas & Thiago & Melissa & Danilo",
+                "titulo": "Análise do banco de dados ?adult-census-income?",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Alex & Fabiano & Guilherme & Luã & Rodrigo",
+                "titulo": "Carteira de Ações com Inteligência Artificial",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Emerson & Isabela & Leonardo & Michael",
+                "titulo": "Projeto Integrador",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Arthur Silva & Luis Silva & Luiz Vital & Thiago Gonçalves",
+                "titulo": "Estudo de Dados ? Base Adult",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Barbara & Danilo & Eduardo & Rodrigo & Wesley",
+                "titulo": "Predição de Salário (Base Adult)",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Fellipe & Hamilton & John & José & Osmar & Rodrigo & Samuel",
+                "titulo": "Aplicativo para monitoramento e controle de consumo de água em residências",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Carla B",
+                "titulo": "& Décio A. S. & Denis G. S. & Marcelo C. S..  DISPOSITIVO PARA REDUÇÃO DE DESPERDÍCIO DE ÁGUA RESIDENCIAL",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Alessandro T",
+                "titulo": "M.& Moises V. T. S.& Ricardo C.& Roberto G. S..  Sistema de monitoramento autônomo da umidade de parques",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "André & Edson & Henrique & John & Lucas & Ronaldo & Wagner",
+                "titulo": "Sensores a favor da segurança do ciclista",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Dagoberto H",
+                "titulo": "Lorenzetti&Jean F. B. Silva&Valdeni M. Lavrador.  Aplicação Multiplataforma para dispositivo IoT utilizando rede LoRaW",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Alexandre S",
+                "titulo": "S. Silva&Anderson C. Martins&Sergio W. O. Silva.  Aplicação Responsiva e Autônoma como Auxiliar e Guia para Usuários do Programa Farmácia para Todos",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Christie Y",
+                "titulo": "M. & Fernando B. C. & Marcelo H. M. & José A. C.  Geladeira Smart",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Miriam Silva & Rogério A",
+                "titulo": "Macedo & Ricardo Contessoto.  A internet das coisas na resolução de problemas da sociedade Brasileira",
+                "ano": "2021",
+                "curso": "Engenharia de computação",
+                "instituicao": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
+            },
+            {
+                "orientando": "Marcos Barbosa & Alicya Silva & Antony Silva & Gustavo Nunes",
+                "titulo": "Estruturação de dados: Adult-Sensus-Income",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Drummond"
+            },
+            {
+                "orientando": "Edison D",
+                "titulo": "Xavier, Filipe M. Ribeiro e Ismael J. Q. Sanxes.  Resfriador Instantâneo de Cerveja",
+                "ano": "2017",
+                "curso": "Tecnologia em Refrigeração, Ventilação e Ar Condicionado",
+                "instituicao": "Fatec Itaquera Miguel Reale"
+            },
+            {
+                "orientando": "Carlos A",
+                "titulo": "F. Braga, Flávio Lima e José D. S. Silva.  Processo de Branqueamentos em Frutas e Hortaliças ***Suas Vantagens***",
+                "ano": "2017",
+                "curso": "Tecnologia em Refrigeração, Ventilação e Ar Condicionado",
+                "instituicao": "Fatec Itaquera Miguel Reale"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.5992627595551312e-06,
+            "indian": 3.0851715564494953e-06,
+            "black": 1.2646493630086297e-08,
+            "white": 99.89815521240234,
+            "middle eastern": 0.034520022571086884,
+            "latino hispanic": 0.06732073426246643
+        }
+    }
+}

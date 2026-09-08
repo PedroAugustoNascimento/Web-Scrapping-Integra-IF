@@ -1,0 +1,711 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Engenharia Elétrica e de Computação",
+                "periodo": "2012 - 2016",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Linguagem Visual para Descrição de Casos de Uso",
+                "orientador": "Anderson Luiz de Oliveira Cavalcante"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2003 - 2005",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Sistema de Gerência de Informação de processos Industriais Via WEB",
+                "orientador": "GUEDES, Luiz Affonso"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciencia da Computação",
+                "periodo": "1995 - 2001",
+                "instituicao": "Universidade Federal do Piauí"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2005",
+                "cargo": "Professor Efetivo."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "2004 - 2006",
+                "cargo": "Mestrando, Bolsista."
+            },
+            {
+                "empresa": "Journal of Visual Languages and Computing",
+                "periodo": "2013 - 2013",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "Holos (Natal. Online)",
+                "periodo": "2016",
+                "cargo": ", Revisor de periódico, HOLOS is an online publication of the Federal Institute of Rio Grande do Norte (IFRN) which goal is to publish articles that contribute to the researches of multidiscipline themes. The periodic receive contributions in Portuguese, English and Spanish.."
+            },
+            {
+                "empresa": "EMPÍRICABR - REVISTA BRASILEIRA DE GESTÃO, NEGÓCIO E TECNOLOGIA DA INFORMAÇ",
+                "periodo": "2016",
+                "cargo": ", Revisor de periódico, A EmpíricaBR: Revista Brasileira de Gestão, Negócio e Tecnologia da Informação é um periódico cujo objetivo é divulgar o conhecimento científico aplicado nas áreas Gestão, Negócio e Tecnologia da Informação.."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nIFRN - Pró-Reitoria de Ensino (2012) : Diretor De Administração Acadêmica.\nPesquisa e Desenvolvimento\nCampus Natral-Central (2006): Qualidade e Produtividade em Software,",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Gerência de Laboratórios de Informática ? Lab-­‐On",
+                "periodo": "2012 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Danielle Cristina de Oliveira Torres",
+                    "Luan de Sousa Figueredo",
+                    "Pedro Henrique Gouveia de Lima"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sistema de Controle Ambiental do IFRN.",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Maria Valiene",
+                    "Anne Gonçalo de Oliveira",
+                    "Ana Gonçalo de Oliveira"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo de melhorias na usabilidade do SUAP-Edu",
+                "periodo": "2016 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Adolfo Lucas Melo de Farias",
+                    "Marília Aranha Freire"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "NISIA - Aplicativo da Mulher Potiguar",
+                "periodo": "2017 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Anne Gonçalo de Oliveira",
+                    "Ana Gonçalo de Oliveira",
+                    "Felipe Mateus Freire Pontes",
+                    "osafá Romão Rebouças Rodrigues",
+                    "Francisco Bento da Silva Júnior",
+                    "Weskley de Morais Bezerra"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "PROPOSTA DE AGENTE CONVERSACIONAL PARA INTERAÇÃO COM DADOS ACADÊMICOS",
+                "periodo": "2016 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Adolfo Lucas Melo de Farias"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Placas de Formatura Virtual",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "LUENNE GOMES MAFRA",
+                    "JONATHAN CARDOSO FERREIRA DE MOURA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sistema Automático de Gestão de Águas aplicado às Instalações do Campus Natal-Central",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Jose Alvaro de Paiva",
+                    "Carlos Avelino de Barros",
+                    "Marina Medeiros de Araujo Leite",
+                    "Gabriel França Oliveira Júnior",
+                    "Kael Amir Pina Paraguassu Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Esteja Segura",
+                "periodo": "2021 - 2021",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Esther Aragao da Silva Santana",
+                    "Jackson Ricardo dos Santos da Silva",
+                    "Pedro Henrique da Costa Barros",
+                    "Rafael Geronimo de Franca Xavier"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "NAgenda",
+                "periodo": "2021 - 2021",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Wendell Edgard da Silva Araújo",
+                    "Iury Macks Miranda",
+                    "Rodrigo Pereira da Silva",
+                    "Wemerson das Chagas dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sempre Leio",
+                "periodo": "2021 - 2021",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Francisco Sales de Lima Filho",
+                    "Andre Luiz do Nascimento",
+                    "Ricardo Rafael Soares de Carvalho",
+                    "Vicente de Paiva Limeira",
+                    "Iury Macks Miranda",
+                    "Rodrigo Pereira da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Buscabelo",
+                "periodo": "2021 - 2021",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Cláudia Maria Araújo Ribeiro",
+                    "Joao Lucas Farias de Almeida",
+                    "Jose Victor Bernardino da Trindade",
+                    "Lucas Henrique Evaristo da Costa",
+                    "Yan Victor Batista Lima"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Spark of Joy",
+                "periodo": "2021 - 2021",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Demostenes Sena",
+                    "Andrei da Silva Pereira",
+                    "Flávio Candido dos Santos Policarpo Silva",
+                    "Jherod Brendon Alves dos Anjos",
+                    "Sara Viegas da Cunha"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Historiador de dados de reservatórios de água - HiDRA",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Jose Alvaro de Paiva",
+                    "Carlos Avelino de Barros",
+                    "Kael Amir Pina Paraguassu Silva",
+                    "JOSE JAILSON DA SILVA JUNIOR",
+                    "Larissa Karla dos Santos Nascimento"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Protótipo de um Sistema de Controle e Monitoramento Remoto do Consumo de Água utilizando um Microcontrolador da Família ESP32",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Jose Alvaro de Paiva",
+                    "Carlos Avelino de Barros",
+                    "Marina Medeiros de Araujo Leite",
+                    "ADRIANO TORRES LOPES FILHO"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo de Viabilidade de implantação de Software Livre nas Uneds do CEFET-RN",
+                "periodo": "2008 - 2008",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Lua Breno Almeida dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Gerência de Informação Industrial no Setor de Petróleo e Gás",
+                "periodo": "2004 - 2006",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "André Laurindo Maitelli",
+                    "Luiz Affonso Guedes",
+                    "Adelardo A. Dantas"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,"
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Projeto Gerinf II",
+                "periodo": "2006 - 2008",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "André Laurindo Maitelli",
+                    "Luiz Affonso Guedes",
+                    "Adelardo A. Dantas"
+                ],
+                "financiador": "PETROBRAS - UN-RNCE,"
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Skin PID Mastertool IEC XE",
+                "periodo": "2010 - 2012",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "André Maitelli",
+                    "Anderson Luiz",
+                    "Leandro Luttinane"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Conversor de Projetos para Mastertool IEC XE",
+                "periodo": "2013 - 2014",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "André Laurindo Maitelli",
+                    "Anderson Luiz",
+                    "Leandro Luttinane",
+                    "Felipe Edgar"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Gerência da Informação Inteligente de Processos de Automação Industrial para Suporte a Tomada de Decisão",
+                "periodo": "2006 - 2009",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Luiz Affonso Guedes",
+                    "Clauber G. Bezerra",
+                    "Wany Leydiane S. de Andrade",
+                    "Rafael Feijó",
+                    "Dannilo Martins Cunha",
+                    "Bruno Sielly Jales Costa"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Laboratório de Avaliação dos Processos de Medição de Vazão e BSW",
+                "periodo": "2002 - 2004",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Andrés Salazar",
+                    "André Maitelli",
+                    "Fábio Lima",
+                    "Filipe O Quintaes"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Projeto de interação de novas funcionalidades ao MTool IEC/XE",
+                "periodo": "2015 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "André Maitelli",
+                    "Leandro Luttinane",
+                    "CAVALCANTI",
+                    "ANDERSON LUIZ O.",
+                    "Diego vitor Soares dos Santos",
+                    "Rhaclley Franklein Ferreira de Araújo"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Um banco de dados para Gerenciamento de resíduos na Administração Pública (GRAP).",
+                "periodo": "2015 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Bianka Evelyn Caixeta de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Suíte de Ferramentas Computacionais para Elevação e Escoamento",
+                "periodo": "2017 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Carla Wilza Souza de Paula Maitelli",
+                    "arcos Vinicius Bandeira Andrade Bezerra",
+                    "Victor Marcolino Costa de Lima",
+                    "Afonso da Silva Martins",
+                    "Kaio César Medeiros Álvares"
+                ],
+                "financiador": "PETROBRAS - UN-RNCE,"
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "TRACELIFT - Melhorias e Adequações",
+                "periodo": "2017 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "Carla Wilza Souza de Paula Maitelli",
+                    "arcos Vinicius Bandeira Andrade Bezerra",
+                    "Victor Marcolino Costa de Lima",
+                    "Afonso da Silva Martins",
+                    "Kaio César Medeiros Álvares"
+                ],
+                "financiador": "PETROBRAS - UN-RNCE,"
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Suíte de ferramentas computacionais aplicada aos métodos de elevação artificial",
+                "periodo": "2020",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alessandro Jose de Souza",
+                    "MAITELLI",
+                    "CARLA WILZA SOUZA DE PAULA"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Geração Dinamica de Documentos para Automação",
+                "periodo": "2009 - 2010",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leandro Luttinane",
+                    "Alessandro Jose de Souza",
+                    "André Laurindo Maitelli",
+                    "Anderson Luiz"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "A. G.,  OLIVEIRA, A. G.,  VALIENE, M.,  DE SOUZA, ALESSANDRO J.,  Sistema de Controle Ambiental do IFRN",
+                    "ano": "2015",
+                    "instituicao_promotora": "IFRN."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUZA",
+                    "evento": "Alessandro J;DE SOUZA, ALESSANDRO J.;DE SOUZA, ALESSANDRO JOSÉ,  I EXPOTEC - Exposição Tecnológica da UnedZN",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UnedZN- CEFETRN."
+                },
+                {
+                    "autores": "MAITELLI",
+                    "evento": "André Laurindo,  SALAZAR, Andres Ortiz,  SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J.;DE SOUZA, ALESSANDRO JOSÉ,  I WorkShop da Rede de Instrumentação e Controle",
+                    "ano": "2004",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFRN."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SOARES, HARLENE CRISTINA AMBROSIO GOMES",
+                "titulo": "REGO, EVERTON JOSÉ DE CASTRO;  MAITELLI, André Laurindo;  MAITELLI, CARLA WILZA SOUZA DE PAULA;  DE SOUZA, ALESSANDRO JOSÉ;  LEITE FILHO, EUNÍZIO PERMÍNIO;  Fuzzy controllers applied for management of choke opening in the continuous gas-lift systems",
+                "ano": "2022",
+                "periodico": "Rio Oil and Gas Expo and Conference. ISBN: 25257579   ."
+            },
+            {
+                "autores": "MAITELLI, CARLA WILZA SOUZA DE PAULA",
+                "titulo": "DE SOUZA, ALESSANDRO JOSÉ;  DE LIMA, FÁBIO SOARES;  A suite of tools to support equipment sizing and specification",
+                "ano": "2020",
+                "periodico": "Rio Oil and Gas Expo and Conference. ISBN: 25257579   ."
+            },
+            {
+                "autores": "DE SOUZA, ALESSANDRO J.",
+                "titulo": "CAVALCANTI, ANDERSON LUIZ O.;  Visual Language for Use Case Description",
+                "ano": "2015",
+                "periodico": "Software, Practice & Experience (Print). ISBN: 00380644   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DE SOUZA, ALESSANDRO J.",
+                "titulo": "SALES FILHO, F",
+                "evento": "; FONSECA",
+                "local": "M.; ROCHA, L.; SILVA, E.; Avaliação do Smart Detection em Provedor de Serviço de Internet. XII Conferência Nacional em Comunicações, Redes e Segurança da Informação (Encom 2022), Guaramiranga-CE",
+                "ano": "2022"
+            },
+            {
+                "autores": "SOUZA, Alessandro J",
+                "titulo": "LOPES FILHO, A",
+                "evento": "T.; PAIVA",
+                "local": "J. A.; SILVA, K. A. P. P.; LEITE, M. M. A.; SISTEMA WEB DE GESTÃO DEABASTECIMENTO E CONSUMO DE ÁGUA. MOCITEC ZN - Mostrade Ciência e Tecnologia, Natal-RN",
+                "ano": "2022"
+            },
+            {
+                "autores": "DE SOUZA, ALESSANDRO J.",
+                "titulo": "SILVA, K",
+                "evento": "A. P. P.; LEITE",
+                "local": "M. M. A.; PAIVA, J. A.; OLIVEIRA JUNIOR, G. F.; Supervisão on-line do Sistema de Abastecimento de Água do Campus Natal-Central. Expotec 2021, Natal-RN",
+                "ano": "2021"
+            },
+            {
+                "autores": "COSTA NETO, M.",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; LEITE, Jair. C.; Identificando problemas de usabilidade através de inspeção no modelo de interação. IHC+CLIHC 2011, Porto de Galinhas, PE, Brasil",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOUZA, Alessandro J",
+                "titulo": "DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; Luiz Affonso; Bruno Sielly Jales Costa; BEZERRA, Clauber G.; Eidelwein, Emilia; Integração da Web 2.0 no Desenvolvimento de Aplicações em Ambientes Industriais.. V Congresso Rio Automação, Rio de Janeiro",
+                "ano": "2009"
+            },
+            {
+                "autores": "LUIZ, A.",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; Silva, Diego; ROCHA, G.; SALES FILHO, F.; Integrating mobile devices and industrial automation through web services. Industrial Informatics, 2009. INDIN 2009. 7th IEEE International Conference on, Cardiff",
+                "ano": "2009"
+            },
+            {
+                "autores": "COSTA NETO, M.",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; LAVO, R. B.; SILVA, C. B.; LEITE, Jair. C.; Desenvolvimendo Interfaces de Usuário Multiplataforma Utilizando MDA. 1ª Conferência Sul-Americana de Design de Interação, São Paulo-SP",
+                "ano": "2009"
+            },
+            {
+                "autores": "Rafael Feijó",
+                "titulo": "GUEDES, Luiz Affonso; BEZERRA, Clauber G",
+                "evento": "; Eidelwein",
+                "local": "Emilia; Bruno Sielly Jales Costa; Dannilo Martins Cunha; SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J.;DE SOUZA, ALESSANDRO JOSÉ; AMBIENTE COMPUTACIONAL PARA DESENVOLVIMENTO DE APLICAÇÕES DE MONITORAMENTO E ANÁLISE DE PROCESSOS NA INDÚSTRIA DO PETRÓLEO. Rio Oil & Gas Expo Conference 2008, Rio de Janeiro",
+                "ano": "2008"
+            },
+            {
+                "autores": "SALES FILHO, F.",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; Luiz Affonso; SUPERVISÃO DE PROCESSOS INDUSTRIAIS USANDO WEB SERVICE. XVI CONGRESSO BRASILEIRO DE AUTOMÁTICA, BAHIA",
+                "ano": "2006"
+            },
+            {
+                "autores": "SOUZA, Alessandro J",
+                "titulo": "DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; SALES FILHO, F.; Adauto Fonseca; GUEDES, Luiz Affonso; Industrial Processes Supervision Using Service Oriented Architecture. The 32nd Annual Conference of the IEEE Industrial Electronics Society - IECON 2006, Paris",
+                "ano": "2006"
+            },
+            {
+                "autores": "DUARTE, Jorge Luís F. da Costa",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; MINORA, Leonardo Ataíde; IMPLEMENTAÇÃO DE UMA ARQUITETURA PARA O DESENVOLVIMENTO DE SISTEMAS CORPORATIVOS WEB BASEADA NO PARADIGMA DE LINHAS DE PRODUTO DE SOFTWARE. I Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica, Natal",
+                "ano": "2006"
+            },
+            {
+                "autores": "ANDRADE, Wany Leydiane S. de",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; GUEDES, Luiz Affonso; MAITELLI, André Laurindo; Gerência e Armazenamento de Dados em Tempo Real em Ambientes Industriais. VII Conferência Internacional de Aplicações Industriais, Recife-PE",
+                "ano": "2006"
+            },
+            {
+                "autores": "QUINTAES, Filipe O",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; SALAZAR, Andres Ortiz; MAITELLI, André Laurindo; LIMA, Fábio Soares de; Automação dos Processos de Medição de Vazão e BSW. Encontro Para Qualidade de Laboratórios, São Paulo-SP",
+                "ano": "2005"
+            },
+            {
+                "autores": "SOUZA, Alessandro J",
+                "titulo": "DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; DANTAS, Adelardo A.; GUEDES, Luiz Affonso; MAITELLI, André Laurindo; GERÊNCIA DE INFORMAÇÃO DA PRODUÇÃO DE PETRÓLEO E GÁS. 3° Congresso Brasileiro de P D Em Petróleo E Gás, Salvador-BA",
+                "ano": "2005"
+            },
+            {
+                "autores": "ANDRADE, Wany Leydiane S. de",
+                "titulo": "Luiz Affonso; GUEDES, Luiz Affonso; MAITELLI, André Laurindo; Rafael Feijó; SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; GERÊNCIA DE INFORMAÇÃO DE PROCESSOS INDUSTRIAIS: UM ESTUDO DE CASO NA PRODUÇÃO DE PETRÓLEO E GÁS. VII Simpósio Brasileiro de Automação Inteligente, Fortaleza-CE",
+                "ano": "2005"
+            },
+            {
+                "autores": "SOUZA, Alessandro J",
+                "titulo": "DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; Luiz Affonso; MAITELLI, André Laurindo; Web Application for Manufacture Information Management. IV Induscon Conferencia Internacional de Aplicações Industriais, Joinville-SC",
+                "ano": "2004"
+            },
+            {
+                "autores": "LIMA, Fábio Soares de",
+                "titulo": "SOUZA, Alessandro J;DE SOUZA, ALESSANDRO J",
+                "evento": ";DE SOUZA",
+                "local": "ALESSANDRO JOSÉ; SALAZAR, Andres Ortiz; MAITELLI, André Laurindo; Evaluation Measurement Prodesses of Flow and BSW. VI Induscon Conferência Internacional de Aplicações Industriais, Joinville-SC",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Matheus Henrique de Souza",
+                "titulo": "PROPOSTA DE REDESIGN DA ARQUITETURA DA INFORMAÇÃO DA ÁREA DE CONSULTAS À PROCESSOS DO TRIBUNAL DE CONTAS DO ESTADO DO RIO GRANDE DO NORTE",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jonathan Cardoso Ferreira de Moura",
+                "titulo": "SISTEMA DE PLACAS VIRTUAIS DE FORMATURA : UM RELATO NO DESENVOLVIMENTO DE PROJETO DE PESQUISA",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Maryanne Alice de Freitas Tavares Mendes",
+                "titulo": "NoRupture - Uma ferramenta para tratar indisponibilidades de produtos",
+                "ano": "2020",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Lucas Matthaus Fonseca da Silva",
+                "titulo": "Desenvolvimento de Aplicativo para Networking de Negócios",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Adolfo Lucas Melo de Farias",
+                "titulo": "PROPOSTA DE AGENTE CONVERSACIONAL PARA INTERAÇÃO COM DADOS ACADÊMICOS",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "OLIVEIRA, A",
+                "titulo": "G..  Desenvolvimento do módulo web do Projeto Nísia",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Bianka Evelyn Caixeta de Oliveira",
+                "titulo": "Um banco de dados para Gerenciamento de resíduos na Administração Pública (GRAP)",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Rômulo Rodrigues de Oliveira",
+                "titulo": "Análise de Usabilidade de Interface do SIstema Unificado de Administração Pública (Módulo-Edu)",
+                "ano": "2013",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Rui Anderson Alves dos Santos",
+                "titulo": "Use Case Description Tools",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Joeldson Costa Damasceno",
+                "titulo": "Estendendo a Ferramenta Use Case Description Tool para Implementar Interações Compostas da AL4UCD",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Erick Sharlls Ramos de Pontes",
+                "titulo": "Análise comparativa entre ferramentas de LPS: GenArch e Captor-AO",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Luan Brendo Almeida dos Santos",
+                "titulo": "Estudo de Viabilidade de implantação de Software Livre nas Uneds do CEFET-RN",
+                "ano": "2008",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Adauto L",
+                "titulo": "T. B. da Fonseca.  SISTEMA DE AQUISIÇÃO DE DE DADOS DE PROCESSOS INDUSTRIAIS",
+                "ano": "2006",
+                "curso": "Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jorge Luís Fernandes da Costa Duarte",
+                "titulo": "IMPLEMENTAÇÃO DE UMA ARQUITETURA PARA O DESENVOLVIMENTO DE SISTEMAS CORPORATIVOS WEB BASEADA NO PARADIGMA DE LINHAS DE PRODUTO DE SOFTWARE",
+                "ano": "2006",
+                "curso": "Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Francisco Sales de Lima Filho",
+                "titulo": "Gerência de Informação de Processos Industriais Usando Web Service",
+                "ano": "2005",
+                "curso": "Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.4975264072418213,
+            "indian": 1.3897552490234375,
+            "black": 0.7806904315948486,
+            "white": 41.999141693115234,
+            "middle eastern": 10.698721885681152,
+            "latino hispanic": 43.63416290283203
+        }
+    }
+}

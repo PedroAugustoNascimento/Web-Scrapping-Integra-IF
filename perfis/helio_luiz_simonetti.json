@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Betim",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -183,10 +184,34 @@
                 "cargo": ", Revisor de periódico."
             }
         ],
-        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - Campus Betim (2018) : Coordenador Do Ensino Superior.\nInstituto Federal de Minas - Campus Betim (2014): Otimização Topológica,\nInstituto Federal de Minas - Campus Betim (2014): Método dos Elementos Finitos,\nInstituto Federal de Minas - Campus Betim (2014): RBTO - Reliability-based topology optimization,\nInstituto Federal de Minas - Campus Betim (2014): Confiabilidade Estrutural,\nInstituto Federal de Minas - Campus Betim (2014): Método dos Elementos de Contorno,",
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal de Minas - Campus Betim (2018) : Coordenador Do Ensino Superior.\nInstituto Federal de Minas - Campus Betim (2014): Otimização Topológica,\nInstituto Federal de Minas - Campus Betim (2014): Método dos Elementos Finitos,\nInstituto Federal de Minas - Campus Betim (2014): Método dos Elementos de Contorno,\nInstituto Federal de Minas - Campus Betim (2014): RBTO - Reliability-based topology optimization,\nInstituto Federal de Minas - Campus Betim (2014): Confiabilidade Estrutural,",
         "ensino": "",
         "comissoes": "",
         "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "OTIMIZAÇÃO TOPOLÓGICA MULTIOBJETIVO USANDO MÉTODO DOS ELEMENTOS DE CONTORNO",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hélio Luiz Simonetti",
+                    "ALMEIDA",
+                    "V. S. ;",
+                    "Francisco de Assis das Neves"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "Otimização Topológica Multiobjetivo de Estruturas Tridimensionais Multimaterial com Consideração de Incertezas",
+                "periodo": "2022 - 2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcílio Sousa da Rocha Freitas",
+                    "Hélio Luiz Simonetti",
+                    "Francisco de Assis da Neves",
+                    "Márcio Maciel da Silva"
+                ]
+            },
             {
                 "instituicao": "Universidade Federal de Ouro Preto",
                 "nome": "OTIMIZAÇÃO TOPOLÓGICA DE ESTRUTURAS VIA MEF E MEC",
@@ -199,15 +224,12 @@
                 ]
             },
             {
-                "instituicao": "Universidade Federal de Ouro Preto",
-                "nome": "OTIMIZAÇÃO TOPOLÓGICA MULTIOBJETIVO USANDO MÉTODO DOS ELEMENTOS DE CONTORNO",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "OTIMIZAÇÃO TOPOLÓGICA APLICA EM BRAÇOS ROBÓTICOS FLEXÍVEIS",
                 "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
+                "natureza": "Outra",
                 "equipe": [
-                    "Hélio Luiz Simonetti",
-                    "ALMEIDA",
-                    "V. S. ;",
-                    "Francisco de Assis das Neves"
+                    "Hélio Luiz Simonetti"
                 ]
             },
             {
@@ -222,19 +244,6 @@
                     "Francisco de Assis da Neves"
                 ],
                 "financiador": "Associação dos Servidores do CNPq,"
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Desenvolvimento de um Sistema Computacional para Análise Dinâmica de Estruturas de c asca submetidas a forças não conservativas",
-                "periodo": "2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Hélio Luiz Simonetti",
-                    "Francisco de Assis das Neves",
-                    "ALMEIDA",
-                    "V.S.",
-                    "Virgil Del Duca Almeida"
-                ]
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
@@ -279,11 +288,15 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "OTIMIZAÇÃO TOPOLÓGICA APLICA EM BRAÇOS ROBÓTICOS FLEXÍVEIS",
-                "periodo": "2017 - 2018",
-                "natureza": "Outra",
+                "nome": "Desenvolvimento de um Sistema Computacional para Análise Dinâmica de Estruturas de c asca submetidas a forças não conservativas",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
                 "equipe": [
-                    "Hélio Luiz Simonetti"
+                    "Hélio Luiz Simonetti",
+                    "Francisco de Assis das Neves",
+                    "ALMEIDA",
+                    "V.S.",
+                    "Virgil Del Duca Almeida"
                 ]
             },
             {
@@ -296,6 +309,19 @@
                     "valerio silva almeida",
                     "Thiago Alonso Mereci",
                     "Márcio Maciel da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais",
+                "nome": "Otimização Topológica Evolucionária: Um código MATLAB de 125 linhas para SESO e ESO",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hélio Luiz Simonetti",
+                    "ALMEIDA",
+                    "V. S. ;",
+                    "Thiago Alonso Mereci",
+                    "Wagner Monte Raso Braga"
                 ]
             },
             {
@@ -349,6 +375,24 @@
             ],
             "apresentacoes_trabalho": [
                 {
+                    "autores": "Mereci",
+                    "titulo": "T. A.,  SIMONETTI, H.L.,  ALMEIDA, V. S.,  SILVA, M. M.,  Reliability-based multi-material topology optimization with cubic spline interpolation",
+                    "ano": "2025",
+                    "instituicao_promotora": "ABMEC."
+                },
+                {
+                    "autores": "SIMONETTI",
+                    "titulo": "H.L.,  ALMEIDA, V. S.,  OLIVEIRA NETO, L.,  Geometrically Nonlinear 3D Topological Optimization: An Efficient MATLAB Code for the SESO Method",
+                    "ano": "2024",
+                    "instituicao_promotora": "ABMEC."
+                },
+                {
+                    "autores": "SIMONETTI",
+                    "titulo": "H.L.,  ALMEIDA, V. S.,  ALMEIDA, V. D.,  AZAR, S. J.,  SILVA, M. M.,  Reliability-based optimization of evolutionary topologyand automated generation of strut-and-tie models for 3Dstructures",
+                    "ano": "2023",
+                    "instituicao_promotora": "Universidade do Porto."
+                },
+                {
                     "autores": "SIMONETTI",
                     "titulo": "H. L.,  ALMEIDA, V.S.,  NEVES, F. A.,  ALMEIDA, V. D.,  Topological Optimization of three-dimensional Structures using the methods of moving asymptotes and optimality criteria",
                     "ano": "2020",
@@ -367,20 +411,20 @@
                     "instituicao_promotora": "UFRN."
                 },
                 {
+                    "autores": "SOUZA",
+                    "titulo": "R. S. E.,  ALMEIDA, V.S.,  SIMONETTI, HÉLIO LUIZ,  HEURISTIC OPTIMIZATION VIA FEM FOR PROCEDURE DECISION OF THE OPTIMAL POSITIONING OF THE SUPPORTS",
+                    "ano": "2017",
+                    "instituicao_promotora": "UFSC."
+                },
+                {
                     "autores": "SIMONETTI",
                     "titulo": "H.L.,  ALMEIDA, V.S.,  NEVES, F. A.,  A SIMPLE TECHNIQUE OF CREATE CAVITIES TO SOLVE TOPOLOGY OPTIMIZATION PROBLEMS USING BOUNDARY ELEMENT METHOD",
                     "ano": "2017",
                     "instituicao_promotora": "UFSC."
                 },
                 {
-                    "autores": "ALMEIDA",
-                    "titulo": "V.S.,  SIMONETTI, H.L.,  NEVES, F. A.,  EVOLUTIONARY STRUCTURAL OPTIMIZATION OF ELASTIC STRUCTURES 2D USING STRAIN ENERGY CRITERION",
-                    "ano": "2017",
-                    "instituicao_promotora": "UFSC."
-                },
-                {
-                    "autores": "SOUZA",
-                    "titulo": "R. S. E.,  ALMEIDA, V.S.,  SIMONETTI, HÉLIO LUIZ,  HEURISTIC OPTIMIZATION VIA FEM FOR PROCEDURE DECISION OF THE OPTIMAL POSITIONING OF THE SUPPORTS",
+                    "autores": "SIMONETTI",
+                    "titulo": "H.L.,  NEVES, F. A.,  ALMEIDA, V.S.,  EVOLUTIONARY STRUCTURAL OPTIMIZATION OF ELASTIC STRUCTURES 2D USING STRAIN ENERGY CRITERION",
                     "ano": "2017",
                     "instituicao_promotora": "UFSC."
                 },
@@ -441,8 +485,8 @@
                 "periodico": "Materials. ISBN: 19961944   ."
             },
             {
-                "autores": "SIMONETTI, H. L.",
-                "titulo": "Valerio Silva Almeida;  NEVES, F. A.;  AZAR, S. Z.;  SILVA, M. M.;  BESO and SESO: Comparative Analysis of Spatial Structures Considering Self-Weight and Structural Reliability",
+                "autores": "AZAR, S. Z.",
+                "titulo": "SIMONETTI, H. L.;  Valerio Silva Almeida;  NEVES, F. A.;  SILVA, M. M.;  BESO and SESO: Comparative Analysis of Spatial Structures Considering Self-Weight and Structural Reliability",
                 "ano": "2024",
                 "periodico": "Applied Sciences-Basel. ISBN: 20763417   ."
             },
@@ -477,16 +521,16 @@
                 "periodico": "STRUCTURES. ISBN: 23520124   ."
             },
             {
-                "autores": "OLIVEIRA NETO, LUTTGARDES DE",
-                "titulo": "MASIA, MARK JOHN;  ALMEIDA, VALÉRIO S.;  SIMONETTI, HÉLIO LUIZ;  A nonlinear BE formulation for analysis of masonry walls considering orthotropy: Fundamentals",
-                "ano": "2021",
-                "periodico": "STRUCTURES. ISBN: 23520124   ."
-            },
-            {
                 "autores": "SIMONETTI, H.L.",
                 "titulo": "Valerio Silva Almeida;  Neves, F.A.;  ALMEIDA, V. D.;  TOPOLOGICAL OPTIMIZATION OF THREE-DIMENSIONAL STRUCTURES USING MMA",
                 "ano": "2021",
                 "periodico": "Revista de Ciências Exatas Aplicadas e Tecnológicas da UPF. ISBN: 21764565   ."
+            },
+            {
+                "autores": "OLIVEIRA NETO, LUTTGARDES DE",
+                "titulo": "MASIA, MARK JOHN;  ALMEIDA, VALÉRIO S.;  SIMONETTI, HÉLIO LUIZ;  A nonlinear BE formulation for analysis of masonry walls considering orthotropy: Fundamentals",
+                "ano": "2021",
+                "periodico": "STRUCTURES. ISBN: 23520124   ."
             },
             {
                 "autores": "SIMONETTI, HÉLIO LUIZ",
@@ -767,16 +811,16 @@
         ]
     },
     "Cor/Raça": {
-        "raca_original": "middle eastern",
-        "raca_ibge": "Parda",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 3.2102956771850586,
-            "indian": 7.584863185882568,
-            "black": 1.6259647607803345,
-            "white": 30.302947998046875,
-            "middle eastern": 34.40414047241211,
-            "latino hispanic": 22.871789932250977
+            "asian": 1.7365401983261108,
+            "indian": 3.6843173503875732,
+            "black": 0.6721292734146118,
+            "white": 42.22092819213867,
+            "middle eastern": 30.322223663330078,
+            "latino hispanic": 21.36385726928711
         }
     }
 }

@@ -1,5 +1,6 @@
 {
     "campus": "- Polo de Inovação",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -267,16 +268,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais",
-                "nome": "PFood - Sistema Inteligente de Gestão e Logística Alimentícia",
-                "periodo": "2024",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Paloma Maira de Oliveira Lima"
-                ],
-                "financiador": "Empresa Brasileira de Pesquisa e Inovação Idustrial, SEBRAE,"
-            },
-            {
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais",
                 "nome": "Desenvolvimento de um sistema inteligente para otimização de agendamento e processamento de serviços na área de saúde",
                 "periodo": "2024",
                 "natureza": "Desenvolvimento",
@@ -284,6 +275,16 @@
                     "Paloma Maira de Oliveira Lima",
                     "Denise Ferreira Garcia"
                 ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais",
+                "nome": "PFood - Sistema Inteligente de Gestão e Logística Alimentícia",
+                "periodo": "2024",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paloma Maira de Oliveira Lima"
+                ],
+                "financiador": "Empresa Brasileira de Pesquisa e Inovação Idustrial, SEBRAE,"
             },
             {
                 "instituicao": "Universidade Federal de Minas Gerais",
@@ -604,13 +605,6 @@
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais"
             },
             {
-                "orientando": "Lucas Ribeiro de Sousa",
-                "titulo": "MODELAGEM E PROTÓTIPO DE UM SISTEMA PARA GERENCIAMENTO DE MONITORIAS NO ÂMBITO DO IFMG ? CAMPUS FORMIGA",
-                "ano": "2019",
-                "curso": "Técnico em Informática",
-                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais"
-            },
-            {
                 "orientando": "Eduardo Fernandes Silva",
                 "titulo": "MODELAGEM E PROTÓTIPO DE UM SISTEMA WEB PARA AUXILIAR NO GERENCIAMENTO FINANCEIRO DE UMA PROPRIEDADE RURAL NA CIDADE DE FORMIGA/MG",
                 "ano": "2019",
@@ -622,6 +616,13 @@
                 "titulo": "SISTEMA DE IDENTIFICAÇÃO E MONITORAMENTO DE VEÍCULOS EM AMBIENTES CONTROLADOS",
                 "ano": "2019",
                 "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Ribeiro de Sousa",
+                "titulo": "MODELAGEM E PROTÓTIPO DE UM SISTEMA PARA GERENCIAMENTO DE MONITORIAS NO ÂMBITO DO IFMG ? CAMPUS FORMIGA",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
                 "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais"
             },
             {
@@ -785,12 +786,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 3.736118793487549,
-            "indian": 2.824392080307007,
-            "black": 0.585540771484375,
-            "white": 49.99986267089844,
-            "middle eastern": 21.45917510986328,
-            "latino hispanic": 21.394906997680664
+            "asian": 1.4600366353988647,
+            "indian": 1.752097725868225,
+            "black": 0.24073243141174316,
+            "white": 55.79219055175781,
+            "middle eastern": 21.875606536865234,
+            "latino hispanic": 18.87934112548828
         }
     }
 }

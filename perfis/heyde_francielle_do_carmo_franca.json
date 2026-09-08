@@ -1,0 +1,876 @@
+{
+    "campus": "- Campus Rio Verde",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2016 - 2022",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Arquitetura Probabilística para classificação em dados genômicos",
+                "orientador": "Anderson da Silva Soares"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "periodo": "2014 - 2016",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Uma solução baseada em ontologia para a prevenção de erros comuns em modelos de requisitos escritos na linguagem i*",
+                "orientador": "Renato de Freitas Bulcão Neto"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Gestão Estratégica de Tecnologia de Informa",
+                "periodo": "2009 - 2011",
+                "instituicao": "Faculdades Alves Faria",
+                "orientador": "Sirlon Diniz"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2001 - 2005",
+                "instituicao": "Universidade de Rio Verde"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Companhia Energética de Goiás",
+                "periodo": "2006 - 2011",
+                "cargo": "Gerente de Projetos, Celetista formal."
+            },
+            {
+                "empresa": "Centro de Educação Profissional Sebastião de Siqueira",
+                "periodo": "2006 - 2007",
+                "cargo": "Professora, Ministrando aulas de Lógica de Progamação, Redes de Computadores e Sistemas Operacionais.."
+            },
+            {
+                "empresa": "Universidade Estadual de Goiás",
+                "periodo": "2010 - 2010",
+                "cargo": "Professora, Professora das disciplinas: Sistemas de Informações Gerenciais, Teoria dos Jogos e Metodologia Científica.."
+            },
+            {
+                "empresa": "Faculdades Alves Faria",
+                "periodo": "2009 - 2010",
+                "cargo": "Estudante."
+            },
+            {
+                "empresa": "Faculdade Delta",
+                "periodo": "2011 - 2013",
+                "cargo": "Horista, Professor vistante, Professora no curso de Sistemas de Informação e Administração, ministrando as seguintes disciplinas: Sistemas Operacionais, Arquitetura de Computadores e Fundamentos de Informática.."
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "periodo": "2011 - 2013",
+                "cargo": "Professora substituta, Professor vistante."
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "periodo": "2013",
+                "cargo": "Professor, Servidor público, Professora no curso Técnico de Informática.."
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica de Goiás",
+                "periodo": "2013 - 2013",
+                "cargo": "Professora Visitante, Professora no curso de Ciência da Computação.."
+            },
+            {
+                "empresa": "Centro de Excelência em Agricultura Exponencia",
+                "periodo": "2023",
+                "cargo": "Pesquisadora, Bolsista."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Faculdades Alves Faria",
+                "nome": "Plano Diretor de Tecnologia da Informação Rensoftware Desenvolvimento de Sistemas",
+                "periodo": "2010 - 2011",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heyde Francielle do Carmo França"
+                ]
+            },
+            {
+                "instituicao": "Faculdades Alves Faria",
+                "nome": "A GOVERNANÇA DE TI COMO ESTRATÉGIA PARA MELHORIA DOS RESULTADOS DE UMA FÁBRICA DE SOFTWARE",
+                "periodo": "2010 - 2011",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "ANDRADE",
+                    "Elen",
+                    "Heyde Francielle do Carmo França"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Faculdade Delta",
+                "nome": "Empresa Júnior - Faculdade Delta",
+                "periodo": "2012 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "ESPAÇO DAS PROFISSÕES",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Soares de Oliveira Bailão",
+                    "Ada Bispo Dourado",
+                    "Willian Marques Pires"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "DESENVOLVIMENTO DE JOGOS PARA APOIO AO ENSINO DE PROGRAMAÇÃO",
+                "periodo": "2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Soares de Oliveira Bailão"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Espaço das Profissões - 2ª edição",
+                "periodo": "2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Ada Bispo Dourado",
+                    "Willian Marques Pires"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "TREINAMENTO DE ALUNOS PARA PARTICIPAÇÃO EM TORNEIOS DE DESENVOLVIMENTOS DE JOGOS DIGITAIS",
+                "periodo": "2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Soares de Oliveira Bailão",
+                    "Carina Calixto Ribeiro de Araujo",
+                    "André da Cunha Ribeiro"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "IF Goiano  Câmpus Rio Verde na OBI",
+                "periodo": "2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Soares de Oliveira Bailão",
+                    "Carina Calixto Ribeiro de Araujo",
+                    "André da Cunha Ribeiro",
+                    "Márcio da Silva Vilela",
+                    "Caíke da Rocha Damke",
+                    "Rafael Carvalho de Mendonça",
+                    "Leonel Diógenes Carvalhaes Alvarenga"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Implementação de um sistema hibrido de geração de energia elétrica: utilização de fontes renováveis de energia em um ambiente sustentável para fins socioeducativos.",
+                "periodo": "2015",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Soares de Oliveira Bailão",
+                    "André da Cunha Ribeiro",
+                    "Márcio da Silva Vilela",
+                    "Leonel Diógenes Carvalhaes Alvarenga",
+                    "Davi Santiago Aquino",
+                    "Édio Damásio da Silva Júnior",
+                    "Rogério Favareto"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "On-Peixes",
+                "periodo": "2022",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "adriano carvalho costa",
+                    "Wesley Gonçalves",
+                    "Matheus Barp Pierozan",
+                    "Eliene Ribeiro rosa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Contador de peixes utilizando inteligência artificial",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Marcyhel da Silva Menezes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Inclusão digital para jovens e adultos",
+                "periodo": "2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Bruno Moraes Braganholo",
+                    "Andrea Barboza Proto Sardi",
+                    "Nícolas Naves Couto Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de rede neural para estimação de peso de peixes utilizando imagens",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Lucas Oliveira Pereira da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Divulgação de Material para informática básica em redes sociais",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Carlos Henrique Ferri"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Utilizando redes neurais para detecção de tilápias em vídeos",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Izadora Alves de Almeida Carvalho",
+                    "Brenno Muller Vitorino"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Predição de fatores abióticos de habitats bacterianos com técnicas de aprendizado de máquina",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Maria Beatriz Walter Costa",
+                    "Bas E Dutilh"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Contagem de porcos utilizando inteligência artificial",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Júlia Estephani Ribeiro Baroncello"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "CEAGRE - Centro de Excelência em Agricultura Exponencial",
+                "periodo": "2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Alan Carlos da Costa",
+                    "Leandro Rodrigues da Silva Souza",
+                    "Fernando Cabral Filho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Curso de Inclusão Digital para População em Situação de Vulnerabilidade Social",
+                "periodo": "2023 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Guilherme Honório Caetano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Utilizando inteligência artificial para detecção e classificação de objetos no trânsito.",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Amauri Batista do Carmo Júnior",
+                    "Richard Niell Silva Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Confecção de Material para Informática básica para divulgação a comunidade",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Amauri Batista do Carmo Júnior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Identificação e Contagem de Tomate do Tipo Grape usando Inteligência Artificial",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Guilherme Honório Caetano",
+                    "Edvan Martins Filho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Identificação e contagem de suínos utilizando inteligência artificial",
+                "periodo": "2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Júlia Estephani Ribeiro Baroncello"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Curso de Inclusão Digital para Mulheres em Situação de Vulnerabilidade Social",
+                "periodo": "2023 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Frankcione Borges de Almeida",
+                    "Guilherme Honório Caetano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Uso de Inteligência Artificial no Estudo de Geografia para Preparação em Olimpíadas e Formação de Pensamento Crítico",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Ferraz da Costa",
+                    "Emival da Cunha Ribeiro",
+                    "Ana Paula Martins Dias"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Uso de Inteligência Artificial para Identificação de Espécies de Plantas e Desenvolvimento de Competências Científicas",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Leandro Carlos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Inteligência Artificial e Agricultura Digital: investigação teórica sobre aplicações da IA no setor agropecuário com estudantes do ensino médio integrado",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Paula Sperotto Alberto Faria"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Inclusão Digital e Informática Básica",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "HEYDE F C FRANCA",
+                    "Daniel Alves de Sousa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Reconhecimento de espécies de Abelhas Melíferas do Cerrado por Visão Computacional e Inteligência Artificial",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Pedro Henrique Muniz Amancio",
+                    "Sthéfany Lopes Pereira",
+                    "Gabrielle sousa ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Uso de Inteligência Artificial para Identificação de Espécies de Plantas e Desenvolvimento de Competências Científicas",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Leandro Carlos",
+                    "Geovanna Silva Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Uso de Inteligência Artificial no Estudo de História para Preparação em Olimpíadas e Formação de Pensamento Crítico",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Ferraz da Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Clube do Livro: Conexões Literárias e Digitais",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Lidia Nunes de Avila Carvalhaes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Inclusão Digital e Informática Básica",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Daniel Alves de Sousa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Educação Financeira no Ensino Médio: sequência didática com apoio de Inteligência Artificial para preparação para a OLITEF",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Frankcione Borges de Almeida",
+                    "Silvia Ferreira Marques Salustiano",
+                    "Luiz Aildo Cabral Araujo",
+                    "Karen Machado Borges"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Reconhecimento de espécies de Abelhas Melíferas do Cerrado por Visão Computacional e Inteligência Artificial",
+                "periodo": "2026",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "WILKER ALVES MORAIS"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Identificação de espécies de Abelhas Melíferas do Cerrado por Visão Computacional e Inteligência Artificial",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Edvan Martins Filho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Análise de Dados Genômicos de Bactérias para Classificação de Predisposição a Fatores Abióticos usando Técnicas de Redução de Dimensionalidade",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Richard Niell Silva Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Classificação do Nível de Maturação de Tomates com Redes Neurais Convolucionais Usando Dados de Colorimetria",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Guilherme Honório Caetano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Circuito Beija-Flor (2026)",
+                "periodo": "2026 - 2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Ferraz da Costa",
+                    "Rosenilde Nogueira Paniago",
+                    "Patricia Gouvea Nunes",
+                    "Jose Henrique Rodrigues Machado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Inteligência Artificial e Ciência de Dados aplicada a Agricultura de Precisão",
+                "periodo": "2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Adriano Ferraz da Costa",
+                    "Renato Domiciano Silva Rosado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de uma Ferramenta para Automação da Detecção de Tuberculose por Baciloscopia Utilizando Inteligência Artificial",
+                "periodo": "2024",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heyde Francielle do Carmo França",
+                    "Eliene Ribeiro rosa",
+                    "Vitor Ferreira Vieira",
+                    "Paulo Murillo dos Santos",
+                    "Flávio Henrique de Almeida Feitoza Filho",
+                    "Cristhiane Campos Marques",
+                    "Acácia Gonçalves Ferreira Leal"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "para monitoramento da altura da lâmina de água em Infiltrômetro de Anel",
+                    "software": "através de placa programável ESP32 e sensor de distância ultrassônico HC-SR04 - Soluções para VIB",
+                    "ano": "2023",
+                    "finalidade": "monitoramento de sensores.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023003098-8."
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "software": "W. C. S.,  BAILAO, A. S. O.,  OLIVEIRA, D. C.,  MACEDO, H. B.,  França, Heyde Francielle do Carmo,  MENDONCA, R. C.,  OptiIrriga: Aplicativo Inteligente de Gerenciamento e Otimização de Irrigação com Flutter",
+                    "ano": "2023",
+                    "finalidade": "monitoramento de sensores.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023003546-7."
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "software": "D. C.,  MACEDO, H. B.,  FRANÇA, H. F. C.,  MENDONCA, R. C.,  SILVA, M. D.,  Agrupador Genérico de imagens",
+                    "ano": "2023",
+                    "finalidade": "Agrupador Genérico de imagens.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023001692-6."
+                },
+                {
+                    "autor": "FRANÇA",
+                    "software": "H. F. C.,  Braganholo, Bruno M.,  Inclusão digital para jovens e adultos",
+                    "ano": "2022",
+                    "finalidade": "promover a inclusão digital da comunidade."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Walter Costa",
+                    "titulo": "M. B.,  BROUNS, R.,  DOIJAD, S.,  DUTILH, B. E.,  FRANÇA, H. F. C.,  A Feature Extraction Pipeline for Genotype-Phenotype Association in Bacteri",
+                    "ano": "2024",
+                    "instituicao_promotora": "Jena Centre for Bioinformatics and the Cluster of Excellence Balance of the Microverse."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "H. F. C.,  Aplicações e Impactos da Inteligência Artificial",
+                    "ano": "2024",
+                    "instituicao_promotora": "Universidade de Ciência e Tecnologia Joaquim Alberto Chissano."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "H. F. C.,  Braganholo, Bruno M.,  Counting fish system using artificial intelligence",
+                    "ano": "2023",
+                    "instituicao_promotora": "Magnus Group."
+                },
+                {
+                    "autores": "Costa",
+                    "titulo": "Adriano C.,  FRANÇA, H. F. C.,  Diagnóstico por imagem utilizando inteligência artificial na agropecuária",
+                    "ano": "2022",
+                    "instituicao_promotora": "ispg."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "H. F. C.,  Deep Learning aplicado em dads genômicos",
+                    "ano": "2021",
+                    "instituicao_promotora": "Big Data Brazil."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "H. F. C.,  Reconhecimento de Padrões em dados genômicos",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Estadual de Goiás."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CARMO JUNIOR",
+                    "curso": "A. B.,  FERRI, C. H.,  MARTINS FILHO, E.,  FRANÇA, H. F. C.,  CARVALHO, I. A. A.,  BARONCELLO, J. E. R.,  COSTA, R. N. S.,  CAETANO, G. H.,  Curso de Inclusão Digital para Mulheres em Situação de Vulnerabilidade Social",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "FRANÇA",
+                    "curso": "H. F. C.,  Criando Ontologias utilizando Protégé",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "FRANÇA",
+                    "curso": "H. F. C.,  Sistema de Informação",
+                    "ano": "2006"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "FRANÇA",
+                    "evento": "H. F. C.,  Walter Costa, M. B.,  MARTINS FILHO, E.,  COSTA, R. N. S.,  CALDEIRA, P.,  Conferência Internacional de Biotecnologia e Aprendizado de Máquina Aplicados à Agricultura",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "evento": "H. F. C.,  BAILAO, A. S. O.,  DOURADO, A. B.,  PIRES, W. M.,  Espaço das Profissões",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "França, Heyde Francielle do Carmo",
+                "titulo": "MARQUES, CRISTHIANE CAMPOS;  COSTA, ADRIANO FERRAZ DA;  LEAL, ACÁCIA GONÇALVES FERREIRA;  VIEIRA, VITOR FERREIRA;  SANTOS, PAULO MURILLO DOS;  TRINDADE, ISABELA ARANTES LUIZ;  SILVEIRA, BERNARDO TEIXEIRA CUNHA;  FEITOZA FILHO, FLÁVIO HENRIQUE DE ALMEIDA;  OLIVEIRA, MARCELO AUGUSTO COSTA;  Estado da arte do uso de CNNs para detecção de tuberculose em lâminas de baciloscopia: revisão sistemática da literatura",
+                "ano": "2026",
+                "periodico": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE). ISBN: 19830882   ."
+            },
+            {
+                "autores": "COSTA, ADRIANO CARVALHO",
+                "titulo": "DO CARMO LIMA, LESSANDRO;  DO CARMO FRANÇA, HEYDE FRANCIELLE;  SOUZA, ALENE SANTOS;  DE MELO, GIDÉLIA ARAÚJO FERREIRA;  VITORINO, BRENNO MULLER;  DE VASCONCELOS KRETSCHMER, VITÓRIA;  DE REZENDE, ISABEL RODRIGUES;  NETO, RAFAEL VILHENA REIS;  Machine learning in estimating the weight of Tilapia Oreochromis niloticus juveniles",
+                "ano": "2026",
+                "periodico": "AQUACULTURE. ISBN: 00448486   ."
+            },
+            {
+                "autores": "ARAÚJO, AMANDA BEATRIZ MARTINS",
+                "titulo": "COSTA, ADRIANO FERRAZ DA;  BARBOSA, DANILO PEREIRA;  França, Heyde Francielle do Carmo;  NOVAK, SERGIO SOUZA;  Avaliação comparativa de modelos YOLO para classificação e quantificação automatizadas de estágios de amadurecimento de tomates cereja",
+                "ano": "2025",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "FRANÇA, ELZI LEIDA DO CARMO",
+                "titulo": "França, Heyde Francielle do Carmo;  NOVAK, SERGIO SOUZA;  FARACHE, FERNANDO HENRIQUE ANTONIOLLI;  VASCONCELOS FILHO, SEBASTIÃO CARVALHO;  MENINO, GISELE CRISTINA DE OLIVEIRA;  RAMOS, FÁBIO MONTANHA;  COSTA, ADRIANO FERRAZ DA;  Detecção de abelhas nativas do Cerrado Brasileiro com Rede Neural Convolucional YOLOv8",
+                "ano": "2025",
+                "periodico": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE). ISBN: 19830882   ."
+            },
+            {
+                "autores": "RAMOS, FÁBIO MONTANHA",
+                "titulo": "FRANCA, HEYDE FRANCIELLE DO CARMO;  FRANÇA, ELZI LEIDA DO CARMO;  MENDONÇA, RAFAEL CARVALHO DE;  COSTA, ADRIANO FERRAZ DA;  Aplicações de Inteligência Artificial no monitoramento de abelhas: uma revisão sistemática da literatura",
+                "ano": "2025",
+                "periodico": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE). ISBN: 19830882   ."
+            },
+            {
+                "autores": "FERNANDES, MARÍLIA PARREIRA",
+                "titulo": "MEDEIROS, RAFAELLA MACHADO DOS S. DE;  BRAGANHOLO, BRUNO MORAES;  SILVA, LUCAS OLIVEIRA PEREIRA DA;  NACIFE, JEAN MARC;  PINHO COSTA, KÁTIA APARECIDA DE;  SILVA, MARCO ANTÔNIO PEREIRA DA;  OLIVEIRA, RODRIGO FORTUNATO DE;  COSTA, ADRIANO CARVALHO;  França, Heyde Francielle do Carmo;  SOUZA, ALENE SANTOS;  VIADANNA, PEDRO HENRIQUE DE OLIVEIRA;  LIMA, LESSANDRO DO CARMO;  HORN, LIEGE DAUNY;  PIEROZAN, MATHEUS BARP;  REZENDE, ISABEL RODRIGUES DE;  Convolutional Neural Networks in the Inspection of Serrasalmids (Characiformes) Fingerlings",
+                "ano": "2024",
+                "periodico": "ANIMALS. ISBN: 20762615   ."
+            },
+            {
+                "autores": "THOMAZINI, ANDRÉ",
+                "titulo": "COUTO, BRUNO DE OLIVEIRA COSTA;  BARBOSA, UENDER CARLOS;  MOURA, LUCIANA MINERVINA DE FREITAS;  CHOVERT, ANGEL DOMÍNGUEZ;  FRANCA, HEYDE FRANCIELLE DO CARMO;  NANNI, MARCOS RAFAEL;  SOUZA, LEANDRO RODRIGUES DA SILVA;  FILHO, FERNANDO RODRIGUES CABRAL;  DA COSTA, ALAN CARLOS;  TEIXEIRA, MARCONI BATISTA;  DA SILVA, ADINAN ALVES;  SALUSTIANO, SILVIA FERREIRA MARQUES;  DA SILVA, DAIANE ALVES;  PIRES, WILLIAN MARQUES;  Data set on soil physicochemical parameters, biomass accumulation and carbon credit generation in different management systems in Rio Verde, GO, Brazil",
+                "ano": "2024",
+                "periodico": "DATA IN BRIEF. ISBN: 23523409   ."
+            },
+            {
+                "autores": "DE ALMEIDA, GUILHERME PIRES SILVA",
+                "titulo": "DOS SANTOS, LEONARDO NAZÁRIO SILVA;  DA SILVA SOUZA, LEANDRO RODRIGUES;  DA COSTA GONTIJO, PABLO;  DE OLIVEIRA, RUY;  TEIXEIRA, MATHEUS CÂNDIDO;  DE OLIVEIRA, MARIO;  TEIXEIRA, MARCONI BATISTA;  DO CARMO FRANÇA, HEYDE FRANCIELLE;  Performance Analysis of YOLO and Detectron2 Models for Detecting Corn and Soybean Pests Employing Customized Dataset",
+                "ano": "2024",
+                "periodico": "Agronomy-Basel. ISBN: 20734395   ."
+            },
+            {
+                "autores": "SOUZA, ALENE SANTOS",
+                "titulo": "REZENDE, ISABEL RODRIGUES DE;  FERNANDES, MARÍLIA PARREIRA;  REIS NETO, RAFAEL VILHENA;  FREITAS, RILKE TADEU FONSECA DE;  OLIVEIRA, RODRIGO FORTUNATO DE;  VIADANNA, PEDRO HENRIQUE;  VITORINO, BRENNO MULLER;  MINAFRA, CIBELE SILVA;  COSTA, ADRIANO CARVALHO;  França, Heyde Francielle do Carmo;  NUVUNGA, JOEL JORGE;  FERREIRA DE MELO, GIDÉLIA ARAÚJO;  LIMA, LESSANDRO DO CARMO;  KRETSCHMER, VITÓRIA DE VASCONCELOS;  DE OLIVEIRA, DÉBORA ÁZARA;  HORN, LIEGE DAUNY;  Identification and Counting of Pirapitinga Piaractus brachypomus Fingerlings Fish Using Machine Learning",
+                "ano": "2024",
+                "periodico": "ANIMALS. ISBN: 20762615   ."
+            },
+            {
+                "autores": "BULCÃO-NETO, RENATO DE FREITAS",
+                "titulo": "França, Heyde Francielle do Carmo;  Reduzindo Erros Comuns em Modelos de Requisitos Baseados na Linguagem i*: Uma Abordagem Ontológica",
+                "ano": "2020",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FRANÇA, H. F. C.",
+                "titulo": "Bulcão-Neto, R",
+                "evento": "F.; Uma solução baseada em ontologia para o tratamento de erros em modelos construídos na linguagem i*. Engenharia de Requisitos (WER)",
+                "local": "Quito",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Igor Sampaio de Paulo",
+                "titulo": "Detecção e contagem automática de bacilos de tuberculose em imagens microscópicas com yolo11",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Luis Eduardo Borges de Sousa",
+                "titulo": "Avaliação de Modelos Yolo para Identificação de Espécies de Abelhas Guaxupé e Irapuã",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Guilherme Honório Caetano",
+                "titulo": "Classificação do nível de maturação e contagem de tomates com redes neurais convolucionais usando dados de colorimetria",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Luiz Sérgio Costa Guimarães",
+                "titulo": "Estudo de Caso sobre a Adequação do Site do Mercado Livre à LGPD",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Wésio Pascoal Messias Coelho",
+                "titulo": "Classificação de espécies de abelhas l utilizando redes neurais convolucionais",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Amanda Beatriz Martins Araujo",
+                "titulo": "Classificação Automática de Estágios de Maturação do Tomate Usando Redes Neurais Convolucionais YOLO",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Adelson Nascimento Lima Neto",
+                "titulo": "CLASSIFICAÇÃO DE DADOS DE COVID-19 USANDO REDE NEURAL CONVOLUCIONAL",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Lucas Oliveira Pereira da Silva",
+                "titulo": "USO DE SCRUM PARA DESENVOLVIMENTO FRONTEND DE APLICAÇÃO DE CONTAGEM DE ALEVINOS",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "BRUNO MORAES BRAGANHOLO",
+                "titulo": "USO DA REDE NEURAL YOLO PARA CONTAGEM DE ALEVINOS",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "MARCYHEL DA SILVA MENEZES",
+                "titulo": "REDES NEURAIS PROFUNDAS E ALGORITMOS GENÉTICOS: ESTUDO DE CASO: TREINAMENTO DE CARROS AUTÔNOMOS",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "DIVINO BORGES DE OLIVEIRA FILHO",
+                "titulo": "AVALIAÇÃO DE T ÉCNICAS DE APRENDIZADO DE MÁQUINA NA CLASSIFICAÇÃO DO CÂNCER",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "Isaac da Silva Cardoso",
+                "titulo": "Técnicas de otimização e métricas de avaliação aplicadas a Machine Learning",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
+            {
+                "orientando": "ESMAEL PEREIRA DA SILVA",
+                "titulo": "SISTEMA DE INFORMAÇÃO PARA GESTÃO DE VAGAS NO RAMO HOTELEIRO  VACANCY MANAGER",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Delta"
+            },
+            {
+                "orientando": "ROGÉRIO BARBOSA DOS SANTOS",
+                "titulo": "PROPOSTA DE MELHORIA DO NÍVEL DE SEGURANÇA DA INFORMAÇÃO EM UMA REDE CORPORATIVA: ESTUDO DE CASO EM UMA EMPRESA DE MÉDIO PORTE",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Delta"
+            },
+            {
+                "orientando": "ALESSANDRO ANDRADE TOLEDO",
+                "titulo": "SEGURANÇA EM REDES SEM FIO",
+                "ano": "2012",
+                "curso": "Sistema de Informação",
+                "instituicao": "FACULDADES DELTA"
+            },
+            {
+                "orientando": "Wadamon Montalvao de Souza",
+                "titulo": "Implantação de Um sistema de Atendimento a Clientes em Auto Escola - Um Estudo de Caso",
+                "ano": "2010",
+                "curso": "Administração",
+                "instituicao": "Universidade Estadual de Goiás"
+            },
+            {
+                "orientando": "Juliana de Araujo Morais",
+                "titulo": "PLANEJAMENTO ESTRATÉGICO COMO FERRAMENTA DE GESTÃO ESCOLAR E MEDIADOR DA INFORMAÇÃO NA ESCOLA AMERICANO DO BRASIL",
+                "ano": "2010",
+                "curso": "Administração",
+                "instituicao": "Universidade Estadual de Goiás"
+            },
+            {
+                "orientando": "Daniel Jalles do Nascimento Nunes",
+                "titulo": "Planejamento do Sistema de Redes e de Gestão de Infomação de um Cartório de Registros",
+                "ano": "2010",
+                "curso": "Administração",
+                "instituicao": "Universidade Estadual de Goiás"
+            },
+            {
+                "orientando": "Tânia Mara",
+                "titulo": "Doenças Físicas e Distúrbios Psicológicos decorrentes do uso excessivo do computador e da Internet",
+                "ano": "2010",
+                "curso": "Administração",
+                "instituicao": "Universidade Estadual de Goiás"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.1029260903596878,
+            "indian": 0.09081747382879257,
+            "black": 0.0054062954150140285,
+            "white": 81.13831329345703,
+            "middle eastern": 7.200158596038818,
+            "latino hispanic": 11.462377548217773
+        }
+    }
+}

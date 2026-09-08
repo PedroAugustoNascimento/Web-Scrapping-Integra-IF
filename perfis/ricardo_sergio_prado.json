@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ouro Preto",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -178,10 +179,10 @@
                 "ano": "2008"
             },
             {
-                "autores": "FERREIRA, Alexandre J.",
-                "titulo": "MARTINS FILHO, Luiz de Siqueira; DUARTE, Ricardo O",
+                "autores": "MARTINS FILHO, Luiz de Siqueira",
+                "titulo": "DUARTE, Ricardo O",
                 "evento": "; PRADO",
-                "local": "Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R. S.;PRADO, RICARDO S.;PRADO, R. S.; CASTRO, João C. V.; KNOP, Guilherme F. T.; Desenvolvimento de um dispositivo de determinação de atitude para satélites artificiais. Congresso Nacional de Engenharia Mecânica - CONEM'2008, Salvador",
+                "local": "Ricardo Sérgio;Prado, Ricardo Sérgio;Prado, R. S.;PRADO, RICARDO S.;PRADO, R. S.; CASTRO, João C. V.; FERREIRA, Alexandre J.; KNOP, Guilherme F. T.; Desenvolvimento de um dispositivo de determinação de atitude para satélites artificiais. Congresso Nacional de Engenharia Mecânica - CONEM'2008, Salvador",
                 "ano": "2008"
             },
             {
@@ -211,16 +212,16 @@
         "outras_orientacoes": []
     },
     "Cor/Raça": {
-        "raca_original": "middle eastern",
-        "raca_ibge": "Parda",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 4.693708419799805,
-            "indian": 8.004849433898926,
-            "black": 1.6780284643173218,
-            "white": 27.166915893554688,
-            "middle eastern": 30.657121658325195,
-            "latino hispanic": 27.79938316345215
+            "asian": 2.1563704013824463,
+            "indian": 5.163003921508789,
+            "black": 1.2129743099212646,
+            "white": 36.81535720825195,
+            "middle eastern": 32.504459381103516,
+            "latino hispanic": 22.147836685180664
         }
     }
 }

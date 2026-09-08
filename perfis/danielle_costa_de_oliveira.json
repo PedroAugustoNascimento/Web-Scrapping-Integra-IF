@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Formiga",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -39,14 +40,14 @@
         ],
         "atuacoes_profissionais": [
             {
-                "empresa": "Centro de Pesquisas da Petrobras",
-                "periodo": "2006 - 2007",
-                "cargo": "Pesquisadora, Bolsista."
-            },
-            {
                 "empresa": "Núcleo de Tecnologia Educacional para a Saúde",
                 "periodo": "2007 - 2007",
                 "cargo": "Analista de Sistema, Prestadora de serviço."
+            },
+            {
+                "empresa": "Centro de Pesquisas da Petrobras",
+                "periodo": "2006 - 2007",
+                "cargo": "Pesquisadora, Bolsista."
             },
             {
                 "empresa": "Núcleo de Ensino Técnico",
@@ -354,6 +355,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
+                "nome": "Análise do protocolo RPL orientada às redes IoT",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa de Oliveira",
+                    "Arthur Augusto Ferreira Pope"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
                 "nome": "Projeto de extensão: IFmais Empreendedor",
                 "periodo": "2021 - 2021",
                 "natureza": "Extensao",
@@ -362,16 +373,6 @@
                     "Gustavo Lobato Campos",
                     "Patrick Santos de Oliveira",
                     "Lélis Pedro de Andrade"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
-                "nome": "Análise do protocolo RPL orientada às redes IoT",
-                "periodo": "2021 - 2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Danielle Costa de Oliveira",
-                    "Arthur Augusto Ferreira Pope"
                 ]
             },
             {
@@ -509,8 +510,8 @@
                 "periodico": "Revista Científica Inovação e Tecnologia. ISBN: 21751846   ."
             },
             {
-                "autores": "COSTA, D.",
-                "titulo": "Luiz Fernando Rust da Costa Carmo;  PIRMEZ, Luci;  BACELLAR, L. F. H.;  Enhancing Levenshtein Distance algorithm for assessing Behavioral Trust",
+                "autores": "PIRMEZ, Luci",
+                "titulo": "COSTA, D.;  Luiz Fernando Rust da Costa Carmo;  BACELLAR, L. F. H.;  Enhancing Levenshtein Distance algorithm for assessing Behavioral Trust",
                 "ano": "2011",
                 "periodico": "COMPUTER SYSTEMS SCIENCE AND ENGINEERING. ISBN: 02676192   ."
             }
@@ -800,12 +801,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.34446537494659424,
-            "indian": 2.0780014991760254,
-            "black": 0.07403545081615448,
-            "white": 46.0097541809082,
-            "middle eastern": 23.86766242980957,
-            "latino hispanic": 27.626081466674805
+            "asian": 0.4144422709941864,
+            "indian": 2.369176149368286,
+            "black": 0.09734097123146057,
+            "white": 45.119712829589844,
+            "middle eastern": 22.030536651611328,
+            "latino hispanic": 29.968782424926758
         }
     }
 }

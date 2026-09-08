@@ -1,7 +1,16 @@
 {
     "campus": "- Campus Ouro Preto",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Civil",
+                "periodo": "2025",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "Analise do Comportamento Estrutural de Conectores de Cisalhamento em Pilares Mistos de Aço e Concreto",
+                "orientador": "Vinícius Nicchio Alves"
+            },
             {
                 "nivel": "Mestrado",
                 "curso": "Engenharia Civil",
@@ -33,11 +42,11 @@
             {
                 "empresa": "Instituto Federal Minas Gerais",
                 "periodo": "1987",
-                "cargo": "Professor EBTT."
+                "cargo": "Professor EBTT, Servidor público, Afastado/Licenciado das atividades acadêmicas e administrativas para qualificação docente (Doutorado na UFOP), conforme Portaria n 0744/IFMG, DE 19 DE FEVEREIRO DE 2026.."
             }
         ],
         "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Ouro Preto (2015 - 2019) : Diretor De Administraçao E Diretor Geral Substituto.",
-        "ensino": ": Instituto Federal Minas Gerais\nOutro (1988) .\nEnsino-medio (1987 - 1988) .",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2025) - Análise E Desenvolvimento De Sistemas.\nOutro (1988) .\nEnsino-medio (1987 - 1988) .",
         "comissoes": "",
         "projetos": []
     },
@@ -91,12 +100,12 @@
         "raca_ibge": "Parda",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 1.8284900188446045,
-            "indian": 18.87154197692871,
-            "black": 3.105924367904663,
-            "white": 11.909680366516113,
-            "middle eastern": 39.6875114440918,
-            "latino hispanic": 24.596851348876953
+            "asian": 1.364270567893982,
+            "indian": 16.28531837463379,
+            "black": 2.2509164810180664,
+            "white": 11.829529762268066,
+            "middle eastern": 43.452003479003906,
+            "latino hispanic": 24.817964553833008
         }
     }
 }

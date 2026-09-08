@@ -1,0 +1,346 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Mecânica",
+                "periodo": "2019 - 2026",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Neural Sensing of Powder Mass Flow in Laser Cladding: In situ estimation and drift-robust monitoring for DED/EHLA",
+                "orientador": "Henrique Simas"
+            },
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em mecatrônica",
+                "periodo": "2010 - 2013",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "titulo": "PROPOSTA DE UM SISTEMA DE BAIXO CUSTO PARA O CONTROLE DE MOVIMENTOS EM ESTRUTURAS MULTIEIXOS",
+                "orientador": "Nelso Gauze Bonacorso"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "de controle e automação",
+                "periodo": "2001 - 2006",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Whirlpool S/A - Unidade Embraco",
+                "periodo": "2007 - 2010",
+                "cargo": "Especialista de processos, Celetista formal, Principais Tarefas: - Implantação de novos processos/produtos. - Projetista no sistema CAD Pro/ENGINEER. - Melhoria contínua de máquinas. - Programador de CLP (Controlador lógico programável). - Gerenciamento de roteiros de fabricação e procedimentos operacionais padrão. - Sintonia fina de controladores PID. - Desenvolvimento de soluções de software/hardware para automação industrial.."
+            },
+            {
+                "empresa": "Whirlpool S/A - Unidade Embraco",
+                "periodo": "2006 - 2007",
+                "cargo": "Estagiário de engenharia, Estagiário, Principais tarefas: - Implantação de manufatura enxuta ou ?Sistema Toyota de produção? com uso da ferramenta ?Kaizen? em um setor de estamparia. - Mapeamento de fluxo de valor da Área. - Participação de 7 Kaizens. - Desenvolvimento de setup rápido de ferramentas. - Implantação de sistema puxados de produção. -Desenvolvimento de Fluxo contínuo.."
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "periodo": "2004 - 2006",
+                "cargo": "Bolsista do Curso de Eng. de Automação, Estagiário, Principais tarefas: -Desenvolvimento de injeção eletrônica para motores de baixa cilindrada. - Desenvolvimento de sistema embarcado de aquisição de sinais para sistemas de injeção eletrônica. - Pesquisa de aspectos construtivos de motores à combustão interna. - Determinação de modelo matemático do motor baseado em redes neurais. - Desenvolvimento de um ambiente de calibração e um sistema de gerenciamento eletrônico para motores mono-cilindro de pequeno porte - Criar uma plataforma de testes para estudo e desenvolvimento de soluções que permitam reduzir os níveis de emissão de poluentes gasosos emitidos por motores de pequeno porte (inferior a 20kW).."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2016",
+                "cargo": ", Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2009 - 2016",
+                "cargo": "Engenheiro de automação."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "MODELAGEM E CONTROLE DE DEPOSIÇÃO METÁLICA A LASER ATRAVÉS DE APRENDIZADO DE MÁQUINA INFORMADO PELA FÍSICA",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Henrique Simas",
+                    "Milton Pereira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Construção e avaliação de máquinas reconfiguráveis construídas a partir de módulos de movimentação linear de baixo custo",
+                "periodo": "2017 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Aurélio da Costa Sabino Netto",
+                    "Felicio gesser"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de módulo de movimentação linear reconfigurável de baixo custo",
+                "periodo": "2017 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Aurélio da Costa Sabino Netto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Avaliação de peças fabricadas por moldagem de pós por injeção em molde instrumentado",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Aurélio da Costa Sabino Netto",
+                    "Diovani Castoldi Lencina",
+                    "Henrique Cezar Pavanati"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Módulo de extrusão instrumentado para impressoras 3D",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Aurélio da Costa Sabino Netto",
+                    "Leonardo Santana",
+                    "Igor Pereira",
+                    "Guilherme Bueno"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Células flexíveis de manufatura como fator de motivação no curso de engenharia",
+                "periodo": "2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "francisco mota"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Fabricação rápida de componentes por impressão 3D",
+                "periodo": "2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "DA COSTA SABINO NETTO",
+                    "AURÉLIO"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Estudo comparativo de impressoras 3D com diferentes cadeias cinemáticas",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Aurélio da Costa Sabino Netto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Integração das tecnologias de manufatura aditiva e fundição na obtenção de peças metálicas",
+                "periodo": "2015 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Cassiano Bonin",
+                    "Pedro Henrique Godoi"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "BONIN",
+                    "software": "C., NETTO, A. C. S., SANTANA, L., Módulo de avaliação de escorregamento",
+                    "ano": "2015",
+                    "finalidade": "Monitorar escorregamento de filamento em impressoras 3D."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BONIN",
+                    "titulo": "C.,  BONACORSO, N. G.,  Proposta de um Sistema de Baixo Custo para o Controle de Movimentos em Estruturas Multieixos de Manipuladores de Soldagem",
+                    "ano": "2013",
+                    "instituicao_promotora": "ABS."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BONIN, CASSIANO",
+                "titulo": "SIMAS, HENRIQUE;  PEREIRA, MILTON;  DAL MAGO, ARTHUR LOPES;  CHAGAS, PEDRO SOETHE;  Leveraging machine learning for predicting and monitoring clogging in laser cladding processes: An exploration of neural sensors",
+                "ano": "2023",
+                "periodico": "JOURNAL OF LASER APPLICATIONS. ISBN: 1042346X   ."
+            },
+            {
+                "autores": "BONACORSO, NELSO GAUZE",
+                "titulo": "HUBERT, IVAN LUIZ;  MACHADO, ADRIANO ALBINO;  PIRES, RAFAEL PEREIRA;  BONIN, CASSIANO;  TEICHMANN, ERWIN WERNER;  Técnica da Oscilação Longitudinal da Tocha para o Incremento da Produção na Soldagem em Ângulo entre Chapas de Espessuras Dissimilares",
+                "ano": "2017",
+                "periodico": "Soldagem & Inspecao. ISBN: 01049224   ."
+            },
+            {
+                "autores": "SANTANA, LEONARDO",
+                "titulo": "AHRENS, CARLOS HENRIQUE;  DA COSTA SABINO NETTO, AURÉLIO;  BONIN, CASSIANO;  Evaluating the deposition quality of parts produced by an open-source 3D printer",
+                "ano": "2017",
+                "periodico": "RAPID PROTOTYPING JOURNAL. ISBN: 13552546   ."
+            },
+            {
+                "autores": "SCHMITT, B. M.",
+                "titulo": "ZIRBES, C. F.;  BONIN, C.;  LOHMANN, D.;  LENCINA, D. C.;  SABINO NETTO, A. C.;  A Comparative Study of Cartesian and Delta 3D Printers on Producing PLA Parts",
+                "ano": "2017",
+                "periodico": "Materials Research-Ibero-american Journal of Materials. ISBN: 15161439   ."
+            },
+            {
+                "autores": "Santana, L.",
+                "titulo": "BONIN, C.;  AHRENS, Carlos Henrique;  SABINO NETTO, A. C.;  Evaluating the deposition quality of parts produced by an open-source 3D printer",
+                "ano": "2017",
+                "periodico": "RAPID PROTOTYPING JOURNAL. ISBN: 13552546   ."
+            },
+            {
+                "autores": "SCHMITT, B. M.",
+                "titulo": "ZIRBES, C. F.;  BONIN, C.;  LOHMANN, D.;  LENCINA, D. C.;  SABINO NETTO, A. C.;  A Comparative Study of Cartesian and Delta 3D Printers on Producing PLA Parts",
+                "ano": "2017",
+                "periodico": "Materials Research-Ibero-american Journal of Materials. ISBN: 15161439   ."
+            },
+            {
+                "autores": "Santana, L.",
+                "titulo": "BONIN, C.;  AHRENS, Carlos Henrique;  SABINO NETTO, A. C.;  Evaluating the deposition quality of parts produced by an open-source 3D printer",
+                "ano": "2017",
+                "periodico": "RAPID PROTOTYPING JOURNAL. ISBN: 13552546   ."
+            },
+            {
+                "autores": "BONACORSO, NELSO GAUZE",
+                "titulo": "MACHADO, ADRIANO ALBINO;  PIRES, R. P.;  HUBERT, IVAN LUIZ;  BONIN, C.;  TEICHMANN, ERWIN WERNER;  Técnica da Oscilação Longitudinal da Tocha para o Incremento da Produção na Soldagem em Ângulo entre Chapas de Espessuras Dissimilares",
+                "ano": "2017",
+                "periodico": "Soldagem & Inspecao. ISBN: 01049224   ."
+            },
+            {
+                "autores": "SCHMITT, B. M.",
+                "titulo": "ZIRBES, C. F.;  BONIN, C.;  LOHMANN, D.;  LENCINA, D. C.;  SABINO NETTO, A. C.;  A Comparative Study of Cartesian and Delta 3D Printers on Producing PLA Parts",
+                "ano": "2017",
+                "periodico": "Materials Research-Ibero-american Journal of Materials. ISBN: 15161439   ."
+            },
+            {
+                "autores": "BONACORSO, N. G.",
+                "titulo": "BONIN, C.;  READEQUAÇÃO TECNOLÓGICA DE PLOTTER PARA PROTOTIPAGEM DE PLACAS DE CIRCUITO IMPRESSO",
+                "ano": "2013",
+                "periodico": "Revista Ilha Digital. ISBN: 21772649   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DUTRA, C. B. S.",
+                "titulo": "BONIN, C",
+                "evento": "; CLAUDINO",
+                "local": "T. K.; FERRIGOLLO, C.; DISPOSITIVO DIDÁTICO DE BAIXO CUSTO PARA CONTROLE DE VELOCIDADE DE MOTOR CC BASEADO EM PLATAFORMA ARDUÍNO. XLIV Congresso Brasileiro de Educação em Engenharia (COBENGE), Fortaleza",
+                "ano": "2016"
+            },
+            {
+                "autores": "DEC, M.",
+                "titulo": "BONIN, C",
+                "evento": "; NETTO",
+                "local": "A. C. S.; SANTANA, L.; Avaliação geométrica de impressora 3D utilizando medição por coordenadas e escaneamento de peça padrão. IX Congresso Nacional de Engenharia Mecânica - CONEM 2016, Fortaleza",
+                "ano": "2016"
+            },
+            {
+                "autores": "PEREIRA, I.",
+                "titulo": "SILVEIRA, G",
+                "evento": "B; SANTANA",
+                "local": "L.; BONIN, C.; NETTO, A. C. S.; Sistema de monitoramento de cabeçote extrusor para manufatura aditiva. IX Congresso Nacional de Engenharia Mecânica - CONEM 2016, Fortaleza",
+                "ano": "2016"
+            },
+            {
+                "autores": "NETTO, A. C. S.",
+                "titulo": "BONIN, C",
+                "evento": "; PEREIRA",
+                "local": "I.; SANTANA, L.; Módulo de extrusão instrumentado para impressoras 3D. Seminário de Ensino, Pesquisa, Extensão e Inovação do Instituto Federal de Santa Catarina - SEPEI 2016, Criciuma",
+                "ano": "2016"
+            },
+            {
+                "autores": "GODOI, P. H.",
+                "titulo": "NETTO, A",
+                "evento": "C. S.; BONIN",
+                "local": "C.; Avaliação da tecnologia de manufatura aditiva na obtenção de protótipos em alumínio fundido. Seminário de Ensino, Pesquisa, Extensão e Inovação do Instituto Federal de Santa Catarina - SEPEI 2016, Criciuma",
+                "ano": "2016"
+            },
+            {
+                "autores": "BONACORSO, N. G.",
+                "titulo": "HUBERT, I",
+                "evento": "L; PIRES",
+                "local": "R. P; CUNHA, V. P.; BONIN, C.; Manipulador Cartesiano de Cadeia Cinemática Mista ? Desenvolvimento Mecânico para a Execução de Movimentos de Oscilação da Tocha na Soldagem a Arco Elétrico. I CONGRESSO PAN-AMERICANO DE SOLDAGEM & XL CONSOLDA ? CONGRESSO NACIONAL DE SOLDAGEM, São Paulo",
+                "ano": "2014"
+            },
+            {
+                "autores": "PIRES, R. P",
+                "titulo": "HUBERT, I",
+                "evento": "L; BONACORSO",
+                "local": "N. G.; BONIN, C.; Manipulador Cartesiano de Cadeia Cinemática Mista ? Desenvolvimento Eletroeletrônico e Computacional para a Geração, Execução e Correção de Trajetórias de Soldagem. I CONGRESSO PAN-AMERICANO DE SOLDAGEM & XL CONGRESSO NACIONAL DE SOLDAGEM, São Paulo",
+                "ano": "2014"
+            },
+            {
+                "autores": "BONACORSO, N. G.",
+                "titulo": "BONIN, C",
+                "evento": "; Proposta de um Sistema de Baixo Custo para o Controle de Movimentos em Estruturas Multieixos de Manipuladores de Soldagem. XXXIX CONSOLDA - Congresso Nacional de Soldagem",
+                "local": "2013, Curitiba - PR. XXXIX CONSOLDA, Curitiba",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Bruno Duarte Ramos",
+                "titulo": "RECONHECIMENTO DE ANOMALIAS EM PEÇAS INJETADAS ATRAVÉS DO USO DE REDES NEURAIS CONVOLUCIONAIS",
+                "ano": "2019",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "VICTÓRIA ZANETTI MARÇAL GALLO",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA DE RECONHECIMENTO DE CARACTERES PARA CALIBRAÇÃO DE TRENAS A LASER",
+                "ano": "2019",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "VINICIUS GHELLERE SBARDELOTTO",
+                "titulo": "PROJETO, FABRICAÇÃO E INTEGRAÇÃO DE EIXO ROTATIVO EM FRESADORA CNC CONTROLADA PELO LINUXCNC",
+                "ano": "2017",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.06622518599033356,
+            "indian": 0.31224310398101807,
+            "black": 0.02721397392451763,
+            "white": 82.2256088256836,
+            "middle eastern": 12.074980735778809,
+            "latino hispanic": 5.293726921081543
+        }
+    }
+}

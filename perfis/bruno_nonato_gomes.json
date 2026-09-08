@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Sabará",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -112,8 +113,8 @@
                 "periodo": "2013 - 2015",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Rodrigo Ferreira de Brito",
-                    "Bruno Nonato Gomes"
+                    "Bruno Nonato Gomes",
+                    "Rodrigo Ferreira de Brito"
                 ],
                 "financiador": "Instituto Federal de Minas Gerais,"
             },
@@ -173,8 +174,8 @@
                 "periodo": "2015 - 2016",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Bruno Nonato Gomes",
                     "Carlos Alexandre Silva",
+                    "Bruno Nonato Gomes",
                     "Renato Miranda"
                 ]
             },
@@ -213,18 +214,18 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Utilizando a robótica como ferramenta de ensino",
+                "nome": "Robótica com LEGO",
                 "periodo": "2017",
-                "natureza": "Ensino",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Bruno Nonato Gomes"
                 ]
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Robótica com LEGO",
+                "nome": "Utilizando a robótica como ferramenta de ensino",
                 "periodo": "2017",
-                "natureza": "Pesquisa",
+                "natureza": "Ensino",
                 "equipe": [
                     "Bruno Nonato Gomes"
                 ]
@@ -235,11 +236,11 @@
                 "periodo": "2019 - 2020",
                 "natureza": "Extensao",
                 "equipe": [
+                    "Daniel Neves Rocha",
                     "Bruno Nonato Gomes",
                     "Cristiane Norbiato Targa",
                     "Carlos Alexandre Silva",
-                    "Kênia Caroline Gonçalves",
-                    "Daniel Neves Rocha"
+                    "Kênia Caroline Gonçalves"
                 ]
             },
             {
@@ -511,8 +512,8 @@
                 "periodo": "2018 - 2020",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Kênia Carolina Gonçalves",
                     "Bruno Nonato Gomes",
+                    "Kênia Carolina Gonçalves",
                     "Carlos Alexandre Silva",
                     "Daniel Neves Rocha"
                 ]
@@ -614,8 +615,8 @@
                 "periodico": "IEEE Communications Letters (Print). ISBN: 10897798   ."
             },
             {
-                "autores": "CARVALHO, R.",
-                "titulo": "SALDANHA, R. R.;  Gomes, B. N.;  LISBOA, A. C.;  MARTINS, A. X.;  A Multi-Objective Evolutionary Algorithm Based on Decomposition for Optimal Design of Yagi-Uda Antennas",
+                "autores": "Gomes, B. N.",
+                "titulo": "CARVALHO, R.;  SALDANHA, R. R.;  LISBOA, A. C.;  MARTINS, A. X.;  A Multi-Objective Evolutionary Algorithm Based on Decomposition for Optimal Design of Yagi-Uda Antennas",
                 "ano": "2012",
                 "periodico": "IEEE Transactions on Magnetics. ISBN: 00189464   ."
             }
@@ -870,12 +871,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.5696943402290344,
-            "indian": 0.6806424856185913,
-            "black": 0.05569763109087944,
-            "white": 64.5302734375,
-            "middle eastern": 15.961456298828125,
-            "latino hispanic": 18.202234268188477
+            "asian": 0.41309669613838196,
+            "indian": 0.6992040276527405,
+            "black": 0.052833378314971924,
+            "white": 63.043819427490234,
+            "middle eastern": 18.111047744750977,
+            "latino hispanic": 17.679994583129883
         }
     }
 }

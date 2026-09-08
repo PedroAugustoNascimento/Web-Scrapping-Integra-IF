@@ -1,0 +1,122 @@
+{
+    "campus": "- Campus Natal - Zona Norte",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "INFORMÁTICA",
+                "periodo": "2018",
+                "instituicao": "Universidade Federal da Paraíba",
+                "orientador": "Rostand Edson Oliveira Costa"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Sistemas e Computação",
+                "periodo": "2012 - 2013",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "orientador": "Anny Magaly de Paula Canuto"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Computação",
+                "periodo": "2002 - 2006",
+                "instituicao": "Liga de Ensino do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2011",
+                "cargo": "Professor Efetivo, Disciplinas Lecionadas: - 2011.2: Redes de Computadores e Suas Aplicações (Redes + Sistemas Operacionais de Redes) - 2012.1: Redes de Computadores e Suas Aplicações (Redes + Sistemas Operacionais de Redes); Sistemas Operacionais de Rede; Infra-Estrutura de Redes de Computadores - 2012.2: Redes de Computadores e Suas Aplicações (Redes + Sistemas Operacionais de Redes); Sistemas Operacionais de Rede; Infra-Estrutura de Redes de Computadores - 2013.1: Redes de Computadores e Suas Aplicações (Redes + Sistemas Operacionais de Redes); Sistemas Operacionais de Rede. - 2013.2: Redes de Computadores e Suas Aplicações (Redes + Sistemas Operacionais de Redes); Sistemas Operacionais de Rede.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2009 - 2011",
+                "cargo": "Professor Substituto, Disciplinas Lecionadas: Informática Básica, Algorítimos, Programação Orientada a Objetos, Sistemas Operacionais de Rede."
+            },
+            {
+                "empresa": "Aliança Consultoria & Treinamento em Tecnologia da Informação Ltda",
+                "periodo": "2006 - 2006",
+                "cargo": "Analista de Suporte Técnico, Funcionário."
+            },
+            {
+                "empresa": "Brambilla Tecnologia da Informação Ltda.",
+                "periodo": "2007 - 2009",
+                "cargo": "Analista de Suporte Técnico, Funcionário."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Capacitação e desenvolvimento de material didático de segurança da informação e proteção de sistemas computacionais, voltados para comunidade no entorno do IFRN Campus Natal ? Zona Norte",
+                "periodo": "2014 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodolfo da Silva Costa"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SANTOS",
+                    "software": "A. F. C. B.,  SOUZA, A. M. A.,  SOUZA, B. V. G.,  LIMA, R. R. C.,  COSTA, Rodolfo da Silva,  LabStocker - Sistema em Nuvem para Gerenciamento de Reagentes Químicos.",
+                    "ano": "2016",
+                    "finalidade": "Controle de reagentes em laboratórios de química.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512016000345-6."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "COSTA",
+                    "curso": "Rodolfo da Silva,  Configuração de Roteadores Wireless em Redes Doméstivas",
+                    "ano": "2010"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "COSTA, Rodolfo da Silva",
+                "titulo": "COSTA, R",
+                "evento": "; Um Estudo Sobre o Misterioso e Arriscado Mundo dos Misturadores de Criptomoedas. II Workshop Blockchain: Teoria",
+                "local": "Tecnologias e Aplicações, Gramado",
+                "ano": "2019"
+            },
+            {
+                "autores": "COSTA, Rodolfo da Silva",
+                "titulo": "PINHEIRO, Joseane Alves; UM INTERPRETADOR PARA A LINGUAGEM EDUCACIONAL LOGO EM AMBIENTE LINUX",
+                "evento": "V Congresso de Iniciação Científica da FARN",
+                "local": "Natal",
+                "ano": "2005"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 21.35736083984375,
+            "indian": 16.763200759887695,
+            "black": 12.126520156860352,
+            "white": 10.754971504211426,
+            "middle eastern": 8.850196838378906,
+            "latino hispanic": 30.147743225097656
+        }
+    }
+}

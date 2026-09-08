@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Betim",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -66,6 +67,17 @@
         "projetos": [
             {
                 "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "Um Sistema para o Sensoriamento e Rastreamento Ambiental Utilizando Redes de Sensores Sem Fio",
+                "periodo": "2005 - 2007",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Linnyer Beatrys Ruiz"
+                ],
+                "financiador": "Universidade Federal de Minas Gerais,"
+            },
+            {
+                "instituicao": "Universidade Federal de Minas Gerais",
                 "nome": "Desenvolvimento de um Sistema de Localização e Reconstrução de Trajetória para Veículos Terrestres",
                 "periodo": "2007 - 2009",
                 "natureza": "Pesquisa",
@@ -77,15 +89,15 @@
                 "financiador": ","
             },
             {
-                "instituicao": "Universidade Federal de Minas Gerais",
-                "nome": "Um Sistema para o Sensoriamento e Rastreamento Ambiental Utilizando Redes de Sensores Sem Fio",
-                "periodo": "2005 - 2007",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Automação de Uma Planta Didática de Controle de Nível e Temperatura: Controle Discreto e Supervisão",
+                "periodo": "2013 - 2014",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Michelle Mendes Santos",
-                    "Linnyer Beatrys Ruiz"
+                    "Rayane Aparecida Guimarães"
                 ],
-                "financiador": "Universidade Federal de Minas Gerais,"
+                "financiador": "Instituto Federal Minas Gerais,"
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
@@ -129,15 +141,6 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "SocioPrinter: Uma impressora braile de baixo custo",
-                "periodo": "2017 - 2018",
-                "natureza": "Outra",
-                "equipe": [
-                    "Michelle Mendes Santos"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
                 "nome": "Desenvolvimento de Protótipos de Sensores Autônomos para Automação Residencial",
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
@@ -149,7 +152,16 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Construção e modelagem matemática de uma planta didática de testes em drones para estudos em engenharia de controle",
+                "nome": "SocioPrinter: Uma impressora braile de baixo custo",
+                "periodo": "2017 - 2018",
+                "natureza": "Outra",
+                "equipe": [
+                    "Michelle Mendes Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
                 "periodo": "2019 - 2020",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -159,7 +171,7 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
+                "nome": "Construção e modelagem matemática de uma planta didática de testes em drones para estudos em engenharia de controle",
                 "periodo": "2019 - 2020",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -271,17 +283,6 @@
                     "Michelle Mendes Santos",
                     "Reginaldo Wagner Ferreira"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Automação de Uma Planta Didática de Controle de Nível e Temperatura: Controle Discreto e Supervisão",
-                "periodo": "2013 - 2014",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Michelle Mendes Santos",
-                    "Rayane Aparecida Guimarães"
-                ],
-                "financiador": "Instituto Federal Minas Gerais,"
             }
         ]
     },
@@ -492,6 +493,13 @@
                 "instituicao": "Instituto Federal Minas Gerais"
             },
             {
+                "orientando": "JENNIFER HELOISA DAMASCENO DIAS",
+                "titulo": "DESENVOLVIMENTO DE UM KIT DIDÁTICO DE ROBÓTICA EDUCACIONAL INFANTIL DE BAIXO CUSTO BASEADO EM PLATAFORMA ARDUINO",
+                "ano": "2026",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
                 "orientando": "Emily Kerolayne Miranda Ferreira",
                 "titulo": "PROJETO E IMPLEMENTAÇÃO DE UM MÓDULO DIDÁTICO PARA TREINAMENTO EM PROGRAMAÇÃO DE CLP",
                 "ano": "2025",
@@ -513,6 +521,13 @@
                 "instituicao": "Instituto Federal Minas Gerais"
             },
             {
+                "orientando": "JOÃO PEDRO TABELINI DOMINGUES",
+                "titulo": "IMPLANTAÇÃO DE UMA MÁQUINA DE APARAFUSAMENTO AUTOMÁTICA EM LINHA DE PRODUÇÃO DE MEDIDORES DE ENERGIA",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
                 "orientando": "Jennifer Heloisa Damasceno Dias",
                 "titulo": "Preparação de Estudantes Para as Modalidades Teórica e Prática da Olimpíada Brasileira de Robótica",
                 "ano": "2020",
@@ -522,13 +537,6 @@
             {
                 "orientando": "Anderson Alfredo Pinto Coelho",
                 "titulo": "Projeto Inclusão Digital: Ensino de Informática para Jovens e Adultos e Introdução à Programação de Computadores",
-                "ano": "2020",
-                "curso": "Engenharia de Controle e Automação",
-                "instituicao": "Instituto Federal Minas Gerais"
-            },
-            {
-                "orientando": "JOÃO PEDRO TABELINI DOMINGUES",
-                "titulo": "IMPLANTAÇÃO DE UMA MÁQUINA DE APARAFUSAMENTO AUTOMÁTICA EM LINHA DE PRODUÇÃO DE MEDIDORES DE ENERGIA",
                 "ano": "2020",
                 "curso": "Engenharia de Controle e Automação",
                 "instituicao": "Instituto Federal Minas Gerais"
@@ -694,12 +702,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.41434556245803833,
-            "indian": 0.8271320462226868,
-            "black": 0.15870776772499084,
-            "white": 64.1056137084961,
-            "middle eastern": 13.118317604064941,
-            "latino hispanic": 21.375883102416992
+            "asian": 0.15278442203998566,
+            "indian": 0.32926705479621887,
+            "black": 0.04536304250359535,
+            "white": 74.63981628417969,
+            "middle eastern": 8.889071464538574,
+            "latino hispanic": 15.943702697753906
         }
     }
 }

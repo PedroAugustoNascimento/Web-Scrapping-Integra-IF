@@ -1,0 +1,100 @@
+{
+    "campus": "- Campus Jucurutu",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "RESIDÊNCIA EM TECNOLOGIA DA INFORMAÇÃO",
+                "periodo": "2018 - 2020",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "orientador": "FREDERICO ARAUJO DA SILVA LOPES"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "DOCÊNCIA E GESTÃO DO ENSINO SUPERIOR",
+                "periodo": "2017 - 2018",
+                "instituicao": "Faculdade Estácio do Rio Grande do Norte",
+                "orientador": "Erika Conceição Gelenske Cunha"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2010 - 2014",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "periodo": "2014 - 2017",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "2014",
+                "cargo": "."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Gamedu",
+                "periodo": "2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Ítalo Berg Marques Souza dos Reis",
+                    "Felipe Araújo Aleixo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SmartPill: ajuda inteligente para gerenciar meus medicamentos",
+                "periodo": "2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Ítalo Berg Marques Souza dos Reis",
+                    "Leonardo Ataide Minora",
+                    "Leo Moreira Silva",
+                    "Décio Casagrande Ramuski Filho",
+                    "Dennis da Silva Nunes",
+                    "Julian Ignacio Sansat",
+                    "Thiago Freitas de Almeida"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "black",
+        "raca_ibge": "Preta",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 4.018471717834473,
+            "indian": 16.625192642211914,
+            "black": 65.0626449584961,
+            "white": 1.416420340538025,
+            "middle eastern": 1.5855679512023926,
+            "latino hispanic": 11.291704177856445
+        }
+    }
+}

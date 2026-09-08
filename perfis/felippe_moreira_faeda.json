@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Avançado Ponte Nova",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -100,6 +101,15 @@
             },
             {
                 "instituicao": "IFMG Campus Avançado Ponte Nova",
+                "nome": "Projeto preparatório para participação da Olimpíada Brasileira de Informática (OBI) edição 2020",
+                "periodo": "2020 - 2020",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Felippe Moreira Faêda"
+                ]
+            },
+            {
+                "instituicao": "IFMG Campus Avançado Ponte Nova",
                 "nome": "Tornozeleira Sensorial Inteligente: Independência e Autonomia às Pessoas com Deficiência Visual",
                 "periodo": "2020 - 2020",
                 "natureza": "Pesquisa",
@@ -110,15 +120,6 @@
                     "Ana Maria Bastos Firmino",
                     "Luciano Vilas Boas Esperidião",
                     "João Coelho de Alvarenga E Melo"
-                ]
-            },
-            {
-                "instituicao": "IFMG Campus Avançado Ponte Nova",
-                "nome": "Projeto preparatório para participação da Olimpíada Brasileira de Informática (OBI) edição 2020",
-                "periodo": "2020 - 2020",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Felippe Moreira Faêda"
                 ]
             },
             {
@@ -203,10 +204,10 @@
                 "ano": "2022"
             },
             {
-                "autores": "FAÊDA, F. M.",
-                "titulo": "FAÊDA, FELIPPE MOREIRA; ARROYO, J",
-                "evento": "E. C.; SANTOS",
-                "local": "A. G.; MONACI, M.; Heuristic Algorithms for Unrelated Parallel Machine Scheduling with Precedence Constraints and Sequence-Dependent Setup Times. Metaheuristics International Conference, Agadir",
+                "autores": "SANTOS, A. G.",
+                "titulo": "FAÊDA, F",
+                "evento": "M.;FAÊDA",
+                "local": "FELIPPE MOREIRA; ARROYO, J. E. C.; MONACI, M.; Heuristic Algorithms for Unrelated Parallel Machine Scheduling with Precedence Constraints and Sequence-Dependent Setup Times. Metaheuristics International Conference, Agadir",
                 "ano": "2015"
             },
             {
@@ -241,12 +242,12 @@
         "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 0.00201750872656703,
-            "indian": 0.08245518803596497,
-            "black": 0.002479635877534747,
-            "white": 84.69124603271484,
-            "middle eastern": 11.27426815032959,
-            "latino hispanic": 3.9475395679473877
+            "asian": 0.0002622799947857857,
+            "indian": 0.009546803310513496,
+            "black": 4.683680890593678e-05,
+            "white": 92.60355377197266,
+            "middle eastern": 6.2235941886901855,
+            "latino hispanic": 1.162994384765625
         }
     }
 }

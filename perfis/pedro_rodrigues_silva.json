@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Ribeirão das Neves",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -103,7 +104,7 @@
                 },
                 {
                     "autores": "DAVIS JUNIOR",
-                    "titulo": "C. A.,  OLIVEIRA, M. R.,  PASA, G. D.,  SILVA, M. C.,  SILVA, P. R.,  VITORIANO, M. M. F.,  ASSIS JUNIOR, M. L.,  COELHO, O. M. A.,  COSTA, T. S.,  FARIA, J. N. C.,  FONSECA, P. S.,  LEITE, D. V. M.,  MARRA, R. F.,  MIRANDA, G. M. T.,  PMG 085 - Monitoria do Departamento de Ciência da Computação",
+                    "titulo": "C. A.,  PASA, G. D.,  OLIVEIRA, M. R.,  SILVA, M. C.,  SILVA, P. R.,  VITORIANO, M. M. F.,  ASSIS JUNIOR, M. L.,  COELHO, O. M. A.,  COSTA, T. S.,  FARIA, J. N. C.,  FONSECA, P. S.,  LEITE, D. V. M.,  MARRA, R. F.,  MIRANDA, G. M. T.,  PMG 085 - Monitoria do Departamento de Ciência da Computação",
                     "ano": "2012",
                     "instituicao_promotora": "UNIVERSIDADE FEDERAL DE MINAS GERAIS."
                 }
@@ -178,16 +179,16 @@
         "outras_orientacoes": []
     },
     "Cor/Raça": {
-        "raca_original": "latino hispanic",
-        "raca_ibge": "Parda",
+        "raca_original": "white",
+        "raca_ibge": "Branca",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 7.696500301361084,
-            "indian": 8.238241195678711,
-            "black": 1.8961822986602783,
-            "white": 27.134239196777344,
-            "middle eastern": 24.69011688232422,
-            "latino hispanic": 30.34471893310547
+            "asian": 0.9160736203193665,
+            "indian": 1.975111961364746,
+            "black": 0.2770831286907196,
+            "white": 53.08225631713867,
+            "middle eastern": 22.575786590576172,
+            "latino hispanic": 21.17369270324707
         }
     }
 }

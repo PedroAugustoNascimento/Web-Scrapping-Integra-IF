@@ -1,5 +1,6 @@
 {
     "campus": "- Campus Avançado Ponte Nova",
+    "instituto": "IFMG",
     "dados_gerais": {
         "formacao": [
             {
@@ -102,9 +103,9 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "Entendendo a Desordem Informacional",
+                "nome": "A informação que desinforma: Ciências e diálogos em contextos de desordem informacional.",
                 "periodo": "2020 - 2020",
-                "natureza": "Ensino",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Edson Batista de Sena",
                     "José Costa Júnior"
@@ -112,9 +113,9 @@
             },
             {
                 "instituicao": "Instituto Federal Minas Gerais",
-                "nome": "A informação que desinforma: Ciências e diálogos em contextos de desordem informacional.",
+                "nome": "Entendendo a Desordem Informacional",
                 "periodo": "2020 - 2020",
-                "natureza": "Pesquisa",
+                "natureza": "Ensino",
                 "equipe": [
                     "Edson Batista de Sena",
                     "José Costa Júnior"
@@ -475,12 +476,12 @@
         "raca_ibge": "Preta",
         "confiança": 1.0,
         "probabilidades_originais": {
-            "asian": 1.1229438781738281,
-            "indian": 1.473337173461914,
-            "black": 96.24909210205078,
-            "white": 0.057485420256853104,
-            "middle eastern": 0.03881368786096573,
-            "latino hispanic": 1.058327078819275
+            "asian": 0.3670727610588074,
+            "indian": 0.4246687889099121,
+            "black": 98.54218292236328,
+            "white": 0.06675393134355545,
+            "middle eastern": 0.027950555086135864,
+            "latino hispanic": 0.5713789463043213
         }
     }
 }

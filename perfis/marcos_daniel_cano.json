@@ -1,0 +1,390 @@
+{
+    "campus": "- Campus Presidente Figueiredo",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2021",
+                "instituicao": "Universidade Federal do ABC",
+                "titulo": "Mineração de Dados Educacionais",
+                "orientador": "Edson Pinheiro Pimentel"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "periodo": "2010 - 2012",
+                "instituicao": "Universidade Federal de São Carlos",
+                "titulo": "Mineração de Regras de Associação Sequenciais em Séries Temporais e Visualização: Aplicação em Dados Agrometeorológicos",
+                "orientador": "Marcela Xavier Ribeiro"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Administração em Banco de Dados",
+                "periodo": "2009 - 2010",
+                "instituicao": "Instituto Brasileiro de Tecnologia Avançada",
+                "orientador": "Milton Goia"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Mídias na Educação",
+                "periodo": "2018 - 2019",
+                "instituicao": "Universidade Federal do Amazonas",
+                "orientador": "Dra"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Formação Pedagógica para a Docência na Educação Profissional e Tecnológica",
+                "periodo": "2016 - 2018",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "orientador": "Dr"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão Pública",
+                "periodo": "2021 - 2022",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "orientador": "Dra Dilene Zaparoli"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2005 - 2008",
+                "instituicao": "Centro Universitário Fundação Santo André"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Administração Pública",
+                "periodo": "2017 - 2021",
+                "instituicao": "Universidade Federal do Amazonas"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Wunderman Brasil Comunicações",
+                "periodo": "2005 - 2009",
+                "cargo": "Analista de Banco de Dados, Analista de Banco de Dados Oracle, SQL Server e MySQL. Database Marketing, Data Mining, Business Intelligence.."
+            },
+            {
+                "empresa": "America Online Brasil",
+                "periodo": "2000 - 2005",
+                "cargo": "Analista de Suporte, Suporte Técnico em Redes, Internet, Windows e configuração de Drivers.."
+            },
+            {
+                "empresa": "GPTI Tecnologia da Informação",
+                "periodo": "2009 - 2010",
+                "cargo": "Analista de Banco de Dados, Analista de Banco de Dados SQL Server 2005, Transact SQL, Business Intelligence."
+            },
+            {
+                "empresa": "Instituto Federal de São Paulo",
+                "periodo": "2013 - 2015",
+                "cargo": "Professor Informática."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2015",
+                "cargo": "Professor EBTT."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de São Paulo",
+                "nome": "Ampliacão dos laboratórios de informática - IFSP - Araraquara",
+                "periodo": "2014 - 2015",
+                "natureza": "Outra",
+                "equipe": [
+                    "Marcos Daniel Cano",
+                    "Mauro de Lucca"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de São Paulo",
+                "nome": "Datawarehouse Acadêmico",
+                "periodo": "2014 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Daniel Cano",
+                    "Hisrael da Silva Braga"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de São Paulo",
+                "nome": "Curso de Extensão - Fundamentos do Oracle 11g",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Mapa de Inclusão Digital de Presidente Figueiredo",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Mapa da Inclusão Digital no Residencial Galo da Serra",
+                "periodo": "2016 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Projetos Integrais - Grêmio Acadêmico",
+                "periodo": "2017",
+                "natureza": "Outra",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Cidadania de Resultados",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Mineração de Dados Educacionais - transformando dados brutos em informações úteis através de um datawarehouse acadêmico",
+                "periodo": "2018 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Programação no Ensino Médio utilizando Scratch",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Marcos Daniel Cano"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Agricultura Digital ? Extraindo e analisando informações através da IoT",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Daniel Cano",
+                    "Analice Borges de Brito"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Acionamento de dispositivos de alarme usando a IoT e Aplicação Web",
+                "periodo": "2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Daniel Cano",
+                    "Raul Vinícius Barbosa"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Programação de Games usando Scratch",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  A Matemática na Programação em C",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Desenvolvendo Games com Scratch",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Moodle - Ambiente Virtual de Aprendizagem",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Cano, Marcos Daniel,  WhatsApp - Dicas, recursos e truques",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Introdução a Banco de Dados com MS Access",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Maximizando a comunicação com o Gmail e GoogleDrive",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "CANO",
+                    "curso": "M. D.,  Fundamentos do Oracle 11g - Manipulaçao de Dados do Básico ao Avançado",
+                    "ano": "2014"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CANO",
+                    "evento": "M. D.,  Semana Nacional de Ciência e Tecnologia 2017",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "CANO",
+                    "evento": "M. D.,  1ª Mostra de Games - IFAM Presidente Figueiredo",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "CANO",
+                    "evento": "M. D.,  O IFAM vai à Festa do Cupuaçu",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "CANO",
+                    "evento": "M. D.,  Semana Nacional de Ciência e Tecnologia 2016",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "CANO",
+                    "evento": "M. D.,  VI Ciência na Serra e V Jornada-Científica do IFAM Presidente Figueiredo",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "ARAUJO",
+                    "evento": "R. L.,  ARAUJO, E. R.,  CANO, M. D.,  Semana Nacional de Ciência e Tecnologia 2015",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Amazonas."
+                },
+                {
+                    "autores": "CANO",
+                    "evento": "M. D.,  Stand IFAM na Festa do Cupuaçu e XIX Feira Agroindustrial e Negócios",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CANO, M. D.",
+                "titulo": "Santos, Marilde Terezinha Prado;  Avila, Ana Maria H. de;  Romani, Luciana A. S.;  Traina, Agma J. M.;  Ribeiro, Marcela Xavier;  SART: A New Association Rule Method for Mining Sequential Patterns in Time Series of Climate Data",
+                "ano": "2012",
+                "periodico": "Lecture Notes in Computer Science. ISBN: 03029743   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Juliana Andrade da Silva",
+                "titulo": "Desenvolvimento de um website direcionado ao aprimoramento e customização dos estudos aos discentes do IFAM - Presidente Figueiredo - para os vestibulares nacionais",
+                "ano": "2020",
+                "curso": "Técnico em Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Lucas Penha Lopes",
+                "titulo": "Desenvolvimento de um portal de cursos para público da Terceira Idade",
+                "ano": "2020",
+                "curso": "Técnico em Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Moisés Souza Silveira",
+                "titulo": "Desenvolvimento de um portal de cursos para público da Terceira Idade",
+                "ano": "2020",
+                "curso": "Técnico em Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Sávio dos Santos Gonçalves",
+                "titulo": "Desenvolvimento de um portal de cursos para público da Terceira Idade",
+                "ano": "2020",
+                "curso": "Técnico em Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Hisrael Braga",
+                "titulo": "Mineração de Dados Educacionais - transformando dados brutos em informações úteis através de um datawarehouse acadêmico",
+                "ano": "2019",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal do Amazonas - Campus Presidente"
+            },
+            {
+                "orientando": "Stefany Menezes do Vale",
+                "titulo": "Mapa de Inclusão Digital de Presidente Figueiredo",
+                "ano": "2017",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Anthony Afonso Godinho Alves",
+                "titulo": "Mapa da Inclusão Digital no Residencial Galo da Serra",
+                "ano": "2016",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Daiane dos Santos",
+                "titulo": "Orientação de Estágio Profissional Supervisionado",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de São Paulo"
+            },
+            {
+                "orientando": "Camila Faglioni",
+                "titulo": "Orientação de Estágio Profissional Supervisionado",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de São Paulo"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.7044119834899902,
+            "indian": 2.91196870803833,
+            "black": 0.9281594157218933,
+            "white": 52.89109420776367,
+            "middle eastern": 16.696247100830078,
+            "latino hispanic": 24.868118286132812
+        }
+    }
+}

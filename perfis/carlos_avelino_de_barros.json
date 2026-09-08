@@ -1,0 +1,334 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2012 - 2016",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Redução do Consumo Energético de Aplicações Paralelas em Arquiteturas Multi-core",
+                "orientador": "Samuel Xavier de Souza"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "periodo": "1999 - 2001",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Uma Aplicação de GRASP na Otimização do Emprego da Unidade Móvel de Pistoneio",
+                "orientador": "Dario José Aloise"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Computação e Automação",
+                "periodo": "1989 - 1990",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Sistemas",
+                "periodo": "1995 - 1996",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1985 - 1989",
+                "instituicao": "Universidade Federal do Rio Grande do Norte"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "periodo": "1991",
+                "cargo": "Professor efetivo, O IFRN já foi denominado CEFET-RN e ETFRN.."
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "periodo": "1999 - 2001",
+                "cargo": "Integrante."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nDiretoria Educacional de Informática (2001 - 2002) .",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nGraduacao (1998 - 2004) - Curso Superior De Tecnologia Em Informática.\nEnsino-medio (1991) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Desenvolvimento de Software para Gerenciamento da Movimentação de Fluidos",
+                "periodo": "1999 - 2001",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Avelino de Barros",
+                    "Andreia Cynthia dos Santos",
+                    "Dario José Aloise",
+                    "Josemir A Neves",
+                    "Marco Cesar Goldbarg",
+                    "Elizabeth Ferreira Gouvea"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,"
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "OTIMSPT - Otimização do Gerenciamento Dinâmico de Sondas de Produção Terrestre do RN",
+                "periodo": "2001 - 2004",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Carlos Avelino de Barros",
+                    "Dario José Aloise",
+                    "Josemir A Neves",
+                    "Outros"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Prof. Avelino Barros",
+                    "titulo": "BARROS, C. A.,  Histórico da 'Manutenção de Computadores' nos Cursos do IFRN",
+                    "ano": "2015",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN."
+                },
+                {
+                    "autores": "BARROS",
+                    "titulo": "C. A.,  Samuel Xavier de Souza,  Recomendações de Projeto na Busca da Eficiência Energética em Arquiteturas Multicore Heterogêneas",
+                    "ano": "2014",
+                    "instituicao_promotora": "UFRN e IEEE IMS/CIS11 CH09433 (Bahia Section)."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BARROS, C.A.",
+                "titulo": "SILVEIRA, L.F.Q.;  VALDERRAMA, C.A.;  XAVIER-DE-SOUZA, S.;  Optimal processor dynamic-energy reduction for parallel workloads on heterogeneous multi-core architectures",
+                "ano": "2015",
+                "periodico": "Microprocessors and Microsystems. ISBN: 01419331   ."
+            },
+            {
+                "autores": "LIMA, ARTHUR D.D.",
+                "titulo": "BARROS, CARLOS A.;  SILVEIRA, LUIZ FELIPE Q.;  XAVIER-DE-SOUZA, SAMUEL;  VALDERRAMA, CARLOS A.;  Parallel Cyclostationarity-Exploiting Algorithm for Energy-Efficient Spectrum Sensing",
+                "ano": "2014",
+                "periodico": "IEICE Transactions on Communications. ISBN: 09168516   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "XAVIER-DE-SOUZA, S.",
+                "titulo": "BARROS, C",
+                "evento": "A.; JALES",
+                "local": "M. O.; SILVEIRA, L.F.Q.; Not Faster nor Slower Tasks, but Less Energy Hungry and Parallel: Simulation Results. Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 2015, Berkeley, California",
+                "ano": "2015"
+            },
+            {
+                "autores": "LIMA, ARTHUR D.D.",
+                "titulo": "BARROS, C",
+                "evento": "A.; SILVEIRA",
+                "local": "L.F.Q.; Uso do Coeficiente de Correlação para Classificação de Sinais Cicloestacionários por meio do Perfil-Alfa Reduzido. 11th Congresso Brasileiro de Inteligência Computacional - CBIC'2013, Porto de Galinhas",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOUZA, S. X.",
+                "titulo": "BARROS, C",
+                "evento": "A.; SILVEIRA",
+                "local": "L.F.Q.; VALDERRAMA, C.A.; Estimating the effects of application speedup on energy saving for lower-voltage and lower-frequency multi-core devices. Third Berkeley Symposium on Energy Efficient Electronic Systems, 2013, Berkeley, California",
+                "ano": "2013"
+            },
+            {
+                "autores": "BARROS, C. A.",
+                "titulo": "PAULINO NETO, A",
+                "evento": "; OLIVEIRA",
+                "local": "A. C. D.; COSTA, D. G.; Micro Galena Visual ? Um Emulador para Apoio ao Estudo de Arquitetura de Computadores.. I Jornada de Iniciação Científica e Tecnológica do CEFET/RN, Natal/RN",
+                "ano": "2002"
+            },
+            {
+                "autores": "SANTOS, A. C.",
+                "titulo": "ALOISE, D",
+                "evento": "J.; BARROS",
+                "local": "C. A.; NEVES, J. A.; ASSMANN, B. W.; MOURA, L. S. S.; Development of a Georeferenced Computational System to Support Decision in order to Optimize the use of Oil Recovery Mobile Systems (ORS).. Fourth International Conference on Optimization ? Optimization 2001., Aveiro",
+                "ano": "2001"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "NEVES, J",
+                "evento": "A.; BARROS",
+                "local": "C. A.; Otimização do Emprego da Unidade Móvel de Pistoneio através de Algoritmo Genético.. IV Simpósio de Pesquisa Operacional e V Simpósio de Logística da Marinha ? SPOLM 2001,",
+                "ano": "2001"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "NEVES, J",
+                "evento": "A.; BARROS",
+                "local": "C. A.; Um Algoritmo Genético para Otimização da Unidade Móvel de Pistoneio.. Fourth Chilean National of Operations Research - OPTIMA 2001., Curicó",
+                "ano": "2001"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "SANTOS, A",
+                "evento": "C.; BARROS",
+                "local": "C. A.; SOUZA, M. C.; NORONHA, T. F.; GRASP Reativo aplicado ao Problema do Emprego da Unidade Móvel de Pistoneio (POE-UMP).. Fourth Chilean National of Operations Research - OPTIMA 2001.,",
+                "ano": "2001"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "SANTOS, A",
+                "evento": "C.; BARROS",
+                "local": "C. A.; SOUZA, M. C.; NORONHA, T. F.; Um Algoritmo GRASP Reativo Aplicado ao Problema da Unidade Móvel de Pistoneio.. XXXIII Simpósio Brasileiro de Pesquisa Operacional - SBPO, Campos do Jordão",
+                "ano": "2001"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "NEVES, J",
+                "evento": "A.; BARROS",
+                "local": "C. A.; MOURA, L. S. S.; ASSMANN, B. W.; Um Algoritmo Genético na Otimização do Emprego da Unidade Móvel de Pistoneio.. XXXII Simpósio Brasileiro de Pesquisa Operacional - SBPO, Viçosa/MG",
+                "ano": "2000"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "BARROS, C",
+                "evento": "A.; NEVES",
+                "local": "J. A.; MOURA, L. S. S.; ASSMANN, B. W.; Otimização do Emprego da Unidade Móvel de Pistoneio através de GRASP.. XXXII Simpósio Brasileiro de Pesquisa Operacional - SBPO, Viçosa/MG",
+                "ano": "2000"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "BARROS, C",
+                "evento": "A.; NEVES",
+                "local": "J. A.; SOUZA, M. C.; Um Algoritmo Genético para uma Variante do Problema de Orientação.. X LATIN AMERICAN CONFERENCE ON OPERATIONAL RESEARCH ? CLAIO, México",
+                "ano": "2000"
+            },
+            {
+                "autores": "ALOISE, D. J.",
+                "titulo": "MOURA, L",
+                "evento": "S. S.; ASSMANN",
+                "local": "B. W.; BARROS, C. A.; NEVES, J. A.; Otimização do Emprego da Unidade Móvel de Pistoneio na Explotação de Campos Petrolíferos de Poços não Surgentes.. Rio Oil & Gás Expo and Conference, Rio de Janeiro/RJ",
+                "ano": "2000"
+            },
+            {
+                "autores": "BARROS, C. A.",
+                "titulo": "BEZERRA, J",
+                "evento": "B.; Modelamento do Nível Físico IEEE 802.4 como Sistema Discreto.. 9o Congresso Brasileiro de Automática",
+                "local": "Vitória/ES",
+                "ano": "1992"
+            },
+            {
+                "autores": "OLIVEIRA, J.",
+                "titulo": "ALVES JR",
+                "evento": ", C.; BARROS",
+                "local": "C. A.; SANTOS, C. A.; Fases Ferromagnéticas no Sistema Fe(TaxNb(1-x))2O6.. XII Encontro Nacional de Física da Matéria Condensada., Caxambu/MG",
+                "ano": "1989"
+            },
+            {
+                "autores": "BARROS, C. A.",
+                "titulo": "ALVES JR",
+                "evento": ", C.; SANTOS",
+                "local": "C. A.; Difração de Raios-X em compostos do tipo Fe(TaxNb(1-x))2O6.. XI Encontro Nacional de Física da Matéria Condensada., Caxambu/MG",
+                "ano": "1988"
+            },
+            {
+                "autores": "OLIVEIRA, J.",
+                "titulo": "BARROS, C",
+                "evento": "A.; ALVES JR.",
+                "local": "C.; SANTOS, C. A.; Espectroscopia Mössbauer e Difração de Raios-X de Compostos Sintéticos e Naturais do Tipo (FexMn(1-x))(TayNb(1-y))2O6.. 40a Reunião Anual da SBPC., São Paulo/SP",
+                "ano": "1988"
+            },
+            {
+                "autores": "OLIVEIRA, J.",
+                "titulo": "ALVES JR",
+                "evento": ", C.; BARROS",
+                "local": "C. A.; SANTOS, C. A.; Limite de Solubilidade no Sistema Fe(TaxNb(1-x))2O6.. VI Encontro de Físicos do Nordeste.,",
+                "ano": "1988"
+            },
+            {
+                "autores": "BARROS, C. A.",
+                "titulo": "GUERRA, A",
+                "evento": "R. O.; COSTA",
+                "local": "W. C.; Análise Térmico-Diferencial.. 1o Congresso de Iniciação Científica da Universidade Federal do Rio Grande do Norte., Natal/RN",
+                "ano": "1988"
+            },
+            {
+                "autores": "BARROS, C. A.",
+                "titulo": "GUERRA, A",
+                "evento": "R. O.; COSTA",
+                "local": "W. C.; Espectroscopia Mössbauer.. 1o Congresso de Iniciação Científica da Universidade Federal do Rio Grande do Norte., Natal/RN",
+                "ano": "1988"
+            },
+            {
+                "autores": "OLIVEIRA, J.",
+                "titulo": "ALVES JR",
+                "evento": ", C.; BARROS",
+                "local": "C. A.; PEREIRA, R. A.; SANTOS, C. A.; Preparation and Characterization of Compounds Fe(TaxNb(1-x))2O6.. Latin American Conference on the Applications of the Mössbauer Effect - LACAME, Rio de Janeiro/RJ",
+                "ano": "1988"
+            },
+            {
+                "autores": "GUERRA, A. R. O.",
+                "titulo": "BARROS, C",
+                "evento": "A.; COSTA",
+                "local": "W. C.; Nitretação Iônica em Aços.. 1o Congresso de Iniciação Científica da Universidade Federal do Rio Grande do Norte., Natal/RN",
+                "ano": "1988"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Walter Soares Barbosa Rocha Filho",
+                "titulo": "Montagem e Manutenção Preventiva e Corretiva de Microcomputaores",
+                "ano": "2005",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Isabel Medeiros dos Santos",
+                "titulo": "Suporte: Hardware e Software",
+                "ano": "2005",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            },
+            {
+                "orientando": "David André da Silva Albino",
+                "titulo": "Manutenção de Microcomputadores",
+                "ano": "2004",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Deborah Vieira de Alencar Maia",
+                "titulo": "Manutenção de Computadores e Projeto de Redes Lógicas",
+                "ano": "2003",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Juary Luís Chagas",
+                "titulo": "Desenvolvimento de Atividades de Manutenção: Microcomputadores, Rede Ponto a Ponto e Sistemas Interativos",
+                "ano": "2003",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Suzana Constantino de Lima Medeiros",
+                "titulo": "Manutenção: Uma Contínua Necessidade",
+                "ano": "2003",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            },
+            {
+                "orientando": "André Luiz da Silva Solino",
+                "titulo": "Montagem e Manutenção de Microcomputadores na Empresa Ponto Informática",
+                "ano": "2003",
+                "curso": "Curso Superior de Tecnologia em Informática",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte"
+            }
+        ]
+    }
+}
