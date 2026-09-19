@@ -191,7 +191,7 @@ class AnaliseDadosTCC:
         if self.df.empty:
             self.carregar_dados()
             
-        cores_raca = ['#F5DEB3', '#D2B48C', '#8B4513', '#F0E68C'] # Cores temáticas por categoria
+        cores_raca = ['#003f5c', '#78529b', '#ef537d', '#ffa600'] # Cores temáticas por categoria
 
         # 1. Gráfico: Distribuição por IF
         tab_if = pd.crosstab(self.df["instituto"], self.df["raca"]).reindex(columns=self.CATEGORIAS_RACA, fill_value=0)
@@ -376,5 +376,5 @@ class AnaliseDadosTCC:
 if __name__ == "__main__":
     analise = AnaliseDadosTCC()
     #analise.executar_todas()
-    #analise.gerar_graficos_analises()
-    analise.analisar_cobertura_completa()
+    analise.gerar_graficos_analises()
+    #analise.analisar_cobertura_completa()
