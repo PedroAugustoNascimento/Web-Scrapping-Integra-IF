@@ -1,0 +1,111 @@
+{
+    "campus": "- Campus Eirunepe",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Desenvolvimento de Aplicações Web",
+                "instituicao": "Universidade Norte do Paraná",
+                "orientador": "Everton Moraes",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Norte do Paraná",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática e Física",
+                "instituicao": "Universidade Federal do Amazonas",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Norte do Paraná",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Norte do Paraná",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial - AM",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Apoio Institucional Muraki",
+                "ano_inicio": 2008,
+                "ano_fim": 2012,
+                "funcao": "Suporte Técnico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Prefeitura Municipal de Coari",
+                "ano_inicio": 2006,
+                "ano_fim": 2016,
+                "funcao": "Técnico em TI",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.07713695615530014,
+            "indian": 0.22105832397937775,
+            "black": 0.022544309496879578,
+            "white": 76.43568420410156,
+            "middle eastern": 11.927974700927734,
+            "latino hispanic": 11.315601348876953
+        }
+    }
+}

@@ -1,0 +1,692 @@
+{
+    "campus": "- Câmpus Chapecó",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "JOGO DE EMPRESAS LÍDER: MODELAGEM DE UM SISTEMA BASEADO EM AGENTES UTILIZANDO A LINGUAGEM UML",
+                "orientador": "Bruno Hartmut Kopittke",
+                "ano_inicio": 2001,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Licenciatura para a educação profissional",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "orientador": "Rafaela Lunardi Comarella",
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 1995,
+                "ano_fim": 2000
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 1997,
+                "ano_fim": 2000,
+                "funcao": "Monitor do Depto de Sistemas e Computação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 1996,
+                "ano_fim": 1997,
+                "funcao": "Monitor do Laboratório de Informática",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Wallis Software Ltda.",
+                "ano_inicio": 1997,
+                "ano_fim": 1998,
+                "funcao": "Programador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Softplan Planejamento e Sistemas",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Coordenador de Desenvolvimento",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Softplan Planejamento e Sistemas",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Analista de Negócio",
+                "vinculo": "Principais projetos: Implantação dos sistemas de Controle de Processos Administrativos e Gestão Documental (EARQ/ CONARQ Brasil)",
+                "descricao": "para virtualização/ desmaterialização organizacional. Papel: Analista de Negócio e Analista Responsável pelo Projeto. Cliente: Universidade Federal de Minas Gerais. Brasil ? MG ? Belo Horizonte (2012 - 2013)"
+            },
+            {
+                "empresa": "Softplan Planejamento e Sistemas",
+                "ano_inicio": 2002,
+                "ano_fim": 2011,
+                "funcao": "Analista de Sistema",
+                "vinculo": "Principais projetos: Portabilidade do sistema de previsão e monitoramento climático do IAPAR",
+                "descricao": "da plataforma Desktop (Delphi/ Arcgis) para Web (Java/ J2EE/ Geotools). Papel: Analista responsável e Líder da equipe de desenvolvimento. Cliente: Fundação de Apoio à Pesquisa e ao Desenvolvimento do Agronegócio (FAPEAGRO)/ Instituto Agronômico do Paraná (IAPAR). Brasil ? PR - Londrina (2011). Desenvolvimento do sistema de processos jurídicos - SPJ. Papel: Analista responsável e Líder da equipe de desenvolvimento. Cliente: Itaipu Binacional. Brasil ? PR ? Foz do Iguaçu (2010 - 2011). Desenvolvimento do sistema PRM ? Country Strategy. Papel: Líder da equipe de desenvolvimento. Cliente: Inter-American Development Bank (IADB) / Banco Interamericano de Desenvolvimento (BID). Brasil ? SC - Florianópolis (2010 ? 2011). Desenvolvimento do sistema de crédito rural integrado ? CrediagriWeb Papel: Analista responsável e Líder da equipe de desenvolvimento. Cliente: Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (Epagri). Brasil ? SC - Florianópolis (2009 ? 2011). Informatização do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF Sustentável. Papel: Analista responsável e Líder da equipe de desenvolvimento. Cliente: Ministério do Desenvolvimento Agrário (MDA) & Itaipu Binacional. Brasil ? DF - Brasília/ Foz do Iguaçu (2008 ? 2011). Informatización del Programa de Protección Social de Apoyo a la Red de Oportunidades. Papel: Analista de Negócios e Analista Responsável pelo Projeto. Cliente: Ministerio de Desarrollo Social & Ministerio de Salud. República de Panamá ? Ciudad de Panamá (2007 - 2008). Informatización del Proyecto de Actividades Prioritarias de la Cuenca Hidrográfica del Canal de Panamá. Papel: Analista de Negócio. Cliente: Ministerio de la Presidencia. República de Panamá ? Ciudad de Panamá (2006)"
+            },
+            {
+                "empresa": "Casa Royal S/A Ind. E Com",
+                "ano_inicio": 1998,
+                "ano_fim": 2000,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Laboratório de Jogos de Empresas - UFSC",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Analista Implementador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Portobello",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Coordenador de TI - Área de Logística",
+                "vinculo": "Principais projetos: Implantação do sistema Oracle Warehouse Management System (WMS) R11",
+                "descricao": "integrado ao ERP Oracle E-Business Suite (EBS) R11, com manufatura por processo. Função: Gerenciamento compartilhado do projeto - Área de tecnologia. Brasil ? SC ? Tijucas - Portobello S/A (2011 ? 2012). Estruturação física e tecnológica para implantação do módulo MOBILE do Oracle Warehouse Management System (WMS) R11, nas operações de armazenamento, movimentação da produção, separação e conferência de cargas, inventário e expedição. Função: Gerenciamento compartilhado do projeto - Área de tecnologia. Brasil ? SC ? Tijucas - Portobello S/A (2011 ? 2012)"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Chapecó (2015 - 2016) : Coordenador Adjunto Do Curso Técnico Em Informática Integrado Ao Ensino Médio.",
+        "ensino": "",
+        "comissoes": ": Instituto Federal de Santa Catarina\nTitular Do Colegiado Do Curso De Engenharia De Controle E Automação Do Campus (2024).\nTitular Do Colegiado Do Curso De Engenharia De Controle E Automação Do Campus (2022 - 2024).\nNúcleo Docente Estruturante Do Curso De Engenharia De Controle E Automação - Representante Docente Da Área De Informática (2020 - 2023).\nTitular Do Colegiado Do Curso De Engenharia De Controle E Automação Do Campus (2020 - 2022).\nRepresentante Suplente Do Ifsc No Conselho Municipal De Ciência, Tecnologia E Inovação (2019 - 2019).\nMembro (2018 - 2020).\nRepresentante Suplente Do Ifsc No Conselho Municipal De Ciência Tecnologia E Inovação (2017 - 2019).\nMembro Suplente Do Colegiado Do Campus Chapeco (2016 - 2016).\nMembro Titular Do Colegiado Do Campus Chapeco (2016 - 2018).\nMembro Do Núcleo Docente Estruturante Do Curso Técnico Em Informática Integrado Ao Ensino Médio (2015 - 2018).",
+        "projetos": [
+            {
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "nome": "LÍDER - Sistemas de Apoio à Decisão Aplicados a Jogos de Empresas.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Mauricio Capobianco Lopes"
+                ],
+                "financiador": "Programa de Incentivo à Pesquisa Pipe,",
+                "ano_inicio": 1997,
+                "ano_fim": 1998
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "QRTur: Atrativos histórico-culturais da cidade de Chapecó/SC mapeados por QRCode e aplicativo mobile free",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Guilherme Henrique Koerich",
+                    "Roberta Cajaseiras",
+                    "Gabrielli Cenci"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Implantação de Aplicativo de Celular para Divulgação dos pontos Turísticos da \"Rota das Termas\"",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Darlan Hister",
+                    "Roberta Cajaseiras De Carvalho",
+                    "Luiz Alberto Radavelli",
+                    "Elena Wendling Ruscheinsky",
+                    "Israel Da Silva Mota",
+                    "Ernesto Jose Klier",
+                    "Celso Bergmaier"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Ensino, Pesquisa e Extensão nas Oficinas de Integração do Ensino Médio Integrado do IFSC Câmpus Chapecó",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Roberta Pasqualli"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Ferramenta computacional para o desenvolvimento otimizado de projetos fotoeletrotérmicos para sistemas de iluminação a base de leds",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Leandro Chies",
+                    "Joâo Pedro Brunoni",
+                    "Maiza Fossatto"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "MobiLab - Laboratório para desenvolvimento de aplicativos mobile direcionados a internet das coisas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Miguel Debarba",
+                    "Clelio Marcos Ferreira"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de Informações Geográficas (SIG) para o mapeamento do mercado de produtos orgânicos em Chapecó/SC",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Fabiner Fugalli",
+                    "Cleder Fontana",
+                    "Janilson Loterio"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Projetos Integradores no Curso de Engenharia de Controle e Automação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Guilherme De Santana Weizzenmann",
+                    "Vinicius Berndsen Peccin",
+                    "Leandro Chies",
+                    "Gregory Chagas Gomes Da Costa",
+                    "Romulo Lira Milhomem",
+                    "Savio Alencar Maciel"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "MobiLab II - Laboratório para Desenvolvimento de Aplicativos Mobile direcionados a Internet das Coisas.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Miguel Debarba",
+                    "Clelio Marcos Ferreira"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Inserção da ContrAut Jr - Empresa Júnior de Engenharia de Controle e Automação no mercado local",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Projetos Integradores no Curso de Engenharia de Controle e Automação no semestre 2022/1",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Giovani Ropelato",
+                    "Marcos Virgilio Da Costa",
+                    "Guilherme De Santana Weizzenmann",
+                    "Vinicius Berndsen Peccin",
+                    "Leandro Chies",
+                    "Romulo Lira Milhomem",
+                    "Savio Alencar Maciel"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento e implantação de sinalização acessível no IFSC - Chapecó e na ADEVOSC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Cleide Silva Do Nascimento",
+                    "Renato Luis Bergamo"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema para monitoramento de ações de apoio a animais em vulnerabilidade na aldeia indígena Kondá",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Tamara Maria Bordin",
+                    "Luane Rafaela Miranda De Souza",
+                    "Vitorya Miranda Coelho",
+                    "Mateus Dalchiavon"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Dispositivo acessível tátil em Braile para uso de Arduino por alunos com deficiência visual",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Cleide Silva Do Nascimento",
+                    "Renato Luis Bergamo",
+                    "Rafaela Moreno Da Silva",
+                    "Karoline Paula Coletti Gomes",
+                    "Eduarda Bueno Zonta",
+                    "Vitoria Mucelini Wagner",
+                    "Milena Ghisleni Raimann"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Atendimento Educacional Especializado Altas Habilidades/superdotação- AEE-AH/SD do Polo de Chapecó",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Miguel Debarba"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "QRTur Chapecó",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Roberta Cajaseiras",
+                    "Tatieli Elenice Lui Meneghini"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Produção de Kits Acessíveis para Ensino de Arduino para Pessoas com Deficiência Visual",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Cleide Silva Do Nascimento",
+                    "Renato Luis Bergamo",
+                    "Rafaela Moreno Da Silva",
+                    "Grazielli Vassoler Rutz"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Mini Turbina Eólica Vertical Sustentável feita com Metais e Componentes Mecânicos Reciclados",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Luane Rafaela Miranda De Souza",
+                    "Bianca Sobierai",
+                    "Cecilia Pippi",
+                    "Milena Zang",
+                    "Rafael Silva Pippi",
+                    "Marcos Virgilio Da Costa",
+                    "Renato Luis Bergamo"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Robótica educacional e inclusão de pessoas com deficiência visual",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Cleide Silva Do Nascimento",
+                    "Karoline Paula Coletti Gomes",
+                    "Grazielli Vassoler Rutz",
+                    "Heitor Rauber Scussiato"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Projetos Integradores no Curso de Engenharia de Controle e Automação no semestre 2023/1",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Leandro Chies",
+                    "Romulo Lira Milhomem",
+                    "Renato Luis Bergamo",
+                    "Heron Eduardo De Lima Avila",
+                    "Fulvio Marcelo Popiolski",
+                    "Jacson Rodrigo Dreher"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de Informações Geográficas (SIG) para o mapeamento do mercado de produtos orgânicos em Chapecó/SC (fase 3)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Virgilio Da Costa",
+                    "Fabiner Fugalli",
+                    "Janilson Loterio",
+                    "Jackson Meires Dantas Canuto"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "COSTA",
+                    "titulo": "M. V.,  DEBARBA, M.,  B. V. SOBIERAI,  IFSC CAMPUS CHAPECÓ COMO PROTAGONISTA DA CULTURA MAKER PARA ALUNOS E PROFESSORES DO ENSINO PÚBLICO",
+                    "ano": "2025",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "M. V.,  NASCIMENTO, C. S.,  BERGAMO, R. L.,  SILVA, R. M.,  GOMES, K. P. C.,  WAGNER, V. M.,  PRODUÇÃO DE KITS ACESSÍVEIS PARA ENSINO DE ARDUINO PARA PESSOAS COM DEFICIÊNCIA VISUAL",
+                    "ano": "2025",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "M. V.,  NASCIMENTO, C. S.,  RUTZ, G. V.,  SCUSSIATO, H. R.,  GOMES, K. P. C.,  ENSINO DE ROBÓTICA COM LEGO® MINDSTORMS® NXT PARA PESSOAS COM DEFICIÊNCIA VISUAL",
+                    "ano": "2025",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "M. V.,  BERGAMO, R. L.,  B. V. SOBIERAI,  C. H. PIPPI,  SOUZA, L. R. M.,  M. B. ZANG,  MINI TURBINA EÓLICA VERTICAL SUSTENTÁVEL FEITA COM METAIS E COMPONENTES MEC NICOS RECICLADOS",
+                    "ano": "2024",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "RUTZ",
+                    "titulo": "G. V.,  COSTA, M. V.,  BERGAMO, R. L.,  DEBARBA, M.,  A. A. LUCIETTO,  V. Z. SOUZA,  CONSTRUÇÃO E PROGRAMAÇÃO DE ROBÔS UTILIZANDO ARDUINO",
+                    "ano": "2024",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "M. V.,  BORDIN, T. M.,  SOUZA, L. R. M.,  COELHO, V. M.,  SISTEMA PARA MONITORAMENTO DE AÇÕES DE APOIO A ANIMAIS EM VULNERABILIDADE NA RESERVA INDÌGENA KONDÁ",
+                    "ano": "2024",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "WAGNER",
+                    "titulo": "V. M.,  GOMES, K. P. C.,  RAIMANN, M. G.,  SILVA, R. M.,  ZONTA, E. B.,  COSTA, M. V.,  NASCIMENTO, C. S.,  BERGAMO, R. L.,  Desenvolvimento de um dispositivo acessível para o uso do arduino por estudantes com deficiência visual",
+                    "ano": "2024",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "M. V.,  NASCIMENTO, C. S.,  BERGAMO, R. L.,  SILVA, R. M.,  WAGNER, V. M.,  GOMES, K. P. C.,  DESENVOLVIMENTO DE UM DISPOSITIVO ACESSÍVEL PARA USO DE ARDUINO POR PESSOAS COM DEFICIÊNCIA VISUAL",
+                    "ano": "2024",
+                    "instituicao_promotora": "IFSC."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "COSTA, M. V.",
+                "titulo": "DEBARBA, M",
+                "evento": "; B. V. SOBIERAI; IFSC CAMPUS CHAPECÓ COMO PROTAGONISTA DA CULTURA MAKER PARA ALUNOS E PROFESSORES DO ENSINO PÚBLICO. 11º Seminário de Ensino",
+                "local": "Pesquisa, Extensão e Inovação do IFSC, Palhoça",
+                "ano": "2025"
+            },
+            {
+                "autores": "COSTA, M. V.",
+                "titulo": "NASCIMENTO, C",
+                "evento": "S.; BERGAMO",
+                "local": "R. L.; SILVA, R. M.; GOMES, K. P. C.; WAGNER, V. M.; PRODUÇÃO DE KITS ACESSÍVEIS PARA ENSINO DE ARDUINO PARA PESSOAS COM DEFICIÊNCIA VISUAL. 11º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, Palhoça",
+                "ano": "2025"
+            },
+            {
+                "autores": "COSTA, M. V.",
+                "titulo": "NASCIMENTO, C",
+                "evento": "S.; RUTZ",
+                "local": "G. V.; SCUSSIATO, H. R.; GOMES, K. P. C.; ENSINO DE ROBÓTICA COM LEGO® MINDSTORMS® NXT PARA PESSOAS COM DEFICIÊNCIA VISUAL. 11º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, Palhoça",
+                "ano": "2025"
+            },
+            {
+                "autores": "RUTZ, G. V.",
+                "titulo": "COSTA, M",
+                "evento": "V.; BERGAMO",
+                "local": "R. L.; DEBARBA, M.; A. A. LUCIETTO; V. Z. SOUZA; Construção e programação de robôs utilizando Arduino. 10º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "COSTA, M. V.",
+                "titulo": "BERGAMO, R",
+                "evento": "L.; B. V. SOBIERAI; C. H. PIPPI; SOUZA",
+                "local": "L. R. M.; M. B. ZANG; MINI TURBINA EÓLICA VERTICAL SUSTENTÁVEL FEITA COM METAIS E COMPONENTES MECÂNICOS RECICLADOS. 10º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "COSTA, M. V.",
+                "titulo": "NASCIMENTO, C",
+                "evento": "S.; BERGAMO",
+                "local": "R. L.; SILVA, R. M.; WAGNER, V. M.; GOMES, K. P. C.; DESENVOLVIMENTO DE UM DISPOSITIVO ACESSÍVEL PARA USO DE ARDUINO POR PESSOAS COM DEFICIÊNCIA VISUAL. 10º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "COSTA, M. V.",
+                "titulo": "BORDIN, T",
+                "evento": "M.; SOUZA",
+                "local": "L. R. M.; COELHO, V. M.; SISTEMA PARA MONITORAMENTO DE AÇÕES DE APOIO A ANIMAIS EM VULNERABILIDADE NA RESERVA INDÍGENA KONDÁ. 10º Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, São Miguel do Oeste",
+                "ano": "2024"
+            },
+            {
+                "autores": "MARCELO D. S. MALMETO",
+                "titulo": "LEANDRO CHIES; Marcos Virgílio; Desenvolvimento de um protótipo modular para atualização tecnológica de aeradores comerciais aplicados a piscicultura",
+                "evento": "XXIV Congresso Brasileiro de Automática",
+                "local": "Online",
+                "ano": "2022"
+            },
+            {
+                "autores": "BORT, E. E.",
+                "titulo": "ROSA, L",
+                "evento": "G.; CONCEICAO",
+                "local": "L.; COSTA, M. V.; ZARTH, A. M.; OS DIFERENTES SISTEMAS DE RECOMENDAÇAO E FUTURA APLICAÇAO NO SOTFWARE THEROUTE. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, Chapecó (SC)",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, I. D. C.",
+                "titulo": "COSTA, M",
+                "evento": "V.; WEIZZENMANN",
+                "local": "G. S.; EVALUATION OF RESOURCE CONSUMPTION OF CPU AND MEMORY OF SERVERS ON THE EXECUTION OF SUPERVISORY SYSTEMS: CASE STUDY. Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, Joinville (SC)",
+                "ano": "2016"
+            },
+            {
+                "autores": "LOPES, M.C.",
+                "titulo": "COSTA, M",
+                "evento": "V.; NIVEIROS",
+                "local": "S. I.; O simulador de empresas Líder baseado em agentes. IX SEMINCO - Seminário de Computação, Blumenau",
+                "ano": "2000"
+            },
+            {
+                "autores": "HÜBNER, J. F.",
+                "titulo": "POSSAMAI, C",
+                "evento": "S.; SOUZA",
+                "local": "F; ANDRÉ, G. B; COSTA, M. V.; REKOWSKY, R; BORTOLUZI, R. C.; Protótipo de um Sistema de Consulta a Banco de Dados Distribuído Heterogêneo. VII SEMINCO - Seminário de Computação, Blumenau",
+                "ano": "1998"
+            },
+            {
+                "autores": "LOPES, M.C.",
+                "titulo": "COSTA, M",
+                "evento": "V.; Jogo de Empresas Líder. I SEMINÁRIO CATARINENSE DE EXTENSÃO UNIVERSITÁRIA",
+                "local": "Blumenau",
+                "ano": "1996"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Guilherme João Zardo",
+                "titulo": "Protótipo de visão computacional para detecção e classificação de patologias de ruptura em estruturas de concreto",
+                "ano": "2026",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Kathleen Rauane Soares do Espirito Santo Consoli",
+                "titulo": "Protótipo de um sistema com visão computacional para identificação de tipo sanguíneo e fator RH",
+                "ano": "2025",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Dante Hisamitsu Satake Neto",
+                "titulo": "DESENVOLVIMENTO DE APLICATIVO DE REALIDADE AUMENTADA PARA USO NO TORNO MECÂNICO MASCOTE MS-205",
+                "ano": "2024",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "VITOR MATEUS SCHMIDT",
+                "titulo": "Protocolo de comunicação industrial com verificação de recebimento de dados baseado em bluetooth low energy em plataforma Android",
+                "ano": "2023",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Carlos Hugo Soares Arruda Júnior",
+                "titulo": "Aplicação IoT com Secure Socket Layer utilizando o protocolo MQTT e plataforma ESP32",
+                "ano": "2022",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Vinícius dos Reis Amélio",
+                "titulo": "Sistema de auxílio para identificação criminal com busca em banco de imagens de tatuagens através de redes neurais",
+                "ano": "2022",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Bruno Eduardo Souza Rodrigues",
+                "titulo": "Sistema de monitoramento de medidores de energia com gateway e banco de dados de série temporal",
+                "ano": "2021",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Giancarlo Minozzo",
+                "titulo": "Robô cartesiano para irrigação com sistema baseado em visão computacional",
+                "ano": "2021",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "ROBERTO JUNIOR TRES",
+                "titulo": "DESENVOLVIMENTO DE UMA APLICAÇÃO BUSINESS INTELLIGENCE DE BAIXO CUSTO APLICADA A MÁQUINAS DE ROTOMOLDAGEM",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "GUSTAVO FELIPE PAVAN",
+                "titulo": "PROTÓTIPO DE AUTOMAÇÃO E SUPERVISÃO DE TEMPERATURA PARA CHIQUEIROS",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "EZEQUIEL PETTER",
+                "titulo": "SISTEMA ESPECIALISTA PARA SIMULAÇÃO E IDENTIFICAÇÃO DE ANOMALIAS EM SISTEMAS DE PRODUÇÃO DISCRETOS",
+                "ano": "2019",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "GABRIEL STREIT GIARETTA",
+                "titulo": "SEGMENTAÇÃO SEMÂNTICA PARA AGRICULTURA DE PRECISÃO COM REDES NEURAIS",
+                "ano": "2019",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "LEONARDO DREWS MONTIBELLER",
+                "titulo": "SISTEMAS OPERACIONAIS EM TEMPO REAL PARA PROGRAMAÇÃO DE MICROCONTROLADORES",
+                "ano": "2018",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Edenilson Lucca",
+                "titulo": "Um modelo de comunicação distribuída desenvolvido em SYSML e Redes de Petri aplicado em um processo de pesagem de polímeros",
+                "ano": "2017",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ivan Daniel Correa da Silva",
+                "titulo": "Avaliação de consumo de recursos de CPU e memória de sistemas supervisórios - estudo de caso",
+                "ano": "2016",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0027231487911194563,
+            "indian": 0.000565775902941823,
+            "black": 1.552363028167747e-05,
+            "white": 98.63933563232422,
+            "middle eastern": 0.34617289900779724,
+            "latino hispanic": 1.0111910104751587
+        }
+    }
+}

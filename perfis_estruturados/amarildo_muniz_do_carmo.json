@@ -1,0 +1,66 @@
+{
+    "campus": "- Campus Itacoatiara",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Professor Fábio Luiz Bigati",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2004,
+                "ano_fim": 2009
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2011,
+                "ano_fim": null,
+                "funcao": "Efetivo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.6525959968566895,
+            "indian": 8.293500900268555,
+            "black": 2.542778491973877,
+            "white": 28.943485260009766,
+            "middle eastern": 29.844173431396484,
+            "latino hispanic": 23.723466873168945
+        }
+    }
+}

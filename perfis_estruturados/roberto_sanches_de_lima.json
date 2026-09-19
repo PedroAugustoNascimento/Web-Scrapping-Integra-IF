@@ -1,0 +1,110 @@
+{
+    "campus": "- Câmpus Caçador",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Energia e Sustentabilidade",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Em definição",
+                "orientador": "Fabricio de Oliveira Ourique",
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Gestão de Tecnologia da Informação",
+                "instituicao": "Universidade Norte do Paraná",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Gerenciamento de Redes de Computadores",
+                "instituicao": "Faculdade de Direito da Alta Paulista",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": 2026,
+                "funcao": "Técnico de Tecnologia da Informação",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aprofundamentos Teóricos sobre Leitura e Escrita no Ensino Médio no Contexto dos Letramentos Digitais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Roberto Sanches De Lima",
+                    "Fabiana Mara Rubini"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de base de símbolos matemáticos e químicos para uso por discentes com deficiência visual",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Roberto Sanches De Lima",
+                    "Mauribio Begnini",
+                    "Luciano Barreto",
+                    "Marlon Mülhbauer",
+                    "Cícero Venâncio Nunes Júnior",
+                    "Crisliane Boito",
+                    "Vitor Prust Lourenco"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.2313520908355713,
+            "indian": 8.5270414352417,
+            "black": 3.2270917892456055,
+            "white": 23.784770965576172,
+            "middle eastern": 31.934341430664062,
+            "latino hispanic": 29.29540252685547
+        }
+    }
+}

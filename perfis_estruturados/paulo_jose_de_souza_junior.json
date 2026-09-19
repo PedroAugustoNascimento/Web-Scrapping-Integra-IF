@@ -1,0 +1,515 @@
+{
+    "campus": "- Campus Planaltina",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "instituicao": "Universidade de Brasília",
+                "orientador": "Marcelo Marotta",
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "ROTEAMENTO MULTICAMINHO PARA PROVISÃO EFICIENTE DE RECURSOS INTERDOMÍNIO COM QUALIDADE DE SERVIÇO EM REDES ÓPTICAS WDM",
+                "orientador": "Priscila América Solis M",
+                "ano_inicio": 2009,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "LuaComp: ferramenta de autoria de aplicações para TV Digital",
+                "orientador": "Paulo Roberto Gondim",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência Universitária",
+                "instituicao": "Instituto Científico de Ensino Superior e Pesquisa",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Desenvolvimento de Software",
+                "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "ano_inicio": 1988,
+                "ano_fim": 1990
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Web Design e Programação",
+                "instituicao": "unisul",
+                "ano_inicio": 2005,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharel em Administração",
+                "instituicao": "Faculdades Integradas Bennett",
+                "ano_inicio": 1982,
+                "ano_fim": 1986
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade AD1",
+                "ano_inicio": 2003,
+                "ano_fim": 2004,
+                "funcao": "Professor 3º Grau",
+                "vinculo": "Professor Cooperativista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Santa Terezinha",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Professor 3º Grau",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Científico de Ensino Superior e Pesquisa",
+                "ano_inicio": 2003,
+                "ano_fim": 2007,
+                "funcao": "Professor 3º Grau",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "SENAI - Departamento Regional do Rio de Janeiro",
+                "ano_inicio": 1995,
+                "ano_fim": 1996,
+                "funcao": "Estagiário em ADM",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Banco ITAÙ",
+                "ano_inicio": 1988,
+                "ano_fim": 1988,
+                "funcao": "escriturário",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Sintese - Telemática e Automação de Serviços",
+                "ano_inicio": 1990,
+                "ano_fim": 1990,
+                "funcao": "Desenvolvedor",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Militar de Engenharia",
+                "ano_inicio": 1990,
+                "ano_fim": 1990,
+                "funcao": "estagiário de Redes",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "SEARS",
+                "ano_inicio": 1983,
+                "ano_fim": 1983,
+                "funcao": "Vendedor Temporário",
+                "vinculo": "Termporário",
+                "descricao": ""
+            },
+            {
+                "empresa": "TASA - Telecomunicações Aeronáutica S/A",
+                "ano_inicio": 1989,
+                "ano_fim": 1990,
+                "funcao": "Estagiário COBOL",
+                "vinculo": "Estagiário",
+                "descricao": "Programador COBOL"
+            },
+            {
+                "empresa": "TEKBOX - Produtos de Alta tecnologia LTDA",
+                "ano_inicio": 1984,
+                "ano_fim": 1985,
+                "funcao": "Estagiário Pesquisa de Mercado",
+                "vinculo": "Estagiário",
+                "descricao": "Pesquisa de Mercado de Produtos de Informática"
+            },
+            {
+                "empresa": "HIGHTEC",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "instrutor",
+                "vinculo": "Não informado",
+                "descricao": "Instrutor nos Curso de Delphi e Rdes Locais"
+            },
+            {
+                "empresa": "Hospitália do Brasil",
+                "ano_inicio": 1993,
+                "ano_fim": 1994,
+                "funcao": "Programador Júnior",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Exército Brasileiro",
+                "ano_inicio": 1999,
+                "ano_fim": 2001,
+                "funcao": "Oficial Técnico Temporário",
+                "vinculo": "Servidor público",
+                "descricao": "- Projeto, Implantação e desenvolvimento de rede local em fibra ótica ( 6 km ); - Projeto, Implantação e desenvolvimento de rede Windows 98 com servidores Primários, secundários e autônomos ( B dados Oracle 8.05 ) com Windows NT 4.0; - Projeto, Implantação e desenvolvimento de intranet com proxy e home page do batalhão; - Desenvolvimento e manutenção de sistemas em delphi e oracle 8.05 ( Controle de Almoxarifado, Controle de pessoal, controle de patrimônio, Protocolo e controle de equipamentos e viaturas ); - O 3º B E Cnst, investiu mais de R$ 200.000, 00 ( duzentos mil reais ) em suas instalações de informática, para montar uma plataforma de ultima geração, ou seja, 5, 5 km de rede em fibra ótica, banco de dados Oracle 8i com programação Delphi ( Sistema de Suprimento por rede ), INTRANET, 03 servidores NT, 66 (sessenta e seis) computadores em rede, 02 (duas) Cias destacadas em rede e um Gateway para Rede Serpro . Provavelmente esta Organização Militar tornuo-se uma das mais modernas do Exército Brasileiro e a mais moderna dos Batalhões de Engenharia de Construção"
+            },
+            {
+                "empresa": "Exército Brasileiro",
+                "ano_inicio": 2002,
+                "ano_fim": 2006,
+                "funcao": "Programador",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Hospital Geral de Fortaleza",
+                "ano_inicio": 1994,
+                "ano_fim": 1997,
+                "funcao": "Gerente de Informática",
+                "vinculo": "Consultoria",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Real",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Professor do 3º Grau",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdades IESGO",
+                "ano_inicio": 2009,
+                "ano_fim": 2013,
+                "funcao": "Professor Mestre",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Professor Mestre",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade de Brasília",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Professor de Ensino Básico e Tecnológico",
+                "vinculo": "Servidor público",
+                "descricao": "Desenvolvimento de metodologias e tecnologias para ensino de programação e automação com uso de Arduino e sistemas embarcados, com foco na formação de estudantes do ensino médio, aprendizagem baseada em projetos e criação de modelos educacionais replicáveis em ambientes com baixa infraestrutura. Desenvolvimento de kits educacionais e soluções tecnológicas baseadas em Arduino e Raspberry Pi, incluindo organização de componentes, materiais didáticos e estratégias de ensino voltadas à inovação tecnológica e inclusão digital"
+            }
+        ],
+        "direcao_administracao": ": Hospital Geral de Fortaleza\nCPD (1994 - 1998) : Gerente De Informática.\nIFB - Planaltina-DF (2025): Projeto de Pesquisa: Co-orientação no projeto MANUAL DIDÁTICO DE APLICAÇÃO DO MAKEY-MAKEY PARA O ENSINO DE ANATOMIA HUMANA,\nIFB - Planaltina-DF (2022 - 2022): Projeto de Pesquisa: Programação básica em Arduino para a Comunidade de Planaltina,\nIFB - Planaltina-DF (2021 - 2021): Modelos didáticos 3D para o ensino de vírus e prevenção de doenças como o COVID-19,\nIFB - Planaltina-DF (2016): Robótica Educacional e Tecnologias Aplicadas ao Ensino,",
+        "ensino": ": Instituto Federal de Brasília\nEnsino-fundamental (2020 - 2020) .\nGraduacao (2020 - 2020) - Biologia.\nEspecializacao (2018 - 2018) - Fic.\nEnsino-medio (2013) .\nExtensão Universitária: Instituto Federal de Brasília\nInstituto Federal de Brasília: Projeto De Extensão &quot; Impressora 3d, Ferramenta De Inovação E Empreendedorismo Para A Comunidade De Surdos. (2022 - 2022) - Projeto De Extensão &quot; Impressora 3d, Ferramenta De Inovação E Empreendedorismo Para A Comunidade De Surdos..",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "Técnicas de Provisão em Redes Ópticas WDM Sensíveis às Aplicações Emergentes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "André Costa Drummond",
+                    "Lucas Rodrigues Costa",
+                    "Leia Souza De Souza"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Modelos didáticos 3D para o ensino de vírus e prevenção de doenças como o COVID-19",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Juliana Rocha De Faria Silva",
+                    "Agrinaldo Jacinto Do Nascimento Junior",
+                    "Tiago Tadeu Madrigar",
+                    "Ricardo Toshiyuki Kato",
+                    "Mayara Lustosa"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "INFORMATIZAÇÃO DOS PROCESSOS AGRÍCOLAS DE UMA UNIDADE DE ENSINO E PRODUÇÃO (UEPs) DO CAMPUS PLANALTINA VIA UTILITÁRIOS NO PADRÃO OFFICE",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Gabriel Moreira Silva"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "AUTOMATIZAÇÃO DE PROCESSOS AGRÍCOLAS DE UMA ESCOLA AGRÍCOLA FEDERAL POR MEIO DA ROBÓTICA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Kennedy Kélvin Alves Pereira"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Qualific Express 2022",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Juliana Rocha De Faria Silva",
+                    "Agrinaldo Jacinto Do Nascimento Junior",
+                    "Fernando Mourão Gutierrez",
+                    "Derlon Dreyfus Dias Da Silva"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Da abstração a automação com inclusão de surdos",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Paulo José De Souza Júnior"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Introdução básica a projetos educacionais utilizando Arduino",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo José De Souza Júnior"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Programação básica em Arduíno para a comunidade de Planaltina",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Juliana Rocha De Faria Silva",
+                    "Agrinaldo Jacinto Do Nascimento Junior",
+                    "Zaqueu Luiz De Sousa Menezes"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Como se faz Ciência? Ensinando o método científico por meio da robótica e das metodologias ativas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Juliana Rocha De Faria Silva",
+                    "Agrinaldo Jacinto Do Nascimento Junior"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Ensino de Ciências e Tecnologias: formação de professores na perspectiva do letramento científico e digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Juliana Rocha De Faria Silva",
+                    "Agrinaldo Jacinto Do Nascimento Junior"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Programação básica em Arduino para a Comunidade de Planaltina",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Agrinaldo Jacinto Do Nascimento Junior"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Qualific Express 2021",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Paulo José De Souza Júnior",
+                    "Juliana Rocha De Faria Silva",
+                    "Agrinaldo Jacinto Do Nascimento Junior"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  LuaComp",
+                    "ano": "2009",
+                    "finalidade": "TV Digital.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 09668-5."
+                },
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  Paulo R L Gondim,  LuaComp",
+                    "ano": "2009",
+                    "finalidade": "Ferramenta de Autoria para geração de aplicações para TV Digital."
+                },
+                {
+                    "autor": "André Castro",
+                    "software": "Paulo R L Gondim,  Felipe Kennedy Lopes,  Victor Teichmann,  SOUZA JÚNIOR, P. J.,  LuaOnTV",
+                    "ano": "2008",
+                    "finalidade": "Framework para desenvolvimento de aplicação para TV Digital."
+                },
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  Cel Mazzotti,  SIAPRO - Sistema de Apropriação de Custos para Engenharia de Construção",
+                    "ano": "2003",
+                    "finalidade": "Constolara a Produção e o Custo dos erviçoes de Engenharia de Construção."
+                },
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  Sistema de Controle de estoque",
+                    "ano": "1999",
+                    "finalidade": "Controlar Estoque de um Batalão de Engenharia do Exército."
+                },
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  Sistema de Gerenciamento de Hospital",
+                    "ano": "1994",
+                    "finalidade": "Gerenciar todos os Serviços em um Hospital de Grande Porte."
+                },
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  Rede de Fibra Ótica",
+                    "ano": "2000",
+                    "finalidade": "Interligar Seções num raio de 5 km."
+                },
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "software": "P. J.,  Cursos de Java, Lógica de Programação e C",
+                    "ano": "2006",
+                    "finalidade": "Disponibilizar Material de apoio para Docência."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "JÚNIOR, PAULO J.S.",
+                "titulo": "COSTA, LUCAS R.;  DRUMMOND, ANDRÉ C.;  MAROTTA, MARCELO A.;  Minimizing unavailability in Elastic Optical Networks: Pre-provisioning and provisioning protection strategy using DLP and DPP",
+                "ano": "2025",
+                "periodico": "Computer Networks. ISBN: 13891286   ."
+            },
+            {
+                "autores": "JÚNIOR, PAULO JOSÉ DE SOUZA",
+                "titulo": "RODRIGUES, LUCAS;  MAROTTA, MARCELO;  Spectrum Defragmentation Window in SDM-EON Networks",
+                "ano": "2025",
+                "periodico": "JOURNAL OF INTERNET SERVICES AND APPLICATIONS. ISBN: 18690238   ."
+            },
+            {
+                "autores": "SILVA, CLEOMACIO MIGUEL DA",
+                "titulo": "SILVA, PEDRO JOSÉ DA;  ALBUQUERQUE, ISLANITA CECÍLIA ALCANTARA DE;  NASCIMENTO JUNIOR, AGRINALDO JACINTO DO;  BRUMANA, PAULO;  SILVA, JULIANA ROCHA DE FARIA;  MADRIGAR, TIAGO TADEU;  SOUZA JÚNIOR, PAULO JOSÉ DE;  Ajuste de funções matemáticas de crescimento aos números de casos de pessoas contaminadas com o COVID-19 no Brasil: uma abordagem para o ensino médio",
+                "ano": "2021",
+                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "COSTA, L. R.",
+                "titulo": "SOUZA JÚNIOR, P",
+                "evento": "J.; MAROTTA",
+                "local": "M.; DRUMMOND, ANDRE COSTA; Janela de Desfragmentação de Espectro em Redes SDM-EON. ANAIS DO SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), Brasília",
+                "ano": "2023"
+            },
+            {
+                "autores": "SOUZA JÚNIOR, P. J.",
+                "titulo": "DRUMMOND, A",
+                "evento": "C.; Proteção por Pré-provisionamento em Redes Ópticas Elásticas. CSBC 2017 - 16º WPerformance",
+                "local": "São Paulo",
+                "ano": "2017"
+            },
+            {
+                "autores": "COSTA, L. R.",
+                "titulo": "SOUZA, L",
+                "evento": "S.; OLIVEIRA",
+                "local": "F. R.; SILVA, K. A.; SOUZA JÚNIOR, P. J.; DRUMMOND, A. C.; ONS: Simulador de Eventos Discretos para Redes Ópticas WDM/EON.. Salão de Ferramentas, 2016, Salvador. XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2016., Salvador",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOUZA JÚNIOR, P. J.",
+                "titulo": "DRUMMOND, A",
+                "evento": "C.; Partial Protection in Optical WDM Networks with Service Differentiation and Extremely High Bandwidth Requests. XX Workshop de Gerência e Operação de Redes e Serviços",
+                "local": "Vitória - ES",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOUZA JÚNIOR, P. J.",
+                "titulo": "DRUMMOND, A",
+                "evento": "C.; Proteção Parcial para Demandas de Alta Capacidade em Redes WDM Baseada em Função de Custo Abrangente. XVIII Workshop de Gerência e Operação de Redes e Serviços",
+                "local": "Brasília",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOUZA JÚNIOR, P. J.",
+                "titulo": "DRUMMOND, A",
+                "evento": "C.; Proteção Parcial para Demandas de Alta Capacidade em Redes WDM Utilizando Mecanismo de Bloqueio Preventivo. XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "local": "Brasília",
+                "ano": "2013"
+            },
+            {
+                "autores": "Priscila A. S. M.",
+                "titulo": "DRUMMOND, A",
+                "evento": "C.; SOUZA JÚNIOR",
+                "local": "P. J.; Proteção Parcial para Demandas de Alta Capacidade em Redes WDM Transparentes.. Workshop de Gerência e Operação de Redes e Serviços, Ouro Preto",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Eduardo Santos Costa",
+                "titulo": "Impacto da Certificação Digital na Economia",
+                "ano": "2010",
+                "curso": "BSI - Bacharel em Sistema de Informção",
+                "instituicao": "Faculdades IESGO"
+            }
+        ]
+    }
+}

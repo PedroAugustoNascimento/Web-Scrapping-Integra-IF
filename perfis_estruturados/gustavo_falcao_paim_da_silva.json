@@ -1,0 +1,169 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "orientador": "Maycon Leone Maciel Peixoto",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "titulo": "Modelagem e desenvolvimento de uma arquitetura para reconfiguração de unidades de detecção de emergências em cidades inteligentes",
+                "orientador": "Dr",
+                "ano_inicio": 2021,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal da Bahia",
+                "orientador": "Livia Maria Dodds de Melo",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão da Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado",
+                "orientador": "Elisandro dos Santos Lima",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Salvador",
+                "ano_inicio": 2011,
+                "ano_fim": 2015
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Coordenador de Curso - Ensino Superior",
+                "vinculo": "Servidor público",
+                "descricao": "Coordenador do Curso Superior de Tecnologia em Redes de Computadores - Instituto Federal da Bahia Campus - Santo Antônio de Jesus"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2021,
+                "funcao": "Coordenador do Curso Técnico em Informática",
+                "vinculo": "Servidor público",
+                "descricao": "Coordenador do Curso Técnico em Informática - Instituto Federal da Bahia - Campus Irecê"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": "Ciência da Computação: Redes de Computadores e Sistemas Distribuídos"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": 2018,
+                "funcao": "Técnico de Laboratório de Informática",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "SoftwareData",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Prefeitura Municipal de Feira de Santana",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Técnico em Redes de Computadores",
+                "vinculo": "Cooperativa",
+                "descricao": ""
+            },
+            {
+                "empresa": "SENAI - Departamento Regional da Bahia",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Instrutor de Informática",
+                "vinculo": "Prestação de serviço",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "JESUS, THIAGO C.",
+                "titulo": "COELHO, GUSTAVO A",
+                "evento": "A.; SILVA",
+                "local": "GUSTAVO F.; COSTA, DANIEL G.; Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas. Anais Estendidos do Simpósio Brasileiro de Sistemas Colaborativos, Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "DA SILVA, GUSTAVO FALCÃO P.",
+                "titulo": "COSTA, DANIEL G",
+                "evento": "; DE JESUS",
+                "local": "THIAGO C.; A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities. 2023 IEEE International Smart Cities Conference (ISC2), Bucharest",
+                "ano": "2023"
+            },
+            {
+                "autores": "SILVA, GUSTAVO F.",
+                "titulo": "COSTA, DANIEL G",
+                "evento": "; JESUS",
+                "local": "THIAGO C.; A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities. 2022 IEEE International Smart Cities Conference (ISC2), Pafos",
+                "ano": "2022"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jousielle Pereira Amorim",
+                "titulo": "Desenvolvimento de uma Arquitetura de Iluminação Inteligente Baseada em Internet das Coisas para Ambientes de Smart Campus",
+                "ano": "2026",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal da Bahia Campus Santo Antônio de Jesus"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.9295477867126465,
+            "indian": 5.93445348739624,
+            "black": 3.3269288539886475,
+            "white": 33.90964889526367,
+            "middle eastern": 24.42015266418457,
+            "latino hispanic": 28.479265213012695
+        }
+    }
+}

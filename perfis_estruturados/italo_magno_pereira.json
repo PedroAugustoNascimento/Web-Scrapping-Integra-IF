@@ -1,0 +1,268 @@
+{
+    "campus": "- Campus São João Evangelista",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "orientador": "Anderson Almeida Ferreira",
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "Uma abordagem para estimar a Similaridade item-item baseada nos relacionamentos semânticos da Linked Open Data",
+                "orientador": "Anderson Almeida Ferreira",
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "orientador": "Mariza Andrade da Silva Bigonha",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Ensino e Tecnologias Educacionais",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "orientador": "Dayler Vinicius Miranda Alves",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Comunitária de Ensino Superior de Itabira",
+                "ano_inicio": 2002,
+                "ano_fim": 2006
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas Ministradas: Linguagens de Programação de Computadores, Banco de Dados I e II, Tópicos em Mineração de Dados, Padrões de Projetos, Fundamentos de Redes de Computadores, Implementação de Redes de Computadores, Administração de Redes de Computadores. Informática Aplicada ao Ensino da Matemática (Licenciatura em Matemática)"
+            },
+            {
+                "empresa": "TOTVS (MG)",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "useInternational Brasil",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Rios Projetos e Sistemas",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "QualiConsult",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão Própria De Avaliação Local Do Campus São João Evangelista (representante Docentes). Portaria 1219, De 17 De Novembro De 2016. (2016 - 2017).\nMembro Da Comissão Responsável Pela Reformulação Do Projeto Pedagógico Do Curso Técnico Integrado Em Informática. Portaria 126, De 30 De Agosto De 2016. (2016 - 2017).\nMembro Do Colegiado Da Área De Informática. Portaria 149, De 20 De Setembro De 2016. (2016).\nMembro Da Comissão Responsável Pela Reformulação Do Projeto Pedagógico Do Curso Bacharelado Em Sistemas De Informação. Portaria 154, De 18 De Outubro De 2016. (2016 - 2017).\nComissão Responsável Pela Organizadoção E Realização Da I Semana De Informática Do Curso Bacharelado Em Sistemas De Informação. Portaria 155, De 18 De Outubro De 2016. (2016 - 2016).\nMembro Do Conselho Acadêmico Do Ifmg - Campus São João Evangelista (representante Docentes). Portaria 064, De 03 De Junho De 2016. (2016 - 2018).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Qualificação em Linux educacional dos professores das escolas estaduais Josefina Pimenta e José Guimarães",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Italo Magno Pereira"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Curso de introdução à robótica educacional para alunos dos ensinos fundamental e médio",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Italo Magno Pereira",
+                    "Dayler Vinícius Miranda Alves"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "BD-EDUC: Uma aplicação web para ensino de consultas SQL",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Italo Magno Pereira",
+                    "Dayler Vinícius Miranda Alves"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "I. M.,  Anderson A. Ferreira,  Uma abordagem para estimar a Similaridade item-item baseada nos relacionamentos semânticos da Linked Open Data",
+                    "ano": "2019",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PEREIRA",
+                    "curso": "I. M.,  Minicurso - ASP.NET MVC",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "PEREIRA",
+                    "curso": "I. M.,  INTRODUÇÃO AO POWERPOINT",
+                    "ano": "2015"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "TOLEDO",
+                    "evento": "B. S.,  LEMOS, K. D. C.,  ALMEIDA, W. G.,  FIGUEIREDO, R. S.,  PEREIRA, I. M.,  III Maratona Interna de Programação - MIP. 2016",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "PEREIRA, ÍTALO M.",
+                "titulo": "FERREIRA, ANDERSON A.;  A sentence similarity-based approach for enhancing entity linking",
+                "ano": "2025",
+                "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE). ISBN: 16784804   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PEREIRA, ÍTALO M.",
+                "titulo": "FERREIRA, ANDERSON A",
+                "evento": "; E-BELA: Enhanced Embedding-Based Entity Linking Approach. Proceedings of the Brazilian Symposium on Multimedia and the Web",
+                "local": "Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "PEREIRA, ÍTALO M.",
+                "titulo": "FERREIRA, ANDERSON A",
+                "evento": "; An item-item similarity approach based on linked open data semantic relationship. the 25th Brazillian Symposium",
+                "local": "Rio de Janeiro",
+                "ano": "2019"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "ANDRÉ SAYÃO PINTO DE BRITO",
+                "titulo": "ANÁLISE COMPARATIVA DE DESEMPENHO DE SGBD'S",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "MARCOS DANRLEI ANDRADE",
+                "titulo": "SIAC: SISTEMA DE AUXÍLIO A COORDENAÇÃO DO IFMG-SJE",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "VINICIOS COELHO FELIPE DA COSTA",
+                "titulo": "SIAC: SISTEMA DE AUXÍLIO A COORDENAÇÃO DO IFMG-SJE",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "ANTONIELLE HONORIO FERREIRA",
+                "titulo": "PERFORMANCE CLINIC: AVALIAÇÃO DE DESEMPENHO EM CLÍNICAS MÉDICAS",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "THIAGO PAULO DE ALMEIDA MOURÃO",
+                "titulo": "PERFORMANCE CLINIC: AVALIAÇÃO DE DESEMPENHO EM CLÍNICAS MÉDICAS",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "NATHAN AGUIAR BARBOSA SILVA",
+                "titulo": "TECNOSSOLO: SOFTWARE PARA CLASSIFICAÇÃO DE SOLOS ATÉ O QUARTO NÍVEL CATEGÓRICO",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFMG - Campus São João Evangelista"
+            },
+            {
+                "orientando": "THÚLIO FRANCYS SOARES",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "ANDRÉ LUIZ GOMES DA SILVA",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "DANIEL PEREIRA DE AZEVEDO",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.6780662536621094,
+            "indian": 6.449853420257568,
+            "black": 0.7103341817855835,
+            "white": 30.169898986816406,
+            "middle eastern": 24.66412353515625,
+            "latino hispanic": 35.327728271484375
+        }
+    }
+}

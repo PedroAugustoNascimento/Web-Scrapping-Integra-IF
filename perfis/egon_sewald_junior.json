@@ -117,7 +117,7 @@
                 "cargo": "Professor."
             }
         ],
-        "direcao_administracao": ": Instituto Federal de Santa Catarina\nReitoria (2020 - 2021) : Pró-reitor De Desenvolvimento Institucional.\nInstituto Federal de Santa Catarina - Campus Caçador (2017 - 2017) : Coordenador Curso De Sistemas De Informação.\nPesquisa e Desenvolvimento\nPesquisa (2002 - 2004): Inteligência de Negócios, Gestão de Conhecimento, Apoio à Decisão,\nFábrica de Software Sistemas de Informação (2004 - 2015): Sistemas de Informação, Gestão de conhecimento, Inteligência de Negócios, Qualidade de Software, Inteligência competitiva, Inteligência Artifical,\nInstituto Federal de Santa Catarina - Campus Caçador (2017 - 2018): Modelagem de Negócios Centro de Inovação de Caçador, formação de clusters sob demanda e Ecossistema de Inovação,\nInstituto Federal de Santa Catarina - Câmpus Florianópolis (2017 - 2018): Painel de Bordo Digital para Acompanhamento de Projetos e Obras - Paicidade,\nMatriz (2014 - 2015): Engenharia e Gestão de Conhecimento, Software de Apoio à Decisão, Informática Jurídica,",
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nReitoria (2020 - 2021) : Pró-reitor De Desenvolvimento Institucional.\nInstituto Federal de Santa Catarina - Campus Caçador (2017 - 2017) : Coordenador Curso De Sistemas De Informação.\nPesquisa e Desenvolvimento\nPesquisa (2002 - 2004): Inteligência de Negócios, Gestão de Conhecimento, Apoio à Decisão,\nFábrica de Software Sistemas de Informação (2004 - 2015): Sistemas de Informação, Gestão de conhecimento, Inteligência de Negócios, Qualidade de Software, Inteligência competitiva, Inteligência Artifical,\nInstituto Federal de Santa Catarina - Campus Caçador (2017 - 2018): Modelagem de Negócios Centro de Inovação de Caçador, formação de clusters sob demanda e Ecossistema de Inovação,\nInstituto Federal de Santa Catarina - Câmpus Florianópolis (2017 - 2018): Painel de Bordo Digital para Acompanhamento de Projetos e Obras - Paicidade,\nMatriz (2014 - 2015): Software de Apoio à Decisão, Informática Jurídica, Engenharia e Gestão de Conhecimento,",
         "ensino": ": Instituto de Ensino Superior da Grande Florianópolis\nGraduacao (2015 - 2016) - Ciência Da Computação.\nExtensão Universitária: Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina: Empresa Júnior Tecnologia Da Informação E Comunicação (2017 - 2017) - Empresa Júnior Tecnologia Da Informação E Comunicação.",
         "comissoes": ": Instituto Federal de Santa Catarina\nRepresentante Docente Cdp/ Membro Da Comissão Permanente De Pessoal Docente (2016).",
         "projetos": [
@@ -128,21 +128,6 @@
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Egon Sewald Junior"
-                ],
-                "financiador": "Universidade para o Desenvolvimento do Alto Vale do Itajaí,"
-            },
-            {
-                "instituicao": "Universidade para o Desenvolvimento do Alto Vale do Itajaí",
-                "nome": "Transreg - Prefeitura Virtual",
-                "periodo": "2005 - 2006",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Egon Sewald Junior",
-                    "Ingobert Piske",
-                    "Fabio Alexandrini",
-                    "Juiliano Brignoli",
-                    "Fransisco Spaeth",
-                    "Marco Aurélio Butzke"
                 ],
                 "financiador": "Universidade para o Desenvolvimento do Alto Vale do Itajaí,"
             },
@@ -159,6 +144,21 @@
                     "Juliano Tonizetti Brignoli",
                     "Francisco Spaeth"
                 ]
+            },
+            {
+                "instituicao": "Universidade para o Desenvolvimento do Alto Vale do Itajaí",
+                "nome": "Transreg - Prefeitura Virtual",
+                "periodo": "2005 - 2006",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Egon Sewald Junior",
+                    "Ingobert Piske",
+                    "Fabio Alexandrini",
+                    "Juiliano Brignoli",
+                    "Fransisco Spaeth",
+                    "Marco Aurélio Butzke"
+                ],
+                "financiador": "Universidade para o Desenvolvimento do Alto Vale do Itajaí,"
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
@@ -208,16 +208,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Estrutura para Dados Abertos",
-                "periodo": "2018 - 2019",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Egon Sewald Junior",
-                    "Antônio Pereira Cândido"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Escrtitório de Projetos Tecnologia de Informação e Comunicação",
                 "periodo": "2018",
                 "natureza": "Extensao",
@@ -225,6 +215,16 @@
                     "Egon Sewald Junior",
                     "Antônio Pereira Cândido",
                     "Felipe Cantório Soares"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Estrutura para Dados Abertos",
+                "periodo": "2018 - 2019",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Egon Sewald Junior",
+                    "Antônio Pereira Cândido"
                 ]
             },
             {
@@ -517,8 +517,8 @@
                     "instituicao_promotora": "Universidade Federal de Santa Catarina."
                 },
                 {
-                    "autores": "AMARAL",
-                    "evento": "R.,  FREIRE, P. S.,  KAMISNSKI, D.,  GILWAN, G.,  SEWALD JUNIOR, Egon,  FERENHOF, H. A.,  FERNANDES, R. F.,  PACHECO, R. C.,  SANTOS, N.,  SELIG, P. M.,  BORGES, M. A.,  7o Workshop EGC",
+                    "autores": "FREIRE",
+                    "evento": "P. S.,  KAMISNSKI, D.,  GILWAN, G.,  SEWALD JUNIOR, Egon,  FERENHOF, H. A.,  FERNANDES, R. F.,  PACHECO, R. C.,  SANTOS, N.,  SELIG, P. M.,  AMARAL, R.,  BORGES, M. A.,  7o Workshop EGC",
                     "ano": "2010",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Universidades Federal de Santa Catarina."
@@ -846,8 +846,8 @@
                 "periodico": "Anales de SIE 2010. ISBN: 18512526   ."
             },
             {
-                "autores": "ALEXANDRINI, F.",
-                "titulo": "BUTZKE, M. A.;  BRIGNOLI, J. T.;  PISKE, I.;  Spaeth, F.;  SEWALD JUNIOR, Egon;  Estratégias em Governo Eletrônico Municipal - Prefeitura Virtual",
+                "autores": "BUTZKE, M. A.",
+                "titulo": "ALEXANDRINI, F.;  BRIGNOLI, J. T.;  PISKE, I.;  Spaeth, F.;  SEWALD JUNIOR, Egon;  Estratégias em Governo Eletrônico Municipal - Prefeitura Virtual",
                 "ano": "2007",
                 "periodico": "Lecture Notes in Computer Science. ISBN: 03029743   ."
             }

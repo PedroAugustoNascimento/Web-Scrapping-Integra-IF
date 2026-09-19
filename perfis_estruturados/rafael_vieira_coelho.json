@@ -1,0 +1,922 @@
+{
+    "campus": "- Campus Farroupilha",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Biotecnologia",
+                "instituicao": "Universidade de Caxias do Sul",
+                "titulo": "Redes Neurais Artificiais Aplicadas no Reconhecimento de Regiões Promotoras em Bactérias Gram-positivas",
+                "orientador": "Ana Paula Longaray Delamare",
+                "ano_inicio": 2014,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Prevenção contra Ataques de Poluição de Conteúdo em Sistemas P2P de Live Streaming",
+                "orientador": "Marinho Barcellos e Ingrid Jansch Porto",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2003,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Integrante",
+                "vinculo": "Bolsista Mestrado",
+                "descricao": "Descrição: Este projeto enquadra-se na área de live-streaming multicast em redes peer-to-peer. A idéia é aproveitar o espírito colaborativo de usuários que se vinculam através de redes peer-to-peer para compartilhar informações (tipicamente transmissões) em tempo real. Estas informações são geradas e difundidas a partir de um servidor, visam quantidade numerosa de usuários e devem chegar a estes dentro de condições adequadas para que o resultado recebido tenha qualidade de imagem e som, permitindo sua reprodução apenas com pequenos atrasos. A alta dinâmica encontrada na Internet, com a entrada e saída de nodos, e com variáveis nas intenções e possibilidades de cooperação dos usuários v~em sido modeladas como defeitos relacionados aos componentes do sistema. Como escopo, este projeto concentra-se em redes peer-to-peer com topologia de interconexão mesh (composição randômica), devido à sua robustez a ataques. São considerados participantes heterogêneas quanto à banda de conexão em sua ligação a Internet ou seja, com capacidades variadas no recebimento e principalmente quanto ao seu potencial de contribuição de informações à rede. Inicialmente foram considerados apenas nodos altruístas (plenamente cooperativos), com ênfase no tratamento da heterogeneidade através de uma abordagem topológica. Atualmente encontram-se em estudo: (1) a construção e manutenção de overlays dinâmicos; (2) a modelagem mais completa de participantes (com ênfase no modelo BAR, que inclui perfis de comportamento: bizantino, altruísta e racional) e sua potencialidade para descrição destes através da Teoria de Jogos. Os resultados destes trabalhos devem convergir para um ambiente adequado à simulação/experimentação de aplicações de live-streaming multicast cujas características sejam mais similares à dinâmica encontrado na Internet, com perfis diferenciados de comportamento e formas de conexão variadas.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico ( 3) . Int"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor Assistente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Teracom Telemática",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Projetista de Software",
+                "vinculo": "Empregado CLT",
+                "descricao": ""
+            },
+            {
+                "empresa": "XIV Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "JOURNAL OF EXPERIMENTAL & THEORETICAL ARTIFICIAL INTELLIGENCE",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Aplicações live-streaming em redes P2P",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Torneio de Futsal do IFRS Farroupilha",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "6ª COPA CRUZAMENTO - UCS",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Curso FIC de Introdução a Linguagem JAVA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Curso FIC de Capacitação Docente para Informática Básica",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Manutenção do Software SIA: Sistema de Informações Acadêmicas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Aline Favretto",
+                    "Jean Carlos Ramos",
+                    "Alexandre Leite"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Equipe de Estudo sobre Tópicos Avançados de Programação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Douglas Silveira",
+                    "Thais Koch",
+                    "Bryan Aislan Zinn",
+                    "Otávio Farinon"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Auxílio no Desenvolvimento de software SIA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Aline Favretto",
+                    "Jean Carlos Ramos",
+                    "Alexandre Leite"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Treinamento de Participantes de Maratona de Programação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otávio Farinon",
+                    "Josias Leal",
+                    "Mariana Sartori",
+                    "Matheus Vieira"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,",
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Planjemaneto do Software para Distribuição de Disciplinas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Rodolfo Lima"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Análise sobre o uso de Métodos Ágeis em Competições de Programação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Rodolfo Lima"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria para Disciplinas de Programação no Ensino Médio",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otávio Farinon",
+                    "Everton Leno"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "IFTorrent: Compartilhando Arquivos e Ideias",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otávio Farinon",
+                    "Eduardo Toffolo",
+                    "Leonardo Bortolini",
+                    "Gabriel Muller",
+                    "Garrenlus De Souza",
+                    "Guilherme Giordani"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Desenvolvimento de Jogos 3D para Auxílio no Ensino-Aprendizagem de Algoritmos",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Thais Koch",
+                    "Otávio Farinon",
+                    "Gabriel Muller",
+                    "Garrenlus De Souza",
+                    "Raiana Gaiardo",
+                    "Erick Cignachi",
+                    "Otavio Capovilla"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria para Disciplinas de Programação",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otávio Farinon",
+                    "Leonardo Bortolini",
+                    "Gabriel Muller",
+                    "Otavio Capovilla",
+                    "Leonardo Gasperin",
+                    "Júlio Cesar De Bona"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria para Disciplinas de Algoritmos e de Programação",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otávio Farinon",
+                    "Eduardo Toffolo",
+                    "Leonardo Bortolini",
+                    "Gabriel Muller",
+                    "Sérgio Brunetta"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "IFTorrent: Compartilhando Arquivos e Ideias",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otávio Farinon",
+                    "Gustavo Tausendfreund",
+                    "Eduardo Toffolo",
+                    "Leonardo Bortolini",
+                    "Gabriel Muller",
+                    "Garrenlus De Souza",
+                    "Guilherme Giordani",
+                    "Eduardo Balbinot"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria para Disciplinas de Programação",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Otavio Capovilla",
+                    "Augusto Duarte Farias"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Uso de Redes Neurais Artificiais na Diminuição de Evasão de Alunos",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Atividades remotas de integração da comunidade acadêmica do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRS Campus Farroupilha",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Felipe Sampaio"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Webinars sobre tecnologias da área de informática",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Felipe Sampaio"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Desenvolvimento de Games Virtuais Educativos em LibGDX",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Cassiano José Sobierai",
+                    "Gabriel Lovato Vianna",
+                    "José Henrique Noal"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Uso de Redes Neurais em Jogos Digitais no Contexto Acadêmico",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rafael Vieira Coelho"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Desenvolvimento de Aplicativos para Android",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Bruna Dall Bello",
+                    "Elisa Gajardo"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Redes Neurais Artificiais Aplicadas no Reconhecimento de Regiões Promotoras em Bactérias Gram-positivas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Scheila De Avila E Silva",
+                    "Ana Paula Delamare"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Software para gerenciamento da proteção de redes de distribuição de energia elétrica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rafael Vieira Coelho",
+                    "Rafael Correa"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "COELHO",
+                    "software": "R. V.,  BacSVM+: Predição de Promotes de Gram-positivas através de SVM",
+                    "ano": "2016",
+                    "finalidade": "Definir a melhor combinação de parâmetros LIBSVM para prever promotores procariotas..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR5020160004-0."
+                },
+                {
+                    "autor": "COELHO",
+                    "software": "R. V.,  Madruga, F.,  P. Marcelo,  Filho, N. D.,  Hamerski, J.,  Estimando Atrasos em Redes de Computadores através de Sistemas de Coordenadas - Uma Implementação Utilizando Java Web Services",
+                    "ano": "2007",
+                    "finalidade": "Estimativa de atrasos em redes de computadores através da criação de mapas topológicos."
+                },
+                {
+                    "autor": "LUVISON",
+                    "software": "M.,  COELHO, R. V.,  Atuação no Departamento de Tecnologia da Informação IFRS ? Campus Sertão",
+                    "ano": "2012",
+                    "finalidade": "Relatório de Estágio Curricular."
+                },
+                {
+                    "autor": "COSTA",
+                    "software": "F. B. D.,  COELHO, R. V.,  ATIVIDADES REALIZADAS JUNTO AO DEPARTAMENTO DE TECNOLOGIA DA INFORMAÇÃO",
+                    "ano": "2012",
+                    "finalidade": "Relatório de Estágio Curricular."
+                },
+                {
+                    "autor": "COELHO",
+                    "software": "R. V.,  FURGTV: STREAMING VIDEO VIA MULTICAST",
+                    "ano": "2007",
+                    "finalidade": "Disponibilização da Televisão Local da Fundação Universidade Federal do Rio Grande."
+                },
+                {
+                    "autor": "COELHO",
+                    "software": "R. V.,  Padrões de Middleware para TV Digital",
+                    "ano": "2007",
+                    "finalidade": "Pesquisa sobre os atuais Padrões de Middleware para TV Digital."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "COELHO",
+                    "titulo": "R. V.,  Filho, N. D.,  TV na Internet",
+                    "ano": "2007",
+                    "instituicao_promotora": "FURG - Fundação Universidade Federal do Rio Grande."
+                },
+                {
+                    "autores": "COELHO",
+                    "titulo": "R. V.,  Madruga, F.,  P. Marcelo,  Filho, N. D.,  Hamerski, J.,  Estimando Atrasos em Redes de Computadores através de Sistemas de Coordenadas - Uma Implementação Utilizando Java Web Services",
+                    "ano": "2007",
+                    "instituicao_promotora": "Universidade Federal de Santa Maria."
+                },
+                {
+                    "autores": "COELHO",
+                    "titulo": "R. V.,  Filho, N. D.,  Computação de Alto Desempenho sobre Agregados de Computadores",
+                    "ano": "2006",
+                    "instituicao_promotora": "FURG - Fundação Universidade Federal do Rio Grande."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOBIERAI",
+                    "curso": "C. J.,  VIANNA, G. L.,  COELHO, RAFAEL VIEIRA,  Desenvolvimento de Games Virtuais em LibGDX",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "COELHO",
+                    "curso": "RAFAEL VIEIRA,  Sampaio, F.,  CAPOVILLA, O.,  Curso Linguagem de Programação RUBY",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "COELHO",
+                    "curso": "RAFAEL VIEIRA,  Introdução ao Sistema Operacional Linux",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "COELHO",
+                    "curso": "R. V.,  Introdução à Linguagem Python",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "COELHO",
+                    "curso": "R. V.,  Curso FIC de Capacitação Docente para Informática Básica",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "MANFREDINI",
+                    "evento": "R.,  PEREIRA, G. V.,  De Conti, F.,  COELHO, R. V.,  XIX Escola Regional de Banco de Dados (ERBD 2024)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul."
+                },
+                {
+                    "autores": "COELHO",
+                    "evento": "R. V.,  10a Jornada Científica, Tecnológica e Cultural (PENSE)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS."
+                },
+                {
+                    "autores": "Sampaio",
+                    "evento": "F.,  Tausendfreund, G.,  COELHO, R. V.,  XiX Olimpíada Brasileira de Informática (OBI)",
+                    "ano": "2017",
+                    "duracao_semanas": "6",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "G. KUNZEL",
+                    "evento": "COELHO, R. V.,  Desafio da Arena - PEnsE - 2a Jornada Científica, Tecnológica e Cultural do Campus Farroupilha",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS - Campus Farroupilha."
+                },
+                {
+                    "autores": "COELHO",
+                    "evento": "R. V.,  Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais - SBSEG",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Sul - UFGRS."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "DE AVILA E SILVA, SCHEILA",
+                "titulo": "DALL'ALBA G.;  COELHO, R. V.;  E-book: Bioinformática Contexto Computacional e Aplicações",
+                "ano": "2020",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786558070016 (Publicado)."
+            },
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "Sra. Fantini",
+                "ano": "2010",
+                "informacoes_adicionais": "Varios. ISBN: 9788562580116, São Paulo (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "SILVA, S. A.;  DALL'ALBA G.;  ECHEVERRIGARAY, S.;  DELAMARE, A. P.;  Towards Algorithms for Automation of Postgenomic Data Analyses: Bacillus subtilis Promoter Prediction with Artificial Neural Network",
+                "ano": "2019",
+                "periodico": "OMICS: A Journal of Integrative Biology. ISBN: 15578100   ."
+            },
+            {
+                "autores": "COELHO, RAFAEL VIEIRA",
+                "titulo": "DE AVILA E SILVA, SCHEILA;  ECHEVERRIGARAY, SERGIO;  DELAMARE, ANA PAULA LONGARAY;  Bacillus subtilis promoter sequences data set for promoter prediction in Gram-positive bacteria",
+                "ano": "2018",
+                "periodico": "DATA IN BRIEF. ISBN: 23523409   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, S. A.",
+                "titulo": "COELHO, R",
+                "evento": "V.; PORTELA",
+                "local": "P.; PAZ, J.; ECHEVERRIGARAY, S.; Comparação entre diferentes modelos de cálculo de curvatura do DNA como parâmetro de predição e reconhecimento in silico de promotores alternativos de Escherichia coli. XXXIV Congresso da Sociedade Brasileira de Computação (CSBC), Brasília",
+                "ano": "2014"
+            },
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "PASTRO, J",
+                "evento": "; ANTUNES",
+                "local": "R.; MARINHO, P.; JANSCH-PÔRTO, I.; GASPARY, L. P.; Challenging the Feasibility of Authentication Mechanisms for P2P Live Streaming. ACM/IFIP Latin American Networking Conference, Quito",
+                "ano": "2011"
+            },
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "MARINHO, P",
+                "evento": "; JANSCH-PÔRTO",
+                "local": "I.; GASPARY, L. P.; P2P Streaming de Alta Definição: Análise Quantitativa de Esquemas de Assinatura Digital para Autenticação de Conteúdo. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Gramado",
+                "ano": "2010"
+            },
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "Filho, N",
+                "evento": "D.; Madruga",
+                "local": "F.; P. Marcelo; Hamerski, J.; Estimando Atrasos em Redes de Computadores através de Sistemas de Coordenadas - Uma Implementação Utilizando Java Web Services. V ERRC - Escola Regional de Redes de Computadores, Santa Maria",
+                "ano": "2007"
+            },
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "PADRÕES DE MIDDLEWARE PARA TV DIGITAL",
+                "evento": "CRICTE 2007 - XXII CONGRESSO REGIONAL DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA EM ENGENHARIA E VII FEIRA DE PROTÓTIPOS",
+                "local": "Passo Fundo",
+                "ano": "2007"
+            },
+            {
+                "autores": "P. Marcelo",
+                "titulo": "COELHO, R",
+                "evento": "V.; Filho",
+                "local": "N. D.; Madruga, F.; Hamerski, J.; Estimando Atrasos em Redes de Computadores através de Sistemas de Coordenadas - A Ferramenta Euclidiana. CRICTE 2007 - XXII CONGRESSO REGIONAL DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA EM ENGENHARIA E VII FEIRA DE PROTÓTIPOS, Passo Fundo",
+                "ano": "2007"
+            },
+            {
+                "autores": "COELHO, R. V.",
+                "titulo": "Filho, N",
+                "evento": "D.; Computação de Alto Desempenho. I Semana Interna da Engenharia de Computação ? SIECOMP",
+                "local": "Rio Grande",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Pedro Oliveira da Cruz",
+                "titulo": "Sistema de controle para dispositivo de combate a incêndios estruturais, utilizando o algoritmo YOLO para detectar a presença de fogo",
+                "ano": "2024",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Lucas de Ramos Trubian",
+                "titulo": "Desenvolvimento de uma Plataforma de Autosserviço como Ferramenta-Chave na Resolução de Problemas",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "William Colombo Breda",
+                "titulo": "Implantação de Backend com Pipeline CI/CD utilizando GitHub Actions e AWS EC2",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Gabriel Farinela",
+                "titulo": "Sistema Gerenciador de Eventos: Facilitando a Busca de Atividades para Usuários em Geral",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Caroline Caprini",
+                "titulo": "Rabbit?s Challenge: Aprendizagem de Conceitos de Lógica de Programação através de Aplicação Gamificada",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Gustavo de Bortoli",
+                "titulo": "CRIAÇÃO DE PONTO DE VENDA MULTIPLATAFORMA ACOPLADO AO ERP MICROSOFT DYNAMICS AX 2012",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Vinicius Toso",
+                "titulo": "INTEGRAÇÃO DE SISTEMAS INTERNOS COM SOLUÇÃO LOGÍSTICA PARA GERENCIAMENTO DE PEDIDOS",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Diego Turchetto",
+                "titulo": "APP FIT HEALTH: UM APLICATIVO DE APOIO PARA PERSONAL TRAINER",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Ana Laura Barbieri Jum",
+                "titulo": "Aplicação Mobile para Controle Financeiro Pessoal",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Angela Reginatto Benvenuti",
+                "titulo": "Aplicação Mobile para Controle Financeiro Pessoal",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Camile Weber",
+                "titulo": "Sistema de Conectividade e Educação Ambiental",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Rafael Borges Graunke",
+                "titulo": "EnemAI: inteligência artificial para avaliação automatizada de redações do ENEM",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Tiago da Costa Farinon",
+                "titulo": "DESENVOLVIMENTO DE MÓDULO CRM PARA GERENCIAMENTO DE TAREFAS EM PORTAL DE AUTOMAÇÃO DE FORÇA DE VENDAS",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Jean Carlos Pedron",
+                "titulo": "Monitoramento e Controle de Dados de uma Estufa utilizando ESP32, MYSQL e HTML",
+                "ano": "2022",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "André Lorenzi Pedroni",
+                "titulo": "Aquisição de Dados de Plantio utilizando Sensores, ESP32 e MySQL",
+                "ano": "2022",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Francisco Argenta",
+                "titulo": "?Ajuda-Me? ? Plataforma WEB para Auxílio sobre Doenças Mentais",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Andressa Conterno Dal Magro",
+                "titulo": "Aplicação Híbrida WEB e Mobile para o Gerenciamento Compartilhado de Atividades",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Estêvão Machado",
+                "titulo": "LIFE +ATENDIMENTO: APLICATIVO MÓVEL PARA UMA EMPRESA DE SAÚDE REALIZAR O ACOMPANHAMENTO E PREENCHIMENTO DE QUESTIONÁRIOS DE SEUS CLIENTES",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Elias Appio Mezalira",
+                "titulo": "USO DE BLOCKCHAIN EM SISTEMAS DE ELEIÇÃO",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Cléber Macieski",
+                "titulo": "GERENCIAMENTO DE NEGOCIAÇÃO COM ARBITRAGEM EM BLOCKCHAIN",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Guilherme Giordani",
+                "titulo": "DESENVOLVIMENTO DE BIBLIOTECA PARA AUXILIAR NA PROGRAMAÇÃO VISUAL EM JAVAFX",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Andressa Flores",
+                "titulo": "DOCTORON: SOFTWARE DESENVOLVIDO PARA A REALIZAÇÃO DE CONSULTAS MÉDICAS",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Camila Bortolotto",
+                "titulo": "SIMPLIFICA: PLATAFORMA DE AMBIENTAÇÃO DOS CURSOS TÉCNICOS INTEGRADOS AO ENSINO MÉDIO",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Ana Júlia Schaparini Dillmann",
+                "titulo": "SILABALIZANDO - UM JOGO DESKTOP PARA O PROCESSO DE ALFABETIZAÇÃO INFANTIL",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Isabella Alves de Cesaro",
+                "titulo": "ESTUDO DO EFEITO ESTUFA ATRAVÉS DE FERRAMENTA DE ANIMAÇÃO",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Nelson de Almeida",
+                "titulo": "Desenvolvimento de uma Aplicação WEB para Oficinas Mecânicas de Farroupilha",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Caroline Caprini da Silveira",
+                "titulo": "Sakura Gaming&#8203;: Ferramenta de Inclusão e Apoio às Mulheres nos &#8203;Esports",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Raiana Gaiardo Girardi",
+                "titulo": "Inteligência Artificial em Jogos: Uma Ferramenta na Aprendizagem de Programação de Computadores",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Garrenlus de Souza",
+                "titulo": "Coder_Rebirth & GOAP Framework: Extensão da Modelagem de Árvore de Comportamento à Arquitetura GOAP Aplicada no Desenvolvimento de um RPG",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Gabriel Muller",
+                "titulo": "Desenvolvimento e Gerenciamento da Engine em Jogo Voltado ao Ensino-aprendizagem de Programação",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Erick Cignachi",
+                "titulo": "Desenvolvimento e Gerenciamento do Design em Jogo Voltado ao Ensino-aprendizagem de Programação",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Carolina Lenzi Leissmann",
+                "titulo": "Sistema para Organização de Fontes de Informação Utilizando TAGs",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Eloisa Rebelatto",
+                "titulo": "Alinhamento de Sequências de DNA e Proteínas",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Lucas Biasibetti de Pellegrini",
+                "titulo": "Desenvolvimento de um Jogo Digital Aplicado ao Sistema Imunológico",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Elisa Gajardo",
+                "titulo": "CELESTISAR: Jogo Educativo para Dispositivos Android como Ferramenta de M-Learning em Astronomia",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Bruna Dal Bello",
+                "titulo": "Desenvolvimento de um Aplicativo Android para Simular o Consumo de Energia Elétrica Residencial",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Mariana Sartori",
+                "titulo": "Desenvolvimento de Software para Controle de Componentes Químicos do Solo Visando a Eficiência Produtiva e Ambiente de um Estabelecimento Rural",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Bruna Canali",
+                "titulo": "Sistema web para ONG dos Peludos",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Aline Noronha Favretto",
+                "titulo": "Auxílio no Desenvolvimento do Software SIA",
+                "ano": "2013",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Márcio Luvison",
+                "titulo": "Atuação no Departamento de Tecnologia da Informação IFRS ? Campus Sertão",
+                "ano": "2012",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Fernando Buligon Dalla Costa",
+                "titulo": "Atividades Realizadas junto ao Departamento de Tecnologia da Informação",
+                "ano": "2012",
+                "curso": "Técnico em Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Fábio Zamboni Basso",
+                "titulo": "Sistema Del Grano",
+                "ano": "2011",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.4019891023635864,
+            "indian": 1.1134589910507202,
+            "black": 0.20115582644939423,
+            "white": 56.40078353881836,
+            "middle eastern": 19.88998031616211,
+            "latino hispanic": 21.99263572692871
+        }
+    }
+}

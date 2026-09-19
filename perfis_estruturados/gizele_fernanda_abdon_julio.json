@@ -1,0 +1,152 @@
+{
+    "campus": "- Campus São Sebastião",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "Processamento de Mapas de Profundidade para codificação e síntese de vídeo",
+                "orientador": "Camilo Chang Dórea",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "graduação Lato Sensu em Docência para a Educação Profissional e Tecnoló",
+                "instituicao": "Instituto Federal de Brasília",
+                "orientador": "Simone Pinheiro Santos",
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 2010,
+                "ano_fim": 2014
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Companhia de Desenvolvimento de Barcarena",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Departamento de Trânsito do Pará",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Estagiário na área de TI",
+                "vinculo": "Estágio",
+                "descricao": "Trabalhava com Banco de Dados - Sql"
+            },
+            {
+                "empresa": "Laboratório de Desenvolvimento de Redes de Alto Desempenho",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Bolsista de Iniciação Científica",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Laboratório de Desenvolvimento de Redes de Alto Desempenho",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Bolsista de Iniciação Científica",
+                "vinculo": "Bolsista",
+                "descricao": "Atuaçao na área de avaliação de Desempenho de Tecnologia de Acesso WiMAX"
+            },
+            {
+                "empresa": "Procuradoria Regional do Trabalho 8ª região",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Estagiário de Informática",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Brasilia",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Projeto ElaTech",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Gizele Fernanda Abdon Júlio",
+                    "João Gabriel Rocha Silva",
+                    "Gabriela Barbosa Oliveira",
+                    "Gabriel Victor Vieira Nunes"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "FRANCES",
+                    "titulo": "R. L.,  SILVA, M. S.,  JÚLIO, G. F. A.,  Estudo de Viabilidade do Uso da Tecnologia WiMax como Canal de Retorno do Sistema Brasileiro de TV Digital na Região Amazônica",
+                    "ano": "2011",
+                    "instituicao_promotora": "PROPESP."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "JÚLIO, G. F. A.",
+                "titulo": "DOREA, C",
+                "evento": "; MACHIAVELLO",
+                "local": "B.; Otimização de distorção de profundidade admissível para codificação de mapas de profundidade. XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Santarém",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.315832257270813,
+            "indian": 0.798247754573822,
+            "black": 0.10251640528440475,
+            "white": 62.4276237487793,
+            "middle eastern": 14.728978157043457,
+            "latino hispanic": 21.62680435180664
+        }
+    }
+}

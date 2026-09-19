@@ -1,0 +1,161 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Monitoramento de variáveis ambientais atmosféricas e oceanográficas",
+                "orientador": "Jés de Jesus Fiais Cerqueira",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Acelerando Aplicações Via Hardware Reconfigurável",
+                "orientador": "Vinicius Tavares Petrucci",
+                "ano_inicio": 2018,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2009,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Controle e Automação de Processos",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": "Área de Ciência da Computação"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Estagiário",
+                "vinculo": "Livre",
+                "descricao": ""
+            },
+            {
+                "empresa": "RMS Software S/A",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Programador",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Kordsa Brasil S/A",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Estagiário de Tecnologia da Informação",
+                "vinculo": "Estágio",
+                "descricao": "Atividade: Desenvolvimento e manutenção de softwares internos"
+            },
+            {
+                "empresa": "LPG Soluções",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Programador Pleno",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2019,
+                "ano_fim": 2023,
+                "funcao": "Analista de Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaiba - DF",
+                "ano_inicio": 2023,
+                "ano_fim": 2024,
+                "funcao": "Analista em Desenvolvimento Regional",
+                "vinculo": "Não informado",
+                "descricao": "Atuando formalmente como engenheiro de computação"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SANTOS",
+                    "software": "T. M.,  Progres Simulator",
+                    "ano": "2015",
+                    "finalidade": "Simulação de circuitos digitais."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "LIMA",
+                    "evento": "I. V. H.,  CARVALHO, C. B.,  SANTOS, T. M.,  III Arvorecer Negro",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Baiano - Campus Teixeira de Freitas."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, T. M.",
+                "titulo": "MATOS JUNIOR, D",
+                "evento": "M.; PETRUCCI",
+                "local": "V. T.; Aceleração Computacional usando FPGAs. IV Escola Regional de Alto Desempenho - Região Nordeste, Salvador",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.379385948181152,
+            "indian": 5.818645477294922,
+            "black": 1.778775691986084,
+            "white": 34.080711364746094,
+            "middle eastern": 24.626279830932617,
+            "latino hispanic": 27.316198348999023
+        }
+    }
+}

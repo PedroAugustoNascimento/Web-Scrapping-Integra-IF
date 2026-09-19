@@ -1,0 +1,758 @@
+{
+    "campus": "- Campus Betim",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Desenvolvimento de um Sistema de Localização e Reconstrução de Trajetória para um Veículo Terrestre",
+                "orientador": "Leonardo Antonio Borges Tôrres; Guilherme Augusto S",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Aperfeiçoamento em Educação Profissional e Tecnológica",
+                "instituicao": "FACULDADE UNINA",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "ano_inicio": 2002,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas Ministradas: Informática Industrial e Sistemas Digitais"
+            },
+            {
+                "empresa": "Universidade Federal de Minas Gerais",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Bolsista",
+                "vinculo": "Iniciação Científica",
+                "descricao": ""
+            },
+            {
+                "empresa": "CIMTEC Engenharia e Sistemas",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Estágiária",
+                "vinculo": "Estágiária",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Brasileira de Ciências Exatas, Humanas e Sociais",
+                "ano_inicio": 2009,
+                "ano_fim": 2012,
+                "funcao": "Professor Assistente",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário Presidente Antônio Carlos",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professora Adjunta",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário UNA",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Professor Assistente",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Betim (2023) : Chefe Do Setor De Extensão Do Campus Betim.\nCampus Betim (2015 - 2021) : Coordenação Dos Cursos Técnicos Em Automação Industrial.\nPesquisa e Desenvolvimento\nEscola de Engenharia (2007): Visão Computacional e Robótica,\nEscola de Engenharia (2005 - 2006): Computação Ubíqua e Autonômica, Redes de Sensores Sem Fio,\nInstituto Federal de Minas - Campus Betim (2015): Automação de processos industriais, Robótica, Educação,",
+        "ensino": ": Instituto Federal Minas Gerais\nGraduacao (2016) - Engenharia De Controle E Automação.\nGraduacao (2012 - 2014) - Engenharia Elétrica.\nEnsino-medio (2012) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "Um Sistema para o Sensoriamento e Rastreamento Ambiental Utilizando Redes de Sensores Sem Fio",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Linnyer Beatrys Ruiz"
+                ],
+                "financiador": "Universidade Federal de Minas Gerais,",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "nome": "Desenvolvimento de um Sistema de Localização e Reconstrução de Trajetória para Veículos Terrestres",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Guilherme Augusto Silva Pereira",
+                    "Leonardo Antonio Borges Torres"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Automação de Uma Planta Didática de Controle de Nível e Temperatura: Controle Discreto e Supervisão",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Rayane Aparecida Guimarães"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Monitoramento e Controle de Processo de Fermentação Enzimática",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Virgil Del Duca Almeida",
+                    "Flávia De Faria Siqueira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sensores Autônomos com Comunicação Sem Fio para Automação Residencial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Virgil Del Duca Almeida",
+                    "Leandro Freitas De Abreu"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "CONSTRUÇÃO DE UM MÓDULO DIDÁTICO PARA TREINAMENTO EM AUTOMAÇÃO INDUSTRIAL",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Automação de processos fermentativos: Controle Discreto e Supervisão",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de Protótipos de Sensores Autônomos para Automação Residencial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Bruno Gollo",
+                    "Giovanna Viriato"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "SocioPrinter: Uma impressora braile de baixo custo",
+                "natureza": "Outra",
+                "equipe": [
+                    "Michelle Mendes Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Leandro Freitas De Abreu"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Construção e modelagem matemática de uma planta didática de testes em drones para estudos em engenharia de controle",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Leandro Freitas De Abreu"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "INCLUSÃO DIGITAL: Ensino de Informática para Jovens e Adultos e Introdução à Programação de Computadores",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Anderson Alfredo Pinto Coelho"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Preparação de Estudantes para as Modalidades Teórica e Prática da Olimpíada Brasileira de Robótica",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Virgil Del Duca Almeida",
+                    "Maurício Monteiro Da Silva",
+                    "Victor Alves Silva E Melo"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Construção e Modelagem de um Drone Quadrirrotor Usando Redes Neurais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Leandro Freitas De Abreu"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "MORCEGOS (MAMMALIA: CHIROPTERA) DO IFMG - CAMPUS BETIM: DIVERSIDADE, EDUCAÇÃO AMBIENTAL E BIOMIMÉTICA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Marcela Camargo Matteuzzo",
+                    "Ligiane Martins Moras"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "DESIGN DE SISTEMAS COM STATECHARTS",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Gustavo Lobato Campos",
+                    "Mario Luiz Rodrigues Oliveira"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Modelagem de sistemas com statecharts e montagem de protótipo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Gustavo Lobato Campos",
+                    "Mario Luiz Rodrigues Oliveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Kit Educacional voltado a Projetos Eletrônicos para Implementação de Protótipos em IoT, Robótica e Automação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Validação Experimental de Fenômenos Emergentes em Redes Complexas Dinâmicas Usando Osciladores Eletrônicos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Leandro Freitas De Abreu",
+                    "Débora Duarte Superbi",
+                    "Victor Hugo Souza Bittencourt"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Elaboração de material multimídia para curso à distância",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Michelle Mendes Santos"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Robótica LEGO aplicada ao ensino fundamental público",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Michelle Mendes Santos",
+                    "Reginaldo Wagner Ferreira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTOS",
+                    "titulo": "M. M.,  PAIXAO, G.,  GUIMARAES, E.,  OLIVEIRA, A.,  DIAS, G.,  DUARTE, M.,  SCHIMIDT, A.,  SOUZA, H.,  ALMEIDA, V. D.,  MELO, V. A. S. E.,  SILVA, M. M.,  DIAS, J. H. D.,  SOUZA, B.,  MORAES, N.,  OLIVEIRA, E.,  SOUZA, P.,  IFMG - Betim na Olimpíada Brasileira de Robótica",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFMG - Campus Betim."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "M. M.,  FREITAS, E.,  VINTI, M. N. W.,  ISCOLDI, P.,  TORRES, L. A. B.,  PEREIRA, G. A. S.,  Automation and Localization of a Robotic Car",
+                    "ano": "2008",
+                    "instituicao_promotora": "Unesp."
+                },
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "G. A. S.,  SANTOS, M. M.,  SALIS, T. T.,  INSTRUMENTAÇÃO BASEADA EM IMAGENS PARA LAMINAÇÃO DE PERFIS NA INDÚSTRIA SIDERÚRGICA",
+                    "ano": "2008",
+                    "instituicao_promotora": "Cefet/MG."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "M. M.,  Detecção e Rastreamento de Animais Utilizando Redes de Sensores Sem Fio",
+                    "ano": "2006",
+                    "instituicao_promotora": "Universidade Federal de Minas Gerais."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "M. M.,  Uma Ferramenta para Monitoração de Perímetro e Detecção de Alvos Utilizando Redes de Sensores Sem Fio",
+                    "ano": "2006",
+                    "instituicao_promotora": "Universidade Federal de Minas Gerais."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. M.,  Introdução a Robótica: Uma abordagem lúdica",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "PEREIRA",
+                    "curso": "G. A. S.,  SANTOS, M. M.,  Introdução a Robótica: Uma Abordagem Lúdica",
+                    "ano": "2009"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUZA",
+                    "evento": "S. N. P. E.,  SANTOS, M. M.,  SILVA, R. L.,  GOUVEIA, L. R.,  III IFMG Aberto",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Betim."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "S. N. P. E.,  SANTOS, M. M.,  SILVA, R. L.,  GOUVEIA, L. R.,  II IFMG Aberto",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Betim."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "M. M.,  SILVA, R. L.,  BAPTISTA, B. S.,  OLIVEIRA, L. B.,  I Seminário Industrial - IFMG - Campus Betim",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Betim."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "M. M.,  SILVA, R. L.,  BAPTISTA, B. S.,  OLIVEIRA, L. B.,  II Seminário Industrial - IFMG - Campus Betim",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Betim."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "M. C. F. S.,  SANTOS, M. M.,  SILVA, R. L.,  DURAO JUNIOR, W. A.,  I IFMG Aberto",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG - Campus Betim."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Leandro Freitas",
+                "titulo": "NASCIMENTO, J. A.;  SANTOS, M. M.;  Inteligência Artificial no Ensino Técnico: estudo comparativo entre duas metodologias no ensino remoto",
+                "ano": "2021",
+                "periodico": "Revista Brasileira da Educação Profissional e Tecnológica. ISBN: 24471801   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA, S. M.",
+                "titulo": "SANTOS, M",
+                "evento": "M.; OLIVEIRA",
+                "local": "I. R. H.; Desenvolvimento de um Software PIMS com comunicação OPC e acesso por navegador Web. Simpósio Brasileiro de Automação Inteligente, Ouro Preto",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, B. S.",
+                "titulo": "FERREIRA, E",
+                "evento": "K. M.; DIAS",
+                "local": "J. H. D.; SOUZA, P. H. A.; SANTOS, M. M.; ABREU, L. F.; Construção e Programação de Manipuladores Robóticos Para Fins Educativos.. Mostra Nacional de Robótica, Belo Horizonte",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, B. S.",
+                "titulo": "FERREIRA, E",
+                "evento": "K. M.; DIAS",
+                "local": "J. H. D.; SOUZA, P. H. A.; SANTOS, M. M.; ABREU, L. F.; USO DA MANUFATURA ADITIVA NA CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS DIDÁTICOS. Mostra Nacional de Robótica, Belo Horizonte",
+                "ano": "2019"
+            },
+            {
+                "autores": "AQUINO, V. A.",
+                "titulo": "ABREU, L",
+                "evento": "F.; SANTOS",
+                "local": "M. M.; Construção e Modelagem Matemática de uma Planta Didática de Testes em Drones para Estudos em Engenharia De Controle. VIII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA IFMG, Ribeirão das Neves",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, B. S.",
+                "titulo": "DIAS, J",
+                "evento": "H. D.; FERREIRA",
+                "local": "E. K. M.; SOUZA, P. H. A.; SANTOS, M. M.; ABREU, L. F.; Construção de Manipuladores Robóticos para o Estudo da Robótica Industrial. VIII SEMINÁRIO DE INICIAÇÃO CIENTÍFICA IFMG, Ribeirão das Neves",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOUSA, P. V. S.",
+                "titulo": "QUEIROZ, W",
+                "evento": "S.; LIMA",
+                "local": "R. M. D.; ALVES, C. O.; ALMEIDA, V. D.; ABREU, L. F.; SANTOS, M. M.; Projetos de circuitos para sensores autônomos com comunicação sem fio. VI Seminário de Iniciação Científica do IFMG, Betim",
+                "ano": "2017"
+            },
+            {
+                "autores": "ALVES, C. O.",
+                "titulo": "SOUSA, P",
+                "evento": "V. S.; LIMA",
+                "local": "R. M. D.; QUEIROZ, W. S.; SANTOS, M. M.; ALMEIDA, V. D.; Estudo de autonomia de sensores autônomos com comunicação sem fio. V Seminário de iniciação Científica do IFMG, Bambuí",
+                "ano": "2016"
+            },
+            {
+                "autores": "SABBAGH, V. B.",
+                "titulo": "FREITAS, E",
+                "evento": "; SANTOS",
+                "local": "M. M.; BALEEIRO, M. F.; SILVA, T. M.; ISCOLDI, P.; TORRES, L. A. B.; PEREIRA, G. A. S.; Desenvolvimento de um sistema de controle para um carro de passeio autônomo. Congresso Brasileiro de Automática, Bonito, MS",
+                "ano": "2010"
+            },
+            {
+                "autores": "FREITAS, E.",
+                "titulo": "VINTI, M",
+                "evento": "N. W.; SANTOS",
+                "local": "M. M.; ISCOLDI, P.; TORRES, L. A. B.; PEREIRA, G. A. S.; Desenvolvimento de Automação Embarcada Para um Robô Móvel. IX SIMPÓSIO BRASILEIRO DE AUTOMAÇÃO INTELIGENTE, Brasília",
+                "ano": "2009"
+            },
+            {
+                "autores": "SANTOS, M. M.",
+                "titulo": "FREITAS, E",
+                "evento": "; VINTI",
+                "local": "M. N. W.; ISCOLDI, P.; TORRES, L. A. B.; PEREIRA, G. A. S.; Automation and Localization of a Robotic Car. Workshop Robocontrol'08, Bauru",
+                "ano": "2008"
+            },
+            {
+                "autores": "PEREIRA, G. A. S.",
+                "titulo": "SANTOS, M",
+                "evento": "M.; SALIS",
+                "local": "T. T.; Instrumentação Baseada em Imagens para Laminação de Perfis na Indústria Siderúrgica. 3o. Seminário de Sistemas Industriais e Automação, Belo Horizonte",
+                "ano": "2008"
+            },
+            {
+                "autores": "PEREIRA, G. A. S.",
+                "titulo": "SANTOS, M",
+                "evento": "M.; SALIS",
+                "local": "T. T.; Instrumentação Baseada em Imagens para Laminação de Perfis na Indústria Siderúrgica. IV Semana de Ciências & Tecnologia: Semana C&T: Evolução & Diversidade, Belo Horizonte",
+                "ano": "2008"
+            },
+            {
+                "autores": "SANTOS, M. M.",
+                "titulo": "FREITAS, E",
+                "evento": "; VINTI",
+                "local": "M. N. W.; ISCOLDI, P.; TORRES, L. A. B.; PEREIRA, G. A. S.; Automation and Localization of a Robotic Car. 3rd Applied Robotics and Collaborative Systems Engineering, Bauru",
+                "ano": "2008"
+            },
+            {
+                "autores": "LOPES, C. E. R.",
+                "titulo": "RUIZ, L",
+                "evento": "B.; SANTOS",
+                "local": "M. M.; LINHARES, F. D.; A Multi-tier, Multimodal Wireless Sensor Network for Environmental Monitoring. 4th International Conference Ubiquitous Intelligence and Computing (UIC 2007)., Hong Kong",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "João Vitor Prata Moreira Salgado",
+                "titulo": "PROJETO E IMPLEMENTAÇÃO DE UM CONTROLADOR DE VELOCIDADE PARA UMA BANCADA DIDÁTICA DE CLP SIEMENS S7-1200",
+                "ano": "2026",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "JENNIFER HELOISA DAMASCENO DIAS",
+                "titulo": "DESENVOLVIMENTO DE UM KIT DIDÁTICO DE ROBÓTICA EDUCACIONAL INFANTIL DE BAIXO CUSTO BASEADO EM PLATAFORMA ARDUINO",
+                "ano": "2026",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Emily Kerolayne Miranda Ferreira",
+                "titulo": "PROJETO E IMPLEMENTAÇÃO DE UM MÓDULO DIDÁTICO PARA TREINAMENTO EM PROGRAMAÇÃO DE CLP",
+                "ano": "2025",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Alice Nascimento Marques Dias",
+                "titulo": "Estágio Supervisionado em Engenharia de Controle e Automação",
+                "ano": "2023",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Cleiton de Oliveira Alves",
+                "titulo": "Projeto e Construção de uma Cabeça de Impressão Braile",
+                "ano": "2021",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "JOÃO PEDRO TABELINI DOMINGUES",
+                "titulo": "IMPLANTAÇÃO DE UMA MÁQUINA DE APARAFUSAMENTO AUTOMÁTICA EM LINHA DE PRODUÇÃO DE MEDIDORES DE ENERGIA",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Jennifer Heloisa Damasceno Dias",
+                "titulo": "Preparação de Estudantes Para as Modalidades Teórica e Prática da Olimpíada Brasileira de Robótica",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Anderson Alfredo Pinto Coelho",
+                "titulo": "Projeto Inclusão Digital: Ensino de Informática para Jovens e Adultos e Introdução à Programação de Computadores",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Jennifer Heloisa Damasceno Dias",
+                "titulo": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
+                "ano": "2019",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Emily Kerolayne Miranda Ferreira",
+                "titulo": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
+                "ano": "2019",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Bernardo de Souza Silva",
+                "titulo": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
+                "ano": "2019",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Pedro Henrique Alves de Souza",
+                "titulo": "CONSTRUÇÃO DE MANIPULADORES ROBÓTICOS PARA O ESTUDO DE ROBÓTICA INDUSTRIAL",
+                "ano": "2019",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Samantha Pereira de Souza",
+                "titulo": "CONSTRUÇÃO DE UM MÓDULO DIDÁTICO PARA TREINAMENTO EM AUTOMAÇÃO INDUSTRIAL",
+                "ano": "2017",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Bruno Gollo do Amaral",
+                "titulo": "Desenvolvimento de Protótipos de Sensores Autônomos para Automação Residencial",
+                "ano": "2017",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Giovanna Lourenço Viriato",
+                "titulo": "Desenvolvimento de Protótipos de Sensores Autônomos para Automação Residencial",
+                "ano": "2017",
+                "curso": "Técnico em Automação Industrial",
+                "instituicao": "Instituto Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Felipe Uillian Carvalho Garbis",
+                "titulo": "Protótipo De Um Sistema Automático Para Separação De Materiais Recicláveis",
+                "ano": "2015",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Silas Martins Sousa",
+                "titulo": "Desenvolvimento de um sistema PIMS com comunicação OPC e acesso por Navegador Web",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rayane Aparecida Guimarães",
+                "titulo": "Automação de Uma Planta Didática de Controle de Nível e Temperatura: Controle Discreto e Supervisão",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rafaela Rossi Castro",
+                "titulo": "Monitoramento Da Poeira Na Cidade De Congonhas",
+                "ano": "2012",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "centro universitário UNA"
+            },
+            {
+                "orientando": "Victor Lucas Martins de Oliveira",
+                "titulo": "PROJETO E INSTALAÇÃO DA REDE PROFIBUS DP/PA EM MINERAÇÃO",
+                "ano": "2012",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "centro universitário UNA"
+            },
+            {
+                "orientando": "Elisangela Resende Oliveira",
+                "titulo": "Rede de Comunicação Profibus-DP Utilizada no Sistema de Controle e Supervisão de Dados (SDSC) - Usina Hidrelétrica de Pinalito ? Republica Dominicana",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Centro Universitário UNA"
+            },
+            {
+                "orientando": "Jardelúcio Araújo",
+                "titulo": "Aplicações da Fibra Óptica na Automação Industrial",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Centro Universitário UNA"
+            },
+            {
+                "orientando": "Valtencir Laporte",
+                "titulo": "Estudo da rede Devicenet e sua Implementação em um Sistema de Translação de uma Empilhadeira de Minério de Ferro",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Centro Universitário UNA"
+            },
+            {
+                "orientando": "Bruna Neves Salviano",
+                "titulo": "A Importância do Sistema Supervisório - Aplicação em um Sistema de Lavra Móvel",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "centro universitário UNA"
+            },
+            {
+                "orientando": "JAIR RAPHAEL RODRIGUES DE ALMEIDA",
+                "titulo": "Implementação De Um Sistema Residencial De Cftv Com Acesso Remoto",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "centro universitário UNA"
+            },
+            {
+                "orientando": "Leonardo De Souza Gomes",
+                "titulo": "Aplicação De Uma Rede Sem Fio Para Monitoramento E Controle De Uma Residência",
+                "ano": "2011",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "centro universitário UNA"
+            },
+            {
+                "orientando": "Christian Pinto de Souza",
+                "titulo": "Estágio Supervisionado no Curso de Engenharia Elétrica",
+                "ano": "2009",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Rafael de Brito Alves",
+                "titulo": "Estágio Supervisionado no Curso de Engenharia Elétrica",
+                "ano": "2009",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Vinícius Geraldo Rodrigues",
+                "titulo": "Ferramenta para integração entre RSSF?s e PLC?s",
+                "ano": "2008",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            },
+            {
+                "orientando": "Leonardo Henrique Woitowicz",
+                "titulo": "Biblioteca de Controles para Desenvolvimento de Sistemas SCADA",
+                "ano": "2008",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Minas Gerais"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.15278442203998566,
+            "indian": 0.32926705479621887,
+            "black": 0.04536304250359535,
+            "white": 74.63981628417969,
+            "middle eastern": 8.889071464538574,
+            "latino hispanic": 15.943702697753906
+        }
+    }
+}

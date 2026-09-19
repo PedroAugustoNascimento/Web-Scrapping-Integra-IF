@@ -65,7 +65,7 @@
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
                 "periodo": "2008 - 2019",
-                "cargo": "Professor."
+                "cargo": "Professor, Servidor público."
             },
             {
                 "empresa": "Instituto Tecnológico de Aeronáutica",
@@ -75,25 +75,32 @@
             {
                 "empresa": "Instituto Federal Goiano",
                 "periodo": "2019",
-                "cargo": "Professor."
+                "cargo": "Professor, Servidor público."
             }
         ],
         "direcao_administracao": "",
-        "ensino": ": Instituto Federal Goiano\nGraduacao (2019) - Ciência Da Computação.\nEnsino-medio (2019) .\nTreinamento Ministrado: Universidade de Rio Verde\n(2002 - 2003) .",
+        "ensino": ": Instituto Federal Goiano\nEnsino-medio (2019) .\nGraduacao (2019) - Ciência Da Computação.\nTreinamento Ministrado: Universidade de Rio Verde\n(2002 - 2003) .",
         "comissoes": "",
         "projetos": [
             {
                 "instituicao": "Universidade Federal de Uberlândia",
-                "nome": "Evolução de Autômatos Celulares para Resolução de Tarefas Computacionais",
-                "periodo": "2006 - 2009",
+                "nome": "Estudos em Computação Evolutiva e Autômatos Celulares",
+                "periodo": "2005 - 2009",
                 "natureza": "Pesquisa",
                 "equipe": [
+                    "Paulo Vidica",
                     "Heverton Barros de Macêdo",
                     "Gina Maira Barbosa de Oliveira",
-                    "Alexsandro Mariano",
-                    "Alécio Dantas"
+                    "José Carlos Bortot",
+                    "Maria Cazuho Saito Takiguti",
+                    "Sandra Regina Cardoso Siqueira",
+                    "Marcelo Jorge Leão de Lima",
+                    "Laurence Amaral",
+                    "Guilherme Godói da Silva",
+                    "Jaqueline A. J. Papini",
+                    "Hélder R. G. Linhares"
                 ],
-                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Universidade Federal de Uberlândia, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
             },
             {
                 "instituicao": "Universidade Federal de Uberlândia",
@@ -117,23 +124,16 @@
             },
             {
                 "instituicao": "Universidade Federal de Uberlândia",
-                "nome": "Estudos em Computação Evolutiva e Autômatos Celulares",
-                "periodo": "2005 - 2009",
+                "nome": "Evolução de Autômatos Celulares para Resolução de Tarefas Computacionais",
+                "periodo": "2006 - 2009",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Heverton Barros de Macêdo",
                     "Gina Maira Barbosa de Oliveira",
-                    "José Carlos Bortot",
-                    "Maria Cazuho Saito Takiguti",
-                    "Sandra Regina Cardoso Siqueira",
-                    "Marcelo Jorge Leão de Lima",
-                    "Paulo Vidica",
-                    "Laurence Amaral",
-                    "Guilherme Godói da Silva",
-                    "Jaqueline A. J. Papini",
-                    "Hélder R. G. Linhares"
+                    "Alexsandro Mariano",
+                    "Alécio Dantas"
                 ],
-                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+                "financiador": "Universidade Federal de Uberlândia, Conselho Nacional de Desenvolvimento Científico e Tecnológico, Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Fundação de Amparo à Pesquisa do Estado de Minas Gerais,"
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
@@ -142,13 +142,13 @@
                 "natureza": "Extensao",
                 "equipe": [
                     "Heverton Barros de Macêdo",
+                    "Roney Lopes Lima",
                     "Aladir Ferreira da Silva Júnior",
                     "Rafael Prado de Castro",
                     "Danillo Vaz Borges de Assis",
                     "Sérgio Henrique de Almeida",
                     "Renato Oliveira Abreu",
                     "Leizer Fernandes Moraes",
-                    "Roney Lopes Lima",
                     "Fabrício Vieira Campos",
                     "Jaqueline Fassini",
                     "Thiago Silva da Luz"
@@ -243,8 +243,8 @@
                     "instituicao_promotora": "IFG-Câmpus Jataí."
                 },
                 {
-                    "autores": "RAIMANN",
-                    "evento": "E.,  SILVA JUNIOR, A. F.,  ALMEIDA, S. H.,  COSTA, G. A.,  ASSIS, D. V. B.,  CAMPOS, F. V.,  MACÊDO, H. B.,  MORAES, L. F.,  ABREU, R. O.,  Lima, R. L.,  CASTRO, R. P.,  XII SECOMP - Semana de Computação",
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  ALMEIDA, S. H.,  COSTA, G. A.,  ASSIS, D. V. B.,  RAIMANN, E.,  CAMPOS, F. V.,  MACÊDO, H. B.,  MORAES, L. F.,  ABREU, R. O.,  Lima, R. L.,  CASTRO, R. P.,  XII SECOMP - Semana de Computação",
                     "ano": "2017",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás."
@@ -271,8 +271,8 @@
                     "instituicao_promotora": "Instituto Federal de Goiás."
                 },
                 {
-                    "autores": "SILVA JUNIOR",
-                    "evento": "A. F.,  CAMPOS, F. V.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  Lima, R. L.,  ALMEIDA, S. H.,  X Secomp - Semana da Computaçao",
+                    "autores": "CASTRO",
+                    "evento": "R. P.,  SILVA JUNIOR, A. F.,  CAMPOS, F. V.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  ABREU, R. O.,  Lima, R. L.,  ALMEIDA, S. H.,  X Secomp - Semana da Computaçao",
                     "ano": "2014",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal de Goiás."

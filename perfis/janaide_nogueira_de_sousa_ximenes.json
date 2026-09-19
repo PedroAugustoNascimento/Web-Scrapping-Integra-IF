@@ -21,6 +21,13 @@
             },
             {
                 "nivel": "Especialização",
+                "curso": "Engenharia de Software",
+                "periodo": "2015 - 2017",
+                "instituicao": "Faculdade Unyleya",
+                "orientador": "Ma"
+            },
+            {
+                "nivel": "Especialização",
                 "curso": "Coordenação de Curso na Educação Superior",
                 "periodo": "2024 - 2025",
                 "instituicao": "Instituto Mineiro de Educação Superior"
@@ -31,13 +38,6 @@
                 "periodo": "2013 - 2015",
                 "instituicao": "Escola Superior Aberta do Brasil",
                 "orientador": "Prof"
-            },
-            {
-                "nivel": "Especialização",
-                "curso": "Engenharia de Software",
-                "periodo": "2015 - 2017",
-                "instituicao": "Faculdade Unyleya",
-                "orientador": "Ma"
             },
             {
                 "nivel": "Especialização",
@@ -217,8 +217,8 @@
                 "periodo": "2018 - 2019",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Ronieri Nogueira de Sousa",
                     "Janaide Nogueira de Sousa Ximenes",
+                    "Ronieri Nogueira de Sousa",
                     "Silas Lima Silva",
                     "Leidiane de Sousa Oliveira"
                 ]
@@ -236,17 +236,6 @@
             },
             {
                 "instituicao": "Faculdade Ieducare",
-                "nome": "Núcleo de Relacionamento de Computadores - NURECO",
-                "periodo": "2019 - 2020",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Janaide Nogueira de Sousa Ximenes",
-                    "Victor Matheus Correia de Oliveira",
-                    "Antonio Francisco Henrique Araújo"
-                ]
-            },
-            {
-                "instituicao": "Faculdade Ieducare",
                 "nome": "Núcleo de Inovações Tecnológicas em Direito e Saúde - NITEDS",
                 "periodo": "2019 - 2020",
                 "natureza": "Pesquisa",
@@ -259,6 +248,17 @@
                     "Anderson Ribeiro Araújo",
                     "André Luiz Machado Terceiro",
                     "Ebimael Araújo Ximenes"
+                ]
+            },
+            {
+                "instituicao": "Faculdade Ieducare",
+                "nome": "Núcleo de Relacionamento de Computadores - NURECO",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Janaide Nogueira de Sousa Ximenes",
+                    "Victor Matheus Correia de Oliveira",
+                    "Antonio Francisco Henrique Araújo"
                 ]
             },
             {
@@ -441,6 +441,12 @@
                 "informacoes_adicionais": "ISBN: 9788557074552, Olinda - PE."
             },
             {
+                "autores": "VIANA FILHO, F. U.",
+                "titulo": "XIMENES, J.N.S;  BRITO, R. X.;  Experiências e Vivências em Iniciação Científica do Curso de Sistemas de Informação - Faculdade Ieducare - Campus Tianguá-Ce. Título do capítulo: O uso do software alice 3d no ensino da lógica computacional e da programação orientada a objeto.",
+                "ano": "2016",
+                "informacoes_adicionais": "ISBN: 9788540607484, Olinda - PE."
+            },
+            {
                 "autores": "XIMENES, J. N. de S.",
                 "titulo": "BRITO, R. X.;  Experiências e Vivências em Iniciação Científica do Curso de Sistemas de Informação - Faculdade Ieducare - Campus Tianguá-Ce. Título do capítulo: A Técnica da Divisão e Conquista aplicada à Resolução do Cálculo da transformada discreta de Fourier.",
                 "ano": "2016",
@@ -491,12 +497,6 @@
             {
                 "autores": "SOUSA, C. M. S.",
                 "titulo": "XIMENES, J. N. de S.;  BRITO, R. X.;  Experiências e Vivências em Iniciação Científica do Curso de Sistemas de Informação - Faculdade Ieducare - Campus Tianguá-Ce. Título do capítulo: Ensinando programação orientada a objeto com o software Greenfoot",
-                "ano": "2016",
-                "informacoes_adicionais": "ISBN: 9788540607484, Olinda - PE."
-            },
-            {
-                "autores": "VIANA FILHO, F. U.",
-                "titulo": "XIMENES, J.N.S;  BRITO, R. X.;  Experiências e Vivências em Iniciação Científica do Curso de Sistemas de Informação - Faculdade Ieducare - Campus Tianguá-Ce. Título do capítulo: O uso do software alice 3d no ensino da lógica computacional e da programação orientada a objeto.",
                 "ano": "2016",
                 "informacoes_adicionais": "ISBN: 9788540607484, Olinda - PE."
             },

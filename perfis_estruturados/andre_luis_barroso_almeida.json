@@ -1,0 +1,330 @@
+{
+    "campus": "- Campus Ouro Preto",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "Revisitando o Revenimento Paralelo: Computação de Alto Desempenho e Aplicação em Pesquisa Operacional",
+                "orientador": "Marco Antônio Moreira de Carvalho",
+                "ano_inicio": 2020,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "titulo": "JavaCá&Lá: Um middleware Java para computação paralela ou distribuída",
+                "orientador": "Joubert de Castro Lima",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2005,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Solution Engenharia de Automação",
+                "ano_inicio": 2011,
+                "ano_fim": 2014,
+                "funcao": "Engenheiro Júnior",
+                "vinculo": "Empregado",
+                "descricao": ""
+            },
+            {
+                "empresa": "VALE S.A.",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Estagiário de Controle e Automção",
+                "vinculo": "Estagio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Estagiário na Acessoria de Comunicação",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Gorceix",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Técnico em Eletrônica",
+                "vinculo": "Empregado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "PROFESSOR TEMPORARIO",
+                "vinculo": "CONTRATO TEMPORARIO",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "PLATAFORMA COLABORATIVA PARA ENVIO DE DADOS MULTIMÍDIA",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "André Luís Barroso Almeida",
+                    "Saul Emanuel Delabrida Silva",
+                    "Joubert De Castro Lima",
+                    "Wallace Brito",
+                    "Paola Giovana Almeida Soares Sousa Carmo",
+                    "José Estevão Eugênio De Resende",
+                    "Carlos Henrique Prieto Bruckner",
+                    "Gabrielle Da Costa Rioga",
+                    "Matheus Leônidas Silva",
+                    "Raphael Silva Dutra"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Grupo de Inteligência Computacional Aplicada",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "André Luís Barroso Almeida",
+                    "Silvia Grasiella Moreira Almeida",
+                    "Carlos Alberto Severiano Junior",
+                    "Frederico Gadelha Guimarães",
+                    "Guilherme De Oliveira Walter",
+                    "Ivan Reinaldo Meneghini",
+                    "Moisés Henrique Ramos Pereira",
+                    "Petrônio Cândido De Lima E Silva",
+                    "Tamires Martins Rezende",
+                    "Venuncia Emilia Coelho"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Os benefícios e desafios do uso das competições de robótico como ferramenta motivacional ao estudo de automação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "André Luís Barroso Almeida",
+                    "Gomes",
+                    "Hugo",
+                    "Lucas José Nunes Martins",
+                    "Laryssa Aparecida Gomes Fagundes",
+                    "Otavio Augusto De Rezende Pinto",
+                    "Thaís Aline Ferreira Da Silva"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "FIRE: Equipe de robótica do IFMG",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "André Luís Barroso Almeida",
+                    "Gomes",
+                    "Hugo",
+                    "Ana Clara Mendes Pereira",
+                    "Maria Luiza De Oliveira Teixeira",
+                    "Maria Eduarda Neves De Almeida"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Grupo de Instrumentação, Controle e Automação (G.I.C.A.)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "André Luís Barroso Almeida",
+                    "Lúcio Cardoso Rodrigues",
+                    "Mário Cupertino Da Silva Júnior",
+                    "Paulo Raimundo Pinto",
+                    "Ronaldo Silva Trindade"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "A. L. B.,  LIMA, J. C.,  DE CARVALHO, MARCO ANTONIO MOREIRA,  REVENIMENTO PARALELO APLICADO AO SEQUENCIAMENTO DA PRODUÇÃO EM SISTEMAS DE MANUFATURA FLEXÍVEL",
+                    "ano": "2024",
+                    "instituicao_promotora": "Sociedade Brasileira de Pesquisa Operacional."
+                },
+                {
+                    "autores": "ALMEIDA",
+                    "titulo": "A. L. B.,  LIMA, J. C.,  DE CARVALHO, MARCO ANTONIO MOREIRA,  REVENIMENTO PARALELO APLICADO AO SEQUENCIAMENTO EM MÁQUINAS FLEXÍVEIS PARALELAS COM RECURSOS COMPARTILHADOS",
+                    "ano": "2024",
+                    "instituicao_promotora": "Sociedade Brasileira de Pesquisa Operacional."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALMEIDA, ANDRÉ LUÍS BARROSO",
+                "titulo": "DE CASTRO LIMA, JOUBERT;  CARVALHO, MARCO ANTONIO MOREIRA;  On serial and parallel evaluation functions for Job Sequencing and Tool Switching problems",
+                "ano": "2025",
+                "periodico": "COMPUTERS & OPERATIONS RESEARCH. ISBN: 03050548   ."
+            },
+            {
+                "autores": "ALMEIDA, ANDRÉ LUÍS BARROSO",
+                "titulo": "DE CASTRO LIMA, JOUBERT;  CARVALHO, MARCO ANTONIO MOREIRA;  Revisiting the parallel tempering algorithm: High-performance computing and applications in operations research",
+                "ano": "2025",
+                "periodico": "COMPUTERS & OPERATIONS RESEARCH. ISBN: 03050548   ."
+            },
+            {
+                "autores": "ALMEIDA, ANDRÉ LUÍS BARROSO",
+                "titulo": "LIMA, JOUBERT DE CASTRO;  CARVALHO, MARCO ANTONIO MOREIRA;  Systematic literature review on parallel trajectory-based metaheuristics",
+                "ano": "2022",
+                "periodico": "ACM COMPUTING SURVEYS. ISBN: 03600300   ."
+            },
+            {
+                "autores": "ALMEIDA, A. L. B.",
+                "titulo": "DE CARVALHO, MARCO ANTONIO MOREIRA;  AQUINO, ANDRE LUIZ LINS;  LIMA, JOUBERT DE CASTRO;  CIMINO, LEONARDO DE SOUZA;  DE RESENDE, JOSÉ ESTEVÃO EUGÊNIO;  SILVA, LUCAS HENRIQUE MOREIRA;  ROCHA, SAMUEL QUEIROZ SOUZA;  GREGORIO, GUILHERME APARECIDO;  PAIVA, GUSTAVO SILVA;  Delabrida, S.;  SANTOS, HAROLDO GAMBINI;  A general-purpose distributed computing Java middleware",
+                "ano": "2019",
+                "periodico": "CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE. ISBN: 15320626   ."
+            },
+            {
+                "autores": "DE SOUZA CIMINO, LEONARDO",
+                "titulo": "SANTOS, MATHEUS INÁCIO BATISTA;  AQUINO, ANDRE LUIZ LINS;  ALMEIDA, ANDRÉ LUÍS BARROSO;  DE CASTRO LIMA, JOUBERT;  DE RESENDE, JOSÉ ESTEVÃO EUGÊNIO;  SILVA, LUCAS HENRIQUE MOREIRA;  ROCHA, SAMUEL QUEIROZ SOUZA;  DE OLIVEIRA CORREIA, MATHEUS;  MONTEIRO, GUILHERME SOUZA;  DE SOUZA FERNANDES, GABRIEL NATÃ;  DA SILVA MOREIRA, RENAN;  DE SILVA, JUNIOR GUILHERME;  A middleware solution for integrating and exploring IoT and HPC capabilities",
+                "ano": "2018",
+                "periodico": "SOFTWARE-PRACTICE & EXPERIENCE. ISBN: 00380644   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ALMEIDA, ANDRÉ LUÍS BARROSO",
+                "titulo": "CARVALHO, MARCO ANTONIO MOREIRA DE; Revenimento Paralelo Aplicado ao Sequenciamento de Tarefas em Máquinas Flexíveis Paralelas Não Idênticas",
+                "evento": "LVII SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL",
+                "local": "GRAMADO",
+                "ano": "2025"
+            },
+            {
+                "autores": "LUÍS BARROSO ALMEIDA, ANDRÉ",
+                "titulo": "DE CASTRO LIMA, JOUBERT; ANTONIO MOREIRA CARVALHO, MARCO; REVENIMENTO PARALELO APLICADO AO SEQUENCIAMENTO DA PRODUÇÃO EM SISTEMAS DE MANUFATURA FLEXÍVEL",
+                "evento": "ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL",
+                "local": "",
+                "ano": "2024"
+            },
+            {
+                "autores": "LUÍS BARROSO ALMEIDA, ANDRÉ",
+                "titulo": "DE CASTRO LIMA, JOUBERT; ANTONIO MOREIRA CARVALHO, MARCO; REVENIMENTO PARALELO APLICADO AO SEQUENCIAMENTO EM MÁQUINAS FLEXÍVEIS PARALELAS COM RECURSOS COMPARTILHADOS",
+                "evento": "ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL",
+                "local": "Fortaleza",
+                "ano": "2024"
+            },
+            {
+                "autores": "ALMEIDA, ANDRÉ LUÍS BARROSO",
+                "titulo": "LIMA, J",
+                "evento": "C.; CARVALHO",
+                "local": "MARCO ANTONIO MOREIRA; Revisitando o algoritmo Keep Tools Needed Soonest: implementações seriais e paralelas. Simpósio Brasileiro de Pesquisa Operacional, São José dos Campos",
+                "ano": "2023"
+            },
+            {
+                "autores": "CIMINO, LEONARDO DE SOUZA",
+                "titulo": "AQUINO, ANDRE LUIZ LINS DE; LIMA, JOUBERT DE CASTRO; RESENDE, JOSE ESTEVAO EUGENIO DE; SILVA, LUCAS HENRIQUE MOREIRA; ROCHA, SAMUEL QUEIROZ SOUZA; CORREIA, MATHEUS DE OLIVEIRA; MONTEIRO, GUILHERME SOUZA; FERNANDES, GABRIEL NATA DE SOUZA; ALMEIDA, SILVIA GRASIELLA MOREIRA; ALMEIDA, ANDRE LUIZ BARROSO; IoT and HPC Integration: Revision and Perspectives",
+                "evento": "2017 VII Brazilian Symposium on Computing Systems Engineering (SBESC)",
+                "local": "Curitiba",
+                "ano": "2017"
+            },
+            {
+                "autores": "RESENDE, J. E. E.",
+                "titulo": "AQUINO, A",
+                "evento": "L. L.; LIMA",
+                "local": "J. C.; CIMINO, L. S.; SILVA, L. H. M.; ROCHA, S. Q. S.; CORREIA, M. O.; MONTEIRO, G. S.; FERNANDES, G. N. S.; ALMEIDA, S. G. M.; ALMEIDA, A. L. B.; JCL Android: Uma Extensão IoT para o Middleware HPC JCL. VII Brazilian Symposium on Computing Systems Engineering (SBESC), Curitiba",
+                "ano": "2017"
+            },
+            {
+                "autores": "DE CASTRO LIMA, JOUBERT",
+                "titulo": "LUÍS BARROSO ALMEIDA, ANDRÉ; NAZARÉ JR",
+                "evento": ", ANTONIO C.; EMANUEL DELABRIDA SILVA",
+                "local": "SAUL; JCL: A High Performance Computing Java Middleware. 18th International Conference on Enterprise Information Systems, Rome",
+                "ano": "2016"
+            },
+            {
+                "autores": "COSTA, PEDRO LUIS",
+                "titulo": "GOMES, HUGO; ALMEIDA, ANDRÉ; SCHIMIGUEL, JULIANO; Uma proposta de ensino-aprendizagem baseada em ABP e automação industrial, com foco no desastre de Mariana-MG",
+                "evento": "Workshops do Congresso Brasileiro de Informática na Educação",
+                "local": "Uberlandia",
+                "ano": "2016"
+            },
+            {
+                "autores": "PINTO, J. F. M. C.",
+                "titulo": "COSTA, A",
+                "evento": "R.; COELHO",
+                "local": "B. N.; ALMEIDA, A. L. B.; BERNARDES JUNIOR, R. F.; Desenvolvimento de um Equipamento para Medir o Índice de Aderência de Superfícies. 66º Congresso Anual da ABM, São Paulo",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "CLEVERSON JOSÉ MURTA GALDINO",
+                "titulo": "AUTOMAÇÃO DO ATENDIMENTO AO CLIENTE EM PEQUENOS NEGÓCIOS COM AGENTES DE IA NO-CODE: ESTUDO EXPERIMENTAL",
+                "ano": "2025",
+                "curso": "ESPECIALIZAÇÃO EM INTELIGÊNCIA ARTIFICIAL",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Matheus de Oliveira Correia",
+                "titulo": "JCL Page Rank: uma solução distribuída para grafos massivos",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            },
+            {
+                "orientando": "David Silva Fernandes",
+                "titulo": "Revisitando os modelos de programação DSM e orientada a tarefas",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Ouro Preto"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.06904598325490952,
+            "indian": 4.3927435874938965,
+            "black": 0.03618142008781433,
+            "white": 11.834755897521973,
+            "middle eastern": 73.60783386230469,
+            "latino hispanic": 10.059442520141602
+        }
+    }
+}

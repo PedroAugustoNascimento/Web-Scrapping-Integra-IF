@@ -1,0 +1,283 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "orientador": "Ronaldo Mello dos Santos",
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "SIMULADOR DE UMA SUBESTAÇÃO ELÉTRICA PARA ENSINO DE PRINCIPIOS BÁSICOS DE ELETRICIDADE",
+                "orientador": "MANOEL RIBEIRO FILHO",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Desenvolvimento de Aplicações Web baseada em Java",
+                "instituicao": "Universidade Norte do Paraná",
+                "orientador": "LUIS CLAUDIO PERINI",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "ESPECIALIZAÇÃO EM DOCÊNCIA PROFISSIONAL E TECNOLÓGICA",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "orientador": "Juliano Systerenn",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 2006,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor auxiliar",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas Ministradas: Desenvolvimento de Software Desenvolvimento Web Engenharia de Softwares Gerência de Projetos"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "RAD Informática",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "Analista de Suporte",
+                "vinculo": "Não informado",
+                "descricao": "Analista de Suporte de Sistemas ERP. Desenvolvimento de Relatórios utilizando consultas SQL.Replicação de Dados com SQL Server.Analista de Implantação de Sistemas"
+            },
+            {
+                "empresa": "Premium Engenharia",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Analista de Licitações",
+                "vinculo": "Não informado",
+                "descricao": "Analista de Orçamento de Obras Civis;Analista de Licitações Públicas;"
+            },
+            {
+                "empresa": "Reobote Sistemas",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Autônomo",
+                "vinculo": "Autônomo",
+                "descricao": "Desenvolvimento de Softwares para Controle de Vendas de Bovinos (Linguagem de programação Delphi com banco de dados SQL Server).Desenvolvimento de Relatórios Gerenciais.Integrações com balanças (Automação)"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "LanSocial",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Hudson Afonso Batista Da Silva"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Um estudo metodológico do desenvolvimento de Simulador como ferramenta de apoio a tomada de decisão na gestão empresarial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hudson Afonso Batista Da Silva"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Projeto CEOS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Hudson Afonso Batista Da Silva",
+                    "Ronaldo Dos Santos Mello",
+                    "Luis Augusto Bornia",
+                    "Jônata Tyska"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVA",
+                    "software": "H. A. B.,  MARINHO, A. L.,  Automação de Negócio (Açougue)",
+                    "ano": "2007",
+                    "finalidade": "Informatização do Açougue."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "H. A. B.,  Jogo Educacional para Ensino de Principios Básicos de Sistemas de Potência na Eletronorte Marabá",
+                    "ano": "2016",
+                    "instituicao_promotora": "USP -SP."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "H. A. B.,  SIMULADOR COM MINI SUBESTAÇÃO PARA ENSINO DA DISCIPLINA SISTEMAS DE POTÊNCIA EM CURSOS DE ENGENHARIA E ELETRICIDADE",
+                    "ano": "2016",
+                    "instituicao_promotora": "Abenge."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "H. A. B.,  TV DIGITAL",
+                    "ano": "2008",
+                    "instituicao_promotora": "UFPA."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "H. A. B.,  Inclusão Digital",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "H. A. B.,  MICROINFORMÁTICA BÁSICA",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "H. A. B.,  Micro Informática Básica",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ARAUJO DE OLIVEIRA, LELIS",
+                "titulo": "DE SOUSA, FABIO;  MOREIRA OLIVERIA, JACKSON;  AFONSO BATISTA DA SILVA, HUDSON;  EVERALDO DE OLIVEIRA, JORGE;  PINHO DA LUZ, FABRÍCIO;  SOUZA DE ARAÚJO, FABIO;  DOS REIS SILVA, ALAN;  BENEDITO CALDAS COSTA, MARCOS;  Analysis of the performance of an All-optical Network using Arrayed Waveguide and Fiber Bragg Grating Demultiplexers",
+                "ano": "2022",
+                "periodico": "CONJECTURAS. ISBN: 16575830   ."
+            },
+            {
+                "autores": "OLIVEIRA, JACKSON MOREIRA DE",
+                "titulo": "SOUSA, FABIO BARROS DE;  SILVA, HUDSON AFONSO BATISTA DA;  OLIVEIRA, LELIS ARAUJO DE;  OLIVEIRA, JORGE EVERALDO DE;  SOUSA, FITERLINGE MARTINS DE;  LUZ, FABRÍCIO PINHO DA;  COSTA, MARCOS BENEDITO CALDAS;  Demonstration of all-optical NOT logic gate at bit rate 20Gbps based on SOA-MI with optimum injection current / DemonstraÃ§Ã£o da porta lÃ³gica NOT totalmente Ã³ptica a uma taxa de bits de 20Gbps baseada em SOA-MI com corrente de injeÃ§Ã£o ideal",
+                "ano": "2021",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "OLIVEIRA, JACKSON MOREIRA",
+                "titulo": "SILVA, HUDSON AFONSO BATISTA DA;  OLIVEIRA, LELIS ARAUJO DE;  SOUSA, FABIO BARROS DE;  OLIVEIRA, JORGE EVERALDO DE;  SOUSA, FITERLINGE MARTINS DE;  COSTA, MARCIO BENEDITO CALDAS;  LUZ, FABRICIO PINHO DA;  COSTA, MARCOS BENEDITO CALDAS;  New Design of All-Optical Logic Universal NAND Gate Formed by NOT (A AND B) Gates Using Michelson Interferometer Based on Semiconductor Optical Amplifier",
+                "ano": "2019",
+                "periodico": "Journal of Computational and Theoretical Nanoscience. ISBN: 15461955   ."
+            },
+            {
+                "autores": "OLIVEIRA, J. M.",
+                "titulo": "SILVA, H. A. B.;  SOUZA, F.;  OLIVEIRA, J. E.;  COSTA, M. B. C.;  Design of all-optical AND logic gate at 20 Gb/s based on SOA-MI with optimum injection current and length of TWA-SOA",
+                "ano": "2019",
+                "periodico": "SCIENTIA PLENA. ISBN: 18082793   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, H. A. B.",
+                "titulo": "BORNIA, L",
+                "evento": "G.; MELLO",
+                "local": "R. S.; SILVA, H. A. B.; Um Estudo sobre Modelagem Poliglota de Dados. ESCOLA REGIONAL DE BANCO DE DADOS, FARROUPILHA-RS",
+                "ano": "2024"
+            },
+            {
+                "autores": "SILVA, H. A. B.",
+                "titulo": "SANTOS, J",
+                "evento": "V.; FLECK",
+                "local": "A.; MELLO, R. S.; DORNELES, C. F.; FILETO, R.; JOCHEM, J. E. M.; SILVA, H. A. B.; Uma Proposta baseada no Dublin Core para Catalogação de Metadados de Fontes de Dados Governamentais. Simpósio Brasileiro de Banco de Dados, Florianópolis",
+                "ano": "2024"
+            },
+            {
+                "autores": "MELLO, R. S.",
+                "titulo": "BORNIA, L",
+                "evento": "A.; SILVA",
+                "local": "H. A. B.; PPIEROTTI, F. M.; CARDEAL, M. B.; Uma Proposta de Modelagem de Dados no Domínio de Fraudes em Licitações Públicas. Simpósio Brasileiro de Banco de Dados, Florianópolis",
+                "ano": "2024"
+            },
+            {
+                "autores": "BENEDITO, M.",
+                "titulo": "OLIVEIRA, J",
+                "evento": "M.; SILVA",
+                "local": "H. A. B.; SOUZA, F.; All-Optical NOT Logic Gate with SOA-MI.. VIII CONFERÊNCIA NACIONAL EM COMUNICAÇÕES, REDES E SEGURANÇA DA INFORMAÇÃO, Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "SOUZA, F.",
+                "titulo": "OLIVEIRA, J",
+                "evento": "M.; BENEDITO",
+                "local": "M.; SILVA, H. A. B.; Design of All-Optical AND Logic Gate at 20 Gb/s Based on SOA-MI with Optimun Injection Current and Length of TWA-SOA. V Encontro de Física do Entorno do Bico do Papagaio, marabá",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, H. A. B.",
+                "titulo": "AIHIPER - Agente Inteligente Identificador de Crianças com TDAH",
+                "evento": "WESAAC",
+                "local": "Rio Grande",
+                "ano": "2010"
+            },
+            {
+                "autores": "SILVA, H. A. B.",
+                "titulo": "Desenvolvimento de Aplicações para TV DIGITAL utilizando a API JAVA TV",
+                "evento": "CETIC",
+                "local": "Marabá",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "ALEXANDRE RODRIGUES DE JESUS e DALVANICE COSTA DA COSTA",
+                "titulo": "FORMAÇÃO DE PROFESSORES E UTILIZAÇÃO DOS LABORATÓRIOS DE INFORMÁTICA COMO FERRAMENTA PEDAGÓGICA NA EDUCAÇÃO INFANTIL E SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "NELCIRLENE PEREIRA DA SILVA",
+                "titulo": "A TECNOLOGIA DA INFORMÁTICA NA EDUCAÇÃO: UMA REFLEXÃO SOBRE O USO DA INFORMÁTICA COMO RECURSO PEDAGÓGICO",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "MARIA DE JESUS PEREIRA AQUINO SANTIAGO e VÂNIA MARINHO GAMA",
+                "titulo": "A INFORMÁTICA EDUCACIONAL COMO SUPORTE PEDAGÓGICO NA LÍNGUA PORTUGUESA",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            }
+        ]
+    }
+}

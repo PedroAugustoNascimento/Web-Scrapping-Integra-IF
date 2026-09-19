@@ -1,0 +1,504 @@
+{
+    "campus": "- Campus Rio Grande",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Métodos de Exploração de Espaço de Projeto em Tempo de Execução em Sistemas Embarcados de Tempo Real Soft Baseados em Redes-Em-Chip",
+                "orientador": "Flavio Rech Wagner",
+                "ano_inicio": 2005,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "titulo": "Reconfiguração Parcial e Dinâmica para Núcleos de Propriedade Intelectual com Interfaces de Comunicação Padronizadas",
+                "orientador": "Ney Laert Vilar Calazans",
+                "ano_inicio": 2002,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "ano_inicio": 1997,
+                "ano_fim": 2001
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Empresa de Fertilizantes",
+                "ano_inicio": 1994,
+                "ano_fim": 1995,
+                "funcao": "Estagiário",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Estagiário",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "ano_inicio": 1996,
+                "ano_fim": 1997,
+                "funcao": "Bolsista",
+                "vinculo": "Não informado",
+                "descricao": "Trabalho realizado no CPD da FURG"
+            },
+            {
+                "empresa": "Universidade La Salle - Canoas",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "Horista Assistente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2005,
+                "ano_fim": 2008,
+                "funcao": "Doutorando",
+                "vinculo": "Bolsista de Doutorado",
+                "descricao": "Tese defendida em 19 de março de 2008"
+            },
+            {
+                "empresa": "Centro de Excelência em Tecnologia Eletrônica Avançada",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Engenheiro de Verificação - Proj. Front-End",
+                "vinculo": "Bolsista recém-doutor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Microelectronics Journal",
+                "ano_inicio": 2020,
+                "ano_fim": 2021,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nIFRS - Campus Rio Grande (2022) : Coordenação Do Curso Técnico De Informática Para Internet, Modalidade Integrado.\nIFRS - Campus Rio Grande (2016 - 2017) : Diretor De Pesquisa E Inovação.\nIFRS - Campus Rio Grande (2011 - 2015) : Coordenador De Curso De Informática Para Internet Ead / Sistema Etec.\nInstituto de Informática (2005 - 2008): Migração de Tarefas, Exploração de Espaço de Projeto, Network-on-chips,",
+        "ensino": ": Universidade La Salle - Canoas\nGraduacao (2007) - Organização E Arquiteturas De Computadores I.\nGraduacao (2007) - Organização E Arquitetura De Computadores Ii.\nGraduacao (2007) - Informática.\nGraduacao (2007 - 2007) - Comunicações Sem Fio.\nGraduacao (2007) - Linguagens De Programação I.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Sistema Embarcado de Baixo Custo para Controle de Frequência Acadêmico por Identificação Facial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Wenzel Brião",
+                    "Thiago Felix"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Estratégias de monitoramento de dados com plataforma open-source Arduino",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Wenzel Brião",
+                    "Laura Troina Nunes",
+                    "Pierre Calado"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Desenvolvimento e Análise de um ambiente de simulação Multiprocessado em alto nível de abstração.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Wenzel Brião",
+                    "Brenda Faria"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Análise de aspectos sobre a Viabilidade de um Cluster Embarcado",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Wenzel Brião",
+                    "Igor Dutra"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "A monitoria online dos aprendizes de programação para assegurar a permanência e êxito durante o ensino remoto emergencial e promover uma comunidade virtual de aprendizagem",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Eduardo Wenzel Brião",
+                    "Marcio Josué Ramos Torres"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Clube de Desenvolvimento de Jogos do Campus Rio Grande",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Wenzel Brião"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "BRIAO",
+                    "software": "Eduardo Wenzel,  Teoria de Redes de Computadores - Parecer",
+                    "ano": "2012",
+                    "finalidade": "Parecer do Livro Teoria de Redes de Computadores."
+                },
+                {
+                    "autor": "BRIAO",
+                    "software": "Eduardo Wenzel,  Levantamento e Comparação de Métodos e Técnicas para Exploração de Espaço de Projeto em Sistemas baseados em Redes-em-Chip",
+                    "ano": "2005",
+                    "finalidade": "Trabalho Individual."
+                },
+                {
+                    "autor": "BRIAO",
+                    "software": "Eduardo Wenzel,  Tutoriais sobre Reconfiguração Parcial e Dinâmica usando o Fluxo do Projeto Modular sobre a Plataforma Insight V2MB1000",
+                    "ano": "2003",
+                    "finalidade": "Utilização de Reconfiguração Parcial e Dinâmica em FGPAs."
+                },
+                {
+                    "autor": "BRIAO",
+                    "software": "Eduardo Wenzel,  Configuração, Reconfiguração Parcial e Total de Hardware: estudo de caso Memec-Insight VB1000",
+                    "ano": "2002",
+                    "finalidade": "Trabalho Individual II."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BRIAO",
+                    "titulo": "Eduardo Wenzel,  SCHMITZ, J.,  Sistema Embarcado de Baixo Custo para Controle de Frequência Acadêmico por Identificação Facial",
+                    "ano": "2016",
+                    "instituicao_promotora": "IFRS Campus Rio Grande."
+                },
+                {
+                    "autores": "Braga",
+                    "titulo": "Rodrigo,  BRIAO, Eduardo Wenzel,  Webservice para Gerenciamento de Informações de Transporte de Cargas",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul."
+                },
+                {
+                    "autores": "BRIAO",
+                    "titulo": "Eduardo Wenzel,  Network-On-Chip (Redes-em-Chip)",
+                    "ano": "2005",
+                    "instituicao_promotora": "Centro Universitário La Salle."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BRIAO",
+                    "curso": "Eduardo Wenzel,  Mini-curso de Programação Delphi",
+                    "ano": "1999"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "BRIAO",
+                    "evento": "Eduardo Wenzel,  PEREIRA, R. C.,  Semana Acadêmica do IFRS Campus Rio Grande",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS."
+                },
+                {
+                    "autores": "BRIAO",
+                    "evento": "Eduardo Wenzel,  PEREIRA, R.,  GONCALVES, M.,  MEPERG - Mostra de Ensino Pesquisa e Extensão do Campus Rio Grande",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Rio Grande."
+                },
+                {
+                    "autores": "BRIAO",
+                    "evento": "Eduardo Wenzel,  TORALLES, C.,  Semana Aberta IFRS Campus Rio Grande",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS Campus Rio Grande."
+                },
+                {
+                    "autores": "BRIAO",
+                    "evento": "Eduardo Wenzel,  TORALLES, C.,  GONCALVES, M.,  MPCT - Mostra de Produção Científica e Tecnológica",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Rio Grande."
+                },
+                {
+                    "autores": "BRIAO",
+                    "evento": "Eduardo Wenzel,  TORALLES, C.,  Semana Acadêmica do IFRS Campus Rio Grande",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRS Campus Rio Grande."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "LIMA, GUSTAVO",
+                "titulo": "ADAMATTI, DIANA;  BRIÃO, EDUARDO;  MEINHARDT, CRISTINA;  MENDIZABAL, ODORICO MACHADO;  A Multi-Agent-Based Network-on-Chip Simulator",
+                "ano": "2021",
+                "periodico": "JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS). ISBN: 18720234   ."
+            },
+            {
+                "autores": "OLIVEIRA, Márcio Ferreira da Silva",
+                "titulo": "BRIAO, Eduardo Wenzel;  NASCIMENTO, Francisco Assis Do;  WAGNER, Flávio Rech;  Model Driven Engineering for MPSoC Design Space Exploration",
+                "ano": "2008",
+                "periodico": "JICS. Journal of Integrated Circuits and Systems (Ed. Português). ISBN: 18071953   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "LIMA, G.",
+                "titulo": "TRAVERSI, N",
+                "evento": "; MENDIZABAL",
+                "local": "O.; MEINHARDT, C.; ADAMATTI, D.; BRIAO, Eduardo Wenzel; Simulador de NoCs modelado como um SMA. WESAAC - Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações, Fortaleza",
+                "ano": "2018"
+            },
+            {
+                "autores": "LIMA, G.",
+                "titulo": "TRAVERSI, N",
+                "evento": "; ADAMATTI",
+                "local": "F.; DIMURO, G.; MEINHARDT, C.; BRIAO, Eduardo Wenzel; MENDIZABAL, O.; Exploring Mas to a High Level Abstration NoC Simulation Environment.. ICECS - IEEE International Conference on Electronics, Circuits and Systems, Bordeaux",
+                "ano": "2018"
+            },
+            {
+                "autores": "LIMA, G.",
+                "titulo": "TRAVERSI, N",
+                "evento": "; ADAMATTI",
+                "local": "F.; MEINHARDT, C.; BRIAO, Eduardo Wenzel; MENDIZABAL, O.; Development of a NoC Simulator in a Multiagent-System Environment. WCAS - Workshop on Circuits and Systems Design, Bento Gonçalves",
+                "ano": "2018"
+            },
+            {
+                "autores": "Braga, Rodrigo",
+                "titulo": "BRIAO, Eduardo Wenzel; Webservice para gerenciamento de informações de transporte de carga",
+                "evento": "IV Mostra de Produção Científica e Tecnológica do IFRS",
+                "local": "Rio Grande",
+                "ano": "2014"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "BARCELOS, D",
+                "evento": "; WAGNER",
+                "local": "Flávio Rech; Dynamic Task Allocation Strategies in MPSoC for Soft Real-time Applications. DATE - Desgin Automation and Test in Europe, Munique",
+                "ano": "2008"
+            },
+            {
+                "autores": "OLIVEIRA, Márcio Ferreira da Silva",
+                "titulo": "BRIAO, Eduardo Wenzel; NASCIMENTO, Francisco Assis Do; WAGNER, Flávio Rech; Model Driven Engineering for MPSoC Design Space Exploration",
+                "evento": "SBCCI - Symposium On Integrated Circuits and Systems Design",
+                "local": "Rio de Janeiro",
+                "ano": "2007"
+            },
+            {
+                "autores": "BARCELOS, D.",
+                "titulo": "BRIAO, Eduardo Wenzel; WAGNER, Flávio Rech; Impact of Memory Organization on Task Migration and Dynamic Task Allocation in NoC-based MPSoCs",
+                "evento": "SBCCI - Symposium On Integrated Circuits and Systems Design",
+                "local": "Rio de Janeiro",
+                "ano": "2007"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "BARCELOS, D",
+                "evento": "; WRONSKI",
+                "local": "Fábio; WAGNER, Flávio Rech; Impact of Task Migration in NoC-based MPSoCs for Soft Real-time Applications. IFIP VLSI-SoC - IFIP International Conference On Very Large Scale Integration, Atlanta, USA",
+                "ano": "2007"
+            },
+            {
+                "autores": "NASCIMENTO, Francisco Assis Do",
+                "titulo": "OLIVEIRA, Márcio Ferreira da Silva; BRIAO, Eduardo Wenzel; BRISOLARA, Lisane; CARRO, Luigi; WAGNER, Flávio Rech; Multi-objective Design Space Exploration based on UML",
+                "evento": "Design Automation Conference",
+                "local": "San Francisco",
+                "ano": "2006"
+            },
+            {
+                "autores": "AMORY, Alexandre de Moraes",
+                "titulo": "BRIAO, Eduardo Wenzel; COTA, Érika Fernades; LUBASZEWSKI, Marcelo Soares; MORAES, Fernando Gehm; A Cost-Effective Test Flow for Homogeneous Network-on-Chip",
+                "evento": "EUROPEAN TEST SYMPOSIUM",
+                "local": "Tallinn",
+                "ano": "2005"
+            },
+            {
+                "autores": "AMORY, Alexandre de Moraes",
+                "titulo": "BRIAO, Eduardo Wenzel; COTA, Érika Fernades; LUBASZEWSKI, Marcelo Soares; MORAES, Fernando Gehm; A Scalable Test Strategy For Network-On-Chip Routers",
+                "evento": "IEEE International Test Conference",
+                "local": "Austin, Texas",
+                "ano": "2005"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "CAMOZZATO, Daniel; RIES, Luis Henrique Leal; MORAES, Fernando Gehm; CALAZANS, Ney Laert Vilar; Reconfiguração Parcial e Dinâmica para Núcleos de Propriedade Intelectual com Interfaces de Comunicação Padronizadas",
+                "evento": ". IBERCHIP",
+                "local": "Cartagena, COLOMBIA",
+                "ano": "2004"
+            },
+            {
+                "autores": "CARVALHO, Ewerson Luiz de Souza",
+                "titulo": "CALAZANS, Ney Laert Vilar; BRIAO, Eduardo Wenzel; MORAES, Fernando Gehm; PADReH - A Framework for the Design and Implementation of Dynamically and Partially Reconfigurable Systems",
+                "evento": ". SYMPOSIUM ON INTEGRATED CIRCUITS AND SYSTEMS DESIGN SBCCI",
+                "local": "Ipojuca",
+                "ano": "2004"
+            },
+            {
+                "autores": "CARVALHO, Ewerson Luiz de Souza",
+                "titulo": "BRIAO, Eduardo Wenzel; MÖLLER, Leandro Heleno; MÖLLER, Frederico Bartz; MORAES, Fernando Gehm; CALAZANS, Ney Laert Vilar; Controlling Configurations on Dynamic Reconfigurable Systems",
+                "evento": ". SOUTH SYMPOSIUM ON MICROELECTRONICS",
+                "local": "São Miguel das Missões",
+                "ano": "2004"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "CARVALHO, Ewerson Luiz de Souza; MÖLLER, Leandro Heleno; CAMOZZATO, Daniel; MORAES, Fernando Gehm; CALAZANS, Ney Laert Vilar; A Generic Model of Embedded System to Enable Dynamic Self-Reconfigurable Applications",
+                "evento": "SOUTH SYMPOSIUM ON MICROELECTRONICS",
+                "local": "São Miguel das Missões",
+                "ano": "2004"
+            },
+            {
+                "autores": "FERNANDES, L. L.",
+                "titulo": "BRIAO, Eduardo Wenzel; SIGMA - Sistema Genérico Multi-agente - Aplicação Alvo: sistemas de informações geográficas",
+                "evento": "Congresso Regional de Iniciação Científica e Tecnológica",
+                "local": "Ijuí - RS",
+                "ano": "2001"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "RODRIGUES, F",
+                "evento": "L.; BEMVENUTI",
+                "local": "M. A.; Comparação de Técnicas Morfométricas Utilizadas em Odontesthes Bonariensis e Odontesthes Humensis. Congresso de Iniciação Científica, Pelotas - RS",
+                "ano": "2000"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "VILLARREYES, J",
+                "evento": "A. M.; Topolgraf 2.0 - Editor Gráfico de Estruturas Químicas para Cálculos de Topologia Molecular. CRICTE - Congresso Regional de Iniciação Científica e Tecnológica",
+                "local": "Santa Maria - RS",
+                "ano": "1999"
+            },
+            {
+                "autores": "BRIAO, Eduardo Wenzel",
+                "titulo": "VILLARREYES, J",
+                "evento": "A. M.; Editor Gráfico de Estruturas Químicas para Cálculos de Topologia Molecular. Congresso de Iniciação Científica",
+                "local": "Pelotas - RS",
+                "ano": "1998"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Vinicius da Silva Marchand",
+                "titulo": "CONCONEX: PLATAFORMA DE GESTÃO E COMUNICAÇÃO PARA TRABALHADORES AUTÔNOMOS NA ÁREA DA CONSTRUÇÃO CIVIL",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Eduarda Silveira Schroeder e Maria Luísa Marques da Silva",
+                "titulo": "PROBATIO: Plataforma de estudos",
+                "ano": "2025",
+                "curso": "Curso Técnico de Informática para Internet - Ensino Médio Integrado",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Pedro Henrique Rocha Oliveira e Greice Braga Pereira",
+                "titulo": "Interface de Monitoramento de Dados para o Protótipo da Equipe de Eficiência Energética IFECO",
+                "ano": "2025",
+                "curso": "Curso Técnico de Informática para Internet - Ensino Médio Integrado",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Wendel de Lemos Coelho",
+                "titulo": "TASKFORGE GESTÃO DE PROJETOS",
+                "ano": "2025",
+                "curso": "Curso Técnico de Informática para Internet - Ensino Médio Integrado",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "GABRIEL GARCIA CAMARGO SOARES",
+                "titulo": "ARKANGEL: APLICATIVO MÓVEL DE CONTROLE PARENTAL COM FILTRAGEM, MONITORAMENTO E RECOMENDAÇÕES ADAPTATIVAS",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Milena de Carvalho Henriques",
+                "titulo": "O impacto da implementação de plataformas Low-Code na agilidade e eficiência do desenvolvimento de sistemas",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Renan Gomes Acosta",
+                "titulo": "Inteligência Artificial como copiloto no processo de desenvolvimento de software",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Felipe Porto Teixeira",
+                "titulo": "Aplicativo de Gerenciamento de Dieta",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Rodrigo Moron Braga",
+                "titulo": "Webservice para gerenciamento de informações do transporte de cargas",
+                "ano": "2016",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Everton Soares Mees",
+                "titulo": "Framework para o desenvolvimento de sistemas de segurança patrimonial com metaprogramação de firmware",
+                "ano": "2014",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 10.691879272460938,
+            "indian": 5.608849048614502,
+            "black": 1.6098963022232056,
+            "white": 37.08402633666992,
+            "middle eastern": 25.326274871826172,
+            "latino hispanic": 19.679073333740234
+        }
+    }
+}

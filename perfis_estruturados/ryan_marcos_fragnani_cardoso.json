@@ -1,0 +1,241 @@
+{
+    "campus": "- Câmpus Garopaba",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2021,
+                "ano_fim": 2023
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professor Substituto",
+                "vinculo": "Leciona como professor substituto nas áreas de Banco de Dados",
+                "descricao": "Desenvolvimento Web e Móvel, Desenvolvimento de Jogos e Redes de Computadores. Ele ministra aulas tanto para cursos de graduação em Sistemas para Internet quanto para cursos técnicos em Informática, abordando tecnologias como Flutter, Spring, Unity e Ionic, além de orientar os alunos em práticas de desenvolvimento e conceitos fundamentais de computação"
+            },
+            {
+                "empresa": "GBR Consultoria e Sistemas",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "Desenvolvedor",
+                "vinculo": "Desenvolve e mantém soluções para a área da saúde",
+                "descricao": "com foco no desenvolvimento de sistemas em Java e Angular e na criação de aplicativos móveis híbridos utilizando Ionic. Ele trabalha na implementação de funcionalidades críticas, garantindo a performance e a escalabilidade das aplicações, além de prestar suporte técnico para a evolução e manutenção dos sistemas"
+            },
+            {
+                "empresa": "Del Grande",
+                "ano_inicio": 2023,
+                "ano_fim": 2023,
+                "funcao": "Desenvolvedor Jr",
+                "vinculo": "Responsável pelo desenvolvimento e manutenção de aplicações Java no back-end e pelo suporte a sistemas Angular no front-end. Além disso",
+                "descricao": "atuou na criação e publicação de aplicativos móveis multiplataforma (iOS e Android) utilizando Ionic, garantindo alta performance e compatibilidade entre as plataformas. Durante esse período, implementou chats inteligentes com IA, otimizando a comunicação entre sistemas e usuários, e realizou manutenção e evolução de projetos críticos, assegurando a estabilidade, segurança e usabilidade das soluções"
+            },
+            {
+                "empresa": "Gsurf",
+                "ano_inicio": 2022,
+                "ano_fim": 2022,
+                "funcao": "Estágio Desenvolvedor Back-End",
+                "vinculo": "Responsável pelo desenvolvimento de APIs rápidas utilizando FastAPI",
+                "descricao": "integradas ao AWS Lambda. Também realizou a manutenção de bancos de dados DynamoDB, garantindo a integridade e performance dos dados. Sua atuação contribuiu para a eficiência operacional das soluções da empresa, além de aprimorar seus conhecimentos em computação em nuvem e gerenciamento de dados"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "O trabalho com informática: o dia a dia da profissão",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Laynara Da Silva Vieira",
+                    "Mariana Reis Leal Fernandes",
+                    "Karoline Penteado Reinheimer",
+                    "Julio Emilio Fontana Dias Ramos",
+                    "Mateus Lucinei Silvano",
+                    "Leandro Crispim Da Silva",
+                    "Joao Luis Machado Martins",
+                    "Ignacio Kirhiako Sepulveda Ramirez",
+                    "Ian Casal Faria",
+                    "Fabio Serra Vasconcelos",
+                    "Yuri Goncalves Nascimento",
+                    "Daniel Bruno Oliveira De Carvalho",
+                    "Arthur Marino Penachin",
+                    "Bruno Ferreira Da Silva",
+                    "Kauly Buss Leite"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Robótica na Escola: Introdução à Programação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Laynara Da Silva Vieira",
+                    "Thaiana Pereira Dos Anjos Reis",
+                    "Rodrigo Balbinot Reis",
+                    "Gabriel Krieger De Sousa"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Garopaba na Web",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Karoline Penteado Reinheimer",
+                    "Julio Emilio Fontana Dias Ramos",
+                    "Pedro Luiz Pompeu Da Silva",
+                    "Mateus Lucinei Silvano",
+                    "Leandro Crispim Da Silva",
+                    "Joao Luis Machado Martins",
+                    "Ignacio Kirhiako Sepulveda Ramirez",
+                    "Ian Casal Faria",
+                    "Fabio Serra Vasconcelos",
+                    "Yuri Goncalves Nascimento",
+                    "Daniel Bruno Oliveira De Carvalho",
+                    "Arthur Marino Penachin",
+                    "Bruno Ferreira Da Silva",
+                    "Kauly Buss Leite",
+                    "Ricardo Elias Mota De Oliveira",
+                    "Antonio Miguel Faustini Zarth"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de Sites para Empresas Locais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Thaiana Pereira Dos Anjos Reis",
+                    "Gabriel Mendes Alves Ortiz Paulo",
+                    "Victor Leonardo Fagundes Dos Santos",
+                    "Patricia Voigt",
+                    "Nicolas Hoff Polo",
+                    "Michel David De Souza",
+                    "Luiz Felipe Schalata Pacheco",
+                    "Higor Rodrigues Estevao",
+                    "Daniel Diefenthaeler Santos",
+                    "Pedro Jaremczuk Zanoni Silveira",
+                    "Arthur Mazzardo Naue"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Internet das Coisas: A Tecnologia em todos os dispositivos e lugares.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Thaiana Pereira Dos Anjos Reis",
+                    "Pedro Luiz Pompeu Da Silva",
+                    "Stephanny Tayssa Lopes Pires",
+                    "Andre Luiz Silva De Moraes"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Robótica na Escola: Programando o Futuro",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Laynara Da Silva Vieira",
+                    "Thaiana Pereira Dos Anjos Reis",
+                    "Roberval Silva Bett",
+                    "Ettore Cerreti",
+                    "Andre Luiz Silva De Moraes",
+                    "Gabriel Reis Franzen",
+                    "Joselle Giacomuzzi Pires",
+                    "Yuri Lourenco Ribeiro",
+                    "Rodrigo Balbinot Reis",
+                    "Arthur Gomes Moreira",
+                    "Guilherme Mendes De Paula"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Lixo eletrônico: incentivo ao descarte correto",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ryan Marcos Fragnani Cardoso",
+                    "Laynara Da Silva Vieira",
+                    "Mariana Reis Leal Fernandes",
+                    "Karoline Penteado Reinheimer",
+                    "Julio Emilio Fontana Dias Ramos",
+                    "Joao Pedro Mates Lobato",
+                    "Pedro Luiz Pompeu Da Silva",
+                    "Mateus Lucinei Silvano",
+                    "Lucas Cancado Ximenes",
+                    "Leandro Crispim Da Silva",
+                    "Joao Luis Machado Martins",
+                    "Ignacio Kirhiako Sepulveda Ramirez",
+                    "Ian Casal Faria",
+                    "Hudson Alves Triunfante",
+                    "Heverson De Carvalho Pereira",
+                    "Gabriel De Vargas Abreu",
+                    "Fabio Serra Vasconcelos",
+                    "Stephanny Tayssa Lopes Pires",
+                    "Silvioney Backes Vogado",
+                    "Zac Milioli Da Silva",
+                    "Yuri Goncalves Nascimento",
+                    "Wesley Dias De Oliveira",
+                    "Camila Maria Paschoal Baptistella",
+                    "Camila Mazoni Da Silva",
+                    "Daniel Bruno Oliveira De Carvalho",
+                    "Richardt Chaves Dias",
+                    "Arthur Marino Penachin",
+                    "Bruno Ferreira Da Silva"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.1636134386062622,
+            "indian": 1.4333518743515015,
+            "black": 0.262988418340683,
+            "white": 54.96916198730469,
+            "middle eastern": 16.94889259338379,
+            "latino hispanic": 25.221994400024414
+        }
+    }
+}

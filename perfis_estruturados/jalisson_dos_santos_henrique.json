@@ -1,0 +1,170 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Motivações para Aplicação da Refatoração Extract Method: Um Estudo Baseado em Mensagens de Commit",
+                "orientador": "Cláudio Nogueira Sant'Anna",
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Educação Científica e Popularização das Ciências",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "orientador": "Társio Ribeiro Cavalcante",
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2015,
+                "ano_fim": 2018
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Mega Curso",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Estagiário",
+                "vinculo": "Setor Privado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Caixa Econômica Federal",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Estagiário",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Petrobras",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Jovem Aprendiz",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor Público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Decolonizando o saber: entre a intervenção e o imaginário",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Jalisson Dos Santos Henrique",
+                    "Jocelma Almeida Rios",
+                    "Delma Brandão Boaventura Da Conceição",
+                    "Luiz Cláudio Machado Dos Santos",
+                    "Maria Adelia Ico Machado Dos Santos",
+                    "Suêde Mayne Pereira Araújo",
+                    "Barbara Janaina Catão Da Silva",
+                    "Alan Claudio Santos De Quintella Mattos",
+                    "Ícaro Cedro Mascarenhas Gil De Carvalho"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2022,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVEIRA",
+                    "software": "C. S.,  MARQUES, B. N.,  ARNAUT, F. F. S.,  ARAUJO, M. L. V.,  CARVALHO, I. C. M. G.,  LOPE, M. G.,  SILVA, A. M. G.,  BORGES, A. W. S.,  HENRIQUE, J. S.,  Tuberculus",
+                    "ano": "2023",
+                    "finalidade": "Jogo educativo sobre o tema Tuberculose..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512024002738-6."
+                },
+                {
+                    "autor": "ARAUJO",
+                    "software": "M. L. V.,  ARNAUT, F. F. S.,  BARRETO, D. A.,  COSTA, L. P. B.,  SOUZA, T. S.,  CARVALHO, B. T. S.,  HENRIQUE, J. S.,  Alice Upside World",
+                    "ano": "2022",
+                    "finalidade": "Jogo educativo sobre o tema Meio Ambiente..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023004008-8."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, J. S.",
+                "titulo": "HENRIQUE, J",
+                "evento": "S.; SOBRAL",
+                "local": "A. C. S.; INTERDISCIPLINARIDADE E GEOTECNOLOGIAS: EXPERIÊNCIAS DE EDUCAÇÃO CIENTÍFICA NO ENSINO MÉDIO INTEGRADO À EDUCAÇÃO PROFISSIONAL. XI Congresso Nacional de Educação, Olinda - PE",
+                "ano": "2025"
+            },
+            {
+                "autores": "HENRIQUE, JALISSON",
+                "titulo": "SANT?ANNA, CLÁUDIO; Minerando Motivações para Aplicação de Extract Method: Um Estudo Preliminar",
+                "evento": "Workshop de Visualização",
+                "local": "Evolução e Manutenção de Software, Brasil",
+                "ano": "2021"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Isaack Andrade dos Santos",
+                "titulo": "LETRAMENTO DIGITAL NA LICENCIATURA EM COMPUTAÇÃO: ANÁLISE DO PERFIL DOS ESTUDANTES DO IFBA CAMPUS VALENÇA E SUA IMPORTÂNCIA NA TRAJETÓRIA ACADÊMICA",
+                "ano": "2026",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Adriele Conceição dos Santos",
+                "titulo": "Do Ensino Remoto Emergencial ao Pós-Pandemia: Reflexões sobre o Uso das Tecnologias Digitais na Educação",
+                "ano": "2025",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 34.565521240234375,
+            "indian": 13.16677474975586,
+            "black": 12.735416412353516,
+            "white": 7.01511812210083,
+            "middle eastern": 4.709963321685791,
+            "latino hispanic": 27.80720329284668
+        }
+    }
+}

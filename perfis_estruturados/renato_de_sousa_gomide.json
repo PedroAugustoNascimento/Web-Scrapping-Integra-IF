@@ -1,0 +1,758 @@
+{
+    "campus": "- Campus Trindade",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Uma nova prancha de comunicação alternativa dinâmica baseada em um método híbrido de sugestão de pictogramas",
+                "orientador": "Edna Lúcia Flôres",
+                "ano_inicio": 2013,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica e de Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Ambiente Virtual para Reabilitação de Membros Superiores Utilizando Visão Computacional",
+                "orientador": "Marcus Fraga Vieira",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência na Educação Profissional e Tecnológica",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO",
+                "orientador": "Igor Gonzaga Lopes",
+                "ano_inicio": 2024,
+                "ano_fim": 2026
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Gestão de Softwares",
+                "instituicao": "Centro Universitário de Goiás",
+                "orientador": "Ana Raquel Rosas Torres",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Pontifícia Universidade Católica de Goiás",
+                "ano_inicio": 2002,
+                "ano_fim": 2006
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Juizado da Infância e Juventude - Goiânia",
+                "ano_inicio": 2006,
+                "ano_fim": 2010,
+                "funcao": "Agente de Proteção",
+                "vinculo": "Voluntário",
+                "descricao": "- Gerencia de projetos em Software; - Análise e desenvolvimento de Sistemas de Informação"
+            },
+            {
+                "empresa": "Infoquality",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Engenheiro de aplicativos em computação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Infoquality",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "PROGRAMADOR DE SISTEMAS",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Infoquality",
+                "ano_inicio": 2004,
+                "ano_fim": 2006,
+                "funcao": "PROGRAMADOR DE SISTEMAS",
+                "vinculo": "ESTÁGIO",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Apoio à Pesquisa",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Estagiário",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "ano_inicio": 2012,
+                "ano_fim": 2015,
+                "funcao": "Professor do EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Professor do EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Sistema para Gerenciamento de Eventos Esportivos Universitários",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "João Víctor Moreira Calaça",
+                    "Anna Clara Maranha Chaves"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2026
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Uso do ChatGPT como ferramenta de apoio à aprendizagem e produção de conhecimento",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Elio Augusto Fraga",
+                    "Joselina Alves Cardoso",
+                    "Natalia Carvalhaes De Oliveira",
+                    "Luiz Eduardo De Jesus Fleury"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desmistificando o Hardware em Escolas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Isaac Nilson De Souza Lima",
+                    "Arthur Marques Morais Bacelli",
+                    "Davi Gabriel Santos Oliveira",
+                    "Kaytler Sleyker Sousa Araújo"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Criação de um grupo de estudo de programação utilizando o software Discord",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Acsa Mendes Dos Santos",
+                    "Lisia Maria Becker Tabalipa"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "A resolução de exercícios de matemática e física com o apoio das ferramentas computacionais GeoGebra e Wolfram",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Adson Silva Rocha",
+                    "Adriano Cavalcante Bezerra",
+                    "Claudine Faleiro Gill",
+                    "Kelly De Souza Fernandes Carrião",
+                    "Marcos Túlio Alves De Carvalho"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "I Feira de Ciências e Mostras Científicas do Município de Trindade-GO",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Maria Socorro Duarte Da Silva Couto"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicativo para dispositivo móvel para a Biblioteca",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Luciane Silva De Souza Prudente",
+                    "Hevellin Estrela",
+                    "Andreia Cristiane De Magalhães Acaz",
+                    "Juan Carlos Vieira De Queiroz",
+                    "Mateus Oliveira Brito"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Construção de um material didático para a disciplina de Banco de Dados",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Ruan Nunes Chagas"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Análise das informações veiculadas pelas mídias",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Valéria Alves De Lima",
+                    "José Geraldo Da Silva",
+                    "Kesi Line De Morais"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "PROGRAMA CHAT GPT: possibilidades de integração e desenvolvimento da produção textual",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Elio Augusto Fraga",
+                    "Joselina Alves Cardoso",
+                    "Natalia Carvalhaes De Oliveira",
+                    "Maria Socorro Duarte Da Silva Couto",
+                    "Livia Do Carmo Silva"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Inteligência artificial e o raciocínio humano: conexões entre matemática, filosofia e tecnologia",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Claudine Faleiro Gill",
+                    "Maria Socorro Duarte Da Silva Couto",
+                    "Crisdinei Soares Barbosa",
+                    "Marilia Guimaraes Protasio"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "II Feira de Ciências e Mostras Científicas do Município de Trindade-GO: ciências para todos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Maria Socorro Duarte Da Silva Couto"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de um serious game para retratar a campanha de combate ao mosquito Aedes aegypti no IF Goiano Campus Trindade",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Islaine Alves Costa",
+                    "Mateus Luís Sousa Santos"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Um aplicativo para consulta em repositório de dados com problemas matemáticos da OBMEP e do ENEM",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Abigail De Jesus Arruda",
+                    "Elias Leandro De Sousa"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "III Feira de Ciências e II Encontro da Extensão do Campus Trindade",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Cleber Asmar Ganzaroli",
+                    "Rodrigo De Sousa Gomide",
+                    "Adson Silva Rocha",
+                    "Sandra Zago Falone",
+                    "José Geraldo Da Silva",
+                    "Kelly De Souza Fernandes Carrião",
+                    "Pollyanna Laurindo De Oliveira",
+                    "Natalia Carvalhaes De Oliveira",
+                    "Maria Socorro Duarte Da Silva Couto",
+                    "Ruth Aparecida Viana Da Silva",
+                    "Luciano Fonseca Da Silva",
+                    "Alex Tristão De Santana"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicativo para Monitoramento de Treinos de Musculação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "João Víctor Moreira Calaça",
+                    "Fernando Cardoso Houara Brêttas"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "PROGRAMA CHAT GPT: possibilidades de integração e desenvolvimento da produção textual - 2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Renato De Sousa Gomide",
+                    "Marcos Túlio Alves De Carvalho",
+                    "Elio Augusto Fraga",
+                    "Joselina Alves Cardoso",
+                    "Luiz Eduardo De Jesus Fleury"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  VeloDedo",
+                    "ano": "2026",
+                    "finalidade": "Apoio a área de ensino..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026005717-5."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  Dashboard Estatística do Relatório de Atividades Docentes",
+                    "ano": "2025",
+                    "finalidade": "Apoio a área de gestão acadêmica..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025006194-3."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  DIAS, P. B.,  PINHEIRO, E. L.,  Sistema de Movimentação de Pessoa",
+                    "ano": "2025",
+                    "finalidade": "Apoio a área de gestão institucional..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026000501-9."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  SILVA JUNIOR, G. P.,  QUINTERO, J. E. P.,  SUARES, J. D. L.,  Sistema de Distribuição de Aula",
+                    "ano": "2025",
+                    "finalidade": "Apoio a área de gestão acadêmica..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026000500-0."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  CALAÇA, J. V. M.,  MOURA, L. B. A.,  NASCIMENTO, M. B. S.,  ASSIS, P. V. P.,  Tecnologia e Sustentabilidade um Simulador WEB para Conscientização do Consumo de Água",
+                    "ano": "2025",
+                    "finalidade": "Apoio a área de ensino e conscientização ambiental..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025006191-9."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  OLIVEIRA, A. B.,  CARVALHO, J. C. C.,  Energize",
+                    "ano": "2025",
+                    "finalidade": "Apoio a área de ensino..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025004995-1."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  BORGES, A. B. P.,  LIRA, A. A.,  SILVA, M. H. M.,  Minigames Educacionais",
+                    "ano": "2024",
+                    "finalidade": "Apoio a área de ensino..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025001343-4."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "RENATO DE SOUSA,  Gomide, RS,  ROCHA, A. S.,  Izhikevich Model Application",
+                    "ano": "2021",
+                    "finalidade": "Apoio a área de ensino e pesquisa..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023003925-0."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Sistema de Avaliação Discente",
+                    "ano": "2018",
+                    "finalidade": "Aplicação de avaliação de desempenho docente em ambiente escolar.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512018001330-9."
+                },
+                {
+                    "autor": "ROCHA",
+                    "software": "A. S.,  DE SOUSA GOMIDE, RENATO,  MARZALL, V. O. A. R.,  GOMIDE, Rodrigo S.,  Quem quer ser um engenheiro?",
+                    "ano": "2018",
+                    "finalidade": "Apoio a área de ensino..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512019001195-3."
+                },
+                {
+                    "autor": "DE SOUSA GOMIDE",
+                    "software": "RENATO,  SILVA JUNIOR, G. P.,  OLIVEIRA, L. V. M.,  SISPROJ - SISTEMA PARA PROJEÇÃO DE CURSOS",
+                    "ano": "2017",
+                    "finalidade": "Auxiliar a gerência de ensino para a distribuição da demanda de professores.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512017000616-4."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  LOJA, Luiz F. B.,  TORRES, Renato M.,  SisAgenda - Sistema de Agendamento de Processos",
+                    "ano": "2009",
+                    "finalidade": "Automatizar o controle e o agendamento de processos que envolvem a infância e juventude."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Site Rede Tv Local (emissora de Morrinhos - GO)",
+                    "ano": "2009",
+                    "finalidade": "Desenvolver portal para emissora de televisão."
+                },
+                {
+                    "autor": "AVELINO",
+                    "software": "M.,  GOMIDE, R. S.,  MARTINS, D. A.,  MARTINS, Thiago A.,  Syscore",
+                    "ano": "2001",
+                    "finalidade": "Planejamento Estratégico."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Parecer de avaliação de trabalhos científicos para a XIII Escola Regional de Informática de Goiás (ERI-GO 2025)",
+                    "ano": "2025",
+                    "finalidade": "Revisão por pares de dois trabalhos submetidos ao evento (artigo completo e resumo)."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Parecer de avaliação ad hoc de projeto submetido ao edital nº 01/2024 - IF Goiano, Campus Trindade",
+                    "ano": "2024",
+                    "finalidade": "Avaliação ad hoc do projeto &quot;Proposta de desenvolvimento de sistema de monitoramento e segurança de armários baseado em sensores e IoT&quot;."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Parecer de avaliação de trabalhos científicos para a 12ª Escola Regional de Informática de Goiás (ERI-GO 2024)",
+                    "ano": "2024",
+                    "finalidade": "Revisão por pares de dois trabalhos submetidos ao evento (artigo completo e pôster)."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Parecer de avaliação de artigo científico para o XII SEB / IX SIIM 2019 (subrevisor)",
+                    "ano": "2019",
+                    "finalidade": "Revisão por pares de artigo submetido ao evento."
+                },
+                {
+                    "autor": "GOMIDE",
+                    "software": "R. S.,  Parecer de avaliação ad hoc de propostas do processo seletivo PIBIC-EM/CNPq, PIBIC-EM e PIVIC-EM, edital nº 07/2018 - IF Goiano, Campus Trindade",
+                    "ano": "2018",
+                    "finalidade": "Avaliação ad hoc de propostas submetidas a edital de iniciação científica."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "DE SOUSA GOMIDE",
+                    "curso": "RENATO,  Desenvolvimento de Jogos com Game Maker",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "DE SOUSA GOMIDE",
+                    "curso": "RENATO,  Elementos da física na guitarra elétrica",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "GOMIDE",
+                    "curso": "R. S.,  Introdução a desenvolvimento de jogos",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "DE SOUSA GOMIDE, RENATO",
+                "titulo": "BEZERRA, A. C.;  NASCIMENTO, P. R.;  Anais da IV Semana Nacional de Ciência e Tecnologia do Campus Trindade",
+                "ano": "2021",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786587469126, Trindade (Organizado(a))."
+            },
+            {
+                "autores": "MENDONCA, A. F.",
+                "titulo": "FLORES, E. L.;  TEIXEIRA, R. A. G.;  GOMIDE, R. S.;  LOJA, L. F. B.;  Formação e Políticas Públicas na Educação: Tecnologias, Aprendizagem, Diversidade e Inclusão. Título do capítulo: Tecnologia Assistiva: Mapeando a Área",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9788581487076."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "GOMIDE, RENATO DE SOUSA",
+                "titulo": "LOJA, LUIZ FERNANDO BATISTA;  LEMOS, RODRIGO PINTO;  FLÔRES, EDNA LÚCIA;  MELO, FRANCISCO RAMOS;  TEIXEIRA, RICARDO ANTONIO GONÇALVES;  A new concept of assistive virtual keyboards based on a systematic review of text entry optimization techniques",
+                "ano": "2016",
+                "periodico": "Research on Biomedical Engineering. ISBN: 24464740   ."
+            },
+            {
+                "autores": "LOJA, L. F. B.",
+                "titulo": "GOMIDE, R. S.;  FLORES, E. L.;  LEMOS, R. P.;  MENDES, F. F.;  TEIXEIRA, R. A. G.;  A Concept-Environment for Computer-based Augmentative and Alternative Communication founded on a Systematic Review",
+                "ano": "2015",
+                "periodico": "Revista Brasileira de Engenharia Biomédica. ISBN: 19847742   ."
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "LOJA, L. F. B.;  Flores. L. E.;  LEMOS, R. P.;  CARVALHO, S. D.;  SILVA, R. E. M.;  A Systematic Review on Methods and Techniques for Optimizing Assistive Virtual Keyboards",
+                "ano": "2015",
+                "periodico": "Revista IEEE América Latina. ISBN: 15480992   ."
+            },
+            {
+                "autores": "RAMOS DE MELO, FRANCISCO",
+                "titulo": "FLÔRES, EDNA LUCIA;  DINIZ DE CARVALHO, SIRLON;  GONÇALVES DE TEIXEIRA, RICARDO ANTONIO;  BATISTA LOJA, LUIS FERNANDO;  DE SOUSA GOMIDE, RENATO;  Computational organization of didactic contents for personalized virtual learning environments",
+                "ano": "2014",
+                "periodico": "Computers and Education. ISBN: 03601315   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "BRITO, M. O.",
+                "titulo": "DE SOUSA GOMIDE, RENATO; FILHO, R",
+                "evento": "M. O.; O Problema do Caixeiro Viajante Aplicado à Roteirização Turística: Aplicativo Móvel para Visitantes de Trindade-GO. XIII Escola Regional de Informática de Goiás",
+                "local": "Luziânia",
+                "ano": "2025"
+            },
+            {
+                "autores": "CALAÇA, J. V. M.",
+                "titulo": "DE SOUSA GOMIDE, RENATO; Sistema para gerenciamento de eventos esportivos universitários",
+                "evento": "VIII Semana Nacional de Ciência e Tecnologia do Campus Trindade",
+                "local": "Trindade",
+                "ano": "2025"
+            },
+            {
+                "autores": "CAMPOS, A. C. R. P.",
+                "titulo": "DE SOUSA GOMIDE, RENATO; SOUZA, M",
+                "evento": "J. N.; CASOTTI",
+                "local": "G. B.; OLIVEIRA, H. L.; SOUZA, J. C. P.; GILL, C. F.; BARBOSA, C. S.; PROTASIO, M. G.; COUTO, M. S. D. S.; Inteligência artificial e o raciocínio humano: conexões entre matemática, filosofia e tecnologia. VIII Semana Nacional de Ciência e Tecnologia do Campus Trindade, Trindade",
+                "ano": "2025"
+            },
+            {
+                "autores": "REZENDE, D. S.",
+                "titulo": "SILVA, E",
+                "evento": "G. O.; SILVA",
+                "local": "L. A. D.; MARÇAL, M. G. S.; SILVA, M. E. A. A.; DE SOUSA GOMIDE, RENATO; AquaQuiz ? Mergulhe no conhecimento. VIII Semana Nacional de Ciência e Tecnologia do Campus Trindade, Trindade",
+                "ano": "2025"
+            },
+            {
+                "autores": "CALAÇA, J. V. M.",
+                "titulo": "BRÊTTAS, F",
+                "evento": "C. H.; DE SOUSA GOMIDE",
+                "local": "RENATO; Aplicativo para monitoramento de treinos de musculação. VII Semana Nacional de Ciência e Tecnologia do Campus Trindade, Trindade",
+                "ano": "2024"
+            },
+            {
+                "autores": "CARDOSO, J. A.",
+                "titulo": "CARVALHO, M",
+                "evento": "T. A.; FRAGA",
+                "local": "E. A.; DE SOUSA GOMIDE, RENATO; FLEURY, L. E. J.; Programa Chat GPT: possibilidades de integração e desenvolvimento da produção textual. VII Semana Nacional de Ciência e Tecnologia do Campus Trindade, Trindade",
+                "ano": "2024"
+            },
+            {
+                "autores": "SANTOS, A. M.",
+                "titulo": "TABALIPA, L",
+                "evento": "M. B.; DE SOUSA GOMIDE",
+                "local": "RENATO; Criação de um grupo de estudo de programação utilizando o software Discord. V Semana Nacional de Ciência e Tecnologia do Campus Trindade, Trindade",
+                "ano": "2021"
+            },
+            {
+                "autores": "ARRUDA, A. J.",
+                "titulo": "SOUSA, E",
+                "evento": "L.; SILVA",
+                "local": "M. S. D.; GOMIDE, R. S.; UM APLICATIVO PARA CONSULTA EM REPOSITÓRIO DE DADOS COM PROBLEMAS MATEMÁTICOS DA OBMEP E DO ENEM. XIII Semana Nacional de Ciência e Tecnologia, II Feira de Ciências e II Encontro da Pesquisa do Campus Trindade, Trindade",
+                "ano": "2016"
+            },
+            {
+                "autores": "COSTA, I. A.",
+                "titulo": "SANTOS, M",
+                "evento": "L. S.; GOMIDE",
+                "local": "R. S.; DESENVOLVIMENTO DE UM SERIOUS GAME PARA RETRATAR A CAMPANHA DE COMBATE AO MOSQUITO AEDES AEGYPTI NO IFGOIANO CAMPUS TRINDADE. XIII Semana Nacional de Ciência e Tecnologia, II Feira de Ciências e II Encontro da Pesquisa do Campus Trindade, Trindade",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, A. L. H.",
+                "titulo": "BARROS, J",
+                "evento": "C. F.; GOMIDE",
+                "local": "R. S.; SILVA, M. S. D.; UM APLICATIVO PARA A CONSULTA EM BASE DE DADOS DE VÍDEOS MATEMÁTICOS. XIII Semana Nacional de Ciência e Tecnologia, II Feira de Ciências e II Encontro da Pesquisa do Campus Trindade, Trindade",
+                "ano": "2016"
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "LOJA, L",
+                "evento": "F. B.; FLORES",
+                "local": "E. L.; LEMOS, R. P.; TEIXEIRA, R. A. G.; MELO, F. R.; Um Estudo Preliminar do Protocolo de Navegação de Interfaces Gráficas Baseado na Codificação de Huffman. XIII Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOUZA, R. B.",
+                "titulo": "LOJA, L",
+                "evento": "F. B.; GOMIDE",
+                "local": "R. S.; FLORES, E. L.; LEMOS, R. P.; GRACIANO NETO, V. V.; Uma Ferramenta para Criação de Gráficos Estatísticos Utilizando Fusioncharts. XIII Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2015"
+            },
+            {
+                "autores": "LOJA, L. F. B.",
+                "titulo": "GOMIDE, R",
+                "evento": "S.; FLORES",
+                "local": "E. L.; LEMOS, R. P.; LUCENA, D. V.; Revisão Sobre Otimizações de Layouts de Teclados Virtuais Aplicados a Tecnologia Assistiva. XIII Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2015"
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "LOJA, L",
+                "evento": "F. B.; FLORES",
+                "local": "E. L.; Problema de Difusão de Calor Resolvido por Meio de Equações Diferenciais Parciais Parabólicas. XII CEEL Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2014"
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "LOJA, Luiz F",
+                "evento": "B.; CARVALHO",
+                "local": "S. D.; TEIXEIRA, R. A. G.; MELO, F. R.; FLORES, E. L.; Gerenciar Qualidade de Software Representada na ISO 9126 por Meio da Metodologia Estratégica: Balanced Scorecard - Uma Aplicação. XI CEEL - XI Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2013"
+            },
+            {
+                "autores": "LOJA, Luiz F. B.",
+                "titulo": "GOMIDE, R",
+                "evento": "S.; CARVALHO",
+                "local": "S. D.; TEIXEIRA, R. A. G.; MELO, F. R.; FLORES, E. L.; Categorização de Texto Utilizando Heurística e Lógica Difusa. XI CEEL - XI Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2013"
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "VIEIRA, M",
+                "evento": "F.; Virtual environment model for upper limbs rehabilitation using computer vision. 3rd ISSNIP Biosignals and Biorobotics Conference",
+                "local": "Manaus",
+                "ano": "2012"
+            },
+            {
+                "autores": "CAMPOS, R. F. E.",
+                "titulo": "GOMIDE, R",
+                "evento": "S.; VIEIRA",
+                "local": "M. F.; Rastreamento e Predição de Movimento Utilizando Filtro de Kalman. IX CEEL Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2011"
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "CAMPOS, R",
+                "evento": "F. E.; VIEIRA",
+                "local": "M. F.; Modelos Estatísticos de Função Densidade de Probabilidade Para Criação de Séries Temporais. IX CEEL Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2011"
+            },
+            {
+                "autores": "GOMIDE, R. S.",
+                "titulo": "BORGES, M",
+                "evento": "A.; SOARES",
+                "local": "V.; AVELAR, I. S.; VIEIRA, M. F.; Proposta de Ambiente Virtual para Reabilitação Utilizando Visão Computacional. III Encontro Nacional de Engenharia Biomecânica, Foz do Iguaçu",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOARES, V.",
+                "titulo": "SILVA, M",
+                "evento": "S.; AVELAR",
+                "local": "I. S.; GOMIDE, R. S.; BORGES, M. A.; VIEIRA, M. F.; Análise do volume total e parcial de tronco de indivíduos submetidos à hemodiálise. III Encontro Nacional de Engenharia Biomecânica, Foz do Iguaçu",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Mateus Oliveira Brito",
+                "titulo": "O problema do caixeiro viajante aplicado à roteirização turística: aplicativo móvel para visitantes de Trindade-GO",
+                "ano": "2025",
+                "curso": "Engenharia de Computação",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO"
+            },
+            {
+                "orientando": "Sebastião Junior Luz Sousa",
+                "titulo": "Otimização da alocação de postos de resfriamento de leite por meio de heurística baseada em MCKP e validação MILP",
+                "ano": "2025",
+                "curso": "Engenharia de Computação",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO"
+            },
+            {
+                "orientando": "Ana B",
+                "titulo": "P. Borges; André A. Lira; Marcos H. M. Silva.  Desenvolvimento de um jogo sério como ferramenta educacional",
+                "ano": "2024",
+                "curso": "Engenharia de Computação",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO"
+            },
+            {
+                "orientando": "Danilo M",
+                "titulo": "Santos; Davi C. R. Cardoso; Guilherme B. O. Sousa.  WEGRESSO - Sistema Gerenciador de Egressos",
+                "ano": "2023",
+                "curso": "Engenharia de Computação",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA GOIANO"
+            },
+            {
+                "orientando": "Abigail de Jesus Arruda",
+                "titulo": "Um aplicativo para consulta em repositório de dados com problemas matemáticos da OBMEP e do ENEM",
+                "ano": "2017",
+                "curso": "Técnico Integrado em Informática para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Elias Leandro de Sousa",
+                "titulo": "Um aplicativo para consulta em repositório de dados com problemas matemáticos da OBMEP e do ENEM",
+                "ano": "2017",
+                "curso": "Técnico Integrado em Informática para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Islaine Alves Costa",
+                "titulo": "Desenvolvimento de um serious game para retratar a campanha de combate ao mosquito Aedes aegypti no IF Goiano Campus Trindade",
+                "ano": "2017",
+                "curso": "Técnico Integrado em Informática para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Mateus Luís Sousa Santos",
+                "titulo": "Desenvolvimento de um serious game para retratar a campanha de combate ao mosquito Aedes aegypti no IF Goiano Campus Trindade",
+                "ano": "2017",
+                "curso": "Técnico Integrado em Informática para Internet",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Breno Dias Leles de Araujo",
+                "titulo": "Análise de Predição de Séries Temporais Utilizando Redes Neurais Artificiais",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Gabriela Esteves Meireles",
+                "titulo": "Análise Comparativa entre Algoritmos de Criptografia",
+                "ano": "2013",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.358988285064697,
+            "indian": 7.952653884887695,
+            "black": 2.3987250328063965,
+            "white": 28.34970474243164,
+            "middle eastern": 25.35677719116211,
+            "latino hispanic": 28.583152770996094
+        }
+    }
+}

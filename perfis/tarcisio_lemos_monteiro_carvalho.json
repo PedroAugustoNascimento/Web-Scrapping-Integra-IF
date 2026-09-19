@@ -118,7 +118,7 @@
         ],
         "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nInstituto Federal de Educaçao, C& T do Pará campus Paragominas (2015 - 2016) : Direção De Ensino, Port. Nº 829/2015, Dou 22/05/2015.\nInstituto Federal de Educação, C & T - Campus Conceição de Araguaia (2013 - 2015) : Coordenador Do Curso De Licenciatura Em Informática Parfor.\nInstituto Federal de Educação, C & T - Campus Conceição de Araguaia (2013 - 2014) : Coordenador Dos Cursos Técnicos E Superiores.\nInstituto Federal de Educação, C & T - Campus Conceição de Araguaia (2011 - 2014) : Coordenador Do Curso Técnico Subsquente Em Agrimensura.",
         "ensino": "",
-        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nComissão De Meio Ambiente (2017).\nNúcleo Docente Estruturante Em Administração (2016).\nNúcleo Docente Estruturante Em Agrimensura (2016).\nNúcleo Docente Estruturante Em Análise E Desenvolvimento De Sistemas (2016).\nNúcleo Docente Estruturante Em Meio Ambiente (2016).\nComissão De Pesquisa - Campus Conceição Do Araguaia (2015 - 2015).\nNucleo Docente Estruturante Do Curso Em Informática (2015).\nComissão De Extensão - Campus Conceição Do Araguaia (2014 - 2015).",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nComissão De Meio Ambiente (2017).\nNúcleo Docente Estruturante Em Meio Ambiente (2016).\nNúcleo Docente Estruturante Em Administração (2016).\nNúcleo Docente Estruturante Em Análise E Desenvolvimento De Sistemas (2016).\nNúcleo Docente Estruturante Em Agrimensura (2016).\nComissão De Pesquisa - Campus Conceição Do Araguaia (2015 - 2015).\nNucleo Docente Estruturante Do Curso Em Informática (2015).\nComissão De Extensão - Campus Conceição Do Araguaia (2014 - 2015).",
         "projetos": [
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
@@ -152,6 +152,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Sistema de Informação Geográfica de Conceição do Araguaia ? Pa.",
+                "periodo": "2013 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Tarcísio Lemos Monteiro Carvalho",
+                    "Leonaldo Carvalho da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "nome": "Mineração de Dados e Descoberta de Conhecimento na Base de Dados do Sistema de Informação do Estado do Pará. Estudo de Caso: Conceição do Araguaia",
                 "periodo": "2012 - 2012",
                 "natureza": "Pesquisa",
@@ -160,18 +170,6 @@
                     "Wilker José Caminha dos Santos",
                     "Ramynngly Nunes Gontijo",
                     "Leonaldo Carvalho da Silva"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "Gentileza Gera Gentileza",
-                "periodo": "2015 - 2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Tarcísio Lemos Monteiro Carvalho",
-                    "Samuel Carvalho de Aragão",
-                    "Patrícia Pinto Diniz",
-                    "Hudson Trindade de Sousa"
                 ]
             },
             {
@@ -188,34 +186,14 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "Uso de imagens de satélites para a caracterização espaço-temporal da cobertura vegetal na Cidade de Paragominas-PA.",
-                "periodo": "2018 - 2018",
-                "natureza": "Outra",
-                "equipe": [
-                    "Tarcísio Lemos Monteiro Carvalho",
-                    "Geovane Soares de Souza"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "Computador Amigo",
-                "periodo": "2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Tarcísio Lemos Monteiro Carvalho"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "The Four Freedoms: a liberdade para além do software livre.",
-                "periodo": "2016 - 2024",
+                "nome": "Gentileza Gera Gentileza",
+                "periodo": "2015 - 2018",
                 "natureza": "Extensao",
                 "equipe": [
                     "Tarcísio Lemos Monteiro Carvalho",
-                    "RENATO HIDAKA TORRES",
-                    "William Virgílio dos Santos Silva",
-                    "José Otaviano Travassos Sarinho",
-                    "Bruno Gutierrez Ratto Clemente"
+                    "Samuel Carvalho de Aragão",
+                    "Patrícia Pinto Diniz",
+                    "Hudson Trindade de Sousa"
                 ]
             },
             {
@@ -243,12 +221,34 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "Sistema de Informação Geográfica de Conceição do Araguaia ? Pa.",
-                "periodo": "2013 - 2013",
+                "nome": "Computador Amigo",
+                "periodo": "2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Tarcísio Lemos Monteiro Carvalho"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Uso de imagens de satélites para a caracterização espaço-temporal da cobertura vegetal na Cidade de Paragominas-PA.",
+                "periodo": "2018 - 2018",
+                "natureza": "Outra",
+                "equipe": [
+                    "Tarcísio Lemos Monteiro Carvalho",
+                    "Geovane Soares de Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "The Four Freedoms: a liberdade para além do software livre.",
+                "periodo": "2016 - 2024",
                 "natureza": "Extensao",
                 "equipe": [
                     "Tarcísio Lemos Monteiro Carvalho",
-                    "Leonaldo Carvalho da Silva"
+                    "RENATO HIDAKA TORRES",
+                    "William Virgílio dos Santos Silva",
+                    "José Otaviano Travassos Sarinho",
+                    "Bruno Gutierrez Ratto Clemente"
                 ]
             },
             {
@@ -324,10 +324,10 @@
         ],
         "artigos": [
             {
-                "autores": "BASTOS, R. Z.",
-                "titulo": "ROCHA, G. M.;  MONTEIRO, T. L.;  URBANIZAÇÃO E COMPUTAÇÃO URBANA ? UM DISPOSITIVO DE DESENVOLVIMENTO DA PARTICIPAÇÃO SOCIAL NA CIDADE DE PARAGOMINAS-PA",
-                "ano": "2017",
-                "periodico": "CODS - Coloquio Organizações, Desenvolvimento e Sustentabilidade. ISBN: 25269518   ."
+                "autores": "CARVALHO, TARCÍSIO LEMOS MONTEIRO",
+                "titulo": "SILVA, FÉLIX LELIS DA;  RIBEIRO, SUEZILDE DA CONCEIÇÃO AMARAL;  Cerveja artesanal e bioeconomia circular amazônica: análise prospectiva da cadeia produtiva cervejeira no Pará com destaque para o arquipélago do Marajó",
+                "ano": "2026",
+                "periodico": "Revista de Derecho y Câmbio Social. ISBN: 22244131   ."
             }
         ],
         "trabalhos_eventos": [

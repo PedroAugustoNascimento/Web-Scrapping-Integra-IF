@@ -1,0 +1,105 @@
+{
+    "campus": "- Campus Bento Gonçalves",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação Aplicada",
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "titulo": "Detecção de Inconsistências em Modelos UML: Uma Abordagem Baseada em Regras",
+                "orientador": "Kleinner Silva Farias de Oliveira",
+                "ano_inicio": 2022,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "ano_inicio": 2014,
+                "ano_fim": 2021
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Tramontina Central de Administração",
+                "ano_inicio": 2018,
+                "ano_fim": 2021,
+                "funcao": "Programador de software",
+                "vinculo": "- Rápida resolução de problemas no atendimento aos usuários;- Melhorias",
+                "descricao": "otimizações e refatorações de programas;- Desenvolvimento de soluções customizadas baseadas nas necessidades do usuário;- Principal atuação na área de Recursos Humanos"
+            },
+            {
+                "empresa": "Bling",
+                "ano_inicio": 2021,
+                "ano_fim": 2023,
+                "funcao": "Desenvolvedor de software",
+                "vinculo": "- Atuação com serviços parceiros Bank as Service (BaS);- Contribuição no desenvolvimento de serviços da Fintech",
+                "descricao": "como Pix, Cartão de Crédito e Link de Pagamento;- Iniciativa de documentação das regras de negócio;- Atuação no papel de referência técnica para o time e membro da guilda de Front End;- Aplicação de alta escala, com mais de 100 mil usuários"
+            },
+            {
+                "empresa": "OnlyControl",
+                "ano_inicio": 2023,
+                "ano_fim": 2024,
+                "funcao": "Desenvolvedor de software",
+                "vinculo": "- Desenhei uma nova arquitetura modular para o checkout de pagamentos",
+                "descricao": "onde solucionei bugs e adicionei funcionalidades;- Integrei com o Stripe, viabilizando pagamentos com cartão de crédito, conta bancária (EUA) e Carteiras Digitais;- Implementei geradores de conteúdo usando Inteligência Artificial (IA);- Propus padronizações gerais nos projetos visando agilidade, rapidez e eliminação de código repetido;- Auxiliei colegas a desenvolverem soluções e aprimorarem suas técnicas;- Atuação em dois projetos de startups, uma americana no modelo de trabalho outsourcing"
+            },
+            {
+                "empresa": "Asaas",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Engenheiro de Software",
+                "vinculo": "- Atuação na tribo de crédito",
+                "descricao": "passado pelos times de análise e recuperação e na formalização de crédito;- Desenvolvimento de novos produtos;- Integrações entre serviços/times internos"
+            },
+            {
+                "empresa": "Universidade do Vale do Rio dos Sinos",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Vale do Rio dos Sinos",
+                "nome": "UML Harmony Validator",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luan Lazzari",
+                    "Kleinner Farias"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FARIAS, KLEINNER",
+                "titulo": "Lazzari, Luan;  Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity",
+                "ano": "2023",
+                "periodico": "JOURNAL OF APPLIED RESEARCH AND TECHNOLOGY. ISBN: 16656423   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

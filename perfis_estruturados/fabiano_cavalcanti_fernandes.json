@@ -1,0 +1,648 @@
+{
+    "campus": "- Campus Taguatinga",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "ano_inicio": 2022,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências Genômicas e Biotecnologia",
+                "instituicao": "Universidade Católica de Brasília",
+                "titulo": "DESENVOLVIMENTO DE MODELO MULTIDIMENSIONAL DE PREDIÇÃO DE PEPTÍDEOS ANTIMICROBIANOS UTILIZANDO UM SISTEMA DE INFERÊNCIA NEURO-FUZZY ADAPTATIVO (ANFIS)",
+                "orientador": "Octávio Luiz Franco",
+                "ano_inicio": 2008,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Gestão do Conhecimento e Tecnologia da Informação",
+                "instituicao": "Universidade Católica de Brasília",
+                "titulo": "SISTEMA NEURO-FUZZY PARA CLASSIFICAÇÃO DE CALCIFICAÇÕES EM MAMOGRAMAS",
+                "orientador": "Lourdes Mattos Brasil",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "banco de dados",
+                "instituicao": "Universidade Católica de Brasília",
+                "orientador": "Rildo Ribeiro dos Santos",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "ciência da computação",
+                "instituicao": "Universidade Federal da Paraíba",
+                "ano_inicio": 1995,
+                "ano_fim": 1998
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdades NDA",
+                "ano_inicio": 2005,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 1999,
+                "ano_fim": 2000,
+                "funcao": "Bolsista DTI CNPq",
+                "vinculo": "Bolsista DTI",
+                "descricao": ""
+            },
+            {
+                "empresa": "TIM Celular",
+                "ano_inicio": 2002,
+                "ano_fim": 2005,
+                "funcao": "Especialista",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Brasil Telecom - Brasília",
+                "ano_inicio": 2005,
+                "ano_fim": 2010,
+                "funcao": "Especialista",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Global Village Telecom",
+                "ano_inicio": 2001,
+                "ano_fim": 2002,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Grande Dourados",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Professor Assistente",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Brasília",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Computers and Electronics in Agriculture",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Computer Methods and Programs in Biomedicine (Print)",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Scientific Reports",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Brasília\nCampus Taguatinga (2014 - 2023) : Direção De Ensino, Pesquisa E Extensão.\nCampus Taguatinga (2013): Bioinformática, Data Science, Câncer de mama,",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "Implantação de SGBD NOSQL NEO4J para armazenamento de dados de transcriptômica provenientes do sequenciamento de RNA de Anuros",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "IMPLANTAÇÃO DE SGBD POSTGRESQL PARA ARMAZENAMENTO MULTIDIMENSIONAL DE PEPTÍDEOS ANTIMICROBIANOS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "DESENVOLVIMENTO DE FERRAMENTAS DE BIOINFORMÁTICA PARA ANÁLISE DE DADOS DE METAGENÔMICA E TRANSCRIPTÔMICA PROVENIENTES DO SEQUENCIAMENTO DE RNA DE ANUROS",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "CTAG CLOUD: NUVEM COMPUTACIONAL INOVADORA PARA LABORATÓRIOS DE COMPUTAÇÃO",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "DESENVOLVIMENTO DE PROTÓTIPO DE SOFTWARE PARA GESTÃO DE MOBILIDADE BASEADO EM CALL DETAIL RECORDS - Parceria IFB Visent/OSX",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes",
+                    "Marcio Augusto De Deus",
+                    "Bonifcio",
+                    "Rodrigo",
+                    "Wendel Ribeiro De Almeida",
+                    "Alexandre Laval Silva",
+                    "Leandro Vaguetti"
+                ],
+                "financiador": "Osx Telecomunicações,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "MIDAS Banco de Dados de Imagens de Mamografias com Análise Automatizada (Mammographic Image Database for Automated Analysis)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes",
+                    "Bonifcio",
+                    "Rodrigo",
+                    "Brasil",
+                    "Lourdes",
+                    "Wendel Ribeiro De Almeida",
+                    "Lucas Paes Moreira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "3DBV",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes",
+                    "João Henrique Moreira Viana"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "DETECÇÃO DE CANCER DE MAMA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes",
+                    "Janice Magalhães Lamas"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "NOVOS MEDICAMENTOS CONTRA INFECÇÕES FÚNGICAS INVASIVAS: DE HITS A LEADS OTIMIZADOS POR MEIO DE APRENDIZADO DE MÁQUINA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes",
+                    "Maria Sueli Felipe"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Brasília",
+                "nome": "MINERAÇÃO DE DADOS PARA IDENTIFICAÇÃO E PREVENÇÃO DE ERROS EM SOFTWARE DE JOGOS ELETRÔNICOS",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Cavalcanti Fernandes",
+                    "Bonifcio",
+                    "Rodrigo",
+                    "Diógenes Ferreira Reis Fustinoni"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "FERNANDES",
+                    "evento": "F. C.,  DEUS, M. A.,  VASCONCELOS, R. C. S.,  FONTES, R. D.,  I Semana de Computação do IFB - SCOMP 2015",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFB."
+                },
+                {
+                    "autores": "FERNANDES",
+                    "evento": "F. C.,  XXXIV CONGRESSO DA SOCIEDADE BRASILEIRA DE COMPUTAÇÃO",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "Fabiano Cavalcanti Fernandes",
+                "titulo": "BRASIL, L. M.;  Guadagnin, R.;  Mammography Techniques and Review",
+                "ano": "2015",
+                "informacoes_adicionais": "Varios. ISBN: 9789535121381, Rijeka (Organizado(a))."
+            },
+            {
+                "autores": "FUSTINONI, D. F. R.",
+                "titulo": "LEITE, F. N.;  Fernandes, F. C.;  Informática básica para o ensino técnico profissionalizante",
+                "ano": "2012",
+                "informacoes_adicionais": "Impresso. ISBN: 9788564124103, Brasília (Publicado)."
+            },
+            {
+                "autores": "Fernandes, Fabiano",
+                "titulo": "Bonifcio, Rodrigo;  Brasil, Lourdes;  Guadagnin, Renato;  Lamas, Janice;  Mammography - Recent Advances. Título do capítulo: MIDAS ¿ Mammographic Image Database for Automated Analysis",
+                "ano": "2012",
+                "informacoes_adicionais": "ISBN: 9789535102854, Rijeka,."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "OSIRO, KAREN O.",
+                "titulo": "GIL-LEY, ABEL;  FERNANDES, FABIANO C.;  DE OLIVEIRA, KAMILA B. S.;  DE LA FUENTE-NUNEZ, CESAR;  FRANCO, OCTAVIO L.;  Paving the way for new antimicrobial peptides through molecular de-extinction",
+                "ano": "2025",
+                "periodico": "MICROBIAL CELL. ISBN: 23112638   ."
+            },
+            {
+                "autores": "DA CUNHA, NICOLAU BRITO",
+                "titulo": "Fernandes, Fabiano Cavalcanti;  GIL-LEY, ABEL;  FRANCO, OCTAVIO L.;  TIMAKONDU, NAAGMA;  COSTA, FABRICIO F.;  Bridging BioSciences and technology: The impact of AI &amp; GenAI in life sciences and agribusiness",
+                "ano": "2025",
+                "periodico": "GENE. ISBN: 03781119   ."
+            },
+            {
+                "autores": "GUAN, CHANGGE",
+                "titulo": "FERNANDES, FABIANO C.;  FRANCO, OCTAVIO L.;  DE LA FUENTE-NUNEZ, CESAR;  Leveraging Large Language Models for Antimicrobial Peptide and Antibiotic Design",
+                "ano": "2025",
+                "periodico": "Cell Reports Physical Science. ISBN: 26663864   ."
+            },
+            {
+                "autores": "ALONSO, ANTONIO",
+                "titulo": "RIOS, THUANNY BORBA;  BARRA, JULIANA BUENO;  GROSSI DE SÁ, MARIA FÁTIMA;  LIÃO, LUCIANO MORAIS;  FRANCO, OCTÁVIO LUIZ;  MAXIMIANO, MARIANA ROCHA;  Fernandes, Fabiano Cavalcanti;  AMORIM, GABRIELLA CAVALCANTE;  PORTO, WILLIAM FARIAS;  BUCCINI, DANIELI FERNANDA;  NIETO MARÍN, VALENTINA;  FEITOSA, GABRIEL CIDADE;  FREITAS, CARLOS DANIEL PEREIRA;  Anti-Staphy Peptides Rationally Designed from Cry10Aa Bacterial Protein",
+                "ano": "2024",
+                "periodico": "ACS Omega. ISBN: 24701343   ."
+            },
+            {
+                "autores": "FERNANDES, FABIANO C.",
+                "titulo": "CARDOSO, MARLON H.;  GIL-LEY, ABEL;  LUCHI, LÍVIA V.;  DA SILVA, MARIA G. L.;  MACEDO, MARIA L. R.;  DE LA FUENTE-NUNEZ, CESAR;  FRANCO, OCTAVIO L.;  Geometric deep learning as a potential tool for antimicrobial peptide prediction",
+                "ano": "2023",
+                "periodico": "Frontiers in Bioinformatics. ISBN: 26737647   ."
+            },
+            {
+                "autores": "FERNANDES, FABIANO C.",
+                "titulo": "RIGDEN, DANIEL J.;  FRANCO, OCTAVIO L.;  Prediction of antimicrobial peptides based on the adaptive neuro-fuzzy inference system application",
+                "ano": "2012",
+                "periodico": "Biopolymers (New York. Print). ISBN: 00063525   ."
+            },
+            {
+                "autores": "FERNANDES, F. C.",
+                "titulo": "BRASIL, L. M.;  LAMAS, J. M.;  Guadagnin, R.;  Breast cancer image assessment using an adaptative network-based fuzzy inference system",
+                "ano": "2010",
+                "periodico": "Pattern Recognition and Image Analysis. ISBN: 10546618   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Lamas, Janice",
+                "titulo": "SILVA, M",
+                "evento": "L.; Fernandes",
+                "local": "Fabiano Cavalcanti; The LAMAS Mammography Image Database: A BI-RADS-Oriented Temporal Framework for Knowledge Transfer in Breast Imaging AI. The 21st edition of the IEEE International Symposium on Medical Measurements and Applications, Montevideo",
+                "ano": "2026"
+            },
+            {
+                "autores": "SILVA, M. L.",
+                "titulo": "OLIVEIRA, A",
+                "evento": "T.; AGUIAR",
+                "local": "C. P.; FERNANDES, F. C.; LAMAS, J. M.; REPRODUÇÃO E ANÁLISE DO MODELO DE INTELIGÊNCIA ARTIFICIAL PARA DETECÇÃO DE CÂNCER EM MAMOGRAFIAS DE RASTREAMENTO: MODELO VENCEDOR DA COMPETIÇÃO RSNA® 2023. Jornada Paulista de Radiologia, São Paulo",
+                "ano": "2024"
+            },
+            {
+                "autores": "SILVA, M. L.",
+                "titulo": "OLIVEIRA, A",
+                "evento": "T.; AGUIAR",
+                "local": "C. P.; FERNANDES, F. C.; LAMAS, J. M.; UTILIZAÇÃO DO YOLOv8 PARA RECORTE DE MAMA A PARTIR DO MODELO DO PRIMEIRO COLOCADO NA COMPETIÇÃO DA RSNA® 2023. Jornada Paulista de Radiologia, São Paulo",
+                "ano": "2024"
+            },
+            {
+                "autores": "RIBEIRO, W.",
+                "titulo": "MAGALHAES, B",
+                "evento": "S.; FERNANDES",
+                "local": "FABIANO C.; Desenvolvimento de Ferramentas de Bioinformática para Busca de Genes em Bases de Dados de Transcriptômica e Metagenômica. XXXIV Congresso da Sociedade Brasileira de Computação ? CSBC 2014, BRASILIA",
+                "ano": "2014"
+            },
+            {
+                "autores": "FERNANDES, F. C.",
+                "titulo": "Porto, W",
+                "evento": "F.; Franco",
+                "local": "O. L.; A Wide Antimicrobial Peptides Search Method Using Fuzzy Modeling. 4th Brazilian Symposium on Bioinformatics, Porto Alegre",
+                "ano": "2009"
+            },
+            {
+                "autores": "FERNANDES, F. C.",
+                "titulo": "BRASIL, L",
+                "evento": "M.; LAMAS",
+                "local": "J. M.; Guadagnin, R.; A Neuro-Fuzzy Image Analysis System to Help Breast Calcification Medical Diagnosis. Pattern Recognition and Image Analysis: New Information Technologies - PRIA-9-2008, Nizhni Novgorod, Russia",
+                "ano": "2008"
+            },
+            {
+                "autores": "FERNANDES, F. C.",
+                "titulo": "Amoroso, Edgard Devanir; Oliveira, Káthia Marçal; Diagnóstico do Nível G do Modelo de Referência MPS",
+                "evento": "BR em uma Instituição Financeira. 4º CONTECSI - Congresso Internacional de Gestão da Tecnologia e Sistemas de Informação",
+                "local": "São Paulo",
+                "ano": "2007"
+            },
+            {
+                "autores": "FERNANDES, F. C.",
+                "titulo": "BRASIL, L",
+                "evento": "M.; LAMAS",
+                "local": "J. M.; Sistema neuro-fuzzy para detecção e classificação de microcalcificações em mamogramas. VIII Congresso Brasileiro de Redes Neurais, Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "FERNANDES, F. C.",
+                "titulo": "Brito, A",
+                "evento": "F.; Santos",
+                "local": "R. R.; Hartmann, V. C.; Projeto de Recuperação de Imagens Baseado em Características. VIII Workshop de Tecnologia da Informação UCB, Taguatinga",
+                "ano": "2006"
+            },
+            {
+                "autores": "CARVALHO, Luis Carlos",
+                "titulo": "MOTTA, G",
+                "evento": "H. M. B.; DUARTE",
+                "local": "N. B.; FERNANDES, M. R.; FERNANDES, F. C.; A Windows Based Software Tool for Use on Physiological Experiments. World Congress on Medial Physycs Biomedical Engineering, Nice/França",
+                "ano": "1997"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Caio Padilha Aguiar",
+                "titulo": "DETECÇÃO DE ACHADOS EM IMAGENS MAMOGRÁFICAS UTILIZANDO A REDE NEURAL YOL",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Caio Padilha Aguiar",
+                "titulo": "SEGMENTAÇÃO DE MAMOGRAMAS BASEADO EM REDES NEURAIS CONVOLUCIONAIS PROFUNDAS E YOLOX PARA A DETECÇÃO DE CANCER DE MAMA",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Matheus Loiola Pinto Curado Silva",
+                "titulo": "USO DE REDES NEURAIS CONVOLUCIONAIS PARA CLASSIFICAÇÃO DE DENSIDADE DE MAMA EM MAMOGRAFIAS DIGITAIS COMPLETAS",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "JACKSSON YURI",
+                "titulo": "CLASSIFICAÇÃO DE TUMOR CEREBRAL UTILIZANDO REDES NEURAIS CONVOLUCIONAIS",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "REIDNER SOUSA DOS SANTOS",
+                "titulo": "CLASSIFICAÇÃO DE TUMOR CEREBRAL UTILIZANDO REDES NEURAIS CONVOLUCIONAIS",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Matheus Ferreira Carneiro",
+                "titulo": "DEEP REINFORCEMENT LEARNING PARA DESIGN DE PEPTÍDEOS ANTIMICROBIANO",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Matheus Portela de Melo",
+                "titulo": "ESTUDO DE CASO SOBRE O PROBLEMA DE DENIAL OF SERVICE EM UM AMBIENTE DE CLOUD COMPUTING",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Humberto Silva Teles Farrapo",
+                "titulo": "ANÁLISE ERGONÔMICA DE INTERFACE DE AMBIENTES DIGITAIS EM SAÚDE DO DISTRITO FEDERAL: UM ESTUDO SOBRE A USABILIDADE E ACESSIBILIDADE",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Luis Felipe da Silva Azevedo",
+                "titulo": "Técnicas de Machine Learning para a Detecção de Anomalias em Transações de Criptomoedas",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "IAGO COSTA SILVA",
+                "titulo": "UTILIZAÇÃO DA TECNOLOGIA BLOCKCHAIN PARA ARMAZENAMENTO DE HISTÓRICO MÉDICO",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "FILIPE CAVALCANTE DOS SANTOS",
+                "titulo": "DESENVOLVIMENTO DE PROTÓTIPO PARA REPRESENTAR UMA CADEIRA DE RODAS MOTORIZADA COM SISTEMA DE SEGMENTAÇÃO DE CAMINHOS",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "RAFAEL WAITI GITIRANA UMETSU",
+                "titulo": "DESENVOLVIMENTO DE PROTÓTIPO PARA REPRESENTAR UMA CADEIRA DE RODAS MOTORIZADA COM SISTEMA DE SEGMENTAÇÃO DE CAMINHOS",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "DANIEL SOUZA DE MELLO AULER WAACK",
+                "titulo": "MANUAL DE DESENVOLVIMENTO DE JOGOS INDIE",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "ALEXANDRE TEIXEIRA DE OLIVEIRA",
+                "titulo": "DESENVOLVIMENTO DE PROTÓTIPO DE CHATBOT APLICADO AO ATENDIMENTO NA SAÚDE PÚBLICA: ESTUDO DE CASO EM UMA UBS DO DISTRITO FEDERAL",
+                "ano": "2023",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Nathalia Pinheiro da Costa",
+                "titulo": "USO DE REDE NEURAL BASEADA EM GRAFOS PARA O DESIGN DE FÁRMACOS",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Iago Farias de Moura",
+                "titulo": "GAME OF MACROS: APLICATIVO CONTADOR DE CALORIAS UTILIZANDO ELEMENTOS DE GAMIFICAÇÃO",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "GREGORY HENRIQUE MOREIRA DOS SANTOS PEREIRA",
+                "titulo": "APLICAÇÃO DE TRANSFER LEARNING UTILIZANDO REDES NEURAIS CONVOLUCIONAIS PARA AUXÍLIO A IDENTIFICAÇÃO E DIAGNÓSTICO DA COVID-19 EM TOMOGRAFIAS COMPUTADORIZADAS DE TÓRAX",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Bruno Faustino Cecilio da Silva",
+                "titulo": "Comparação de custos para realização de votações utilizando contratos inteligentes em diferentes redes Blockchain",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Rafael Job Pereira",
+                "titulo": "Comparação de custos para realização de votações utilizando contratos inteligentes em diferentes redes Blockchain",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Francisco Lucas Paz Vieira",
+                "titulo": "PROOF OF CONCEPT DE UM SISTEMA DE PRONTUÁRIO ELETRÔNICO BASEADO EM BLOCKCHAI",
+                "ano": "2020",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "RAFAEL DE CAMPOS PASSOS",
+                "titulo": "USO DE TÉCNICAS DE DEEP LEARNING COMO FERRAMENTA DE CRIAÇÃO DE DATASETS PARA ANÁLISE DE EVIDENCIAS FORENSES DIGITAI",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Ana Clara Cedro Guimarães",
+                "titulo": "Proposta de arquitetura utilizando a tecnologia blockchain para unidades básicas de saúde",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "LUCAS MARTINS MENDES VIEIRA",
+                "titulo": "Proposta de arquitetura utilizando a tecnologia blockchain para unidades básicas de saúde",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Rafael Job Pereira",
+                "titulo": "3DBV: BANCO DE DADOS TRIDIMENSIONAIS DE BIOMETRIA DE BOVINOS",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Carlos Eduardo Pereira Santana",
+                "titulo": "DESENVOLVIMENTO DE SOFTWARE PARA GESTÃO DE MOBILIDADE URBANA BASEADO EM CALL DETAIL RECORD",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Samuel Novaes Sena",
+                "titulo": "SCORPION CLOUD: INFRAESTRUTURA CLOUD OPEN-SOURCE DE SUPORTE A PESQUISA ACADÊMICA",
+                "ano": "2017",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Rafael de Campos Passos",
+                "titulo": "SISTEMA DE INFORMAÇÕES MULTIDIMENSIONAIS DE PEPTÍDEOS ANTIMICROBIANOS PARA DRUG DESIGN",
+                "ano": "2016",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Wendel Ribeiro de Almeida",
+                "titulo": "MIDAS ? Banco de Dados de Imagens de Mamografias com Análise Automatizada",
+                "ano": "2015",
+                "curso": "Abi - Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "Heraldo Carlos de Sousa Júnior",
+                "titulo": "MINERAÇÃO DE DADOS PARA IDENTIFICAÇÃO E PREVENÇÃO DE ERROS EM SOFTWARE DE JOGOS ELETRÔNICOS",
+                "ano": "2014",
+                "curso": "Abi - Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "EVIO FRAGOSO FERREIRA JÚNIOR",
+                "titulo": "CTAG CLOUD: NUVEM COMPUTACIONAL INOVADORA PARA LABORATÓRIOS DE COMPUTAÇÃO",
+                "ano": "2014",
+                "curso": "Abi - Ciência da Computação",
+                "instituicao": "Instituto Federal de Brasília"
+            },
+            {
+                "orientando": "GEAN AMORIM FORTES CARVALHO",
+                "titulo": ": IMPLANTAÇÃO DE SGBD POSTGRESQL PARA ARMAZENAMENTO MULTIDIMENSIONAL DE PEPTÍDEOS ANTIMICROBIANOS",
+                "ano": "2013",
+                "curso": "Engenharia Ambiental e Sanitária",
+                "instituicao": "Universidade Católica de Brasília"
+            },
+            {
+                "orientando": "ARTHUR LEITE DOS SANTOS",
+                "titulo": "IMPLANTAÇÃO DE SGBD NOSQL PARA ARMAZENAMENTO DE DADOS DE TRANSCRIPTÔMICA",
+                "ano": "2013",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Brasília"
+            }
+        ]
+    }
+}

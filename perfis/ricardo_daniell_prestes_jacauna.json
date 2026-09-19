@@ -137,7 +137,7 @@
             },
             {
                 "instituicao": "Instituto Federal de Roraima",
-                "nome": "PIBITI - Desenvolvimento e Avaliação de uma arquitetura pedagógica com Inteligência Artificial para Apoiar a Aprendizagem de Sistemas Complexos",
+                "nome": "PIBIC - Práticas Inclusivas para o Ensino de Sistemas Complexos com Apoio de Simulações Multiagente: Um Estudo com Estudantes com Deficiência Visual",
                 "periodo": "2025",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -146,7 +146,7 @@
             },
             {
                 "instituicao": "Instituto Federal de Roraima",
-                "nome": "PIBIC - Práticas Inclusivas para o Ensino de Sistemas Complexos com Apoio de Simulações Multiagente: Um Estudo com Estudantes com Deficiência Visual",
+                "nome": "PIBITI - Desenvolvimento e Avaliação de uma arquitetura pedagógica com Inteligência Artificial para Apoiar a Aprendizagem de Sistemas Complexos",
                 "periodo": "2025",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -270,8 +270,8 @@
                     "instituicao_promotora": "Latin American Journal of Science Education."
                 },
                 {
-                    "autores": "RIZZATTI",
-                    "titulo": "I. M.,  JACAÚNA, R. D. P.,  ANDRADE, P. R. P.,  DIVULGAÇÃO CIENTÍFICA INCLUSIVA",
+                    "autores": "JACAÚNA",
+                    "titulo": "R. D. P.,  RIZZATTI, I. M.,  ANDRADE, P. R. P.,  DIVULGAÇÃO CIENTÍFICA INCLUSIVA",
                     "ano": "2017",
                     "instituicao_promotora": "Latin American Journal of Science Education."
                 },
@@ -349,6 +349,20 @@
         ],
         "trabalhos_eventos": [
             {
+                "autores": "GRANDI, R. H.",
+                "titulo": "JACAUNA, RICARDO DANIELL PRESTES; UM ESTUDO SOBRE O USO DE MAPAS CONCEITUAIS NO VIDYA NETWORK COM DOCENTE DEFICIENTE VISUAL",
+                "evento": "CIET:Horizonte - Congresso Internacional de Educação e Tecnologias e de Educação a Distância",
+                "local": "São Carlos",
+                "ano": "2024"
+            },
+            {
+                "autores": "DANIELL PRESTES JACAÚNA, RICARDO",
+                "titulo": "Expandindo Horizontes: O Uso de Laboratórios Virtuais Acessíveis na Educação Científica para PCDV",
+                "evento": "XXXI Ciclo de Palestras sobre Novas Tecnologias na Educação",
+                "local": "Porto Alegre",
+                "ano": "2024"
+            },
+            {
                 "autores": "LIMA, J. R.",
                 "titulo": "JACAUNA, R",
                 "evento": "D. P.; MULLER",
@@ -370,6 +384,13 @@
                 "ano": "2022"
             },
             {
+                "autores": "LIMA, RAFAELA DE ARAUJO SAMPAIO",
+                "titulo": "Jacaúna, Ricardo Daniell Prestes; LIMA, JEFFERSON RIBEIRO; PEREIRA, ANDREA; SILVA, FRANCISCO XAVIER DA; MÜLLER, MIRIAM GARCIA; MENEZES, CREDINÉ SILVA DE; Uma experiência vivenciada por doutorandos mediada por tecnologias digitais",
+                "evento": "Workshop de Informática na Escola",
+                "local": "Brasil",
+                "ano": "2022"
+            },
+            {
                 "autores": "MICHELS, ANA BEATRIZ",
                 "titulo": "Jacaúna, Ricardo Daniell Prestes; MENEZES, CREDINÉ SILVA DE; Uso da arquitetura pedagógica Projeto de Aprendizagem como suporte à prática docente em aulas síncronas",
                 "evento": "Workshop de Informática na Escola",
@@ -381,13 +402,6 @@
                 "titulo": "MULLER, M",
                 "evento": "; LIMA",
                 "local": "R.; JACAÚNA, R. D. P.; PEREIRA, A.; MENEZES, C.; EVALUATION OF THE KNOWLEDGE CONSTRUCTION PROCESS IN THE APPLICATION OF THE PEDAGOGICAL ARCHITECTURE 'DEBATE OF THESIS. LAC LO - XVI Latin American Conference on Learning Technologies, Lima",
-                "ano": "2021"
-            },
-            {
-                "autores": "DA SILVA, FRANCISCO XAVIER",
-                "titulo": "MULLER, MIRIAM GARCIA; DE ARAUJO SAMPAIO LIMA, RAFAELA; JACAUNA, RICARDO DANIELL PRESTES; PEREIRA, ANDREA; DE MENEZES, CREDINE SILVA; Evaluation of the Knowledge Construction Process in the application of the Pedagogical Architecture ¿Debate of Thesis¿",
-                "evento": "2021 XVI Latin American Conference on Learning Technologies (LACLO)",
-                "local": "Arequipa",
                 "ano": "2021"
             },
             {
@@ -457,6 +471,27 @@
     },
     "producao_outra": {
         "outras_orientacoes": [
+            {
+                "orientando": "Thawana Mendes Menezes e Anna Karina Silva Rosa",
+                "titulo": "IMPLEMENTAÇÃO E DESAFIOS DA NOVA LEI DE LICITAÇÕES (Nº 14.133/2021) NO ÂMBITO DO PODEREXECUTIVO ESTADUAL DE RORAIMA.",
+                "ano": "2025",
+                "curso": "SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA-EAD",
+                "instituicao": "INSTITUTO FEDERAL DE RORAIMA - CAMPUS ZONA OESTE"
+            },
+            {
+                "orientando": "Arlane M",
+                "titulo": "Silva, Carlos A. P. Moraes e Elizonara S. Oliveira.  INTELIGÊNCIA ARTIFICIAL NA GESTÃO PÚBLICA DO MUNICÍPIO DE CANTÁ.",
+                "ano": "2025",
+                "curso": "SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA-EAD()",
+                "instituicao": "INSTITUTO FEDERAL DE RORAIMA - CAMPUS ZONA OESTE"
+            },
+            {
+                "orientando": "Charliana O",
+                "titulo": "Santos, Cybelle P. Matos Leal, William C. Sousa.  INTELIGÊNCIA ARTIFICIAL NA MODERNIZAÇÃO ADMINISTRATIVA: Beneficíos e Desafios.",
+                "ano": "2025",
+                "curso": "SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA-EAD()",
+                "instituicao": "INSTITUTO FEDERAL DE RORAIMA - CAMPUS ZONA OESTE"
+            },
             {
                 "orientando": "SANTOS, A",
                 "titulo": "C. C. dos; MELO, B. Em. Da Silva; REIS, B..  Solução Computacional para o Controle de Ordens de Serviços",

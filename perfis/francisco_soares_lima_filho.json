@@ -86,18 +86,23 @@
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "periodo": "2015",
+                "periodo": "2015 - 2026",
                 "cargo": "Professor EBTT - Informática, Servidor público."
             },
             {
                 "empresa": "Universidade do Estado do Amazonas",
                 "periodo": "2018 - 2018",
                 "cargo": "Professor, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "periodo": "2026",
+                "cargo": "Professor EBTT, Servidor público."
             }
         ],
-        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2016) : Coordenação Do Eixo De Informação E Comunicação.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2016 - 2016) : Coordenação De Gestão De Tecnologia Da Informação.",
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2016 - 2016) : Coordenação De Gestão De Tecnologia Da Informação.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2016) : Coordenação Do Eixo De Informação E Comunicação.",
         "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nEnsino-medio (2016 - 2016) .\nEnsino-medio (2016 - 2016) .\nEnsino-medio (2016 - 2016) .\nEnsino-medio (2015 - 2015) .\nEnsino-medio (2015 - 2015) .\nEnsino-medio (2015 - 2015) .\nEnsino-medio (2015 - 2015) .",
-        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nComissão De Harmonização Das Matrizes Curriculares Dos Cursos Técnicos De Nível Médio Do Ifam (2017).\nProcesso Seletivo Simplificado Para Professor Substituto (2017 - 2017).\nMembro Chamada Interna Para Seleção De Eventos Culturais (2017).\nComissão De Formatura Dos Discentes Dos Cursos Técnicos De Ensino Media Subsequente E Ead 2013/2014 - Portaria Nº 251/2016, De 01 De Setembro De 2016-gdg/ifam/humaita, De 24 De Agosto De 2016 (2016).\nMembro Titular Da Comissão Permanente De Licitações - Portaria Nº 251/2016-gdc/ifam/humaita, De 24 De Agosto De 2016 (2016).",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nComissão De Harmonização Das Matrizes Curriculares Dos Cursos Técnicos De Nível Médio Do Ifam (2017).\nProcesso Seletivo Simplificado Para Professor Substituto (2017 - 2017).\nMembro Chamada Interna Para Seleção De Eventos Culturais (2017).\nMembro Titular Da Comissão Permanente De Licitações - Portaria Nº 251/2016-gdc/ifam/humaita, De 24 De Agosto De 2016 (2016).\nComissão De Formatura Dos Discentes Dos Cursos Técnicos De Ensino Media Subsequente E Ead 2013/2014 - Portaria Nº 251/2016, De 01 De Setembro De 2016-gdg/ifam/humaita, De 24 De Agosto De 2016 (2016).",
         "projetos": [
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
@@ -112,16 +117,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Inclusão tecnológica através da robótica educacional",
-                "periodo": "2017 - 2017",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Francisco Soares Lima Filho"
-                ],
-                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Práticas de Língua Estrangeira com alunos cegos: Uma ação de extensão para aprendizagem da língua inglesa por meio de programas tecnológicos.",
                 "periodo": "2018 - 2018",
                 "natureza": "Extensao",
@@ -129,65 +124,6 @@
                     "Francisco Soares Lima Filho",
                     "Daianne Severo da Silva"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "O Ensino da Língua Inglesa para os alunos com cegueira e baixa visão: métodos alternativos para a significação das aulas de línguas por meio da tecnologia inclusiva",
-                "periodo": "2018 - 2019",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Francisco Soares Lima Filho",
-                    "Marcos Serafim dos Santos",
-                    "Daianne Severo da Silva"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Robótica na Amazônia: Promovendo Inclusão Digital e Formação Tecnológica em Escolas Públicas de Humaitá",
-                "periodo": "2025 - 2025",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Francisco Soares Lima Filho",
-                    "Maria Karina Mendonça de Moraes",
-                    "Gisele Fernanda Aparecida Souza de Almeida"
-                ],
-                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Sistema de Monitoramento Climático com Arduino: Proposta de Estação Meteorológica de Baixo Custo para Pequenos Produtores",
-                "periodo": "2025",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Francisco Soares Lima Filho",
-                    "Joab Araújo dos Santos",
-                    "Milena Costa da Silva"
-                ],
-                "financiador": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ,"
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Fertirrigação Inteligente: Sustentabilidade e Inovação na Agricultura Familiar",
-                "periodo": "2025 - 2025",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Francisco Soares Lima Filho",
-                    "Maria Karina Mendonça de Moraes",
-                    "Matheus Souza do Nascimento"
-                ],
-                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Sistema Inteligente de Fertirrigação com Monitoramento da Qualidade da Água para Agricultura Familiar em Comunidades Ribeirinhas do Sul do Amazonas",
-                "periodo": "2025",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Francisco Soares Lima Filho",
-                    "Luiz Alberto Gomes da Fonseca",
-                    "Maria Karina Mendonça de Moraes"
-                ],
-                "financiador": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ,"
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
@@ -207,6 +143,75 @@
                 "equipe": [
                     "Francisco Soares Lima Filho",
                     "Daianne Severo da Silva"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "O Ensino da Língua Inglesa para os alunos com cegueira e baixa visão: métodos alternativos para a significação das aulas de línguas por meio da tecnologia inclusiva",
+                "periodo": "2018 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Francisco Soares Lima Filho",
+                    "Marcos Serafim dos Santos",
+                    "Daianne Severo da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Sistema de Monitoramento Climático com Arduino: Proposta de Estação Meteorológica de Baixo Custo para Pequenos Produtores",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Milena Costa da Silva",
+                    "Francisco Soares Lima Filho",
+                    "Joab Araújo dos Santos"
+                ],
+                "financiador": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Robótica na Amazônia: Promovendo Inclusão Digital e Formação Tecnológica em Escolas Públicas de Humaitá",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Francisco Soares Lima Filho",
+                    "Maria Karina Mendonça de Moraes",
+                    "Gisele Fernanda Aparecida Souza de Almeida"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Sistema Inteligente de Fertirrigação com Monitoramento da Qualidade da Água para Agricultura Familiar em Comunidades Ribeirinhas do Sul do Amazonas",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Francisco Soares Lima Filho",
+                    "Luiz Alberto Gomes da Fonseca",
+                    "Maria Karina Mendonça de Moraes"
+                ],
+                "financiador": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Fertirrigação Inteligente: Sustentabilidade e Inovação na Agricultura Familiar",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Matheus Souza do Nascimento",
+                    "Francisco Soares Lima Filho",
+                    "Maria Karina Mendonça de Moraes"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Inclusão tecnológica através da robótica educacional",
+                "periodo": "2017 - 2017",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Francisco Soares Lima Filho"
                 ],
                 "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
             }

@@ -60,14 +60,14 @@
                 "cargo": "Analista de Sistemas Júnior, Estagiário, A SIM Virtual é uma empresa que prestava serviços na área de consultoria pedagógicas, desenvolvendo tecnologias com o intuito de otimizar o processo de ensino e aprendizagem. Nessa empresa foi desempenhada a função de desenvolvedor de software, sendo que as tarefas se consistiram basicamente no desenvolvimento de páginas e sistemas web.."
             },
             {
-                "empresa": "Instituto Federal da Bahia",
-                "periodo": "2016 - 2017",
-                "cargo": "Professor Substituto, Servidor público."
-            },
-            {
                 "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
                 "periodo": "2014 - 2016",
                 "cargo": "Bolsista (Mestrado), Bolsista, A bolsa de mestrado oferecida pela CAPES financiou o trabalho de mestrado do aluno George Oliveira Barros, o qual realizou o projeto PathoSpotter-K e um estágio docente de 30 horas na disciplina de Arquitetura de Computadores do curso de Engenharia de Computação da UEFS, sob a orientação do professor Angelo Amancio Duarte.."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2016 - 2017",
+                "cargo": "Professor Substituto, Servidor público."
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
@@ -78,10 +78,15 @@
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
                 "periodo": "2017",
                 "cargo": "Professor efetivo, Servidor público."
+            },
+            {
+                "empresa": "Diagnostic Pathology",
+                "periodo": "2026 - 2026",
+                "cargo": ", Revisor de periódico, https://link.springer.com/journal/13000."
             }
         ],
         "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia Goiano\nNúcleo EAD (2019 - 2020) : Representante Do Núcleo De Ensino Ead Do Campus Posse.\nUnidade de Extensão (2018 - 2018) : Chefe Substituto.",
-        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia Goiano\nEnsino-medio (2026) .\nEnsino-medio (2024 - 2024) .\nEnsino-medio (2023 - 2023) .\nGraduacao (2022 - 2022) - Bacharelado Em Administração.\nEnsino-medio (2022 - 2022) .\nEnsino-medio (2021 - 2022) .\nOutro (2020 - 2020) .\nEnsino-medio (2020 - 2021) .\nEnsino-medio (2019 - 2019) .\nOutro (2019 - 2019) .\nOutro (2019 - 2019) .\nGraduacao (2018 - 2018) - Bacharelado Em Agronomia.\nOutro (2018 - 2018) .\nEnsino-medio (2018 - 2018) .\nEnsino-medio (2017 - 2017) .",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia Goiano\nEnsino-medio (2026) .\nEnsino-medio (2024 - 2024) .\nEnsino-medio (2023 - 2023) .\nGraduacao (2022 - 2022) - Bacharelado Em Administração.\nEnsino-medio (2022 - 2022) .\nEnsino-medio (2021 - 2022) .\nEnsino-medio (2020 - 2021) .\nOutro (2020 - 2020) .\nEnsino-medio (2019 - 2019) .\nOutro (2019 - 2019) .\nOutro (2019 - 2019) .\nGraduacao (2018 - 2018) - Bacharelado Em Agronomia.\nOutro (2018 - 2018) .\nEnsino-medio (2018 - 2018) .\nEnsino-medio (2017 - 2017) .",
         "comissoes": ": Instituto Federal da Bahia\nMembro Do Nde (núcleo Docente Estruturante) Da Licenciatura Em Computação (2017 - 2017).",
         "projetos": [
             {
@@ -120,6 +125,17 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
+                "nome": "OLHAR DIGITAL: Inclusão Digital para Crianças com Deficiência",
+                "periodo": "2019 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "George Oliveira Barros",
+                    "Ângela Benedita Cardoso de Oliveira",
+                    "Darla Denise Cardoso dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
                 "nome": "Protótipo em Arduíno Para Monitoramento de Consumo de Alimento por Bovinos",
                 "periodo": "2019 - 2020",
                 "natureza": "Pesquisa",
@@ -130,16 +146,14 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Entre a produção e o consumo sustentáveis, criando elos mesmo a distância",
-                "periodo": "2020 - 2020",
-                "natureza": "Extensao",
+                "nome": "Implantação do CEBIO Centro de Excelência em Bioinsumos do Estado de Goiás",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
                 "equipe": [
+                    "Alexandre Igor de Azevedo Pereira",
                     "George Oliveira Barros",
-                    "Adriano Antonio Brito Darosci",
-                    "Ítalo Jose Bastos Guimaraes",
-                    "Thasia Martns Macedo",
-                    "Rafael Pereira da Costa",
-                    "Gabriel da Mata Santana"
+                    "Danilo Gomes de Oliveira",
+                    "Lucas Felisberto"
                 ]
             },
             {
@@ -148,21 +162,9 @@
                 "periodo": "2024",
                 "natureza": "Pesquisa",
                 "equipe": [
+                    "George Oliveira Barros",
                     "Marcos Vinícius Fernandes da Silva",
-                    "George Oliveira Barros",
                     "Denner Levi Costa Filho"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Implantação do CEBIO Centro de Excelência em Bioinsumos do Estado de Goiás",
-                "periodo": "2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "George Oliveira Barros",
-                    "Alexandre Igor de Azevedo Pereira",
-                    "Danilo Gomes de Oliveira",
-                    "Lucas Felisberto"
                 ]
             },
             {
@@ -180,64 +182,7 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Mapeamento Socio-Cultural e Diagnóstico de Demandas da Agricultura Familiar em Flores de Goiás: Uma Ação de Busca Ativa para o Desenvolvimento Local",
-                "periodo": "2025 - 2025",
-                "natureza": "Extensao",
-                "equipe": [
-                    "George Oliveira Barros",
-                    "Danilo Gomes de Oliveira",
-                    "Lucas Felisberto",
-                    "Rhanara Martins Dias"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Projeto de formação de banda musical no Campus Posse",
-                "periodo": "2025 - 2025",
-                "natureza": "Ensino",
-                "equipe": [
-                    "George Oliveira Barros",
-                    "Amanda Oliveira Cunha",
-                    "Danilo Missias Teixeira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Bioinsumos na Agricultura Familiar: Produção Sustentável e Autonomia para Pequenos Produtores",
-                "periodo": "2025 - 2025",
-                "natureza": "Extensao",
-                "equipe": [
-                    "George Oliveira Barros",
-                    "Danilo Gomes de Oliveira",
-                    "Lucas Felisberto",
-                    "Alexandre de Melo Gualberto Salgado"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Feira das Nações no Curso Técnico de Informática para Internet Integrado ao Ensino Médio",
-                "periodo": "2025 - 2025",
-                "natureza": "Ensino",
-                "equipe": [
-                    "George Oliveira Barros",
-                    "Arthur de Souza Baliza"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "ESTRATÉGIAS DE ESTUDOS COMO POLÍTICA DE ACOLHIMENTO E ADAPTAÇÃO DOS ALUNOS AO ENSINO PROFISSIONAL",
-                "periodo": "2025 - 2025",
-                "natureza": "Ensino",
-                "equipe": [
-                    "George Oliveira Barros",
-                    "Loise Alves de Castro",
-                    "Silvana Leao de Sa",
-                    "Priscila de Sousa Tavares Passos"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Produção de Mudas frutíferas para desenvolvimento sustentável utilizando Bioinsumos",
+                "nome": "PodCast: Bioinsumos em foco",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
                 "equipe": [
@@ -257,19 +202,64 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "Grupo Brotar",
+                "nome": "Projeto de formação de banda musical no Campus Posse",
                 "periodo": "2025 - 2025",
                 "natureza": "Ensino",
                 "equipe": [
-                    "Lucas Felisberto",
+                    "Amanda Oliveira Cunha",
                     "George Oliveira Barros",
-                    "Danilo Gomes de Oliveira",
-                    "Emiliane dos Santos Belo"
+                    "Danilo Missias Teixeira"
                 ]
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "PodCast: Bioinsumos em foco",
+                "nome": "Mapeamento Socio-Cultural e Diagnóstico de Demandas da Agricultura Familiar em Flores de Goiás: Uma Ação de Busca Ativa para o Desenvolvimento Local",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "George Oliveira Barros",
+                    "Danilo Gomes de Oliveira",
+                    "Lucas Felisberto",
+                    "Rhanara Martins Dias"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
+                "nome": "Bioinsumos na Agricultura Familiar: Produção Sustentável e Autonomia para Pequenos Produtores",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "George Oliveira Barros",
+                    "Danilo Gomes de Oliveira",
+                    "Lucas Felisberto",
+                    "Alexandre de Melo Gualberto Salgado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
+                "nome": "ESTRATÉGIAS DE ESTUDOS COMO POLÍTICA DE ACOLHIMENTO E ADAPTAÇÃO DOS ALUNOS AO ENSINO PROFISSIONAL",
+                "periodo": "2025 - 2025",
+                "natureza": "Ensino",
+                "equipe": [
+                    "George Oliveira Barros",
+                    "Loise Alves de Castro",
+                    "Silvana Leao de Sa",
+                    "Priscila de Sousa Tavares Passos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
+                "nome": "Feira das Nações no Curso Técnico de Informática para Internet Integrado ao Ensino Médio",
+                "periodo": "2025 - 2025",
+                "natureza": "Ensino",
+                "equipe": [
+                    "George Oliveira Barros",
+                    "Arthur de Souza Baliza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
+                "nome": "Produção de Mudas frutíferas para desenvolvimento sustentável utilizando Bioinsumos",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
                 "equipe": [
@@ -280,13 +270,28 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
-                "nome": "OLHAR DIGITAL: Inclusão Digital para Crianças com Deficiência",
-                "periodo": "2019 - 2020",
+                "nome": "Grupo Brotar",
+                "periodo": "2025 - 2025",
+                "natureza": "Ensino",
+                "equipe": [
+                    "George Oliveira Barros",
+                    "Danilo Gomes de Oliveira",
+                    "Lucas Felisberto",
+                    "Emiliane dos Santos Belo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano",
+                "nome": "Entre a produção e o consumo sustentáveis, criando elos mesmo a distância",
+                "periodo": "2020 - 2020",
                 "natureza": "Extensao",
                 "equipe": [
                     "George Oliveira Barros",
-                    "Ângela Benedita Cardoso de Oliveira",
-                    "Darla Denise Cardoso dos Santos"
+                    "Adriano Antonio Brito Darosci",
+                    "Ítalo Jose Bastos Guimaraes",
+                    "Thasia Martns Macedo",
+                    "Rafael Pereira da Costa",
+                    "Gabriel da Mata Santana"
                 ]
             },
             {
@@ -309,8 +314,8 @@
         "producao_tecnica": {
             "softwares": [
                 {
-                    "autor": "BARROS",
-                    "software": "G. O.,  LEITE, F. C.,  CEZARIO, A. S.,  SANTOS, W. B. R.,  VALENTE, T. N. P.,  LOPES, L. C. R. S.,  LOPES, A. K.,  SisAL - Avaliação dos custos de produção na atividade leiteira",
+                    "autor": "LOPES",
+                    "software": "A. K.,  BARROS, G. O.,  LEITE, F. C.,  CEZARIO, A. S.,  SANTOS, W. B. R.,  VALENTE, T. N. P.,  LOPES, L. C. R. S.,  SisAL - Avaliação dos custos de produção na atividade leiteira",
                     "ano": "2019",
                     "finalidade": "Gestão da Produção de Leite.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512019000735-2."
                 }
@@ -448,8 +453,8 @@
                 "ano": "2025"
             },
             {
-                "autores": "VIDAL, FLAVIO",
-                "titulo": "BARROS, GEORGE; WANDERLEY, DAVID; REBOUÇAS, LUCIANO; SANTOS, WASHINGTON; DUARTE, ANGELO; PodNet: Ensemble-based Classification of Podocytopathy on Kidney Glomerular Images",
+                "autores": "BARROS, GEORGE",
+                "titulo": "WANDERLEY, DAVID; REBOUÇAS, LUCIANO; SANTOS, WASHINGTON; DUARTE, ANGELO; VIDAL, FLAVIO; PodNet: Ensemble-based Classification of Podocytopathy on Kidney Glomerular Images",
                 "evento": "17th International Conference on Computer Vision Theory and Applications",
                 "local": "Online Streaming",
                 "ano": "2022"

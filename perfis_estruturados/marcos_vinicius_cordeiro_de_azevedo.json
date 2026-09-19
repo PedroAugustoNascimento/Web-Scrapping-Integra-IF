@@ -1,0 +1,148 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "BANCO DE DADOS",
+                "instituicao": "AVM - Faculdades Integradas",
+                "orientador": "Prof",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdades Integradas do Extremo Sul da Bahia - Unesulbahia",
+                "ano_inicio": 2009,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "REYLUX MATERIAIS DE CONSTRUÇÃO LTDA",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Funcionário",
+                "vinculo": "Gerente de TIC",
+                "descricao": "Exerço a função de gerente do setor de TI da Empresa Reylux Materiais de Construção LTDA, situada na cidade de Porto Seguro - BA"
+            },
+            {
+                "empresa": "Faculdades Integradas do Extremo Sul da Bahia - Unesulbahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor",
+                "vinculo": "Professor Universitário",
+                "descricao": "MINISTRO AULAS NO CURSO DE SISTEMAS DE INFORMAÇÃO DISCIPLINAS: SISTEMAS OPERACIONAIS WINDOWS / LINUX, REDES I E II, BANCO DE DADOS, LINGUAGEM TÉCNICA DE PROGRAMAÇÃO (I, II, III), GESTÃO DO CONHECIMENTO, SISTEMAS DISTRIBUÍDOS E ENGENHARIA DE SOFTWARE"
+            },
+            {
+                "empresa": "Itautec - Grupo Itautec",
+                "ano_inicio": 2007,
+                "ano_fim": 2012,
+                "funcao": "Técnico Eletrônico Junior",
+                "vinculo": "Técnico Eletrônico Junior",
+                "descricao": "Implantação, instalação e manutenção em automação bancária e automação comercial: Caixas Eletrônicos, Desktop, Impressoras, Impressoras Fiscais, Routeadores, Switchs, Notebooks, V-Sat, Servidores e Redes"
+            },
+            {
+                "empresa": "Service Tech Informática",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Técnico em Eletrônica",
+                "vinculo": "Técnico em Eletrônica",
+                "descricao": "Manutenção em microcomputadores e Notebook. Organização administrativa da empresa, notas fiscais e fechamento de faturamento dos contratos da empresa"
+            },
+            {
+                "empresa": "QlikTarkuss",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Executivo de Processos",
+                "vinculo": "Executivo de Processos",
+                "descricao": "Sócio e Executivo de Processos Empresárias da Q-Tarkuss"
+            },
+            {
+                "empresa": "Tarkuss Brasil",
+                "ano_inicio": 2013,
+                "ano_fim": 2023,
+                "funcao": "Empresário",
+                "vinculo": "CIO e CO-Fundador",
+                "descricao": "Direto de Tecnologia na Tarkuss"
+            },
+            {
+                "empresa": "MSV - Solutions",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "Empresário",
+                "vinculo": "Empresário",
+                "descricao": "CEO na MSV Solutions"
+            }
+        ],
+        "direcao_administracao": ": QlikTarkuss\nDiretoria (2019) : Diretoria.",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "AZEVEDO",
+                    "software": "M. V. C.,  Costumização para sistemas ERP",
+                    "ano": "2014",
+                    "finalidade": "Solucionar problemas de processos não automatizado que geram prejuízos às empresas."
+                },
+                {
+                    "autor": "AZEVEDO",
+                    "software": "M. V. C.,  AZEVEDO, M. V. C.,  Consultoria de Processos",
+                    "ano": "2015",
+                    "finalidade": "Treinamento para migração de Sistema ERP Winthor."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "AZEVEDO",
+                    "curso": "M. V. C.,  Sky drive",
+                    "ano": "2012"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ROBERTO",
+                    "evento": "P.,  AZEVEDO, M. V. C.,  ARAUJO, G.,  DIEGO, F.,  ATUASI 2.0",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UNECE."
+                },
+                {
+                    "autores": "AZEVEDO",
+                    "evento": "M. V. C.,  ROBERTO, P.,  ARAUJO, G.,  DIEGO, F.,  ATUASI",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UNECE."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 11.499815940856934,
+            "indian": 9.790706634521484,
+            "black": 3.6592190265655518,
+            "white": 22.014150619506836,
+            "middle eastern": 16.542804718017578,
+            "latino hispanic": 36.49330520629883
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Mecatrônica",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Medição de corrente em linhas de alta tensão por sensores sem-fio autônomos",
+                "orientador": "Antonio Cezar de Castro Lima",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Eletrônica",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "ano_inicio": 1990,
+                "ano_fim": 1992
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2005,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 1983,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Colaborador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (1984) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Nobreak de 3KVA com tripla conversão em alta freqüência",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Sistema de Paralelismo de No-breaks",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2007,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de um Sistema de monitoramento online da saúde do paciente",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus",
+                    "Eduardo Telmo Fonseca Santos",
+                    "Vinicius João Gonçalves Cunha"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Analisador Digital de Rendimento para Motores de Indução Trifásico",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus",
+                    "Jés De Jesus Fiais"
+                ],
+                "financiador": "Companhia de Eletricidade do Estado da Bahia,",
+                "ano_inicio": 2001,
+                "ano_fim": 2002
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Desenvolvimento de um Sistema de Monitoramento Remoto de Chaves Fusíveis",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus",
+                    "Fabiano Fragoso Costa",
+                    "Antonio Cezar De Castro Lima",
+                    "Alvaro De Freitas Garcez Neto",
+                    "Marcio Fontana"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Protótipo para recuperar a comunicação com sensores de fundo em sistemas BCS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus",
+                    "Antonio Cezar De Castro Lima",
+                    "Marcio Fontana",
+                    "Leizer Schnitman",
+                    "José Emílio Quesado De Souza"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Diagnóstico de Desgaste em Comutadores de Derivação sob Carga",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu De Jesus",
+                    "Luiz Alberto Luz De Almeida"
+                ],
+                "financiador": "Companhia de Eletricidade do Estado da Bahia,",
+                "ano_inicio": 2002,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A.,  Maquina Virtual para microcontrolador 8051",
+                    "ano": "2014",
+                    "finalidade": "Utial no ensino de sistemas microprocessados em susbstituição ao kit físico."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A.,  Sistema de Analise de Motores",
+                    "ano": "2002",
+                    "finalidade": "Analise de Rendimento de motores de insdução trifásicos."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A.,  PABX 28",
+                    "ano": "2001",
+                    "finalidade": "Empressa privada."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., AMEIDA, C. V. R., Analisador de rendimento de motor trefásico",
+                    "ano": "2002",
+                    "finalidade": "Avalição de redimento em motores de indução trifásico."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., Bloqueador telefônico de chamadas",
+                    "ano": "2000",
+                    "finalidade": "Publco de massa."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., Central Telefonica 28",
+                    "ano": "1999",
+                    "finalidade": "Mercado de telecomunicações."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., Simulador de sistema supervisório SISUP",
+                    "ano": "1991",
+                    "finalidade": "Manutenção em sistemas supervisório."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 62.962806701660156,
+            "indian": 9.694975852966309,
+            "black": 2.2914631366729736,
+            "white": 5.30172061920166,
+            "middle eastern": 1.6996989250183105,
+            "latino hispanic": 18.049333572387695
+        }
+    }
+}

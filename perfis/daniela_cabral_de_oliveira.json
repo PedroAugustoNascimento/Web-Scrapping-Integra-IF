@@ -169,6 +169,17 @@
             },
             {
                 "instituicao": "Universidade de Rio Verde",
+                "nome": "Sistema de Gestão para Laboratório de Solos da Faculdade de Agronomia da Universidade de Rio Verde",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "Márcio Rubens Sousa",
+                    "matheus ferreira machado"
+                ]
+            },
+            {
+                "instituicao": "Universidade de Rio Verde",
                 "nome": "Programa Multidisciplinar AURORA",
                 "periodo": "2014 - 2015",
                 "natureza": "Extensao",
@@ -176,6 +187,23 @@
                     "Daniela Cabral de Oliveira",
                     "FABIAN CORRÊA CARDOSO"
                 ]
+            },
+            {
+                "instituicao": "Universidade de Rio Verde",
+                "nome": "Inovalab - Laboratório de Desenvolvimento de Software",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Elcio de Carvalho",
+                    "Daniela Cabral de Oliveira",
+                    "Márcio Rubens Sousa",
+                    "Carlos César Evangelista de Menezes",
+                    "Gabriel Garcia Pavan",
+                    "Fabiana Girotto Ribeiro",
+                    "Willian Garcias de Assunção",
+                    "Uilcimar Martins Arantes"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
             },
             {
                 "instituicao": "Universidade de Rio Verde",
@@ -190,23 +218,6 @@
             },
             {
                 "instituicao": "Universidade de Rio Verde",
-                "nome": "Inovalab - Laboratório de Desenvolvimento de Software",
-                "periodo": "2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "Márcio Rubens Sousa",
-                    "Carlos César Evangelista de Menezes",
-                    "Gabriel Garcia Pavan",
-                    "Elcio de Carvalho",
-                    "Fabiana Girotto Ribeiro",
-                    "Willian Garcias de Assunção",
-                    "Uilcimar Martins Arantes"
-                ],
-                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
-            },
-            {
-                "instituicao": "Universidade de Rio Verde",
                 "nome": "Aprendendo a Programar com Scratch - Desenvolvendo Habilidades Criativas e Lógicas em Crianças",
                 "periodo": "2024",
                 "natureza": "Extensao",
@@ -216,21 +227,6 @@
                     "Fabiana Girotto Ribeiro",
                     "Willian Garcias de Assunção"
                 ]
-            },
-            {
-                "instituicao": "Universidade de Rio Verde",
-                "nome": "Análise Preditiva de Transtornos Mentais Comuns: Proposta de um Modelo para Apoio em Políticas de Saúde Mental",
-                "periodo": "2025",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "Carlos César Evangelista de Menezes",
-                    "Vitória Christina Maass",
-                    "June Faria Scherrer Menezes",
-                    "Pedro Bittencourt Costa",
-                    "Renato Canevari Dutra da Silva"
-                ],
-                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
             },
             {
                 "instituicao": "Universidade de Rio Verde",
@@ -255,10 +251,10 @@
                 "periodo": "2025",
                 "natureza": "Outra",
                 "equipe": [
+                    "Claudia Regina Moura dos Santos",
                     "Daniela Cabral de Oliveira",
                     "Maria Gláucia Dourado Furquim",
                     "Wayrone Klaiton Luiz Silva",
-                    "Claudia Regina Moura dos Santos",
                     "Cristiane Silva Vieira",
                     "Adriana de Oliveira Dias",
                     "Josevaldo Moreira",
@@ -282,13 +278,56 @@
             },
             {
                 "instituicao": "Universidade de Rio Verde",
-                "nome": "Sistema de Gestão para Laboratório de Solos da Faculdade de Agronomia da Universidade de Rio Verde",
-                "periodo": "2015 - 2016",
+                "nome": "Análise Preditiva de Transtornos Mentais Comuns: Proposta de um Modelo para Apoio em Políticas de Saúde Mental",
+                "periodo": "2025",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Daniela Cabral de Oliveira",
-                    "Márcio Rubens Sousa",
-                    "matheus ferreira machado"
+                    "Carlos César Evangelista de Menezes",
+                    "Vitória Christina Maass",
+                    "June Faria Scherrer Menezes",
+                    "Pedro Bittencourt Costa",
+                    "Renato Canevari Dutra da Silva"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Game Infantil Educativo sobre Práticas Sustentáveis",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "Eliana Tiba Gomes Grande",
+                    "guilherme matos ataides",
+                    "jose carlos de sousa junior",
+                    "Maria Gláucia Dourado Furquim",
+                    "Nágilla Camilla Costa",
+                    "Brian Matheus Rodrigues Ribeiro",
+                    "Dionatan Pontes de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvedor de Aplicativos Mídias Digitais",
+                "periodo": "2020 - 2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "daniel emanuel cabral de oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Ensino de Automação residencial com Arduíno",
+                "periodo": "2020 - 2020",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "Carlos Antônio Ferreira",
+                    "Eliana Tiba Gomes Grande",
+                    "Uender Carlos Barbosa",
+                    "suelio marques da silva filho"
                 ]
             },
             {
@@ -322,45 +361,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Ensino de Automação residencial com Arduíno",
-                "periodo": "2020 - 2020",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "Carlos Antônio Ferreira",
-                    "Eliana Tiba Gomes Grande",
-                    "Uender Carlos Barbosa",
-                    "suelio marques da silva filho"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Desenvolvedor de Aplicativos Mídias Digitais",
-                "periodo": "2020 - 2021",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "daniel emanuel cabral de oliveira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Game Infantil Educativo sobre Práticas Sustentáveis",
-                "periodo": "2020 - 2021",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "Eliana Tiba Gomes Grande",
-                    "guilherme matos ataides",
-                    "jose carlos de sousa junior",
-                    "Maria Gláucia Dourado Furquim",
-                    "Nágilla Camilla Costa",
-                    "Brian Matheus Rodrigues Ribeiro",
-                    "Dionatan Pontes de Oliveira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "G-Grãos - Desenvolvimento de Aplicativo para Classificação de Soja, Sorgo, Feijão e Milho para produtores rurais",
                 "periodo": "2020 - 2021",
                 "natureza": "Extensao",
@@ -376,6 +376,20 @@
             {
                 "instituicao": "Instituto Federal Goiano",
                 "nome": "Desenvolvimento de Chatbot para Avaliação de Capacitação e Treinamento em Convênios via Whatsapp",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "daniel emanuel cabral de oliveira",
+                    "Haihani Silva Passos",
+                    "William Marques Pires",
+                    "Lucilene Bueno Borges de Almeida",
+                    "Ana Carolina Ribeiro Aguiar"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Gestão estratégica de TD&E: avaliação da necessidade de treinamento no Ministério da Agricultura, Pecuária e Abastecimento",
                 "periodo": "2021 - 2022",
                 "natureza": "Pesquisa",
                 "equipe": [
@@ -432,16 +446,51 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Gestão estratégica de TD&E: avaliação da necessidade de treinamento no Ministério da Agricultura, Pecuária e Abastecimento",
-                "periodo": "2021 - 2022",
+                "nome": "Plataforma multilateral de comércio de produtos rurais para diferentes grupos de clientes",
+                "periodo": "2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "jose carlos de sousa junior",
+                    "Maria Gláucia Dourado Furquim",
+                    "Fernando Araújo dos Santos Marques",
+                    "Cleonice Borges de Souza",
+                    "Isabella Christina Santos Nascimento"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "APONTA - Sistema de informações sobre gastos públicos municipal",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "jose carlos de sousa junior",
+                    "Maria Gláucia Dourado Furquim",
+                    "Elina Tiba Gomes Grande",
+                    "Luis Cláudio Villani Ortiz",
+                    "Hiury Lima Oliveira",
+                    "Fernando Araújo dos Santos Marques",
+                    "Eder Veloso Machado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Avaliação qualitativa de méis produzido no APL de Apicultura do Vale do Rio dos Bois conforme parâmetros legais: estratégia para valorização da identidade local",
+                "periodo": "2022 - 2023",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Daniela Cabral de Oliveira",
-                    "daniel emanuel cabral de oliveira",
-                    "Haihani Silva Passos",
-                    "William Marques Pires",
-                    "Lucilene Bueno Borges de Almeida",
-                    "Ana Carolina Ribeiro Aguiar"
+                    "jose carlos de sousa junior",
+                    "Maria Gláucia Dourado Furquim",
+                    "Silvia Sanielle Costa de Oliveira",
+                    "Sihelio Júlio Silva Cruz",
+                    "Larêssa Beatriz Pires de Jesus",
+                    "Natália Silva Vieira",
+                    "Viviane Patrícia Romani",
+                    "Leonam Manoel Gomes França",
+                    "Gustavo Moraes de Abreu Bernardes",
+                    "Karinny Martins Telesse"
                 ]
             },
             {
@@ -472,11 +521,11 @@
                 "periodo": "2024",
                 "natureza": "Pesquisa",
                 "equipe": [
+                    "Josevaldo Moreira",
                     "Daniela Cabral de Oliveira",
                     "Maria Gláucia Dourado Furquim",
                     "HELDER OLIVEIRA GOMES DE SOUZA",
                     "Silvia Sanielle Costa de Oliveira",
-                    "Josevaldo Moreira",
                     "Vanessa de Fátima Grah Ponciano",
                     "Amanda Abdallah Chaibub:",
                     "Isaac de Matos Ponciano",
@@ -506,24 +555,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Semana Integrada: Ciência, Tecnologia e Inovação no Fortalecimento do Ensino Técnico e Superior",
-                "periodo": "2025",
-                "natureza": "Outra",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "jose carlos de sousa junior",
-                    "Maria Gláucia Dourado Furquim",
-                    "suelio marques da silva filho",
-                    "Claudia Regina Moura dos Santos",
-                    "Adriana de Oliveira Dias",
-                    "Vitória Christina Maass",
-                    "Marcelo Medeiros Santana",
-                    "Wellydálion Dorneles Batista Borges",
-                    "Renan Pinheiro de Oliveira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Otimização de práticas agrícolas e uso de bioinsumos na cadeia do milho: aplicação de machine learning em áreas de produção familiar",
                 "periodo": "2025",
                 "natureza": "Pesquisa",
@@ -545,6 +576,24 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Semana Integrada: Ciência, Tecnologia e Inovação no Fortalecimento do Ensino Técnico e Superior",
+                "periodo": "2025",
+                "natureza": "Outra",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "jose carlos de sousa junior",
+                    "Maria Gláucia Dourado Furquim",
+                    "suelio marques da silva filho",
+                    "Claudia Regina Moura dos Santos",
+                    "Adriana de Oliveira Dias",
+                    "Vitória Christina Maass",
+                    "Marcelo Medeiros Santana",
+                    "Wellydálion Dorneles Batista Borges",
+                    "Renan Pinheiro de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Machine Learning e Bioinsumos: uma abordagem para o cultivo sustentável de milho verde em pequenas propriedades",
                 "periodo": "2026",
                 "natureza": "Pesquisa",
@@ -563,86 +612,113 @@
                 ]
             },
             {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "APONTA - Sistema de informações sobre gastos públicos municipal",
-                "periodo": "2022 - 2023",
+                "instituicao": "Universidade do Estado de Mato Grosso",
+                "nome": "Oficina Prática sobre Plano de Negócios utilizando a ferramenta Canvas",
+                "periodo": "2022 - 2022",
                 "natureza": "Extensao",
                 "equipe": [
                     "Daniela Cabral de Oliveira",
-                    "jose carlos de sousa junior",
-                    "Maria Gláucia Dourado Furquim",
-                    "Elina Tiba Gomes Grande",
-                    "Luis Cláudio Villani Ortiz",
-                    "Hiury Lima Oliveira",
-                    "Fernando Araújo dos Santos Marques",
-                    "Eder Veloso Machado"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Plataforma multilateral de comércio de produtos rurais para diferentes grupos de clientes",
-                "periodo": "2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "jose carlos de sousa junior",
-                    "Maria Gláucia Dourado Furquim",
-                    "Fernando Araújo dos Santos Marques",
-                    "Cleonice Borges de Souza",
-                    "Isabella Christina Santos Nascimento"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Avaliação qualitativa de méis produzido no APL de Apicultura do Vale do Rio dos Bois conforme parâmetros legais: estratégia para valorização da identidade local",
-                "periodo": "2022 - 2023",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "jose carlos de sousa junior",
-                    "Maria Gláucia Dourado Furquim",
-                    "Silvia Sanielle Costa de Oliveira",
-                    "Sihelio Júlio Silva Cruz",
-                    "Larêssa Beatriz Pires de Jesus",
-                    "Natália Silva Vieira",
-                    "Viviane Patrícia Romani",
-                    "Leonam Manoel Gomes França",
-                    "Gustavo Moraes de Abreu Bernardes",
-                    "Karinny Martins Telesse"
+                    "SERGIO SANTOS SILVA FILHO",
+                    "MIÉLLE SILVA PESTANA",
+                    "MAX ROBERT MARINHO",
+                    "LUCAS KRIESEL SPEROTTO",
+                    "FERNANDO YOITI OBANA"
                 ]
             },
             {
                 "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Desenvolvimento de uma Estação Meteorológica de Baixo Custo para Agronegócios e em Áreas Urbanas",
-                "periodo": "2022 - 2024",
-                "natureza": "Pesquisa",
+                "nome": "Exposição itinerante de dispositivos de controle, automação e robótica desenvolvidos no CRIAR/LESE em escolas estaduais de Rondonópolis MT",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
                 "equipe": [
                     "Daniela Cabral de Oliveira",
-                    "daniel emanuel cabral de oliveira",
+                    "MIÉLLE SILVA PESTANA",
+                    "MAX ROBERT MARINHO",
+                    "LUCAS KRIESEL SPEROTTO",
+                    "FELIPE SEIITI SARUWATARI",
+                    "DANIEL LIMA DA SILVA",
+                    "MARCOS ADRIANO SILVA DAVID",
+                    "FELIPHE CARVALHO RODRIGUES DE SOUZA",
+                    "HELDER OLIVEIRA GOMES DE SOUZA",
+                    "JOSEANE SILVA DE MORAES",
+                    "JOSÉ LUIZ RIBEIRO DE MORAIS",
+                    "THALITA OLIVEIRA ROCHA",
+                    "FERNANDO YOITI OBANA",
+                    "DARLEY DOMINGOS DE ALMEIDA",
+                    "ANDRÉ FLEDERICO PEREIRA"
+                ]
+            },
+            {
+                "instituicao": "Universidade do Estado de Mato Grosso",
+                "nome": "Palestra Empreendedorismo e Oficina Prática utilizando ferramenta Canvas",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "SERGIO SANTOS SILVA FILHO",
+                    "MIÉLLE SILVA PESTANA",
+                    "MAX ROBERT MARINHO",
+                    "LUCAS KRIESEL SPEROTTO"
+                ]
+            },
+            {
+                "instituicao": "Universidade do Estado de Mato Grosso",
+                "nome": "Palestra sobre Empreendedorismo com oficina prática de Plano de Negócios na ferramenta Canvas",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "SERGIO SANTOS SILVA FILHO",
+                    "MIÉLLE SILVA PESTANA",
+                    "MAX ROBERT MARINHO"
+                ]
+            },
+            {
+                "instituicao": "Universidade do Estado de Mato Grosso",
+                "nome": "Apresentação de dispositivos eletrônicos, de automação e robóticos desenvolvidos no LESE/CRIAR na Campus Party BR 2022 e na UNESP campus de Ilha Solteira",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "MAX ROBERT MARINHO",
+                    "LUCAS KRIESEL SPEROTTO",
+                    "FELIPE SEIITI SARUWATARI",
+                    "MARCOS ADRIANO SILVA DAVID",
+                    "FELIPHE CARVALHO RODRIGUES DE SOUZA",
+                    "HELDER OLIVEIRA GOMES DE SOUZA",
+                    "JOSÉ LUIZ RIBEIRO DE MORAIS",
+                    "FERNANDO YOITI OBANA",
+                    "DARLEY DOMINGOS DE ALMEIDA",
+                    "ANDRÉ FLEDERICO PEREIRA",
+                    "DAILTON ANGELO SILVA NASCIMENTO",
+                    "Leandro de Jesus Cafe",
+                    "Edson Maciel de Lima",
+                    "Paulo Henderson Miranda da Silva"
+                ]
+            },
+            {
+                "instituicao": "Universidade do Estado de Mato Grosso",
+                "nome": "Exposição itinerante de dispositivos de controle, automação e robótica de dispositivos do CRIAR/LESE na EXPOSUL 2022 e no I Encontro da Juventude, em Rondonópolis-MT",
+                "periodo": "2022 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
                     "SERGIO SANTOS SILVA FILHO",
                     "MAX ROBERT MARINHO",
                     "LUCAS KRIESEL SPEROTTO",
+                    "FELIPE SEIITI SARUWATARI",
+                    "DANIEL LIMA DA SILVA",
+                    "FELIPHE CARVALHO RODRIGUES DE SOUZA",
+                    "HELDER OLIVEIRA GOMES DE SOUZA",
+                    "JOSÉ LUIZ RIBEIRO DE MORAIS",
+                    "THALITA OLIVEIRA ROCHA",
                     "FERNANDO YOITI OBANA",
-                    "Peterson Baptista da Luz",
-                    "Elias Batista de Jesus Júnior",
-                    "Rogériode Assis Silva",
-                    "Weverson da Costa Neves",
-                    "Lucas Angelini"
-                ]
-            },
-            {
-                "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Desenvolvimento de uma Estação De Monitoramento de Água de Baixo Custo para Tanques de Peixe e em Áreas Urbanas",
-                "periodo": "2023 - 2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "MAX ROBERT MARINHO",
-                    "LUCAS KRIESEL SPEROTTO",
-                    "FERNANDO YOITI OBANA",
-                    "Rogériode Assis Silva",
-                    "Weverson da Costa Neves",
-                    "Suzana Maria Loures de Oliveira Marcionilio"
+                    "DARLEY DOMINGOS DE ALMEIDA",
+                    "LEIANE SOARES DE JESUS",
+                    "JOÃO VITOR NUNES GARCIA",
+                    "DAILTON ANGELO SILVA NASCIMENTO",
+                    "ERNANI PLUMER SANTOS PINTO",
+                    "MARCUS VINICIUS SANTANA SOARES"
                 ]
             },
             {
@@ -687,22 +763,18 @@
             },
             {
                 "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Balcão online de empregos: Plataforma Web para Gerenciamento Eficiente de vagas",
-                "periodo": "2024 - 2026",
+                "nome": "Desenvolvimento de uma Estação De Monitoramento de Água de Baixo Custo para Tanques de Peixe e em Áreas Urbanas",
+                "periodo": "2023 - 2024",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Daniela Cabral de Oliveira",
-                    "Maria Gláucia Dourado Furquim",
-                    "Wayrone Klaiton Luiz Silva",
-                    "LEIANE SOARES DE JESUS",
-                    "Hiury Lima Oliveira",
-                    "Claudia Regina Moura dos Santos",
-                    "Cristiane Silva Vieira",
-                    "Letícia Monteiro de Almeida",
-                    "Ana Luiza Arevalo Bergamaschi",
-                    "Maryna David Carrijo"
-                ],
-                "financiador": "Fundação de Amparo à Pesquisa do Estado de Mato Grosso,"
+                    "MAX ROBERT MARINHO",
+                    "LUCAS KRIESEL SPEROTTO",
+                    "FERNANDO YOITI OBANA",
+                    "Rogériode Assis Silva",
+                    "Weverson da Costa Neves",
+                    "Suzana Maria Loures de Oliveira Marcionilio"
+                ]
             },
             {
                 "instituicao": "Universidade do Estado de Mato Grosso",
@@ -753,6 +825,25 @@
             },
             {
                 "instituicao": "Universidade do Estado de Mato Grosso",
+                "nome": "Balcão online de empregos: Plataforma Web para Gerenciamento Eficiente de vagas",
+                "periodo": "2024 - 2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "Maria Gláucia Dourado Furquim",
+                    "Wayrone Klaiton Luiz Silva",
+                    "LEIANE SOARES DE JESUS",
+                    "Hiury Lima Oliveira",
+                    "Claudia Regina Moura dos Santos",
+                    "Cristiane Silva Vieira",
+                    "Letícia Monteiro de Almeida",
+                    "Ana Luiza Arevalo Bergamaschi",
+                    "Maryna David Carrijo"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Mato Grosso,"
+            },
+            {
+                "instituicao": "Universidade do Estado de Mato Grosso",
                 "nome": "Robótica na Escola: democratizando a tecnologia em Escola Pública do MT",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
@@ -768,112 +859,21 @@
             },
             {
                 "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Palestra sobre Empreendedorismo com oficina prática de Plano de Negócios na ferramenta Canvas",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
+                "nome": "Desenvolvimento de uma Estação Meteorológica de Baixo Custo para Agronegócios e em Áreas Urbanas",
+                "periodo": "2022 - 2024",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Daniela Cabral de Oliveira",
-                    "SERGIO SANTOS SILVA FILHO",
-                    "MIÉLLE SILVA PESTANA",
-                    "MAX ROBERT MARINHO"
-                ]
-            },
-            {
-                "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Oficina Prática sobre Plano de Negócios utilizando a ferramenta Canvas",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "SERGIO SANTOS SILVA FILHO",
-                    "MIÉLLE SILVA PESTANA",
-                    "MAX ROBERT MARINHO",
-                    "LUCAS KRIESEL SPEROTTO",
-                    "FERNANDO YOITI OBANA"
-                ]
-            },
-            {
-                "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Exposição itinerante de dispositivos de controle, automação e robótica de dispositivos do CRIAR/LESE na EXPOSUL 2022 e no I Encontro da Juventude, em Rondonópolis-MT",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
+                    "daniel emanuel cabral de oliveira",
                     "SERGIO SANTOS SILVA FILHO",
                     "MAX ROBERT MARINHO",
                     "LUCAS KRIESEL SPEROTTO",
-                    "FELIPE SEIITI SARUWATARI",
-                    "DANIEL LIMA DA SILVA",
-                    "FELIPHE CARVALHO RODRIGUES DE SOUZA",
-                    "HELDER OLIVEIRA GOMES DE SOUZA",
-                    "JOSÉ LUIZ RIBEIRO DE MORAIS",
-                    "THALITA OLIVEIRA ROCHA",
                     "FERNANDO YOITI OBANA",
-                    "DARLEY DOMINGOS DE ALMEIDA",
-                    "LEIANE SOARES DE JESUS",
-                    "JOÃO VITOR NUNES GARCIA",
-                    "DAILTON ANGELO SILVA NASCIMENTO",
-                    "ERNANI PLUMER SANTOS PINTO",
-                    "MARCUS VINICIUS SANTANA SOARES"
-                ]
-            },
-            {
-                "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Palestra Empreendedorismo e Oficina Prática utilizando ferramenta Canvas",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "SERGIO SANTOS SILVA FILHO",
-                    "MIÉLLE SILVA PESTANA",
-                    "MAX ROBERT MARINHO",
-                    "LUCAS KRIESEL SPEROTTO"
-                ]
-            },
-            {
-                "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Exposição itinerante de dispositivos de controle, automação e robótica desenvolvidos no CRIAR/LESE em escolas estaduais de Rondonópolis MT",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "MIÉLLE SILVA PESTANA",
-                    "MAX ROBERT MARINHO",
-                    "LUCAS KRIESEL SPEROTTO",
-                    "FELIPE SEIITI SARUWATARI",
-                    "DANIEL LIMA DA SILVA",
-                    "MARCOS ADRIANO SILVA DAVID",
-                    "FELIPHE CARVALHO RODRIGUES DE SOUZA",
-                    "HELDER OLIVEIRA GOMES DE SOUZA",
-                    "JOSEANE SILVA DE MORAES",
-                    "JOSÉ LUIZ RIBEIRO DE MORAIS",
-                    "THALITA OLIVEIRA ROCHA",
-                    "FERNANDO YOITI OBANA",
-                    "DARLEY DOMINGOS DE ALMEIDA",
-                    "ANDRÉ FLEDERICO PEREIRA"
-                ]
-            },
-            {
-                "instituicao": "Universidade do Estado de Mato Grosso",
-                "nome": "Apresentação de dispositivos eletrônicos, de automação e robóticos desenvolvidos no LESE/CRIAR na Campus Party BR 2022 e na UNESP campus de Ilha Solteira",
-                "periodo": "2022 - 2022",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "MAX ROBERT MARINHO",
-                    "LUCAS KRIESEL SPEROTTO",
-                    "FELIPE SEIITI SARUWATARI",
-                    "MARCOS ADRIANO SILVA DAVID",
-                    "FELIPHE CARVALHO RODRIGUES DE SOUZA",
-                    "HELDER OLIVEIRA GOMES DE SOUZA",
-                    "JOSÉ LUIZ RIBEIRO DE MORAIS",
-                    "FERNANDO YOITI OBANA",
-                    "DARLEY DOMINGOS DE ALMEIDA",
-                    "ANDRÉ FLEDERICO PEREIRA",
-                    "DAILTON ANGELO SILVA NASCIMENTO",
-                    "Leandro de Jesus Cafe",
-                    "Edson Maciel de Lima",
-                    "Paulo Henderson Miranda da Silva"
+                    "Peterson Baptista da Luz",
+                    "Elias Batista de Jesus Júnior",
+                    "Rogériode Assis Silva",
+                    "Weverson da Costa Neves",
+                    "Lucas Angelini"
                 ]
             },
             {
@@ -911,49 +911,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano Campus Rio Verde",
-                "nome": "Capacite Convênios ? Aplicação web para o processo de formalização dos convênios no MAPA",
-                "periodo": "2022 - 2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "daniel emanuel cabral de oliveira",
-                    "Dionatan Pontes de Oliveira",
-                    "Haihani Silva Passos",
-                    "Danihanne Borges e Silva",
-                    "William Marques Pires",
-                    "Osvaldo Resende",
-                    "Ana Carolina Ribeiro Aguiar",
-                    "Wayrone Klaiton Luiz Silva",
-                    "Lucilene Borges de Almeida",
-                    "Weder Nunes Ferreira Júnior"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano Campus Rio Verde",
-                "nome": "Socorro Animal",
-                "periodo": "2022 - 2023",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "Wayrone Klaiton Silva",
-                    "Ana Carolina Ribeiro Aguiar"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano Campus Rio Verde",
-                "nome": "Desenvolvimento de Chatbot em Redes Sociais para Egressos Destinado ao Instituto Federal Goiano",
-                "periodo": "2022 - 2023",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Daniela Cabral de Oliveira",
-                    "Ana Carolina Ribeiro Aguiar",
-                    "Marconi Batista Teixeira",
-                    "Sandro Silva Moraes",
-                    "Ariel Oliveira da Mota"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano Campus Rio Verde",
                 "nome": "Capacite Convênio: Passo a Passo do processo de Formalização dos Convênios no MAPA",
                 "periodo": "2022 - 2022",
                 "natureza": "Pesquisa",
@@ -974,7 +931,50 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano Campus Rio Verde",
+                "nome": "Capacite Convênios ? Aplicação web para o processo de formalização dos convênios no MAPA",
+                "periodo": "2022 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "daniel emanuel cabral de oliveira",
+                    "Dionatan Pontes de Oliveira",
+                    "Haihani Silva Passos",
+                    "Danihanne Borges e Silva",
+                    "William Marques Pires",
+                    "Osvaldo Resende",
+                    "Ana Carolina Ribeiro Aguiar",
+                    "Wayrone Klaiton Luiz Silva",
+                    "Lucilene Borges de Almeida",
+                    "Weder Nunes Ferreira Júnior"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano Campus Rio Verde",
                 "nome": "Desenvolvimento de Chatbot em Redes Sociais para Estágio Destinado ao Instituto Federal Goiano",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "Ana Carolina Ribeiro Aguiar",
+                    "Marconi Batista Teixeira",
+                    "Sandro Silva Moraes",
+                    "Ariel Oliveira da Mota"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano Campus Rio Verde",
+                "nome": "Socorro Animal",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Daniela Cabral de Oliveira",
+                    "Wayrone Klaiton Silva",
+                    "Ana Carolina Ribeiro Aguiar"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano Campus Rio Verde",
+                "nome": "Desenvolvimento de Chatbot em Redes Sociais para Egressos Destinado ao Instituto Federal Goiano",
                 "periodo": "2022 - 2023",
                 "natureza": "Extensao",
                 "equipe": [
@@ -1382,6 +1382,30 @@
                 "informacoes_adicionais": "Meio_digital. ISBN: 9786502228036, Río Verde (Publicado)."
             },
             {
+                "autores": "Oliveira, Janaina Lacerda de",
+                "titulo": "Teles, Josiane Rezende;  Martins, Jucelena Rodrigues;  Oliveira, Krisley Aparecida de;  Braga, Luana Borges Silva;  Borges, Maraisa Moreira;  Leão, Márcia Salustiano Carvalho;  Pereira, Maria Bernadete Tomaz;  Ferreira, Maria Elizabethy da Silva;  Pinna, Nathalia Reis Moretti;  Silva, Andreia Moraes da;  Soares, Patrícia Rosa;  OLIVEIRA, D. C.;  Furtado, Eluiza Morgana da Silva;  Lima, Fernanda Silva;  Oliveira, Fernando Alves de;  Sousa, Gardenia Santana de;  Costa, Gleide Rodrigues Amancio da;  Resende, Ivo Antônio de;  Lopes, Jacielle Santos;  et.al;  O PROFESSOR DO AMANHÃ: GUIA PRÁTICO DE INTELIGÊNCIA ARTIFICIAL PARA PLANEJAR, CRIAR E INOVAR NA EDUCAÇÃO",
+                "ano": "2026",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786528405176, Recife (Publicado)."
+            },
+            {
+                "autores": "OLIVEIRA, DANIELA C.",
+                "titulo": "SANTOS, R. C.;  RIBEIRO, M. R.;  SIMOES, C. R. A.;  PEREIRA, A. S.;  LIMA, G. O.;  MONTESLOPES, L.;  LEITE, A. R.;  PINTO, V. D.;  MORAES, E. G.;  CABRAL, J. V. A.;  FREITAS, D. O. M.;  SANTANA, J. V. S.;  COSTA, A. F.;  REZENDE, A. M. M.;  SILVA, D. M.;  FERGUSON, D.;  BARROS, E. V. M. O.;  BARBOSA, F. A. C.;  LIMA, L. A.;  et.al;  Mostra Científica: pesquisa científica e avanços tecnológicos",
+                "ano": "2026",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786528405268, Recife (Publicado)."
+            },
+            {
+                "autores": "Diniz, João Pedro Lacerda",
+                "titulo": "Cruz, Daniel Luís Viana;  Carvalho, Amâncio António de Sousa;  Brancaleone, Cássio;  Silva, Marcelo Luiz Bezerra da;  Galvão, Pauliana Valéria Machado;  Gomes Júnior, Plínio Pereira;  Evangelista Júnior, Walter Santos;  Pontes, Wendel José Teles;  Leal, Elba Gomes dos Santos;  Lima, Lorena Azevedo;  Moreira, Mauro de Paula;  Roberto, Edson;  Ribeiro, Fabiana Girotto;  OLIVEIRA, DANIELA CABRAL DE;  Guimarães Júnior, Welther Pires;  Barella Netto, Alberto;  Furnielis, Claudemir Bertuolo;  Freitas, Leninne Guimarães;  ROBÓTICA NA PRÁTICA: GUIA DO PROJETO DE EXTENSÃO EM ROBÓTICA DA UNIVERSIDADE DE RIO VERDE - Formação tecnológica, aprendizagem baseada em projetos e inovação por meio da robótica educacional",
+                "ano": "2026",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786528405572, Recife (Publicado)."
+            },
+            {
+                "autores": "Brancaleone, Cássio",
+                "titulo": "Silva, Marcelo Luiz Bezerra da;  Galvão, Pauliana Valéria Machado;  Gomes Júnior, Plínio Pereira;  Evangelista Júnior, Walter Santos;  Pontes, Wendel José Teles;  Iwamoto, Helga Midori;  Sousa, Milena Nunes Alves de;  Soares, Thiago Barbosa;  Lima, Lorena Azevedo;  OLIVEIRA, DANIELA CABRAL DE;  Barella Netto, Alberto;  Furnielis, Claudemir Bertuolo;  Freitas, Leninne Guimarães;  Guimarães Júnior, Welther Pires;  Cruz, Daniel Luís Viana;  Carvalho, Amâncio António de Sousa;  QUALIFIQUE+ Formação para a Vida, o Trabalho e a Cidadania Experiências de Extensão Universitária em Empregabilidade, Inteligência Emocional e Educação Financeira",
+                "ano": "2026",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786528405732, Recife (Publicado)."
+            },
+            {
                 "autores": "BASTOS NETO, M. M.",
                 "titulo": "FURTADO, L. F.;  LASRSEN FILHO, L.;  SOUZA, R. S.;  FREITAS, R. A.;  TAVARES, T. S. A.;  SILVA, W. K. L.;  FERREIRA JUNIOR, W. N.;  PIRES, W. M.;  ALMEIDA, L. B. B.;  SOUSA, E. M.;  AGUIAR, A. C. R.;  RESENDE, O.;  SILVA, C. B.;  OLIVEIRA, D. E. C.;  OLIVEIRA, DANIELA C.;  SILVA, D. B. E.;  OLIVEIRA, D. P.;  MOURA, F. G. F. C.;  PASSOS, H. S.;  et.al;  Manual de rotinas operacionais: da celebração à formalização de convênios e de instrumentos congêneres do MAPA",
                 "ano": "2022",
@@ -1394,8 +1418,8 @@
                 "informacoes_adicionais": "Nao_informado. ISBN: 9786587469409, Goiânia (Publicado)."
             },
             {
-                "autores": "et.al",
-                "titulo": "TAMER, M. F.;  COQUEIRO, R. L. T.;  SILVA, R. T.;  COSTA, A. C.;  ALENCAR, D. P.;  OLIVEIRA, G. A.;  PASSOS, H. S.;  NACIFE, J. M.;  ALMEIDA, L. B. B.;  SOUZA, L. R. S.;  SANTOS, L. N. S.;  ALMEIDA, B. M.;  OLIVEIRA, D. C.;  PEDRO, A. M.;  LIMA, C. R.;  SANTOS, C. H.;  ARRUDA, D. M.;  RIBEIRO, L. V.;  LOUREIRO, P. P.;  SANTOS, R. S.;  MAPA do Brasil: entre trilhas históricas, memoriais e normativas",
+                "autores": "TAMER, M. F.",
+                "titulo": "COQUEIRO, R. L. T.;  SILVA, R. T.;  COSTA, A. C.;  ALENCAR, D. P.;  OLIVEIRA, G. A.;  PASSOS, H. S.;  NACIFE, J. M.;  ALMEIDA, L. B. B.;  SOUZA, L. R. S.;  SANTOS, L. N. S.;  ALMEIDA, B. M.;  OLIVEIRA, D. C.;  PEDRO, A. M.;  LIMA, C. R.;  SANTOS, C. H.;  ARRUDA, D. M.;  RIBEIRO, L. V.;  LOUREIRO, P. P.;  SANTOS, R. S.;  et.al;  MAPA do Brasil: entre trilhas históricas, memoriais e normativas",
                 "ano": "2022",
                 "informacoes_adicionais": "Nao_informado. ISBN: 9786587469386, Goiânia (Publicado)."
             },
@@ -1612,6 +1636,12 @@
                 "periodico": "REVISTA CONEXÕES - CIÊNCIA E TECNOLOGIA. ISBN: 21760144   ."
             },
             {
+                "autores": "FURQUIM, MARIA GLÁUCIA DOURADO",
+                "titulo": "ABDALA, KLAUS DE OLIVEIRA;  ANDRADE, ADRIENE SILVA;  SOUSA JÚNIOR, JOSÉ CARLOS DE;  OLIVEIRA, DANIELA CABRAL DE;  SALVIANO, PAULO ALEXANDRE PERDOMO;  RABELO, JULIANO DE CALDAS;  Descrição dos Fatores Motivacionais no Setor Público: O Caso da Emater - Regional Caiapó",
+                "ano": "2020",
+                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
+            },
+            {
                 "autores": "OLIVEIRA, DANIELA CABRAL DE",
                 "titulo": "CHAVARETTE, FÁBIO ROBERTO;  OUTA, ROBERTO;  Monitoramento de integridade estrutural de um rotor utilizando algoritmos de sistemas imunológicos artificiais com seleção negativa e seleção clonal",
                 "ano": "2020",
@@ -1628,12 +1658,6 @@
                 "titulo": "NAPOLITANO JUNIOR, C.;  RABELO, J. C.;  FURQUIM, M. G. D.;  OLIVEIRA, DANIELA C.;  SALVIANO, P. A. P.;  A importância da logística na prestação de serviços para pequenos produtores rurais: o caso da empresa x no município de Moiporá-GO",
                 "ano": "2020",
                 "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
-            },
-            {
-                "autores": "FURQUIM, MARIA GLÁUCIA DOURADO",
-                "titulo": "ABDALA, KLAUS DE OLIVEIRA;  ANDRADE, ADRIENE SILVA;  SOUSA JÚNIOR, JOSÉ CARLOS DE;  OLIVEIRA, DANIELA CABRAL DE;  SALVIANO, PAULO ALEXANDRE PERDOMO;  RABELO, JULIANO DE CALDAS;  Descrição dos Fatores Motivacionais no Setor Público: O Caso da Emater - Regional Caiapó",
-                "ano": "2020",
-                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
             },
             {
                 "autores": "FURQUIM, MARIA GLÁUCIA DOURADO",
@@ -1888,10 +1912,10 @@
                 "ano": "2022"
             },
             {
-                "autores": "RESENDE, O.",
-                "titulo": "OLIVEIRA, DANIELA C",
-                "evento": "; FERREIRA JUNIOR",
-                "local": "W. N.; OLIVEIRA, D. E. C.; PASSOS, H. S.; CAPACIDADE ESTÁTICA DE ARMAZENAMENTO NOS ESTADOS DA REGIÃO CENTRO-OESTE. IV Integra IF Goiano - Distantes, porém integrados, Urutaí",
+                "autores": "OLIVEIRA, DANIELA C.",
+                "titulo": "FERREIRA JUNIOR, W",
+                "evento": "N.; OLIVEIRA",
+                "local": "D. E. C.; RESENDE, O.; PASSOS, H. S.; CAPACIDADE ESTÁTICA DE ARMAZENAMENTO NOS ESTADOS DA REGIÃO CENTRO-OESTE. IV Integra IF Goiano - Distantes, porém integrados, Urutaí",
                 "ano": "2022"
             },
             {
@@ -1998,7 +2022,7 @@
         "outras_orientacoes": [
             {
                 "orientando": "Kauã Rodrigues Azevedo; Michael Wellington Sousa Santos",
-                "titulo": "EcoQuiz: Desafios da Natureza",
+                "titulo": "Desenvolvimento de Jogo para Resoluções de Questões do Vestibular de Medicina da Universidade de Rio Verde",
                 "ano": "2026",
                 "curso": "Engenharia de Software",
                 "instituicao": "Universidade de Rio Verde"

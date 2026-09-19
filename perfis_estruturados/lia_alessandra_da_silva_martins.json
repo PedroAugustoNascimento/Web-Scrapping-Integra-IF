@@ -1,0 +1,491 @@
+{
+    "campus": "- Campus Manaus Zona Leste",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "A Torre de Manaus e outros Jogos de Torres: Propriedades em Grafos e Algoritmos",
+                "orientador": "Rosiane de Freitas Rodrigues",
+                "ano_inicio": 2021,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "orientador": "Maria Ivanilse Calderon Ribeiro",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Metodologias Ativas de Aprendizagem para Ensino Vocacional",
+                "instituicao": "Instituto Superior de Engenharia do Porto",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2004,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "IFAM - Campus Parintins",
+                "ano_inicio": 2015,
+                "ano_fim": 2022,
+                "funcao": "Professora",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Amazonas - Campus Zona Leste",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Professora",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Projeto Rígel",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Lia Alessandra Da Silva Martins",
+                    "Anderson Pimentel Dos Santos",
+                    "Elienai De Souza Nogueira",
+                    "Micila Sumária Medeiros Pereira"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "ZL Academy Digital Transformation",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Lia Alessandra Da Silva Martins",
+                    "David Brito Ramos",
+                    "Julieuza Natividade",
+                    "Luana Monteiro"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MARTINS",
+                    "titulo": "L. A. S.,  HSU, M. H.,  FOLZ, R.,  de Freitas, Rosiane,  Tower of Hanoi variations, pile problems and O.R. applications",
+                    "ano": "2022",
+                    "instituicao_promotora": "Facultad de Ciencias Exactas y Naturales."
+                },
+                {
+                    "autores": "MARTINS",
+                    "titulo": "L. A. S.,  A ferramenta Scratch como elemento motivador de aprendizagem dos algoritmos",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade do Estado do Amazonas."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MARTINS",
+                    "curso": "L. A. S.,  Curso de Capacitação em Programação Aplicada à Robótica",
+                    "ano": "2019"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CASTRO",
+                    "evento": "H. S.,  VIEIRA, I. A. G.,  MAUES, R. S.,  MARTINS, L. A. S.,  OLIVEIRA, L. P.,  IV Olimpíada de Informática",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "MENDES",
+                    "evento": "J. S.,  SOUZA, E. L. C.,  TEIXEIRA, R. S.,  CAVALCANTE, R. M. F.,  SOUZA, N. S.,  REIS, P. J. N.,  SERRAO, I. D.,  MORAIS, F. C.,  SANTOS, P. M.,  MARTINS, L. A. S.,  ALMEIDA, F. V.,  OLIVEIRA, E. C. S.,  ROCHA, M. Q.,  GARCIA, W. S.,  JESUS, R. T. B. S.,  III Arraiá do IFAM Campus Parintins",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "MAUES",
+                    "evento": "R. S.,  CASTRO, H. S.,  VALE, I. S.,  MARTINS, L. A. S.,  FARIAS, E. O.,  SANTOS, P. M.,  TEIXEIRA, R. S.,  JESUS, R. T. B. S.,  GARCIA, W. S.,  V Semana de Informática",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "MAUES",
+                    "evento": "R. S.,  CASTRO, H. S.,  VALE, I. S.,  MARTINS, L. A. S.,  FARIAS, E. O.,  SANTOS, P. M.,  TEIXEIRA, R. S.,  JESUS, R. T. B. S.,  GARCIA, W. S.,  III Olimpíada de Informática",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "et.al",
+                    "evento": "FIGUEIRA, M. C.,  MARTINS, D. S.,  CARDOSO FILHO, G. T.,  SEIXAS, M. S.,  FARIAS, E. O.,  SANTOS, S. T.,  DANTAS, K. E. M.,  BEZERRA, Y. S.,  BRELAZ, K. C. B. T. R.,  PINHEIRO, A. L.,  ANJOSOLIVEIRA, P. F.,  SILVA, A. R. E.,  PONTES, D. R.,  RAMOS, I. M. M.,  MARTINS, L. A. S.,  FONSECA, R. S.,  BEZERRA, M. Y. N.,  FARIAS JUNIOR, A. B.,  OLIVEIRA, E. C. D.,  COSTA, N. M.,  II Arraiá do IFAM Campus Parintins",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "MAUES",
+                    "evento": "R. S.,  VALE, I. S.,  RAMOS, I. M. M.,  MARTINS, L. A. S.,  II Olimpíada de Informática",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                },
+                {
+                    "autores": "RAMOS",
+                    "evento": "I. M. M.,  MARTINS, L. A. S.,  RAMOS, D. B.,  VALE, I. S.,  MAUES, R. S.,  I Olimpíada de Informática",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MARTINS, LIA",
+                "titulo": "COSTA, JONAS;  de Freitas, Rosiane;  Characterization and Recursive Decomposition of the Tower of Manaus Puzzle Graph",
+                "ano": "2025",
+                "periodico": "MATEMATICA CONTEMPORANEA. ISBN: 01039059   ."
+            },
+            {
+                "autores": "PESSOA, LARISSA",
+                "titulo": "MARTINS, LIA;  HSU, MENG;  de Freitas, Rosiane;  ZoAM GameBot: A Journey to the Lost Computational World in the Amazonia",
+                "ano": "2024",
+                "periodico": "ACM Journal on Computing and Cultural Heritage. ISBN: 15564673   ."
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "MONSALVE, L. S.;  ALGORITMO PREMIUM COMO ELEMENTO MOTIVADOR PARA O ENSINO DE ALGORITMOS",
+                "ano": "2017",
+                "periodico": "Igapó (CEFET-AM). ISBN: 19825498   ."
+            },
+            {
+                "autores": "DAMASCENO, D. O. C.",
+                "titulo": "AZEVEDO, I. B.;  VASCONCELOS, M. P.;  CASTRO, H. S.;  MARTINS, L. A. S.;  ALGORITMO PREMIUM: UMA FERRAMENTA DE ENSINO PARA AUXILIAR O APRENDIZ COM DEFICIÊNCIA INTELECTUAL NOS CURSOS TÉCNICOS EM INFORMÁTICA",
+                "ano": "2016",
+                "periodico": "Igapó (CEFET-AM). ISBN: 19825498   ."
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "A FERRAMENTA SCRATCH COMO ELEMENTO MOTIVADOR DA APRENDIZAGEM DE ALGORITMOS",
+                "ano": "2015",
+                "periodico": "Revista Fiped. ISBN: 23161086   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MARTINS, LIA",
+                "titulo": "COSTA, Jonas",
+                "evento": "; de Freitas",
+                "local": "Rosiane; Sobre a generalização do grafo da Torre de Hanoi. Encontro de Teoria da Computação, Brasília, Distrito Federal",
+                "ano": "2024"
+            },
+            {
+                "autores": "HSU, M. H.",
+                "titulo": "MARTINS, LIA; de Freitas, Rosiane; Desvendando o Algoritmo Iterativo do Jogo da Torre de Hanoi de Forma Lúdica nos Primeiros Anos Escolares",
+                "evento": "Simpósio Brasileiro de Computação na Educação Básica",
+                "local": "Cuiabá/MT",
+                "ano": "2024"
+            },
+            {
+                "autores": "MARTINS, LIA",
+                "titulo": "HSU, M",
+                "evento": "H.; de Freitas",
+                "local": "Rosiane; Explorando o Potencial Educativo da Torre de Hanoi: Promovendo o Pensamento Computacional nos Anos Iniciais do Ensino Fundamental. XXXII Workshop sobre Educação em Computação, Brasília, Distrito Federal",
+                "ano": "2024"
+            },
+            {
+                "autores": "MARTINS, LIA",
+                "titulo": "David Ramos; Julieuza Natividade; José E",
+                "evento": "B. Linhares; Lohan Silva; Nelson Gouvea; Luis Arantes; Teaching Programming: Integrating Active Methodologies to Enhance Learning. Congreso Internacional de Informática Educativa",
+                "local": "Leiria",
+                "ano": "2024"
+            },
+            {
+                "autores": "MARTINS, LIA",
+                "titulo": "de Freitas, Rosiane; Jogos baseados em torres de diferentes capacidade",
+                "evento": "ANAIS DO SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL",
+                "local": "",
+                "ano": "2023"
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "HSU, M",
+                "evento": "H.; FOLZ",
+                "local": "R.; de Freitas, Rosiane; Some variations of the Tower of Hanoi and their graph properties. The 10th Latin American Workshop on Cliques in Graphs, Curitiba",
+                "ano": "2022"
+            },
+            {
+                "autores": "FOLZ, R.",
+                "titulo": "HSU, M",
+                "evento": "H.; MARTINS",
+                "local": "L. A. S.; de Freitas, Rosiane; Notes on graph variations of the NIM game. The 10th Latin American Workshop on Cliques in Graphs, Curitiba",
+                "ano": "2022"
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "HSU, M",
+                "evento": "H.; DE FREITAS",
+                "local": "R.; Tower of Hanoi Variations, Pile Problems and O. R. Applications. The Latin-Ibero American Conference on Operations Research - CLAIO, Buenos Aires - Argentina",
+                "ano": "2022"
+            },
+            {
+                "autores": "GUIMARAES, V.",
+                "titulo": "PESSOA, L",
+                "evento": "; FOLZ",
+                "local": "R.; MARTINS, L. A. S.; de Freitas, Rosiane; E aí meninas, qual vai ser? Agora sua carreira o jogo STEAM ParPow pode te ajudar a escolher. XLI Congresso da Sociedade Brasileira de Computação, Porto Alegre",
+                "ano": "2021"
+            },
+            {
+                "autores": "PESSOA, L.",
+                "titulo": "MARTINS, L",
+                "evento": "A. S.; de Freitas",
+                "local": "Rosiane; ZoAm Gamebot: uma aventura de múltiplos aprendizados por um mundo computacional perdido na Amazônia. XX SIMPÓSIO BRASILEIRO DE JOGOS E ENTRETENIMENTO DIGITAL, Porto Alegre",
+                "ano": "2021"
+            },
+            {
+                "autores": "PESSOA, L.",
+                "titulo": "MARTINS, L",
+                "evento": "A. S.; MARTINS",
+                "local": "G.; GUIMARAES, V.; de Freitas, Rosiane; Um StoryBot como apoio a processos de autoaprendizagem através de desafios lógicos matemático-computacionais e valorização cultural. X Congresso Brasileiro de Informática na Educação (CBIE), Porto Alegre",
+                "ano": "2021"
+            },
+            {
+                "autores": "RODRIGUES, R. de F.",
+                "titulo": "MARTINS, L",
+                "evento": "A. S.; GUIMARAES",
+                "local": "V. S.; FERNANDES, J.; InCirle: uma versão planar do jogo da Torre de Hanoi na aprendizagem de conceitos matemático-computacionais. XVIII SBGames, Rio de Janeiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "BRELAZ, A",
+                "evento": "S.; NASCIMENTO",
+                "local": "G. R.; MARTINS, T. S.; Trabalhando com Robótica Educacional no Ensino Fundamental. XXI Congresso Internacional de Informática Educativa, TISE 2016, Santiago",
+                "ano": "2016"
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "DAMASCENO, D",
+                "evento": "O. C.; AZEVEDO",
+                "local": "I. B.; VASCONCELOS, M. P.; Algoritmo Premium: um software promotor da inclusão nos cursos técnicos de Informática. XXI Congresso Internacional de Informática Educativa, TISE 2016, Santiago",
+                "ano": "2016"
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "DAMASCENO, D",
+                "evento": "O. C.; AZEVEDO",
+                "local": "I. B.; VASCONCELOS, M. P.; Algoritmo Premium: uma ferramenta de ensino para auxiliar o aprendiz com deficiência intelectual nos cursos técnicos em informática. V Congresso Brasileiro de Informática na Educação, Uberlândia",
+                "ano": "2016"
+            },
+            {
+                "autores": "MARTINS, L. A. S.",
+                "titulo": "BRELAZ, A",
+                "evento": "S.; NASCIMENTO",
+                "local": "G. R.; MARTINS, T. S.; ALFAIA, R. M.; Ensinando Lógica de Programação aplicada a Robótica para alunos do Ensino Fundamental. XXVII Simpósio Brasileiro de Informática na Educação, Uberlândia",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Caio Cesar Faneco Gonzaga",
+                "titulo": "VALORIS: Desenvolvimento de uma Aplicação para o Setor Financeiro utilizando Robotic Process Automation com Machine Learning",
+                "ano": "2025",
+                "curso": "Bacharelado em Engenharia de Software",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Júlia Donelli Giroldo",
+                "titulo": "Aplicação da Regressão Logística na Detecção de Misoginia",
+                "ano": "2025",
+                "curso": "Bacharelado em Engenharia de Software",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Marielle Mar Santos",
+                "titulo": "Uma Abordagem Preditiva para Nonogramas: Simulação de Raciocínio Humano na Resolução de Nonogramas com Machine Learning e Estrutura de Grafos",
+                "ano": "2025",
+                "curso": "Bacharelado em Engenharia de Software",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Diego da Silva Raposo",
+                "titulo": "Hyperautomation no Contexto da Indústria 4.0: Desenvolvimento de Solução Automatizada com Python e Botcity",
+                "ano": "2025",
+                "curso": "Bacharelado em Engenharia de Software",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "David Daniel Santos de Andrade",
+                "titulo": "Sistema de Reconhecimento de Placas de Veículos para Controle de Acesso",
+                "ano": "2024",
+                "curso": "Bacharelado em Engenharia de Software",
+                "instituicao": "Instituto Federal do Amazonas - Campus Zona Leste"
+            },
+            {
+                "orientando": "Anne Carolinne F",
+                "titulo": "Teixeira e Gleice Any P. de Oliveira.  Arduino Aplicado na Plantação de Coentro",
+                "ano": "2024",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal do Amazonas - Campus Manaus Zona Leste"
+            },
+            {
+                "orientando": "IAGO CARVALHO CUNHA",
+                "titulo": "Relatório de Estágio",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "THIAGO GAMA DE SOUZA",
+                "titulo": "Relatório de Estágio",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "MARCUS VINÍCIUS R",
+                "titulo": "DE SOUZA.  Relatório de Estágio",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "LARISSA DE SOUZA MONSALVE",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "AMANDA DA SILVA BRELAZ",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "DÉBORA DE OLIVEIRA DAMASCENO",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "THAÍS DOS SANTOS MARTINS",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "MANUELA PERES VASCONCELOS",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "GABRIEL RAMOS NASCIMENTO",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "IAN DE BRITO AZEVEDO",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "RAÍSSA MAGNO ALFAIA",
+                "titulo": "Relatório de Estágio",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Débora de Oliveira Carvalho Damasceno",
+                "titulo": "Algoritmo Premium: um software para inclusão de aprendiz com deficiência intelecual nos cursos de Informática",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "MILBEY ROMANO SILVA MARQUES",
+                "titulo": "Relatório de Estágio",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "MAKELVIN COLARES DO NASCIMENTO",
+                "titulo": "Relatório de Estágio",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "ANDRESSA GASPAR FREITAS",
+                "titulo": "Relatório de Estágio",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 27.027976989746094,
+            "indian": 6.268029689788818,
+            "black": 2.0188472270965576,
+            "white": 18.5755558013916,
+            "middle eastern": 6.5109477043151855,
+            "latino hispanic": 39.59864044189453
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "campus": "- Campus Formiga",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual de Campinas",
+                "titulo": "Formulações e Algoritmos para o Problema da Poligonização de Área Máxima",
+                "orientador": "Fábio Luiz Usberti",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2012,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Campus Formiga",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Campus Formiga",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Monitor",
+                "vinculo": "Bolsista",
+                "descricao": "Monitor da disciplina Introdução a Programação"
+            },
+            {
+                "empresa": "Instituto Federal de Minas Gerais - Campus Formiga",
+                "ano_inicio": 2013,
+                "ano_fim": 2016,
+                "funcao": "Aluno",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista em Projeto de Pesquisa Aplicada para o Desenvolvimento de um Software de Apoio ao Planejamento de Projetos (PROSCENARIO). Um dos fatores chave para o sucesso de um projeto é o planejamento do projeto. Tal planejamento implica na delimitação do escopo, identificação e especificação das atividades, definição de prazos e custos do projeto. A indústria e setores de serviço utilizam técnicas de gerenciamento de projetos que auxiliam na construção de cronogramas de atividades. A técnica clássica de escalonamento de projetos (CPM/PERT) constrói cronogramas considerando apenas as restrições de precedência entre as atividades, gerando cronogramas que não levam em consideração a quantidade de recursos disponíveis para executar as atividades no prazo programado. Em muitos projetos reais é comum haverem limitações na quantidade de recursos humanos, tecnológicos, de equipamentos e materiais de consumo disponíveis de forma que o projeto não pode ser executado no prazo e custo em que foi planejado, resultando no não cumprimento de contratos e possíveis multas. Neste contexto, soluções de software que permitam planejar projetos com restrição de recursos são de vital importância. Este projeto de pesquisa trata da análise, design e implementação de um produto de software de apoio ao planejamento de gerenciamento de projetos denominado ProScenario, que conterá funcionalidades para organizar as atividades do projetos em uma estrutura analítica hierárquica, alocar recursos e custos por atividades, simular cronogramas de execução do projeto diante de diferentes cenários com variação na disponibilidade de recursos, e realizar análise de risco usando Monte Carlo para verificar a probabilidade do projeto simulado ser cumprido no prazo e orçamento previsto"
+            },
+            {
+                "empresa": "REAL CERTIFICAÇÃO DIGITAL LTDA - ME",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Analista de TI",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Guimarães Fernandes Serviços de Escritório e Apoio Administrativo",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Analista de T.I",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Cooperflora - Cooperativa dos Floricultores",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Desenvolvedor fullstack",
+                "vinculo": "Prestador de serviço",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Minas Gerais - Campus Formiga\nGraduacao (2018 - 2018) - Ciência Da Computação.\nGraduacao (2018 - 2018) - Engenharia Elétrica.\nGraduacao (2018 - 2018) - Ciência Da Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Minas Gerais - Campus Formiga",
+                "nome": "Carro verde: um arcabouço de coleta e descoberta de informações na Web",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Raí Caetano De Jesus",
+                    "Bruno Ferreira",
+                    "Igor Antônio Pedroso",
+                    "José Luiz Maciel Pimenta",
+                    "Luciana Lourdes Silva",
+                    "João Paulo Fernandes De Cerqueira César",
+                    "Renan Airton Batista Ribeiro"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "RAMOS, NATANAEL",
+                "titulo": "DE JESUS, RAÍ C.;  DE REZENDE, PEDRO J.;  DE SOUZA, CID C.;  USBERTI, FBIO L.;  Triangle-Based Heuristics for Area Optimal Polygonizations",
+                "ano": "2022",
+                "periodico": "ACM JOURNAL OF EXPERIMENTAL ALGORITHMICS. ISBN: 10846654   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "JESUS, R. C.",
+                "titulo": "USBERTI, F",
+                "evento": "L.; Modelos Matemáticos para o Problema da Poligonização de Área Máxima. XXXVIII Congresso Nacional de Matemática Aplicada e Computacional - CNMAC",
+                "local": "Campinas",
+                "ano": "2018"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.010215098038315773,
+            "indian": 0.06412356346845627,
+            "black": 0.003323011565953493,
+            "white": 85.42681121826172,
+            "middle eastern": 7.111872673034668,
+            "latino hispanic": 7.383664608001709
+        }
+    }
+}

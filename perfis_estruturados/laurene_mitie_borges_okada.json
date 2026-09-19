@@ -1,0 +1,86 @@
+{
+    "campus": "- Campus Itaituba",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Algoritmos e Lógica de Programação",
+                "instituicao": "Universidade Pitágoras Unopar Anhanguera",
+                "ano_inicio": 2025,
+                "ano_fim": 2026
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal do Oeste do Pará",
+                "ano_inicio": 2013,
+                "ano_fim": 2018
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Oeste do Pará",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Pará",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Oeste do Pará",
+                "nome": "Proposta de Modelagem UML para representação de modelos complexos em sistemas multiagentes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Laurene Mitie Borges Okada",
+                    "Celson Pantoja Lima"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "OKADA",
+                    "curso": "L. M. R.,  Programa de Facilitação à Aprendizagem",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "OKADA",
+                    "evento": "L. M. R.,  XXXIV Simpósio da Sociedade Brasileira de Telecomunicações",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Telecomunicações."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

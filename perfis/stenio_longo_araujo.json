@@ -1,0 +1,275 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "periodo": "2000 - 2002",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Construções Categóricas Intervalares em Haskell",
+                "orientador": "Benedito Melo Acióly"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática",
+                "periodo": "1999 - 1999",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1991 - 1996",
+                "instituicao": "Universidade Federal da Bahia"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "periodo": "1999",
+                "cargo": "Professor assistente."
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "periodo": "1998 - 1999",
+                "cargo": "Professor substituto."
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "periodo": "1998 - 1999",
+                "cargo": "Analista de Sistemas, Modelagem de Dados."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "1999",
+                "cargo": "Professor."
+            }
+        ],
+        "direcao_administracao": ": Universidade Estadual do Sudoeste da Bahia\nColegiado do Curso de Bacharelado em Ciência da Computação (2015 - 2017) : Coordenador Do Colegiado Do Curso De Bacharelado Em Ciência Da Computação.\nColegiado do Curso de Bacharelado em Ciência da Computação (2013 - 2015) : Coordenador Do Colegiado Do Curso De Bacharelado Em Ciência Da Computação.\nDepartamento de Ciências Exatas (2000 - 2002) : Vice-coordenador Do Colegiado Do Curso De Ciência Da Computação.",
+        "ensino": ": Universidade Estadual do Sudoeste da Bahia\nGraduacao (1999) - Ciência Da Computação.\nGraduacao (1998 - 1999) - Ciência Da Computação.",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  VII ERBASE - Laboratório em PHP",
+                    "ano": "2007"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  II SimSiS/ II SECOMP - PHP",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  II Jornada de Cursos da FTC - PHP",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  Projeto de Extensão Esporádico UESB - Programação em XML",
+                    "ano": "2005"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  I Jornada de Cursos da FTC - PHP",
+                    "ano": "2005"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  I Jornada de Cursos da FTC - Java Básico",
+                    "ano": "2003"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  I Semana de Computação da UESB - Programação Paralela",
+                    "ano": "2003"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  III SINFORM - Semana de Informática da UESC - Laboratório de Haskell",
+                    "ano": "2003"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  X EBEM - Haskell",
+                    "ano": "2003"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  Curso de Extensão em Linguagem de Programação C++ (UESB)",
+                    "ano": "1999"
+                },
+                {
+                    "autor": "ARAÚJO",
+                    "curso": "S. L.,  Curso de Operação do Sistema Operacional Windows 9X - Convênio CEFET/BA - FETAG/BA",
+                    "ano": "1999"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "Acióly, B. M.;  Introdução ao Haskell",
+                "ano": "2008",
+                "informacoes_adicionais": "Impresso. ISBN: 9788588505674, Vitória da Conquista/BA (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "FLORES, C.",
+                "titulo": "SANTOS, R.;  ARAÚJO, S. L.;  Análise do Laboratório Remoto de Robótica Educacional (LERO) como Ferramenta de Ensino e Aprendizagem de Introdução à Programação",
+                "ano": "2017",
+                "periodico": "XXIII Workshop de Informática na Escola (WIE 2017). ISBN: 23166541   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, K.",
+                "titulo": "ARAÚJO, S",
+                "evento": "L.; BuscaLab: Um jogo educacional para o apoio ao ensino de pesquisa de dados. ERBASE 2017",
+                "local": "Cruz das Almas/BA",
+                "ano": "2017"
+            },
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "SOARES, I",
+                "evento": "B.; Medição de cobertura de código para testes de interface automatizados utilizando Espresso e JaCoCo. ERBASE 2016",
+                "local": "Maceió/AL",
+                "ano": "2016"
+            },
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "ALVES, T",
+                "evento": "A.; LOPES",
+                "local": "W. S.; FLORIDIA, C.; ROSOLEM, J. B.; PENZE, R. S.; BASSAN, F. R.; Monitoramento de Chaves Seccionadoras de Alta tensão por sensores ultrassom alimentados por fibra óptica. XXI Congresso Brasileiro de Automática, Vitória/ES",
+                "ano": "2016"
+            },
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "Rômulo Pita Brandão; Ensino de Conceitos de Linguagens de Programação utilizando Animações",
+                "evento": "V Workshop de Educação em Computação e Informática da VII ERBASE",
+                "local": "Vitória da Conquista",
+                "ano": "2007"
+            },
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "CASTRO, I",
+                "evento": "D.; 3Dmóveis: protótipo de um ambiente virtual para comércio eletrônico. V Workshop de Trabalhos de Iniciação Científica e Graduação da VII ERBASE",
+                "local": "Vitória da Conquista",
+                "ano": "2007"
+            },
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "Rômulo Pita Brandão; Animação de Algoritmos Numéricos",
+                "evento": "VI ERMAC - Encontro Regional de Matemática Aplicada e Computacional",
+                "local": "João Pessoa/PB",
+                "ano": "2006"
+            },
+            {
+                "autores": "ARAÚJO, S. L.",
+                "titulo": "Acióly, B",
+                "evento": "M.; Construções Categóricas em Haskell. V ERMAC - Encontro Regional de Matemática Aplicada e Computacional",
+                "local": "Natal/RN",
+                "ano": "2005"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Eric Oliveira Santos",
+                "titulo": "Engenharia Web: A metodologia OOHDM aplicada no desenvolvimento do Portal de Segurança Pública de Vitória da Conquista - SPVC",
+                "ano": "2007",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Deysiane Matos Sande",
+                "titulo": "Engenharia Web: Desenvolvimento de uma WEBAPP utilizando WebML",
+                "ano": "2007",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Rômulo Pita Brandão",
+                "titulo": "Ensino de Conceitos de Linguages de Programação utilizando Animações",
+                "ano": "2007",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Daniel Symair Lima Silva",
+                "titulo": "Protótipo de uma ferramenta para programação Web colaborativa",
+                "ano": "2007",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Leonardo de Oliveira",
+                "titulo": "Portal de Serviços para Micro e Pequenas Empresas - BITEC 2005",
+                "ano": "2005",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade de Tecnologia e Ciências"
+            },
+            {
+                "orientando": "Matheus Carvalho Viana",
+                "titulo": "Estrutura de documentos XML",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Marta Calasans Costa",
+                "titulo": "Análise de desempenho de programas MPI para multiplicação de matrizes",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Igor David de Castro",
+                "titulo": "WEB3D: Protótipo de um Ambiente Virtual para Comércio Eletrônico",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Bruno Silvério Costa",
+                "titulo": "SimGrafo - Um simulador para Teoria dos Grafos",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Aline de Jesus Silva",
+                "titulo": "HaskellPad - Um ambiente de programação para a linguagem Haskell",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Joaquim Júnior Lacerda dos Santos",
+                "titulo": "Monitoria da disciplina Algoritmos e Estrutura de Dados",
+                "ano": "2003",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Camilo Alves Carvalho",
+                "titulo": "Monitoria da disciplina Redes de Computadores I",
+                "ano": "2003",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            }
+        ]
+    }
+}

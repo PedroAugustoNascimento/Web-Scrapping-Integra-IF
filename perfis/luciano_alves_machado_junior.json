@@ -1,0 +1,176 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Ciência da Computação",
+                "periodo": "2021 - 2023",
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "titulo": "Identificação computacional de padrões interníveis em textos da literatura brasileira",
+                "orientador": "Angelo Conrado Loula"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Big Data",
+                "periodo": "2020 - 2021",
+                "instituicao": "Faculdade Descomplica"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Projetos de Aplicativos Móveis Multiplataforma",
+                "periodo": "2020 - 2021",
+                "instituicao": "Faculdade Descomplica"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "periodo": "2016 - 2019",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+                "periodo": "2018 - 2018",
+                "cargo": "Desenvolvedor de Sistemas, Estágio."
+            },
+            {
+                "empresa": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+                "periodo": "2016 - 2016",
+                "cargo": "Monitor, Monitor, Monitor na disciplina de Matemática Discreta."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "periodo": "2021 - 2022",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2024",
+                "cargo": "Professor EBTT Efetivo, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2022 - 2024",
+                "cargo": "Professor EBTT Substituto, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (2022) .\nGraduacao (2022) - Análise E Desenvolvimento De Sistemas.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+                "nome": "Desenvolvimento de Persiana de Abertura Automática Usando a Tecnologia Arduino",
+                "periodo": "2016 - 2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luciano Alves Machado Júnior",
+                    "Cássio Almeida Lima"
+                ]
+            },
+            {
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+                "nome": "Automação Residencial com Arduino com foco em iluminação doméstica",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Luciano Alves Machado Júnior",
+                    "Rafael Vasconcelos Oliveira"
+                ],
+                "financiador": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MACHADO JUNIOR",
+                    "titulo": "L. A.,  Inteligencia Artificial: como ela está transformando as organizações",
+                    "ano": "2020",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "MACHADO JUNIOR",
+                    "titulo": "L. A.,  Desenvolvimento de jogos voltados para a Educação Infantil",
+                    "ano": "2019",
+                    "instituicao_promotora": "IFBA - Campus Irecê."
+                },
+                {
+                    "autores": "MACHADO JUNIOR",
+                    "titulo": "L. A.,  Automação residencial com Arduino",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFBA."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MACHADO JUNIOR",
+                    "curso": "L. A.,  Introdução a Arduino",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "MACHADO JUNIOR",
+                    "curso": "L. A.,  Desenvolvimento de Jogos Usando o RPG Maker",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "MACHADO JUNIOR",
+                    "curso": "L. A.,  Montagem e Manutenção de computadores",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "MACHADO JUNIOR",
+                    "evento": "L. A.,  IF(CODE){2.0}",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Campus Irecê."
+                },
+                {
+                    "autores": "MACHADO JUNIOR",
+                    "evento": "L. A.,  IF(CODE){...}",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Campus Irecê."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "LOULA, ANGELO",
+                "titulo": "MACHADO JÚNIOR, LUCIANO ALVES;  Identificação computacional de padrões interníveis em textos da Literatura Brasileira",
+                "ano": "2025",
+                "periodico": "TEXTO DIGITAL (UFSC). ISBN: 18079288   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.986346069315914e-05,
+            "indian": 0.00011239537707297131,
+            "black": 8.569201099817292e-07,
+            "white": 99.51585388183594,
+            "middle eastern": 0.37226808071136475,
+            "latino hispanic": 0.11174491792917252
+        }
+    }
+}

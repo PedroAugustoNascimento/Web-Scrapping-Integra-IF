@@ -1,0 +1,217 @@
+{
+    "campus": "- Campus São Paulo do Potengi",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Tecnologia da Informação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Um Módulo de Protocolo para Aplicações de IoT em Saúde",
+                "orientador": "Gustavo Girão Barreto da Silva",
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Banco de Dados",
+                "instituicao": "AVM EDUCACIONAL LTDA",
+                "orientador": "Max Bianchi Godoy",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Medicina",
+                "instituicao": "Belgorod State University - Russian Federation",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "SENAC - RN",
+                "ano_inicio": 2010,
+                "ano_fim": 2017,
+                "funcao": "Professor de Programação",
+                "vinculo": "Disciplinas: Programação PHP",
+                "descricao": "JavaScript, Java, Banco de Dados SQL Server, MySQL, Administração de Banco de Dados, Access, Operador de Computador, Excel Avançado, Excel com VBA"
+            },
+            {
+                "empresa": "Creaty Informática",
+                "ano_inicio": 2004,
+                "ano_fim": 2007,
+                "funcao": "Gerente de Suporte",
+                "vinculo": "Proprietário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Lineware LTDA",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Gerente de Produção de Software",
+                "vinculo": "Sócio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Sindicato das Emp. de Transp. Urb. de Passageiros do Município de Natal",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Desenvolvedor PHP",
+                "vinculo": "Estágio",
+                "descricao": "Desenvolvimento dos sites e sitemas web NatalCard, Seturn, Mural Interno. Criador do projeto Google Transit - Natal"
+            },
+            {
+                "empresa": "Igreja Evangélica Assembléia de Deus no RN",
+                "ano_inicio": 2001,
+                "ano_fim": 2006,
+                "funcao": "Projetista PHP",
+                "vinculo": "Contrato",
+                "descricao": ""
+            },
+            {
+                "empresa": "SOS Educação Profissional",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Instrutor de Informática e Programação",
+                "vinculo": "Cursos: Informática Básica",
+                "descricao": "WebDesign"
+            },
+            {
+                "empresa": "NoCéu Computação nas Núvens",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Gerente de Projetos",
+                "vinculo": "Contratado",
+                "descricao": "Automação Residencial, Programação Web, Projetos de Software"
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "ano_inicio": 2014,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Agencia para Desenvolvimento do RN",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Professor de Informática e Manutenção",
+                "vinculo": "Professor Eventual",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Alagoas - Campus Arapiraca",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "Ari Barreto,  BI com Excel",
+                    "ano": "2015",
+                    "instituicao_promotora": "SENAC-RN."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "titulo": "Ari Barreto,  Internet das Coisas",
+                    "ano": "2014",
+                    "instituicao_promotora": "SENAC-RN."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "Ari Barreto,  OLIVEIRA, J. A.,  Excel Empresarial",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "Ari Barreto,  Conhecendo o PHP",
+                    "ano": "2014"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.2086852490901947,
+            "indian": 1.1066838502883911,
+            "black": 0.08049631863832474,
+            "white": 55.035484313964844,
+            "middle eastern": 28.803735733032227,
+            "latino hispanic": 14.764913558959961
+        }
+    }
+}

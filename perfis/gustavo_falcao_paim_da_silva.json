@@ -1,0 +1,143 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2025",
+                "instituicao": "Universidade Federal da Bahia",
+                "orientador": "Maycon Leone Maciel Peixoto"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "periodo": "2021 - 2024",
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "titulo": "Modelagem e desenvolvimento de uma arquitetura para reconfiguração de unidades de detecção de emergências em cidades inteligentes",
+                "orientador": "Dr"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para a Educação Profissional e Tecnológica",
+                "periodo": "2023 - 2024",
+                "instituicao": "Instituto Federal da Bahia",
+                "orientador": "Livia Maria Dodds de Melo"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão da Segurança da Informação",
+                "periodo": "2016 - 2018",
+                "instituicao": "Centro Universitário Jorge Amado",
+                "orientador": "Elisandro dos Santos Lima"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2011 - 2015",
+                "instituicao": "Universidade Salvador"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2024",
+                "cargo": "Coordenador de Curso - Ensino Superior, Servidor público, Coordenador do Curso Superior de Tecnologia em Redes de Computadores - Instituto Federal da Bahia Campus - Santo Antônio de Jesus."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2019 - 2021",
+                "cargo": "Coordenador do Curso Técnico em Informática, Servidor público, Coordenador do Curso Técnico em Informática - Instituto Federal da Bahia - Campus Irecê."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2018",
+                "cargo": "Professor EBTT, Servidor público, Ciência da Computação: Redes de Computadores e Sistemas Distribuídos."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2015 - 2018",
+                "cargo": "Técnico de Laboratório de Informática, Servidor público."
+            },
+            {
+                "empresa": "SoftwareData",
+                "periodo": "2013 - 2015",
+                "cargo": "Analista de Sistemas."
+            },
+            {
+                "empresa": "Prefeitura Municipal de Feira de Santana",
+                "periodo": "2012 - 2013",
+                "cargo": "Técnico em Redes de Computadores, Cooperativa."
+            },
+            {
+                "empresa": "SENAI - Departamento Regional da Bahia",
+                "periodo": "2011 - 2011",
+                "cargo": "Instrutor de Informática, Prestação de serviço."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "JESUS, THIAGO C.",
+                "titulo": "COELHO, GUSTAVO A",
+                "evento": "A.; SILVA",
+                "local": "GUSTAVO F.; COSTA, DANIEL G.; Plataforma de Crowdsourcing Internet of Things (Crowd-IoT) para detecção de emergências urbanas. Anais Estendidos do Simpósio Brasileiro de Sistemas Colaborativos, Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "DA SILVA, GUSTAVO FALCÃO P.",
+                "titulo": "COSTA, DANIEL G",
+                "evento": "; DE JESUS",
+                "local": "THIAGO C.; A Secure OTA Approach For Flexible Operation of Emergency Detection Units in Smart Cities. 2023 IEEE International Smart Cities Conference (ISC2), Bucharest",
+                "ano": "2023"
+            },
+            {
+                "autores": "SILVA, GUSTAVO F.",
+                "titulo": "COSTA, DANIEL G",
+                "evento": "; JESUS",
+                "local": "THIAGO C.; A Framework for the Development of Reconfigurable Sensors-based Emergencies Detection Units in Smart Cities. 2022 IEEE International Smart Cities Conference (ISC2), Pafos",
+                "ano": "2022"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jousielle Pereira Amorim",
+                "titulo": "Desenvolvimento de uma Arquitetura de Iluminação Inteligente Baseada em Internet das Coisas para Ambientes de Smart Campus",
+                "ano": "2026",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Instituto Federal da Bahia Campus Santo Antônio de Jesus"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.9295477867126465,
+            "indian": 5.93445348739624,
+            "black": 3.3269288539886475,
+            "white": 33.90964889526367,
+            "middle eastern": 24.42015266418457,
+            "latino hispanic": 28.479265213012695
+        }
+    }
+}

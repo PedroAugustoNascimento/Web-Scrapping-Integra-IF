@@ -84,12 +84,26 @@
         "projetos": [
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para Programação Competitiva",
+                "periodo": "2024 - 2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Carlos Eduardo Rocha Miranda",
+                    "Leila Roling Scariot da Silva",
+                    "LARAH BEATRIZ LIMA VASCONCELOS",
+                    "Rafael Quintino Fonseca Guimarães",
+                    "Éric Vinícius Oliveira Dourado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Sistema Web para Visualizar Grafos de Troca de Algebras Cluster",
                 "periodo": "2018 - 2019",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Victor Henrique Goncalves Miranda",
-                    "Jesmmer da Silveira Alves"
+                    "Jesmmer da Silveira Alves",
+                    "Victor Henrique Goncalves Miranda"
                 ]
             },
             {
@@ -124,22 +138,22 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Automação do processo de reconhecimento do tipo de solos utilizando redes neurais artificiais.",
-                "periodo": "2022 - 2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "Bruno Fagner Alves de Carvalho e Costa"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Automação do processo de verificação do tipo de notícias mais curtidas, comentadas e encaminhadas nas redes Sociais e no site do IF Goiano",
                 "periodo": "2022 - 2024",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Jesmmer da Silveira Alves",
                     "rafael quintino fonseca quimarães"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Automação do processo de reconhecimento do tipo de solos utilizando redes neurais artificiais.",
+                "periodo": "2022 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Bruno Fagner Alves de Carvalho e Costa"
                 ]
             },
             {
@@ -170,32 +184,22 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Estudo sobre o desenvolvimento de uma API para automatizar a coleta e análise de dados sobre a produção de cana-de-açúcar",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Gabriel Candido Ferreira Dias"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Projeto e implementação de uma máquina CNC de baixo custo",
                 "periodo": "2024",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Jesmmer da Silveira Alves",
                     "Éric Vinícius Oliveira Dourado"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Classificação de embriões bovinos usando visão computacional: Uma aplicação do algoritmo YOLO",
-                "periodo": "2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "Bruno Batista Ferreira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Sistema de controle de semáforos inteligentes através de redes neurais artificiais para otimização do fluxo de tráfego",
-                "periodo": "2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "LARAH BEATRIZ LIMA VASCONCELOS"
                 ]
             },
             {
@@ -210,12 +214,32 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Estudo sobre o desenvolvimento de uma API para automatizar a coleta e análise de dados sobre a produção de cana-de-açúcar",
+                "nome": "Classificação de embriões bovinos usando visão computacional: Uma aplicação do algoritmo YOLO",
                 "periodo": "2024",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Jesmmer da Silveira Alves",
-                    "Gabriel Candido Ferreira Dias"
+                    "Bruno Batista Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Estudo sobre a utilização da biblioteca YOLO no desenvolvimento de um sistema para controle de tráfego em propriedades públicas e privadas",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Rhennan Augusto Santana do Carmo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Sistema de controle de semáforos inteligentes através de redes neurais artificiais para otimização do fluxo de tráfego",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "LARAH BEATRIZ LIMA VASCONCELOS"
                 ]
             },
             {
@@ -244,26 +268,64 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Estudo sobre a utilização da biblioteca YOLO no desenvolvimento de um sistema para controle de tráfego em propriedades públicas e privadas",
-                "periodo": "2024",
-                "natureza": "Pesquisa",
+                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
                 "equipe": [
                     "Jesmmer da Silveira Alves",
-                    "Rhennan Augusto Santana do Carmo"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Treinamento para Programação Competitiva",
-                "periodo": "2024 - 2024",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
+                    "Bruno Fagner Alves de Carvalho e Costa",
+                    "Bruno Batista Ferreira",
                     "Carlos Eduardo Rocha Miranda",
                     "Leila Roling Scariot da Silva",
                     "LARAH BEATRIZ LIMA VASCONCELOS",
                     "Rafael Quintino Fonseca Guimarães",
-                    "Éric Vinícius Oliveira Dourado"
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para Maratona de Programação SBC",
+                "periodo": "2023 - 2023",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Bruno Fagner Alves de Carvalho e Costa",
+                    "Carlos Eduardo Rocha Miranda",
+                    "Rafael Quintino Fonseca Guimarães"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Bruno Fagner Alves de Carvalho e Costa",
+                    "Bruno Batista Ferreira",
+                    "Carlos Eduardo Rocha Miranda",
+                    "Leila Roling Scariot da Silva",
+                    "Antonio Neco de Oliveira",
+                    "LARAH BEATRIZ LIMA VASCONCELOS",
+                    "Rafael Quintino Fonseca Guimarães",
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
+                "periodo": "2023 - 2023",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Jesmmer da Silveira Alves",
+                    "Bruno Fagner Alves de Carvalho e Costa",
+                    "Bruno Batista Ferreira",
+                    "Carlos Eduardo Rocha Miranda",
+                    "Leila Roling Scariot da Silva",
+                    "Antonio Neco de Oliveira",
+                    "LARAH BEATRIZ LIMA VASCONCELOS",
+                    "Rafael Quintino Fonseca Guimarães",
+                    "Rodrigo Elias Francisco"
                 ]
             },
             {
@@ -298,68 +360,6 @@
                     "Nadson de Carvalho Pontes"
                 ],
                 "financiador": "Fundação de Amparo a Pesquisa do Estado de Goiás,"
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
-                "periodo": "2023 - 2023",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "Bruno Fagner Alves de Carvalho e Costa",
-                    "Bruno Batista Ferreira",
-                    "Carlos Eduardo Rocha Miranda",
-                    "Leila Roling Scariot da Silva",
-                    "LARAH BEATRIZ LIMA VASCONCELOS",
-                    "Rafael Quintino Fonseca Guimarães",
-                    "Rodrigo Elias Francisco"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
-                "periodo": "2023 - 2023",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "Bruno Fagner Alves de Carvalho e Costa",
-                    "Bruno Batista Ferreira",
-                    "Carlos Eduardo Rocha Miranda",
-                    "Leila Roling Scariot da Silva",
-                    "Antonio Neco de Oliveira",
-                    "LARAH BEATRIZ LIMA VASCONCELOS",
-                    "Rafael Quintino Fonseca Guimarães",
-                    "Rodrigo Elias Francisco"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Treinamento para Maratona de Programação SBC",
-                "periodo": "2023 - 2023",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "Bruno Fagner Alves de Carvalho e Costa",
-                    "Carlos Eduardo Rocha Miranda",
-                    "Rafael Quintino Fonseca Guimarães"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Aplicações práticas de engenharia de dados como recurso pedagógico para a formação dos alunos do curso bacharelado em Ciência da Computação",
-                "periodo": "2023 - 2023",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Jesmmer da Silveira Alves",
-                    "Bruno Fagner Alves de Carvalho e Costa",
-                    "Bruno Batista Ferreira",
-                    "Carlos Eduardo Rocha Miranda",
-                    "Leila Roling Scariot da Silva",
-                    "Antonio Neco de Oliveira",
-                    "LARAH BEATRIZ LIMA VASCONCELOS",
-                    "Rafael Quintino Fonseca Guimarães",
-                    "Rodrigo Elias Francisco"
-                ]
             },
             {
                 "instituicao": "Ministério da Agricultura, Pecuária e Abastecimento",
@@ -580,6 +580,24 @@
     "producao_bibliografica": {
         "livros": [],
         "artigos": [
+            {
+                "autores": "OLIVEIRA, MICHEL GONDIM",
+                "titulo": "SILVA, PHILIPPE BARBOSA;  DE OLIVEIRA, GERALDO ANDRADE;  MARQUES, LEONARDO GARCIA;  DA SILVEIRA ALVES, JESMMER;  DA SILVA SOUZA, LEANDRO RODRIGUES;  CHAHAD, ALEXANDRE PEREIRA;  Traffic crashes in Rio Verde (Brazil): Spatial approach using autocorrelation and clustering indicators",
+                "ano": "2026",
+                "periodico": "Iatss Research. ISBN: 03861112   ."
+            },
+            {
+                "autores": "SALGADO, JOSÉ FRANCISCO RESENDE",
+                "titulo": "OLIVEIRA, GERALDO ANDRADE DE;  Alves, Jesmmer da Silveira;  MARQUES, LEONARDO GARCIA;  REVISÃO BIBLIOGRÁFICA SISTEMÁTICA DA PRODUÇÃO CIENTÍFICA SOBRE O CULTIVO DE ALIMENTOS EM RESIDÊNCIAS COM APLICAÇÃO DE INTERNET DAS COISAS E AGRICULTURA DE PRECISÃO",
+                "ano": "2026",
+                "periodico": "Revista Tópicos. ISBN: 29656672   ."
+            },
+            {
+                "autores": "DOURADO, ÉRIC VINÍCIUS OLIVEIRA",
+                "titulo": "Alves, Jesmmer da Silveira;  Desenvolvimento de um protótipo CNC Router de baixo custo",
+                "ano": "2026",
+                "periodico": "STUDIES IN ENGINEERING AND EXACT SCIENCES. ISBN: 27640981   ."
+            },
             {
                 "autores": "BERGAMO, THELMA MARIA DE MOURA",
                 "titulo": "SANTOS, LAÍS ALICE OLIVEIRA;  MARIANO, SANGELITA MIRANDA FRANCO;  CONCEIÇÃO, MARCUS VINÍCIUS COSTA DA;  SILVA, ALEXANDRE CARVALHO DA;  CAMARGOS, ALINE SOUSA;  Alves, Jesmmer da Silveira;  Saber-poder e inclusão: processos de subjetivação",

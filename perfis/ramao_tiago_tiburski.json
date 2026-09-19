@@ -28,23 +28,8 @@
         ],
         "atuacoes_profissionais": [
             {
-                "empresa": "Instituto Federal de Santa Catarina",
-                "periodo": "2019",
-                "cargo": "Professor."
-            },
-            {
-                "empresa": "RECENT PATENTS ON COMPUTER SCIENCE",
-                "periodo": "2019",
-                "cargo": ", Revisor de periódico."
-            },
-            {
-                "empresa": "IEEE TRANSACTIONS ON CLOUD COMPUTING",
-                "periodo": "2019",
-                "cargo": ", Revisor de periódico."
-            },
-            {
-                "empresa": "IEEE Access",
-                "periodo": "2018",
+                "empresa": "IEEE Network",
+                "periodo": "2020",
                 "cargo": ", Revisor de periódico."
             },
             {
@@ -103,8 +88,23 @@
                 "cargo": "Professor Substituto."
             },
             {
-                "empresa": "IEEE Network",
-                "periodo": "2020",
+                "empresa": "Instituto Federal de Santa Catarina",
+                "periodo": "2019",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "RECENT PATENTS ON COMPUTER SCIENCE",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE TRANSACTIONS ON CLOUD COMPUTING",
+                "periodo": "2019",
+                "cargo": ", Revisor de periódico."
+            },
+            {
+                "empresa": "IEEE Access",
+                "periodo": "2018",
                 "cargo": ", Revisor de periódico."
             }
         ],
@@ -112,44 +112,6 @@
         "ensino": "",
         "comissoes": "",
         "projetos": [
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "PROMOÇÃO À CIÊNCIA E TECNOLOGIA COM FOCO EM BIOECONOMIA E DESENVOLVIMENTO SUSTENTÁVEL",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Ramão Tiago Tiburski",
-                    "Dayane Filakoski dos Santos",
-                    "Jonas Mussoi Garcia",
-                    "Jonathan Gilliard Richter",
-                    "ANALICE MOSCHEN",
-                    "ALEXANDRE SARTORI",
-                    "CLARA ROSANE ARTMANN",
-                    "DANIEL FELIPE MORAES SCHAURICH",
-                    "JOAREZ VIRGILIO DA COSTA",
-                    "DANIELA BERNARDI",
-                    "LUCIANE BOFF COLLI",
-                    "ANA CARLA MEDEIROS TELES",
-                    "EVERLAN FAGUNDES",
-                    "OSEIAS TELES SILVA",
-                    "MARIENE PERES MORONA",
-                    "JAQUELINE BEATRIS ZANELLA"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Pedal-IFSC",
-                "periodo": "2020 - 2020",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Ramão Tiago Tiburski",
-                    "Luiz Alberto Vicari",
-                    "Vinícius Dal Bem",
-                    "Dayane Filakoski dos Santos",
-                    "Jonas Mussoi Garcia",
-                    "Jonathan Gilliard Richter"
-                ]
-            },
             {
                 "instituicao": "Universidade de Passo Fundo",
                 "nome": "SISALERT - Sistema de Previsão de Risco de Epidemias de Doenças de plantas",
@@ -192,6 +154,44 @@
                     "SERGIO F.",
                     "Avelino Zorzo",
                     "CÉSAR MARCON"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PROMOÇÃO À CIÊNCIA E TECNOLOGIA COM FOCO EM BIOECONOMIA E DESENVOLVIMENTO SUSTENTÁVEL",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Ramão Tiago Tiburski",
+                    "Dayane Filakoski dos Santos",
+                    "Jonas Mussoi Garcia",
+                    "Jonathan Gilliard Richter",
+                    "ANALICE MOSCHEN",
+                    "ALEXANDRE SARTORI",
+                    "CLARA ROSANE ARTMANN",
+                    "DANIEL FELIPE MORAES SCHAURICH",
+                    "JOAREZ VIRGILIO DA COSTA",
+                    "DANIELA BERNARDI",
+                    "LUCIANE BOFF COLLI",
+                    "ANA CARLA MEDEIROS TELES",
+                    "EVERLAN FAGUNDES",
+                    "OSEIAS TELES SILVA",
+                    "MARIENE PERES MORONA",
+                    "JAQUELINE BEATRIS ZANELLA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pedal-IFSC",
+                "periodo": "2020 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Ramão Tiago Tiburski",
+                    "Luiz Alberto Vicari",
+                    "Vinícius Dal Bem",
+                    "Dayane Filakoski dos Santos",
+                    "Jonas Mussoi Garcia",
+                    "Jonathan Gilliard Richter"
                 ]
             }
         ]

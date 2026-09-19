@@ -208,17 +208,8 @@
                 "periodo": "2019 - 2020",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Daniel Máximo Behenck",
-                    "Giovani Batista de Souza"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Robótica : Conhecer e Competir",
-                "periodo": "2023 - 2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Giovani Batista de Souza"
+                    "Giovani Batista de Souza",
+                    "Daniel Máximo Behenck"
                 ]
             },
             {
@@ -229,6 +220,15 @@
                 "equipe": [
                     "Giovani Batista de Souza",
                     "Marcio Adams"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Robótica : Conhecer e Competir",
+                "periodo": "2023 - 2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Giovani Batista de Souza"
                 ]
             },
             {
@@ -409,6 +409,12 @@
                 },
                 {
                     "autor": "SOUZA",
+                    "software": "G. B., Máquina de Empacotamento de copos descartáveis",
+                    "ano": "2001",
+                    "finalidade": "Contar e empacotar automaticamente destartáveis.."
+                },
+                {
+                    "autor": "SOUZA",
                     "software": "G. B., Máquina de Empacotamento de Pratos Descartáveis",
                     "ano": "2001",
                     "finalidade": "Controlar o empacotamento de pratos plásticos descartáveis."
@@ -424,12 +430,6 @@
                     "software": "G. B., SOUZA, E., MAGAGNIN, C., Automação de Móteis",
                     "ano": "2001",
                     "finalidade": "Controlar automáticamente as operações de um motel."
-                },
-                {
-                    "autor": "SOUZA",
-                    "software": "G. B., Máquina de Empacotamento de copos descartáveis",
-                    "ano": "2001",
-                    "finalidade": "Contar e empacotar automaticamente destartáveis.."
                 },
                 {
                     "autor": "SOUZA",
@@ -518,6 +518,12 @@
             ],
             "apresentacoes_trabalho": [
                 {
+                    "autores": "Jochen",
+                    "titulo": "H.,  Anacleto, L. F.,  SOUZA, G. B.,  Sensor Indutivo PNP",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFSC/IFC e UFSC."
+                },
+                {
                     "autores": "SOUZA",
                     "titulo": "G. B.,  Uggioni, P.P.,  Reis, D.L.,  SCHIMIDT, G. A.,  Robótica Educacional: Relato de Experiência no Câmpus Criciúma",
                     "ano": "2018",
@@ -526,12 +532,6 @@
                 {
                     "autores": "SANTOS",
                     "titulo": "D. R.,  ANDRE, G. A.,  SOUZA, G. B.,  Robô: Lógica, Programação e desafio: Velocidade",
-                    "ano": "2018",
-                    "instituicao_promotora": "IFSC/IFC e UFSC."
-                },
-                {
-                    "autores": "Jochen",
-                    "titulo": "H.,  Anacleto, L. F.,  SOUZA, G. B.,  Sensor Indutivo PNP",
                     "ano": "2018",
                     "instituicao_promotora": "IFSC/IFC e UFSC."
                 },
@@ -766,10 +766,10 @@
                 "ano": "2018"
             },
             {
-                "autores": "Jorge Pires",
-                "titulo": "SOUZA, G",
-                "evento": "B.; Ramos",
-                "local": "João Vitor; VICENTE, J. M. S.; Pereira, Gabriel Lucio; Sensores Óticos de Barreira. 6 SICT-SUL - Simpósio de Integração Científica e Tecnológica do Sul Catarinense, Criciuma",
+                "autores": "SOUZA, G. B.",
+                "titulo": "Jorge Pires; Ramos, João Vitor; VICENTE, J",
+                "evento": "M. S.; Pereira",
+                "local": "Gabriel Lucio; Sensores Óticos de Barreira. 6 SICT-SUL - Simpósio de Integração Científica e Tecnológica do Sul Catarinense, Criciuma",
                 "ano": "2017"
             },
             {
@@ -854,6 +854,13 @@
                 "instituicao": "Instituto Federal de Santa Catarina"
             },
             {
+                "orientando": "Leonardo Costa Cândido",
+                "titulo": "Robô com visão computacional",
+                "ano": "2018",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
                 "orientando": "Dyovane Rosa dos Santos",
                 "titulo": "Robô: Lógica, Programação e desafio Velocidade",
                 "ano": "2018",
@@ -891,13 +898,6 @@
             {
                 "orientando": "Fernando Kennedy Zamboti",
                 "titulo": "Robô de resgate com visão computacional",
-                "ano": "2018",
-                "curso": "Engenharia Mecatrônica",
-                "instituicao": "Instituto Federal de Santa Catarina"
-            },
-            {
-                "orientando": "Leonardo Costa Cândido",
-                "titulo": "Robô com visão computacional",
                 "ano": "2018",
                 "curso": "Engenharia Mecatrônica",
                 "instituicao": "Instituto Federal de Santa Catarina"

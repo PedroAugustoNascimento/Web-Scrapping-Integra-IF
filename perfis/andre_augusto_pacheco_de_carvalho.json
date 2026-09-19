@@ -82,13 +82,11 @@
                 "periodo": "2013",
                 "natureza": "Desenvolvimento",
                 "equipe": [
-                    "Ivânia dos Santos Neves",
-                    "José Miguel Martins Veloso",
+                    "Marcelo KnörichZuffo",
+                    "Moacyr Martucci Junior",
                     "André Augusto Pacheco de Carvalho",
                     "Allan Barbosa Costa",
                     "Bruno Souza Lyra Castro",
-                    "Marcelo KnörichZuffo",
-                    "Moacyr Martucci Junior",
                     "Alan César Belo Angeluci",
                     "Maria Ataide Malcher",
                     "Gervásio Protásio dos Santos Cavalcante",
@@ -96,6 +94,8 @@
                     "Marianne Kogut Eliasquevici",
                     "Alexandre Schirmer Kieling",
                     "Marcos Cesar da Rocha Seruffo",
+                    "Ivânia dos Santos Neves",
+                    "José Miguel Martins Veloso",
                     "Jasmine Priscyla Leite de Araújo",
                     "Fernanda Chocron Miranda",
                     "Suzana Cunha Lopes",
@@ -116,6 +116,18 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "ARGOS: Pulseira Assistiva de Apoio a Pessoas Deficientes Visuais",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "André Augusto Pacheco de Carvalho",
+                    "Fabricio de Sousa Farias",
+                    "jose de sousa ribeiro filho",
+                    "Eduardo Felipe Martins Da Cruz"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "nome": "Conhecendo Cametá",
                 "periodo": "2018 - 2018",
                 "natureza": "Extensao",
@@ -129,25 +141,13 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "ARGOS: Pulseira Assistiva de Apoio a Pessoas Deficientes Visuais",
-                "periodo": "2018 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "André Augusto Pacheco de Carvalho",
-                    "Fabricio de Sousa Farias",
-                    "jose de sousa ribeiro filho",
-                    "Eduardo Felipe Martins Da Cruz"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "nome": "Sistemas de Gerenciamento de Recursos",
                 "periodo": "2018 - 2019",
                 "natureza": "Extensao",
                 "equipe": [
-                    "André Augusto Pacheco de Carvalho",
                     "Mauro de Jesus Pereira",
                     "jose de sousa ribeiro filho",
+                    "André Augusto Pacheco de Carvalho",
                     "Natanael Garcia",
                     "Benedito Júnior Almeida Leão"
                 ]
@@ -272,13 +272,6 @@
         ],
         "trabalhos_eventos": [
             {
-                "autores": "SILVA, F. L.",
-                "titulo": "BATALHA, I",
-                "evento": "S.; BARROS",
-                "local": "F. J. B.; CARVALHO, A. A. P.; LIMA, W. G.; ARAUJO, J. P. L.; Modelagem em Larga Escala Utilizando Técnicas Multi-Declive em Ambientes Urbanos Arborizados. ENCOM 2019, Petrolina - PE",
-                "ano": "2019"
-            },
-            {
                 "autores": "VEIGA, E. N. M.",
                 "titulo": "SOUZA, M",
                 "evento": "D. R.; MORAES JUNIOR",
@@ -290,6 +283,13 @@
                 "titulo": "BATALHA, I",
                 "evento": "S.; ROCHA",
                 "local": "L.; FERREIRA, F. H.; GOMES, C. R.; BARROS, F. J. B.; CARVALHO, A. A. P.; Large-Scale Propagation Modeling in Corridors at the 10 GHz Frequency Spectrum. IMOC 2019, Aveiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, F. L.",
+                "titulo": "BATALHA, I",
+                "evento": "S.; BARROS",
+                "local": "F. J. B.; CARVALHO, A. A. P.; LIMA, W. G.; ARAUJO, J. P. L.; Modelagem em Larga Escala Utilizando Técnicas Multi-Declive em Ambientes Urbanos Arborizados. ENCOM 2019, Petrolina - PE",
                 "ano": "2019"
             },
             {

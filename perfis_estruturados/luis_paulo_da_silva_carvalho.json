@@ -1,0 +1,1198 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Identifying and Analyzing Software Concerns from Third-Party Components' Metadata",
+                "orientador": "Manoel Gomes de Mendonça Neto",
+                "ano_inicio": 2015,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em Sistemas e Computação",
+                "instituicao": "Instituto de Pesquisas Aplicadas da UNIFACS",
+                "titulo": "CCMF - Um Framework para Modelagem de Aplicações Web Sensíveis a Contexto Computacional",
+                "orientador": "Paulo Caetano da Silva",
+                "ano_inicio": 2009,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Informática",
+                "instituicao": "Universidade Católica do Salvador",
+                "ano_inicio": 1995,
+                "ano_fim": 2002
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "SOFTRON",
+                "ano_inicio": 2001,
+                "ano_fim": 2005,
+                "funcao": "Analista/Desenvolvedor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "SOFTRON",
+                "ano_inicio": 1999,
+                "ano_fim": 2000,
+                "funcao": "Programador",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "EPSLON",
+                "ano_inicio": 1997,
+                "ano_fim": 1997,
+                "funcao": "Desenvolvedor",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto do Recôncavo de Tecnologia",
+                "ano_inicio": 2005,
+                "ano_fim": 2013,
+                "funcao": "Arquiteto de sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "ZCR Informática",
+                "ano_inicio": 1998,
+                "ano_fim": 1998,
+                "funcao": "Programador",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Projetos pessoais",
+                "ano_inicio": 2022,
+                "ano_fim": 2023,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nGraduacao (2021) - Sistemas De Informação.\nEspecializacao (2020) - Pós-graduação Em Desenvolvimento Web.\nGraduacao (2020) - Sistemas De Informação.\nGraduacao (2015) - Sistemas De Informação.\nGraduacao (2015) - Sistemas De Informação.\nGraduacao (2015) - Sistemas De Informação.\nEnsino-medio (2014) .\nGraduacao (2013) - Engenharia Elétrica.\nGraduacao (2013) - Sistemas De Informação.\nEnsino-medio (2013) .\nGraduacao (2013) - Engenharia Elétrica.\nGraduacao (2013) - Sistemas De Informação.\nGraduacao (2013) - Sistemas De Informação.",
+        "comissoes": ": Instituto do Recôncavo de Tecnologia\nParticipante Em Célula De Arquitetura Visando Gerenciamento De Reuso De Componentes (2005 - 2013).",
+        "projetos": [
+            {
+                "instituicao": "SOFTRON",
+                "nome": "MAC Apropriação de Horas",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Mario Cesar Freitas"
+                ],
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "SOFTRON",
+                "nome": "SCS - Sistema de Contratação de Serviços",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Mario Cesar Freitas"
+                ],
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "SOFTRON",
+                "nome": "CORPUS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Mario Cesar Freitas"
+                ],
+                "ano_inicio": 1999,
+                "ano_fim": 2002
+            },
+            {
+                "instituicao": "SOFTRON",
+                "nome": "SEC - Sistemas de Estoque e Compras",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Mario Cesar Freitas"
+                ],
+                "ano_inicio": 2003,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "EPSLON",
+                "nome": "Sistema de Sobras e Ingestas",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho"
+                ],
+                "ano_inicio": 1997,
+                "ano_fim": 1997
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Mapeador de Drivers & Softwares",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "POSITIVO Informática - Simulador de Cadeia Alimentar",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Furukawa ACS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "SMS GMC - Gerenciamento de Missões Críticas",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Luis Fernando"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "SMS Alerta 24h (https://www.alerta24h.com.br)",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Luis Fernando"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Deslocamento",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "POSITIVO Informática - Mesa Educacional Alfabeto (http://www.positivoteceduc.com.br/mesas-educacionais-alfabeto/)",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Guia Multimídia",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Inácio Szabó",
+                    "Luis Paulo Da Silva Carvalho"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - SIGAH",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Teste de áudio",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Rastreamento",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - SGD",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Diagnóstico",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Restauração",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Teste de Tablets",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Atualizador de Sistema",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - ISO de Testes",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - Teste de modem",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Semp Toshiba Informática - CD de Drivers",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "AUTOLOAD (http://www.automind.com.br/produtos-detalhe.php?id=32 & https://www.youtube.com/watch?v=EWgsJ_CL1M8)",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Allan Rocha"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "Nodes",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Mario Cesar Freitas"
+                ],
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "DOCTEC - Documentação Técnica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Mario Cesar Freitas"
+                ],
+                "ano_inicio": 2001,
+                "ano_fim": 2003
+            },
+            {
+                "instituicao": "Instituto do Recôncavo de Tecnologia",
+                "nome": "SAMSUNG Impressoras",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Inácio Szabó"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Programação Para Integração Com Sensores IMU10DOF Sobre Barramento I2C",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Iane Macedo Carvalho",
+                    "Brena Fernandes Gomes",
+                    "Gabriel Almeida Santos",
+                    "Igor Matos De Andrade Vanderlei",
+                    "Leonardo Sampaio Figueira",
+                    "Rogério Da Silva Fiscina"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "LUA-BC: Luneta Automatizada de Baixo Custo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Iane Macedo Carvalho",
+                    "Brena Fernandes Gomes"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Drone MARMITA: um drone de baixo custo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "André Almeida Santos",
+                    "Genival Alves",
+                    "Murilo Breno",
+                    "Eber Chagas"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SGC - Sistema de Gerenciamento de Colaboradores",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Pablo Matos",
+                    "Hugo Santos Brito",
+                    "Maria Das Neves De Jesus"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "E-Vent-Br-Mob: Sistema Móvel de Gerenciamento de Eventos Acadêmicos",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Pablo Matos",
+                    "Cleiton Amorim Colqueiro",
+                    "Arthur Oliveira Ribeiro"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "E-Vent-Br: Sistema Web de Gerenciamento de Eventos Acadêmicos",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Moara Brito",
+                    "Luis Paulo Da Silva Carvalho",
+                    "Pablo Matos",
+                    "Cremildo Lima",
+                    "Ivick Roberta Ferreira",
+                    "Lucas Amparo Barbosa"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Capacitação Em Eletrônica Para Automações De Vôo Para Drones",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Genival Alves",
+                    "André Almeida",
+                    "Murilo Teixeira"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Programação Genérica ? Programação De Softwares Orientados A Objetos Utilizando O Paradigma Genérico (Generics)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Pablo Matos",
+                    "Luiz Fernando Cardeal",
+                    "Liojes De Oliveira Carneiro",
+                    "Matheus Sampaio Rodrigues Dos Santos",
+                    "Fagner Pinheiro Santos",
+                    "Ítalo Miranda De Novais",
+                    "Randler Ferraz Almeida"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Dívida Técnica - Estudos e Ferramentas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Isaac De Jesus Silva",
+                    "Matheus Sampaio Rodrigues Santos"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "RFSUS - Uma solução para atendimento e monitoramento de pacientes do SUS",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Vitor Campos",
+                    "André Almeida"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Automação para Telescópios",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Pablo Matos",
+                    "Iane Macedo Carvalho",
+                    "Brena Fernandes Gomes",
+                    "Vitor Campos",
+                    "André Almeida",
+                    "Luiz Fernando Cardeal",
+                    "Fagner Pinheiro Santos",
+                    "Edvaldo Moreira Lemos Júnior",
+                    "Elmiro Souza De Oliveira Júnior"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Saúde Móvel - Solução de Software Móvel para Apoio ao Programa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Cleiton Amorim Colqueiro"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Architectural Knowledge Suite",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "TreeCo",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Joice Souza De Andrade",
+                    "Tácio Luís De Andrade Conceição"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "ZCR Informática",
+                "nome": "SGC - Sistema de Gerenciamento de Condomínios",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho",
+                    "Rubem Delgado"
+                ],
+                "ano_inicio": 1998,
+                "ano_fim": 1998
+            },
+            {
+                "instituicao": "Projetos pessoais",
+                "nome": "IMAGE.ED",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Luis Paulo Da Silva Carvalho"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CARVALHO",
+                    "titulo": "L. P. S.,  Desafios em TI (FTC)",
+                    "ano": "2017",
+                    "instituicao_promotora": "FTC."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "titulo": "L. P. S.,  Desafios em TI (IFBA)",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFBA."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CARVALHO",
+                    "curso": "L. P. S.,  COSTA, A. S.,  COSTA, B. S.,  Academia Java",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "FLORES, C. C.;  Arquitetura de Software apoiada por Inteligência Artificial - Exemplos Didáticos de uso de ADRs e Ferramentas MCP para Automação e Suporte a Decisões e Visões Arquiteturais",
+                "ano": "2026",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786502218501 (Publicado)."
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "BRITO, H. S.;  SOUZA, I. R. C.;  SOUZA, I. R. C.;  SILVA, I. J.;  NOVAIS, I. M.;  ARAUJO, M. A.;  TEIXEIRA, M. C.;  SANTOS, M. S. R.;  PRADO, R. M. S.;  ALMEIDA, R. F.;  GOMES FILHO, A. R. M.;  PAIVA, R. S.;  SOARES, A. S. S.;  SILVA, A. P. A.;  GOMES, C. L.;  ABREU, D. B. M.;  LEMOS JUNIOR, E. M.;  SANTOS, F. P.;  PIRES, G. T.;  et.al;  Web das Coisas: Exemplos Práticos de Baixo Custo (https://www.dropbox.com/s/jwv4zq3m36rjr7a/IFBA-BSI-2015.1-SistemasEmbarcados-v1.0.pdf?dl=0)",
+                "ano": "2016",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788566420067, Vitória da Conquista (Organizado(a))."
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "TEIXEIRA, M. C.;  PRADO, R. M. S.;  ALMEIDA, R. F.;  ARAUJO, S. S.;  GOMES FILHO, A. R. M.;  SOARES, A. S. S.;  JESUS, C. O.;  GOMES, C. L.;  SANTOS, F. P.;  NOVAIS, I. M.;  SILVA, J. P.;  ARAUJO, M. A.;  Softwares Embarcados com Java: Análise e Modelagem (https://www.dropbox.com/s/owmrcd1dfjdroo2/IFBA-BSI-2016.1-AMSII-Livro-v1.0.pdf?dl=0)",
+                "ano": "2016",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788566420081, Vitória da Conquista (Organizado(a))."
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "SOARES, L. P.;  SILVA, M. V. O.;  DAMACENO, R. P.;  GOMES FILHO, A. R. M.;  SOBREIRA, A. D.;  TELES, B. S.;  BELTRAMI, D. M.;  MACEDO, D. S.;  ABREU, D. B. M.;  SOUZA, I. R. C.;  SILVA, I. J.;  Programação Móvel: Integração Android com SQLite (https://www.dropbox.com/s/8wvxevwqioxkqsy/IFBA-BSI-2016.1-ProgramacaoMovel-v1.0.pdf?dl=0)",
+                "ano": "2016",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788566420098, Vitória da Conquista (Organizado(a))."
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "CARIANHA, M. S.;  SANTOS, M. S. R.;  BRITO, M. S.;  CARVALHO, A. S.;  ANDRADE, B. A. L.;  COQUEIRO, C. A.;  SANTOS, D. L.;  MORAIS, D. S. B.;  SANTOS, F. F.;  BRITO, H. S.;  SOUZA, I. R. C.;  Padrões de Projeto para Aplicações Móveis: Exemplos Práticos de Análise e Modelagem (https://www.dropbox.com/s/rm1tlqhddekzcgy/IFBA-BSI-2015.2-AMSII-Livro-v1.0.pdf?dl=0)",
+                "ano": "2016",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788566420074, Vitória da Conquista (Organizado(a))."
+            },
+            {
+                "autores": "Carvalho, Luis Paulo da Silva",
+                "titulo": "Novais, Renato Lima;  Salvador, Laís do Nascimento;  Neto, Manoel Gomes de Mendonça;  Lecture Notes in Business Information Processing. Título do capítulo: An Approach for Semantically-Enriched Recommendation of Refactorings Based on the Incidence of Code Smells",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9783319933740."
+            },
+            {
+                "autores": "CARVALHO, Luis Paulo da Silva.",
+                "titulo": "SILVA, P. C.;  Semantics in Action - Applications and Scenarios. Título do capítulo: CCMF, Computational Context Modeling Framework - An Ontological Approach to Develop Context-Aware Web Applications",
+                "ano": "2012",
+                "informacoes_adicionais": "ISBN: 9789535105."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "FREIRE, S.;  MENDES, T. S.;  GOMES, F. G. S.;  NOVAIS, R. L.;  MENDONCA, M. G.;  Using Third-Party Components? Metadata to Analyze Cross-cutting Concerns",
+                "ano": "2024",
+                "periodico": "JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT. ISBN: 21951721   ."
+            },
+            {
+                "autores": "DA S. CARVALHO, LUIS PAULO",
+                "titulo": "NOVAIS, RENATO L.;  MENDONÇA, MANOEL;  Relationships between design problem agglomerations and concerns having types and domains of software as transverse dimensions",
+                "ano": "2020",
+                "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (IMPRESSO). ISBN: 01046500   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, ISAAC DE JESUS",
+                "titulo": "SANTOS, MATHEUS SAMPAIO R",
+                "evento": "; RAMOS",
+                "local": "LEANDRO LOPES; Carvalho, Luis Paulo da Silva; VISMELLS: An Interactive Visualization for Identifying and Evaluating the Effects of Code Smells on Software Projects. 2018 XLIV Latin American Computer Conference (CLEI), São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "DA S. CARVALHO, LUIS PAULO",
+                "titulo": "NOVAIS, RENATO; MENDONÇA, MANOEL; Investigating the Relationship between Code Smell Agglomerations and Architectural Concerns",
+                "evento": "the VII Brazilian Symposium on Software Components",
+                "local": "Architectures, and Reuse, Sao Carlos",
+                "ano": "2018"
+            },
+            {
+                "autores": "SOARES, LETÍCIA PORTO",
+                "titulo": "SANTOS, WDSON COSTA; CARVALHO, CAMILO ALVES; Carvalho, Luis Paulo da Silva; SILVA, PAULO HENRIQUE TEIXEIRA; DE ARAÚJO, MANUELA AMARAL; QuiRA: An Augmented Reality Application to Support Chemistry Learning",
+                "evento": "XXIV Simpósio Brasileiro de Sistemas Multimídia e Web",
+                "local": "Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "NOVAIS, R",
+                "evento": "; SALVADOR",
+                "local": "L. N.; MENDONCA , M.; An Ontology-Based Approach to Analyze the Occurrence of Code Smells in Software. International Conference on Enterprise Information Systems (ICEIS), Porto",
+                "ano": "2017"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "MENDONCA NETO, M",
+                "evento": "G.; NOVAIS",
+                "local": "R.; A Method for Identifying Refactoring Opportunities Based on Effort Comprehension and Code Smells. WEPGCOMP, Salvador",
+                "ano": "2017"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "MENDONCA NETO, M",
+                "evento": "G.; NOVAIS",
+                "local": "R.; A Method for Identifying, Prioritizing, and Defining Refactoring Opportunities Based On Effort Comprehension and Incidence of Code Smells. WTDSoft, Fortaleza",
+                "ano": "2017"
+            },
+            {
+                "autores": "MENDES, T.",
+                "titulo": "GOMES, F",
+                "evento": "; CARVALHO",
+                "local": "L. P. S.; NOVAIS, R.; MENDONCA , M.; RepositoryMiner ? uma ferramenta extensível de mineração de repositórios de software para identificação automática de Dívida Técnica. CBSOFT, Fortaleza",
+                "ano": "2017"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "FARIAS, M",
+                "evento": "A. F.; SPINOLA",
+                "local": "R. O.; COLACO JUNIOR, M.; MENDONCA , M.; NOVAIS, R.; A Systematic Mapping Study on Mining Software Repositories. The 31st ACM/SIGAPP Symposium on Applied Computing, Pisa",
+                "ano": "2016"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "BRITO, M",
+                "evento": "; Ocorrência de Padrões de Projeto em Software: Um Levantamento das Ferramentas de Mineração de Padrões. ERBASE 2016",
+                "local": "Alagoas",
+                "ano": "2016"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "SOUZA, I",
+                "evento": "R. C.; SOUZA",
+                "local": "I. R. C.; NOVAIS, I. M.; SOARES, A. S. S.; Uma Proposta de Arquitetura de Software Multicamadas para a Web das Coisas. ERBASE 2016, Alagoas",
+                "ano": "2016"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "BRITO, M",
+                "evento": "S.; ANDRADE",
+                "local": "B. A. L.; PASSOS, A. F. O.; Aderência a Padrões de Projeto: um mapeamento sobre ocorrências de Padrões de Projeto GOF em Softwares de Grande Porte. Simposio Mineiro de Sistemas de Informação, Belo Horizonte",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALMEIDA, A.",
+                "titulo": "CARVALHO, L",
+                "evento": "P. S.; SOUZA",
+                "local": "I. R. C.; SOUZA, I. R. C.; RFSUS - Software para Automaização do Sistema Único de Saúde (SUS) através do do Uso de RFID e Biometria. CONNEPI, Macéio",
+                "ano": "2016"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "SANTOS, A",
+                "evento": "A.; CHAGAS",
+                "local": "E.; CAMPOS, V.; Uma Automação para Transmissão de Comandos para um Drone de Baixo-Custo sobre a Plataforma MultiWii. ERBASE, Salvador",
+                "ano": "2015"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "FIGUEIRA, L",
+                "evento": "S.; Diagnóstico De Desbalanceamento Em Equipamentos Rotativos Através Da Análise De Vibração. ERBASE",
+                "local": "Salvador",
+                "ano": "2015"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "NOVAIS, R",
+                "evento": "; MENDONCA NETO",
+                "local": "M. G.; VisMinerService A REST Web Service for Source Mining. http://vem2015.dcc.ufla.br/, Belo Horizonte",
+                "ano": "2015"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "OLIVEIRA, R",
+                "evento": "V. V.; ControleVozAutoRes - acessibilidade através de controle de voz para uma solução de automação residencial. ERBASE 2014",
+                "local": "Feira de Santana",
+                "ano": "2014"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "RIBEIRO, L",
+                "evento": "; ContextoAutoRes - uma solução para adaptação contextual de residencias através da integração de softwares domóticos e RFID. ERBASE 2014",
+                "local": "Feira de Santana",
+                "ano": "2014"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "CAMPOS, V",
+                "evento": "; TesteAutoRes - uma solução para testes de automações residenciais baseadas na integração de sensores e JUNIT. CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "São Luis",
+                "ano": "2014"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "SILVA, P",
+                "evento": "C.; Computational Contexto to Promote Geographic Information Systems toward Human-Centric Perspectives. ICCSA - International Conference on Computational Science and Its Applications",
+                "local": "Salvador",
+                "ano": "2012"
+            },
+            {
+                "autores": "CARVALHO, L. P. S.",
+                "titulo": "SILVA, P",
+                "evento": "C.; CCMD - Computational Context Modeling Diagram and WSBPEL Integration. IADIS APPLIED COMPUTING",
+                "local": "Rio de Janeiro",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luiz Henrique de Castro Ramos",
+                "titulo": "Ideatrace: Uma Ferramenta MicroSaaS baseada em IA para a Transformação de Diálogos de Reunião em Documentoação de Requisitos Estruturada",
+                "ano": "2026",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Alisson Rodrigues Fernandes",
+                "titulo": "Uma Arquitetura baseada em Eventos para Processamento de Documentos por Inteligências Artificiais: O Caso dos Editais do IFBA",
+                "ano": "2026",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Isabela Gusmão Rocha",
+                "titulo": "Utilizando Grandes Modelos de Inteligência Artificial como Avaliadores de UI/UX: Um Estudo sobre o Aplicativo My Book List para Organização de Leitura Digital",
+                "ano": "2026",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Khian Gabriel Brito Fortunato",
+                "titulo": "Um Digestor Baseado em Inteligência Artificial para Processamento e Disponibilidade de Informações sobre Editais de Bolsas de Ensino",
+                "ano": "2026",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Samuel Alves Lopes",
+                "titulo": "Uma Arquitetura para um Aplicativo de Visualização de Objetos Educacionais 3D: o caso EducaRA",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Daniel do Espirito Santo Correia",
+                "titulo": "Uma Solução Modularizada e Plugável para Indexação de Informações sobre Trabalhos Acadêmicos escritos em Latex",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Daniel Santos Prado",
+                "titulo": "Reserve+ App: Aplicativo para Reservas de Ambientes",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Daiane Porcena Alves",
+                "titulo": "AgileDevs: Uma Plataforma Móvel para Compartilhamento de Experiências com Métodos Ágeis no Desenvolvimento de Software",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Luan Alves Cordeiro Santos",
+                "titulo": "Uma Arquitetura Adaptativa para Aplicativos Móveis baseados em Visão Computacional apoiada por IA: Reconhecendo Objetos do Mundo Real",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Felipe Ferreira Rocha",
+                "titulo": "Uma Arquitetura e uma Aplicação Web baseada em monitoramento de Sistemas Embarcados utilizando OPC UA: O caso do Abastecimento de Água em Zonas Rurais",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Gerdany Gonçalves da Conceição Júnior",
+                "titulo": "Uma Arquitetura baseada em Spring AI para Soluções de Software Conversacionais: um Chatbot para Orientação Vocacional",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jefferson Cerqueira de Oliveira",
+                "titulo": "Uma Arquitetura para Automação de Controle de Acessos a Ambientes Protegidos: o Caso das Trancas Eletrônicas do IFBA",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ana Kessilly Chiachio Cerqueira",
+                "titulo": "Utilizando o Coeficiente de Concordância de Kappa para Avaliar uma Análise de Sentimentos apoiada por IA",
+                "ano": "2025",
+                "curso": "Pós-graduação em Desenvolvimento Web",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Danilo Guimarães Souza Azevedo",
+                "titulo": "Julgamento Automatizado de Agentes Conversacionais: Usando LLM-as-a-Judge para avaliar um software baseado em Inteligência Artificial para Ensino de Computação",
+                "ano": "2025",
+                "curso": "Pós-graduação em Desenvolvimento Web",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Amanda Prates Caetano",
+                "titulo": "Dados Saúde Web: Implementação de um Sistema para Autogestão da Saúde",
+                "ano": "2025",
+                "curso": "Pós-Graduação em Desenvolvimento Web",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jenifer de Jesus Jang",
+                "titulo": "Dados Saúde Web: Proposta de Redesign de um Sistema Web para Autogestão da Saúde",
+                "ano": "2025",
+                "curso": "Pós-Graduação em Desenvolvimento Web",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Melques Santos Paiva",
+                "titulo": "TutorIA, um Agente para ensino de programação apoiada por inteligência artificial",
+                "ano": "2025",
+                "curso": "Pós-Graduação em Desenvolvimento Web",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Filipe L",
+                "titulo": "Oliveira.  Uma arquitetura para Softwares Móveis orientada à Observabilidade: O caso do Ibricks",
+                "ano": "2024",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Edgard H",
+                "titulo": "Santos Lopes.  Uma Arquitetura de Microsserviços Baseada em Eventos para Gerenciar Ambientes Virtuais de Aprendizado e Escolares",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Igor Cotrim Santos",
+                "titulo": "Uma Arquitetura de Software para o Gerenciamento de Reservas de Ambientes - Gerenciando Ambientes do IFBA",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Vitor Lima Lago Santos",
+                "titulo": "Desenvolvimento de um Aplicativo Web Progressivo: Demonstrando os Princípios e Práticas de Criação de PWAs",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Pedro Henrique de Jesus Silva",
+                "titulo": "Aplicação de Gamificação em Softwares Voltados à Educação Virtual: Desenvolvendo uma plataforma online para aprendizado gamificado de programação",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Marcos Antônio Maia Sampaio Júnior",
+                "titulo": "Comparando Flutter com React-Native para a Criação de Aplicativo Móveis Híbridos: O Caso da App Melhores Marcas",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Joice Souza de Andrade",
+                "titulo": "Treeco, aplicativo para monitoramento das árvores do IFBA Campus Vitória da Conquista",
+                "ano": "2023",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Hugo dos Santos Brito",
+                "titulo": "Implantação de Comércio Eletrônico: Utilização de Ferramentas de Marketing Digital e Comércio Eletrônico focada em Boas P&#341;aticas",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Pedro Amorim Fortunato da Luz",
+                "titulo": "Uma Arquitetura de Serviços Orientada a Eventos para Emissão de Alertas sobre Queimadas",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Victor Lima Ferreira",
+                "titulo": "Aplicando Princípios de Arquitetura Limpa: Um Estudo de Caso de Refatoração de uma Aplicação Utilizando os Princípios S.O.L.I.D.",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Mateus Abade de Oliveira",
+                "titulo": "Desenvolvimento de uma Arquitetura para Auxiliar na Implementação de Chatbots para Atendimentos de Suporte a Clientes de Micro e Pequenas Empresas",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Pedro Augusto Reis Silva",
+                "titulo": "Arquitetura para um Aplicativo Educativo de Histórias Interativas Utilizando a Plataforma UNITY: Conhecendo o Passado de Vitória da Conquista",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Matheus Sampaio Rodrigues Santos",
+                "titulo": "Aplicando Orientação a Comportamento na Definição e Testes de Microsserviços",
+                "ano": "2021",
+                "curso": "Pós-graduação em Desenvolvimento Web",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Cleiton Amorim Coqueiro",
+                "titulo": "Rastreabilidade de Equipamentos Audiovisuais em Instituição de Ensino no Contexto de Internet das Coisas",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Uiliane Silva Teixeira",
+                "titulo": "Uma Arquitetura Baseada em Micro-Frontend e Microsserviços Embarcados em Docker para Aplicativos Móveis",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Carlos Eduardo da Silva Oliveira",
+                "titulo": "Aplicando Boas Práticas de Segurança da Informação no Desenvolvimento de Aplicativos Móveis",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Marco Antonio Santos Silva",
+                "titulo": "Uma Abordagem de uso de GraphQL para a Análise e Processamento de Dados Ligados",
+                "ano": "2020",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Matheus Sampaio Rodrigues Santos",
+                "titulo": "Detecção e Visualização de Code Smells Utilizando a Plataforma Visminer",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Moara Sousa Brito",
+                "titulo": "Ocorrência de Padrões de Projeto em Software: Um Estudo sobre Técnicas e Ferramentas de Mineração de Padrões em Projetos de Software do GITHUB",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Warlley Vinicius",
+                "titulo": "Avaliação de Usabilidade dos Sistemas de Controle Acadêmico do Ensino Superior do IFBA campus Vitória da Conquista",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ivick Roberta",
+                "titulo": "Aplicações web sob os paradigmas de Web Design Responsivo e Padrão MVC",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Leonardo Sampaio Figueira",
+                "titulo": "Diagnóstico de Desbalanceamento em Equipamentos Rotativos através da Análise de Vibração",
+                "ano": "2015",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ícaro Ramires",
+                "titulo": "RFSUS - Uma solução de atendimento e monitoramento de pacientes para o SUS",
+                "ano": "2015",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Cleiton Amorim Coqueiro",
+                "titulo": "Saúde Móvel - Solução de Software Móvel para Apoio ao Programa ?Melhor em Casa?",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Igo Romero Costa de Sousa",
+                "titulo": "Internet das Coisas: Compreendendo e Compartilhando Conhecimento sobre Internet das Coisas",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Iane Macedo Carvalho",
+                "titulo": "LUA-BC: Luneta Automatizada de Baixo Custo",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "André Almeida Santos",
+                "titulo": "DRONE MARMITA: Um drone automatizado de baixo custo",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Brena Fernandes Gomes",
+                "titulo": "LUA-BC: Luneta Automatizada de Baixo Custo",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Francisco José Meira de Miranda",
+                "titulo": "Prototipação de automações residenciais utilizando plataformas de software e dispositivos eletrônicos com licenças de uso livres e/ou de baixo custo",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Laércio Ribeiro dos Santos",
+                "titulo": "Parametrização de automação residencial com propriedades ubíquas",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Victor Ricardo Viana de Oliveira",
+                "titulo": "Reconhecimento de comando de voz para uma automação residencial",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Vitor Campos Cardoso",
+                "titulo": "Teste de protótipos de automações residenciais",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    }
+}

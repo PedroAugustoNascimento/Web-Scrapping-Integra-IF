@@ -95,6 +95,11 @@
             },
             {
                 "empresa": "Universidade Federal do ABC",
+                "periodo": "2010 - 2010",
+                "cargo": "Monitor, Livre, Funções de uma Variável."
+            },
+            {
+                "empresa": "Universidade Federal do ABC",
                 "periodo": "2010 - 2021",
                 "cargo": "Técnico de tecnologia da informação, Empregado."
             },
@@ -102,11 +107,6 @@
                 "empresa": "Universidade Federal do ABC",
                 "periodo": "2010 - 2010",
                 "cargo": "Monitor, Livre, Funções de Várias Variáveis."
-            },
-            {
-                "empresa": "Universidade Federal do ABC",
-                "periodo": "2010 - 2010",
-                "cargo": "Monitor, Livre, Funções de uma Variável."
             },
             {
                 "empresa": "Universidade Federal do ABC",
@@ -160,18 +160,33 @@
             },
             {
                 "empresa": "Instituto Federal do Amazonas - Campus Zona Leste",
-                "periodo": "2025",
-                "cargo": "Professor de Curso FIC."
+                "periodo": "2025 - 2025",
+                "cargo": "Professor de Curso FIC, Bolsista."
             },
             {
                 "empresa": "Instituto Federal do Amazonas - Campus Zona Leste",
-                "periodo": "2024",
-                "cargo": "Professor de Curso Lato Sensu."
+                "periodo": "2024 - 2024",
+                "cargo": "Professor de Curso Lato Sensu, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal do Amazonas - Campus Zona Leste",
+                "periodo": "2024 - 2024",
+                "cargo": "Professor de Curso Lato Sensu, Bolsista."
+            },
+            {
+                "empresa": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL",
+                "periodo": "2026 - 2026",
+                "cargo": "Professor de Extensão, Bolsista."
             },
             {
                 "empresa": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL",
                 "periodo": "2025",
                 "cargo": "Professor EBTT de Matemática, Servidor público."
+            },
+            {
+                "empresa": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL",
+                "periodo": "2025 - 2026",
+                "cargo": "Professor de Extensão, Bolsista."
             },
             {
                 "empresa": "NEXUS - REVISTA DE EXTENSÃO DO IFAM",
@@ -180,9 +195,19 @@
             }
         ],
         "direcao_administracao": ": IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL\nDireção de Ensino Superior (2026) .",
-        "ensino": ": IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL\nGraduacao (2026 - 2026) - Engenharia Da Computação.\nGraduacao (2026) - Engenharia De Controle E Automação.\nEnsino-medio (2026) .\nGraduacao (2026) - Tecnologia Em Eletrônica Industrial.\nEnsino-medio (2025 - 2025) .\nGraduacao (2025 - 2025) - Engenharia Da Computação.\nExtensão Universitária: Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nInstituto Federal de Educação, Ciência e Tecnologia do Amazonas: Realização Do Curso De Excel Básico (2023 - 2023) - Realização Do Curso De Excel Básico.",
-        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nComitê Institucional De Iniciação Científica (2023 - 2025).\nMembro Titular Do Colegiado Do Curso De Licenciatura Em Ciências Agrárias (2022 - 2024).\nMembro Do Comitê Técnico Científico (2022 - 2025).",
+        "ensino": ": IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL\nGraduacao (2026 - 2026) - Engenharia Da Computação.\nGraduacao (2026 - 2026) - Tecnologia Em Eletrônica Industrial.\nEnsino-medio (2026) .\nGraduacao (2026) - Engenharia Da Computação.\nEnsino-fundamental (2026 - 2026) .\nGraduacao (2026 - 2026) - Engenharia De Controle E Automação.\nEnsino-medio (2025 - 2025) .\nGraduacao (2025 - 2025) - Engenharia Da Computação.\nEnsino-fundamental (2025 - 2026) .\nExtensão Universitária: Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nInstituto Federal de Educação, Ciência e Tecnologia do Amazonas: Realização Do Curso De Excel Básico (2023 - 2023) - Realização Do Curso De Excel Básico.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nComitê Institucional De Iniciação Científica (2023 - 2025).\nMembro Do Comitê Técnico Científico (2022 - 2025).\nMembro Titular Do Colegiado Do Curso De Licenciatura Em Ciências Agrárias (2022 - 2024).",
         "projetos": [
+            {
+                "instituicao": "Universidade Federal do ABC",
+                "nome": "Síntese e caracterização de um compósito híbrido de azul da Prússia e polipirrol",
+                "periodo": "2006 - 2007",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Pablo Alejandro Fiorito"
+                ]
+            },
             {
                 "instituicao": "Universidade Federal do ABC",
                 "nome": "Excel Básico",
@@ -210,16 +235,6 @@
                 "equipe": [
                     "Eduardo Palhares Júnior",
                     "Rafael Lemes dos Santos"
-                ]
-            },
-            {
-                "instituicao": "Universidade Federal do ABC",
-                "nome": "Síntese e caracterização de um compósito híbrido de azul da Prússia e polipirrol",
-                "periodo": "2006 - 2007",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Eduardo Palhares Júnior",
-                    "Pablo Alejandro Fiorito"
                 ]
             },
             {
@@ -257,11 +272,61 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Aranouá",
+                "periodo": "2020 - 2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Jeconias Ferreira dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "AX Academy Digital Transformation",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Jeconias Ferreira dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Bio Caroço",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Wenndisson da Silva Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Excel Básico",
                 "periodo": "2023 - 2023",
                 "natureza": "Extensao",
                 "equipe": [
                     "Eduardo Palhares Júnior"
+                ]
+            },
+            {
+                "instituicao": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL",
+                "nome": "Projeto de Extensão Partiu IF 2 edição",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Rondon Tatsuta Yamane Baptista de Souza"
+                ]
+            },
+            {
+                "instituicao": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL",
+                "nome": "Projeto de Extensão Partiu IF",
+                "periodo": "2025 - 2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eduardo Palhares Júnior",
+                    "Rondon Tatsuta Yamane Baptista de Souza"
                 ]
             }
         ]
@@ -464,6 +529,13 @@
             }
         ],
         "trabalhos_eventos": [
+            {
+                "autores": "BERMEJO, G. S.",
+                "titulo": "PALHARES JÚNIOR, E",
+                "evento": "; ALMEIDA",
+                "local": "J. M.; AGUERO, N. F.; SOUZA, A. H.; SOUZA, W. S.; MARTINIANO, A. L.; Natural language processing and colorectal cancer: automated systematic review of trends in prediction algorithms and main risk factors. IV Conferência Internacional de Políticas Públicas e Ciência de Dados, Mirandela",
+                "ano": "2026"
+            },
             {
                 "autores": "PALHARES JÚNIOR, E.",
                 "titulo": "PENACHI, R",

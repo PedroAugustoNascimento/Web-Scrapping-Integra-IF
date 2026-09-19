@@ -1,0 +1,180 @@
+{
+    "campus": "- Campus Bento Gonçalves",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "titulo": "Inferência de Redes Regulatórias utilizando Algoritmos de Estimação de Distribuição",
+                "orientador": "Adriano Velasque Werhli",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Computação",
+                "instituicao": "Claretiano Centro Universitário",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2007,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Analista em Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": "Núcleo de Tecnologia da Informação da Universidade Federal do Rio Grande - FURG"
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Tutor Bolsista a distância",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2010,
+                "ano_fim": 2014,
+                "funcao": "Técnico em Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": "NTI - Núcleo de Tecnologia da Informação"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Prof. de Ensino Básico",
+                "vinculo": "Técnico e Tecnológico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande",
+                "nome": "O Problema das P-Medianas Aplicado ao Transporte Coletivo de Passageiros da Cidade do Rio Grande",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Thyago Salvá",
+                    "Catia Maria Dos Santos Machado"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SALVÁ",
+                    "titulo": "T.,  Emmendorfer, Leonardo R.,  Werhli, Adriano V.,  Aplicação de um Algoritmo de Estimação de Distribuição para inferir Redes Regulatórias Genéticas",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande - FURG."
+                },
+                {
+                    "autores": "SALVÁ",
+                    "titulo": "T.,  XSLT",
+                    "ano": "2010",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Sul."
+                },
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "L. A.,  SALVÁ, T.,  Sistema de Frequências Escolar",
+                    "ano": "2007",
+                    "instituicao_promotora": "Centro Federal de Educação Tecnológica de Santa Catarina."
+                },
+                {
+                    "autores": "SALVÁ",
+                    "titulo": "T.,  PEREIRA, L. A.,  SFE - Sistema de Frequência Escolar",
+                    "ano": "2006",
+                    "instituicao_promotora": "Universidade Federal de Santa Catarina."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SALVÁ",
+                    "curso": "T.,  Curso de PHP Básico",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "SALVÁ",
+                    "curso": "T.,  Conhecendo PHP",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "SALVÁ",
+                    "curso": "T.,  Páginas Dinâmicas: Levando Interatividade do Desktop para WEB",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SALVÁ",
+                    "curso": "T.,  PHP Básico",
+                    "ano": "2013"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SALVÁ",
+                    "evento": "T.,  X Mostra da Produção Universitária",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SALVÁ, T.",
+                "titulo": "SILVA, R",
+                "evento": "S.; VARGAS",
+                "local": "A. P.; MENDIZABAL, O. M.; BlueGroups: Middleware para Construção de Aplicações Distribuídas em Dispositivos Móveis. Computer on the Beach, Florianópolis",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.483668804168701,
+            "indian": 6.5416717529296875,
+            "black": 2.1320102214813232,
+            "white": 26.668415069580078,
+            "middle eastern": 17.147253036499023,
+            "latino hispanic": 40.02698516845703
+        }
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "campus": "- Campus Presidente Figueiredo",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica e Informática Industrial",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "titulo": "MODELOS E MÉTODOS EXATOS PARA BALANCEAMENTO ERGONÔMICO DE LINHAS COM MÚLTIPLOS OPERADORES",
+                "orientador": "Leandro Magatão",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Algoritmo de seleção de políticas de migração de máquinas virtuais em função de diferentes demandas de recursos",
+                "orientador": "Celso Barbosa Carvalho",
+                "ano_inicio": 2021,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA Executivo em Gestão e Negócios do Desenvolvimento Regional Sustentável",
+                "instituicao": "Universidade de Brasília",
+                "orientador": "Denize Lourezo Borba da Cruz",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "especialização em MBA Executivo em Gerenciamento de Projetos",
+                "instituicao": "Fundação Getúlio Vargas/Amazonas",
+                "orientador": "Luiz Antonio Joia",
+                "ano_inicio": 2001,
+                "ano_fim": 2002
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia Eletrica com Ênfase em Instalações Residenciais",
+                "instituicao": "Instituto Universitário Cândido Mendes",
+                "orientador": "Alice Botelho Duarte",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Eletrônica",
+                "instituicao": "Centro Fed Educacao Tecnol do Paraná",
+                "ano_inicio": 1993,
+                "ano_fim": 1998
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "Coordenador de Curso Técnico",
+                "vinculo": "Não informado",
+                "descricao": "Coordenador do Curso de Eletrotécnica do Campus Presidente Figueiredo. Portaria nr 266 /DG-IFAM/CPRF de 26 de Outubro de 2023"
+            },
+            {
+                "empresa": "Instituto Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Professor do curso de graduação em engenharia de aquicultura: ministra a disciplina de automação e controle. Professor de curso técnico de eletromecânica integrado e subsequente: ministras as disciplinas desde 2019 até o presente: Instalações Elétricas Residenciais e Industriais",
+                "descricao": "Eletricidade Básica, Circuitos Elétricos, Eletrônica Digital e Analógica, Acionamento de Máquinas Elétricas, Sistemas Elétricos de Potência e Controladores Lógicos Programáveis (CLPs). Orienta estágios, trabalhos de conclusão de cursos e PIBICs de graduados e técnicos no IFAM"
+            },
+            {
+                "empresa": "Instituto Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Coordenador de Pesquisa e Inovação",
+                "vinculo": "Não informado",
+                "descricao": "Coordenador de Pesquisa e Inovação do Campus Presidente Figueiredo. Portaria nr 137 /DG-IFAM/CPRF de 09 de Julho de 2019"
+            },
+            {
+                "empresa": "Ministério do Exército",
+                "ano_inicio": 1986,
+                "ano_fim": 2000,
+                "funcao": "Sargento",
+                "vinculo": "Exerceu as funções de sargenteante",
+                "descricao": "relações públicas, chefe de laboratório de eletricidade eletrônica, serviço de informação e instrutor de tropa. Realizou o curso de paraquedista no Centro de Instrução General Pé Brasil 91/01. Realizou o curso de Sargento Especialista em Manutenção de Comunicações na Escola de Instrução Especializada, RJ em 1990"
+            },
+            {
+                "empresa": "Fundação Aplicação de Tecnologias Críticas ATECH",
+                "ano_inicio": 2000,
+                "ano_fim": 2003,
+                "funcao": "Engenheiro Pleno",
+                "vinculo": "Não informado",
+                "descricao": "Exerceu as funções de Engenheiro de Operação Assistida na implantação do Sistema de Vigilância da Amazônia"
+            },
+            {
+                "empresa": "BANCO DO BRASIL S/A.",
+                "ano_inicio": 2003,
+                "ano_fim": 2019,
+                "funcao": "Escriturário",
+                "vinculo": "Exerceu as funções de assistente",
+                "descricao": "gerente de conta pessoa física, gerente estilo e gerente geral de agência"
+            },
+            {
+                "empresa": "Associação Internacional de Educação Continuada",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Tutor Regional de Ensino",
+                "vinculo": "Não informado",
+                "descricao": "Tutoria do curso de administração à distância no estado do Acre"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SALES",
+                    "software": "LUIZ C. S.,  Algoritmo de seleção de políticas de migração de máquinas virtuais em função de diferentes demandas de recursos",
+                    "ano": "2023",
+                    "finalidade": "Migrar máquina virtual em ambiente de computação em névoa."
+                },
+                {
+                    "autor": "SALES",
+                    "software": "L. C. S.,  PROJETO ELÉTRICO DE UMA SUBSTAÇÃO ABRIGADA 13.88-220/127V DE 300KVA",
+                    "ano": "2014",
+                    "finalidade": "SUBSTAÇÃO ABRIGADA 13.88-220/127V DE 300KVA NA SUPERINTENDENCIA FEDERAL DE PESCA E AQUICULTURA NO ESTADO DO AMAZONAS."
+                },
+                {
+                    "autor": "SALES",
+                    "software": "L. C. S.,  SUBSTACAO ABRIGADA 13.800-220/127V DE 300KVA",
+                    "ano": "2014",
+                    "finalidade": "PROJETO ELÉTRICO DE UMA SUBSTACAO ABRIGADA 13.800-220/127V DE 300KVA NA SEMOSBH."
+                },
+                {
+                    "autor": "SALES",
+                    "software": "L. C. S.,  PROJETOS DE INSTALAÇÕES ELÉTRICAS COM SUBESTAÇÃO PARA ATENDER A SEDE DO INSS EM PRESIDENTE FIGUEIREDO",
+                    "ano": "2011",
+                    "finalidade": "PROJETOS DE INSTALAÇÕES ELÉTRICAS COM SUBESTAÇÃO."
+                },
+                {
+                    "autor": "SALES",
+                    "software": "L. C. S.,  PROJETO DE PROTECAO CONTRA DESCARGA ATMOSFERICA - S.P.D. A, DOS TERMINAIS I/II DO PREDIO DA EMBRATEL - MANAUS (AM)",
+                    "ano": "2003",
+                    "finalidade": "PROJETO DE PROTECAO CONTRA DESCARGA ATMOSFERICA - S.P.D. A, DOS TERMINAIS I/II DO PREDIO DA EMBRATEL - MANAUS (AM)."
+                },
+                {
+                    "autor": "SALES",
+                    "software": "LUIZ C. S.,  Perícia e Avaliação p/ o Ministério Público",
+                    "ano": "2002",
+                    "finalidade": "Periciar as instalações e equipamentos eletricos de hemodialise das crinicas de hemodialise de Manaus.."
+                },
+                {
+                    "autor": "SALES",
+                    "software": "L. C. S.,  ANALISE DE OLEO DO TRANSFORMADOR TRIFASICO DE 75 KVA",
+                    "ano": "2002",
+                    "finalidade": "ANALISE DE OLEO DO TRANSFORMADOR TRIFASICO DE 75 KVA."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SALES",
+                    "titulo": "LUIZ C. S.,  Semana Nacional de Ciência e Tecnologia do Instituto Federal do Amazonas (IFAM)",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal do Amazonas (IFAM) - Campus Presidente Figueiredo."
+                },
+                {
+                    "autores": "SALES",
+                    "titulo": "LUIZ C. S.,  Semana Nacional de Ciência e Tecnologia do Instituto Federal do Amazonas (IFAM)",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal do Amazonas (IFAM) - Campus Presidente Figueiredo."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "CARLOS AURELIO CARVALHO DOS SANTOS",
+                "titulo": "ESTUDO DE VIABILIDADE DA MICROGERAÇÃO DE ENERGIA ELÉTRICA A PARTIR DE FOTOCÉLULAS",
+                "ano": "2024",
+                "curso": "Eletromecânica",
+                "instituicao": "Instituto Federal do Amazonas Presidente Figueired"
+            },
+            {
+                "orientando": "UDIEL ALMEIDA NASCIMENTO",
+                "titulo": "Horta Hidroponica/tamque de peixes automatizadas por microcontroladores",
+                "ano": "2019",
+                "curso": "Eletrotécnica",
+                "instituicao": "Instituto Federal do Amazonas - Campus Presidente"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 10.432861328125,
+            "indian": 8.221528053283691,
+            "black": 4.520357608795166,
+            "white": 18.943653106689453,
+            "middle eastern": 13.824430465698242,
+            "latino hispanic": 44.05717086791992
+        }
+    }
+}

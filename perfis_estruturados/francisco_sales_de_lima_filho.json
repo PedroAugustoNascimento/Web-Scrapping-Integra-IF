@@ -1,0 +1,428 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Smart Defender: um sistema de detecção e mitigação de ataques DoS/DDoS usando aprendizagem de máquina",
+                "orientador": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+                "ano_inicio": 2016,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Mecanismos de segurança para um sistema cooperativo de armazenamento de arquivos baseado em P2P",
+                "orientador": "Sergio Vianna Fialho",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2002,
+                "ano_fim": 2005
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE",
+                "ano_inicio": 2012,
+                "ano_fim": 2015,
+                "funcao": "Cargo em comissão",
+                "vinculo": "Não informado",
+                "descricao": "Diretor do Departamento de Infraestrutura e Suporte"
+            },
+            {
+                "empresa": "TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Cargo em comissão",
+                "vinculo": "Chefe de Seção",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "TRIBUNAL REGIONAL DO TRABALHO 7ª REGIÃO",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Funcionário",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Holos (Natal. Online)",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Revisor Ad hoc"
+            },
+            {
+                "empresa": "TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO NORTE",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "EFETIVO",
+                "vinculo": "Programador de Computadores",
+                "descricao": ""
+            },
+            {
+                "empresa": "IEEE Access",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Revisor Ad Hoc"
+            },
+            {
+                "empresa": "IEEE Access",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Revisor Ad Hoc"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Smart Protection 2.0: Sistema Avançado de Proteção contra Ataques de Negação de Serviços",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Francisco Sales De Lima Filho",
+                    "Felipe Samápio Dantas De Silva",
+                    "Rafael Geronimo De Franca Xavier"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Detecção e Mitigação de Ataques DDoS em Infraestruturas SDN Através de Técnicas de Moving Target Defense",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Francisco Sales De Lima Filho",
+                    "Felipe Samápio Dantas De Silva",
+                    "Cristian H. Martins De Souza",
+                    "Emidio De Paiva Neto"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "RdP-DDoS - Rede de proteção contra ataques de negação de serviços",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Francisco Sales De Lima Filho",
+                    "Felipe Samápio Dantas De Silva",
+                    "Frederico Augusto Fernandes Silveira",
+                    "Emidio De Paiva Neto"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "DevOps-IFRN: Implantação e Gestão de Infraestrutura para Integração Contínua em Nuvem Privada e em Hardware de Baixo Custo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Francisco Sales De Lima Filho",
+                    "Carlos Gustavo Araújo Da Rocha",
+                    "Marcelo Romulo Fernandes",
+                    "Bruno Leonardo Silva Dos Santos",
+                    "Uiatamara Jhuliene Silva Ferreira"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVEIRA",
+                    "software": "L. F. Q.,  SILVEIRA, F. A. F.,  FURTUNATO, A. F. A.,  BRITO JUNIOR, A. M.,  SOUZA, S. X.,  LIMA FILHO, F. S.,  Smart Defender",
+                    "ano": "2020",
+                    "finalidade": "SISTEMA DE PROTEÇÃO DE REDES.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512020000431-8."
+                },
+                {
+                    "autor": "LIMA FILHO",
+                    "software": "F. S.;LIMA FILHO, FRANCISCO SALES DE,  FERNANDES, M. R.,  ROCHA, C. G. A.,  SANTOS, B. L. S.,  FERREIRA, U. J. S.,  DevOps-IFRN: Implantação e Gestão de Infraestrutura para Integração Contínua em Nuvem Privada e em Hardware de Baixo Custo",
+                    "ano": "2016",
+                    "finalidade": "Implementação de ambientes tecnológicos de integração continua de"
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "LIMA FILHO, FRANCISCO SALES DE",
+                "titulo": "SILVEIRA, FREDERICO A. F.;  DE MEDEIROS BRITO JUNIOR, AGOSTINHO;  VARGAS-SOLAR, GENOVEVA;  SILVEIRA, LUIZ F.;  Smart Detection: An Online Approach for DoS/DDoS Attack Detection Using Machine Learning",
+                "ano": "2019",
+                "periodico": "Security and Communication Networks. ISBN: 19390122   ."
+            },
+            {
+                "autores": "ALVERGA, P. R.",
+                "titulo": "LIMA FILHO, F. S.;LIMA FILHO, FRANCISCO SALES DE;  IMPACTO DA NORMATIZAÇÃO NOS PROCESSOS DE AQUISIÇÃO E CONTRATAÇÃO DE TI",
+                "ano": "2018",
+                "periodico": "DIREITO E LIBERDADE.. ISBN: 21771758   ."
+            },
+            {
+                "autores": "LIMA FILHO, F. S.",
+                "titulo": "LIMA FILHO, FRANCISCO SALES DE;  FIALHO, S. V.;  SAS-P2P - Sistema de Armazenamento Seguro P2P Baseado em JXTA",
+                "ano": "2011",
+                "periodico": "IEEE Latin America Transactions. ISBN: 15480992   ."
+            },
+            {
+                "autores": "CAMPOS, A. L. P. S.",
+                "titulo": "LIMA FILHO, F. S.;LIMA FILHO, FRANCISCO SALES DE;  SILVA, T. D.;  SISTEMA DE SIMULAÇÃO DE PRESENÇA RESIDENCIAL",
+                "ano": "2010",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "CARDOSO, G. H.",
+                "titulo": "MEDEIROS, I",
+                "evento": "P. A.; COSTA",
+                "local": "A. L. B.; QUEIROZ JUNIOR, J. N.; Souza, Alessandro J.; LIMA FILHO, F. S.; Modelo de Tratamento Intercambiável Presencial-Telessaúde Usando Sistema em Nuvem. XIX Congresso Brasileiro de Informática em Saúde ? CBIS 2022, CAMPINAS",
+                "ano": "2022"
+            },
+            {
+                "autores": "FONSECA, M. R.",
+                "titulo": "ROCHA, L",
+                "evento": "C. S.; SILVA",
+                "local": "E. K. E.; Souza, Alessandro J.; LIMA FILHO, F. S.; Avaliação do Smart Detection em Provedor de Serviço de Internet. XII Conferência Nacional em Comunicações, Redes e Segurança da Informação, Guaramiranga",
+                "ano": "2022"
+            },
+            {
+                "autores": "SILVEIRA, F. A. F.",
+                "titulo": "LIMA FILHO, F",
+                "evento": "S.; SILVA",
+                "local": "F. S. D.; SILVEIRA, L. F. Q.; BRITO JUNIOR, A. M.; Smart Detection-IoT: A DDoS Sensor System for Internet of Things. The 27th International Conference on Systems, Signals and Image Processing (IWSSIP), Niterói",
+                "ano": "2020"
+            },
+            {
+                "autores": "SOUZA, C. H. M.",
+                "titulo": "PASCOAL, T",
+                "evento": "A.; PAIVA NETO",
+                "local": "E.; LIMA FILHO, F. S.; SILVA, F. S. D.; MTD para Proteção de Redes SDN. X Conferencia Nacional em Comunicações, Redes e Segurança da Informação ? ENCOM 2020, NATAL",
+                "ano": "2020"
+            },
+            {
+                "autores": "SILVEIRA, F. A. F.",
+                "titulo": "LIMA FILHO, F",
+                "evento": "S.; SILVA",
+                "local": "F. S. D.; BRITO JUNIOR, A. M.; SILVEIRA, L. F. Q.; Mitigação de DDoS Usando SDN. X Conferencia Nacional em Comunicações, Redes e Segurança da Informação ? ENCOM 2020, NATAL",
+                "ano": "2020"
+            },
+            {
+                "autores": "SILVEIRA, F. A. F.",
+                "titulo": "LIMA FILHO, F",
+                "evento": "S.;LIMA FILHO",
+                "local": "FRANCISCO SALES DE; BRITO JUNIOR, A. M.; SILVEIRA, L. F. Q.; Sensor IoT para Detecção de DDoS. IX Conferência Nacional em Comunicações, Redes e Segurança da Informação, Petrolina",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTOS, Y. P.",
+                "titulo": "LIMA FILHO, F",
+                "evento": "S.;LIMA FILHO",
+                "local": "FRANCISCO SALES DE; FONTES, A. I. R.; SILVEIRA, L. F. Q.; Sistema de Detecção de Patologias Vocais Baseado no Domínio Espectral da Correntropia. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, Campina Grande",
+                "ano": "2018"
+            },
+            {
+                "autores": "LIMA FILHO, F. S.",
+                "titulo": "LIMA FILHO, FRANCISCO SALES DE; FIALHO, S",
+                "evento": "V.; Implementation of PKIX-P2P with trust-basedreputation using the JXTA platform. Inrernational Telecommunication Symposium",
+                "local": "Manaus",
+                "ano": "2010"
+            },
+            {
+                "autores": "Cavalcanti, A. L.",
+                "titulo": "Souza, Alessandro J",
+                "evento": "; SILVA",
+                "local": "D. R. C.; SOUZA, G. R.; LIMA FILHO, F. S.;LIMA FILHO, FRANCISCO SALES DE; Integrating Mobile Devices and Industrial Automation through Web Services. INDIN, Cardiff",
+                "ano": "2009"
+            },
+            {
+                "autores": "LIMA FILHO, F. S.",
+                "titulo": "LIMA FILHO, FRANCISCO SALES DE; Souza, Alessandro J",
+                "evento": "; Fonseca",
+                "local": "Adauto; Guedes, L. Afonso; COUTO, F. C. A. C. C. A.; Supervisão de Processos Industriais Usando Web Service. Congresso Brasileiro de Automática, Salvador",
+                "ano": "2006"
+            },
+            {
+                "autores": "LIMA FILHO, F. S.",
+                "titulo": "LIMA FILHO, FRANCISCO SALES DE; Souza, Alessandro J",
+                "evento": "; Guedes",
+                "local": "L. Afonso; Fonseca, Adauto; COUTO, F. C. A. C. C. A.; Industrial Processes Supervision Using Service Oriented Architecture - SOA. The 32nd Annual Conference of the IEEE Industrial Electronics Society - IECON 2006, Paris",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ewertton Klaytton Elias da Silva",
+                "titulo": "Estudo Comparativo: Smart Detection Vs. Suricata",
+                "ano": "2023",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "JANSSEN CRISTIAN MARTINS",
+                "titulo": "SCA - SISTEMA DE CONFIGURAÇÃO DE ATIVOS",
+                "ano": "2022",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gabriel Holanda Cardoso",
+                "titulo": "Modelo de Tratamento Intercambiável Presencial-Telessaúde Usando Sistema Integrado em Nuvem",
+                "ano": "2022",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Rafael Rufino dos Santos",
+                "titulo": "MORAMIGO: UMA PLATAFORMA PARA CONECTAR PESSOAS QUE QUEREM MORAR JUNTAS",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Lucas Mateus da Silva Machado",
+                "titulo": "PROJETO DE SISTEMA DE GESTÃO ELETRÔNICA DE DOCUMENTOS",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Andre Luiz Bezerra Costa",
+                "titulo": "Plataforma Med 5:Uma Experiência Profissional no Desenvolvimento de Sistemas Distribuídos",
+                "ano": "2021",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Emylle Varela da Silva",
+                "titulo": "Smart Detection: Prova de Conceito na Rede Corporativa do Tjrn",
+                "ano": "2020",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Uiatamara Jhuliene Silva Ferreira",
+                "titulo": "Análise de tecnologias de virtualização e hardware de baixo custo para infraestutura de nuvem de pequeno porte",
+                "ano": "2017",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Bruno Leonardo Silva dos Santos",
+                "titulo": "DEVOPS: UMA IMPLEMENTAC&#807;A&#771;O PRA&#769;TICA E FUNCIONAL PARA PROJETOS ACADE&#770;MICOS",
+                "ano": "2017",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "GILLYANE MEDEIROS",
+                "titulo": "GESTÃO DE SEGURANÇA DA INFORMAÇÃO: UM ESTUDO DE CASO DOS INSTITUTOS FEDERAIS DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA",
+                "ano": "2016",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "RENATO MOREIRA DE CARVALHO",
+                "titulo": "Proposta de implementação de solução de alta disponibilidade nos serviços VoIP do SENAC-RN",
+                "ano": "2015",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Cleilton Fernandes de Souza",
+                "titulo": "Proposta de Homologação não-funcional HNF para aplicações Web",
+                "ano": "2015",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Edmilson Pereira da Costa Junior",
+                "titulo": "Homologação de Ambiente de Alta Disponibilidade para os sistemas SIG da UFRN",
+                "ano": "2014",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jefferson Igor Duarte Silva",
+                "titulo": "Sistema de apoio à tomada de decisão baseado em Business Inteligence - BI para gestão de indicadores de TIC dos sistemas SIG desenvolvidos pela Universidade Federal do Rio Grande do Norte - UFRN",
+                "ano": "2013",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Pollyanderson de Araújo Ferreira",
+                "titulo": "Proposta de melhoria do Datacenter da Base Aérea de Natal ? BANT através da aplicação de Checklist baseado na norma EIA/TIA 942",
+                "ano": "2012",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "RODRIGO FONTE DA COSTA",
+                "titulo": "PROPOSTA DE MELHORIA NO AMBIENTE DE TECNOLOGIA E NO ATENDIMENTO DE TIC PARA EMPRESA NACIONAL VEÍCULOS",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Túlio de Paiva Marques Carvalho",
+                "titulo": "DESENVOLVIMENTO DE PRODUTO NA PLATAFORMA ZOPE PARA TRANSFERÊNCIA DE DADOS XML UTILIZANDO WEBSERVICES E AJAX",
+                "ano": "2008",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Lemoel Marques Vieira",
+                "titulo": "ESPECIFICAÇÃO DO PLUGIN L-HLBR PARA O SISTEMA DE PREVENÇÃO DE INTRUSÃO HLBR",
+                "ano": "2008",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0007498658960685134,
+            "indian": 0.0008336543687619269,
+            "black": 9.691008926893119e-06,
+            "white": 99.03807067871094,
+            "middle eastern": 0.717147171497345,
+            "latino hispanic": 0.24319183826446533
+        }
+    }
+}

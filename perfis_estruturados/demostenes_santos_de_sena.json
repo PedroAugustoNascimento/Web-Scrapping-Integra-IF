@@ -1,0 +1,547 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Uma abordagem de apoio à extração da política de tratamento de exceções",
+                "orientador": "Roberta Coelho",
+                "ano_inicio": 2012,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "AGraphs: definição, implementação e suas ferramentas",
+                "orientador": "Anamaria Martins Moreira",
+                "ano_inicio": 2004,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 1999,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "Professor",
+                "vinculo": "Professor que ministrou a disciplina Laboratório de Estruturas de Dados - DIM0303",
+                "descricao": "totalizando a carga horária de 30h, requisito para a disciplina Estágio docência - DIM0837. obrigatória para bolsistas CAPES do Programa de Pós-graduação em Sistemas e Computação - UFRN"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Estácio do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nCoordenação dos Laboratórios (2009 - 2009) : Coordenador Dos Laboratórios.\nCampus Parnamirim (2007 - 2020): Engenharia de Software,",
+        "ensino": ": Faculdade Estácio do Rio Grande do Norte\nGraduacao (2007 - 2007) - Desenvolvimento Para Web.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Avaliação da Integração GenArch-FLiP",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Demóstenes Santos De Sena"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Rádio-escola - Campus IFPAR",
+                "natureza": "Outra",
+                "equipe": [
+                    "Demóstenes Santos De Sena",
+                    "Alberto Alexandre"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Extraindo a Política de Tratamento de Exceções de um Sistema de Software: Um plug-in para a IDE Eclipse",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Demóstenes Santos De Sena"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Um Simulador de Apoio ao Ensino-Aprendizagem para as Disciplinas de Comandos Elétricos e Acionamentos de Máquinas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Demóstenes Santos De Sena"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Extraindo a Política de Tratamento de Exceções de um Sistema de Software: Um plug-in para a IDE Eclipse",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Demóstenes Santos De Sena"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Projeto de Extensão Contínuo: Portal do observatório de turismo regional ? uma ferramenta para centralizar dados do turismo regional para viabilizar formas de observar, estudar e pesquisar a economia do turismo",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Leonardo Ataide Minora",
+                    "Lanay F Gomes",
+                    "Danielle G De Freitas",
+                    "Laysce R De Moura",
+                    "Carlos G A Da Rocha",
+                    "Demóstenes Santos De Sena"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Portal do IFRN para comunicação de ações, cursos e serviços para o período de combate à Pandemia do Corona Vírus no RN",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Demóstenes Santos De Sena",
+                    "Leonardo Ataide Minora",
+                    "Carlos G A Da Rocha",
+                    "Melquiades P L Junior",
+                    "Jassio P De Medeiros",
+                    "Alexandre Magno S Filho"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "TADS Pelo Mundo",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Demóstenes Santos De Sena",
+                    "Marília Aranha Freire"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Integração de dados entre o SUAP e as Redes Sociais Online: Um estudo de caso do comportamento dos alunos do Campus IFRN Parnamirim nas Redes Sociais Online",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Demóstenes Santos De Sena",
+                    "Alissandra C B Cabral"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Simulador CEAM 2.0: Uma Nova Abordagem para o Simulador de Apoio ao Ensino-Aprendizagem para as Disciplinas de Comandos Elétricos e Acionamentos de Máquinas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Demóstenes Santos De Sena",
+                    "José Vitor Ferreira Costa"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SENA",
+                    "software": "D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES,  MOREIRA, A. M.,  DEHARBE, D.,  GenAGraphs - Geração de AGraphs",
+                    "ano": "2005",
+                    "finalidade": "Geração automática de bibliotecas de manipulação de grafos."
+                },
+                {
+                    "autor": "MOREIRA",
+                    "software": "A. M.,  DEHARBE, D.,  PEREIRA, D.,  SENA, D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES,  LIMA, G.,  VIDAL, J.,  FERUS - Ferramenta de apoio à especificação e re-utilização de especificações CASL",
+                    "ano": "2001",
+                    "finalidade": "técnico-didática."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "LIMA",
+                    "evento": "G. H. E. L.,  MEDEIROS, D. G. F.,  SENA, D. S.,  NETTO, E. B. W.,  SILVA, G. A.,  MINORA, L. A.,  SOUZA NETO, P. A.,  MOITAS, T. M. S.,  XIII Workshop de TADS e do II Workshop de Infoweb",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN - Campus Natal Central."
+                },
+                {
+                    "autores": "DEHARBE",
+                    "evento": "D.,  ROCHA, B. P. F.,  SENA, D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES,  NETO, P A S,  EPOCA I - 1ª Escola POtiguar de Computação e suas Aplicações",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte (UFRN)."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "NEVES, L.",
+                "titulo": "BORBA, PAULO;  ALVES, V. R.;  TURNES, L.;  TEIXEIRA, L.;  SENA, D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES;  KULESZA, U.;  Safe Evolution Templates for Software Product Lines",
+                "ano": "2015",
+                "periodico": "The Journal of Systems and Software. ISBN: 01641212   ."
+            },
+            {
+                "autores": "MELO, HUGO",
+                "titulo": "COELHO, ROBERTA;  KULESZA, UIRÁ;  SENA, DEMOSTENES;  In-depth characterization of exception flows in software product lines: an empirical study",
+                "ano": "2013",
+                "periodico": "Journal of Software Engineering Research and Development. ISBN: 21951721   ."
+            },
+            {
+                "autores": "NEVES, L.",
+                "titulo": "TEIXEIRA, L.;  SENA, D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES;  ALVES, V.;  KULESZA, U.;  BORBA, P.;  Investigating the safe evolution of software product lines",
+                "ano": "2012",
+                "periodico": "SIGPLAN Notices (Cessou em 1991. Cont. ISSN 1523-2867 ACM SIGPLAN Notices). ISBN: 03621340   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SENA, DEMÓSTENES",
+                "titulo": "COELHO, ROBERTA; KULESZA, UIRÁ; Integrated analysis of exception flows and handler actions in Java libraries",
+                "evento": "the 31st Annual ACM Symposium",
+                "local": "Pisa",
+                "ano": "2016"
+            },
+            {
+                "autores": "SENA, DEMÓSTENES",
+                "titulo": "COELHO, ROBERTA; KULESZA, UIRÁ; BONIFÁCIO, RODRIGO; Understanding the exception handling strategies of Java libraries",
+                "evento": "the 13th International Workshop",
+                "local": "Austin",
+                "ano": "2016"
+            },
+            {
+                "autores": "VIANNA, A.",
+                "titulo": "PINTO, F",
+                "evento": "; SENA",
+                "local": "D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES; KULESZA, U.; COELHO, R.; SANTOS, J.; LIMA, J.; LIMA, G.; Squid: An Extensible Infrastructure for Analyzing Software Product Line Implementations. 3rd International Knowledge-Oriented Product Line Engineering Workshop (KOPLE 2012), Salvador",
+                "ano": "2012"
+            },
+            {
+                "autores": "SANTOS, J.",
+                "titulo": "LIMA, J",
+                "evento": "; LIMA",
+                "local": "G.; KULESZA, U.; SENA, D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES; PINTO, F.; VIANNA, A.; PEREIRA, D.; FERNANDES, V.; Execução Condicional: Um Padrão para Implementação de Variabilidades de Granularidade Fina. 9th Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2012), Natal",
+                "ano": "2012"
+            },
+            {
+                "autores": "SENA, D. S.",
+                "titulo": "SENA, DEMOSTENES;SENA, DEMÓSTENES; PINTO, F",
+                "evento": "; LIMA",
+                "local": "G.; SANTOS, J.; LIMA, J.; KULESZA, U.; PEREIRA, D.; FERNANDES, V.; VIANNA, A.; Modularizando Variabilidades em Linhas de Produto de Sistemas de Informação Web. 9th Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2012), Natal",
+                "ano": "2012"
+            },
+            {
+                "autores": "NEVES, L.",
+                "titulo": "TEIXEIRA, L",
+                "evento": "; SENA",
+                "local": "D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES; ALVES, V.; KULESZA, U.; BORBA, P.; Investigating the Safe Evolution of Software Product Lines.. Generative Programming and Component Engineering (GPCE'11), Portland",
+                "ano": "2011"
+            },
+            {
+                "autores": "CIRILO, E",
+                "titulo": "SENA, D",
+                "evento": "S.;SENA",
+                "local": "DEMOSTENES;SENA, DEMÓSTENES; KULESZA, U.; TEIXEIRA, L.; SOARES, S.; BORBA, P.; GUEYI, R.; NEVES, L.; LUCENA, C.; Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions (Invited Case Study). 2nd International Workshop on Product LinE Approaches in Software Engineering (PLEASE 2011), Honolulu",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOUZA, E. C.",
+                "titulo": "SENA, D",
+                "evento": "S.;SENA",
+                "local": "DEMOSTENES;SENA, DEMÓSTENES; DESENVOLVIMENTO GRÁFICO DO SISTEMA DE REGISTRO DE RELATÓRIOS TÉCNICO-CIENTÍFICOS DO IFRN CAMPUS CURRAIS NOVOS. VII Congresso de Iniciação Científica do IFRN, Natal",
+                "ano": "2010"
+            },
+            {
+                "autores": "NASCIMENTO, M. A. A.",
+                "titulo": "SENA, D",
+                "evento": "S.;SENA",
+                "local": "DEMOSTENES;SENA, DEMÓSTENES; Construção de animações gráficas das reações biológicas ? Estudo de Caso para a tecnologia HTML 5. V Congresso Norte-Nordeste de Pesquisa e Inovação, Maceió",
+                "ano": "2010"
+            },
+            {
+                "autores": "MEDEIROS, I. G.",
+                "titulo": "SENA, D",
+                "evento": "S.;SENA",
+                "local": "DEMOSTENES;SENA, DEMÓSTENES; ANÁLISE DAS APLICAÇÕES WEB NA COMUNICAÇÃO ENTRE EMPRESAS DE COMÉRCIO. VI Congresso de Iniciação Científica do IFRN, NATAL",
+                "ano": "2009"
+            },
+            {
+                "autores": "SENA, D. S.",
+                "titulo": "SENA, DEMOSTENES;SENA, DEMÓSTENES; MOREIRA, A",
+                "evento": "M.; DEHARBE",
+                "local": "D.; Agraphs: geração automática. WTC- DIMAp, Natal",
+                "ano": "2005"
+            },
+            {
+                "autores": "LIMA, G.",
+                "titulo": "MOREIRA, A",
+                "evento": "M.; DEHARBE",
+                "local": "D.; PEREIRA, D.; SENA, D. S.;SENA, DEMOSTENES;SENA, DEMÓSTENES; VIDAL, J.; FERUS: Um ambiente de desenvolvimento de especificações CASL.. XVI Simpósio Brasileiro de Engenharia de Software,",
+                "ano": "2002"
+            },
+            {
+                "autores": "SENA, D. S.",
+                "titulo": "SENA, DEMOSTENES;SENA, DEMÓSTENES; VIDAL, J",
+                "evento": "; MOREIRA",
+                "local": "A. M.; LIMA, G.; LibCASL: Uma biblioteca para manipulação de especificações CASL. Workshop do DIMAP, Natal/RN",
+                "ano": "2002"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Augusto Cesar Santos de Macedo",
+                "titulo": "Relatório Supervisionado em Banco de Dados na Coordenadoria da Folha de Pagamento (Copag) da Secretaria de Estado da Administração (Sead)",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Vithor Lucas Varela Oliveira",
+                "titulo": "Desenvolvimento Back-End de Sistemas Web na Empresa Venx Tecnologia",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Leonardo Bernardino Correa Sobral",
+                "titulo": "Prototipação de Software de Apoio Ao Setor de Customer Success em Plataforma Saas",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Alberto Alexandre Vieira da Silva",
+                "titulo": "Central de Controle do Vale-Refeição (Ccvr)",
+                "ano": "2021",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "José Vitor Ferreira Costa",
+                "titulo": "Relatório de Estágio Curricular Motoeste Honda",
+                "ano": "2020",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Joao Roberto de França Pereira",
+                "titulo": "Sistemas Web e Mobile Para Emissão de Alerta de Emergência em Ambientes Fechados",
+                "ano": "2020",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Leandro Airton Bezerra",
+                "titulo": "Flow Analyzer Viewer - Uma Aplicação Para Visualização do Fluxo de Exceções Geradas Pela Ferramenta Flow Analyzer",
+                "ano": "2020",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Roseane Galdino da Silva",
+                "titulo": "Susmap - Sistema de Atendimento Às Unidades de Saúde",
+                "ano": "2020",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Albertho Síziney Costa",
+                "titulo": "Projeto de Automação Residencial Com Shield Ethernet Aplicativo Vigilant",
+                "ano": "2019",
+                "curso": "MECATRÔNICA",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Mateus Alves de Oliveira",
+                "titulo": "Projeto de Automação Residencial Com Shield Ethernet Site Vigilant",
+                "ano": "2019",
+                "curso": "MECATRÔNICA",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gleidison Diego Martins Alves",
+                "titulo": "Planejamento e Configuração do Hardware do Sistema de Automação Residencial Projeto Vigilant",
+                "ano": "2018",
+                "curso": "MECATRÔNICA",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MARCIELLE SAYURI KUBO COMIN",
+                "titulo": "Desenvolvimento de uma Plataforma de Ensino Adaptativo: Um Estudo de Caso - Acessible3",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ANDRIELLY SANTIAGO LIMA DA COSTA",
+                "titulo": "Modelagem da Plataforma de Ensino Adaptativo Acessible3",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "BRUNA SEGUI PARAISO",
+                "titulo": "Acessible3: Uma Plataforma de Ensino Adaptativo",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Brunno Moreira Silva",
+                "titulo": "IMPLEMENTAÇÃO DE UM SISTEMA DE REGISTRO DE RELATÓRIOS TÉCNICO-CIENTÍFICOS DE UM INSTITUIÇÃO DE ENSINO E PESQUISA",
+                "ano": "2011",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Cristiane Leandro Viana",
+                "titulo": "APLICANDO TESTES DE SOFTWARE: SISTEMA DE REGISTRO DE RELATÓRIOS TÉCNICO-CIENTÍFICOS DE UMA INSTITUIÇÃO DE ENSINO E PESQUISA",
+                "ano": "2011",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Augusto C de A Braga",
+                "titulo": "Implementação do Banco de Dados do Sistema de Registro de Relatórios Técnicos-Científicos do IFRN Campus Currais Novos",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Elias C de Souza",
+                "titulo": "Desenvolvimento Gráfico do Sistema de Registro de Relatórios Técnicos-Científicos do IFRN Campus Currais Novos",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Matheus A de Araujo",
+                "titulo": "Construção de animações gráficas das reações biológicas ? Estudo de Caso para a tecnologia HTML 5",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Adalberto Almeida de Araújo Júnior",
+                "titulo": "Relatório de Estágio Supervisionado",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Edmilson Pereira da Consta Junior",
+                "titulo": "Relatório de Estágio Supervisionado na Empresa CTI Tecnologia da Informação",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Eric de M Costa",
+                "titulo": "Relatório de Estágio Supervisionado no IFRN",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Geilson de M Bibiano",
+                "titulo": "Relatório de Estágio Supervisionado pelo IFRN",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Georgia M Dantas",
+                "titulo": "Relatório de Estágio Supervisionado para o Curso Técnico Nível Médio Integrado em Informática",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Lorena M S Pereira",
+                "titulo": "Relatório de Estágio Supervisionado",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Thuane de A Araujo",
+                "titulo": "Relatório de Atividade Prática",
+                "ano": "2010",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Inácio Gomes Medeiros",
+                "titulo": "Análise das Aplicações Web na Comunicação entre Empresas de Comércio",
+                "ano": "2009",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    }
+}

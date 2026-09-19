@@ -1,0 +1,172 @@
+{
+    "campus": "- Campus Mossoró",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em Ciência da COmputação",
+                "instituicao": "Universidade Federal Rural do Semi-Árido",
+                "titulo": "Desenvolvimento de um jogo didático para ensino de programação orientada a objetos e sua aplicação em cursos técnicos de computação",
+                "orientador": "José Patrocínio da Silva",
+                "ano_inicio": 2009,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informática Aplicada",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "orientador": "CARLOS HEITOR PEREIRA LIBERALINO",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciências da Computação",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade de Ciências e Tecnologia Mater Christi",
+                "ano_inicio": 2005,
+                "ano_fim": 2009,
+                "funcao": "CURSO: SISTEMAS DE INFORMAÇÃO",
+                "vinculo": "PROFESSOR",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal Rural do Semi-Árido",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor Substituto",
+                "descricao": "Ministrando as disciplinas de Introdução à Informática, Tópicos de Infomática, Programação para Engenharia e Linguagem de Programação C"
+            },
+            {
+                "empresa": "Neto Auto Peças",
+                "ano_inicio": 2004,
+                "ano_fim": 2009,
+                "funcao": "Gerente de Tecnologia da Informação",
+                "vinculo": "Responsável pela gerência e manutenção da rede de comunicação e computadores",
+                "descricao": "sistema de bancos de dados, desenvolvimento de aplicativos, treinamento e suporte a usuários"
+            },
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Departamento de Informática",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LOPES",
+                    "software": "A. C. B.,  AGE - Aplicação de Gerenciamento de Entregas",
+                    "ano": "2008",
+                    "finalidade": "Controle de Entregas com criação de rotas sobre mapas."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LEITE",
+                    "titulo": "LOPES, A. C. B.,  Uso da Informática Como Ferramenta de Ensino",
+                    "ano": "2006",
+                    "instituicao_promotora": "Prefeitura Municipal de Mossoró."
+                },
+                {
+                    "autores": "LOPES",
+                    "titulo": "A. C. B.,  A Utilizaçao das Tecnologias Educacionais como Ferramenta Didatica para o Ensino",
+                    "ano": "2006",
+                    "instituicao_promotora": "Faculdade de Ciencias e Tecnologia Mater Christi."
+                },
+                {
+                    "autores": "LOPES",
+                    "titulo": "A. C. B.,  Mini-Curso Blender (Computacao Grafica)",
+                    "ano": "2005",
+                    "instituicao_promotora": "UERN."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "LOPES",
+                    "curso": "A. C. B.,  Introdução à Computação Gráfica Utilizando Blender",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "LOPES",
+                    "curso": "A. C. B.,  Introdução à Programação e Construção de Algoritmos",
+                    "ano": "2003"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "LEITE",
+                    "evento": "ALVES FILHO, S. E.,  LOPES, A. C. B.,  II Encontro de Iniciação Científica de Sistemas de Informação",
+                    "ano": "2007",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade de Ciências e Tecnologia Mater Christi."
+                },
+                {
+                    "autores": "JACINTO",
+                    "evento": "K.,  LEITE,  LOPES, M. A. S.,  LOPES, A. C. B.,  I Encontro de Iniciação Científica do Curso de Sistemas de Informação",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade de Ciências e Tecnologia Mater Christi."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Flávia Araujo",
+                "titulo": "Comércio Eletrônico - Estudo de caso sobre os usuários da cidade de Areia Branca - RN",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade de Ciências e Tecnologia Mater Christi"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.13117250800132751,
+            "indian": 0.428749680519104,
+            "black": 0.014443112537264824,
+            "white": 52.8289794921875,
+            "middle eastern": 8.820829391479492,
+            "latino hispanic": 37.77582931518555
+        }
+    }
+}

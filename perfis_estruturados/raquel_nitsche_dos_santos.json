@@ -1,0 +1,114 @@
+{
+    "campus": "- Câmpus Palhoça Bilíngue",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "PPGCC",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Técnica Indutiva Para Obtenção de Rastros Entre Artefatos de Software",
+                "orientador": "Raul Sidnei Wazlawick",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade de Passo Fundo",
+                "ano_inicio": 2000,
+                "ano_fim": 2005
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Compasso Web Systems",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "estágio",
+                "vinculo": "estágio",
+                "descricao": "Trabalhei com programação PHP. Implementei, juntamente com minha equipe, um projeto denominado ?Loja Itinerante? para as Lojas Colombo, o qual teve por objetivo proporcionar vendas em locais fora da loja física, através do uso de um Notebook pelo vendedor"
+            },
+            {
+                "empresa": "Compasso Web Systems",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "pesquisadora",
+                "vinculo": "pesquisadora",
+                "descricao": "Pesquisa sobre os principais conceitos e aplicações da linguagem XML. Pesquisa sobre a ferramenta iProcurement da Oracle"
+            },
+            {
+                "empresa": "Caixa Econômica Federal",
+                "ano_inicio": 2002,
+                "ano_fim": 2004,
+                "funcao": "Programadora",
+                "vinculo": "Bolsista",
+                "descricao": "Trabalhei no setor de informática com programação, modelagem de dados, administração de Banco de Dados. Desenvolvimento de programas para a manipulação de dados de clientes das agências bancárias da região, objetivando a geração de informações (algumas disponíveis na Web) que serviam de base para controle, análise e tomadas de desições administrativas por parte dos Gerentes de Mercado"
+            },
+            {
+                "empresa": "Systempo",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Desenvolvimento",
+                "vinculo": "CLT",
+                "descricao": "Trabalhei com programação PHP Orientado a Objetos. Desenvolvi um sistema administrativo para controle de consultorias da empresa. Implementei uma integração entre ambientes usando XML. O PHP faz a integração com um software da empresa de gerenciamento de supermercados que roda em ambiente Linux. Na Web são disponibilizadas informações que são acessadas pelas diversas lojas de uma determinada rede de supermercados"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2006,
+                "ano_fim": 2010,
+                "funcao": "Colaborador",
+                "vinculo": "Não informado",
+                "descricao": "Atuação em atividades de programação e análise de sistemas no Projeto Cyclops"
+            },
+            {
+                "empresa": "Softplan Planejamento e Sistemas",
+                "ano_inicio": 2010,
+                "ano_fim": 2016,
+                "funcao": "Analista de Negócios e Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "NITSCHE, R.",
+                "titulo": "BORTOLI, L. A.;  E-LAL: Um Editor Para o Léxico Ampliado da Linguagem",
+                "ano": "2005",
+                "periodico": "INFOCOMP (UFLA. IMPRESSO). ISBN: 18074545   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "NITSCHE, R.",
+                "titulo": "WAZLAWICK, R",
+                "evento": "S.; Rastreabilidade Indutiva Aplicada a Artefatos de Software. Experimental Software Engineering Latin American Workshop",
+                "local": "São Carlos",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

@@ -43,12 +43,12 @@
             {
                 "empresa": "CENTRO FEDERAL DE EDUCACAO TECNOLOGICAO DO AMAZONAS",
                 "periodo": "1987 - 2008",
-                "cargo": "PROFESSOR, Mudou a razão social de CEFET-AM para IF-AM."
+                "cargo": "PROFESSOR, Servidor público, Mudou a razão social de CEFET-AM para IF-AM."
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "periodo": "2009",
-                "cargo": "Professor do Ensino Médio, Técnico e Tecnológ."
+                "cargo": "Professor do Ensino Médio, Técnico e Tecnológ, Servidor público."
             }
         ],
         "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2020 - 2023) : Pró-reitor De Pesquisa, Pós-graduação E Inovação.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2017 - 2020) : Chefe Do Departamento De Informação E Comunicação.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2016 - 2017) : Coordenador Do Curso Técnico De Informática.",
@@ -68,19 +68,6 @@
                     "José Pinheiro de Queiroz Neto",
                     "Valteir Romão"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "MOB_IFAM: Programa de mobilidade para cooperação e desenvolvimento de pesquisas na área de tecnologia da informação e engenharia eletrônica.",
-                "periodo": "2018 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jucimar Brito de Souza",
-                    "Isaac Benjamin Benchimol",
-                    "José Pinheiro de Queiroz Neto",
-                    "Ana Célia Said"
-                ],
-                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,"
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
@@ -138,6 +125,18 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Grupo de Pesquisa Computação Aplicada",
+                "periodo": "2016",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jucimar Brito de Souza",
+                    "Emmerson Santa Rita Silva",
+                    "Neila Batista Xavier",
+                    "Viviane Gols da Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "BICENTENÁRIO DA INDEPENDÊNCIA: 200 anos de ciência, tecnologia e inovação no Brasil e 113 anos de Ensino Profissional e Tecnológico no Amazonas",
                 "periodo": "2022 - 2023",
                 "natureza": "Pesquisa",
@@ -163,15 +162,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Grupo de Pesquisa Computação Aplicada",
-                "periodo": "2016",
-                "natureza": "Outra",
+                "nome": "MOB_IFAM: Programa de mobilidade para cooperação e desenvolvimento de pesquisas na área de tecnologia da informação e engenharia eletrônica.",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Jucimar Brito de Souza",
-                    "Emmerson Santa Rita Silva",
-                    "Neila Batista Xavier",
-                    "Viviane Gols da Silva"
-                ]
+                    "Isaac Benjamin Benchimol",
+                    "José Pinheiro de Queiroz Neto",
+                    "Ana Célia Said"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,"
             }
         ]
     },
@@ -290,6 +290,13 @@
     },
     "producao_outra": {
         "outras_orientacoes": [
+            {
+                "orientando": "Daniel Santos da Silva",
+                "titulo": "MAPES: APLICATIVO PARA MONITORAMENTO GEOGRÁFICO DE ALUNOS",
+                "ano": "2020",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
             {
                 "orientando": "Érika Soares da Silva",
                 "titulo": "UNDER ATTACK: UM SISTEMA WEB GAMIFICADO PARA APOIO AO ENSINO DE TESTE DE SOFTWARE",

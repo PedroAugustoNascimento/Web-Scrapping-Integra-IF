@@ -1,0 +1,144 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "orientador": "George Marconi de Araujo Lima",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Computacional em Ciência e Tecnologia",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "titulo": "Modelagem dinâmica da distribuição de galáxias em aglomerados",
+                "orientador": "André Luis Batista Ribeiro",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência na Educação Superior",
+                "instituicao": "Claretiano Centro Universitário",
+                "orientador": "Alexandre Jose Cruz",
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Computação",
+                "instituicao": "Claretiano Centro Universitário",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2008,
+                "ano_fim": 2015
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "AJAX Tecnologia & Comunicação Visual LTDA",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Desenvolvedor de Software",
+                "vinculo": "Proprietário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Comissão Executiva do Plano da Lavoura Cacaueira",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Estagiário",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas:Banco de Dados, Linguagem de Programação WEB I, Linguagem de Programação WEB II, Análise e Projeto de Sistemas, Estrutura de Dados, Desenvolvimento de Aplicações para Dispositivos Móveis, Arquitetura de Computadores"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Difusão do Conhecimento de Robótica na Comunidade de Ubaitaba: uma forma de aprender fazendo",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Allan Sérgio Gonçalves Alves",
+                    "Marcelo Silva Santos",
+                    "Gislene Souza De Oliveira De Camargo",
+                    "Esaú Francisco Sena Santos"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALVES, ALLAN SÉRGIO GONÇALVES",
+                "titulo": "DE JESUS, BRUNO SOUZA;  MORENO, SALIM BRAIAN;  Caracterização inicial do perfil educacional na região de abrangência do IFBA - Campus Ubaitaba",
+                "ano": "2023",
+                "periodico": "Revista Sociedade Científica. ISBN: 25958402   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ALVES, ALLAN S. G.",
+                "titulo": "LIMA, GEORGE M",
+                "evento": "A.; FERNANDES",
+                "local": "ISLAME F. C.; Fault Tolerance in Multiprocessor Real-Time Systems Under Partitioned EDF Scheduling. 2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC), Recife",
+                "ano": "2024"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Danilo da Conceição Santos",
+                "titulo": "Supergás - Sistema para o gerenciamento de pequenas empresas de revenda de gás",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 10.673785209655762,
+            "indian": 26.436885833740234,
+            "black": 10.724959373474121,
+            "white": 10.42238998413086,
+            "middle eastern": 13.225736618041992,
+            "latino hispanic": 28.516246795654297
+        }
+    }
+}

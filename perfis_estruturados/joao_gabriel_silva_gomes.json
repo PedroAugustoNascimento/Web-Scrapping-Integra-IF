@@ -1,0 +1,82 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Ensino de Informática",
+                "instituicao": "Faculdade Anísio Teixeira",
+                "orientador": "Paulo Rogério Menezes de Almeida",
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Norte do Paraná",
+                "ano_inicio": 2016,
+                "ano_fim": 2019
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Atua como Professor do Ensino Básico",
+                "descricao": "Técnico e Tecnológico no IFBA Campus Seabra, ministrando componentes curriculares na área de Informática e Tecnologia da Informação. Desenvolve atividades de ensino e extensão voltadas à formação de estudantes nos cursos técnicos. Participa do planejamento pedagógico, elaboração de materiais didáticos, orientação de estágio e organização de atividades acadêmicas. Contribui para o fortalecimento da educação profissional e tecnológica, com foco em metodologias ativas e integração entre teoria e prática no ensino de informática"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2016,
+                "ano_fim": 2019,
+                "funcao": "Coordenador de Gestão de T.I.",
+                "vinculo": "Não informado",
+                "descricao": "Atuação como Coordenador de Gestão de Tecnologia da Informação do IFBA Campus Seabra"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": 2024,
+                "funcao": "Técnico de Tecnologia da Informação",
+                "vinculo": "Atuou na Coordenação de Gestão de Tecnologia da Informação no IFBA Campus Seabra. Responsável pela administração de redes locais",
+                "descricao": "configuração de equipamentos de comunicação de dados, manutenção de computadores e servidores, implantação de sistemas operacionais e apoio técnico a usuários. Prestou suporte técnico às atividades de ensino, pesquisa e extensão, garantindo o pleno funcionamento dos recursos computacionais e da rede acadêmica"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.2045052945613861,
+            "indian": 0.5780556797981262,
+            "black": 0.05714842677116394,
+            "white": 70.79363250732422,
+            "middle eastern": 21.34390640258789,
+            "latino hispanic": 7.022750377655029
+        }
+    }
+}

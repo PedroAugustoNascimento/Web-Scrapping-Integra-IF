@@ -1,0 +1,308 @@
+{
+    "campus": "- Campus Rio Verde",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Agronomia",
+                "instituicao": "Instituto federal Goiano - Rio Verde",
+                "titulo": "Agricultura Vertical de Precisão aplicada a Microverdes de Lentilha e Gergelim: Telemetria Auditável, Manejo Luminoso e Eficiência Energética da Produção de Biomassa",
+                "orientador": "Fabiano Guimarães Silva",
+                "ano_inicio": 2022,
+                "ano_fim": 2026
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Realidade Aumentada Distribuída na Web com Independência de Servidor para Manipulação de Objetos Virtuais na Camada Cliente",
+                "orientador": "Alexandre Cardoso",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade de Rio Verde",
+                "ano_inicio": 2004,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Goiás Desenvolvimento de Software",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Codificador java e analista de sistema",
+                "vinculo": "Programador",
+                "descricao": "Tecnologias utilizadas. Java, Hibernate, Eclipse, Netbeans, Jasper Report e o SGBD MYSQL"
+            },
+            {
+                "empresa": "Ministério Público do Estado de Goiás",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Estagiário no departamento de Informática.",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Journal of Health Informatics",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Goiás (GO)",
+                "ano_inicio": 2010,
+                "ano_fim": 2016,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "para monitoramento da altura da lâmina de água em Infiltrômetro de Anel",
+                    "software": "através de placa programável ESP32 e sensor de distância ultrassônico HC-SR04 - Soluções para VIB",
+                    "ano": "2023",
+                    "finalidade": "Medir a altura da lâmina de água em Infiltrômetro de Anel.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023003098-8."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "M. D.,  BAILAO, A. S. O.,  BARROS, G. M.,  DAMKE, C. R.,  OLIVEIRA, F. A. C.,  DANTAS, V. D.,  VILELA, M. S.,  Solar Panel Curve Visualization",
+                    "ano": "2023",
+                    "finalidade": "Visualizar a curva e a quantidade de eficiência dos painéis solares.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025002367-7."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "M. D.,  MENDONCA, R. C.,  QUEIROZ, V. M.,  BAILAO, A. S. O.,  OLIVEIR, D. C.,  SILVA, F. G.,  BESSA, L. A.,  VITORINO, L. C.,  TEIXEIRA, M. B.,  MORAIS, W. A.,  Monitoramento Avançado de Infiltrômetro de Anel: Aplicação Integrada Utilizando ESP32, Sensor Ultrassônico HC-SR04, Comunicação via Protocolo MQTT e Desenvolvimento em Flutter para Conectividade Universal em Dispositivos Móveis e Plataformas Desktop",
+                    "ano": "2023",
+                    "finalidade": "Aplicativo para gerenciamento e monitamento de irrigação, em tempo real, através de dispostivos móveis ou desktop.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023002720-0."
+                },
+                {
+                    "autor": "SANTOS",
+                    "software": "L. N. S.,  SILVA, D. H.,  SOUZA, L. R. S.,  OLIVEIRA, G. A.,  COSTA, A. C.,  MARQUES, L. G.,  SILVA, M. D.,  ABADE, A. S.,  SOUZA, E. M.,  AgroTradeNCM",
+                    "ano": "2022",
+                    "finalidade": "Agro.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025001351-5."
+                },
+                {
+                    "autor": "MENDONCA",
+                    "software": "R. C.,  OLIVEIRA, D. C.,  SILVA, M. D.,  Macedo,  OLIVEIRA, W. C. S.,  BAILAO, A. S. O.,  FRANCA, H. F. C.,  OptiIrriga: Aplicativo Inteligente de Gerenciamento e Otimização de Irrigação com Flutter",
+                    "ano": "2022",
+                    "finalidade": "Gerenciamento e otimização inteligente de sistemas de irrigação..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023003546-7."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "M. D.,  Curso de Liguaguem de Programação JAVA",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "M. D.,  II Semana de Engenharia e Tecnologia do Departamento IV",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFG."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "M. D.,  VIII Secomp - Semana de Computação",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnológia de Goiás."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "M. D.,  VII Secomp - Semana de Computação",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnológia de Goiás."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "M. D.,  VI SECOMP - Semanda de Computação",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DIAS SILVA, MARLUS",
+                "titulo": "GUIMARÃES SILVA, FABIANO;  MARTINS VASCONCELOS, JAQUELINE;  BARBOSA DA SILVA, FÁBIA;  SOARES DE OLIVEIRA BAILÃO, ADRIANO;  MORAES ROCHA GUEDES, ÍTALO;  DA SILVA VILELA, MÁRCIO;  CARVALHO COSTA, ADRIANO;  ROSA, MÁRCIO;  LORAM LOURENÇO, LUCAS;  An Open-Architecture Precision Vertical Farming System for Sesame Microgreens: Audit-Ready Telemetry for Dynamic Lighting and Energy-Biomass Benchmarking",
+                "ano": "2026",
+                "periodico": "Smart Agricultural Technology. ISBN: 27723755   ."
+            },
+            {
+                "autores": "SILVA, M. D.",
+                "titulo": "VASCONCELOS, J. M.;  SILVA, F. B.;  BAILAO, A. S. O.;  GUEDES, I. M. R.;  VILELA, M. S.;  COSTA, A. C.;  ROSA, M.;  SILVA, F. G.;  Growing in Red: Impact of Different Light Spectra and Lighting Conditions on Lentil Microgreens Growth in Vertical Farming",
+                "ano": "2024",
+                "periodico": "Frontiers in Plant Science. ISBN: 1664462X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DIAS JUNIOR, J. B.",
+                "titulo": "SILVA, M",
+                "evento": "D.; CARDOSO",
+                "local": "A.; LAMOUNIER JUNIOR, E. A.; LOPES, L. F. B.; DAMASCENO, E. F.; Um Suporte para Adaptação de Conteúdo de Realidade Virtual para Dispostivos Móveis. XII Symposium on Virtual and Augmented Reality - SVR 2010, Natal",
+                "ano": "2010"
+            },
+            {
+                "autores": "SILVA, M. D.",
+                "titulo": "SANTOS, E",
+                "evento": "S.; ABREU",
+                "local": "R. O.; LAMOUNIER JUNIOR, E. A.; CARDOSO, A.; Desenvolvimento de uma Arquitetura para Distribuição de Realidade Aumentada na Web Aplicada ao Ensino de Motores de Corrente Contínua. Workshop de Realidade Virtual e Aumentada, São Paulo",
+                "ano": "2010"
+            },
+            {
+                "autores": "SILVA, M. D.",
+                "titulo": "SANTOS, E",
+                "evento": "S.; CARDOSO",
+                "local": "A.; LAMOUNIER JUNIOR, E. A.; DESENVOLVIMENTO DE UMA ARQUITETURA PARA DISTRIBUIÇÃO DE REALIDADE AUMENTADA NA WEB APLICADA AO ENSINO DE MOTORES DE CORRENTE CONTÍNUA. 40th IGIP International Symposium on Engineering Education - PROCEEDINGS OF COPEC WORLD CONGRESS, Santos",
+                "ano": "2010"
+            },
+            {
+                "autores": "DIAS JUNIOR, J. B.",
+                "titulo": "SILVA, M",
+                "evento": "D.; CARDOSO",
+                "local": "A.; LAMOUNIER JUNIOR, E. A.; A Software Architecture for Adapating Virtual Reality Content to Mobile Devices. Computer and Information Technology (CIT), 2010 IEEE 10th International Conference on, Bradford",
+                "ano": "2010"
+            },
+            {
+                "autores": "DIAS JUNIOR, J. B.",
+                "titulo": "SILVA, M",
+                "evento": "D.; DAMASCENO",
+                "local": "E. F.; LOPES, L. F. B.; CARDOSO, A.; LAMOUNIER JUNIOR, E. A.; PROPOSTA DE UM MIDDLEWARE PARA ADAPTAÇÃO DE CONTEÚDO DE REALIDADE VIRTUAL PARA DISPOSITIVOS MÓVEIS. XI Symposium on Virtual and Augmented Reality, Rio Grande do Sul",
+                "ano": "2009"
+            },
+            {
+                "autores": "SILVA, M. D.",
+                "titulo": "SANTOS, E",
+                "evento": "S.; ARANTES",
+                "local": "W. V.; LIMA, L. V. O.; CARDOSO, A.; LAMOUNIER JUNIOR, E. A.; Uma Proposta de Middleware para distribuição de Realidade Aumentada pela Web como Ferramenta de Apoio para Educação a Distância. 6º. Workshop de Realidade Virtual e Aumentada - WRVA, Santos -SP",
+                "ano": "2009"
+            },
+            {
+                "autores": "LIMA, L. V. O.",
+                "titulo": "SANTOS, E",
+                "evento": "S.; SILVA",
+                "local": "M. D.; ARANTES, W. V.; CARDOSO, A.; LAMOUNIER JUNIOR, E. A.; Uma ferramenta para auxiliar o tratamento de pessoas Com aracnofobia utilizando técnicas de realidade Aumentada. 6º. Workshop de Realidade Virtual e Aumentada - WRVA, Santos - SP",
+                "ano": "2009"
+            },
+            {
+                "autores": "SANTOS, E. S.",
+                "titulo": "SILVA, M",
+                "evento": "D.; ARANTES",
+                "local": "W. V.; LIMA, L. V. O.; CARDOSO, A.; LAMOUNIER JUNIOR, E. A.; Proposta de uma Interface não Convencional para Reabilitação Motora Suportada por Ambientes de Realidade Virtual. 6º Workshop de Realidade Virtual Aumentada, Santos - SP",
+                "ano": "2009"
+            },
+            {
+                "autores": "ARANTES, W. V.",
+                "titulo": "SILVA, M",
+                "evento": "D.; SANTOS",
+                "local": "E. S.; OLIVEIRA, M. R. F.; YAMANAKA, K.; CARDOSO, A.; LAMOUNIER JUNIOR, E. A.; Proposta de uma Interface não Convencional Baseada em Processamento de Imagens e Redes Neurais Artificiais. Congresso Brasileiro de Redes Neurais/Inteligência Computacional (IX CBRN), Ouro Preto, MG",
+                "ano": "2009"
+            },
+            {
+                "autores": "DIAS JUNIOR, J. B.",
+                "titulo": "SILVA, M",
+                "evento": "D.; CARDOSO",
+                "local": "A.; LAMOUNIER JUNIOR, E. A.; Proposta de uma Arquitetura de Software para Adaptação de Conteúdo de Realidade Virtual para Dispositivos Móveis. 5º. Workshop de Realidade Virtual e Aumentada - WRVA, Bauru-SP",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Wennys camilo da silva oliveira",
+                "titulo": "Desenvolvimento de um aplicativo em Flutter para auxiliar no manejo de irrigação",
+                "ano": "2022",
+                "curso": "Ciência da computação",
+                "instituicao": "Instituto federal Goiano - Rio Verde"
+            },
+            {
+                "orientando": "Adelaide Maia de Assis Neta",
+                "titulo": "DESENVOLVIMENTO DE UM LIVRO INTERATIVO COM USO DE TÉCNICAS DE REALIDADE AUMENTADA: UM ESTUDO DE CASO SOBRE OS ESTÁDIOS DA COPA DO MUNDO DE 2014.",
+                "ano": "2013",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Cristian Silva Cordeiro",
+                "titulo": "Metodologia de Migração de Software Proprietário para Software Livre Com Foco no Usuário",
+                "ano": "2013",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Edivair Martins",
+                "titulo": "Uso do Arduíno como ferramenta de automação residencial",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiás (GO)"
+            },
+            {
+                "orientando": "Igor Oliveira Vieira",
+                "titulo": "Realidade Aumentada aplicada ao ensino e aprendizagem de Instalações Elétricas",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Samila Carolina Costa",
+                "titulo": "Desenvolvimento de uma ferramenta de Realidade Virtual, aplicada no processo de ensino aprendizagem de motores elétricos",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Kelly Cristina",
+                "titulo": "Uma análise sobre os Editores Gráficos",
+                "ano": "2010",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiás (GO)"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 12.552361488342285,
+            "indian": 11.8275728225708,
+            "black": 8.052971839904785,
+            "white": 20.307693481445312,
+            "middle eastern": 20.640281677246094,
+            "latino hispanic": 26.619110107421875
+        }
+    }
+}

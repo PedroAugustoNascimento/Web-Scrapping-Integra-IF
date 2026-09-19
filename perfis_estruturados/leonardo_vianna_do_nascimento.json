@@ -1,0 +1,664 @@
+{
+    "campus": "- Campus Alvorada",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Uma arquitetura multiagente para integração de fontes de contexto em cidades inteligentes",
+                "orientador": "José Palazzo Moreira de Oliveira",
+                "ano_inicio": 2019,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Um Sistema Baseado em Agentes para Re-anotação de Genomas",
+                "orientador": "Ana Lúcia C",
+                "ano_inicio": 2003,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "ano_inicio": 1998,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Santa Maria",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2006,
+                "ano_fim": 2010,
+                "funcao": "Professor de 1º e 2º graus - Ensino Técnico",
+                "vinculo": "Servidor público",
+                "descricao": "Professor do Colégio Técnico Industrial - Curso de Informática"
+            },
+            {
+                "empresa": "Vetorial Net Servicos de Comunicacao",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Programador",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Vetorial Net Servicos de Comunicacao",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Técnico/Administrador de Servidores",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "T&T Engenheiros Associados",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Analista/Programador Júnior",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor Ens. Básico",
+                "vinculo": "Técnico e Tecnológico",
+                "descricao": "Servidor público, Professor no Campus Rio Grande (até 05/2014)Professor no Campus Restinga (até 04/2017)Professor no Campus Alvorada (a partir de 05/2017)"
+            },
+            {
+                "empresa": "Future Generation Computer Systems",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nCampus Restinga (2014 - 2015) : Coordenador De Ensino.\nCampus Rio Grande (2010 - 2014) : Coordenador De Curso (curso Técnico De Informática Para Internet).\nIFRS - Campus Alvorada (2017): Ambientes inteligentes, Sistemas sensíveis ao contexto, Modelagem conceitual e ontologias, Sistemas ubíquos e pervasivos, Sistemas multiagentes,",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nEnsino-medio (2024) .\nEnsino-medio (2022 - 2023) .\nEnsino-medio (2021 - 2021) .\nEnsino-medio (2019 - 2020) .\nGraduacao (2019 - 2021) - Pedagogia.\nEnsino-medio (2016 - 2018) .\nOutro (2016 - 2018) .\nGraduacao (2014 - 2017) - Análise E Desenvolvimento De Sistemas.\nEnsino-medio (2014 - 2017) .\nGraduacao (2013 - 2014) - Tecnol. Em Análise E Desenvolvimento De Sistemas.\nEnsino-medio (2010 - 2014) .\nGraduacao (2010 - 2013) - Tecnol. Em Análise E Desenvolvimento De Sistemas.\nExtensão Universitária: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nInstituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul: Curso De Informática Básica (2017 - 2022) - Curso De Informática Básica.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nComissão Permamente De Pessoal Docente (cppd) (2024).\nComissão De Elaboração Do Plano De Desenvolvimento Institucional 2024-2028 (2023 - 2023).\nComissão Própria De Avaliação (cpa) (2021 - 2022).\nConselho De Campus(concamp) (2018 - 2019).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Representação e recomendação de recursos de aprendizagem dentro de um smart campus",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "José Palazzo Moreira De Oliveira",
+                    "Maran",
+                    "Vinícius",
+                    "Daniel Lichtnow",
+                    "Andressa Da Silva Teixeira",
+                    "Pedro Hasan Carara",
+                    "Samuel Dias Oliveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Levantamento do Uso de Sistemas de Software por Deficientes Visuais no Município de Porto Alegre",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Mapeamento Sistemático de Abordagens para Identificação de Contexto em Sistemas Ubíquos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "José Palazzo Moreira De Oliveira"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Modelo Multiagente para Reconhecimento, Armazenamento e Distribuição de Contexto em Cidades Inteligentes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "José Palazzo Moreira De Oliveira"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Modelagem ontológica e sistema de recomendação para apoio no desenvolvimento de hortas orgânicas e agroecológicas urbanas e periurbanas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "José Palazzo Moreira De Oliveira",
+                    "Daniel Lichtnow",
+                    "Júlia Isadora Steimmetz Da Rosa"
+                ],
+                "financiador": "CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ,",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Sistemas multiagentes e aprendizado federado: um panorama atual",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "Renata Dos Santos De Barros"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Alvorada Lab - Espaço Maker e Incubadora Tecnológica Social e Educacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "Marcelo Vianna",
+                    "Janaína De Nardin",
+                    "Rodrigo Medeiros Da Silva"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Educ3D+: Recursos Pedagógicos para Apoio a Estudantes com Necessidades Educacionais Específicas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "Marcelo Vianna",
+                    "Janaína De Nardin",
+                    "Eliza Vargas Medina"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria em Lógica de Programação",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul,",
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Cidades Inteligentes e Sustentáveis",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "José Palazzo Moreira De Oliveira",
+                    "Priscila Piccolo",
+                    "Gabriel Machado Lunardi",
+                    "Carlos Francisco Habekost Dos Santos",
+                    "Mcdonnell Maieron"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Modelagem conceitual, Ontologia e representação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leonardo Vianna Do Nascimento",
+                    "José Palazzo Moreira De Oliveira",
+                    "Maran",
+                    "Vinícius",
+                    "Gabriel Machado Lunardi",
+                    "Leandro Krug Wives"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "NASCIMENTO",
+                    "software": "L. V.,  Lógica de Programação",
+                    "ano": "2013",
+                    "finalidade": "Material didático de apoio para a disciplina de Lógica de Programação do Curso Técnico em Informática do Campus Rio Grande do IFRS, parte do programa e-Tec Brasil.."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "NASCIMENTO",
+                    "titulo": "L. V.,  DE OLIVEIRA, JOSÉ PALAZZO M.,  A multi agent architecture for context sources integration in smart cities",
+                    "ano": "2025",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação (SBC)."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "F. A. O.,  NASCIMENTO, L. V.,  TéiaBus - Sistema para auxilio de mobilidade de deficientes visuais em onibus urbanos",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Câmpus Restinga."
+                },
+                {
+                    "autores": "NASCIMENTO",
+                    "titulo": "L. V.,  BOTELHO, S.,  Uma Arquitetura Deliberativa para Cooperação em um Sistema Multi-agente",
+                    "ano": "2002",
+                    "instituicao_promotora": "FURG - Universidade Federal do Rio Grande."
+                },
+                {
+                    "autores": "NASCIMENTO",
+                    "titulo": "L. V.,  BOTELHO, S.,  Uma Arquitetura Multi-agente para Ambientes Complexos",
+                    "ano": "2002",
+                    "instituicao_promotora": "FURG - Universidade Federal do Rio Grande."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma A",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma B",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma A",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma B",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma A",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma B",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Informática Básica",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma A",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma B",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma A",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma B",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma A",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma B",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma B",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma A",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma B",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma A",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma B",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma A",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma A",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma B",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma A",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma B",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma A",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma B",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma A",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java I - Turma B",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma A",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java II - Turma B",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma A",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Programação Básica com Java III - Turma B",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Informática Básica - Turma 1",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Informática Básica - Turma 2",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Informática - Nível Intermediário - Turma 1",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Informática - Nível Intermediário - Turma 2",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "NASCIMENTO",
+                    "curso": "L. V.,  Informática Básica",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "NASCIMENTO, L. V.",
+                "titulo": "OLIVEIRA, J. P. M.;  ActivEOn: An ontology for human activity modelling in smart spaces",
+                "ano": "2026",
+                "periodico": "Journal of Information and Data Management - JIDM. ISBN: 21787107   ."
+            },
+            {
+                "autores": "DO NASCIMENTO, LEONARDO VIANNA",
+                "titulo": "de Oliveira, José Palazzo Moreira;  A multi-agent architecture for context sources integration in smart cities",
+                "ano": "2025",
+                "periodico": "Future Generation Computer Systems. ISBN: 0167739X   ."
+            },
+            {
+                "autores": "FLEISCHMANN, ANA",
+                "titulo": "LICHTNOW, D.;  NASCIMENTO, L. V.;  MACHADO, GUILHERME MEDEIROS;  OLIVEIRA, J. P. M.;  Gerando uma Ontologia usando ChatGPT: Um Relato de Experiência",
+                "ano": "2025",
+                "periodico": "CADERNOS DE INFORMÁTICA (UFRGS). ISBN: 1519132X   ."
+            },
+            {
+                "autores": "VIANNA DO NASCIMENTO, LEONARDO",
+                "titulo": "PALAZZO MOREIRA DE OLIVEIRA, JOSÉ;  Decentralized, distributed and fault-tolerant context recognition architectures for smart cities: A systematic mapping",
+                "ano": "2024",
+                "periodico": "SBC Reviews on Computer Science. ISBN: 29663938   ."
+            },
+            {
+                "autores": "Piccolo, Priscila",
+                "titulo": "Lunardi, Gabriel;  NASCIMENTO, L. V.;  OLIVEIRA, J. P. M.;  Service Recommendation System for a Smart City",
+                "ano": "2022",
+                "periodico": "CADERNOS DE INFORMÁTICA (UFRGS). ISBN: 1519132X   ."
+            },
+            {
+                "autores": "DO NASCIMENTO, LEONARDO VIANNA",
+                "titulo": "MACHADO, GUILHERME MEDEIROS;  MARAN, VINÍCIUS;  DE OLIVEIRA, JOSÉ PALAZZO M.;  Context recognition and ubiquitous computing in smart cities: a systematic mapping",
+                "ano": "2021",
+                "periodico": "COMPUTING (WIEN. INTERNET). ISBN: 14365057   ."
+            },
+            {
+                "autores": "NASCIMENTO, L. V.",
+                "titulo": "Aproximando Campus e comunidade através da informática",
+                "ano": "2018",
+                "periodico": "Viver IFRS. ISBN: 23189665   ."
+            },
+            {
+                "autores": "NASCIMENTO, L. V.",
+                "titulo": "BAZZAN, A. L.;  An agent-based system for re-annotation of genomes",
+                "ano": "2005",
+                "periodico": "Genetics and Molecular Research. ISBN: 16765680   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "LICHTNOW, DANIEL",
+                "titulo": "FLEISCHMANN, ANA; VIANNA DO NASCIMENTO, LEONARDO; MACHADO, GUILHERME; MOREIRA DE OLIVEIRA, JOSÉ; Pipeline for Ontology Construction Using a Large Language Model: A Smart Campus Use Case",
+                "evento": "27th International Conference on Enterprise Information Systems",
+                "local": "Porto",
+                "ano": "2025"
+            },
+            {
+                "autores": "BARROS, R. S.",
+                "titulo": "NASCIMENTO, L",
+                "evento": "V.; Sistemas Multi-agentes e Aprendizado Federado - Um Panorama Atual. 8ª Mostra de Ensino",
+                "local": "Pesquisa e Extensão do IFRS ?Campus Alvorada, Alvorada, RS",
+                "ano": "2025"
+            },
+            {
+                "autores": "ROSA, J. I. S.",
+                "titulo": "NASCIMENTO, L",
+                "evento": "V.; Modelagem ontológica e sistema de recomendação para apoio no desenvolvimento de hortas orgânicas e agroecológicas urbanas e periurbanas. 8ª Mostra de Ensino",
+                "local": "Pesquisa e Extensão do IFRS ?Campus Alvorada, Alvorada, RS",
+                "ano": "2025"
+            },
+            {
+                "autores": "CANDIDO, A. V. M.",
+                "titulo": "SILVA, R",
+                "evento": "M.; NARDIN",
+                "local": "J.; NASCIMENTO, L. V.; VIANNA, M.; BioLab Maker. 8ª Mostra de Ensino, Pesquisa e Extensão do IFRS ?Campus Alvorada, Alvorada, RS",
+                "ano": "2025"
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "CANDIDO, A",
+                "evento": "V. M.; NASCIMENTO",
+                "local": "L. V.; VIANNA, M.; NARDIN, J.; Alvorada Maker, o primeiro espaço maker de Alvorada. 8ª Mostra de Ensino, Pesquisa e Extensão do IFRS ?Campus Alvorada, Alvorada, RS",
+                "ano": "2025"
+            },
+            {
+                "autores": "ROSA, J. I. S.",
+                "titulo": "NASCIMENTO, L",
+                "evento": "V.; Modelagem ontológica e sistema de recomendação para apoio ao desenvolvimento de hortas orgânicas e agroecológicas urbanas e periurbanas. 14º Seminário de Iniciação Científica e Tecnológica do IFRS (SICT)",
+                "local": "Bento Gonçalves, RS",
+                "ano": "2025"
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "NASCIMENTO, L",
+                "evento": "V.; Implementação do espaço Maker no câmpus Alvorada: o primeiro espaço maker de Alvorada. Mostra de Inovação e Tecnologias",
+                "local": "Bento Gonçalves, RS",
+                "ano": "2025"
+            },
+            {
+                "autores": "DO NASCIMENTO, LEONARDO VIANNA",
+                "titulo": "OLIVEIRA, J",
+                "evento": "P. M.; Towards an Ontology for User Activities on Smart Environments. XXXIX Simpósio Brasileiro de Bancos de Dados",
+                "local": "Florianópolis, SC",
+                "ano": "2024"
+            },
+            {
+                "autores": "MARAN, VINÍCIUS",
+                "titulo": "Lunardi, Gabriel; MACHADO, GUILHERME MEDEIROS; NASCIMENTO, L",
+                "evento": "V.; LICHTNOW",
+                "local": "D.; CEZAR, N. L.; GASPARINI, I.; OLIVEIRA, E. H. T.; OLIVEIRA, J. P. M.; Smart Campuses e Ontologias: Um Mapeamento Sistemático da Literatura e Caminhos para a Pesquisa. XXXIV Simpósio Brasileiro de Informática na Educação, Passo Fundo, RS",
+                "ano": "2023"
+            },
+            {
+                "autores": "JUNIOR, S. D. O. C.",
+                "titulo": "NASCIMENTO, L",
+                "evento": "V.; Websites Responsivos e Seus benefícios. 4º Seminário de Iniciação Científica e Tecnológica",
+                "local": "Bento Gonçalves, RS",
+                "ano": "2015"
+            },
+            {
+                "autores": "BAZZAN, A. L.",
+                "titulo": "FAJARDO, B",
+                "evento": "S.; NASCIMENTO",
+                "local": "L. V.; SANTOS, C. T.; SASSI, V. F.; Um Sistema Baseado em Software Livre para Anotação Automática de Genomas e Proteínas. V Workshop sobre Software Livre, Porto Alegre",
+                "ano": "2004"
+            },
+            {
+                "autores": "NASCIMENTO, L. V.",
+                "titulo": "BAZZAN, A",
+                "evento": "L.; An Agent-Based System for Re-annotation of Genomes. III Brazilian Workshop on Bioinformatics",
+                "local": "Brasília",
+                "ano": "2004"
+            },
+            {
+                "autores": "SOARES, M. B.",
+                "titulo": "NASCIMENTO, L",
+                "evento": "V.; BOTELHO",
+                "local": "S.; M+: Uma Arquitetura para a Cooperação Multi-Robô. XVI Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, Ijuí, RS",
+                "ano": "2001"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Vanderson Rodrigues Nery",
+                "titulo": "SIPVEICULAR - Sistema de Identificação de Placa Veicular",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Sérgio Gambarra da Silva",
+                "titulo": "Estacionamento IF - Sistema para Controle de Estacionamento do IFRS - Campus Restinga",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Fernando Augusto Oliveira dos Santos",
+                "titulo": "TEIABUS - Sistema de Orientação Urbana para Deficientes Visuais",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Artur Freitas Arocha",
+                "titulo": "Sistema para Aumento da Responsividade de Serviços com Grande Demanda de Conexões a Servidores de Banco de Dados",
+                "ano": "2013",
+                "curso": "Tecnol. em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Federal do Rio Grande"
+            },
+            {
+                "orientando": "Aline Klumb e Alexandre Baldez",
+                "titulo": "Implementando um Sistema de Transporte Inteligente",
+                "ano": "2012",
+                "curso": "Tecnol. em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Federal do Rio Grande"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.013754169456660748,
+            "indian": 0.23681463301181793,
+            "black": 0.0034718462266027927,
+            "white": 56.801300048828125,
+            "middle eastern": 33.37133026123047,
+            "latino hispanic": 9.573331832885742
+        }
+    }
+}

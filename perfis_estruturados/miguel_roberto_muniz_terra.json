@@ -1,0 +1,75 @@
+{
+    "campus": "- Campus Rio de Janeiro",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Instituto Militar de Engenharia",
+                "titulo": "Não informado",
+                "orientador": "Cícero Roberto Garcez",
+                "ano_inicio": 1990,
+                "ano_fim": 1991
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bachareu em Ciências Navais",
+                "instituicao": "Escola Naval",
+                "ano_inicio": 1976,
+                "ano_fim": 1980
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 1994,
+                "ano_fim": null,
+                "funcao": "Professor Ens Basico Tecn Tecnologico",
+                "vinculo": "Área de Informática",
+                "descricao": ""
+            },
+            {
+                "empresa": "Marinha do Brasil",
+                "ano_inicio": 1975,
+                "ano_fim": 1994,
+                "funcao": "Oficial",
+                "vinculo": "Não informado",
+                "descricao": "Capitão de Corveta Intendente"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 13.082877159118652,
+            "indian": 19.937820434570312,
+            "black": 15.704816818237305,
+            "white": 11.91845703125,
+            "middle eastern": 15.863707542419434,
+            "latino hispanic": 23.492326736450195
+        }
+    }
+}

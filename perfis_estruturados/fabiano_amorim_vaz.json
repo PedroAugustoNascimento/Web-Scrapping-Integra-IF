@@ -1,0 +1,834 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Sistema Operacional para Residências Inteligentes Baseado em Análise Comportamental com Suporte à Interação Natural",
+                "orientador": "Veronica Teichrieb",
+                "ano_inicio": 2013,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "CAAPA Virtual: Modelo Produtivo para Ambiente Virtual Interativo Multimodal",
+                "orientador": "Edson Costa de Barros Carvalho Filho",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz",
+                "ano_inicio": 2005,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro Universitário do Rio São Francisco ? Matriz",
+                "ano_inicio": 2009,
+                "ano_fim": 2012,
+                "funcao": "",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário do Rio São Francisco ? Matriz",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Estágio - Dep. de Tecnologia",
+                "vinculo": "Resumo de Atividades: Estágio direcionado a área de informática no Departamento de Tecnologia em Informática ? DTI",
+                "descricao": "com atividades de suporte técnico, controle de rede, administração de dois laboratórios de informática (42 computadores) na rede educacional, diagramação, gerenciamento supervisionado de contas de usuários e utilização de sistemas do pacote RM Corpore"
+            },
+            {
+                "empresa": "Softwell Solutions",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Analista de Desenvolvimento",
+                "vinculo": "Cooperação",
+                "descricao": "- Participação no desenvolvimento do Maker All (versão 2.3.4.477). Otimização do algoritmo de geração de códigos Java (war e jar). - Desenvolvimento e Otimização de Sistemas Computacionais para o Orgão Público. Alocação na Prefeitura Municipal de Paulo Afonso (PMPA)"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia da Bahia\nAperfeicoamento (2012) - Técnico Em Informática.\nGraduacao (2012) - Engenharia Elétrica.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia da Bahia\nConselho De Curso De Informática (2018).",
+        "projetos": [
+            {
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz",
+                "nome": "Mídias Interativas Digitais e Automação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz"
+                ],
+                "financiador": "Centro Universitário do Rio São Francisco ? Matriz,",
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Análise de Infraestruturas de Cloud Computing de Nuvem Privada Baseadas no Sistema Eucalyptus",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Recard: Um Robô para Auxílio na Reconstrução Tridimensional com Aplicação em Ambientes Virtuais Multissensorial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Processamento de Imagens para a Elaboração de Modelos e Objetos Tridimensionais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz",
+                    "Ravenna Jesus Dos Santos"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Tecnologia Assistivas como Mecanismo de Estímulo à Percepção Sensorial na Aprendizagem Infantil",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz",
+                    "Lara Silva Xavier"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Estufa Tecnológica: Concepção de um dispositivo para o cultivo hidropônico indoor de hortaliças",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Modelo de Reconstrução Tridimensional Automática Baseado em Imagens para a Produção, Gestão e Distribuição de Acervo Arqueológico em Ambientes Virtuais Multissensorial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia,",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Produção de Etanol a partir da Fermentação Microbiana do Mosto de Mandioca",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Amorim Vaz",
+                    "Flávia Jorlane Rodrigues De Oliveira",
+                    "Patrícia Da Silva Cerqueira",
+                    "Ricardo Augusto Nink",
+                    "Jadilson Pereira De Barros"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "VAZ",
+                    "software": "FABIANO AMORIM,  Ponto Biométrico",
+                    "ano": "2012",
+                    "finalidade": "Registro de Folha de Ponto."
+                },
+                {
+                    "autor": "VAZ",
+                    "software": "FABIANO AMORIM,  Caapa Virtual",
+                    "ano": "2011",
+                    "finalidade": "Virtualização e Catalogação de artefatos.."
+                },
+                {
+                    "autor": "VAZ",
+                    "software": "FABIANO AMORIM,  Controle de Infração de Trânsito",
+                    "ano": "2008",
+                    "finalidade": "Controle de Infração de Trânsito."
+                },
+                {
+                    "autor": "VAZ",
+                    "software": "FABIANO AMORIM,  Gestão de Desenvolvimento Social",
+                    "ano": "2008",
+                    "finalidade": "Controle de doações (remédios, passagens e afins) da Secretária de Desenvolvimento Social de Paulo Afonso-BA."
+                },
+                {
+                    "autor": "VAZ",
+                    "software": "FABIANO AMORIM, Mesa Digitalizadora 360º",
+                    "ano": "2011",
+                    "finalidade": "Reconstrução 3D Automática de modelos reais."
+                },
+                {
+                    "autor": "VAZ",
+                    "software": "FABIANO AMORIM, Luva de Dados Infravermelho",
+                    "ano": "2011",
+                    "finalidade": "Dispositivo de Entrada de dados, comandado por gestos.."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "VAZ. F.A.",
+                    "titulo": "Internet das Coisas: Dispositivos e Aplicações",
+                    "ano": "2019",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "VAZ. F.A.",
+                    "titulo": "Interação Natural na Internet das Coisas",
+                    "ano": "2016",
+                    "instituicao_promotora": "CETEP."
+                },
+                {
+                    "autores": "VAZ",
+                    "titulo": "FABIANO AMORIM,  Interfaces Naturais para Usuários",
+                    "ano": "2011",
+                    "instituicao_promotora": "FASETE - Faculdade Sete de Setembro."
+                },
+                {
+                    "autores": "VAZ",
+                    "titulo": "FABIANO AMORIM,  Automação Residencial como Auxílio à Segurança Doméstica",
+                    "ano": "2008",
+                    "instituicao_promotora": "FASETE - Faculdade Sete de Setembro."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "VAZ. F.A.",
+                    "curso": "Internet das Coisas: Gerando nossos próprios dados",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "VAZ. F.A.",
+                    "curso": "Arduino para Internet das Coisas",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "VAZ. F.A.",
+                    "curso": "Introdução à Linguagem de Programação Python",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "VAZ. F.A.",
+                    "curso": "Arduino para Internet das Coisas",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "VAZ",
+                    "curso": "FABIANO AMORIM,  Desenvolvimento de Aplicações para TV Digital Interativa",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "VAZ",
+                    "curso": "FABIANO AMORIM,  TecCursos - Linguagem de Programação: JAVA",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "VAZ",
+                    "curso": "FABIANO AMORIM,  TecCursos - Maker All: Ferramenta de Desenvolvimento",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "VAZ",
+                    "evento": "FABIANO AMORIM,  XXII Escola Regional de Computação BAHIA - ALAGOAS - SERGIPE (ERBASE)",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC - Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "VAZ",
+                    "evento": "FABIANO AMORIM,  II CONINFA",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Sete de Setembro."
+                },
+                {
+                    "autores": "VAZ",
+                    "evento": "FABIANO AMORIM,  V TECVALE - Encontro Tecnológico do Vale do São Francisco",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FASETE - Faculdade Sete de Setembro."
+                },
+                {
+                    "autores": "VAZ",
+                    "evento": "FABIANO AMORIM,  IV TECVALE - Encontro tecnologico do Vale do São Francisco",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Sete de Setembro."
+                },
+                {
+                    "autores": "VAZ",
+                    "evento": "FABIANO AMORIM,  III Maratona de Programação",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C. G.;  Internet das Coisas para Residências Inteligentes",
+                "ano": "2024",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786501015 (Publicado)."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C. G.;  Museu Interativo",
+                "ano": "2023",
+                "informacoes_adicionais": "Varios. ISBN: 9788580457445 (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "AVELINO, PATRICK GOMES",
+                "titulo": "NOGUEIRA FILHO, RICARDO MARQUES;  VAZ, FABIANO AMORIM;  SANTOS, FATIMA LUCIA DE BRITO DOS;  RODRIGUES, TAISLAINE BARROS;  AVELINO, DANIELLE FERREIRA GOMES;  Automação do monitoramento das variáveis físico-químicas da água aplicado à aquicultura",
+                "ano": "2025",
+                "periodico": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES. ISBN: 19887833   ."
+            },
+            {
+                "autores": "VAZ, Kaique. L. A.",
+                "titulo": "VAZ. F.A.;  ARAUJO, C. G.;  Um Framework para o Design de Jogos que Abordam Saúde Mental",
+                "ano": "2025",
+                "periodico": "RIOS ELETRÔNICA (FASETE). ISBN: 19820577   ."
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "CAVALCANTE, M. M.;  VAZ. F.A.;  DANTAS, J. R.;  VIANA, E. C.;  RecArd: Robô baseado na plataforma Arduino como facilitador no processo de ensino-aprendizagem multidisciplinar",
+                "ano": "2024",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C. G.;  TEICHRIEB, V.;  Fusão de Técnicas de Reconstrução 3D Automática de Superfície Baseada Imagens Bidimensionais e Mapas de Profundidade",
+                "ano": "2023",
+                "periodico": "RIOS (FASETE. IMPRESSO). ISBN: 18089321   ."
+            },
+            {
+                "autores": "ARAUJO, C.",
+                "titulo": "KOSTA, S.;  VAZ, F.;  COSTA, I.;  MACIEL, P.;  SILVA, F.;  Supporting availability evaluation in MCC-based mHealth planning",
+                "ano": "2016",
+                "periodico": "ELECTRONICS LETTERS. ISBN: 00135194   ."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C. G.;  Museu Virtual Interativo: Técnicas para Digitalização e Exposição",
+                "ano": "2013",
+                "periodico": "RIOS (FASETE. IMPRESSO). ISBN: 18089321   ."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "VARJAO, F. R. G.;  VARJAO, Thiago. F. S.;  Binarização Adaptativa em Imagens de Documentos Degradados",
+                "ano": "2012",
+                "periodico": "RIOS (FASETE. IMPRESSO). ISBN: 18089321   ."
+            },
+            {
+                "autores": "ARAUJO, C. G.",
+                "titulo": "VAZ. F.A.;  SANTOS, Adilson Jorge dos;  Análise de Métodos Organizacionais para o Processo de Implantação de Sistemas ERP",
+                "ano": "2011",
+                "periodico": "RIOS (FASETE. IMPRESSO). ISBN: 18089321   ."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C. G.;  VARJAO, F. R. G.;  Restauração de Documentos Eletrônicos Degradados com Binarização Adaptativa",
+                "ano": "2011",
+                "periodico": "RIOS ELETRÔNICA (FASETE). ISBN: 19820577   ."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "VANDERLEI, I. Medeiros;  CARVALHO FILHO, E. C. B.;  CAMPOS, M. A.;  VERGNE, M. C. S.;  Modelo para produção de Ambiente Virtual Interativo Utilizando Navegação Multimodal",
+                "ano": "2010",
+                "periodico": "RIOS (FASETE. IMPRESSO). ISBN: 18089321   ."
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "Automação Residencial como Auxilio as necessidades domésticas",
+                "ano": "2008",
+                "periodico": "RIOS (FASETE. IMPRESSO). ISBN: 18089321   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "VAZ, Kaique. L. A.",
+                "titulo": "SANTOS, R",
+                "evento": "; VAZ. F.A.; ARAUJO",
+                "local": "C. G.; Um Framework para o Design de Jogos que Abordam Saúde Mental. 10º CONINFA ? Congresso Interdisciplinar do UniRios,",
+                "ano": "2025"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "Estufa Tecnológica: Concepção de um Dispositivo para Cultivo Hidropônico Indoor de Hortaliças",
+                "evento": "22ª Semana Nacional de Ciência e Tecnologia",
+                "local": "Paulo Afonso",
+                "ano": "2025"
+            },
+            {
+                "autores": "SOARES, A. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; Estufa Tecnológica: Concepção de um Dispositivo para Cultivo Hidropônico Indoor de Hortaliças. VI Congresso de Pesquisa",
+                "local": "Pós-Graduação e Inovação do IFBA,",
+                "ano": "2025"
+            },
+            {
+                "autores": "GOMES, L. B.",
+                "titulo": "SOARES, A",
+                "evento": "S.; FARIAS",
+                "local": "A. V. G.; SIQUEIRA, J. A. G.; PAIVA, L. J.; VAZ. F.A.; Estufa Inteligente: Controle Remoto e Monitoramento. SNCT/IFBA - Semana Nacional de Ciência e Tecnologica do IFBA, Paulo Afonso",
+                "ano": "2023"
+            },
+            {
+                "autores": "XAVIER, L. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; Assistive Technologies as a Mechanism to Stimulate Sensory Perception in Children's Learning. IX Neuroengineering Symposium 2023",
+                "local": "",
+                "ano": "2023"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "SANTOS, R",
+                "evento": "J.; Processamento de Imagens para a Elaboração de Modelos e Objetos Tridimensionais.. II Congresso de Pesquisa",
+                "local": "Pós-Graduação e Inovação do IFBA,",
+                "ano": "2022"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "XAVIER, L",
+                "evento": "S.; Tecnologias Assistivas como Mecanismo de Estímulo à Percepção Sensorial na Aprendizagem Infantil. II Congresso de Pesquisa",
+                "local": "Pós-Graduação e Inovação do IFBA,",
+                "ano": "2022"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "CAVALCANTE, M",
+                "evento": "M.; SANTOS",
+                "local": "R. S.; VAZ. F.A.; VIANA, E. C.; RecArd: Prototype of robot for 3d reconstruction with educational appliance.. World Congress on Systems Engineering and Information Technology, Vigo",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "CAVALCANTE, M",
+                "evento": "M.; VAZ. F.A.; VIANA",
+                "local": "E. C.; Robô para Reconstrução Tridimensional: Uma aplicação didático-pedagógica do protótipo no âmbito da Engenharia e Computação. XXIII Workshop sobre Educação em Computação - WEI, Recife",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; RecArd: Um robô para auxílio na reconstrução tridimensional com aplicação em ambientes virtuais multissensorial. XII Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação, Ilhéus - BA",
+                "ano": "2015"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C",
+                "evento": "G.; Interoperable Platform for Internet of Things at Home Applications. International Conference on Control",
+                "local": "Automation, Robotics and Vision Engineering, Barcelona",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "SANTOS, R",
+                "evento": "S.; VAZ. F.A.; O Kinect Fusion como técnica de reconstrução tridimensional de objetos em tempo real visando a construção de ambientes virtuais multissensoriais. IX Congresso Norte Nordeste de Pesquisa e Inovação (Connepi)",
+                "local": "São Luís - MA",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "MELO, M",
+                "evento": "C.; SANTOS",
+                "local": "R. S.; VAZ. F.A.; Perspectiva da implantação de nuvens privadas em empresas.. IX Congresso Norte Nordeste de Pesquisa e Inovação (Connepi), São Luís - MA",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; Modelo de Reconstrução Tridimensional Automática baseado em imagens para a produção",
+                "local": "gestão e distribuição de acervo arqueológico em Ambientes Virtuais.. XI Seminário de Iniciação Científica, Tecnológica e Inovação do IFBA, Porto Seguro - BA",
+                "ano": "2014"
+            },
+            {
+                "autores": "SANTOS, R. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; Reconstrução 3D baseada em processamento de imagens para produção de acervo arqueológico em ambientes virtuais. XI Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação do IFBA, Porto Seguro - BA",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; Modelo de Implantação de Nuvem Privada em Infraestruturas de Computação em Nuvem baseadas no sistema Eucalyptus. XIII Escola Regional de Computação Bahia",
+                "local": "Alagoas e Sergipe (ERBASE), Aracaju-SE",
+                "ano": "2013"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "SANTOS, R",
+                "evento": "S.; MELO",
+                "local": "M. C.; VAZ. F.A.; O Kinect Fusion como técnica de reconstrução tridimensional de objetos em tempo real. Semana de Engenharia da UFAL, Delmiro Gouveia - AL",
+                "ano": "2013"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "SILVA, J",
+                "evento": "L. S.; MELO",
+                "local": "M. C.; ARAUJO, C. G.; Análise de Técnicas de Reconstrução Tridimensionais de objetos em tempo real. VIII Congresso Norte Nordeste de Pesquisa e Inovação, Salvador - BA",
+                "ano": "2013"
+            },
+            {
+                "autores": "SILVA, J. L. S.",
+                "titulo": "VAZ",
+                "evento": "F.A.; Computação em Nuvem: Uma abordagem e estudo de caso de infraestrutura baseada na plataforma Eucalyptus. VIII Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador - BA",
+                "ano": "2013"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "ARAUJO, C",
+                "evento": "G.; Museu Virtual Interativo: Técnicas para Digitalização e Exposição. VIII Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador - BA",
+                "ano": "2013"
+            },
+            {
+                "autores": "VAZ, FABIANO AMORIM",
+                "titulo": "Infraestrutura para Produção, Gestão e Distribuição de Acervo Arqueológico Baseado em Imagens para Ambientes Virtuais",
+                "evento": "Workshop de Realidade Virtual e Aumentada",
+                "local": "Paranavaí-PR",
+                "ano": "2012"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "VANDERLEI, I",
+                "evento": "Medeiros; BARROS",
+                "local": "R. S. M.; Java on Road: Um Gerador de Protótipos Evolutivos de Alta Fidelidade. IV Congresso Tecnológico TI & Telecom da InfoBrasil, Fortaleza",
+                "ano": "2011"
+            },
+            {
+                "autores": "VAZ, FABIANO AMORIM",
+                "titulo": "VANDERLEI, I",
+                "evento": "Medeiros; CAMPOS",
+                "local": "M. A.; CARVALHO FILHO, E. C. B.; RINAD: Um modelo de integração para acesso ao acervo arqueológico, utilizando interação multissensorial em ambientes virtuais. IV Congresso Tecnológico TI & Telecom da InfoBrasil, Fortaleza",
+                "ano": "2011"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "VANDERLEI, I",
+                "evento": "Medeiros; BARROS",
+                "local": "R. S. M.; Java on Road: Um Gerador de Protótipos Evolutivos de Alta Fidelidade Open Source. ERBASE - Escola Regional Bahia Alagoas e Sergipe, Salvador",
+                "ano": "2011"
+            },
+            {
+                "autores": "VAZ. F.A.",
+                "titulo": "Automação Residencial como Auxílio à Segurança Doméstica",
+                "evento": "III TECVALE - Encontro Tecnológico do Vale do São Francisco",
+                "local": "",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Arthur Silva Soares",
+                "titulo": "Estufa Tecnológica: Concepção de um dispositivo para o cultivo hidropônico indoor de hortaliças",
+                "ano": "2025",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Maisa Honorato",
+                "titulo": "Análise Comparativa de Plataformas de Streaming de Vídeo. Trabalho de Conclusão de Curso - Técnico em Informática",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Mariane Rocha",
+                "titulo": "A Matriz Curricular do Curso Técnico De Nível Médio em Informática na Forma Subsequente e sua Importância para a Construção de um Projeto Integrador como Produto Final. Trabalho de Conclusão de Curso - Técnico em Informática",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Alexandre Lima Gomes",
+                "titulo": "Monitoramento de Geolocalização de Caprinos",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Lara Silva Xavier",
+                "titulo": "Tecnologia Assistivas como Mecanismo de Estímulo à Percepção Sensorial na Aprendizagem Infantil",
+                "ano": "2021",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Ravenna Jesus dos Santos",
+                "titulo": "Processamento de Imagens para a Elaboração de Modelos e Objetos Tridimensionais",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Rogéria Silva Souza",
+                "titulo": "Aprendizado em Desenvolvimento de Software sob a perspectiva de um estudante de curso técnico - Trabalho de Conclusão de Curso - Técnico em Informática",
+                "ano": "2020",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Claudério Paiva",
+                "titulo": "Reconhecimento Facial como mecanismo de auxílio à Segurança Pública. Trabalho de Conclusão de Curso - Técnico em Informática",
+                "ano": "2020",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Clarice dos Santos Barros",
+                "titulo": "Internet das Coisas: Aspectos de Segurança em Dispositivos Domésticos Inteligentes",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Jorge Lucas Gonçalves de Magalhães",
+                "titulo": "Estágio Curricular",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Paulo Ricardo de Brito",
+                "titulo": "Estágio Curricular",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Camila Gonzaga de Araujo",
+                "titulo": "Análise e Avaliação para o Suporte ao Planejamento do uso da Computação Móvel na Nuvem Aplicada no Ensino a Distância",
+                "ano": "2016",
+                "curso": "Educação à Distância: Gestão e Tutoria",
+                "instituicao": "Centro Universitário Leonardo da Vinci"
+            },
+            {
+                "orientando": "João Lucas de Souza Silva",
+                "titulo": "RECARD: UM ROBÔ PARA AUXÍLIO NA RECONSTRUÇÃO TRIDIMENSIONAL COM APLICAÇÃO EM AMBIENTES VIRTUAIS MULTISSENSORIAL",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Lucas de Souza Silva",
+                "titulo": "Modelo de Reconstrução Tridimensional Automática Baseado em Imagens para a Produção, Gestão e Distribuição de Acervo Arqueológico em Ambientes Virtuais Multissensorial",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Rafael Sol dos Santos",
+                "titulo": "Reconstrução 3D Baseada em Processamento de Imagens para Produção de Acervo Arqueológico em Ambientes Virtuais",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "João Lucas de Souza Silva",
+                "titulo": "MODELO DE RECONSTRUÇÃO TRIDIMENSIONAL AUTOMÁTICA BASEADO EM IMAGENS PARA A PRODUÇÃO, GESTÃO E DISTRIBUIÇÃO DE ACERVO ARQUEOLÓGICO EM AMBIENTES VIRTUAIS",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rafael Sol dos Santos",
+                "titulo": "Reconstrução 3D baseada em processamento de imagens para produção de acervo arqueológico em ambientes virtuais",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Granville de Souza Silva",
+                "titulo": "Sistema em tempo real aplicado a controle de plataforma embarcada",
+                "ano": "2012",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Mariana da Silva Alcantara",
+                "titulo": "Mineração de Dados em Redes Sociais",
+                "ano": "2012",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Messias Manoel da Silva Júnior",
+                "titulo": "Sistema Eletrônico para Auxiliar na Prevenção e Combate à Incêndios em Edifícios Residenciais Utilizando Plataforma Arduino",
+                "ano": "2012",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "João Lucas de Souza Silva",
+                "titulo": "Análise de Infraestruturas de Cloud Computing de Nuvem Privada Baseadas no Sistema Eucalyptus",
+                "ano": "2012",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Edvangno Costa Santos",
+                "titulo": "Análise dos Padrões de Projetos que são Aplicados no Desenvolvimento de Interface Gráfica da Plataforma J2ME",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Jeferson Souza",
+                "titulo": "Rastreamento 3D monocular de objetos baseado em características naturais da cena",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Jade Dafne dos Santos Martins",
+                "titulo": "Modelo para autenticação em Sistemas de Informação em Saúde",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Leandro Edizio Costa Silva",
+                "titulo": "Análise das técnicas de interação com dispositivos não convencionais: estudo de caso em um protótipo de mesa interativa digital",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Camila de Souza Sá",
+                "titulo": "Uma abordagem sobre casas inteligentes como auxilio as pessoas com necessidades especiais",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Jadiael Santos de Lima",
+                "titulo": "Impactos das substituições de hidrômetros na cidade de Paulo Afonso",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Mikaela Campos Gomes",
+                "titulo": "Realidade Aumentada como auxílio a portadores de necessidades especiais",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Hormínio Lisboa dos Santos Neto",
+                "titulo": "Desenvolvimento de um protótipo de mesa multitoque",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Gladson Araújo de Menezes",
+                "titulo": "Uso das tecnologias RFID e Zigbee na concepção de uma cesta de compras interativa",
+                "ano": "2011",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Hormínio Lisboa dos Santos Neto",
+                "titulo": "Mesa Interativa Multitouch: Um modelo computacional de sistema de cardápio digital",
+                "ano": "2011",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Jefrey da Silva Matias",
+                "titulo": "Sistema Inteligente de Controle Semafórico - SICS",
+                "ano": "2011",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Leandro Edizio Costa Silva",
+                "titulo": "Análise das técnicas de interação com dispositivos não convencionais: estudo de caso em um protótipo de mesa interativa digital",
+                "ano": "2011",
+                "curso": "Sistema de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Eliomar Gomes Campos",
+                "titulo": "TV Digital Interativa: Um Modelo de Comunicação Interativa para a Instituições de Ensino Superior",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            },
+            {
+                "orientando": "Josimar de Souza Lima",
+                "titulo": "Integração de Ferramentas de Gerência de Risco à Automação de Testes",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário do Rio São Francisco ? Matriz"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 31.21917152404785,
+            "indian": 15.961441040039062,
+            "black": 10.666513442993164,
+            "white": 8.324482917785645,
+            "middle eastern": 6.5950117111206055,
+            "latino hispanic": 27.233381271362305
+        }
+    }
+}

@@ -1,0 +1,930 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Redes de Computadores",
+                "instituicao": "Liga de Ensino do Rio Grande do Norte",
+                "orientador": "Aluízio Ferreira da Rocha Neto",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Aquicultura e Ecologia Aquatica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "orientador": "Sathyabama Chellappa",
+                "ano_inicio": 1993,
+                "ano_fim": 1993
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Aquacultura",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 1990,
+                "ano_fim": 1992
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Redes de Computadores",
+                "instituicao": "Faculdade Estácio do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Prefeitura Municipal de Natal",
+                "ano_inicio": 1994,
+                "ano_fim": 2010,
+                "funcao": "Administração de Rede de Dados da Sec Mun Saú",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "ano_inicio": 2000,
+                "ano_fim": 2004,
+                "funcao": "Professor",
+                "vinculo": "Professor Eventual",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Serviço Nacional de Aprendizagem Comercial\nOutro (2004 - 2005) .",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nCoordenador Do Curso De Licenciatura Em Informática (2011).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Aferição de intensidade luminosa nos laboratórios de informática do Campus Canguaretama",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcus Brandão De Moura",
+                    "Ályka Kalinny Costa De Andrade",
+                    "Ana Beatriz Targino Ribeiro",
+                    "Arilson Da Silva Souza",
+                    "Íven Ulisses Soares Mangabeira",
+                    "Raiane Ricardo Dos Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MOURA",
+                    "titulo": "M. B.,  Chellappa,  Cultivo e Desova Induzida do Bagre Africano, Clarias gariepinus no Rio Grande do Norte",
+                    "ano": "1992",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte."
+                },
+                {
+                    "autores": "MOURA",
+                    "titulo": "M. B.,  Chellappa,  Reprodução Artificial do Bagre Africano, Clarias gariepinus (BURCHELL, 1822) no Rio Grande do Norte",
+                    "ano": "1992",
+                    "instituicao_promotora": "Academia de Ciências do Estado de São Paulo."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "APPEL, D.",
+                "titulo": "COUTO, Paulo;  SILVA, P. H. G.;  COPRIVA, R.;  CUNHA, R. L. R.;  SANTORO, D.;  SHINE, E. H.;  GEBARA, Emir;  Silva, F. R.;  ANDREOZI, L.;  AIZAWA, L. F. F. V.;  MOURA, M. B.;  BRAGA, N. C.;  Montagem, Configuração e Manutenção de Computadores - Volume 2 2ed",
+                "ano": "2006",
+                "informacoes_adicionais": "Impresso. ISBN: 857116035X, São Paulo-SP (Publicado)."
+            },
+            {
+                "autores": "Durr",
+                "titulo": "Silva, F. R.;  OLIVEIRA, F. S.;  ANDREOZI, L.;  MOURA, M. B.;  SILVA, P. H. G.;  BRÄS, R.;  Redes Locais na Prática",
+                "ano": "2005",
+                "informacoes_adicionais": "Impresso. ISBN: 8571160368, São Paulo-SP (Publicado)."
+            },
+            {
+                "autores": "CAPELLI, A.",
+                "titulo": "SANTORO, D.;  Silva, F. R.;  AIZAWA, L. F. F. V.;  MOURA, M. B.;  BRAGA, N. C.;  COUTO, Paulo;  SILVA, P. H. G.;  Montagem, Configuração e Manutenção de Computadores - Volume 1",
+                "ano": "2004",
+                "informacoes_adicionais": "Impresso. ISBN: 0008571166, São Paulo-SP (Publicado)."
+            },
+            {
+                "autores": "SANTORO, D.",
+                "titulo": "COPRIVA, R.;  CUNHA, R. L. R.;  SHINE, E. H.;  Silva, F. R.;  ANDREOZI, L.;  AIZAWA, L. F. F. V.;  MOURA, M. B.;  BRAGA, N. C.;  COUTO, Paulo;  SILVA, P. H. G.;  Montagem, Configuração e Manutenção de Computadores - Volume 2",
+                "ano": "2004",
+                "informacoes_adicionais": "Impresso. ISBN: 0000857116, São Paulo-SP (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Proteja seus dados apagados fazendo wipe",
+                "ano": "2010",
+                "periodico": "Revista PC&Cia. ISBN: 15195267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Sun Virtual Box 2.2",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Alicates de Crimpar",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Alguns Cuidados com Discos Rígidos Comprados pelo Grey Market",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "SpyBot Search & Destroy 1.6",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "KOffice Kivio 1.6.3",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Netstumbler 0.4.0",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Zone Alarm Pro 8",
+                "ano": "2009",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Computação Verde",
+                "ano": "2008",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Softwares para Projetos de Redes",
+                "ano": "2008",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Pequenas Redes Profissionais",
+                "ano": "2008",
+                "periodico": "Saber Eletrônica. ISBN: 01016717   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Microsoft Visio 2007",
+                "ano": "2008",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Conectorizando Cabos Blindados Categoria 6A",
+                "ano": "2008",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Trend Micro Worry Free",
+                "ano": "2008",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Wireless LAN Switching",
+                "ano": "2008",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Memórias DDR3",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Access Point com Função Roaming",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Suítes para Proteção Total na Internet",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "eSATA",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim Configura Portas USB Frontais",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Spread Spectrum",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Anti Spywares Gratuitos",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Netcom 2007",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "10 Gigabit Ethernet - Cobre ou Vidro?",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Silva, F. R.;  Classmate PC",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "HD Workbench",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Temperatura dos Core 2 Duo",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "PCI Express 2.0",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Servidores Modernos para Pequenas e Médias Empresas",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Internet Gateway Cabeados",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Asus P5NSLI",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cabos Serial ATA",
+                "ano": "2007",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cabos Categoria 6A",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Discos Rígidos Portáteis",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "TINOCO, Glícia Azevedo",
+                "titulo": "MOURA, M. B.;  Português do &quot;Brazil&quot;",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Monitorando a Saúde dos Discos Rígidos",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Mais Segurança para sua Instalação Elétrica",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim Conserta Placa Mãe",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Fluidos de uma Oficina de Manutenção",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "APPEL, D.",
+                "titulo": "MOURA, M. B.;  Segurança Máxima para um Desktop",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim Dá Dicas de Aterramento",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "Silva, F. R.",
+                "titulo": "MOURA, M. B.;  Chip TPM para Segurança On Board",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Usando Multímetros como Auxiliar em Diagnósticos",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Servidores Modernos para Pequenas Empresas",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "A Atuação do INMETRO na Área da Computação",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Windows Vista Ultimate: O Que Esperar Dele",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim se Mete a Dar Suporte em Rede",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Memórias DDR2 OCZ",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim Atualiza BIOS",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "ClockGen",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "SANTOS, Arthur J. N.;  CUNHA, Sheyla Y.;  Defesa do Consumidor - Manutenção de Equipamentos",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Recuperação de Dados - Uma Ampla Visão",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Pen Drive com Boot via MS-DOS",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Novidades nos Discos Rígidos Mais Novos",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim Renova Suas Ferramentas",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Manutenção de HDs",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Documentação de Redes",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Internet Storm Center",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Segurança no Computador Pessoal",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Palm One Treo 650",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Serviço No Break do Windows XP",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Como resolver os problemas mais comuns com o Mozilla Firefox",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "RAID 6",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Problemas com as controladores RAID 1 mais populares",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Compartilhando a conexão Internet",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "&quot;Overclock&quot; de Cooler",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Memórias FB-DIMM",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Cebim conserta pulseitas anti-estáticas",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Manutenção preventiva de hardware",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Como comprar um disco rígido",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Monitorando temperaturas de placa-mãe",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "FERNANDES, Simone Alli;  Manutenção de Risco",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Precenção de Execução de Dados 0 DEP",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Akasa All-in-One",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Oxidação em Placas - Parte II",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "ACPI e Hibernação",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Previsões tardias para 2006",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "HD novo?!",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Abit KV8 PROblema?",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Coleção McAfee verão 2006",
+                "ano": "2006",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "SANTORO, D.",
+                "titulo": "MOURA, M. B.;  Verão Cuca Fresca",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "&quot;Programação&quot; de SETUP",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Compras Seguras",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Oxidação em placas",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Formatação física em discos rígidos",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "AVG Plus Firewall",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Configurações avançadas para o firewall Sygate Personal gratuito",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Redes através da porta USB",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Netcom 2005",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Manutenção de HDs",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Controlador de memória do Athlon 64",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Testador de cabos de rede",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Manutenção de HDs",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Microsol SOL 1000",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Firewalls gratuitos",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Práticas de Manutenção",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Freedows",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Placas-mãe Intel",
+                "ano": "2005",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Placas com microprocessador on-board",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Identificação de Redes",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Service Pack 2 do Windows XP",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Livrando-se das pragas digitais",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Montagem de redes com cabeamento estruturado - Upgrade com cabo categoria 6 - Parte I",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Configurando RAID na S875WP1-E",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Intel Desktop Control Center",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Pequenos Servidores com o Windows XP Professional - Parte Final",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "M825LU com Athlon OnBoard",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Wake On LAN",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Redes com Fibras Ópticas",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Pequenos Servidores com o Windows XP Professional - Parte 1",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "PCChips M825LU",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Montagem de redes com cabeamento estruturado - Upgrade com cabo categoria 6 - Parte Final",
+                "ano": "2004",
+                "periodico": "PC&Cia. ISBN: 15196267   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Chellappa; Registro da Ocorrência de Ectoparasitas em Peixes de Valor Comercial no Rio Grande do Norte",
+                "evento": "VIII Simpósio Brasileiro de Aquicultura",
+                "local": "III Encontro Brasileiro de Patologia de Organismos Aquáticos, Piracicaba",
+                "ano": "1994"
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Chellappa; Cultivo e Desova Induzida do Bagre Africano, Clarias gariepinus no Rio Grande do Norte",
+                "evento": "Terceiro Congresso de Iniciação Científica da UFRN",
+                "local": "Natal",
+                "ano": "1992"
+            },
+            {
+                "autores": "MOURA, M. B.",
+                "titulo": "Chellappa; Reprodução Artificial do Bagre Africano, Clarias gariepinus (BURCHELL, 1822) no Rio Grande do Norte",
+                "evento": "I Mostra da Produção Científica do Centro de Biociências",
+                "local": "Natal",
+                "ano": "1992"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ályka Kalinny Costa de Andrade",
+                "titulo": "Aferição de intensidade luminosa nos laboratórios de informática do Campus Canguaretama.",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Ana Beatriz Targino Ribeiro",
+                "titulo": "Aferição de intensidade luminosa nos laboratórios de informática do Campus Canguaretama.",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Arilson da Silva Souza",
+                "titulo": "Aferição de intensidade luminosa nos laboratórios de informática do Campus Canguaretama.",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Íven Ulisses Soares Mangabeira",
+                "titulo": "Aferição de intensidade luminosa nos laboratórios de informática do Campus Canguaretama.",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Raiane Ricardo dos Santos",
+                "titulo": "Aferição de intensidade luminosa nos laboratórios de informática do Campus Canguaretama.",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Dayvison Wendell Lima da Silva",
+                "titulo": "Computação em Nuvem: Armazenando Arquivos na Internet",
+                "ano": "2012",
+                "curso": "Curso Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "João B",
+                "titulo": "do Nascimento Filho - Thamires Dantas de Oliveira.  Sistema WEB Simplificado para Ajuste de Monitores de LCD",
+                "ano": "2012",
+                "curso": "Curso Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Antonia Aniele Sousa Martins e Mármore Kely Pereira da Silva",
+                "titulo": "Acessibilidade: Funções Utilizadas no Windows 7 e em Páginas WEB Voltadas aos Deficientes Visuais",
+                "ano": "2012",
+                "curso": "Curso Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Antônia Priscila L de Oliveira e Gildean Câmara de araújo",
+                "titulo": "Plano de manutenção de computadores utilizando técnicas preventivas, preditivas e corretivas",
+                "ano": "2012",
+                "curso": "Curso Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Cláudia Bezerra Silva",
+                "titulo": "Computação em nuvem: conceitos, tecnologias e estudo do tema em ambientes escolares",
+                "ano": "2012",
+                "curso": "Curso Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.7759490013122559,
+            "indian": 2.6918323040008545,
+            "black": 1.0782276391983032,
+            "white": 46.65188217163086,
+            "middle eastern": 22.520429611206055,
+            "latino hispanic": 25.281681060791016
+        }
+    }
+}

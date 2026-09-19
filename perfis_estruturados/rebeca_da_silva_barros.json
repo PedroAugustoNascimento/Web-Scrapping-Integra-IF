@@ -1,0 +1,309 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "EDXL-RESCUER: Interoperabilidade Semântica Entre Sistemas de Resposta à Emergência",
+                "orientador": "Vaninha Vieira dos Santos",
+                "ano_inicio": 2013,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2008,
+                "ano_fim": 2013
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Monitor",
+                "vinculo": "Bolsista",
+                "descricao": "Monitora da Disciplina Redes de Computadores do Curso de Sistemas de Informação, oferecida no I semestre de 2011 com carga horária de 60 horas, possuindo um crédito prático e um teórico, e com previsão para trinta alunos. A disciplina está alocada no V semestre do curso, tendo como objetivo iniciar o aluno nos principais conceitos de redes computacionais"
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Estádiária de TI de Nível Superior no Departamento de Ciências Humanas e Letras - UESB/Campus de Jequié. Atividades: - Prestação de suporte aos usuários em sistemas, aplicativos e redes - Realização de backup, formatação de equipamentos, instalação de sistemas operacionais e de softwares"
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Estágio de Nível Médio na Secretária Setorial de Cursos - UESB/Campus de Jequié"
+            },
+            {
+                "empresa": "Sistema Integrado Multieducacional",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Desenvolvedor PHP",
+                "vinculo": "Não informado",
+                "descricao": "Atuação no desenvolvimento de um sistema para educação a distância utilizando a linguagem PHP e o framework CakePHP"
+            },
+            {
+                "empresa": "Fraunhofer Project Center on Software and Systems Engineeering at UFBA",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Analista de Testes",
+                "vinculo": "Bolsista",
+                "descricao": "Principais Atividades: Criação de Plano e Casos de Testes. Testes funcionais, testes de caixa-preta, testes de regressão; Execução de testes manuais; Criação e execução de testes automatizados. Ferramentas: Selenium, Appium, Katalon Studio, Jmeter"
+            },
+            {
+                "empresa": "Fraunhofer Project Center on Software and Systems Engineeering at UFBA",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Pesquisadora",
+                "vinculo": "Bolsista",
+                "descricao": "Atuação no projeto de pesquisa RESCUER. Envolvimento nas tarefas de interoperabilidade semântica e ontologias, dentre as principais atividades: Criação e manutenção de ontologias; Pesquisa e utilização de ferramentas de apoio a criação de mapeamentos entre diferentes conjuntos de dados (Bancos Relacionais, planilhas, CSV, JSON). Entre as principais ferramentas: Karma Data Integration Tool, Ontop, Teiid; Implementação de ambiente de interoperabilidade semântico"
+            },
+            {
+                "empresa": "Centro de Integração de Dados e Conhecimentos para Saúde",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Pesquisadora",
+                "vinculo": "Bolsista",
+                "descricao": "Atuação na Curadoria de Dados. Envolvimento nas tarefas de criação, adaptação e aplicações de padrões de metadados; implementação de repositório de datasets e príncipios FAIR; e anonimização de dados. Entre as principais ferramentas e tecnologias: Dataverse, Handle, ARX, SdcMicro (Pacote R)"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professora EBBT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nGraduacao (2024) - Sistemas De Informação.\nOutro (2018 - 2023) .\nGraduacao (2018 - 2023) - Licenciatura Em Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "nome": "Tecnologia da Informação e da Comunicação e Novas Práticas Educacionais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Rebeca Da Silva Barros",
+                    "Socorro Aparecida Cabral Pereira",
+                    "Pedro Brandão Gonçalves"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "nome": "Implementação de um mirror do repositório Ubuntu para a rede local da UESB ? Campus de Jequié",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rebeca Da Silva Barros",
+                    "Alex Ferreira Dos Santos"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "RESCUER: Reliable and Smart Analysis of Crowdsourcing Information for Emergency and Crisis Management",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rebeca Da Silva Barros",
+                    "Vaninha Vieira Dos Santos",
+                    "Renato Lima Novais",
+                    "Manoel Mendonça"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Programação Competitiva no Apoio ao Ensino de Algoritmos e Estrutura de Dados",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Rebeca Da Silva Barros",
+                    "Carina Machado De Farias",
+                    "Alberto Vianna Dias Da Silva",
+                    "Iago Jesus De Miranda",
+                    "Vinicius Oliveira Nunes"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BARROS",
+                    "titulo": "R.,  SANTOS, V. V.,  SALVADOR, L.,  ALMEIDA, R.,  Interoperabilidade Semântica entre Sistemas de Resposta à Emergências",
+                    "ano": "2016",
+                    "instituicao_promotora": "Fraunhofer Project Center in"
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BARROS",
+                    "curso": "R.,  Minicurso: Introdução À Aprendizado de Máquina Com Python",
+                    "ano": "2020"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "BARROS",
+                    "evento": "R.,  Semana Integrada 2025 - IFBA Campus Feira de Santana",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Campus Feira de Santana."
+                },
+                {
+                    "autores": "BARROS",
+                    "evento": "R.,  XI Semana Nacional de Ciência e Tecnologia - IFBA Campus Feira de Santana",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Campus Feira de Santana."
+                },
+                {
+                    "autores": "BARROS",
+                    "evento": "R.,  9ª Semana Nacional da Ciência e Tecnologia - IFBA@Jacobina",
+                    "ano": "2020",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Campus Jacobina."
+                },
+                {
+                    "autores": "BARROS",
+                    "evento": "R.,  8ª Semana Nacional da Ciência e Tecnologia - IFBA@Jacobina",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia, Campus Jacobina."
+                },
+                {
+                    "autores": "BARROS",
+                    "evento": "R.,  31º Simpósio Brasileiro de Banco de Dados",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Fraunhofer Project Center at the Federal University of Bahia.."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SALVADOR, LAÍS DO NASCIMENTO",
+                "titulo": "Barros, Rebeca;  SANTOS, VANINHA VIEIRA DOS;  NETO, FÉLIX SIMAS DE SOUZA;  NOVAIS, RENATO LIMA;  AMORIM, SIMONE DA SILVA;  Weber, Marian;  A data exchange solution for emergency response systems based on the EDXL-RESCUER ontology",
+                "ano": "2019",
+                "periodico": "INTERNATIONAL JOURNAL OF METADATA, SEMANTICS AND ONTOLOGIES. ISBN: 1744263X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "LAGO, J. V. S.",
+                "titulo": "SOUZA, X",
+                "evento": "S.; BARROS",
+                "local": "R. S.; SISTEMA COM RECONHECIMENTO FACIAL PARA CONTROLE DE ACESSO AO IFBA - CAMPUS JACOBINA. XIV Congresso Norte Nordeste de Pesquisa e Inovação (CONNEPI), Belém/PA",
+                "ano": "2024"
+            },
+            {
+                "autores": "BARROS, R.",
+                "titulo": "SANTOS, V",
+                "evento": "V.; SALVADOR",
+                "local": "L.; ALMEIDA, R.; Interoperabilidade Semântica Entre Sistemas de Resposta à Emergências.. 31º Simpósio Brasileiro de Banco de Dados, Salvador",
+                "ano": "2016"
+            },
+            {
+                "autores": "BARROS, R.",
+                "titulo": "KISLANSKY, P",
+                "evento": "; SALVADOR",
+                "local": "L.; ALMEIDA, R.; BREYER, M.; GASPARIN, L.; EDXL-RESCUER ontology: Conceptual Model for Semantic Integration. The 12th International Conference on Information Systems for Crisis Response and Management - ISCRAM, Kristiansand, Norway",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARROS, R.",
+                "titulo": "KISLANSKY, P",
+                "evento": "; SALVADOR",
+                "local": "L.; ALMEIDA, R.; BREYER, M.; GASPARIN, L.; SANTOS, V. V.; EDXL-RESCUER ontology: an update based on Faceted Taxonomy approach.. Brazilian Seminar on Ontologies (ONTOBRAS 2015), São Paulo",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "João Vitor Silvestre Lago e Xanderson Silva Souza",
+                "titulo": "Sistema com reconhecimento facial para controle de acesso ao IFBA - Campus Jacobina",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Gabriel Oliveira Barreto e Vitória Almeida Ramos",
+                "titulo": "Hateoff: Extensão Para Motivar A Denúncia De Racismo No Twitter",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Maria Antonia Lima Paixão e Tainara Lopes Pereira da Silva",
+                "titulo": "FERRAMENTAS SOBRE O ENSINO DE BANCO DE DADOS",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Gabriel Marcos Macedo e Clarice Teixeira de Oliveira",
+                "titulo": "CHATBOT PARA ACESSO A DADOS PÚBLICOS DO MUNICÍPIO MIGUEL CALMON - BAHIA",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Edwu Morais Braga",
+                "titulo": "RedaWrite: plataforma para apoio de correção de redações",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Marcella Santos de Lima Portela e Matheus Santos de Oliveira",
+                "titulo": "CANTINA IFBOT: CHATBOT PARA CONSULTA E RESERVA DE ITENS DA CANTINA DO IFBA - CAMPUS JACOBINA",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Keilla Raina Oliveira Lima",
+                "titulo": "O uso da Tecnologia Digital da Informação e Comunicação (TDIC) no Ensino do Fundamental I em Jacobina-Ba",
+                "ano": "2020",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0036693301517516375,
+            "indian": 0.00637067761272192,
+            "black": 0.00023280002642422915,
+            "white": 96.58486938476562,
+            "middle eastern": 1.514404535293579,
+            "latino hispanic": 1.8904564380645752
+        }
+    }
+}

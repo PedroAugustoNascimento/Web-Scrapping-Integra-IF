@@ -34,6 +34,11 @@
         ],
         "atuacoes_profissionais": [
             {
+                "empresa": "Revista UNIPLAC",
+                "periodo": "2013 - 2016",
+                "cargo": ", Revisor de periódico."
+            },
+            {
                 "empresa": "Universidade do Planalto Catarinense",
                 "periodo": "2002 - 2005",
                 "cargo": "Técnico Administrativo Nível Superior, Atuando como Gerente de Projetos era responsável pelo: - Gerenciamento da Rede e de todos os Servidores da instituição; - Gerenciamento do ERP Advanced Protheus da Microsiga SA;."
@@ -69,24 +74,19 @@
                 "cargo": "Pesquisador, Bolsista, Desenvolvimento de um Sistema de Comunicação de Tempo-Real baseado na norma IEEE 802.11 para ambientes industriais.."
             },
             {
-                "empresa": "International Journal of Computing and Digital Systems",
-                "periodo": "2013 - 2018",
-                "cargo": ", Revisor de periódico."
+                "empresa": "Sociedade Educacional de Santa Catarina",
+                "periodo": "2015 - 2015",
+                "cargo": "Professor."
             },
             {
-                "empresa": "Revista UNIPLAC",
-                "periodo": "2013 - 2016",
+                "empresa": "International Journal of Computing and Digital Systems",
+                "periodo": "2013 - 2018",
                 "cargo": ", Revisor de periódico."
             },
             {
                 "empresa": "Centro Universitário ? Católica de Santa Catarina em Jaraguá do Sul",
                 "periodo": "2014 - 2016",
                 "cargo": "Pesquisador de Engenharia Elétrica, Pesquisador do convênio WEG x CatólicaSC atuando no Departamento de Pesquisa e Desenvolvimento de Produtos da WEG Automação S/A, nomeadamente com o desenvolvimento de firmware para redes industriais em drives seriados.."
-            },
-            {
-                "empresa": "Sociedade Educacional de Santa Catarina",
-                "periodo": "2015 - 2015",
-                "cargo": "Professor."
             },
             {
                 "empresa": "Instituto Federal Catarinense",
@@ -114,7 +114,7 @@
                 "cargo": "Sócio Fundador."
             }
         ],
-        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Lages (2025) : Coordenador Da Ctic (coordenadoria De Tecnologia Da Informação E Comunicação).\nInstituto Federal de Santa Catarina - Câmpus Lages (2025) : Coordenador De Relações Internacionais.\nInstituto Federal de Santa Catarina - Câmpus Lages (2019 - 2020) : Coordenador Do Curso De Ciência Da Computação.\nInstituto Federal de Santa Catarina - Câmpus Lages (2017 - 2019) : Coordenador Do Curso Técnico Em Informática.\nInstituto Federal de Santa Catarina - Câmpus Lages (2017 - 2019) : Coordenador Do Curso Técnico Em Informática Para Internet.\nUP - Universidade do Porto (2008 - 2013): Comunicação Tempo-Real em Redes Sem Fio,\nCentro Universitário - Católica de Santa Catarina (2014 - 2016): Redes de Comunicação Industriais, Internet das Coisas (IoT), Cidades Inteligentes (Smart Cities),\nInstituto Federal de Santa Catarina - Câmpus Lages (2017): Internet das Coisas, Comunicação Industrial, Comunicação de Tempo Real, Indústria 4.0, Agricultura 4.0,\nDrives & Controls (2014 - 2016): Internet of Things, Industrial IoT, Embedded Systems, Industrial Communication Systems,",
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Lages (2025) : Coordenador Da Ctic (coordenadoria De Tecnologia Da Informação E Comunicação).\nInstituto Federal de Santa Catarina - Câmpus Lages (2025) : Coordenador De Relações Internacionais.\nInstituto Federal de Santa Catarina - Câmpus Lages (2019 - 2020) : Coordenador Do Curso De Ciência Da Computação.\nInstituto Federal de Santa Catarina - Câmpus Lages (2017 - 2019) : Coordenador Do Curso Técnico Em Informática.\nInstituto Federal de Santa Catarina - Câmpus Lages (2017 - 2019) : Coordenador Do Curso Técnico Em Informática Para Internet.\nUP - Universidade do Porto (2008 - 2013): Comunicação Tempo-Real em Redes Sem Fio,\nCentro Universitário - Católica de Santa Catarina (2014 - 2016): Redes de Comunicação Industriais, Internet das Coisas (IoT), Cidades Inteligentes (Smart Cities),\nInstituto Federal de Santa Catarina - Câmpus Lages (2017): Comunicação Industrial, Comunicação de Tempo Real, Indústria 4.0, Agricultura 4.0, Internet das Coisas,\nDrives & Controls (2014 - 2016): Internet of Things, Industrial IoT, Embedded Systems, Industrial Communication Systems,",
         "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2017) - Ciência Da Computação.\nOutro (2017) .",
         "comissoes": "",
         "projetos": [
@@ -234,6 +234,7 @@
                 "periodo": "2025",
                 "natureza": "Extensao",
                 "equipe": [
+                    "Joelma Kremer",
                     "Robson Costa",
                     "Fernando Domingo Zinger",
                     "Roberto Akitoshi Komatsu",
@@ -243,7 +244,6 @@
                     "Marisa Santo Sanson",
                     "José Mecabo Júnior",
                     "Giselle Camargo Mendes",
-                    "Joelma Kremer",
                     "Jeferson Fraytag"
                 ],
                 "financiador": "Financiadora de Estudos e Projetos,"

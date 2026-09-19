@@ -1,0 +1,827 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Extração de Conhecimento e Tomada de Decisão em Sistemas Autonômicos Através da Mineração de Dados",
+                "orientador": "Joberto Sérgio Barbosa Martins",
+                "ano_inicio": 2010,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Doutorado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "em Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Um Modelo Multimodal para Integração de Imagens de Lâmina Inteira, Transcriptômica Espacial e Texto Clínico por meio de uma Interface de Modelo de Linguagem Natural",
+                "orientador": "Luciano Rebouças de Oliveira",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "",
+                "instituicao": "Universidade Salvador",
+                "titulo": "CATEGORIZAÇÃO AUTOMÁTICA DE DOCUMENTOS POR MÚLTIPLOS CLASSIFICADORES NAIVE BAYES",
+                "orientador": "Manoel Mendonça Neto",
+                "ano_inicio": 2002,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Administração de Empresas",
+                "instituicao": "Universidade Salvador",
+                "ano_inicio": 1999,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Sistemas de Informação e Componentes Distribuídos",
+                "instituicao": "Faculdade Rui Barbosa",
+                "orientador": "João Gualberto Rizzo Araújo",
+                "ano_inicio": 2000,
+                "ano_fim": 2001
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Processamento de Dados",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 1992,
+                "ano_fim": 1996
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Unitech Tecnologia de Informação Ltda",
+                "ano_inicio": 1996,
+                "ano_fim": 2005,
+                "funcao": "Analista de Suporte",
+                "vinculo": "Participação especial em projetos de Tecnologia de Informação como Analista de Tecnologia e Consultor; Atuação como Analista de Suporte na categoria Consultor de Desenvolvimento (CD)",
+                "descricao": "abordando ferramentas de desenvolvimento visuais e procedurais (Visual Basic, C, Pascal, Java, Fortran, etc), Bancos de Dados Relacionais e não-relacionais (Sql Server, Oracle, etc) e Gerenciamento e Projetos de Rede (Windows NT, 2000, Linux, Firewalls, Internet, etc). Palestrante de cursos internos em diferentes tecnologias utilizadas pela Unitech. Destaca-se também a atuação no contrato com o cliente Secretaria da Educação do Estado da Bahia (SEC-BA) para realização da Matrícula 2001 e 2002 como responsável pela área de infraestrutura nas seguintes funções: Participação nos projetos de planejamento estratégico de informações para concepção e execução do modelo de funcionamento e operacionalização do processo de matrícula 2001 e 2002. Responsável pela Administração da Equipe de Execução de serviços de infra-estrutura e suporte técnico, envolvendo 63 técnicos distribuídos em 128 (cento e vinte e oito) postos de atendimento localizados em Salvador e 13 (treze) municípios do interior do Estado da Bahia; e 4 analistas na sede da SEC para operacionalização da Matrícula Informatizada da Rede Pública Estadual da Secretaria da Educação do Governo do Estado da Bahia, em 2001 e 2002;"
+            },
+            {
+                "empresa": "Universidade Católica do Salvador",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Professor da Disciplina INF411 Estrutura de Linguagens"
+            },
+            {
+                "empresa": "Universidade Metropolitana de Educação e Cultura",
+                "ano_inicio": 2003,
+                "ano_fim": 2008,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Professor da Matéria Organização de Computadores e Sistemas de Informação"
+            },
+            {
+                "empresa": "Companhia de Eletricidade da Bahia",
+                "ano_inicio": 1995,
+                "ano_fim": 1996,
+                "funcao": "Programador",
+                "vinculo": "Atuação na elaboração de programas de computador em linguagem COBOL na área de faturamento",
+                "descricao": "arrecadação e cobrança de contas, utilizando o IDMS; desenvolvimento de aplicações on-line em ambiente de grande porte"
+            },
+            {
+                "empresa": "Plantel Informática",
+                "ano_inicio": 1989,
+                "ano_fim": 1991,
+                "funcao": "Técnico em Eletrônica",
+                "vinculo": "Atuação como técnico em eletrônica na manutenção em laboratório e campo de impressoras",
+                "descricao": "computadores e outros periféricos na Plantel Informática Ltda.(1989-1991)"
+            },
+            {
+                "empresa": "Centro Universitário Jorge Amado",
+                "ano_inicio": 2005,
+                "ano_fim": 2009,
+                "funcao": "",
+                "vinculo": "Professor das disciplinas Introdução à Informática",
+                "descricao": "Arquitetura de Computadores, Sistemas de Informação, Computador e Sociedade, Estrutura de Dados, Trabalho de Conclusão de Curso e Eletivas"
+            },
+            {
+                "empresa": "Universidade Salvador",
+                "ano_inicio": 2003,
+                "ano_fim": 2005,
+                "funcao": "Pesquisador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado da Bahia",
+                "ano_inicio": 2007,
+                "ano_fim": 2011,
+                "funcao": "Professor",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Companhia de Processamento de Dados do Estado da Bahia",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Analista de TI",
+                "vinculo": "Servidor público",
+                "descricao": "Analista de TI - Lotado na Assessoria de Planejamento e Desenvolvimento Institucional"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 1994,
+                "ano_fim": 1995,
+                "funcao": "Estagiário",
+                "vinculo": "Atuação como pesquisador pelo CNPq na área de redes de computadores na Universidade Federal da Bahia (1994-1995) (Bolsista) Atuação no suporte técnico à usuários de rede BITNET e INTERNET",
+                "descricao": "sistemas operacionais VM/CMS e UNIX e rede Novell no CPD da Universidade Federal da Bahia (1993) (Estagiário)"
+            },
+            {
+                "empresa": "Sociedade Brasileira de Computação",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "Delegado institucional",
+                "vinculo": "Não informado",
+                "descricao": "Delegado institucional da Sociedade Brasileira de Computação no Centro Universitário Jorge Amado (UNIJORGE)"
+            },
+            {
+                "empresa": "Instituto Brasileiro de Geografia e Estatística",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Analista de TI",
+                "vinculo": "Servidor público",
+                "descricao": "Analista de Planejamento, Gestão e Infra-Estrutura em Informações Geográficas e Estatísticas"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": "Professor das disciplinas Banco de Dados I e II, Redes de Computadores, Computação Aplicada, Computação Aplicada a Radiologia. Infraestrutura Computacional"
+            },
+            {
+                "empresa": "Associação de Usuários de Informática e Telecomunicações da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2017,
+                "funcao": "Voluntário",
+                "vinculo": "Voluntário",
+                "descricao": "Qualificação e Atualização Tecnológica"
+            },
+            {
+                "empresa": "Secretaria de Ciência, Tecnologia e Inovação da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": 2023,
+                "funcao": "Coordenador Geral de Infraestrutura de TI",
+                "vinculo": "Servidor público",
+                "descricao": "Responsável por importante projeto do Governo da Bahia que planeja prover acesso à serviços de banda larga em todo o Estado da Bahia (Cedido pelo IBGE)"
+            }
+        ],
+        "direcao_administracao": ": Instituto Brasileiro de Geografia e Estatística\nSSI (2010) : Analista De Planejamento, Gestão E Infraestrutura Em Informações Geográficas E Estatísticas.\nReitoria (2005 - 2006): Mineração Visual de Dados,",
+        "ensino": ": Instituto Federal da Bahia\nGraduacao (2012) - Análise E Desenvolvimento De Sistemas.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Salvador",
+                "nome": "Projeto de Mineração Visual de Dados",
+                "natureza": "Outra",
+                "equipe": [
+                    "Grinaldo Lopes De Oliveira",
+                    "Manoel Gomes De Mendonça Neto",
+                    "Márcio O Almeida",
+                    "Manoel Marques Neto"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2003,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Instituto nacional de patologia molecular e computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Grinaldo Lopes De Oliveira",
+                    "Luciano Rebouças De Oliveira",
+                    "Angelo A. Duarte",
+                    "Michele Fúlvia Angelo",
+                    "Jefferson Fontinele",
+                    "Washington L. C. Dos Santos",
+                    "Luiz Otávio Souza Jr.",
+                    "Patrícia Cury",
+                    "Odrigo Veras",
+                    "Pétala Estrela Tuy",
+                    "Igor Prado",
+                    "David Lima",
+                    "Márcio Santos",
+                    "Silvio Ferzoli",
+                    "Clarissa Gurgel",
+                    "Mitermeyer Galvão Dos Reis",
+                    "Flávia Caló Xavier",
+                    "Jéssica Fonseca",
+                    "Sérgio Arruda",
+                    "Luiz Freitas",
+                    "Daniel Athanazio",
+                    "Dardo Goyeneche",
+                    "Gareth Thoma",
+                    "Jesper Kers",
+                    "Satoshi Hara",
+                    "Vigan Jacques",
+                    "Felipe Barreto Lemos",
+                    "Jamerson Silva",
+                    "Evandro Mello -",
+                    "Jean Nunes Santos",
+                    "Luciano Kalabric Silva",
+                    "Juliana Freitas",
+                    "Leonardo Rocha",
+                    "Priscila Antunes",
+                    "Roberto Santos",
+                    "Thiago Vieira",
+                    "Vanessa Bertoni"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Curso livre de extensão ?Introdução ao Mercado de Ações e Uso da Computação?",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Grinaldo Lopes De Oliveira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "G. L.,  TECNOLOGIA E SISTEMAS DE INFORMAÇÃO",
+                    "ano": "2005"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MOLINERO, ALINE DE QUEIROZ PASSOS",
+                "titulo": "SALES, KATHIA MARISE BORGES;  BARRETO, ELTON BORGES DE SENA;  DE OLIVEIRA, GRINALDO LOPES;  MOREIRA, JOSÉ ANTÔNIO;  JORGE, EDUARDO MANUEL DE FREITAS;  APLICAÇÃO DE CONCEITOS E CRITÉRIOS DE DESEMPENHO PARA UMA SALA DE AULA INOVADORA",
+                "ano": "2023",
+                "periodico": "FOCO (FACULDADE NOVO MILÊNIO). ISBN: 1981223X   ."
+            },
+            {
+                "autores": "TORRES, J. A. S.",
+                "titulo": "AMORIM, C. A.;  OLIVEIRA, G. L.;  Definição de Processo para Construção de Perfis de Usuário através da Mineração da Web",
+                "ano": "2006",
+                "periodico": "REIC. Revista Eletrônica de Iniciação Científica. ISBN: 15198219   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, MATHEUS",
+                "titulo": "BORJA, IGOR; LIMA, DAVID; OLIVEIRA, GRINALDO; DUARTE, ÂNGELO; SANTOS, WASHINGTON; OLIVEIRA, LUCIANO; Toward Linear Representations of Foundation Models for Histopathology Image Retrieval",
+                "evento": "2025 38th SIBGRAPI Conference on Graphics",
+                "local": "Patterns and Images (SIBGRAPI), Salvador",
+                "ano": "2025"
+            },
+            {
+                "autores": "LIMA, DAVID",
+                "titulo": "OLIVEIRA, GRINALDO; DUARTE, ÂNGELO; SANTOS, WASHINGTON; OLIVEIRA, LUCIANO; Quo Vadis Pathology? Advancing Glomerular Lesion Classification with Foundation Models",
+                "evento": "2025 38th SIBGRAPI Conference on Graphics",
+                "local": "Patterns and Images (SIBGRAPI), Salvador",
+                "ano": "2025"
+            },
+            {
+                "autores": "OLIVEIRA, G. L.",
+                "titulo": "BEZERRA, R",
+                "evento": "M. S.; MARTINS",
+                "local": "J. S. M.; Mapping from a Human Autonomic System to a Bio-Inspired Autonomic Computing Model. International Workshop on ADVANCEs in ICT Infrastructures and Services (ADVANCE 2013), Valença - Bahia",
+                "ano": "2013"
+            },
+            {
+                "autores": "OLIVEIRA, G. L.",
+                "titulo": "MARTINS, J",
+                "evento": "S. M.; Combinação de Expertise em Classificadores para Sistemas Autonômicos. XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "local": "Campo Grande - MS",
+                "ano": "2011"
+            },
+            {
+                "autores": "TORRES, J. A. S.",
+                "titulo": "AMORIM, C",
+                "evento": "A.; OLIVEIRA",
+                "local": "G. L.; DEFINIÇÃO DE PROCESSO PARA CONSTRUÇÃO DE PERFIS DE USUÁRIO ATRAVÉS DA MINERAÇÃO DA WEB.. XXVI Congresso da Sociedade Brasileira de Computação, Campo Grande",
+                "ano": "2006"
+            },
+            {
+                "autores": "SILVA, D. S.",
+                "titulo": "OLIVEIRA, G",
+                "evento": "L.; PASSOS",
+                "local": "M. C. M.; SiTest: uma metodologia de teste de software com base no modelo CMMI. Simpósio Brasileiro de Sistemas de Informação, Curitiba",
+                "ano": "2006"
+            },
+            {
+                "autores": "SANTANA, R. S.",
+                "titulo": "OLIVEIRA, G",
+                "evento": "L.; ALMEIDA",
+                "local": "M. O.; PROLINE: UMA FERRAMENTA PARA MINERAÇÃO VISUAL DE PROCESSOS JURÍDICOS UTILIZANDO A TÉCNICA DE VISUALIZAÇÃO LINHAS DA VIDA. Simpósio Brasileiro de Sistemas de Informação, Florianopólis",
+                "ano": "2005"
+            },
+            {
+                "autores": "OLIVEIRA, G. L.",
+                "titulo": "MENDONCA NETO, M",
+                "evento": "G.; ExperText: Uma Ferramenta de Combinação de Múltiplos Classificadores Naive Bayes. JORNADA IBERO-AMERICANA DE ENGENHARIA DE SOFTWARE E ENGENHARIA DE CONHECIMENTO",
+                "local": "Madrid - Espanha",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Alda Monique Gonçalves de Alcântara Santos",
+                "titulo": "?LICITA.AI: Uma aplicação de Inteligência Artificial para análise de editais e apoio à participação em contratações públicas",
+                "ano": "2026",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Pablo Luiz Lemos Pita",
+                "titulo": "Deduplicação de Indivíduos a Partir de Record Linkage Baseado em Busca Vetorial",
+                "ano": "2026",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Kauã Figueiredo do Sacramento",
+                "titulo": "Aplicação de Blockchain na Gestão de Direitos Autorais",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "DIEGO SANTOS DOS SANTOS",
+                "titulo": "Dynamo Invest: Impulsionando seus Investimentos com Análise Fundamentalista de Ações e Relatórios",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Dagoberto Reis Medeiros",
+                "titulo": "Sazonalidade dos preços no mercado de ações brasileiro",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rogério Astolpho Costa",
+                "titulo": "Formulação de Modelo Multimensional para Análise Acerca da Lei Geral de Proteção de Dados Pessoais",
+                "ano": "2019",
+                "curso": "MBA em Tecnologias e Aplicações de Business Intelligence",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "Renato Luís Bastos Silva",
+                "titulo": "Aplicação de Técnicas de Mineração de Dados à Análise Comportamental de Ações em Mercado de Capitais",
+                "ano": "2019",
+                "curso": "MBA em Tecnologias e Aplicações de Business Intelligence",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "Felipe Alves Neto & Jeferson Sousa Freitas dos Santos",
+                "titulo": "EXTRAÇÃO E CARGA DE DADOS DO SISTEMA SAP ECC PARA O SAP BW - UM ESTUDO DE CASO PARA AREA DE RH",
+                "ano": "2019",
+                "curso": "MBA em Tecnologias e Aplicações de Business Intelligence",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "Francisco de Assis Andrade Santos",
+                "titulo": "MINERAÇÃO DA BASE DE MICRODADOS DO INEP: UMA ANÁLISE EXPLORATÓRIA DOS RESULTADOS DO ENEM NA BAHIA EM 2018",
+                "ano": "2019",
+                "curso": "MBA em Tecnologias e Aplicações de Business Intelligence",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "Carlos José Cardoso dos Santos",
+                "titulo": "A NECESSIDADE DE FORTALECER A CULTURA ORIENTADA A DADOS NAS MICRO EMPRESAS E EMPRESAS: Um estudo de caso da LGPD aplicada a uma empresa de pequeno porte.",
+                "ano": "2019",
+                "curso": "MBA em Tecnologias e Aplicações de Business Intelligence",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "André dos Santos Nascimento",
+                "titulo": "ANÁLISE DE OPINIÃO POR INTERMÉDIO DE TWEETS SOBRE O ÓLEO NAS PRAIAS DO NORDESTE BRASILEIRO: UMA ANÁLISE, ATRAVÉS DA MINERAÇÃO DE DADOS",
+                "ano": "2019",
+                "curso": "MBA em Tecnologias e Aplicações de Business Intelligence",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "Rafael Linsmar",
+                "titulo": "Um solução para Localização de Estacionamentos na Cidade de Salvador",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Estado da Bahia"
+            },
+            {
+                "orientando": "Thales José Costa de Almeida",
+                "titulo": "Migração de Servidores de Rede: Um Estudo de Caso da Secretaria de Planejamento do Estado da Bahia",
+                "ano": "2011",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Alex Venas Macedo",
+                "titulo": "Auditoria e Análise Forense",
+                "ano": "2011",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Gladson dos Santos Tupinambá",
+                "titulo": "Política de Segurança no Acesso a Internet - TRT da 5ª Região",
+                "ano": "2011",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Julival Santos Reis Júnior",
+                "titulo": "Bacula: Um Sistema de Gestão de Backup Livre Aplicado em uma Organização",
+                "ano": "2011",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Tatiana dos Santos Souza",
+                "titulo": "Como melhor implantar uma solução de backup em uma instituição de ensino de inglês em Salvador",
+                "ano": "2011",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Paulo Cesar Matos Ferreira",
+                "titulo": "Segurança em E-commerce",
+                "ano": "2011",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Thiago Silva Azevedo",
+                "titulo": "SIGCEL ? Sistema de Informação Geográfica para Administração Pública Utilizando Dispositivos Móveis para Georeferenciamento",
+                "ano": "2010",
+                "curso": "Análise de Sistemas",
+                "instituicao": "Universidade do Estado da Bahia"
+            },
+            {
+                "orientando": "Adeilson da Silva",
+                "titulo": "Uma Análise da Computação Forense Aplicada A Área de Segurança",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Bruno Rodrigues Palles",
+                "titulo": "Mitigação de Riscos Provenientes da Engenharia Social a Partir de Boas Práticas da Norma ABNT NBR ISO/IEC 27002:2205",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Luciano Pedreira de Souza",
+                "titulo": "Expresso Livre: Análise de vulnerabilidades à luz da ISO/IEC 15.408",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Marco Antonio Silveira Sousa",
+                "titulo": "UTILIZAÇÃO DE ASSINATURA DIGITAL EM DOCUMENTOS PETICIONADOS NO SUPREMO TRIBUNAL FEDERAL: ESTUDO DE CASO NA DEFENSORIA PÚBLICA DO ESTADO DA BAHIA",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Moacir Mato Grosso Filho",
+                "titulo": "Uma Estratégia para Utilização de Técnicas de Mineração de Dados na Computação Forense",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Ricardo Barbosa dos Santos",
+                "titulo": "Implantando Políticas de Segurança nos Servidores da Secretaria Municipal de Planejamento, Tecnologia e Gestão da Prefeitura Municipal de Salvador ? BA",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Antonio Ruy Garrido de Abreu Junior",
+                "titulo": "Certificação Digital em Conselhos de Medicina Brasileiros",
+                "ano": "2010",
+                "curso": "Gestão de Segurança da Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Iury Barreto da Silva",
+                "titulo": "Proposta de Ambiente Virtual de Aprendizagem com Jogo Educativo para Ensino de Estrutura De Dados",
+                "ano": "2009",
+                "curso": "Análise de Sistemas",
+                "instituicao": "Universidade do Estado da Bahia"
+            },
+            {
+                "orientando": "Felipe Lobo Santos e Rafael Laranjeira de Souza",
+                "titulo": "A Descoberta De Conhecimento No Tratamento Com Câncer De Mama Através Da Mineração De Dados",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Herbert Souza Pereira e Sérgio Rodrigues Costa",
+                "titulo": "Sistema de Análise do Risco de Acidente no Trânsito (SARAT)",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Maurício Almeida Martins",
+                "titulo": "Uma Proposta de Boas Práticas de Segurança para Redes Locais Wireless",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Marcelo Coelho Miranda e Vanderlei Gonçalves da Silva Júnior",
+                "titulo": "Portal de Pesquisa Oráculo de DELFO - Uma Ferramenta para Ampliar Conhecimentos",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Washington Luís Silva Macedo",
+                "titulo": "TI Verde: Uma Ferramenta de Apoio à Gestão Ambiental na Área de TI",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "André Luiz dos Santos Silva e Marcos Lázaro Vianna Martins",
+                "titulo": "Análise de Qualidade de Serviço em Uma Empresa de Varejo",
+                "ano": "2008",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Brayner Ribeiro Santiago",
+                "titulo": "Teacher Scheduler: UM SISTEMA INTELIGENTE PARA PLANEJAMENTO DE GRADES DOCENTES",
+                "ano": "2007",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Carine Palma e George Sousa",
+                "titulo": "AUTOMAÇÃO DE PROCESSOS ADMINISTRATIVOS EM GRANDES ORGANIZAÇÕES",
+                "ano": "2007",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Bruno Falcón Cardoso",
+                "titulo": "Ferramenta de emisaão e controle de certificados digitais",
+                "ano": "2007",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Ana Carolina Nunes",
+                "titulo": "PROPOSTA DE SOLUÇÃO GERENCIAL PARA O SOFTWARE DE ENSINO À DISTÂNCIA MOODLE NAS FACULDADES JORGE AMADO",
+                "ano": "2007",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Adriano Baltazar da Silveira Melo",
+                "titulo": "Aplicação para TV Digital utilizando a linguagem NCL",
+                "ano": "2007",
+                "curso": "Análise de Sistemas",
+                "instituicao": "Universidade do Estado da Bahia"
+            },
+            {
+                "orientando": "DANIEL SANTOS DA SILVA",
+                "titulo": "Smart Detection: UMA ABORDAGEM DE DETECÇÃO DE INTRUSO UTILIZANDO INTELIGÊNCIA ARTIFICIAL",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "MAURICIO JOSÉ GOMES DOS SANTOS",
+                "titulo": "APM: SISTEMA DE HELP DESK UTILIZANDO RACIOCíNIO BASEADO EM CASOS",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Adeilson da Silva",
+                "titulo": "SCAPE: Uma ferramenta de apoio a decisões na área de projetos de engenharia utilizando mineração visual baseada em linhas da vida.",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Alan Ricardo dos Santos",
+                "titulo": "MAP-X: Sistema de apoio a decisão baseado em mineração visual de dados e informações geográficas.",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "LÍGIA PINTO DE ALMEIDA",
+                "titulo": "INCLUSÃO DIGITAL PARA DEFICIENTES VISUAIS ATRAVÉS DA EDUCAÇÃO INFANTIL",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Márcio Ferreira Souza Santos",
+                "titulo": "Solução de BI utilizando sofware OpenSource para pequenas e médias empresas",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Ana Fátima Santana Lima",
+                "titulo": "Joomining - Ferramenta de Mineração de Dados na WEB",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Márcio Barreto Silva",
+                "titulo": "Uso de Sistemas Especialistas para diagnósticos de Falhas de Segurança Física em pequenas e Médias Empresas",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "JORGE VITOR ROCHA DE MELO",
+                "titulo": "SCMnet: FERRAMENTA DE APOIO À GERÊNCIA DE ESCOPO DE PROJETOS DE SOFTWARE",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Gabriel Cássio Nascimento Barbosa e Adriana Medeiros",
+                "titulo": "Rastreabilidade de Requisitos de Softwares",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Everton Gomes Dos Santos",
+                "titulo": "Uma Biblioteca para Controles Visuais",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Tiago Jorge Romano e Ricardo Gonçalvez",
+                "titulo": "Um serviço de Identidade Digital baseado em Webservices",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Ailton Santos Correia",
+                "titulo": "Um Modelo de Análise comparativa para ferramentas de Persistência",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Rafael de Freitas Santos",
+                "titulo": "SUCAO-R: Um sistema unificado de controle e análise orientado a risco",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Edilton Lima dos Santos",
+                "titulo": "SGCONFIG: Uma ferramenta para gerência de configuração de software",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Alex de Oliveira Araújo e David Souza Brandão",
+                "titulo": "Gerência de Redes Locais Heterogêneas usando SNMP",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Armando Ferreira Filho e Eduardo Suzart",
+                "titulo": "Gestão de Contéudo aplicado à Fábrica de Software",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Pedro Vinícius Campos de Aguiar",
+                "titulo": "Uma ferramenta para seleção de perfis de conhecimento organizacional",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Gessé Pinto da Silva e Miguel Phileto Pugliese",
+                "titulo": ".  Autenticação e Certificação Digital inseridos no processo de certificação de documentação",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Tiago Antonius Oliveira Souza",
+                "titulo": "Desenvolvimento de Componentes Visuais utilizando AJAX",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "José Alberto Sousa Torres",
+                "titulo": "Definição de Processo para Construção de Perfis de Usuário através da Mineração da Web. REIC. Revista Eletrônica de Iniciação Científica,",
+                "ano": "2006",
+                "curso": "Análise de Sistemas",
+                "instituicao": "Universidade do Estado da Bahia"
+            },
+            {
+                "orientando": "Daniel Ferreira",
+                "titulo": "Texter - Um componente para inter-relacionamento automático de textos na ferramenta de gerência de conteúdo MAMBO",
+                "ano": "2006",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Railton Sacramento Santana",
+                "titulo": "PROLINE: UMA FERRAMENTA PARA MINERAÇÃO VISUAL DE PROCESSOS JURÍDICOS UTILIZANDO A TÉCNICA DE VISUALIZAÇÃO LINHAS DA VIDA",
+                "ano": "2005",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "DANILA SANTOS DA SILVA",
+                "titulo": "SiTest: UMA METODOLOGIA DE TESTE DE SOFTWARE COM BASE NO MODELO CMMI",
+                "ano": "2005",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Ana Cristina Godinho Moreira",
+                "titulo": "Ferramentas CASE em Software Livre",
+                "ano": "2005",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Centro Universitário Jorge Amado"
+            },
+            {
+                "orientando": "Cristiane Costa Magalhães",
+                "titulo": "Uma Ferramenta para Recomendação de Fontes de Conhecimento",
+                "ano": "2004",
+                "curso": "Pós-Graduação em Sistemas de Informação com Ênfase",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Sabrina Araújo dos Santos",
+                "titulo": "FPOO&#10;TECNOLOGIA FRAMEWORK COMO MIDDLEWARE DE ACESSO A DADOS",
+                "ano": "2002",
+                "curso": "Informática",
+                "instituicao": "Universidade Católica do Salvador"
+            },
+            {
+                "orientando": "Ricardo Ferreira",
+                "titulo": "Sistema de Informação de Trânsito utilizando Teoria dos Grafos de Floyd-Warshall, Moore e Dijkstra",
+                "ano": "2002",
+                "curso": "Informática",
+                "instituicao": "Universidade Católica do Salvador"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0030971348751336336,
+            "indian": 0.0035565486177802086,
+            "black": 0.00020466191926971078,
+            "white": 98.53653717041016,
+            "middle eastern": 0.5210214853286743,
+            "latino hispanic": 0.9355802536010742
+        }
+    }
+}

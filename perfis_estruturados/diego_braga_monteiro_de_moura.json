@@ -1,0 +1,214 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Heterogeneous Memory Management for Graph Applications",
+                "orientador": "Vinicius Petrucci Tavares",
+                "ano_inicio": 2016,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Um Algoritmo de Alocação de Largura de Banda para Tráfegos Elásticos em Redes de Circuito Dinâmico",
+                "orientador": "Leobino Nascimento Sampaio",
+                "ano_inicio": 2012,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2007,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2008,
+                "ano_fim": 2011,
+                "funcao": "Pesquisador/Desenvolvedor",
+                "vinculo": "Outro (especifique)",
+                "descricao": "Pesquisador através da Iniciação cientifica, bolsista, atuou em projetos de modelagem computacional"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Estudante Pesquisador - Mestrado",
+                "vinculo": "Bolsista",
+                "descricao": "Atuou como pesquisador, com bolsa da CNPq, na área de Internet do Futuro"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": "Professor efetivo do IFBA campus Porto Seguro, no qual ministro as disciplinas de redes de computadores, linguagem de programação e montagem e manutenção de computadores"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "nome": "Método de Diferenças Finitas para a Equação de Difusão Neutrônica em geometria Cartesiana Bidimensional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Diêgo Braga Monteiro De Moura"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "nome": "Esquemas Numéricos para Problemas Bidimensionais de Autovalor de Difusão",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Diêgo Braga Monteiro De Moura"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "nome": "Formulações de Diferenças Finitas Para Cálculos de Criticalidade Usando A Aproximação de Difusão em Geometria X,Y.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Diêgo Braga Monteiro De Moura"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Redução do Impacto das Reservas Antecipadas sobre as Imediatas em Redes de Circuito Dinâmico",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Diêgo Braga Monteiro De Moura",
+                    "Gustavo Bittencourt Figueiredo",
+                    "Leobino Nascimento Sampaio"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MOURA, D. B. M.",
+                "titulo": "PETRUCCI, V.;  BARRETO, M.;  Aprendizado por Reforc &#807;o em Arquiteturas big.LITTLE",
+                "ano": "2017",
+                "periodico": "Escola Regional de Alto Desempenho (ERAD). ISBN: 21770093   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MOURA, DIEGO",
+                "titulo": "Mosse, Daniel; PETRUCCI, VINICIUS; Performance Characterization of AutoNUMA Memory Tiering on Graph Analytics",
+                "evento": "2022 IEEE International Symposium on Workload Characterization (IISWC)",
+                "local": "Austin",
+                "ano": "2022"
+            },
+            {
+                "autores": "PETRUCCI, V.",
+                "titulo": "Mosse, Daniel; MOURA, D",
+                "evento": "B. M.; Learning to Rank Graph-based Application Objects on Heterogeneous Memories. The International Symposium on Memory Systems",
+                "local": "Washington DC DC USA",
+                "ano": "2021"
+            },
+            {
+                "autores": "MOURA, DIEGO",
+                "titulo": "PETRUCCI, VINICIUS; Mosse, Daniel; Performance Prediction of Graph Analytics on Persistent Memory",
+                "evento": "12TH ANNUAL NON-VOLATILE MEMORIES WORKSHOP",
+                "local": "San Diego - EUA",
+                "ano": "2021"
+            },
+            {
+                "autores": "MOURA, DIEGO",
+                "titulo": "PETRUCCI, V",
+                "evento": "; BARRETO",
+                "local": "M.; Aprendizado por Reforço em Arquiteturas big.LITTLE. Escola Regional de Alto Desempenho - Região Nordeste, Salvador",
+                "ano": "2017"
+            },
+            {
+                "autores": "MOURA, D. B. M.",
+                "titulo": "FIGUEIREDO, G",
+                "evento": "B.; SAMPAIO",
+                "local": "L. N.; Um Algoritmo de Alocação de Largura de Banda para Tráfegos Elásticos em Redes de Circuito Dinâmico. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Florianópolis",
+                "ano": "2014"
+            },
+            {
+                "autores": "MOURA, D. B. M.",
+                "titulo": "DOMINGUEZ, D",
+                "evento": "S.; Ferramenta Computacional Usando o Método de Diferenças Finitas para Problemas de Difusão Neutrônica em Geometria Cartesiana Bidimensional. Erbase",
+                "local": "Maceió",
+                "ano": "2010"
+            },
+            {
+                "autores": "DOMINGUEZ, D. S.",
+                "titulo": "MOURA, D",
+                "evento": "B. M.; Esquemas de Diferenças Finitas para Resolver Problemas de Difusão Neutrônica. XIII Encontro de Modelagem Computacional",
+                "local": "Rio de Janeiro",
+                "ano": "2010"
+            },
+            {
+                "autores": "DOMINGUEZ, D. S.",
+                "titulo": "MOURA, D",
+                "evento": "B. M.; Esquemas de Diferenças Finitas para Resolver Problemas de Difusão. Semana de Informática da Uesc",
+                "local": "Itabuna",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Pedro Henrique Almeida Bomfim",
+                "titulo": "Chat Institucional com Inteligência Artificial para Acesso a Informações Oficiais do IFBA",
+                "ano": "2026",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Guilherme Scaranse de Castro",
+                "titulo": "Uso de redes neurais para detecção de notícias falsas na internet",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.04213212430477142,
+            "indian": 1.7381008863449097,
+            "black": 0.056486401706933975,
+            "white": 24.398473739624023,
+            "middle eastern": 65.792724609375,
+            "latino hispanic": 7.972081184387207
+        }
+    }
+}

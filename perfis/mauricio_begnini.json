@@ -41,7 +41,7 @@
             }
         ],
         "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Campus Canoinhas (2024 - 2025) : Chefe Do Departamento De Ensino Pesquisa E Extensão.\nInstituto Federal de Santa Catarina - Campus Canoinhas (2022 - 2024) .",
-        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2025) - Gestão Da Tecnologia Da Informação.\nEnsino-medio (2025) .\nEspecializacao (2025) - Mídias Integradas Na Educação.\nGraduacao (2017 - 2025) - Análise De Desenvolvimento De Sistemas.\nEnsino-medio (2017 - 2025) .",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2025) - Gestão Da Tecnologia Da Informação.\nEnsino-medio (2025) .\nEspecializacao (2025) - Mídias Integradas Na Educação.\nEnsino-medio (2017 - 2025) .\nGraduacao (2017 - 2025) - Análise De Desenvolvimento De Sistemas.",
         "comissoes": "",
         "projetos": [
             {
@@ -59,6 +59,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de base de símbolos matemáticos e químicos para uso por discentes com deficiência visual",
+                "periodo": "2023 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mauricio Begnini",
+                    "Luciano Barreto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Sistema Moeda Ouro Verde",
                 "periodo": "2023 - 2023",
                 "natureza": "Extensao",
@@ -70,12 +80,15 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Criação de base de símbolos matemáticos e químicos para uso por discentes com deficiência visual",
-                "periodo": "2023 - 2023",
+                "nome": "Juventudes Negras Periféricas: criação de sistema web para divulgação de instituições públicas de ensino, seus cursos, programas de assistência estudantil e ações afirmativas.",
+                "periodo": "2022 - 2024",
                 "natureza": "Extensao",
                 "equipe": [
                     "Mauricio Begnini",
-                    "Luciano Barreto"
+                    "CICERO SANTIAGO DE OLIVEIRA",
+                    "EMANUEL JESUS SANTOS",
+                    "BRUNO PERDONA",
+                    "GUSTAVO ZIGER"
                 ]
             },
             {
@@ -108,16 +121,6 @@
                 "equipe": [
                     "Mauricio Begnini",
                     "Luciano Barreto"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Ensino de informática para jovens com vulnerabilidade social",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Mauricio Begnini",
-                    "Lucas Bueno"
                 ]
             },
             {
@@ -198,15 +201,12 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Juventudes Negras Periféricas: criação de sistema web para divulgação de instituições públicas de ensino, seus cursos, programas de assistência estudantil e ações afirmativas.",
-                "periodo": "2022 - 2024",
+                "nome": "Ensino de informática para jovens com vulnerabilidade social",
+                "periodo": "2019 - 2019",
                 "natureza": "Extensao",
                 "equipe": [
                     "Mauricio Begnini",
-                    "CICERO SANTIAGO DE OLIVEIRA",
-                    "EMANUEL JESUS SANTOS",
-                    "BRUNO PERDONA",
-                    "GUSTAVO ZIGER"
+                    "Lucas Bueno"
                 ]
             }
         ]
@@ -336,7 +336,7 @@
                 "autores": "BEGNINI, M.",
                 "titulo": "SILVA, C",
                 "evento": "F.; RIBEIRO",
-                "local": "H.; GRACIOLI, G.; RAMOS, V.; Mining Hidden Patterns in Critical Travel Times: A Clustering Approach for the CBMSC in Florianópolis. CIKI?ICKM?GFIC Triple Conference 2026, Santiago",
+                "local": "H.; GRACIOLI, G.; RAMOS, V.; Mining Hidden Patterns in Critical Travel Times: A Clustering Approach for the CBMSC in Florianópolis. CIKI - ICKM - GFIC Triple Conference 2026, Santiago",
                 "ano": "2026"
             },
             {
@@ -383,6 +383,13 @@
                 "titulo": "INTEGRAÇÃO DE MÍDIAS DIGITAIS NA SEGURANÇA DO TRABALHO: CAMPANHAS EDUCATIVAS NO AMBIENTE CORPORATIVO",
                 "ano": "2026",
                 "curso": "Mídias Integradas na Educação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "André Rossano Cordeiro",
+                "titulo": "Monitoria: Algoritmos e Estrutura de Dados",
+                "ano": "2024",
+                "curso": "Análise de Desenvolvimento de Sistemas",
                 "instituicao": "Instituto Federal de Santa Catarina"
             },
             {

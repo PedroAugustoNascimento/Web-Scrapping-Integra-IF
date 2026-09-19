@@ -1,0 +1,638 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia de Automação e Sistemas",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Um Sistema de Gerenciamento de Agrupamentos para Redes Veiculares",
+                "orientador": "Jean-Marie Farines",
+                "ano_inicio": 2007,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "AVALIAÇÃO EXPERIMENTAL DA INFRAESTRUTURA COMPUTACIONAL PARA SISTEMAS INTELIGENTES DE TRANSPORTE",
+                "orientador": "WERNER KRAUS JR",
+                "ano_inicio": 2002,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Metodologia do Ensino Superior",
+                "instituicao": "Faculadde de Ciências e letras Plinio Austo do Amaral",
+                "ano_inicio": 1998,
+                "ano_fim": 1998
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciências da Computação",
+                "instituicao": "Universidade de Caxias do Sul",
+                "ano_inicio": 1986,
+                "ano_fim": 1994
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "instituicao": "Faculdade Educacional da Lapa",
+                "ano_inicio": 2019,
+                "ano_fim": 2021
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade de Caxias do Sul",
+                "ano_inicio": 1986,
+                "ano_fim": 1988,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "BiosSistemas Consultoria e Desenvolvimento Ltda",
+                "ano_inicio": 1988,
+                "ano_fim": 1995,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado da Bahia",
+                "ano_inicio": 1997,
+                "ano_fim": 1998,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 1997,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Zacarias de Góes",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor Visitante",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": BiosSistemas Consultoria e Desenvolvimento Ltda\nBiosSistemas Consultoria e Desenvolvimento Ltda (1988 - 1995) : Gerente De Suporte.",
+        "ensino": ": Faculdade Zacarias de Góes\nGraduacao (2004 - 2005) - Administração.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Inclusão digital para pessoas deficientes",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Lidiane Sommer"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "I Encontro sobre educação profissinal e deficiência de Valença",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Lidiane Sommer"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Inclusão digital de alunos Surdos",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Lidiane Sommer"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Robótica Educativa",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Inclusão Digital de Pessoas em Vulnerabilidade Social",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de objetos educacionais utilizando robótica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Rosenberg Mendes De Souza"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Curso de Introdução ao Arduino",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Hélder Andrade Santana",
+                    "Wállace Lincoln Da Silva Herculano"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Aprendendo Matemática com Robótica Lego",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Hyan Da Silva Dos Santos Cardoso"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Aprendendo lógica de programação utilizando Robótica Educativa",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Lucas Mendonça",
+                    "João Victor Da Silva Rodrigues"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Robótica livre: uma ferramenta para a popularização da ciência, tecnologia e inovação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Felippe Allan Osires Santos Lopes",
+                    "Talita Rosario Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Robótica educacional:uma ferramenta para a popularização da ciência, tecnologia e inovação, no ensino básico.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Brian Ormundo Marques",
+                    "Américo Pestana Barbosa",
+                    "Jessica Godinho"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "III Ciclo de Palestras da Computação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Utilizando o Google WorkSpace como ferramenta de ensino-aprendizagem",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Norma Cristina De Jesus Santos",
+                    "Deivson França Da Silva",
+                    "Bruna Souza Santana",
+                    "Oloacir Silvestre Santos De Oliveira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "I Workshop de Análise e Desenvolvimento de Sistemas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Bruno Santos De Jesus"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "IV Ciclo de Palestras da Computação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Hevelin De Jesus Freitas",
+                    "Pabricio Bonfim Freitas",
+                    "Itiel Pedro Santos Da Conceição"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "VI SEMINÁRIO DE PESQUISA DO IFBA CAMPUS VALENÇA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Cambruzzi",
+                    "Eliete Da Silva Barros",
+                    "Rosangela Patricia De Sousa Moreira"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  Sistema de Formação de custo para Gráficas",
+                    "ano": "1995",
+                    "finalidade": "Construir a árvore de formação de curso de produtos acabados para indúdtria gráfica."
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  Sistema de automação Comercial",
+                    "ano": "1994",
+                    "finalidade": "Automação de processo de compra e venda de materiais."
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  Sistema de controle de produção",
+                    "ano": "1993",
+                    "finalidade": "Controle de produção."
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  MENDONCA, L.,  RODRIGUES, J. V. S.,  Aprendendo Lógica de Programação com Robótica e Scratch",
+                    "ano": "2016",
+                    "finalidade": "Ensino de lógica d eproramação através de ambientes de aprendizagem lúdicos."
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  CARDOSO, H. S. S.,  Do Lúdico ao Abstrato: Compreendendo Matemática Através de Robótica Educacoional",
+                    "ano": "2016",
+                    "finalidade": "Ensino de matemática."
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  SANTANA, H. A.,  HERCULANO, W. L. S.,  Introdução a automação embarcada",
+                    "ano": "2016",
+                    "finalidade": "Uso do arduíno como ferramenta para fomentar a criatividade."
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "software": "E.,  Plano de desenvolvimento de Informática",
+                    "ano": "1992",
+                    "finalidade": "Implantar programa de informática e automação na prefeitura de Carlos Barbosa."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CAMBRUZZI",
+                    "titulo": "E.,  Robótica Educaional",
+                    "ano": "2016",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CAMBRUZZI",
+                    "curso": "E.,  Automação Embarcada com Arduino",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "CAMBRUZZI",
+                    "curso": "E.,  Curso de Automação Embarcada Utlizando Arduino",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CAMBRUZZI",
+                    "evento": "E.,  IV Seminário de Pesquisa do Campus Valença",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "CAMBRUZZI",
+                    "evento": "E.,  III Seminário de Pesquisa do IFBA campus Valença",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia da Bahia campus Valença."
+                },
+                {
+                    "autores": "CAMBRUZZI",
+                    "evento": "E.,  II Seminários de Educação Ciência e Tecnologia",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "CAMBRUZZI",
+                    "evento": "E.,  SOMMER, L.,  I Encontro sobre educação profissinal e deficiência de Valença",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia campus Valença."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "MENDONCA, L.;  RODRIGUES, J. V. S.;  Ensino de Lógica de Programação Através de Cenários Lúdicos de Aprendizagem Utilizando Scratch e Robótica Educativa",
+                "ano": "2016",
+                "periodico": "Anais do VII Congresso Mundial de Estilos de Aprendizagem. ISBN: 23328533   ."
+            },
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "FARINES, JEAN-MARIE;  KRAUS JR., W.;  MACÊDO, Raimundo;  A Cluster Management System for VANETs",
+                "ano": "2014",
+                "periodico": "International Journal of Intelligent Transportation Systems Research. ISBN: 13488503   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "SANTANA, J",
+                "evento": "S.; Uma Análise do Uso da Robótica Educacional como Ferramenta de Aprendizagem em Lógica de Programação. XXVIII Workshop sobre Educação em Computação",
+                "local": "",
+                "ano": "2020"
+            },
+            {
+                "autores": "SANTOS, J. V.",
+                "titulo": "SANTOS, D",
+                "evento": "; PEIXOTO",
+                "local": "J. P. J.; CAMBRUZZI, E.; ClimIFBA: Um sistema de estação meteorológica usando Redes de Sensores Sem Fio em Valença. IV XBASE Workshop de eXperimentos em Tecnologia, Alagoas",
+                "ano": "2020"
+            },
+            {
+                "autores": "FERREIRA1, W. C. S. M.",
+                "titulo": "CAMBRUZZI, E",
+                "evento": "; Nas trilhas de um legado ubíquo: construção de material didático com código qr por alunos do ensino básico. I Simpósio Internacional de Tecnologias Digitais (I SITED)",
+                "local": "Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "Souza, R",
+                "evento": "M.; Robótica Educativa na aprendizagem de Lógica de Programação: Aplicaçao e análise. XXI Workshop de Informática na Escola 2015",
+                "local": "Maceió",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARBOSA, P. C.",
+                "titulo": "DANTAS, G",
+                "evento": "; CAMBRUZZI",
+                "local": "E.; Do Lúdico ao Abstrato: Compreendendo Matemática Através de Robótica Educacoional. II Congresso Nacional de Educação, Campina Grande",
+                "ano": "2015"
+            },
+            {
+                "autores": "SANTANA, H. A.",
+                "titulo": "HERCULANO, W",
+                "evento": "L. S.; CAMBRUZZI",
+                "local": "E.; Automação Predial: Melhorando A Eficiência Energética Através Da Automação Embarcada.. IV Seminário de Pesquisa do campus Valença, Valeça- Bahia",
+                "ano": "2015"
+            },
+            {
+                "autores": "CARDOSO, H. S. S.",
+                "titulo": "CAMBRUZZI, E",
+                "evento": "; Instrumentalização De Conteúdos Matemáticos Através De Ações De Construcionismo Robótico. IV Seminário de Pesquisa do campus Valença",
+                "local": "",
+                "ano": "2015"
+            },
+            {
+                "autores": "MENDONCA, L.",
+                "titulo": "CAMBRUZZI, E",
+                "evento": "; Desenvolvendo Cenários Lúdicos Para A Aprendizagem De Lógica De Programação Utilizando Scratch E Robótica Educacional. IV Seminário de Pesquisa do campus Valença",
+                "local": "Valeça- Bahia",
+                "ano": "2015"
+            },
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "Souza, R",
+                "evento": "M.; O Uso da Robótica Educacional para o Ensino de Algoritmos. V Encontro Anual de Tecnologia da Informação",
+                "local": "Frederico Westphalen",
+                "ano": "2014"
+            },
+            {
+                "autores": "Souza, R. M.",
+                "titulo": "CAMBRUZZI, E",
+                "evento": "; Utilizando a Robótica Educativa Para o Ensino de Algoritmos. III Seminário de Pesquisa do campus Valença",
+                "local": "Valeça- Bahia",
+                "ano": "2014"
+            },
+            {
+                "autores": "Souza, R. M.",
+                "titulo": "CAMBRUZZI, E",
+                "evento": "; O Uso da Robótica Educacional para o Ensino de Lógica de Programação. II Seminários de Educação Ciência e Tecnologia",
+                "local": "Valença",
+                "ano": "2013"
+            },
+            {
+                "autores": "Dantas, G.",
+                "titulo": "Barbosa, P",
+                "evento": "; CAMBRUZZI",
+                "local": "E.; Do Abtsrato ao Lúdico: Compreendendo a matemática através da Robótica Educaional. II Seminários de Educação Ciência e Tecnologia, Valença",
+                "ano": "2013"
+            },
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "Jean-Marie; MACEDO, R",
+                "evento": "; KRAUS JR.",
+                "local": "W.; Uma Abordagem Adaptativa para Detecção de Falhas em Redes Veiculares. 28o Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Gramado, RS",
+                "ano": "2010"
+            },
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "FARINES, J",
+                "evento": "; KRAUS JR.",
+                "local": "W.; MACEDO, J. R.; An Adaptive Failure Detection System for Vehicular Ad-hoc Networks. IEEE Intelligent Vehicles Symposium, San Diego - CA",
+                "ano": "2010"
+            },
+            {
+                "autores": "CAMBRUZZI, E.",
+                "titulo": "Jean-Marie; KRAUS JR",
+                "evento": ", W.; Um Algoritmo Baseado em Peso para Formação e Manutenção de Agrupamentos em Redes Veiculares Ad hoc. 27 Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "local": "Recife",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Everaldo Rosa",
+                "titulo": "A CRIAÇÃO DE UM ROTEIRO PARA PRODUÇÃO DE RESUMOS DE TEXTOS NO FORMATO DE MAPAS MENTAIS UTILIZANDO O SOFTWARE LIVRE DRAW -IO.",
+                "ano": "2022",
+                "curso": "Educação e suas Tecnologias",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            },
+            {
+                "orientando": "ELVIS ROGÉRIO RANGEL",
+                "titulo": "GAMIFICAÇÃO COMO ESTRATÉGIA DE APRENDIZAGEM EM AULAS REMOTAS : UMA REVISÃO DA LITERATURA",
+                "ano": "2022",
+                "curso": "Educação e suas Tecnologias",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            },
+            {
+                "orientando": "Ester dos Santos Nunes",
+                "titulo": "UM OLHAR SOBRE A DOCÊNCIA: USO DAS REDES SOCIAIS COMO INSTRUMENTO FACILITADOR DO ENSINO",
+                "ano": "2018",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Adriana Sousa",
+                "titulo": "A UTILIZAÇÃO DE RECURSOS EAD COMO APOIO AO ENSINO PRESENCIAL: UM ESTUDO DE CASO EM INSTITUIÇÕES DE ENSINO SUPERIOR DE VALENÇA/BA",
+                "ano": "2018",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rosemberg Mendes de Souza",
+                "titulo": "UM ESTUDO SOBRE A UTILIZAÇÃO DE LABORATÓRIOS DE INFORMÁTICA DO PROINFO/FNDE EM ESCOLAS MUNICIPAIS DE VALENÇA-BA",
+                "ano": "2018",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Lucas Mendonça de Souza",
+                "titulo": "Ambientes lúdicos de aprendizagem para o ensino de lógica de programação",
+                "ano": "2017",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Tarcísio Paraíso Farias",
+                "titulo": "Utilizando Business Intelligence para identificar o perfil dos alunos que evadem o ensino médio integrado do IFBA campus Valença",
+                "ano": "2016",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Hyan da Silva Cardoso dos Santos",
+                "titulo": "Geometria Analítica Baseada em Robótica Educaional: Uma intervenção Construcionista",
+                "ano": "2016",
+                "curso": "Matemática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Helder Andrade de Santana",
+                "titulo": "Automação Predial:Melhorando a eficiÊncia energática através da automação embarcada",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Wallace Lincoln da Silva Herculano",
+                "titulo": "Automação Predial:Melhorando a eficiÊncia energática através da automação embarcada",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Hyan da Silva Cardoso",
+                "titulo": "Contextualizar, analisar, construir, socializar: compreendendo a matemática através da robótica educativa",
+                "ano": "2016",
+                "curso": "Matemática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Lucas Mendonça de Souza",
+                "titulo": "Desenvolvendo cenários lúdicos para a aprendizagem de lógica de programação utilizando scrtch e robótica educacional",
+                "ano": "2016",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Washington Luiz dos Santos",
+                "titulo": "A utilização da Informática nas escolas públicxas de Valença: Mapenado recursos computacionais na educação",
+                "ano": "2015",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Diego Cardoso de Azevedo",
+                "titulo": "ENsino e aprendizagem de programação: Percepções discentes e docentes",
+                "ano": "2015",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jorge Luis Ribeiro Araújo",
+                "titulo": "DA lousa ao celular:IMplicações do uso dos dispositivos móveis no processo de ensino e aprendizagem",
+                "ano": "2015",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Matheus Silva de Santana",
+                "titulo": "Contextualizar, analisar, construir, socializar: compreendendo a matemática através da robótica educativa",
+                "ano": "2015",
+                "curso": "Matemática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rosemberg Mendes da Souza",
+                "titulo": "Desenvolvendo objetos de aprendizagem para o ensino de algoritmos através da robótica educativa",
+                "ano": "2014",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rosemberg Souza Mendes",
+                "titulo": "Desenvolvimento de objetos educacionais utilizando robótica",
+                "ano": "2012",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "George Rocha",
+                "titulo": "Contextualizar, Analisar, Construir, Socializar: Aprendendo Lógica e Matemática Através da Robótica Educativa.",
+                "ano": "2012",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            }
+        ]
+    }
+}

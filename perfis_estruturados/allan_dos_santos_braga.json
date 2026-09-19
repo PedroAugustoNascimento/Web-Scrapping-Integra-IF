@@ -1,0 +1,465 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Modelos de rádio propagação baseados em machine learning usando parâmetros geométricos para percurso misto cidade-rio",
+                "orientador": "Gervásio Protásio dos Santos Cavalcante",
+                "ano_inicio": 2014,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Planejamento de Redes de Comunicação Sem Fio para Ambientes Indoor Considerando Aplicações Multimídia: Abordagem Híbrida - Simulação e Medição",
+                "orientador": "Gervásio Protásio dos Santos Cavalcante",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Redes de Telecomunicações",
+                "instituicao": "Faculdade Estácio de Belém",
+                "orientador": "André Luis Silva Santana",
+                "ano_inicio": 2012,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "DocentEPT",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "orientador": "Márcio Adriano de Azevedo",
+                "ano_inicio": 2024,
+                "ano_fim": 2026
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 2008,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Gran Centro Universitário",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdades Integradas Ipiranga",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Professor Horista",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplina Ministrada: Sistemas Operacionais (80 h)"
+            },
+            {
+                "empresa": "Universidade Federal do Pará",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "DISCIPLINA: BIOFÍSICA (60 H)"
+            },
+            {
+                "empresa": "Universidade Federal do Pará",
+                "ano_inicio": 2014,
+                "ano_fim": 2020,
+                "funcao": "Pesquisador",
+                "vinculo": "Pesquisador",
+                "descricao": "Grupo tem como foco os sistemas de comunicações específicos para a região amazônica. Em sistemas sem fio, busca-se estudo de algoritmos e técnicas para desenvolvimento de modelos de canal de propagação indoor, urbano e suburbano - outdoor, considerando a proximidade ou localização desses ambientes com florestas tropicais.Também desenvolve metodologias de qualificação de linhas DSL.Os resultados são divulgados em periódicos e congressos especializados: modelos para rádio propagação em ambientes indoor/outdoor, florestais e urbanos, determinação de propriedades eletromagnéticas de solo;Desenvolvimento de materiais absorvedores para câmaras anecóica;Análise da propagação de ondas meios complexos;Aplicações de técnicas inteligência computacional para síntese e otimização de dispositivos ópticos e antenas inteligentes;Softwares para modelagem de enlaces ópticos;Estudo de redes integradas fibra-rádio, fibra-cabo coaxial;Planejamento de sistemas móveis celulares. Formou 30 doutores 60 mestres"
+            },
+            {
+                "empresa": "Universidade Federal do Pará",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Estágio Docência",
+                "descricao": "Disciplina: Circuitos Elétricos II (60 H)"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas Sistemas de Telecomunicações (60h) Segurança da Informação (60h) Projeto de Redes de Computadores (60h)"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas Sistemas Multimídias (60h) - Tarde e Noite Segurança da Informação (60h) Sistemas Operacionais (80h)"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas Sistemas Multimídias (60h) - Noite Sistemas Multimídias (80h) - Noite Sistemas de Telecomunicações (60h) Redes de Computadores (80h)"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas: Sistemas Distribuídos (Sistema de Informação - tarde e Noite) Segurança da Informação (Sistema de Informação)"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas: Sistemas de telecomunicação (Curso: Sistemas de Informação) 60h Segurança da Informação (Curso: Redes de Computadores) 80h Redes de Computadores 2 (Curso: Sistemas de Informação) 60h Probabilidade e Estatística (Curso: Engenharias) 60h"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "Analista EAD pleno",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas Sistemas de Telecomunicações (Curso: Sistemas de Informação) 60h Sistemas Distribuídos (Curso: Redes de Computadores) 60h Segurança da Informação (Curso: Sistemas de Informação) 60h Segurança da Informação (Curso: Redes de Computadores) 80h Redes de Computadores 1 (Curso: Sistemas de Informação) 80h Sistemas Multimídia (Curso: Sistemas de Informação) 60h"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas: Computação Gráfica (Curso: Sistemas de Informação) 60h Computação Gráfica (Curso: Sistemas de Informação) 60h Sistemas Multimídia (Curso: Sistemas de Informação) 60h Segurança da Informação (Curso: Sistemas de Informação) 60h Segurança da Informação (Curso: Redes de Computadores) 80h Sistemas de Telecomunicações (Curso: Sistemas de Informação) 60h Sistemas Distribuídos (Curso: Redes de Computadores) 80h"
+            },
+            {
+                "empresa": "Faculdade Maurício de Nassau Belém - Bloco",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor de Ensino Superior",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: Fundamentos de Redes e Cab. Estruturado Sistemas Distribuidos de Redes Sistemas de telecomunicações Sistemas Multimidias Fundamentos de Segurança da Informação"
+            },
+            {
+                "empresa": "Universidade Federal Rural da Amazônia",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Pesquisador",
+                "vinculo": "Pesquisador",
+                "descricao": "O Grupo de Pesquisa Núcleo de Pesquisas em Computação Aplicada da Universidade Federal Rural da Amazônia (UFRA) foi criado como meio aglutinador para desenvolvimento de pesquisas em diversas áreas da ciência da computação, tais como Inteligência Computacional - Biologia Computacional - Tecnologia, Inovação e Educação - Redes de Computadores - Informática Agrária - Informática Aplicada à Saúde e Computação Verde. Professores Pesquisadores dos diversos campi da UFRA, bem como outros colaboradores externos de Instituições Parceiras, como UFPA, UFAM, IFPA, Uninassau, etc., concentram esforços nesta direção"
+            },
+            {
+                "empresa": "Instituto Federal do Pará",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": "Professor EBTT em regime de dedicação exclusiva, atuando na Educação Profissional e Tecnológica em cursos técnicos integrados, subsequentes e ações de formação inicial e continuada, com disciplinas relacionadas à Computação, Informática, Banco de Dados, Sistemas Operacionais, Segurança da Informação, Programação, Redes de Computadores e Projetos Integradores"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal do Pará\nCampus Conceição do Araguaia (2024) : Coordenador Substituto Do Curso Técnico Em Informática Integrado Ao Ensino Médio Do Ifpa Campus Conceição Do Araguaia.",
+        "ensino": ": Instituto Federal do Pará\nEnsino-medio (2026) .\nEnsino-medio (2025 - 2025) .\nEnsino-medio (2024 - 2024) .\nEnsino-medio (2023 - 2023) .\nEnsino-medio (2022 - 2023) .\nTreinamento Ministrado: Instituto Federal do Pará\nCampus Conceição Do Araguaia (2026) - Campus Conceição Do Araguaia - Professor EBTT.",
+        "comissoes": ": Instituto Federal do Pará\nCoordenador Do Núcleo Docente Estruturante Do Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas Do Ifpa Campus Conceição Do Araguaia. (2026).\nMembro Do Colegiado Do Curso Técnico Em Manutenção E Suporte Em Informática Do Ifpa Campus Conceição Do Araguaia. (2025).\nPresidente Da Comissão Técnica Para Realização Do Estudo De Viabilidade Do Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas Do Ifpa Campus Conceição Do Araguaia. (2024 - 2024).\nMembro Do Núcleo Docente Estruturante Do Curso Técnico Em Informática Integrado Ao Ensino Médio Do Ifpa Campus Conceição Do Araguaia. (2024).\nMembro Do Colegiado Do Curso Técnico Em Informática Integrado Ao Ensino Médio Do Ifpa Campus Conceição Do Araguaia. (2024).\nMembro Do Comitê Científico Local Do Ifpa Campus Conceição Do Araguaia, Área De Engenharias (2023).\nMembro Da Comissão De Elaboração, Organização E Acompanhamento Do Processo Seletivo Para Contratação De Professores Substitutos Do Ifpa Campus Conceição Do Araguaia. (2023 - 2023).\nMembro Da Comissão Organizadora De Processo Seletivo Para O Curso De Pós-graduação Em Docência Para Educação Profissional, Científica E Tecnológica Do Ifpa Campus Conceição Do Araguaia. (2023 - 2023).\nPresidente Da Comissão Especial Para Extinção Do Curso De Licenciatura Em Informática Do Parfor, Ifpa Campus Conceição Do Araguaia. (2023 - 2023).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Desenvolvimento de uma interface homem-computador para otimizar projetos de redes sem fio",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Gervásio Protássio Dos Santos Cavalcante",
+                    "Hermínio Gomes",
+                    "Bruno Souza Lyra Castro",
+                    "Simone Da Graça De Castro Fraiha"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Pesquisa Aplicada em Sistemas de Comunicações Sem Fio de Banda Larga",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Gervásio Protássio Dos Santos Cavalcante",
+                    "Allan Barbosa Costa",
+                    "Bruno Souza Lyra Castro"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Avaliação de Modelos de Propagação para a previsão de Área de Cobertura em Projetos de Sistemas de radiodifusão com Sinalização Digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Gervásio Protássio Dos Santos Cavalcante"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Avaliação de Modelos de Propagação para Previsão de Área de Cobertura em Projetos de Sistemas de Radiodifusão com Sinalização Digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Gervásio Protássio Dos Santos Cavalcante"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal do Pará",
+                "nome": "Biblioteca Compartilhada",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Giovany Gonçalves Mendes",
+                    "Mirian Santos Alves",
+                    "Isadora Jordana Oliveira Ferreira",
+                    "Larissa De Sousa Pereira",
+                    "Laura Oliveira Caetano"
+                ],
+                "financiador": "Instituto Federal do Pará,",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal do Pará",
+                "nome": "LabMaker como espaço de pesquisa aplicada e desenvolvimento de práticas interdisciplinares no IFPA Campus Conceição do Araguaia APP Graduação (PVH4200-2026)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Luiz Myguel Bezerra Silva Barros"
+                ],
+                "financiador": "Instituto Federal do Pará,",
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal do Pará",
+                "nome": "LabMaker como espaço de pesquisa aplicada e desenvolvimento de práticas interdisciplinares no IFPA Campus Conceição do Araguaia APP Ensino Médio (PVH4196-2026)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Emily Da Silva Francalina"
+                ],
+                "financiador": "Instituto Federal do Pará,",
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal do Pará",
+                "nome": "Educação, Sustentabilidade e Tecnologia: Conhecendo o IFPA Campus Conceição do Araguaia",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Allan Dos Santos Braga",
+                    "Míndrid Rhaiany De Melo Silva",
+                    "Cleyton Abreu Martins",
+                    "Eva De Loureiro Cardoso",
+                    "Raul Teixeira De Andrade"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BRAGA",
+                    "titulo": "A. S.,  CAVALCANTE, G. P. S.,  Modelos de Propagação para Previsão de Área de Cobertura no Projeto de Sistemas de Radiodifusão com Sinalização Digital",
+                    "ano": "2012",
+                    "instituicao_promotora": "UFPA."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BRAGA, ALLAN S.",
+                "titulo": "CRUZ, HUGO A. O.;  ERAS, LESLYE E. C.;  ARAUJO, JASMINE P. L.;  NETO, MIIRCIO C. A.;  SILVA, DIEGO K. N.;  CAVALCANTE, GERVASIO P. S.;  Radio Propagation Models Based on Machine Learning using Geometric Parameters for a Mixed City-River Path",
+                "ano": "2020",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "CRUZ, H. A. O.",
+                "titulo": "BRAGA, A",
+                "evento": "S.; ARAUJO",
+                "local": "J. P.; FRAIHA, S. G. C.; CAVALCANTE, G. P. S.; Predição QoE Baseado em QoS Utilizando Neuro- Fuzzy em Transmissão de Vídeo em Redes Wi-Fi. XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2016), Santarém/PA",
+                "ano": "2016"
+            },
+            {
+                "autores": "BRAGA, A. S.",
+                "titulo": "LOPES, R",
+                "evento": "L. F.; CARMONA",
+                "local": "J. V. C.; ARAUJO, J. P.; FRAIHA, S. G. C.; RODRIGUES, J. C.; GOMES, H.; CAVALCANTE, G. P. S.; Wireless Indoor Networks Planning Considering QoE Metrics on Multimedia Applications. The 9th European Conference on Antennas and Propagation, Lisboa",
+                "ano": "2015"
+            },
+            {
+                "autores": "BRAGA, A. S.",
+                "titulo": "LOPES, R",
+                "evento": "L. F.; RODRIGUES",
+                "local": "J. C.; ARAUJO, J. P.; FRAIHA, S. G. C.; GOMES, H.; CAVALCANTE, G. P. S.; Coverage Area Simulation for Indoor 4G Networks in 2.6 Ghz and 3.5 Ghz. In: Antennas and Propagation. The 8th European Conference on Antennas and Propagation, The Hague",
+                "ano": "2014"
+            },
+            {
+                "autores": "BRAGA, A. S.",
+                "titulo": "ARAUJO, J",
+                "evento": "P.; RODRIGUES",
+                "local": "J. C.; COSTA, A. B.; LOPES, R. L. F.; GOMES, H.; FRAIHA, S. G. C.; CASTROS, B. S. L.; CAVALCANTE, G. P. S.; Implementation of a new propagation model for 5.8GHz systems in OPNET simulator. Antennas and Propagation (EuCAP), 2013 7th European Conference on, Gothenburg",
+                "ano": "2013"
+            },
+            {
+                "autores": "LOPES, R. L. F.",
+                "titulo": "COSTA, A",
+                "evento": "B.; BRAGA",
+                "local": "A. S.; GOMES, H.; RODRIGUES, J. C.; ARAUJO, J. P.; CASTRO, B. S. L.; CAVALCANTE, G. P. S.; Empirical ARMA outdoor propagation model for amazon cities. Antennas and Propagation (EuCAP), 2013 7th European Conference on, Gothenburg",
+                "ano": "2013"
+            },
+            {
+                "autores": "COSTA, A. B.",
+                "titulo": "BRAGA, A",
+                "evento": "S.; FRANCES",
+                "local": "C. R. L.; CAVALCANTE, G. P. S.; Avaliação de Desempenho da Tecnologia Femtocell como Canal de Retorno para TV Digital. MOMAG - 15º SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica 10º CBMag ? Congresso Brasileiro de Eletromagnetismo, João Pessoa - PB",
+                "ano": "2012"
+            },
+            {
+                "autores": "FERREIRA, A. S.",
+                "titulo": "BRAGA, A",
+                "evento": "S.; GOMES",
+                "local": "H.; CAVALCANTE, G. P. S.; Kriging Method Applied to Predict the Coverage Area of Digital TV. SBRT - Sociedade Brasileira de Telecomunicações, Brasilia - DF",
+                "ano": "2012"
+            },
+            {
+                "autores": "BRAGA, A. S.",
+                "titulo": "FERREIRA, A",
+                "evento": "S.; ARAUJO",
+                "local": "J. P.; GOMES, H.; CAVALCANTE, G. P. S.; Predição de Sinal de TV Digital em Regiões com Cobertura Mista Usando o Método de Krigagem. MOMAG - 15º SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica 10º CBMag ? Congresso Brasileiro de Eletromagnetismo, João Pessoa - PB",
+                "ano": "2012"
+            },
+            {
+                "autores": "COSTA, A. B.",
+                "titulo": "BRAGA, A",
+                "evento": "S.; ARAUJO",
+                "local": "J. P.; CAVALCANTE, G. P. S.; The Femtocell as Return Channel: a Proposal for Brazilian Amazon Region Interactive Digital TV. NGMAST2012 - 6th International Conference and Exhibition on Next Generation Mobile Applications, Services, and Technologies 2012, Paris - FRA",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ialis Bonfim Rosa Alves",
+                "titulo": "Da enxada ao algoritmo: a evolução técnica e tecnológica na construção do mundo contemporâneo",
+                "ano": "2025",
+                "curso": "Curso Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Helena Damásio Costa",
+                "titulo": "A revolução tecnológica no esporte: inovações e impactos no desempenho e na experiência esportiva",
+                "ano": "2025",
+                "curso": "Curso Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Gledson Pereira Lima",
+                "titulo": "Guia prático de soluções de problemas em computadores: dicas e tutoriais para usuários",
+                "ano": "2025",
+                "curso": "Curso Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Artur Morais Paix Fernandes",
+                "titulo": "Estufa automatizada: criar uma estufa controlada por Arduino que monitora e regula temperatura e umidade para otimizar o crescimento de plantas",
+                "ano": "2025",
+                "curso": "Curso Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Iago Abreu Fragoso",
+                "titulo": "Monitoramento de condições ambientais com IoT utilizando ESP-1 e sensor DHT22",
+                "ano": "2025",
+                "curso": "Curso Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Bruno Franklin dos Santos Alves",
+                "titulo": "A criptografia como recurso didático para o ensino e aprendizagem de funções matemáticas",
+                "ano": "2025",
+                "curso": "Curso Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Alice Cristina Fernandes Santos",
+                "titulo": "Análise do uso do Arduino como ferramenta de ensino pedagógico nos Institutos Federais",
+                "ano": "2024",
+                "curso": "Curso Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Laura Oliveira Caetano",
+                "titulo": "Planejamento de uma biblioteca virtual de história",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Thays Barbosa Coelho Silva",
+                "titulo": "A importância do uso das tecnologias digitais de informação e comunicação integrada na educação profissional técnica de nível médio",
+                "ano": "2023",
+                "curso": "Especialização em Docência para a Educação Profissional, Científica e Tecno",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Keison Siqueira de Leão",
+                "titulo": "Ajuste de modelo de propagação Okumura-Hata na frequência de 521MHz para cidade de Belém",
+                "ano": "2021",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "SUELLEN ARAGÃO DE SOUZA",
+                "titulo": "VOWIFI: RESGATE DE UMA TENDÊNCIA NO MERCADO DE MOBILIDADE",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "Hugo Alexandre Oliveira Da Cruz",
+                "titulo": "ANÁLISE DE MÉTRICAS DE QoS PARA PREDIÇÃO DE QoE UTILIZANDO A TÉCNICA NEURO-FUZZY EM TRANSMISSÃO DE VÍDEO EM REDES WI-FI",
+                "ano": "2016",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Pará"
+            }
+        ]
+    }
+}

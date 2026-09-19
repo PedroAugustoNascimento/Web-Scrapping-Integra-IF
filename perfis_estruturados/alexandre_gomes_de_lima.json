@@ -1,0 +1,501 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "orientador": "Eduardo Henrique da Silva Aranha",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Classificador Neural Híbrido para Imagens Obtidas por Sensoriamento Remoto",
+                "orientador": "Ana Maria Guimarães Guerreiro",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Centro Federal de Educação Tecnológica do RN",
+                "ano_inicio": 2002,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura Plena em Matemática",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 1997,
+                "ano_fim": 2000
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Secretaria Estadual de Educação, Cultura e Desporto",
+                "ano_inicio": 2000,
+                "ano_fim": 2006,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria Estadual de Educação, Cultura e Desporto",
+                "ano_inicio": 2000,
+                "ano_fim": 2000,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria Estadual de Educação, Cultura e Desporto",
+                "ano_inicio": 1999,
+                "ano_fim": 1999,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria Municipal de Educação de Natal",
+                "ano_inicio": 2002,
+                "ano_fim": 2006,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2006,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Norte Riograndense de Pesquisa e Cultura",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Desenvolvedor Java",
+                "vinculo": "Prestador de Serviço",
+                "descricao": ""
+            },
+            {
+                "empresa": "Hirix Tecnologias",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Projetista de Software",
+                "vinculo": "Prestação de Serviço",
+                "descricao": ""
+            },
+            {
+                "empresa": "FUNDAÇÃO DE APOIO A EDUCAÇÃO E AO DESENVOLVIMENTO TECNOLÓGICO DO RN FUNCERN",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nIFRN Campus Natal (2015 - 2019) : Coordenador Do Curso Técnico Integrado Em Informática Para Internet.\nAsGa Sistemas (2004 - 2005): Telecomunicações,",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nGraduacao (2007) - Tecnologia Em Desenvolvimento De Software.\nOutro (2006) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Portal Nacional da EPT",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Gomes De Lima",
+                    "Francisco Sales De Lima Filho"
+                ],
+                "financiador": "Ministério da Educação,",
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SIMADM 2: software de apoio ao ensino da gestão organizacional",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Gomes De Lima",
+                    "Daniel Alves Moreira",
+                    "Eric Eduardo Da Silva Alencar",
+                    "Vitor De Medeiros Júnior"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "EnergyDownNow",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Gomes De Lima",
+                    "Ana Priscila Meireles De Melo",
+                    "Rafael Oliveira De Moura"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Núcleo de Extensão e Prática Profissional - DIATINF",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Gomes De Lima",
+                    "Leonardo Reis Lucena",
+                    "Jássio Pereira De Medeiros"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Include all - avaliação de acessibilidade web em sites governamentais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Gomes De Lima",
+                    "Danielle Gomes De Freitas Medeiros",
+                    "Miqueias Abnadabe Ferreira De Souza",
+                    "Jherod Brendon Alves Dos Anjos",
+                    "Bruna Carvalho Da Silva",
+                    "Flávio Henrique Silva Maria",
+                    "Jéssica Da Silva Rodrigues",
+                    "Jessica Maiara Da Cruz Leite",
+                    "Mário Sérgio Souza Da Costa",
+                    "Alessandro Da Silva Medeiros"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Fundação Norte Riograndense de Pesquisa e Cultura",
+                "nome": "FINEP/SIM",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Gomes De Lima",
+                    "Josue Vitor De Medeiros Junior",
+                    "Fellipe Araújo Aleixo",
+                    "Fabio Fernandes Penha",
+                    "Plácido Antônio De Souza Neto"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos, ,",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LIMA",
+                    "titulo": "A. G.,  ARANHA, E. H. S.,  Inteligência artificial aplicada ao direito: um mapeamento sistemático de trabalhos recentes da conferência ICAIL",
+                    "ano": "2019",
+                    "instituicao_promotora": "UFRN."
+                },
+                {
+                    "autores": "MELO",
+                    "titulo": "A. P. M.,  LIMA, A. G.,  Energydownow: aprendendo física através de um jogo para controle de consumo elétrico",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto Infobrasil de Inovação Digital."
+                },
+                {
+                    "autores": "LIMA",
+                    "titulo": "A. G.,  GUERREIRO, A. M. G.,  Uso das redes neurais de função de base radial e Growing Neural Gas na classificação de imagens de sensoriamento remoto",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Nacional de Pesquisas Aeroespaciais."
+                },
+                {
+                    "autores": "LIMA",
+                    "titulo": "A. G.,  DÓRIA NETO, Adrião D.,  BENJAMIM, Xiankleber C.,  PAIVA, Jailton C. de,  MENEGHETTI, Vitor,  Aplicação de Redes Neurais Artificiais na Classificação de Imagens Obtidas por Sensoriamento Remoto",
+                    "ano": "2010",
+                    "instituicao_promotora": "UERN/UFERSA/IFRN."
+                },
+                {
+                    "autores": "LIMA",
+                    "titulo": "A. G.,  Armazenando Dados no Delphi.NET sem Auxílio de Banco de Dados",
+                    "ano": "2008",
+                    "instituicao_promotora": "CEFET-RN."
+                },
+                {
+                    "autores": "LIMA",
+                    "titulo": "A. G.,  Sistema de Coleta de Dados do Público da EXPOTEC",
+                    "ano": "2008",
+                    "instituicao_promotora": "CEFET-RN."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "LIMA",
+                    "curso": "A. G.,  Capacitação em Spring Framework 4",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "A. G.,  Introdução a Java Server Faces",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "A. G.,  Testes Unitários com JUnit",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "A. G.,  Testes unitários com JUnit e Mockito",
+                    "ano": "2012"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUZA NETO",
+                    "evento": "P. A.,  VARGAS-SOLAR, G.,  ALEIXO, Fellipe Araújo,  RIBEIRO, C. M. F. A.,  FREIRE, M. A.,  LIMA, A. G.;LIMA, Alexandre,  2nd French-Brazilian School on Big Data and Smart Cities",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "A. G.;LIMA, Alexandre,  GOMES, E. L. G. T.,  MEDEIROS, T. J.,  MEDEIROS, D. G. F.,  PAPAIZ, F.,  SOUZA NETO, P. A.,  IV Workshop de Tecnologias em Análise e Desenvolvimento de Sistemas",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "A. G.;LIMA, Alexandre,  ALEIXO, Fellipe Araújo,  FREIRE, M. A.,  GOMES, E. L. G. T.,  SOUZA NETO, P. A.,  III Workshop de Tecnologias em Análise e Desenvolvimento de Sistemas",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "GOMES",
+                    "evento": "E. L. G. T.,  ROCHA, C. G. A.,  MEDEIROS, D. G. F.,  SILVA, J. M. V. B. S.,  MACEDO, M. O. S.,  COSTA, L. F. L. G.,  VIEIRA JUNIOR, I. F.,  ALEIXO, Fellipe Araújo,  PAIVA, G. L.,  LIMA, A. G.;LIMA, Alexandre,  SOUSA, M. F. F.,  I Simpósio de Gestão e Tecnologia da Informação: Cidade Inteligente",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "A. G.;LIMA, Alexandre,  VI Semana de Ciência, Tecnologia e Cultura da UFRN",
+                    "ano": "2000",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFRN."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "MOREIRA, D. A.",
+                "titulo": "LIMA, A",
+                "evento": "G.; ALENCAR",
+                "local": "E. E. S.; Projeto SIMADM 2: software de simulação empresarial votada ao ensino da gestão organizacional. Congresso Norte Nordeste de Pesquisa e Inovação, Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "MELO, A. P. M.",
+                "titulo": "LIMA, A",
+                "evento": "G.; EnergyDownNow. Congresso Norte Nordeste de Pesquisa e Inovação",
+                "local": "Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "LIMA, A. G.",
+                "titulo": "ALVES, Robinson Luís de; Aplicação de redes neurais artificiais na identificação automatizada de coqueiros a partir de uma imagem de alta resolução",
+                "evento": "XVI Simpósio Brasileiro de Sensoriamento Remoto",
+                "local": "Foz do Iguaçu",
+                "ano": "2013"
+            },
+            {
+                "autores": "MOREIRA, D. A.",
+                "titulo": "ALENCAR, E",
+                "evento": "E. S.; LIMA",
+                "local": "A. G.; Executor de Modelos Baseados em Fluxos e Estoques. Congresso Norte Nordeste de Pesquisa e Inovação, Palmas",
+                "ano": "2012"
+            },
+            {
+                "autores": "LIMA, A. G.",
+                "titulo": "GUERREIRO, A",
+                "evento": "M. G.; USO DAS REDES NEURAIS DE FUNÇÃO DE BASE RADIAL E GROWING NEURAL GAS NA CLASSIFICAÇÃO DE IMAGENS DE SENSORIAMENTO REMOTO. XV Simpósio Brasileiro de Sensoriamento Remoto",
+                "local": "Curitiba",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Willen Rodrigo de Leiros",
+                "titulo": "Relatório técnico de elaboração do aplicativo polícia cidadã",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Klisóstom Sousa da Silva",
+                "titulo": "Módulo de gerencimento de atendimentos diários de suporte online",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gerdon Adler Ribeiro Mafra",
+                "titulo": "Implementação de um sistema de revenda de veículos com Laravel",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Eduardo Marçal Oliveira",
+                "titulo": "Estudo de caso de utilização de tecnologias Spring e JSF: implementação de aplicação web para revenda de veículos",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jadson da Silva Bezerra",
+                "titulo": "Desenvolvimento e implantação de um sistema web para enviar, armazenar e receber documentos",
+                "ano": "2016",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Josenice Severino de Pinho",
+                "titulo": "Sistema de avaliação do processo ensino aprendizagem do IFRN - campus Natal Central",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Daniel Alves Moreira",
+                "titulo": "VIZBOM: plataforma colaborativa para denúncias de atos criminosos e problemas urbanos",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Ana Priscila Meireles de Melo",
+                "titulo": "EnergyDown - auxiliando o ensino de Física através de um jogo para controle de consumo elétrico",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Eric Eduardo da Silva Alencar",
+                "titulo": "Sistema gerenciador de pacientes para uma clínica de tratamento espírita: um relato de projeto integrador",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Leandro Silva Monteiro de Oliveira",
+                "titulo": "Desenvolvimento e implantação do sistema Clínicas Integradas UNI-RN",
+                "ano": "2013",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Nayane do Nascimento Lobato",
+                "titulo": "Fichamento online: uma rede social para organizar seus estudos",
+                "ano": "2013",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "João Gabriel da Silva Medeiros",
+                "titulo": "Sistema de Avaliação Institucional",
+                "ano": "2012",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Eduardo Santos de Freitas",
+                "titulo": "Desenvolvimento de um Protótipo para Identificação Facial",
+                "ano": "2012",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Anielisson da Silva Sales",
+                "titulo": "Desenvolvimento de aplicação web para mapeamento de problemas de trânsito - PROSIGA",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Renieri Rayron da Silva Correia",
+                "titulo": "Busca fonética utilizando aspectos",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Ana Priscila Meireles de Melo",
+                "titulo": "Aprendendo Física através de um jogo para controle de consumo elétrico residencial",
+                "ano": "2012",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Rafael Oliveira de Moura",
+                "titulo": "Aprendendo Física através de um jogo para controle de consumo elétrico residencial",
+                "ano": "2012",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Eric Eduardo da Silva Alencar",
+                "titulo": "SIMADM 2: Software de Simulação Empresarial",
+                "ano": "2012",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Daniel Alves Moreira",
+                "titulo": "SIMADM 2: Software de Simulação Empresarial",
+                "ano": "2012",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Francisco Carlilton Morais de Queiroz",
+                "titulo": "Sistema de Informção de Veículos Furtados e Roubados do Estado do Rio Grande do Norte (SIVEFURN)",
+                "ano": "2011",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Rodrigo Augusto Rodrigues",
+                "titulo": "Teste de Software: analisando o desempenho de consultas JPA-QL entre os provedores de persistência Hibernate e Toplink",
+                "ano": "2009",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Alikson Suel Costa de Oliveira",
+                "titulo": "Desenvolvimento de Executor de Modelos Baseado em Fluxos e Estoques",
+                "ano": "2009",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gilmar Pereira de Sá Leitão",
+                "titulo": "Desenvolvimento de Componente para Manipulação de Flat File",
+                "ano": "2008",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Centro Federal de Educação Tecnológica do RN"
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "FRB-BLINGUI: um modelo baseado em regras Fuzzy para previsão de riscos de colisão com obstáculos em apoio a pessoas com deficiência visual",
+                "orientador": "Tatiane Nogueira Rios",
+                "ano_inicio": 2017,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Blingui: um sistema vestível de apoio a locomoção de pessoas portadoras de deficiência visual na detecção de obstáculos",
+                "orientador": "Vaninha Vieira",
+                "ano_inicio": 2014,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Computação Distribuída e Ubíqua",
+                "instituicao": "Instituto Federal da Bahia",
+                "orientador": "Flávia Maristela Nascimento",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia",
+                "ano_inicio": 2009,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professora Substituta Temporária",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Programadora de Software do Projeto SIGA-EPCT",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Apoio à Pesquisa e Extensão",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Professora",
+                "vinculo": "Não informado",
+                "descricao": "Professora no projeto CapaciTIC/UFBA"
+            },
+            {
+                "empresa": "Colégio Formati",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Gestora e Diretora Escolar",
+                "vinculo": "Sócia",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SIGA-EPT",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Elidiane Pereira Do Nascimento",
+                    "Márcio Melo De Oliveira",
+                    "Edna Da Silva Matos",
+                    "Pablo Vieira Florentino"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Nascimento",
+                    "titulo": "P. E.,  Aplicação da Computação Ubíqua no Desenvolvimento de uma Solução de Acessibilidade para Pessoas com Deficiência visual",
+                    "ano": "2017",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA."
+                },
+                {
+                    "autores": "Nascimento",
+                    "titulo": "P. E.,  Um Sistema Vestível de Detecção de Obstáculos para Pessoas Portadoras de Deficiência Visual",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade Federal da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "Nascimento",
+                    "evento": "P. E.,  XXXI SIMPÓSIO BRASILEIRO DE BANCO DE DADOS",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "XXXI SIMPÓSIO BRASILEIRO DE BANCO DE DADOS."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Nascimento, P. E.",
+                "titulo": "Rios, N",
+                "evento": "T; FT-BlinGui: a fuzzy-based wearable device system to avoid visually impaired collision in real time. IX Brazilian Conference on Intelligent Systems (BRACIS 2020)",
+                "local": "online",
+                "ano": "2020"
+            },
+            {
+                "autores": "Nascimento, P. E.",
+                "titulo": "Vieira, V",
+                "evento": "; Nascimento",
+                "local": "F. M; BlinGui: uma solução vestível de apoio a pessoas portadoras de deficiencia visual na detecção de obstáculos estáticos em ambientes internos. XXXVI Congresso da Sociedade Brasileira de Computação / SBCUP - 8º Simpósio Brasileiro de Computação Ubíqua e Pervasiva, Porto Alegre - RS",
+                "ano": "2016"
+            },
+            {
+                "autores": "Nascimento, P. E.",
+                "titulo": "Andrade, S",
+                "evento": "S.; Visualização de Software como Suporte ao Desenvolvimento Centrado em Métricas Orientadas a Objetos. I WORKSHOP BRASILEIRO DE VISUALIZAÇÃO",
+                "local": "EVOLUÇÃO E MANUTENÇÃO DE SOFTWARE 2013- IV CBSOFT 2013, Brasília/DF",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.22197151184082,
+            "indian": 8.503622055053711,
+            "black": 2.7058537006378174,
+            "white": 27.60548973083496,
+            "middle eastern": 21.759723663330078,
+            "latino hispanic": 33.203338623046875
+        }
+    }
+}

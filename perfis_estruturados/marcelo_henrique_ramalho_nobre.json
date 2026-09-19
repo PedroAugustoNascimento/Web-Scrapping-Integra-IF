@@ -1,0 +1,119 @@
+{
+    "campus": "- Campus Santa Cruz",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Contribuições em Escalonamento e Análise de Desempenho de Redes WirelessHART",
+                "orientador": "Luiz Affonso Henderson Guedes de Oliveira",
+                "ano_inicio": 2011,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Módulo WirelessHART para o Network Simulator 3",
+                "orientador": "Luiz Affonso Henderson Guedes de Oliveira",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2006
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Analista de Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Silva, Ivanovitch",
+                "titulo": "NOBRE, Marcelo Henrique Ramalho;NOBRE, MARCELO;  Guedes, L. A.;  Routing and Scheduling Algorithms for WirelessHARTNetworks: A Survey",
+                "ano": "2015",
+                "periodico": "Sensors (Basel). ISBN: 14248220   ."
+            },
+            {
+                "autores": "NOBRE, MARCELO",
+                "titulo": "SILVA, IVANOVITCH;  GUEDES, LUIZ AFFONSO;  Performance evaluation of WirelessHART networks using a new network simulator 3 module",
+                "ano": "2015",
+                "periodico": "Computers & Electrical Engineering. ISBN: 00457906   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Guedes, L.A.",
+                "titulo": "SOUZA, S",
+                "evento": "; NOBRE",
+                "local": "Marcelo Henrique Ramalho; SILVA, I. M. D.; Avaliação de Confiabilidade e Consumo de Energia em Redes WirelessHART. Congresso Brasileiro de Automática (CBA), Belo Horizonte",
+                "ano": "2014"
+            },
+            {
+                "autores": "NOBRE, Marcelo Henrique Ramalho",
+                "titulo": "NOBRE, MARCELO; SILVA, I",
+                "evento": "M. D.; Guedes",
+                "local": "L.A.; Portugal, P.; Towards a WirelessHART module for the ns-3 simulator. 2010 IEEE Conference on Emerging Technologies and Factory Automation (ETFA), Bilbao",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 26.060283660888672,
+            "indian": 12.385586738586426,
+            "black": 4.2714524269104,
+            "white": 15.740256309509277,
+            "middle eastern": 14.300618171691895,
+            "latino hispanic": 27.241802215576172
+        }
+    }
+}

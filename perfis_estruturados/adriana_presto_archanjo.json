@@ -1,0 +1,133 @@
+{
+    "campus": "- Câmpus Xanxerê",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade de São Paulo",
+                "orientador": "Simone do Rocio Senger de Souza",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Ciência de Dados com residência tecnológica",
+                "instituicao": "Pontifícia Universidade Católica de Campinas",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Informação e Cultura",
+                "instituicao": "Universidade de São Paulo",
+                "orientador": "Dennis de Oliveira",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal de São Paulo",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Jornalismo",
+                "instituicao": "Universidade Metodista de São Paulo",
+                "ano_inicio": 2001,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+                "ano_inicio": 2020,
+                "ano_fim": 2021,
+                "funcao": "bolsista iniciação científica",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações",
+                "ano_inicio": 2023,
+                "ano_fim": 2024,
+                "funcao": "cientista de dados",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "IBM BRASIL IND.MAQ. E SERVICOS LTDA",
+                "ano_inicio": 2021,
+                "ano_fim": 2023,
+                "funcao": "desenvolvedora de aplicativo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "FUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "tutora",
+                "vinculo": "Bolsista",
+                "descricao": "Atuação como orientadora de TCC na disciplina \"Trabalho de Conclusão de Curso em Engenharia de Computação - TCC540 - Turma 007\""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+                "nome": "Semântica de Frames com ferramentas tecnológicas para a Comunicação Científica eficaz",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Adriana Presto Archanjo",
+                    "Gustavo Aurélio Prieto",
+                    "Matheus Sardeli Malheiro",
+                    "Lucas Souza Teixeira",
+                    "Nicholas Gomez Zilli Castro",
+                    "Rosana Ferrareto"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Fundação Centro de Pesquisa e Desenvolvimento em Telecomunicações",
+                "nome": "Segmentação Textual Baseada em Tópicos em Português Utilizando BERTimbau",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Adriana Presto Archanjo",
+                    "Luis Pessoa"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ARCHANJO",
+                    "titulo": "A. P.,  Segmentação Textual Baseada em Tópicos em Portugue?s Utilizando BERTimbau",
+                    "ano": "2024",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

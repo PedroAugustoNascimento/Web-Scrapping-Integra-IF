@@ -83,10 +83,21 @@
                 "cargo": ", Revisor de periódico."
             }
         ],
-        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Joinville (2026) : Coordenação Do Núcleo De Ensino A Distância.\nInstituto Federal de Santa Catarina - Campus Avançado S.L.do Oeste - SC (2018 - 2019) : Coordenador Dos Cursos De Formação Inicial E Continuada.\nInstituto Federal de Santa Catarina - Campus Caçador (2025): Sistemas Educacionais Inteligentes, Grandes Modelos de Linguagem e Agentes Artificiais para Automação de Processos, Machine Learning e Processos Industriais, Ética e Governança em Inteligência Artificial,",
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Joinville (2026) : Coordenação Do Núcleo De Ensino A Distância.\nInstituto Federal de Santa Catarina - Campus Avançado S.L.do Oeste - SC (2018 - 2019) : Coordenador Dos Cursos De Formação Inicial E Continuada.\nInstituto Federal de Santa Catarina - Campus Caçador (2025): Grandes Modelos de Linguagem e Agentes Artificiais para Automação de Processos, Machine Learning e Processos Industriais, Ética e Governança em Inteligência Artificial, Sistemas Educacionais Inteligentes,",
         "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2026) - Sistemas De Informação.\nEspecializacao (2024 - 2025) - Práticas Interdisciplinares Na Educação.\nGraduacao (2019 - 2025) - Engenharia De Produção.\nGraduacao (2019 - 2025) - Sistemas De Informação.\nEnsino-medio (2018 - 2019) .\nTreinamento Ministrado: Frame Madeiras Especiais Ltda.\nDepartamento De Ti (2007 - 2009) - Departamento De Ti - Programador de Sistemas de Computador.\nTreinamento Ministrado: Instituto Federal de Santa Catarina\nInstituto Federal De Santa Catarina - Campus Avançado S.l.do Oeste - Sc (2018 - 2019) - Instituto Federal De Santa Catarina - Campus Avançado S.l.do Oeste - Sc - Professor EBTT.",
         "comissoes": ": Instituto Federal de Santa Catarina\nNúcleo De Acessibilidade Educacional (2026).\nMembro Do Núcleo Docente Estruturante Do Curso De Sistemas De Informação (2024).\nMembro Da Comissão Responsável Pela Análise Ou Elaboração De Ppc Para Oferta Do Curso Técnico Concomitante Em Informática Para Internet No Câmpus Avançado São Lourenço Do Oeste. (2018 - 2018).",
         "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Infraestrutura de Ambiente Inteligente Visando Gerenciamento e Uso Sustentável dos Recursos Naturais e Tecnológicos",
+                "periodo": "2018 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo Roberto Cordova",
+                    "Vinícius Dal Bem",
+                    "Fernando Silvano Gonçalves"
+                ]
+            },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "SNCT no IFSC São Lourenço do Oeste 2018 - Ciência para redução das desigualdades",
@@ -102,17 +113,6 @@
                 "nome": "CAPACITAÇÃO E SUPORTE EM GERENCIAMENTO DE PROJETOS PARA ALUNOS DO CURSO PROFISSIONALIZANTE EM INFORMÁTICA",
                 "periodo": "2018 - 2018",
                 "natureza": "Extensao",
-                "equipe": [
-                    "Paulo Roberto Cordova",
-                    "Vinícius Dal Bem",
-                    "Fernando Silvano Gonçalves"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Infraestrutura de Ambiente Inteligente Visando Gerenciamento e Uso Sustentável dos Recursos Naturais e Tecnológicos",
-                "periodo": "2018 - 2018",
-                "natureza": "Pesquisa",
                 "equipe": [
                     "Paulo Roberto Cordova",
                     "Vinícius Dal Bem",
@@ -174,8 +174,8 @@
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Cristiano Mesquita Garcia",
-                    "Paulo Roberto Cordova"
+                    "Paulo Roberto Cordova",
+                    "Cristiano Mesquita Garcia"
                 ]
             },
             {

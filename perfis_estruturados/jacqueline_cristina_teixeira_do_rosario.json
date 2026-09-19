@@ -1,0 +1,264 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Aplicação Integrada da Teoria da Carga Cognitiva, Interação Humano-Computador e Robótica no Ensino de Algoritmos",
+                "orientador": "Marcelle Pereira Mota",
+                "ano_inicio": 2022,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Software",
+                "instituicao": "Faculdade Futura",
+                "orientador": "DSc",
+                "ano_inicio": 2022,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "TECNOLOGIAS EDUCACIONAIS PARA PRÁTICA DOCENTE DO ENSINO BÁSICO",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia",
+                "orientador": "Rodrigo Antonio Pereira Junior",
+                "ano_inicio": 2021,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Sistema de Informação",
+                "instituicao": "FAVENI-FACULDADE VENDA NOVA DO IMIGRANTE",
+                "orientador": "DSc",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2015,
+                "ano_fim": 2019
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria de Ciência, Tecnologia e Educação do Estado do Pará",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Professora de Programação e Robótica",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nEnsino-medio (2024) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "O Uso da Gamificação e do Pensamento Computacional na Formação de Técnicos em Informática",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jacqueline Cristina Teixeira Do Rosário",
+                    "Juliane Vitoria Pereira Ferreira"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "TEIXEIRA",
+                    "titulo": "J. C.,  Soares, C,  Introdução em Scratch para o desenvolvimento de jogos infantojuvenil: construindo o futuro com diversão",
+                    "ano": "2024",
+                    "instituicao_promotora": "Faculdade Estácio Fap."
+                },
+                {
+                    "autores": "TEIXEIRA",
+                    "titulo": "J. C.,  AMORIM, F. S.,  Conceitos de Lógicas de Programação com Scartch: aprendizagem criativa",
+                    "ano": "2019",
+                    "instituicao_promotora": "Unama Ananindeua."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "titulo": "J. C. T.,  SOUSA, A. C. C.,  CARVALHO JR, MARIO. L.,  MIRANDA, MARIA LETICIA S.,  AMORIM, F. S.,  INCLUSÃO E ACESSIBILIDADE NAS ESCOLAS DA REDE MUNICIPAL, ESTADUAL E PARTICULAR DE CASTANHAL E SANTA ISABEL DO PARÁ",
+                    "ano": "2018",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DO PARÁ."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "titulo": "J. C. T.,  AMORIM, F. S.,  UMA ABORDAGEM SOBRE TECNOLOGIAS INFORMATIZADAS NA METODOLOGIA DE ENSINO",
+                    "ano": "2017",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Pará."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ROSÁRIO",
+                    "curso": "J. C. T.,  Informática para professores",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "ROSÁRIO",
+                    "curso": "J. C. T.,  SCRATCH Aprendendo a desenvolver jogos",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "ROSÁRIO",
+                    "curso": "J. C. T.,  AMORIM, F. S.,  SCRATCH desenvolvimento de animações e jogos através de blocos",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "ROSÁRIO",
+                    "curso": "J. C. T.,  Scratch uma nova metodologia para ensino aprendizagem",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "ROSÁRIO",
+                    "curso": "J. C. T.,  COSTA, E. S.,  ROSARIO, D. M.,  LibreOffice",
+                    "ano": "2015"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  Soares, C,  Dados e Inteligência Artificial",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Capítulo OWasp Belém."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  Mamoré, T. C.,  Elas na Tecnologia",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Comunidade Elas na Tecnologia."
+                },
+                {
+                    "autores": "Soares",
+                    "evento": "C,  ROSÁRIO, J. C. T.,  O que realmente as empresas buscam nos profissionais da área",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Capítulo Owasp Belém."
+                },
+                {
+                    "autores": "Soares",
+                    "evento": "C,  ROSÁRIO, J. C. T.,  Desenvolvimento mobile em 360º: Carreira, Inovação e Impacto no Mercado",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Capítulo Owasp Belé, e Studio Code."
+                },
+                {
+                    "autores": "Soares",
+                    "evento": "C,  ROSÁRIO, J. C. T.,  Capture The Flag - CTF OWasp Belém",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Capítulo Owasp Belém e FACI WIDEN."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  Scratch Day",
+                    "ano": "2019",
+                    "duracao_semanas": "4",
+                    "instituicao_promotora": "Universidade da Amazônia - Unama."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  ROSARIO, D. M.,  KONNO, E. K. N.,  FLISol",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFPA Castanhal, Pará Livre."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  ROADSEC SÃO PAULO - festival de Hacking, Segurança da Informação e Tecnologia",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Flipside."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  COSTA, E. S.,  AMORIM, F. S.,  SOUSA, A. G. S.,  ARDUINO DAY",
+                    "ano": "2017",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DO PARÁ."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  SOUSA, A. G. S.,  1º PROCESSO SELETIVO TÉCNICO 2016",
+                    "ano": "2016",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOLGIA DO PARÁ."
+                },
+                {
+                    "autores": "ROSÁRIO",
+                    "evento": "J. C. T.,  SOUSA, A. G. S.,  Comissão organizadora da V SICAT e IV Feira de Saberes e Sabores Amazônicos",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Pará campus Castanhal."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ROSÁRIO, J. C. T.",
+                "titulo": "Mota, M P;  FEIO, P. L. D.;  Uso da Robótica na Aprendizagem de Algoritmos com base na Teoria da Carga Cognitiva e na Interação Humano-Computador",
+                "ano": "2023",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, LUANA RABELO DOS",
+                "titulo": "MIRANDA, VICTOR SOARES DE; ROSÁRIO, JACQUELINE CRISTINA TEIXEIRA DO; Robótica Educacional Sustentável: Ferramenta para Inovação no Processo de Ensino-Aprendizagem e Redução do Impacto Ambiental",
+                "evento": "VIII Seminário de Boas Práticas de Ensino e Aprendizagem (SBPEA) da EELUSP",
+                "local": "EEL-USP",
+                "ano": "2025"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luana Rabelo dos Santos",
+                "titulo": "Robótica Educacional Sustentável: Ferramenta para Inovação no Processo de Ensino-Aprendizagem e Redução do Impacto Ambiental",
+                "ano": "2026",
+                "curso": "Técnico em Informática Subsequente",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará Campus Vigia"
+            },
+            {
+                "orientando": "Ana Larissa Reis de Oliveira",
+                "titulo": "LeverLight: Robótica sustentável Aplicada à Teoria da Carga Cognitiva na Aprendizagem",
+                "ano": "2025",
+                "curso": "Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará Campus Vigia"
+            },
+            {
+                "orientando": "Sidney Silva Pinheiro",
+                "titulo": "CARDBOT COMO FERRAMENTA DIDÁTICA: Análise da Aplicabilidade Pedagógica em Robótica Sustentável",
+                "ano": "2025",
+                "curso": "Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará Campus Vigia"
+            }
+        ]
+    }
+}

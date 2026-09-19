@@ -1,0 +1,354 @@
+{
+    "campus": "- Campus Urutaí",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Uso e estabilidade de seletores de variáveis baseados nos pesos de conexão de redes neurais artificiais",
+                "orientador": "Rommel Melgaço Barbosa",
+                "ano_inicio": 2017,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Mineração de dados para classificação e caracterização de alguns vinhos Vitis Vinífera da América do Sul",
+                "orientador": "Rommel Melgaço Barbosa",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Redes de Computadores",
+                "instituicao": "Universidade Estadual de Goiás",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual de Goiás",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Monitora da disciplina de Lógica e Algoritmos",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Escola Jeronymo Candinho",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professora",
+                "vinculo": "Professora voluntária",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Professor do EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professora",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Expert Systems (Online)",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Outro",
+                "vinculo": "Estágio",
+                "descricao": "Estágio em docência"
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Outro",
+                "vinculo": "Estágio",
+                "descricao": "Estágio em docência"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal de Goiás\nGraduacao (2017 - 2017) - Gestão Da Informação.\nGraduacao (2016 - 2016) - Engenharia Química.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Diferenciação e caracterização de sementes de feijões secos através da aplicação de algoritmos de aprendizado de máquina e seleção de variáveis",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nattane Luíza Da Costa",
+                    "Bruno Samuel Da Silva"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Análise do Efeito de Técnicas de Balanceamento em Bases de Dados Desbalanceadas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nattane Luíza Da Costa",
+                    "Flávio Diniz De Sousa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "O Arduino no contexto dos Institutos Federais da Região Centro-Oeste: práticas educacionais, científicas e extensionistas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nattane Luíza Da Costa",
+                    "Carla Monteiro Brandao"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Impacto do Balanceamento de Dados no Desempenho de Modelos de Classificação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nattane Luíza Da Costa",
+                    "José Antonio Ribeiro Souto"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2026
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Diferenciação e caracterização de grãos de uva passa com base em propriedades morfológicas, aprendizado de máquina e seleção de variáveis",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nattane Luíza Da Costa",
+                    "Diego Ribeiro Araújo"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "DA COSTA",
+                    "titulo": "NATTANE LUÍZA,  Pesquisa Acadêmica: O que geralmente te contam só no mestrado",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Estadual de Goiás."
+                },
+                {
+                    "autores": "DA COSTA",
+                    "titulo": "NATTANE LUÍZA,  A interdisciplinariedade da mineração de dados e suas aplicações",
+                    "ano": "2019",
+                    "instituicao_promotora": "WTM - Women Techmakers Rio Verde."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "N. L.,  Mineração de dados - uma abordagem prática no ENATI 2016",
+                    "ano": "2016",
+                    "instituicao_promotora": "Instituto Federal de Goiano Campus Iporá."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "N. L.,  Mineração de dados",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade Estadual de Goiás."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "N. L.,  Redes Privadas Virtuais - Um meio de Interligação de Redes",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade Estadual de Goiás."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "DE LIMA, MÁRCIO DIAS;  A methodological framework for wine and grape authenticity: combining bibliometrics and text mining",
+                "ano": "2025",
+                "periodico": "QUALITY & QUANTITY- INTERNATIONAL JOURNAL OF METHODOLOGY. ISBN: 15737845   ."
+            },
+            {
+                "autores": "RIBEIRO, GUILHERME ALBERTO SOUSA",
+                "titulo": "BARBOSA, ROMMEL MELGAÇO;  DA CUNHA REIS, MÁRCIO;  COSTA, NATTANE LUIZA;  From bibliometrics to text mining: exploring feature selection methods in microarray research",
+                "ano": "2024",
+                "periodico": "Communications in Statistics. Simulation and Computation,. ISBN: 15324141   ."
+            },
+            {
+                "autores": "ARAUJO, D. R.",
+                "titulo": "COSTA, N. L.;  FERREIRA, J. C.;  VIEIRA, G. S.;  Classificação de variedades de uvas passas usando aprendizado de máquina e visão computacional",
+                "ano": "2024",
+                "periodico": "MEDIAÇÃO (UEG. PIRES DO RIO). ISBN: 1980556X   ."
+            },
+            {
+                "autores": "TAUNK, KHUSHMAN",
+                "titulo": "PORTO-FIGUEIRA, PRISCILLA;  PEREIRA, JORGE A. M.;  TAWARE, RAVINDRA;  DA COSTA, NATTANE LUÍZA;  BARBOSA, ROMMEL;  RAPOLE, SRIKANTH;  CÂMARA, JOSÉ S.;  Urinary Volatomic Expression Pattern: Paving the Way for Identification of Potential Candidate Biosignatures for Lung Cancer",
+                "ano": "2022",
+                "periodico": "METABOLITES. ISBN: 22181989   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "DE LIMA, MÁRCIO DIAS;  BARBOSA, ROMMEL;  Analysis and improvements on feature selection methods based on artificial neural network weights",
+                "ano": "2022",
+                "periodico": "APPLIED SOFT COMPUTING. ISBN: 15684946   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "DE SÁ ALVES, MARIANA;  DE SÁ RODRIGUES, NAYARA;  BANDEIRA, CELSO MULLER;  OLIVEIRA ALVES, MÔNICA GHISLAINE;  MENDES, MARIA ANITA;  CESAR ALVES, LEVY ANDERSON;  ALMEIDA, JANETE DIAS;  BARBOSA, ROMMEL;  Finding the combination of multiple biomarkers to diagnose oral squamous cell carcinoma - A data mining approach",
+                "ano": "2022",
+                "periodico": "COMPUTERS IN BIOLOGY AND MEDICINE. ISBN: 00104825   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "DA COSTA, MAXWELL SEVERO;  BARBOSA, ROMMEL;  A Review on the Application of Chemometrics and Machine Learning Algorithms to Evaluate Beer Authentication",
+                "ano": "2021",
+                "periodico": "FOOD ANALYTICAL METHODS (INTERNET). ISBN: 1936976X   ."
+            },
+            {
+                "autores": "LUÍZA DA COSTA, NATTANE",
+                "titulo": "DIAS DE LIMA, MÁRCIO;  BARBOSA, ROMMEL;  Evaluation of feature selection methods based on artificial neural network weights",
+                "ano": "2021",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "GARDE-CERDÁN, T.",
+                "titulo": "DA COSTA, N. L.;  RUBIO-BRETÓN, P.;  BARBOSA, R.;  BAROJA, E.;  MARTÍNEZ-VIDAURRE, J. M.;  ROMÁN, S. MARÍN-SAN;  DE URTURI, I. SÁENZ;  PÉREZ-ÁLVAREZ, E. P.;  The Most Important Parameters to Differentiate Tempranillo and Tempranillo Blanco Grapes and Wines through Machine Learning",
+                "ano": "2021",
+                "periodico": "Food Analytical Methods. ISBN: 19369751   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "VALENTIN, LEONARDO A.;  CASTRO, INAR ALVES;  BARBOSA, ROMMEL MELGAÇO;  Predictive modeling for wine authenticity using a machine learning approach",
+                "ano": "2021",
+                "periodico": "Artificial Intelligence in Agriculture. ISBN: 25897217   ."
+            },
+            {
+                "autores": "MAIONE, CAMILA",
+                "titulo": "LUÍZA DA COSTA, NATTANE;  BARBOSA, FERNANDO;  BARBOSA, ROMMEL MELGAÇO;  A Cluster Analysis Methodology for the Categorization of Soil Samples for Forensic Sciences Based on Elemental Fingerprint",
+                "ano": "2021",
+                "periodico": "APPLIED ARTIFICIAL INTELLIGENCE. ISBN: 08839514   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "XIMENEZ, JOAO PAULO BIANCHI;  RODRIGUES, JAIRO LISBOA;  BARBOSA, FERNANDO;  BARBOSA, ROMMEL;  Characterization of Cabernet Sauvignon wines from California: determination of origin based on ICP-MS analysis and machine learning techniques",
+                "ano": "2020",
+                "periodico": "EUROPEAN FOOD RESEARCH AND TECHNOLOGY. ISBN: 14382377   ."
+            },
+            {
+                "autores": "COSTA, N. L.",
+                "titulo": "LLOBODANIN, LAURA;  CASTRO, INAR;  BARBOSA, ROMMEL;  Finding the most important sensory descriptors to differentiate some Vitis vinifera L. South American wines using support vector machines",
+                "ano": "2019",
+                "periodico": "EUROPEAN FOOD RESEARCH AND TECHNOLOGY. ISBN: 14382377   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUÍZA",
+                "titulo": "LLOBODANIN, LAURA ANDREA GARCÍA;  DE LIMA, MÁRCIO DIAS;  CASTRO, INAR ALVES;  BARBOSA, ROMMEL;  Geographical recognition of Syrah wines by combining feature selection with Extreme Learning Machine",
+                "ano": "2018",
+                "periodico": "MEASUREMENT. ISBN: 02632241   ."
+            },
+            {
+                "autores": "ROCHA, BRUNO A.",
+                "titulo": "ASIMAKOPOULOS, ALEXANDROS G.;  HONDA, MASATO;  DA COSTA, NATTANE L.;  BARBOSA, ROMMEL M.;  BARBOSA, FERNANDO;  KANNAN, KURUNTHACHALAM;  Advanced data mining approaches in the assessment of urinary concentrations of bisphenols, chlorophenols, parabens and benzophenones in Brazilian children and their association to DNA damage",
+                "ano": "2018",
+                "periodico": "ENVIRONMENT INTERNATIONAL. ISBN: 01604120   ."
+            },
+            {
+                "autores": "DE LIMA, MÁRCIO DIAS",
+                "titulo": "COSTA, NATTANE LUIZA;  BARBOSA, ROMMEL;  Improvements on least squares twin multi-class classification support vector machine",
+                "ano": "2018",
+                "periodico": "NEUROCOMPUTING. ISBN: 09252312   ."
+            },
+            {
+                "autores": "COSTA, NATTANE LUIZA",
+                "titulo": "LLOBODANIN, LAURA ANDREA GARCÍA;  CASTRO, INAR ALVES;  BARBOSA, ROMMEL;  Using Support Vector Machines and Neural Networks to classify Merlot wines from South America",
+                "ano": "2018",
+                "periodico": "INFORMATION PROCESSING IN AGRICULTURE. ISBN: 22143173   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUIZA",
+                "titulo": "LLOBODANIN, LAURA ANDREA GARCÍA;  CASTRO, INAR ALVES;  BARBOSA, ROMMEL;  The use of data mining to classify Carménère and Merlot wines from Chile",
+                "ano": "2018",
+                "periodico": "EXPERT SYSTEMS. ISBN: 02664720   ."
+            },
+            {
+                "autores": "COSTA, NATTANE",
+                "titulo": "LLOBODANIN, LAURA;  CASTRO, INAR;  BARBOSA, ROMMEL;  Geographical Classification of Tannat Wines Based on Support Vector Machines and Feature Selection",
+                "ano": "2018",
+                "periodico": "BEVERAGES. ISBN: 23065710   ."
+            },
+            {
+                "autores": "DA COSTA, NATTANE LUIZA",
+                "titulo": "CASTRO, INAR ALVES;  BARBOSA, ROMMEL;  Classification of Cabernet Sauvignon from Two Different Countries in South America by Chemical Compounds and Support Vector Machines",
+                "ano": "2016",
+                "periodico": "Applied Artificial Intelligence. ISBN: 08839514   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Rafael Augusto Carlos dos Santos",
+                "titulo": "QUANTIFICAÇÃO DA DEGRADAÇÃO DE VEGETAÇÃO NATURAL: UM NOVO MÉTODO PARA SEGMENTAÇÃO DE IMAGENS DE SATÉLITE",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Diego Ribeiro Araújo",
+                "titulo": "Diferenciação e caracterização de grãos de uva passa com base em propriedades morfológicas, aprendizado de máquina e seleção de variáveis",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            },
+            {
+                "orientando": "Bruno Samuel da Silva",
+                "titulo": "Diferenciação e caracterização de sementes de feijões secos através da aplicação de algoritmos de aprendizado de máquina e seleção de variáveis",
+                "ano": "2021",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.3589774370193481,
+            "indian": 3.97444748878479,
+            "black": 0.326166570186615,
+            "white": 24.508102416992188,
+            "middle eastern": 17.23870277404785,
+            "latino hispanic": 52.59360122680664
+        }
+    }
+}

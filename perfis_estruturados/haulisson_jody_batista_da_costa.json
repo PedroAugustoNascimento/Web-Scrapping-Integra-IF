@@ -1,0 +1,556 @@
+{
+    "campus": "- Campus Caicó",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Método de detecção massiva de sistemas LS-MIMO empregando o método de Richardson modificado em aceleradores gráficos",
+                "orientador": "Valentin Obac Roda",
+                "ano_inicio": 2011,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Modelagem em SystemC-AMS de uma plataforma > compativel > com o sistema de Coleta de dados Brasileiro",
+                "orientador": "Fernando Rangel de Sousa",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Fabrication and Data Analysis",
+                "instituicao": "University of British Columbia",
+                "orientador": "Lukas Chrostowski",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2002,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Bolsista de Mestrado",
+                "vinculo": "Bolsista (cnpq)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista IC",
+                "descricao": ""
+            },
+            {
+                "empresa": "Transformadores do Nordeste Indústria comércio Ltda.",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Estagiário",
+                "vinculo": "livre",
+                "descricao": "Desenvolvimento da central de alarmes empregando CLP"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "PotyChip Pesquisa, Desenvolvimento e Projetos Eletrônicos",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Engenheiro de Projeto",
+                "vinculo": "Consultor-Sócio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Laboratório de Microeletrônica e Sistemas Embarcados",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Engenheiro de Projeto de Circuitos Integrados",
+                "vinculo": "Bolsista",
+                "descricao": "Formação de Projetista de Circuitos Integrados: A principal atividades desenvolvida no laboratório envolvia o desenvolvimento de uma metodologia de projeto de circuitos integrados mistos e de radiofrequência. No período de atuação, foi executado um projeto parte do programa Brazil-IP sob coordenação do LINCS/CETENE que envolvia o desenvolvimento de um Chip Sensor de Temperatura com Transmissão Sem Fio em tecnologia CMOS"
+            },
+            {
+                "empresa": "Laboratório de Microeletrônica e Sistemas Embarcados",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Engenheiro de Projeto de Circuitos Integrados",
+                "vinculo": "Bolsista",
+                "descricao": "Formação de Projetista de Circuitos Integrados: A principal atividades desenvolvida no laboratório envolvia o desenvolvimento de uma metodologia de projeto de circuitos integrados mistos e de radiofrequência. No período de atuação, foi executado um projeto parte do programa Brazil-IP sob coordenação do LINCS/CETENE que envolvia o desenvolvimento de um Chip Sensor de Temperatura com Transmissão Sem Fio em tecnologia CMOS"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nEnsino-medio (2009) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "SARI - Sistema de Automação Residêncial Inteligente ( Edital MCT/CNPq/CT-INFO nº 14/2007 - Programa de Disseminação de Novas Tecnologias em Microeletrônica - PDNTM)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Haulisson Jody Batista Da Costa",
+                    "Pedro Ivo De Araujo Do Nascimento",
+                    "Adauto Luis Tadeo Bernardes Da Fonseca"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "I ESCOLA DE MICROELETRÔNICA NORDESTE",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Haulisson Jody Batista Da Costa",
+                    "Pedro Ivo De Araujo Do Nascimento",
+                    "Adauto Luis Tadeo Bernardes Da Fonseca",
+                    "Francisco De Assis Brito Filho",
+                    "Jefferson Marinho Da Costa Dantas",
+                    "João Paulo Marinho Dantas",
+                    "Fernando Rangel Sousa",
+                    "Jose Alfredo Ferreira Costa",
+                    "David Simonetti Barbalho",
+                    "Jose Alberto Nicolau De Oliveira",
+                    "Ivan Saraiva Silva"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Rede de sensores sem fio inteligente aplicada no monitoramento e controle de temperatura em larviculturas de camarão",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Haulisson Jody Batista Da Costa",
+                    "Pedro Ivo De Araujo Do Nascimento",
+                    "Fernando Rangel Sousa"
+                ],
+                "financiador": "Universidade Federal do Rio Grande do Norte,",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Rede de sensores sem fio inteligente aplicada no monitoramento e controle de temperatura em larviculturas de camarão",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Haulisson Jody Batista Da Costa",
+                    "Pedro Ivo De Araujo Do Nascimento",
+                    "Fernando Rangel Sousa"
+                ],
+                "financiador": "Universidade Federal do Rio Grande do Norte,",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "COSTA",
+                    "curso": "H. J. B.,  Instrumentista de Sistemas em Sistema de automação",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "H. J. B.,  Instrumentação de Sistemas - Fundamentação de Controle",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "H. J. B.,  Eletricista de Força e Controle - Medidas Elétricas",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "H. J. B.,  Eletricista de Força e Controle - Noções de Comissionamento",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "H. J. B.;DA COSTA, HAULISSON JODY BATISTA,  IVO, P.A.N.,  FONSECA, A. L. T. B.,  Ferramentas para Concepção de Circuitos Integrados - Mentor Graphics",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "COSTA, H. J. B.",
+                "titulo": "DA COSTA, HAULISSON JODY BATISTA;  RODA, V. O.;  A Scalable Soft Richardson Method for Detection in a Massive MIMO System",
+                "ano": "2016",
+                "periodico": "PRZEGLAD ELEKTROTECHNICZNY. ISBN: 00332097   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DA COSTA, HAULISSON JODY BATISTA",
+                "titulo": "DE ASSIS BRITO FILHO, FRANCISCO; DE ARAUJO DO NASCIMENTO, PEDRO IVO; Memristor behavioural modeling and simulations using Verilog-AMS",
+                "evento": "2012 IEEE 3rd Latin American Symposium on Circuits and Systems (LASCAS)",
+                "local": "Playa del Carmen",
+                "ano": "2012"
+            },
+            {
+                "autores": "COSTA, H. J. B.",
+                "titulo": "DA COSTA, HAULISSON JODY BATISTA; Sousa, F",
+                "evento": "R.; SystemC-AMS Model of Satellite-Based Data Collection System. WSIM?10 ? Wireless Systems International Meeting - RFID: trends to the future",
+                "local": "2010, Campina Grande-PB",
+                "ano": "2010"
+            },
+            {
+                "autores": "Quiroz, J.E.S",
+                "titulo": "Souza A",
+                "evento": "S.; Junior F. J. S.; Vale R. A. V.; IVO",
+                "local": "P.A.N.; COSTA, H. J. B.;DA COSTA, HAULISSON JODY BATISTA; ENTENDENDO A OPERABILIDADE DE UM MICROCONTROLADOR ATRAVÉS DA PROTOTIPAÇÃO VIRTUAL. CONGIC - Congresso de Iniciação Científica, Mossoro",
+                "ano": "2010"
+            },
+            {
+                "autores": "Duarte T. D.",
+                "titulo": "Silva A",
+                "evento": "G.; IVO",
+                "local": "P.A.N.; COSTA, H. J. B.;DA COSTA, HAULISSON JODY BATISTA; CONVERSOR DE ENERGIA SOLAR PARA APLICAÇÕES EM REDES DE SENSORES SEM FIO. CONGIC - Congresso de Iniciação Científica, Mossoro",
+                "ano": "2010"
+            },
+            {
+                "autores": "Dantas, J. M. C.",
+                "titulo": "COSTA, H",
+                "evento": "J. B.;DA COSTA",
+                "local": "HAULISSON JODY BATISTA; Dantas, J. P. M.; FILHO, F. A. BRITO; SOUSA, F. RANGEL; Freire, R. C. S.; Low-Power High-Rensponsivity CMOS Temperature Sensor. 2008 IEEE Instrumentation and Measurement Technology Conference I2MTC 2008, Victoria",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Marcelly Lydyanne Alaves da Silva",
+                "titulo": "Banho Ecológico",
+                "ano": "2018",
+                "curso": "Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Andressa Kátia de Oliveira Lucena",
+                "titulo": "Banho Ecológico",
+                "ano": "2018",
+                "curso": "Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "David Emanoel da Silva Santos",
+                "titulo": "Banho Ecológico",
+                "ano": "2018",
+                "curso": "Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Fábio Bezerra Diniz",
+                "titulo": "Banho Ecológico",
+                "ano": "2018",
+                "curso": "Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Eloíza Beatriz da Costa",
+                "titulo": "Sistema de Gestão de Partidas de Totó",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Mateus Lopes Santos Dutra",
+                "titulo": "Sistema de Gestão de Partidas de Totó",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "JAYANE DUTRA DE ARAÚJO",
+                "titulo": "Sistema de Sprinklers Controlados por ARDUINO",
+                "ano": "2017",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "LETÍCIA DO CARMO SOUZA",
+                "titulo": "Sistema de Sprinklers Controlados por ARDUINO",
+                "ano": "2017",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "DJANCLEY ARAÚJO DOS SANTOS",
+                "titulo": "Sistema de Sprinklers Controlados por ARDUINO",
+                "ano": "2017",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Andryele Eduarda de Araújo Medeiros",
+                "titulo": "Sistema de Gestão de Partidas de Totó",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Beatriz Oliveira Silva",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Clessiany Kheregan Lucena de Oliveira",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Francisco Daniel Gomes de Lima Filho",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gabrielle Cristiane Monte Bezerra",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Gileno Bezerra Guerra Junior",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jose Raimundo Dantas Neto",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Kaline da Silva Oliveira",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Leopoldo de Freitas Costa",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Maria Clara de Morais Barros",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Paulo vinicius da Silva Soares",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Samuel alexsandro Cunha Silva",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Vitoria Saionara Costa Marinho",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Welinton da Silva Santos",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Yasmin Emily de Souza Oliveira",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2013",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Guilherme Savio Leandro Xavier",
+                "titulo": "Automação",
+                "ano": "2013",
+                "curso": "Técnico em Mecânica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Leonardo da Silva Rebouças",
+                "titulo": "Automação",
+                "ano": "2013",
+                "curso": "Técnico em Mecânica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Helderiana Pamylla Lima de Queiroz",
+                "titulo": "Conversor Eletrônico de Alta Eficiência",
+                "ano": "2012",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Hercules Amorim Mota Segundo",
+                "titulo": "Conversor Eletrônico de Alta Eficiência",
+                "ano": "2012",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Aline Bezerra Florencio",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Ariany do Vale Fernandes de Oliveira",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Brisa Kelly Oliveira Lopes da Silva",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Camilla Iasmim do Vale Pereira",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Debora Nogueira Fernades",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Francisco Jair da Silva Junior",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jose Eric da SilvaQueiroz",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Luiz Arthur de Souza",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Nathanny Thuanny de Oliveira Alves",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Reyliane Aline Vieira do Vale",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2011",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Ester Medley Bezerra Teixeira",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2010",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Liliane Ferreira Araujo",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2010",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Muhammed Hochay da Costa Araujo",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2010",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Dayse Duarte Tenorio",
+                "titulo": "Automação de Rede sem Fio",
+                "ano": "2010",
+                "curso": "Técnico em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciências e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.770541667938232,
+            "indian": 4.5711164474487305,
+            "black": 1.5383942127227783,
+            "white": 35.07857894897461,
+            "middle eastern": 23.6148624420166,
+            "latino hispanic": 27.426509857177734
+        }
+    }
+}

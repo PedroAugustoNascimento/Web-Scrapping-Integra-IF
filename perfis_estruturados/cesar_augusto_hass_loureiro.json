@@ -1,0 +1,435 @@
+{
+    "campus": "- Campus Porto Alegre",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Computação UFRGS",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Estudo e classificação de propostas e protocolos para provimento de mobilidade sobre IPv6",
+                "orientador": "Liane Margarida Rockenbach Tarouco",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA Executivo em Gestão Estratégica",
+                "instituicao": "Sociedade de Educação Continuada",
+                "orientador": "José Carlos Guagliardi",
+                "ano_inicio": 2003,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Superior em Tecnologia de Informática",
+                "instituicao": "Universidade Luterana do Brasil",
+                "ano_inicio": 1997,
+                "ano_fim": 2002
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": "Professor dos cursos: Técnico em Informática e Redes de Computadores"
+            },
+            {
+                "empresa": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)",
+                "ano_inicio": 2007,
+                "ano_fim": 2015,
+                "funcao": "Professor Assistente",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Rede&Imagem Tecnologias Consultoria de Sistemas Ltda",
+                "ano_inicio": 1998,
+                "ano_fim": 2008,
+                "funcao": "Celetista",
+                "vinculo": "Não informado",
+                "descricao": "- Gerente da equipe de desenvolvimento e Suporte de 2000 à 2005 - Gerente de projetos de 2006 até 2008"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Luterana do Brasil",
+                "ano_inicio": 2009,
+                "ano_fim": 2015,
+                "funcao": "Professor Assistente",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Rede Nacional de Ensino e Pesquisa",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Colaborador no POP-RS/RNP",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "ERRC - 9 Escola Regional de Redes de Computadores",
+                "ano_inicio": 2024,
+                "ano_fim": 2024,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Luterana do Brasil\nGraduacao (2009 - 2015) - Sistemas De Informação.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul\nCoodenador Do Curso Superior Em Sistemas Para Internet (2017 - 2019).\nMembro Da Comissão Permanente De Pessoal Docente - Cppd (2015 - 2017).\nCoordenador Do Curso Técnico Em Redes De Computadores (2014 - 2017).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "Rede Comep - Metropoa",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Cesar Augusto Hass Loureiro",
+                    "Liane Margarida Rockenbach Tarouco"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Implantação de provedor de identidade para interligação com a Comunidade Acadêmica Federada",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Cesar Augusto Hass Loureiro",
+                    "Alexander Pereira Girald"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "CCNAv7: Módulo 1",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Cesar Augusto Hass Loureiro",
+                    "Alex Martins De Oliveira"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Implantação do EDUROAM no IFRS Porto Alegre",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Cesar Augusto Hass Loureiro",
+                    "Alex Adair Vargas Cardoso"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LOUREIRO",
+                    "software": "C. A. H.,  PEREIRA, E. E.,  Sistema de cadastramento de calçados para MS-Windows e consulta pela WEB utilizando autenticação por biometria",
+                    "ano": "2002",
+                    "finalidade": "Controle de Calçados."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "TAROUCO",
+                    "titulo": "L. M. R.,  BERTHOLDO, L. M.,  LOUREIRO, C. A. H.,  Gerência de redes para Sistemas Autônomos: aspectos básicos e experiências",
+                    "ano": "2021",
+                    "instituicao_promotora": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "titulo": "C. A. H.,  Quero migrar minha infra para nuvem: Por onde começar?",
+                    "ano": "2021",
+                    "instituicao_promotora": "Rede Nacional de Ensino e Pesquisa."
+                },
+                {
+                    "autores": "TAROUCO",
+                    "titulo": "L. M. R.,  LOUREIRO, C. A. H.,  ARAUJO NETO, A. C.,  BERTHOLDO, L. M.,  Estratégias big data para análise de tráfego hostil",
+                    "ano": "2014",
+                    "instituicao_promotora": "NIC.br."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "titulo": "C. A. H.,  TAROUCO, L. M. R.,  BERTHOLDO, L. M.,  Avaliação de Implementaçãoes de mobilidade sobre IPv6",
+                    "ano": "2013",
+                    "instituicao_promotora": "Nucleo de Informação e Coordenação do Ponto BR."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "titulo": "C. A. H.,  ARBIZA, L. M. R.,  TAROUCO, L. M. R.,  BERTHOLDO, L. M.,  Avaliação de desempenho de middleware implementado em um Access Point",
+                    "ano": "2012",
+                    "instituicao_promotora": "Registro.br / NIC.br ? Núcleo de Informação e Coordenação do Ponto BR."
+                },
+                {
+                    "autores": "STRAUB",
+                    "titulo": "Marcos,  LOUREIRO, C. A. H.,  TAROUCO, L. M. R.,  BERTHOLDO, L. M.,  Implementação de IPv6 com balanceamento de carga de Serviços",
+                    "ano": "2011",
+                    "instituicao_promotora": "CEPTRO.br, NIC.br."
+                },
+                {
+                    "autores": "TAROUCO",
+                    "titulo": "L. M. R.,  BERTHOLDO, L. M.,  LOUREIRO, C. A. H.,  IPv6 sobre Redes Metropolitanas. Estudo de Caso: MetroPoa",
+                    "ano": "2010",
+                    "instituicao_promotora": "Registro.br / NIC.br ? Núcleo de Informação e Coordenação do Ponto BR."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "titulo": "C. A. H.,  O Brasil na Futura Internet",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Luterana do Brasil."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BERTHOLDO",
+                    "curso": "L. M.,  LOUREIRO, C. A. H.,  Curso de Gerência de Redes de Computadores",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "LOUREIRO",
+                    "curso": "C. A. H.,  Linux Recuros Básicos",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "LOUREIRO",
+                    "curso": "C. A. H.,  Curso de Banco de Dados",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "LOUREIRO",
+                    "evento": "C. A. H.,  14a Escola Regional de Redes de Computadores (ERRC 2016)",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Senac Porto Alegre em Porto Alegre/RS,."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "evento": "C. A. H.,  VI WORKSHOP DO PoP-RS e REUNIÃO DA REDE TCHÊ",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "evento": "C. A. H.,  14ª Escola Regional de Redes de Computadores",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "ERRC."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "LOUREIRO, C. A. H.",
+                "titulo": "SCHMITT, M. A. R.;  PERES, A.;  OLIVEIRA, A. M.;  Redes de Computadores III - Niveis de Enlase e Físico",
+                "ano": "2014",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788582602270, Porto Alegre (Publicado)."
+            },
+            {
+                "autores": "SCHMITT, M. A. R.",
+                "titulo": "PERES, A.;  LOUREIRO, C. A. H.;  Redes de Computadores - Nível de Aplicação e Instalação de Serviços",
+                "ano": "2013",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788582600931, Porto Alegre (Publicado)."
+            },
+            {
+                "autores": "PERES, A.",
+                "titulo": "LOUREIRO, C. A. H.;  SCHMITT, M. A. R.;  Redes de computadores II - Níveis de Transporte e Rede",
+                "ano": "2013",
+                "informacoes_adicionais": "Varios. ISBN: 9788582601471, Porto Alegre (Publicado)."
+            },
+            {
+                "autores": "LANGE, T. A. P.",
+                "titulo": "LOUREIRO, C. A. H.;  OLIVEIRA, A. M.;  Relatos da enchente de maio de 2024 : Memórias da catástrofe climática que atingiu o Rio Grande do Sul. Título do capítulo: Campus Porto Alegre: De Acolhedor ao Acolhido",
+                "ano": "2025",
+                "informacoes_adicionais": "ISBN: 9786559501571, Bento Gonçalves."
+            },
+            {
+                "autores": "Bertholdo, Leandro Marcio",
+                "titulo": "Paredes, Renan Barreto;  de Lima Marin, Gabriela;  Loureiro, Cesar A. H.;  Kashiwakura, Milton Kaoru;  de Botelho Marcos, Pedro;  Lecture Notes in Computer Science. Título do capítulo: Analyzing the Effect of an Extreme Weather Event on Telecommunications and Information Technology: Insights from 30 Days of Flooding",
+                "ano": "2025",
+                "informacoes_adicionais": "ISBN: 9783031859595."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Alexandre Cauduro",
+                "titulo": "LOUREIRO, C",
+                "evento": "A. H.; Automatização do processo de alimentação do NetBox como banco de dados com Paramiko e PyNetBox. 21ª Escola Regional de Redes de Computadores (ERRC)",
+                "local": "Rio Grande",
+                "ano": "2024"
+            },
+            {
+                "autores": "LOUREIRO, C. A. H.",
+                "titulo": "TAROUCO, L",
+                "evento": "M. R.; GRANVILLE",
+                "local": "L. Z.; BERTHOLDO, L. M.; Uma análise das implementações de protocolos IPv6 puros e híbridos para provimento de mobilidade em IPv6. XXX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Ouro Preto",
+                "ano": "2012"
+            },
+            {
+                "autores": "LOUREIRO, C. A. H.",
+                "titulo": "Protocolos de Mobilidade sobre IPv6: Uma análise sobre MIPv6 x PMIPv6 x DMMS",
+                "evento": "XIV Seminário Intermunicipal de Pesquisa",
+                "local": "Guaiba-RS",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Alexandre Wazen Pinto",
+                "titulo": "Integração de solução de Gerência de Rede com a operação de seviços segundo o ITIL",
+                "ano": "2016",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Marcelo Evandro Santos Silva",
+                "titulo": "Análise das funcionalidades e performance do Samba 4",
+                "ano": "2015",
+                "curso": "Redes de Computadores",
+                "instituicao": "Serviço Nacional de Aprendizagem Comercial - RS"
+            },
+            {
+                "orientando": "Fausto Vaz Ribeiro",
+                "titulo": "Geração de logs em Ferramenta de Intrusão Ossec",
+                "ano": "2013",
+                "curso": "Especialização em Segurança da Informação",
+                "instituicao": "Faculdade SENAC Porto Alegre"
+            },
+            {
+                "orientando": "Jorge Odair de Oliveira Anselmo",
+                "titulo": "Biometria Facial e Digital como fator de Autenticação Forte",
+                "ano": "2013",
+                "curso": "Especialização em Segurança da Informação",
+                "instituicao": "Faculdade SENAC Porto Alegre"
+            },
+            {
+                "orientando": "Rafael Tonin",
+                "titulo": "Avaliação do Uso de Honeypots como Ferramenta de Prevenção de Intrusão",
+                "ano": "2013",
+                "curso": "Especialização em Segurança da Informação",
+                "instituicao": "Faculdade SENAC Porto Alegre"
+            },
+            {
+                "orientando": "Augusto Pannebecker Fernandes",
+                "titulo": "Análise comparativa de uso de um applince de IPS em relação ao software Snort",
+                "ano": "2013",
+                "curso": "Especialização em Segurança da Informação",
+                "instituicao": "Faculdade SENAC Porto Alegre"
+            },
+            {
+                "orientando": "Gusta Assis",
+                "titulo": "TI Tutoriais - Consultor de tutoriais para dispositivos móveis",
+                "ano": "2011",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Claiton Prado Machado",
+                "titulo": "Comparação de Ferramentas de Software Livre para Administração de nuvem privada",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Universidade Luterana do Brasil"
+            },
+            {
+                "orientando": "Everton Canez Ferreira da Silva",
+                "titulo": "Sistema de Coleta de Informações para Acordo de Nivel de Serviço na Companhia de Processamento de Dados do Estado do Rio Grande do Sul",
+                "ano": "2010",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Bruno Strapazzon",
+                "titulo": "SAGP Sistema para Apoio a Gestão de Processos",
+                "ano": "2010",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Vinícius Millão Winckler",
+                "titulo": "SAGAD: Sistema de Apoio ao Gerenciamento de Arquivos Digitalizados",
+                "ano": "2010",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Paulo Dalcione Corrêa Paim",
+                "titulo": "IDesk - Ferramenta de Service Desk baseado no ITIL para Gerenciamento de Problemas",
+                "ano": "2009",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Paulo Dalcione Corrêa Paim",
+                "titulo": "Ferramenta de Service Desk baseado no ITIL para Gerenciamento de Problemas",
+                "ano": "2008",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Pedro Ovidio dos Santos de Oliveira",
+                "titulo": "Painel de Gerenciamento Sphinx",
+                "ano": "2008",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Gilson Rodrigues da Rosa",
+                "titulo": "Automação e Restaurantes de Buffet",
+                "ano": "2008",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Juliano Volenhaupt",
+                "titulo": "Ferramenta para Configuração do Firewall em um Ambiente Linux",
+                "ano": "2008",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            },
+            {
+                "orientando": "Flavio Jesus Souza do Carmo",
+                "titulo": "Monitoria on-line de recursos no SGBD Oracle 9i",
+                "ano": "2007",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade de Tecnologia SENAC/Porto Alegre (RS)"
+            }
+        ]
+    }
+}

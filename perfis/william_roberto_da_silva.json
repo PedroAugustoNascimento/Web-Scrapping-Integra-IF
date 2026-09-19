@@ -75,6 +75,18 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Apoio técnico em TIC (Tecnologia da Informação e Comunicação) com Software Livre: Contribuição técnica para o Centro Municipal de Ensino e Treinamento João Marcelino.",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "William Roberto da Silva",
+                    "Fábio Silva Izequiel Filho",
+                    "Bruno Cunha Campos Vaz",
+                    "Felipe Vaz Lima"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Apoio técnico em TIC (Tecnologia da Informação e Comunicação) com Software Livre: Contribuição técnica para a Escola Municipal Nossa Senhora de Fátima.",
                 "periodo": "2019 - 2019",
                 "natureza": "Extensao",
@@ -92,18 +104,6 @@
                     "William Roberto da Silva",
                     "Gabriel Rezende Pires",
                     "José Admilson Inácio da Silva"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Apoio técnico em TIC (Tecnologia da Informação e Comunicação) com Software Livre: Contribuição técnica para o Centro Municipal de Ensino e Treinamento João Marcelino.",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
-                "equipe": [
-                    "William Roberto da Silva",
-                    "Fábio Silva Izequiel Filho",
-                    "Bruno Cunha Campos Vaz",
-                    "Felipe Vaz Lima"
                 ]
             },
             {
@@ -148,7 +148,36 @@
             "softwares": [],
             "apresentacoes_trabalho": [],
             "cursos_curta_duracao": [],
-            "organizacao_eventos": []
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "W. R.,  Semana Tecnológica - SEMINFO 2014",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano - Campus Urutaí."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "W. R.,  Segunda Mostra Comunitária de Peças Museáveis e festas Populares &quot;Fatias do Tempo na História de Pires do Rio e Cidades Vizinhas&quot;.",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Estadual de Goiás."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "W. R.,  III Semana Tecnológica do Curso Superior em Redes de Computadores",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Estadual de Goias - Unidade de Pires do Rio - GO."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "W. R.,  I Semana Tecnológica do Curso Superior em Redes de Computadores",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UEG - Unidade de Pires do Rio - GO."
+                }
+            ]
         }
     },
     "producao_bibliografica": {
@@ -157,7 +186,57 @@
         "trabalhos_eventos": []
     },
     "producao_outra": {
-        "outras_orientacoes": []
+        "outras_orientacoes": [
+            {
+                "orientando": "Wenio Vieira",
+                "titulo": "Gerenciamento de Redes com a Ferramenta Zabbix: Caso de Uso, Câmpus Urutai&#8207;.",
+                "ano": "2014",
+                "curso": "Gestão da Tecnologia da Informação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Mateus Fernandes Alves, Paulo Ricardo da Silva",
+                "titulo": "Projeto de Interconexão Utilizando VPN ( Rede Virtual Privada): Estudo de caso do Sistema de Saúde Publico de Ipameri-GO.",
+                "ano": "2014",
+                "curso": "Gestão da Tecnologia da Informação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Állef Kennedy Durães de Souza, Thaís Santos Pereira",
+                "titulo": "Gerenciamento de Aplicações com Puppetlabs: Um estudo de caso nos laboratórios do IF Goiano ? Campus Urutaí.",
+                "ano": "2014",
+                "curso": "Gestão da Tecnologia da Informação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Guilherme Jordão Vaz, Iran Troncha Vaz",
+                "titulo": "Gestão de Auditoria e Segurança Lógica: Estudo de Caso na Prefeitura Municipal de Ipameri.",
+                "ano": "2014",
+                "curso": "Gestão da Tecnologia da Informação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Gleidison Rodrigues, Wendel de Jesus Amaral",
+                "titulo": "DESENVOLVIMENTO DO PORTAL DE ACESSO PÚBLICO PARA O PROJETO LHEMA",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "José Hugo Martins Lima",
+                "titulo": "BIBLIOTECA DIGITAL PARA ESTUDO MULTIDISCIPLINAR: PROJETO LHEMA",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Israel A",
+                "titulo": "Silva Machado e Maiara C. dos Santos Favoritto.  ATAQUE, INCIDENTES, ANÁLISE E PREVENÇÃO: A Importância da Análise de Registros que Influenciam na Segurança",
+                "ano": "2010",
+                "curso": "Superior de Tecnologia em Redes de Computadores",
+                "instituicao": "Universidade Estadual de Goiás"
+            }
+        ]
     },
     "Cor/Raça": {
         "raca_original": "middle eastern",

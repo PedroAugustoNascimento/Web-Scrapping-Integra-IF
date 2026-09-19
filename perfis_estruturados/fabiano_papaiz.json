@@ -1,0 +1,239 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Programa de Doutoramento em Ciências e Tecnologias da Informação",
+                "instituicao": "Universidade de Coimbra",
+                "titulo": "A Clinical Decision Support System for Amyotrophic Lateral Sclerosis Prognosis",
+                "orientador": "Joel Perdiz Arrais",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "GRADUACAO EM SISTEMAS E COMPUTACAO",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "RR3D: Uma Solução Para Renderização Remota de Imagens Médicas Tridimensionais",
+                "orientador": "Bruno Motta de Carvalho",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Metodista de São Paulo",
+                "ano_inicio": 1994,
+                "ano_fim": 1996
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": null,
+                "funcao": "Professor Ensino Básico",
+                "vinculo": "Técnico e Tecnológic",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Hospital Universitário Onofre Lopes/Ebserh",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SIGA EPT - Sistema Integrado da Educação Profissional e Tecnológica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fabiano Papaiz"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "PLATAFORMA INTEGRADA DA REDE OBSERVATÓRIO NACIONAL DE RECURSOS HUMANOS EM SAÚDE DO BRASIL E DOS PROFISSIONAIS DE SAÚDE DO MERCOSUL E DA REDE DE NEGOCIAÇÃO",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Robinson Luís De Souza Alves"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Um Anjo para ELA: Sistema Fuzzy para Monitoramento Remoto de Pacientes com Esclerose Lateral Amiotrófica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Robinson Luís De Souza Alves",
+                    "Ricardo Alexandro De Medeiros Valentim",
+                    "Antônio Higor Freire De Morais"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "ELA Home Care: Monitoramento Remoto de Pacientes com Esclerose Lateral Amiotrófica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Robinson Luís De Souza Alves",
+                    "Ricardo Alexandro De Medeiros Valentim",
+                    "Antônio Higor Freire De Morais"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "i-RH: UMA PLATAFORMA INTELIGENTE DE GESTÃO DO CONHECIMENTO EM SAÚDE",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Robinson Luís De Souza Alves",
+                    "Outros Pesquisadores"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Hospital Universitário Onofre Lopes/Ebserh",
+                "nome": "Cadastro Nacional de Especialista",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo Alexandro De Medeiros Valentim"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Hospital Universitário Onofre Lopes/Ebserh",
+                "nome": "Telerregulação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo Alexandro De Medeiros Valentim"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Hospital Universitário Onofre Lopes/Ebserh",
+                "nome": "Pesquisa aplicada a implementação de processos educacionais em sistemas integrados de informação e comunicação em saúde",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo Alexandro De Medeiros Valentim"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Hospital Universitário Onofre Lopes/Ebserh",
+                "nome": "Plataforma nacional da força de trabalho na saúde",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo Alexandro De Medeiros Valentim"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Hospital Universitário Onofre Lopes/Ebserh",
+                "nome": "Plataforma LUES",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo Alexandro De Medeiros Valentim"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Hospital Universitário Onofre Lopes/Ebserh",
+                "nome": "revELA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fabiano Papaiz",
+                    "Ricardo A. M. Valentim"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "PAPAIZ, F.",
+                "titulo": "PAPAIZ, FABIANO;  VALENTIM, R. A. M.;  ALVES, R. L. S.;  Guerra Neto, Custódio Leopoldino de Brito;  Araújo, Bruno Gomes de;  Coutinho, Karilany Dantas;  Gestão de recursos humanos em saúde mediada por tecnologia: seguindo a trilha da inovação",
+                "ano": "2017",
+                "informacoes_adicionais": "Varios. ISBN: 9788593839177 (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "PAPAIZ, FABIANO",
+                "titulo": "DOURADO, MARIO EMÍLIO TEIXEIRA;  VALENTIM, RICARDO ALEXSANDRO DE MEDEIROS;  DE MORAIS, ANTONIO HIGOR FREIRE;  ARRAIS, JOEL PERDIZ;  Machine Learning Solutions Applied to Amyotrophic Lateral Sclerosis Prognosis: A Review",
+                "ano": "2022",
+                "periodico": "Frontiers In Computer Science. ISBN: 26249898   ."
+            },
+            {
+                "autores": "PAPAIZ, F.",
+                "titulo": "PAPAIZ, FABIANO;  CARVALHO, B. M.;  VALENTIM, R. A. M.;  MORAIS, A. H. F.;  ALVES, R. L. S.;  UMA SOLUÇÃO PARA RENDERIZAÇÃO REMOTA DE IMAGENS MÉDICAS TRIDIMENSIONAIS: ANÁLISE DE DESEMPENHO",
+                "ano": "2014",
+                "periodico": "Revista Brasileira de Inovação Tecnologica em Saúde. ISBN: 22361103   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.002864876063540578,
+            "indian": 0.005778291262686253,
+            "black": 0.00015737400099169463,
+            "white": 97.5588607788086,
+            "middle eastern": 1.589376449584961,
+            "latino hispanic": 0.8429659008979797
+        }
+    }
+}

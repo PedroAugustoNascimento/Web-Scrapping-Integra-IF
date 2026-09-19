@@ -1,0 +1,837 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "COMPREHENSIBILITY OF SOURCE CODE WITH FEATURE DEPENDENCY IN CONFIGURABLE SYSTEMS",
+                "orientador": "Cláudio Nogueira Sant'Anna",
+                "ano_inicio": 2015,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências Ambientais",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "titulo": "Modelagem de Transmissão de Dengue e Problemas Ambientais Similares Via Sistemas de Equações Diferenciais Ordinárias",
+                "orientador": "Ronaldo Silva Thibes",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Administração de Sistemas de Informação",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "Rêmulo Maia Alves",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Desenvolvimento de Sistemas Web",
+                "instituicao": "Faculdade de Tecnologia e Ciência de Itabuna (FTC)",
+                "orientador": "Pablo Freire Matos",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da computação",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 1999,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "ACDGN Tecnologia LTDA",
+                "ano_inicio": 2003,
+                "ano_fim": 2013,
+                "funcao": "Gerente de Projetos e Desenvolvedor",
+                "vinculo": "desenvolvedor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Norte do Paraná",
+                "ano_inicio": 2008,
+                "ano_fim": 2011,
+                "funcao": "Tutor de Sala",
+                "vinculo": "Tutor de Sala",
+                "descricao": "Tutor em Sala de aula nas turmas do curso de analise e desenvolvimento de sistemas"
+            },
+            {
+                "empresa": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Técnico de Informática",
+                "vinculo": "Estagiário",
+                "descricao": "Estagiário da UDO - Unidade de Desenvolvimento Operacional - Desenvolvendo atividades de Manutenção de Equipamentos de Informática"
+            },
+            {
+                "empresa": "Fazenda Monte Belo",
+                "ano_inicio": 2006,
+                "ano_fim": 2012,
+                "funcao": "Analista de sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade de Tecnologia e Ciência Campus Vitória da Conquista",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Horista",
+                "descricao": "Disciplinas Ministradas: algoritmos e programação, Análise e Modelagem de Sistemas I e II no curso de Sistemas de Informação"
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nEspecializacao (2024) - Desenvolvimento Web.\nOutro (2013 - 2013) .\nGraduacao (2013) - Engenharia Elétrica.\nGraduacao (2013) - Sistemas De Informação.\nGraduacao (2013) - Engenharia Ambiental.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Modelo SIR Generalizado Aplicado a Epidemiologia de Dengue em Vitória da Conquista-BA.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Ronaldo Thibes",
+                    "Deisy De Assis Coelho",
+                    "Andresa Sampaio Santos Soares"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "18ª International Collegiate Programming Contest - etapa regional",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Claudio Rodolfo Sousa De Oliveira",
+                    "Luis Fernando Cardeal Souza",
+                    "Crescencio Rodrigues Lima Neto"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week-IT - I Semana de Tecnologia da Informação do IFBA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Pablo Freire Matos",
+                    "Mailson S. Couto"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Semana de Ciência e Tecnologia (VI Secitec)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Mailson S. Couto"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de Software de Simulação Numérica do Modelo SEIR de Transmissão de Doenças",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Ranaya Silva Barbosa"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Modelo SEIR Aplicado a Epidemiologia de Dengue em Vitória da Conquista-BA.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Deisy De Assis Coelho",
+                    "Djan Almeida Santos",
+                    "Andresa Sampaio Santos Soares",
+                    "Ranaya Silva Barbosa"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Automação de Braço Robótico Utilizando Visão Computacional, a Plataforma do Arduino e Raspberry Pi",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Oséas Cavalcante Dos Santos Encarnação"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de Software de Simulação Numérica do Modelo SIR de Transmissão de Doenças",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Andresa Sampaio Santos Soares"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week-IT - II Semana de Tecnologia da Informação do IFBA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Pablo Freire Matos",
+                    "Mailson S. Couto",
+                    "Amanda Ferraz De Oliveira Passos"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Semana de Ciência e Tecnologia (VII Secitec)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Pablo Freire Matos",
+                    "Mailson S. Couto",
+                    "Luis Fernando Cardeal Souza"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "19ª International Collegiate Programming Contest - etapa regional",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Claudio Rodolfo Sousa De Oliveira",
+                    "Crescencio Rodrigues Lima Neto",
+                    "Luis Paulo Da Silva Carvalho",
+                    "Liojes De Oliveira Carneiro"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SOFTWARE DE SIMULAÇÕES NUMÉRICAS DE MODELOS EPIDEMIOLÓGICOS (SIR,SIS,SEIR) UTILIZANDO EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Deisy De Assis Coelho",
+                    "Andresa Sampaio Santos Soares",
+                    "Ranaya Silva Barbosa"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Simulação e Análise de Dependência Temporal de Parâmetros em Modelo de Transmissão de Doenças na Microrregião de Vitória da Conquista ? BA (Brasil)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Andresa Sampaio Santos Soares",
+                    "Ranaya Silva Barbosa"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SmartCity Conquista",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Djan Almeida Santos"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week IT - V Semana de Tecnologia da Informação do IFBA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week IT - IV Semana de Tecnologia da Informação do IFBA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week IT - VI Semana de Tecnologia da Informação do IFBA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Djan Almeida Santos"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Simulações Numéricas e Computacionais de Modelos de Transmissões de Múltiplos Sorotipos de Dengue na Microrregião de Vitória da Conquista ? BA (Brasil)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Deisy De Assis Coelho",
+                    "Andresa Sampaio Santos Soares",
+                    "Ranaya Silva Barbosa"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "nome": "Desenvolvimento de um software com recursos de Inteligência Artificial (IA) como Ferramenta para valorização e consolidação de Plantas Medicinais e Fitoterápicos no Sistema Único de Saúde (SUS)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Djan Almeida Santos",
+                    "Renata Correia Assunção Spósito",
+                    "Gabriele Marisco",
+                    "Fabiany Cruz Gonzaga",
+                    "Ingrid Brito Barbosa",
+                    "Simone Andadre Gualberto"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTOS",
+                    "titulo": "D. A.,  SANT'ANNA, C.,  Influência da dependência Entre Features na compreensibilidade do Código Fonte de Sistemas Configuráveis",
+                    "ano": "2018",
+                    "instituicao_promotora": "Programa de Pós-Graduação em Ciência da Computação."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "D. A.,  Palestra - Modelagem Matemática e Simulação Computacional da Transmissão da Dengue",
+                    "ano": "2013",
+                    "instituicao_promotora": "UESB - Universidade Estadual do Sudoeste da Bahia."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "D. A.,  CERTEB: Sistema de Emissão de Certificado Online",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "Djan A.,  THIBES, R.,  Modelo SIR Generalizado Aplicado a Epidemiologia de Dengue em Regiões Brasileiras",
+                    "ano": "2012",
+                    "instituicao_promotora": "Unión Matemática de América Latina y el Caribe."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "Djan A.,  Palestra Concluí minha graduação em computação. E agora o que fazer?",
+                    "ano": "2012",
+                    "instituicao_promotora": "FTC - Faculdade de Tecnologia e Ciências."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "D. A.,  Simulação Computacional Numérica de Quadros Epidemiológicos de Dengue Via Modelo SIR Generalizado",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "D. A.,  OLIVEIRA, B. S.,  ControlWeb - Controle de Produtos",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFbaiano."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "Djan A.,  Palestra O uso de Equações Diferenciais em modelagem matemática de sistemas ambientais",
+                    "ano": "2011",
+                    "instituicao_promotora": "UESB - Universidade Estadual do Sudoeste da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SANTOS",
+                    "evento": "D. A.,  MATOS, P. F.,  COUTO, M. S.,  PASSOS, A. F. O.,  II Semana de Tecnologia da Informação (Week-IT)",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "C. R. S.,  LIMA NETO, C. R.,  SANTOS, D. A.,  CARNEIRO, L. O.,  CARVALHO, L. P. S.,  19ª International Collegiate Programming Contest",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC - Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "D. A.,  MATOS, P. F.,  COUTO, M. S.,  SOUZA, L. F. C.,  VII Semana de Ciência e Tecnologia (SECITEC)",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "D. A.,  SOARES, A. S. S.,  MATOS, P. F.,  COUTO, M. S.,  SILVA, R. O.,  BARBOSA, L. A.,  FERREIRA, I. R. L.,  OLIVEIRA, F. C.,  GOMES, C. L.,  CIPRIANO, B. P.,  I - Semana de Tecnologia da Informação Week-IT",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "Djan A.,  OLIVEIRA, C. R. S.,  COUTO, M. S.,  MATOS, P. F.,  1ª Maratona de Programação IFBA - Week-IT",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "D. A.,  18ª International Collegiate Programming Contest",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC - Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "COUTO",
+                    "evento": "M. S.,  SANTOS, D. A.,  VI SECITEC - Semana de Ciência e Tecnologia do IFBA",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "Djan A.,  MATOS, P. F.,  OLIVEIRA, H. B.,  OLIVEIRA, R. M.,  OLIVEIRA, F. H.,  IIº InfoBaiano - Simpósio de informática do IF Baiano",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Baiano - Campus Itapetinga."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "Djan A.,  MATOS, P. F.,  OLIVEIRA, H. B.,  OLIVEIRA, R. M.,  OLIVEIRA, F. H.,  Iº InfoBaiano - Simpósio de informática do IF Baianho",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Baiano - Campus Itapetinga."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "Djan A.,  ANDRADE, G. F.,  2ª SINFORM - Semana de Informática da UESC",
+                    "ano": "2002",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CACIC - Centro Academico de Ciencia da Computação da UESC."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "Djan A.,  ANDRADE, G. F.,  1ª SINFORM - Semana de Informática da UESC",
+                    "ano": "2001",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CACIC - Centro Academico de Ciencia da Computação - UESC."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SANTOS, DJAN",
+                "titulo": "RIBEIRO, MÁRCIO;  SANT'ANNA, CLÁUDIO;  Understanding How Feature Dependent Variables Affect Configurable System Comprehensibility",
+                "ano": "2025",
+                "periodico": "JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT. ISBN: 21951721   ."
+            },
+            {
+                "autores": "SANTOS, D. A.",
+                "titulo": "THIBES, R.;  Simulação Numérica de Modelo de Transmissão de Dengue em Microregião no Sudoeste da Bahia",
+                "ano": "2014",
+                "periodico": "Tendências em Matemática Aplicada e Computacional. ISBN: 21798451   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, DJAN",
+                "titulo": "SANT`ANNA, CLÁUDIO; RIBEIRO, MÁRCIO; An Experiment on How Feature Dependent Variables Affect Configurable System Comprehensibility",
+                "evento": "SBCARS 2023: 17th Brazilian Symposium on Software Components",
+                "local": "Architectures, and Reuse, Campo Grande Brazil",
+                "ano": "2023"
+            },
+            {
+                "autores": "SANTOS, DJAN",
+                "titulo": "SANT' ANNA, CLAUDIO; How Does Feature Dependency Affect Configurable System Comprehensibility?",
+                "evento": "2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)",
+                "local": "Montreal",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTOS, D. A.",
+                "titulo": "SANT'ANNA, C",
+                "evento": "; &#8203;Influência da Dependência entre Features na Compreensibilidade do Código Fonte de Sistemas Altamente Configuráveis. &#8203;VIII &#8203;Workshop de Teses e Dissertações (WTDSoft)",
+                "local": "São Carlos",
+                "ano": "2018"
+            },
+            {
+                "autores": "BARBOSA, R. S.",
+                "titulo": "SOARES, A",
+                "evento": "S. S.; COELHO",
+                "local": "D. A.; SANTOS, D. A.; Software de simulações dos modelos SIR e SEIR como ferramenta de gerenciamento ambiental de doenças epidemiológicas.. 5º Congresso Internacional de Tecnologias para o Meio Ambiente, Bento Gonçalves-RS",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOARES, A. S. S.",
+                "titulo": "SANTOS, D",
+                "evento": "A.; Desenvolvimento de sistema para simulação numérica de modelos epidemiológicos. XII Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação, Ilhéus-Ba",
+                "ano": "2015"
+            },
+            {
+                "autores": "ENCARNACAO, O. C. S.",
+                "titulo": "SANTOS, D",
+                "evento": "A.; Automação de braço robótico utilizando visão computacional",
+                "local": "a plataforma do arduino e raspberry pi. XII Seminário de Iniciação Científica, Tecnológica e Inovação, Ilhéus-Ba",
+                "ano": "2015"
+            },
+            {
+                "autores": "BARBOSA, R. S.",
+                "titulo": "SANTOS, D",
+                "evento": "A.; Software de simulação numérica do modelo SEIR de transmissão de doenças. XII Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação, Ilhéus-Ba",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOARES, A. S. S.",
+                "titulo": "SANTOS, D",
+                "evento": "A.; COELHO",
+                "local": "D. A.; BARBOSA, R. S.; Análise e influência dos parâmetros do modelo SIR em uma simulação computacional da transmissão de dengue. SECITEC - Semana de Ciência e Tecnologia, Vitória da Conquista",
+                "ano": "2014"
+            },
+            {
+                "autores": "ROCHA, C.",
+                "titulo": "AZEVEDO, D",
+                "evento": "G. S.; FERREIRA",
+                "local": "I. R. L.; SANTOS, D. A.; MATOS, P. F.; Sistema Help Desk. SECITEC - Semana de Ciência e Tecnologia, Vitória da Conquista",
+                "ano": "2014"
+            },
+            {
+                "autores": "BARBOSA, L. A.",
+                "titulo": "SANTOS, E",
+                "evento": "C.; MELO",
+                "local": "L. F.; COSTA, A. S.; SANTOS, D. A.; IFBuy: Sistema de Processos de Compras. SECITEC - Semana de Ciência e Tecnologia, Vitória da Conquista",
+                "ano": "2014"
+            },
+            {
+                "autores": "BARBOSA, L. A.",
+                "titulo": "MATOS, P",
+                "evento": "F.; SANTOS",
+                "local": "D. A.; CERTEB: Sistema de Emissão de Certificado Online. Congresso Norte Nordeste de Pesquisa e Inovação, Salvador-BA",
+                "ano": "2013"
+            },
+            {
+                "autores": "SANTOS, D. A.",
+                "titulo": "THIBES, R",
+                "evento": "; Simulação Computacional Numérica de Quadros Epidemiológicos de Dengue Via Modelo SIR Generalizado. Congresso de Matemática Aplicada e Computacional - CMAC Nordeste",
+                "local": "Natal - RN",
+                "ano": "2012"
+            },
+            {
+                "autores": "SANTOS, D. A.",
+                "titulo": "THIBES, R",
+                "evento": "; Modelo SIR Generalizado Aplicado a Epidemiologia de Dengue em Regiões Brasileiras. CLAM 2012 - Congresso Latino Americano de Matemáticos",
+                "local": "Córdoba - Argentina",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Amanda Luisa Fagundes Amorim",
+                "titulo": "AUTOMAÇÃO DO SISTEMA DE IRRIGAÇÃO NO PLANTIO DE MARACUJÁ: Utilização de arduino para desenvolver um sistema de irrigação automatizado do plantio de maracujá no sudoeste baiano.",
+                "ano": "2024",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Gabriel Ferreira Fernandes",
+                "titulo": "Desenvolvimento de um Sistema Web para Análise de Ensaios de Laboratório de mecânica de solos",
+                "ano": "2024",
+                "curso": "Engenharia Civil",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Amanda Luisa Fagundes Amorim",
+                "titulo": "Estágio supervisionado",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Lázaro Caires Ribeiro Ramos",
+                "titulo": "Monitoria",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Yullo Costa Bonfim",
+                "titulo": "Sistema web para implantação do programa de gerenciamento de riscos ocupacionais",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Aulo Cezar Ferreira dos Anjos Filho",
+                "titulo": "Monitoria",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Yullo Costa Bonfim",
+                "titulo": "Estágio supervisionado",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Carlos Eduardo da Silva Oliveira",
+                "titulo": "Monitoria",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ediomar Aguiar Nogueira",
+                "titulo": "MeuPetAqui: Rede Social para tutores de pets e Ongs de Vitória da Conquista",
+                "ano": "2022",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Oseas Cavalcante dos Santos Encarnação",
+                "titulo": "Desenvolvimento de um controle inteligente seleção de objetos aplicado a um protótipo de manufatura robotizada",
+                "ano": "2016",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Deisy de Assis Coelho",
+                "titulo": "Simulações Numéricas e Computacionais da Transmissão de Dengue em Vitória da Conquista com Implicações para Gestão Ambiental Pública",
+                "ano": "2016",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Breno Antonivaldo Lessa Andrade",
+                "titulo": "Intitulado SPL-ARCH: UMA FERRAMENTA PARA AUXILIAR NA DOCUMENTAÇÃO DE ARQUITETURA DE PROJETOS DE LINHA DE PRODUTOS DE SOFTWARE",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Leonaldo de Sousa Couto",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ranaya Silva Barbosa",
+                "titulo": "Simulação e Análise de Dependência Temporal de Parâmetros em Modelo de Transmissão de Dengue na Microrregião de Vitória da Conquista ? BA (Brasil)",
+                "ano": "2016",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ranaya Silva Barbosa",
+                "titulo": "Software de simulações numéricas de modelos epidemiológicos (SIR,SIS,SEIR) utilizando equações diferenciais ordinárias",
+                "ano": "2015",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Andresa Sampaio Santos Soares",
+                "titulo": "Simulações Numéricas e Computacionais de Modelos de Transmissões de Múltiplos Sorotipos de Dengue na Microrregião de Vitória da Conquista ? BA (Brasil)",
+                "ano": "2015",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Matheus Figueredo de Oliveira",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2015",
+                "curso": "Curso Técnico Subsequente em Informática",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Davi Costa Júnior",
+                "titulo": "Monitor Bolsista",
+                "ano": "2015",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Andresa Sampaio Santos Soares",
+                "titulo": "Desenvolvimento de sistema para simulação numérica de modelos epidemiológicos",
+                "ano": "2014",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ranaya Silva Barbosa",
+                "titulo": "Software de simulação numérica do modelo SEIR de transmissão de doenças",
+                "ano": "2014",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Oséas Cavalcante dos Santos Encarnação",
+                "titulo": "Automação de Braço Robótico Utilizando Visão Computacional, a Plataforma do Arduino e Raspberry Pi",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "IFBA - Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Deisy de Assis Coelho",
+                "titulo": "Modelo SIR Generalizado Aplicado a Epidemiologia de Dengue em Vitória da Conquista-BA",
+                "ano": "2013",
+                "curso": "Engenharia Ambiental",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Filipe Rodrigues Lima",
+                "titulo": "Estágio",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Gabriel Rocha Casemiro",
+                "titulo": "Estágio",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Larissa Lima Barros",
+                "titulo": "Estágio",
+                "ano": "2013",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Bruno Silva de Oliveira",
+                "titulo": "Sistema de Help Desk - Trabalho de conclusão de curso técnico",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Gutemberg Bastos de Oliveira Júnior",
+                "titulo": "Sistema Controle de Biblioteca - Trabalho de conclusão de curso técnico",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Eder Soares da Silva",
+                "titulo": "Sistema de Help Desk - Trabalho de conclusão de curso técnico",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Almerindo Pereira Souza Júnior",
+                "titulo": "Sistema comercial - Trabalho de conclusão de curso técnico",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Maylane Brito de Araújo",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Vinicius da Silva Santos",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Joelma Santos Silva",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2012",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.118786811828613,
+            "indian": 9.355809211730957,
+            "black": 4.523489475250244,
+            "white": 20.746564865112305,
+            "middle eastern": 17.092620849609375,
+            "latino hispanic": 39.16273498535156
+        }
+    }
+}

@@ -1,0 +1,468 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ufersa",
+                "periodo": "2010 - 2012",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "titulo": "QoSTVModel: Um Modelo de QoS para o SBTVD",
+                "orientador": "Cláudia Maria Fernandes Araújo Ribeiro"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Administração de Sistemas de Informação",
+                "periodo": "2009 - 2010",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "Rêmulo Maia Alves"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2003 - 2009",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Cabral & Sousa Ltda",
+                "periodo": "2006 - 2008",
+                "cargo": "Técnico em Informática, Administração da rede (Windows Server 2003, Firewall, Antivírus, DNS, DHCP e Proxy, Exchange) e treinamento de equipes que utilizam equipamentos móveis.."
+            },
+            {
+                "empresa": "Atacadão Distribuição, Comércio e Indústria LTDA",
+                "periodo": "2008 - 2010",
+                "cargo": "Assistente de TI, Administração de rede (Linux) e suporte a usuários.."
+            },
+            {
+                "empresa": "Instituto Federal do Sertão Pernambucano",
+                "periodo": "2011 - 2013",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "periodo": "2010 - 2012",
+                "cargo": "Integrante."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial - PE",
+                "periodo": "2012 - 2012",
+                "cargo": "Instrutor de Informática, Trabalho por tempo determinado."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2013",
+                "cargo": "Professor."
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal da Bahia\nIFBA - Campus Vitória da Conquista (2016 - 2018) .",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (2017 - 2017) .\nEnsino-medio (2017) .\nGraduacao (2016) - Sistemas De Informação.\nGraduacao (2015 - 2015) - Sistemas De Informação.\nGraduacao (2014 - 2014) - Sistemas De Informação.\nGraduacao (2014 - 2014) - Sistemas De Informação.\nGraduacao (2013 - 2013) - Engenharia Elétrica.\nEnsino-medio (2013) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "nome": "Análise de QoS em Aplicações Interativas para TV Digital",
+                "periodo": "2010 - 2012",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Cláudia Maria Fernandes Araújo Ribeiro",
+                    "Vandeclecio Lira da Silva"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Estudo dos Parâmetros de Qualidade de Serviço na TV Digital com a Tecnologia WIMAX",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Ruth Oliveira Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Treinamento Olimpíada Brasileira de Informática",
+                "periodo": "2014 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Pablo matos freire",
+                    "eber chagas santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Análise do sinal da TV Digital em Vitória da Conquista por meio de equipamentos de baixo custo",
+                "periodo": "2014 - 2015",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Moara Sousa Brito"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week-IT: Semana de Tecnologia da Informação do IFBA",
+                "periodo": "2013 - 2013",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Pablo matos freire",
+                    "Djan Almeida Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento do Sistema de Inscrições Online para a Semana de Informática do IFBA Campus Vitória da Conquista",
+                "periodo": "2019 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Pablo Freire Matos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SECITEC: VII Semana de Ciência e Tecnologia do IFBA",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Pablo matos freire",
+                    "Djan Almeida Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Week-IT: II Semana de Tecnologia da Informação do IFBA",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Mailson Sousa Couto",
+                    "Pablo matos freire",
+                    "Djan Almeida Santos",
+                    "Amanda Ferraz de Oliveira Passos"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "COUTO",
+                    "titulo": "M. S.,  MORAIS, D. S. B.,  Análise dos Parâmetros de Qualidade de Serviço em um Provedor de Acesso: Um Estudo de Caso",
+                    "ano": "2019",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "I. R. C.,  SOUZA, I. R. C.,  COUTO, M. S.,  Vazza, tecnologia contra o desperdício",
+                    "ano": "2016",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Alagoas."
+                },
+                {
+                    "autores": "COUTO",
+                    "titulo": "M. S.,  TV Digital",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFPI, Campus Picos."
+                },
+                {
+                    "autores": "SANTOS",
+                    "titulo": "L. A. B.,  MOURA, M. L.,  SILVA, F. W. L.,  COUTO, M. S.,  Desenvolvimento de um Kit educativo para automação em hidroponia com arduino",
+                    "ano": "2012",
+                    "instituicao_promotora": "IF Sertão-PE."
+                },
+                {
+                    "autores": "Oliveira",
+                    "titulo": "A. L. T.,  COUTO, M. S.,  Modelagem de Sistemas de Atendimento Eletrônico Utilizando Statechart",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade do Estado do Rio Grande do Norte."
+                },
+                {
+                    "autores": "COUTO",
+                    "titulo": "M. S.,  Oportunidades de Empreendedorismo em Tecnologia da Informação",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Estadual do Sudoeste da Bahia, FAPESB e SEBRAE."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "COUTO",
+                    "curso": "M. S.,  Simulação das Redes de Computadores com o Network Simulator",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "COUTO",
+                    "curso": "M. S.,  Informática Básica",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "COUTO",
+                    "curso": "M. S.,  Gestão de Serviços de TI com ITIL",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "COUTO",
+                    "curso": "M. S.,  Ferramentas de Comunicação Computacional",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "COUTO",
+                    "evento": "M. S.,  Matos, P. F.,  Semana de Tecnologia da Informação - Week IT 2019",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "I. L. O.,  COUTO, M. S.,  Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "D. A.,  FREIRE, P. M.,  COUTO, M. S.,  PASSOS, A. F. O.,  II Semana de Tecnologia da Informação - Week-IT",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SOUSA, W. R. N.",
+                "titulo": "COUTO, M. S.;  CASTRO, A. F.;  SILVA, M. P. S.;  Evaluation of Desertification Processes in Ouricuri-PE Through Trend Estimates of Times Series",
+                "ano": "2013",
+                "periodico": "Revista IEEE América Latina. ISBN: 15480992   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "JESUS, C. O.",
+                "titulo": "COUTO, M",
+                "evento": "S.; ForensicWork: Desenvolvimento de um Framework para Perícia Forense em Computação na Nuvem. Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais",
+                "local": "Brasília",
+                "ano": "2017"
+            },
+            {
+                "autores": "OLIVEIRA, R. S.",
+                "titulo": "COUTO, M",
+                "evento": "S.; BRITO",
+                "local": "F. A. A.; A ACESSIBILIDADE NAS INSTITUIÇÕES DE ENSINOO: O PAPEL DO IFBA, CAMPUS VITÓRIA DA CONQUISTA, NO ATENDIMENTO À LEGISLAÇÃO VIGENTE. Congresso Norte Nordeste de Pesquisa e Inovação, Maceió",
+                "ano": "2016"
+            },
+            {
+                "autores": "BRITO, M.S.",
+                "titulo": "COUTO, M",
+                "evento": "S.; Avaliação do Sinal de TV Digital em Vitória da Conquista-BA Utilizando Equipamentos de Baixo Custo. XV Escola Regional de Computação Bahia",
+                "local": "Alagoas e Sergipe, Salvador",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOARES, A. S. S.",
+                "titulo": "SANTANA FILHO, L",
+                "evento": "R.; SANTOS",
+                "local": "D. L.; COUTO, M. S.; TV Digital inclusiva: uma análise sobre o processo de implantação do sinal de TV Digital no Brasil. XV Escola Regional de Computação Bahia, Alagoas e Sergipe, Salvador",
+                "ano": "2015"
+            },
+            {
+                "autores": "BRITO, M.S.",
+                "titulo": "COUTO, M",
+                "evento": "S.; Análise do Sinal da TV Digital em Vitória da Conquista por Meio de Equipamentos de Baixo Custo. XII Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação, Ilhéus",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOUZA, I. R. C.",
+                "titulo": "SOUZA, I",
+                "evento": "R. C.; COUTO",
+                "local": "M. S.; Proposta de Desenvolvimento de um Sistema Web para Monitoramento Hídrico Residencial. VI WCAMA - Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (35º CSBC), Recife",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, R. O.",
+                "titulo": "COUTO, M",
+                "evento": "S.; Estudo dos Parâmetros de Qualidade de Serviço na TV Digital com a Tecnologia Wimax. XIV Escola Regional de Computação Bahia",
+                "local": "Alagoas e Sergipe, Feira de Santana",
+                "ano": "2014"
+            },
+            {
+                "autores": "ANDRADE, B. A. L.",
+                "titulo": "BRITO, M",
+                "evento": "S.; COUTO",
+                "local": "M. S.; ALD-TV: Uma Proposta De Um Aplicativo Para TV Digital Voltado a Utilidade Pública. IX Congresso de Pesquisa e Inovação da Rede Norte e Nordeste de Educação Tecnológica (CONNEPI), São Luís - Maranhão",
+                "ano": "2014"
+            },
+            {
+                "autores": "BRITO, M.S.",
+                "titulo": "ANDRADE, B",
+                "evento": "A. L.; COUTO",
+                "local": "M. S.; Análise do Sinal da TV Digital em Vitória da Conquista por Meio de Equipamentos de Baixo Custo. IX Congresso de Pesquisa e Inovação da Rede Norte e Nordeste de Educação Tecnológica (CONNEPI), São Luís - Maranhão",
+                "ano": "2014"
+            },
+            {
+                "autores": "AZEVEDO, J. S.",
+                "titulo": "COUTO, M",
+                "evento": "S.; Criptografia Hash Sha-1: aplicação",
+                "local": "riscos e depreciação. VII Semana de Ciência e Tecnologia do IFBA Campus Vitória da Conquista, Vitória da Conquista",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, R. O.",
+                "titulo": "COUTO, M",
+                "evento": "S.; Estudo dos Parâmetros de Qualidade de Serviço na TV Digital com a Tecnologia WiMAX. XI Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação, Porto Seguro",
+                "ano": "2014"
+            },
+            {
+                "autores": "COUTO, M. S.",
+                "titulo": "COELHO, O",
+                "evento": "M.; NOGUEIRA",
+                "local": "E. A.; SILVA, T. B. O.; Detecção de Vazamentos na Rede Urbana de Água com Redes de Sensores Sem Fio. ENCOMPIF - Encontro Nacional de Computação dos Institutos Federais, Maceió - AL",
+                "ano": "2013"
+            },
+            {
+                "autores": "COUTO, M. S.",
+                "titulo": "FAGUNDES, B",
+                "evento": "C.; SOUZA",
+                "local": "M. M.; ANDRADE, H. S.; A Evolução da Memória Cache em Processadores INTEL.. Congresso Norte Nordeste de Pesquisa e Inovação, Salvador",
+                "ano": "2013"
+            },
+            {
+                "autores": "COUTO, M. S.",
+                "titulo": "SILVA, V",
+                "evento": "L. da; ROCHA",
+                "local": "B. G.; RIBEIRO, C. M. F. A.; QoSTVModel: Um Modelo Semântico para Análise de QoS em Aplicações Interativas para o SBTVD. Conferência Ibérica de Sistemas e Tecnologias de Informação, Madri",
+                "ano": "2012"
+            },
+            {
+                "autores": "COUTO, M. S.",
+                "titulo": "SILVA, V",
+                "evento": "L. da; RIBEIRO",
+                "local": "C. M. F. A.; QoSTVApp: Uma Aplicação Semântica para o SBTVD. Encontro Unificidado de Computação em Parnaíba (ENUCOMP), Parnaíba-PI",
+                "ano": "2012"
+            },
+            {
+                "autores": "COUTO, M. S.",
+                "titulo": "COSTA, F",
+                "evento": "S.; RIBEIRO",
+                "local": "C. M. F. A.; Simulação do Canal de Retorno na TV Digital via Network Simulator: uma proposta com a tecnologia ADSL. II Workshop Técnico-Científico de Computação, Mossoró",
+                "ano": "2011"
+            },
+            {
+                "autores": "COUTO, M. S.",
+                "titulo": "Canal de Retorno para Redes Ad Hoc em Tv Digital",
+                "evento": "III Escola Potiguar de Computação e suas Aplicações",
+                "local": "Mossoró",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Paulo Estevão Sá Neri",
+                "titulo": "DESENVOLVIMENTO DE UM PROJETO PILOTO NA PREFEITURA MUNICIPAL DE VITÓRIA DA CONQUISTA: MIGRAÇÃO DE UMA INFRA ON-PREMISE PARA CLOUD COMPUTING",
+                "ano": "2024",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Yara Varges Nunes",
+                "titulo": "Análise do Padrão de Configuração para Servidores Locais: Um Estudo de Caso baseado em níveis de Segurança de Acesso Remoto",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Uallace Oliveira Silva",
+                "titulo": "Gerenciamento da Segurança da Informação com o PFSense: Estudo de Caso em uma Concessionária de Veículos",
+                "ano": "2023",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Cátia Oliveira de Jesus",
+                "titulo": "FORENSICWORK: Desenvolvimento de um Framework Conceitual para Perícia Forense em Computação na Nuvem",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Dhiego de Sá Barreto Morais",
+                "titulo": "Análise dos Parâmetros de Qualidade de Serviço em um Provedor de Acesso: Um estudo de Caso Utilizando a Tecnologia Mikrotik",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ediomar Aguiar Nogueira",
+                "titulo": "Relatório Final de Estágio Curricular",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologi"
+            },
+            {
+                "orientando": "Ingrid Iana Matos Anunciação",
+                "titulo": "Relatório Final de Estágio Curricular",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologi"
+            },
+            {
+                "orientando": "Marcelo Santos Bahia",
+                "titulo": "Relatório Final de Estágio Curricular",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologi"
+            },
+            {
+                "orientando": "Mariana dos Santos Vieira",
+                "titulo": "Relatório Final de Estágio Curricular",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologi"
+            },
+            {
+                "orientando": "Vanderson do Couto Andrade",
+                "titulo": "Relatório Final de Estágio Curricular",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologi"
+            },
+            {
+                "orientando": "Igor Oliveira Cerqueira",
+                "titulo": "Relatório Final de Estágio Curricular",
+                "ano": "2013",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologi"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.007233846466988325,
+            "indian": 0.10808724910020828,
+            "black": 0.0017366628162562847,
+            "white": 71.43150329589844,
+            "middle eastern": 23.897056579589844,
+            "latino hispanic": 4.554383754730225
+        }
+    }
+}

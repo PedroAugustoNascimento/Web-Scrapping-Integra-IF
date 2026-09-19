@@ -1,0 +1,257 @@
+{
+    "campus": "- Campus Mossoró",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ufersa",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "titulo": "Enriquecimento semântico de padrões minerados em grafos utilizando ontologias",
+                "orientador": "Marcelino Pereira dos Santos Silva",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "CHS Engenharia e Equipamentos",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Técnico em informática",
+                "vinculo": "Estagiário",
+                "descricao": "Estágio obrigatório para obtenção de título de Técnico em Desenvolvimento de Software do CEFET-RN"
+            },
+            {
+                "empresa": "Faculdade de Ciências e Tecnologia Mater Christi",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Professor",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Piauí",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor do EBBT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista CNPQ do Programa de Pós-Graduação em Ciência da Computação (Mestrado), no modelo de Associação Ampla, entre a Universidade do Estado do Rio Grande do Norte - UERN e a Universidade Federal Rural do Semi-Árido UFERSA"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal do Piauí\nIFPI - Campus Paulistana (2012 - 2013) : Coordenador Do Eixo De Informação E Comunicação.",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal do Piauí",
+                "nome": "Desenvolvimento de um sistema para elaboração automática de provas e exercícios",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Soares De França"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal do Piauí",
+                "nome": "Mineração de dados como ferramenta de apoio à tomada de decisão no IFPI Campus Paulistana",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Soares De França"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "nome": "Mineração Semântica de Grafos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Soares De França",
+                    "Marcelino Pereira Dos Santos Silva"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "nome": "Mineração de Grafos usando Ontologias",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Soares De França",
+                    "Marcelino Pereira Dos Santos Silva",
+                    "Marilyn Cristine Serafim De Oliveira",
+                    "Adeline Marinho Maciel"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "MACIEL",
+                    "software": "A. M.,  FRANÇA, F. S.,  FindFRUG - Finder of Frequent Relationships Using Graphs",
+                    "ano": "2012",
+                    "finalidade": "Busca de relacionamento frequentes utilizand grafos."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "F. S.,  MACIEL, A. M.,  SILVA, M. P. S.,  Uma metodologia para enriquecimento semântico de padrões minerados em bases de grafos",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFPI."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "F. S.,  Mineração de dados apliacada ao IFPI campus Paulistana",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFPI."
+                },
+                {
+                    "autores": "BRANDAO",
+                    "titulo": "L. A. A.,  FRANÇA, F. S.,  Desenvolvimento de um jogo RPG de tabuleiro em linguegem de programação pascal",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFPI."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "F. S.,  Mineração de dados como ferramenta de apoio à tomada de decisão no IFPI Campus Paulistana",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFPI."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "A. M.,  FRANÇA, F. S.,  SILVA, M. P. S.,  Descoberta de subestruturas frequentes em dados de desflorestamento do município do vale do anari-RO",
+                    "ano": "2011",
+                    "instituicao_promotora": "IFRN."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "F. S.,  MACIEL, A.,  FIDELIS, M.,  SILVA, M. P. S.,  Lima, F.C.,  Enriquecimento Semântico de Padrões Minerados em Grafos",
+                    "ano": "2010",
+                    "instituicao_promotora": "UERN/UFERSA/IFRN."
+                },
+                {
+                    "autores": "FRANÇA",
+                    "titulo": "F. S.,  MEDEIROS, E. A. N.,  SILVA, M. P. S.,  Uma Arquitetura WEB aplicada à análise de risco HAZOP em plantas industriais",
+                    "ano": "2008",
+                    "instituicao_promotora": "UERN."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "FRANÇA",
+                    "curso": "F. S.,  SANTOS, J. A. G.,  NASCIMENTO, J. P. L.,  Introdução ao GIMP (GNU image Manipulatio Program)",
+                    "ano": "2007"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "AZEVEDO, K. K.",
+                "titulo": "SOUZA, L",
+                "evento": "G. S.; LIMA",
+                "local": "K. O.; ARAUJO, M. C. S.; FRANÇA, F. S.; 'INFORMART BETA: UMA PROPOSTA METODOLÓGICA INTERDISCIPLINAR. XI CONNEPI, Maceió-AL",
+                "ano": "2016"
+            },
+            {
+                "autores": "FRANÇA, F. S.",
+                "titulo": "MACIEL, A",
+                "evento": "M.; SILVA",
+                "local": "M. P. S.; Uma metodologia para enriquecimento semântico de padrões minerados em bases de grafos. VI ENCIPRO, Teresina-PI",
+                "ano": "2014"
+            },
+            {
+                "autores": "FRANÇA, F. S.",
+                "titulo": "Mineração de dados apliacada ao IFPI campus Paulistana",
+                "evento": "VI ENCIPRO",
+                "local": "Teresina-PI",
+                "ano": "2014"
+            },
+            {
+                "autores": "FRANÇA, F. S.",
+                "titulo": "Mineração de dados como ferramenta de apoio à tomada de decisão no IFPI Campus Paulistana",
+                "evento": "ENCIPRO",
+                "local": "Teresina-PI",
+                "ano": "2013"
+            },
+            {
+                "autores": "BRANDAO, L. A. A.",
+                "titulo": "FRANÇA, F",
+                "evento": "S.; Desenvolvimento de um jogo RPG de tabuleiro em linguagem de programação Pascal. Encipro",
+                "local": "Teresina-PI",
+                "ano": "2013"
+            },
+            {
+                "autores": "MACIEL, A.",
+                "titulo": "FRANÇA, F",
+                "evento": "S.; SILVA",
+                "local": "M. P. S.; Discovery of frequent correlations among deforestation objects using graph mining. 4th International Conference on Geographical Object-based Image Analysis, Rio de Janeiro",
+                "ano": "2012"
+            },
+            {
+                "autores": "MACIEL, A. M.",
+                "titulo": "SILVA, M",
+                "evento": "P. S.; ESCADA",
+                "local": "M. I. S.; FRANÇA, F. S.; Uma Metodologia para Descoberta de Relacionamentos Frequentes Entre Dados Espaciais de Desmatamento Usando Mineração de Grafos. Simpósio Brasileiro de Banco de Dados (SBBD), São Paulo",
+                "ano": "2012"
+            },
+            {
+                "autores": "MACIEL, A. M.",
+                "titulo": "FRANÇA, F",
+                "evento": "S.; SILVA",
+                "local": "M. P. S.; Descoberta de Subestruturas Frequentes em Dados de Desflorestamento no Município do Vale do Anari RO. Escola Potiguar de Computação e suas Aplicações - EPOCA, Natal - RN",
+                "ano": "2011"
+            },
+            {
+                "autores": "FRANÇA, F. S.",
+                "titulo": "MACIEL, A",
+                "evento": "; FIDELIS",
+                "local": "M.; SILVA, M. P. S.; Lima, F.C.; Enriquecimento Semântico de Padrões Minerados em Grafos. EPOCA, Mossoró-RN",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.28391170501709,
+            "indian": 9.379070281982422,
+            "black": 1.099823236465454,
+            "white": 25.929996490478516,
+            "middle eastern": 43.301998138427734,
+            "latino hispanic": 18.00520133972168
+        }
+    }
+}

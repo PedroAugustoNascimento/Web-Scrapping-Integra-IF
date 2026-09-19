@@ -132,7 +132,6 @@
                 "periodo": "2012 - 2014",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Leandro de Souza Wernech",
                     "Vilson Soares de Siqueira",
                     "José Mendes de Menezes Júnior",
                     "Michaell Douglas Oliveira",
@@ -146,6 +145,7 @@
                     "Jucilene de Oliveira Silva Cardoso",
                     "Juçara Kelly Coelho Sobrinho",
                     "Harison Huan Arruda da Silva Santos",
+                    "Leandro de Souza Wernech",
                     "Lorram Marinho Sampaio",
                     "Luciano Ribeiro da Silva",
                     "Geane Ferreira da Silva",
@@ -229,25 +229,25 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",
+                "nome": "Abecê - Um aplicativo Para o Ensino do Método Fônico",
+                "periodo": "2014 - 2015",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vilson Soares de Siqueira",
+                    "Rogério Pereira de Sousa",
+                    "Juçara Kelly Coelho Sobrinho Galvão",
+                    "Pedro Araújo Cortez",
+                    "Marcelo Lisboa Rocha"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",
                 "nome": "Sistema de Gerenciamento de Eventos Academicos e Científicos",
                 "periodo": "2012 - 2017",
                 "natureza": "Desenvolvimento",
                 "equipe": [
                     "Vilson Soares de Siqueira"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",
-                "nome": "SISROUTING: SISTEMA DE ROTEAMENTO DE ÔNIBUS ESCOLAR, MELHORIAS NO SISTEMA DE MAPAS DE LOCALIZAÇÕES",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Vilson Soares de Siqueira",
-                    "Glaucia Sobrinho Santos",
-                    "Danilo Machado de Sousa",
-                    "Jaqueline Rodrigues Correia"
-                ],
-                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins,"
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",
@@ -262,16 +262,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",
-                "nome": "Abecê - Um aplicativo Para o Ensino do Método Fônico",
-                "periodo": "2014 - 2015",
-                "natureza": "Desenvolvimento",
+                "nome": "SISROUTING: SISTEMA DE ROTEAMENTO DE ÔNIBUS ESCOLAR, MELHORIAS NO SISTEMA DE MAPAS DE LOCALIZAÇÕES",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Vilson Soares de Siqueira",
-                    "Rogério Pereira de Sousa",
-                    "Juçara Kelly Coelho Sobrinho Galvão",
-                    "Pedro Araújo Cortez",
-                    "Marcelo Lisboa Rocha"
-                ]
+                    "Glaucia Sobrinho Santos",
+                    "Danilo Machado de Sousa",
+                    "Jaqueline Rodrigues Correia"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Tocantins,"
             },
             {
                 "instituicao": "Universidade Federal do Tocantins",
@@ -291,6 +291,25 @@
                 "equipe": [
                     "Vilson Soares de Siqueira",
                     "Ronaldo Martins da Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "SISTEMA AUTOMATIZADO PARA CONTROLE DA IRRIGAÇÃO E FERTIRRIGAÇÃO",
+                "periodo": "2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vilson Soares de Siqueira",
+                    "DE OLIVEIRA",
+                    "HENRIQUE FONSECA ELIAS",
+                    "SOUSA",
+                    "CLEITON MATEUS",
+                    "MESQUITA",
+                    "MARCIO",
+                    "RHUANITO SORANZ FERRAREZI",
+                    "HUGO DE MOURA CAMPOS",
+                    "ADRIANO HONORATO BRAGA",
+                    "HYRANDIR CABRAL DE MELO"
                 ]
             },
             {
@@ -317,25 +336,6 @@
                     "CHRISTOPHER EUGENE NIETERS"
                 ],
                 "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "SISTEMA AUTOMATIZADO PARA CONTROLE DA IRRIGAÇÃO E FERTIRRIGAÇÃO",
-                "periodo": "2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Vilson Soares de Siqueira",
-                    "DE OLIVEIRA",
-                    "HENRIQUE FONSECA ELIAS",
-                    "SOUSA",
-                    "CLEITON MATEUS",
-                    "MESQUITA",
-                    "MARCIO",
-                    "RHUANITO SORANZ FERRAREZI",
-                    "HUGO DE MOURA CAMPOS",
-                    "ADRIANO HONORATO BRAGA",
-                    "HYRANDIR CABRAL DE MELO"
-                ]
             }
         ]
     },
@@ -443,6 +443,48 @@
                 }
             ],
             "organizacao_eventos": [
+                {
+                    "autores": "SIQUEIRA",
+                    "evento": "VILSON SOARES DE,  Eventos integrados do Instituto Federal Goiano - Campus Ceres",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Eventos integrados do Instituto Federal Goiano - Campus Ceres."
+                },
+                {
+                    "autores": "SIQUEIRA",
+                    "evento": "VILSON SOARES DE,  V Semana Acadêmica dos Cursos de Graduação",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "V Semana Acadêmica dos Cursos de Graduação."
+                },
+                {
+                    "autores": "SIQUEIRA",
+                    "evento": "VILSON SOARES DE,  IV Congresso de Pesquisa e Pós-graduação do Instituto Federal Goiano",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Tocantins."
+                },
+                {
+                    "autores": "SIQUEIRA",
+                    "evento": "VILSON SOARES DE,  XXVI Feira de Ciências e Tecnologia (FCT)",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "XXVI Feira de Ciências e Tecnologia (FCT)."
+                },
+                {
+                    "autores": "SIQUEIRA",
+                    "evento": "VILSON SOARES DE,  XXV Feira de Ciências e Tecnologia (FCT)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano - Campus Ceres."
+                },
+                {
+                    "autores": "SIQUEIRA",
+                    "evento": "VILSON SOARES DE,  Semana Integrada do Campus Colinas do Tocantins",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Tocantins."
+                },
                 {
                     "autores": "SIQUEIRA",
                     "evento": "V. S.,  FLISOL 2016",
@@ -567,6 +609,12 @@
                 "periodico": "Revista de Derecho y Câmbio Social. ISBN: 22244131   ."
             },
             {
+                "autores": "FERREIRA, PEDRO VINICIUS PRETO",
+                "titulo": "REZENDE, MARIA EDUARDA;  SIQUEIRA, VILSON SOARES DE;  Desenvolvimento e aplicação de tecnologias assistivas para crianças com Transtorno do Espectro do Autista: o impacto dos aplicativos na comunicação e aprendizagem",
+                "ano": "2026",
+                "periodico": "Revista de Derecho y Câmbio Social. ISBN: 22244131   ."
+            },
+            {
                 "autores": "CARMO, RAFAEL JOSÉ DO",
                 "titulo": "SIQUEIRA, VILSON SOARES DE;  A INTELIGÊNCIA ARTIFICIAL NO ATENDIMENTO AO CLIENTE: REDUÇÃO DE CUSTOS, OTIMIZAÇÃO DO TEMPO E MELHORIA DA EXPERIÊNCIA DO CONSUMIDOR",
                 "ano": "2025",
@@ -615,8 +663,8 @@
                 "periodico": "Proceedings of Sixth International Congress on Information and Communication Technology. ISBN: 23673370   ."
             },
             {
-                "autores": "SIQUEIRA, V. S.",
-                "titulo": "de Castro Rodrigues, Diego;  STELLE, D.;  DELFINO, H. P.;  BORGES, M. M.;  DOURADO, C. N.;  FURTADO, R. G.;  M. Barbosa, Rommel;  COSTA, R. M.;  Machine Learning applied to support medical decision in Transthoracic echocardiogram exams: A Systematic Review",
+                "autores": "STELLE, D.",
+                "titulo": "SIQUEIRA, V. S.;  de Castro Rodrigues, Diego;  DELFINO, H. P.;  BORGES, M. M.;  DOURADO, C. N.;  FURTADO, R. G.;  M. Barbosa, Rommel;  COSTA, R. M.;  Machine Learning applied to support medical decision in Transthoracic echocardiogram exams: A Systematic Review",
                 "ano": "2020",
                 "periodico": "IEEE COMPSAC. ISBN: 07303157   ."
             },
@@ -804,9 +852,9 @@
                 "ano": "2015"
             },
             {
-                "autores": "AIRES, V. M.",
-                "titulo": "CASTRO, A",
-                "evento": "F. C.; SIQUEIRA",
+                "autores": "CASTRO, A. F. C.",
+                "titulo": "AIRES, V",
+                "evento": "M.; SIQUEIRA",
                 "local": "V. S.; PRATA, D. N.; RODRIGUES C. V.; WHAT?S IFTO ? ARAGUATINS?: UM APLICATIVO EDUCACIONAL DESENVOLVIDO PARA DISPOSITIVOS MÓVEIS ANDROID, COM INFORMAÇÕES SOBRE O IFTO ? CAMPUS ARAGUATINS. Jornada de Iniciação Científica e Extensão - Jice, Araguatins,TO",
                 "ano": "2015"
             },
@@ -884,6 +932,13 @@
     },
     "producao_outra": {
         "outras_orientacoes": [
+            {
+                "orientando": "Pedro Vinicius Preto Ferreira",
+                "titulo": "Desenvolvimento e aplicação de tecnologias assistivas para crianças com Transtorno do Espectro do Autista: o impacto dos aplicativos na comunicação e aprendizagem",
+                "ano": "2026",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Instituto Federal Goiano - campus Ceres"
+            },
             {
                 "orientando": "Rafael José do Carmo",
                 "titulo": "A INTELIGÊNCIA ARTIFICIAL NO ATENDIMENTO AO CLIENTE: REDUÇÃO DE CUSTOS, OTIMIZAÇÃO DO TEMPO E MELHORIA DA EXPERIÊNCIA DO CONSUMIDOR",

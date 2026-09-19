@@ -1,0 +1,184 @@
+{
+    "campus": "- Campus Natal - Central",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Uso de Ambientes Virtuais através da Internet no Ensino a Distância: Aplicação no CEFET-RN",
+                "orientador": "Fernando Álvaro Ostuni Gauthier",
+                "ano_inicio": 1999,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Análise de Sistemas e Pesquisa Operacional",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 1983,
+                "ano_fim": 1983
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Civil",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 1976,
+                "ano_fim": 1980
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2006,
+                "ano_fim": null,
+                "funcao": "Aluno de doutorado no grupo de pesquisa",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Professor e pesquisador",
+                "vinculo": "Não informado",
+                "descricao": "Pesquisa de técnicas e métodos para fazer análise de dados em Big Data para geração de negócios"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 1983,
+                "ano_fim": null,
+                "funcao": "Professor e pesquisador",
+                "vinculo": "Além da docência",
+                "descricao": "trabalhei/trabalho com desenvolvimento de sistemas, projetos de banco de dados, pesquisa na área de big data no uso para geração de negócios através da análise de dados em big data para aplicação no modelo canvas"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sistema Interativo de Avaliação de Conhecimento pela Web (SIAC)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Reginaldo Araújo Falcão",
+                    "Felipe Mateus Freire Pontes",
+                    "Francisco Bento Da Silva Júnior"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Sistema Interativo de Avaliação de Conhecimento pela Web (SIAC)-",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Reginaldo Araújo Falcão"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "FALCÃO",
+                    "software": "R. A.,  Controle Acadêmico",
+                    "ano": "1998",
+                    "finalidade": "Controle de todas as atividades e registros de alunos e professores."
+                },
+                {
+                    "autor": "FALCÃO",
+                    "software": "R. A.,  Sistema de Informação para Licitaçao Pública",
+                    "ano": "1988",
+                    "finalidade": "Controle de Compras da UFRN - Comisão de Licitação da UFRN."
+                },
+                {
+                    "autor": "FALCÃO",
+                    "software": "R. A.,  Análise e Simulação da Camada Ionosfera",
+                    "ano": "1978",
+                    "finalidade": "Analisar e armazenamento de dados da Ionosfera para a comunidade de Física."
+                },
+                {
+                    "autor": "FALCÃO",
+                    "software": "R. A.,  Uso Hipermídia na Educação a Distância",
+                    "ano": "2000",
+                    "finalidade": "Ampliar e facilitar o uso de novas tecnologias na Educação a Distância."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "FALCÃO",
+                    "curso": "R. A.,  Construcao de Modelos Virtuais pela VRML",
+                    "ano": "2002"
+                },
+                {
+                    "autor": "FALCÃO",
+                    "curso": "R. A.,  O Uso de Ambientes Virtuais na Educacao Presencial e a Distancia",
+                    "ano": "2002"
+                },
+                {
+                    "autor": "FALCÃO",
+                    "curso": "R. A.,  Como Projetar uma Rede Local",
+                    "ano": "1998"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "FALCÃO",
+                    "evento": "R. A.,  Projeto de Cooperação entre o CEFET-RN e o Instituto Politécnico da Guarda - IPG/PT",
+                    "ano": "1999",
+                    "duracao_semanas": "156",
+                    "instituicao_promotora": "CEFET-RN."
+                },
+                {
+                    "autores": "FALCÃO",
+                    "evento": "R. A.,  Congresso Anual de Informática da SUCESU-RN",
+                    "ano": "1998",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SUCESU-RN."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FALCÃO, R. A.",
+                "titulo": "Ambientes Virtuais em VRML - Fortaleza dos Reis Magos",
+                "ano": "2000",
+                "periodico": "Ambientes Virtuais com VRML - Fortaleza dos Reis Magos   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FALCÃO, R. A.",
+                "titulo": "Produção Interdisciplinar de Software Administrativo",
+                "evento": "SBPC",
+                "local": "Natal",
+                "ano": "1998"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 32.581260681152344,
+            "indian": 12.268380165100098,
+            "black": 27.79970359802246,
+            "white": 3.518723487854004,
+            "middle eastern": 2.9584429264068604,
+            "latino hispanic": 20.87349510192871
+        }
+    }
+}

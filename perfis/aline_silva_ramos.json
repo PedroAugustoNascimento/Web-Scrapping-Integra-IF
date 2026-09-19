@@ -1,0 +1,158 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Engenharia Industrial",
+                "periodo": "2015 - 2019",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Contagem de Células Somáticas em Leite de Búfalas usando um Classificador Fuzzy e Técnicas de Processamento de Imagens",
+                "orientador": "Cristiano Fontes"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "periodo": "2011 - 2013",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Janaína Costa Binda"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2002 - 2007",
+                "instituicao": "Faculdade Independente do Nordeste"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade de São Paulo",
+                "periodo": "2006 - 2007",
+                "cargo": "Engenheira de Computação, Bolsista."
+            },
+            {
+                "empresa": "DIREC-20",
+                "periodo": "2008 - 2009",
+                "cargo": "Técnica em Informática, PST."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2009",
+                "cargo": "Professora, Atuou como COORDENADORA de Curso no período de Fevereiro de 2022 até outubro de 2022.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVA RAMOS",
+                    "software": "ALINE,  HORA FONTES, CRISTIANO,  CONTAGEM DE CÉLULAS SOMÁTICAS EM LEITE DE BÚFALA UTILIZANDO RECONHECIMENTO DE PADRÃO",
+                    "ano": "2018",
+                    "finalidade": "Contar células somáticas em imagens de amostras de leite de búfalas para auxiliar na detecção de mastite..Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512018000357-5."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA RAMOS",
+                    "evento": "ALINE,  SILVA, T. C.,  SILVA, C. C.,  SANTOS, D. N.,  SILVA, F. L.,  COSTA, G. F.,  SANTANA, H. C. V.,  ARAUJO, J. G. C.,  ASSIS, L. S.,  SILVA, R. M.,  Semana Nacional de Ciência e Tecnologia 2020",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SILVA RAMOS, ALINE",
+                "titulo": "HORA FONTES, CRISTIANO;  MAGDIEL FERREIRA, ADONIAS;  COSTA BACCILI, CAMILA;  DA SILVA, KAREN NASCIMENTO;  GOMES, VIVIANI;  DE MELO, GABRIEL JESUS ALVES;  Somatic cell count in buffalo milk using fuzzy clustering and image processing techniques",
+                "ano": "2021",
+                "periodico": "JOURNAL OF DAIRY RESEARCH. ISBN: 14697629   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Geovane de Souza Santos",
+                "titulo": "Relatório Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Renardo Alves de Sousa",
+                "titulo": "Relatório Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Fernanda Karem Aparo da Costa",
+                "titulo": "Relatório Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Amanda Beatriz Barbosa Nunes",
+                "titulo": "Relatório Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Andrei Santos Nascimento",
+                "titulo": "Relatório Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Helen Costa dos Santos",
+                "titulo": "Relatório Estágio Supervisionado",
+                "ano": "2023",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Emyle Santana da Silva",
+                "titulo": "Introdução a robótica utilizando o kit lego Mindstorms",
+                "ano": "2022",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ruan Rosetti da Silva",
+                "titulo": "Introdução a robótica utilizando o kit lego Mindstorms",
+                "ano": "2022",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.241506099700928,
+            "indian": 35.8031005859375,
+            "black": 4.319385528564453,
+            "white": 5.487914562225342,
+            "middle eastern": 4.819284439086914,
+            "latino hispanic": 43.32880783081055
+        }
+    }
+}

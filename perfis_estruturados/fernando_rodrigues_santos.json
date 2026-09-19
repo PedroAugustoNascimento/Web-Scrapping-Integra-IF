@@ -1,0 +1,333 @@
+{
+    "campus": "- Câmpus Criciúma",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia de Automação e Sistemas",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "orientador": "Jomi Fred Hübner",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Automação e Sistemas",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Avaliação do uso de agentes no desenvolvimento de aplicações com Veículos Aéreos Não-Tripulados",
+                "orientador": "Jomi Fred Hübner",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Universidade Federal de Itajubá",
+                "ano_inicio": 2008,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": "Área: Mecatrônica"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": "Área: Telecomunicações"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": 2019,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Campus Criciúma (2022) : Coordenador Do Curso Superior Em Engenharia Mecatrônica.\nInstituto Federal de Santa Catarina - Campus Criciúma (2020): Sistemas Embarcados, Internet das Coisas (IoT),\nInstituto Federal de Santa Catarina - Câmpus São José (2016 - 2017): Sistemas e Controles Eletrônicos, Internet das Coisas (IoT),\nPrograma Sinapse da Inovação (2018 - 2019): Sistemas Embarcados, Internet das Coisas (IoT), Sistemas e Controles Eletrônicos,",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2020) - Engenharia Mecatrônica.\nGraduacao (2017 - 2017) - Engenharia De Telecomunicações.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Itajubá",
+                "nome": "TRABALHO I",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Marcos Vinícius Xavier Dias",
+                    "Jamil Haddad",
+                    "Felício M. Travareli",
+                    "Greicy Rodrigues De Lima",
+                    "Kelly Fernanda Dos Reis"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Universidade Federal de Itajubá",
+                "nome": "Driving4u",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Carlos Henrique Valério De Moraes",
+                    "Helio Felipe Bizio"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Integração de tecnologias de Internet das Coisas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Isabele Antunes Dal Ponte"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Monitoria de Programação - 2020/2",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Iuri Sônego Cardoso",
+                    "Gustavo De Lima E Silva"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Kit introdutório de Internet das Coisas com Arduino",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Ederson Torresini",
+                    "Clayrton Monteiro Henrique",
+                    "Maria Luiza Theisges"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Infraestrutura de Internet das Coisas para Automação Aplicada",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Iuri Sônego Cardoso",
+                    "Michele Alda Rosso Guizzo",
+                    "Alex Frasson Zadroski",
+                    "Leonardo Ghedin De Oliveira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Educação Maker - Capacitação Tecnológica para Escola de Ensino Médio",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Pedro Alcalde Dos Santos",
+                    "Guilherme Augusto Zilio",
+                    "Lucas Passos De Oliveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Workshop de introdução aos conceitos da Mecatrônica baseado em projeto de um drone",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Lucas Mondardo Cunico",
+                    "Paulo Roberto Hoffmann",
+                    "Maria Luisa Dias Paiva"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aplicação dos conceitos da Mecatrônica no projeto drones",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Pedro Alcalde Dos Santos",
+                    "Lucas Mondardo Cunico",
+                    "Paulo Roberto Hoffmann"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Robô guia com comunicação IP",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Ederson Torresini",
+                    "Maria Fernanda Tutui"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
+                "nome": "Connect Smart",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fernando Rodrigues Santos",
+                    "Larice Steffen Peters",
+                    "Alex Radwanski Redivo",
+                    "Erasmo Carlos Peters"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "NAZAROV, GEORGIY C. TANCA",
+                "titulo": "SILVESTRE, IAGO; SANTOS, FERNANDO R",
+                "evento": "; HÜBNER",
+                "local": "JOMI F.; BECKER, LEANDRO BUSS; Proposal of a Mission Management Module for Embedded Agent Systems. WorkshopEscola de Sistemas de Agentes, seus Ambientes e Aplicações, Brasil",
+                "ano": "2025"
+            },
+            {
+                "autores": "SILVA, J. V. D",
+                "titulo": "SANTOS, F",
+                "evento": "R.; SILVA",
+                "local": "E. A. S.; Desenvolvimento de um sistema embarcado para operação de uma incubadora de ovos. Simpósio de Integração Científica e Tecnológica do Sul Catarinense (SICT-Sul), Araranguá",
+                "ano": "2023"
+            },
+            {
+                "autores": "ZADROSKI, A. F.",
+                "titulo": "SANTOS, F",
+                "evento": "R.; Plataforma de Internet das Coisas para conectividade de Soluções de Automação Aplicada. Seminário de Ensino",
+                "local": "Pesquisa, Extensão e Inovação do IFSC (SEPEI), Joinville",
+                "ano": "2023"
+            },
+            {
+                "autores": "ZADROSKI, A. F.",
+                "titulo": "SANTOS, F",
+                "evento": "R.; Projeto de uma Plataforma de Internet das Coisas para Conectividade de Aplicações de Automação. Seminário de Ensino",
+                "local": "de Pesquisa e Extensão: Fortalecendo o Conhecimento Científico e Tecnológico (SEPETEC), Jaraguá do Sul",
+                "ano": "2022"
+            },
+            {
+                "autores": "ZADROSKI, A. F.",
+                "titulo": "SANTOS, F",
+                "evento": "R.; Projeto de uma Plataforma de Serviços de Internet das Coisas. Simpósio de Integração Científica e Tecnológica do Sul Catarinense (SICT-Sul)",
+                "local": "Sombrio",
+                "ano": "2022"
+            },
+            {
+                "autores": "Dal Ponte, I. A.",
+                "titulo": "SANTOS, F",
+                "evento": "R.; UGGIONI",
+                "local": "P. P.; Desenvolvimento de uma estação meteorológica automática baseada em Internet das Coisas (IoT). Congresso Brasileiro de Metrologia (CBM), Rio de Janeiro",
+                "ano": "2021"
+            },
+            {
+                "autores": "Dal Ponte, I. A.",
+                "titulo": "SANTOS, F",
+                "evento": "R.; UGGIONI",
+                "local": "P. P.; Desenvolvimento de uma estação meteorológica de baixo custo baseada em Internet das Coisas. Simpósio de Integração Científica e Tecnológica do Sul Catarinense (SICT-Sul), Evento Virtual",
+                "ano": "2020"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Leonardo Ghedin de Oliveira",
+                "titulo": "Desenvolvimento de um sistema de controle de estoque autônomo",
+                "ano": "2023",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "João Vytor Dantas Silva",
+                "titulo": "Desenvolvimento de um sistema embarcado para operação de uma incubadora de ovos",
+                "ano": "2023",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Thiago Beninca Speck",
+                "titulo": "Desenvolvimento de um data logger para baterias com células de lítio",
+                "ano": "2023",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sara Gaudereto Mautoni",
+                "titulo": "Estudo do mapeamento de processos: análise de problemas no processo de produção da indústria frigorífica",
+                "ano": "2023",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Alex Frasson Zadroski",
+                "titulo": "Desenvolvimento de uma Plataforma de Internet das Coisas para conectividade de soluções de Automação Aplicada",
+                "ano": "2022",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Júlia Pereira Manenti",
+                "titulo": "Desenvolvimento de um Sistema de Monitoramento da Produção de Peças para Indústria Cerâmica de Revestimento",
+                "ano": "2022",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Isabele Antunes Dal Ponte",
+                "titulo": "Desenvolvimento de uma Estação Meteorológica Automática baseada em Internet das Coisas",
+                "ano": "2020",
+                "curso": "Engenharia Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "indian",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 11.298627853393555,
+            "indian": 25.652145385742188,
+            "black": 8.785178184509277,
+            "white": 13.868776321411133,
+            "middle eastern": 16.065366744995117,
+            "latino hispanic": 24.329904556274414
+        }
+    }
+}

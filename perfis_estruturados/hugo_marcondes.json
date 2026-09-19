@@ -1,0 +1,536 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Uma Arquitetura de Componentes Híbridos de Hardware e Software para Sistemas Embarcados",
+                "orientador": "Antônio Augusto Medeiros Fröhlich",
+                "ano_inicio": 2006,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2000,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Terra Networks",
+                "ano_inicio": 1998,
+                "ano_fim": 2000,
+                "funcao": "Técnico Informática",
+                "vinculo": "Funcionário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fastlane Internet",
+                "ano_inicio": 2001,
+                "ano_fim": 2005,
+                "funcao": "Gerente Técnico",
+                "vinculo": "Funcionário",
+                "descricao": "Gerenciamento do departamento de Suporte Técnico da empresa"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2005,
+                "ano_fim": 2012,
+                "funcao": "Pesquisador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2003,
+                "ano_fim": 2005,
+                "funcao": "Pesquisador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Heinz Nixdorf Institute-Universität Paderborn",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "SENAI - Departamento Regional de Santa Catarina",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Especialista em Informática",
+                "vinculo": "Planejar e executar programas de formação profissional (aprendizagem",
+                "descricao": "qualificação e treinamento); Ministrar aulas em Cursos de Nível Técnico; Ministrar aulas em Cursos de Nível Superior; Coordenar cursos próprios e/ou em parceria com outras instituições; Orientar/Supervisionar programas de etágio e trabalhos de conclusão de curso; Elaborar, apresentar e negociar propostas de trabalho com clientes; Prestar assistência técnica e tecnológica; Executar programas na área de gestão de acordo com a sua competência; Elaborar artigos e informações técnicas; Desenvolver projetos para captação de recursos financeiros;"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Revista Ilha Digital",
+                "ano_inicio": 2016,
+                "ano_fim": 2020,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de corpo editorial"
+            },
+            {
+                "empresa": "REVISTA ILHA DIGITAL",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Fastlane Internet\nSuporte Técnico (2001 - 2005) : Gerente Do Suporte Técnico.\nDepartamento de Informática e Estatística (2003 - 2012): Projeto Integrado de Hardware e Software, Sistemas Embarcados,",
+        "ensino": ": Instituto Federal de Santa Catarina\nEspecializacao (2013) - Desenvolvimento De Produtos Eletrônicos.\nGraduacao (2013) - Eletrônica Industrial.\nGraduacao (2013) - Engenharia Eletrônica.\nEnsino-medio (2013) .\nExtensão Universitária: Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina: Ciclo De Palestras Na Área De Eletrônica (2013) - Ciclo De Palestras Na Área De Eletrônica.\nTreinamento Ministrado: Fastlane Internet\nSuporte Técnico (2001 - 2005) - Suporte Técnico - Gerente Técnico.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "PDSCE - Plataforma de Desenvolvimento de Sistemas Computacionais Embarcados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich",
+                    "Fauze Valério Polpeta",
+                    "Lucas Francisco Wanner",
+                    "Valter Roesler",
+                    "Fabiano Passuelo Hessel",
+                    "Benhur Stein",
+                    "João Carlos De Lima",
+                    "Augusto Born De Oliveira",
+                    "Gian Ricardo Berkenbrock",
+                    "Felipe Pompeo Pereira"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2005,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "PMM: Plataforma Multimídia Modular",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich",
+                    "Valter Roesler"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "SBTVD-MIDIASUL - Camada de Transporte do Sistema Brasileiro de Televisão Digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich",
+                    "Valter Roesler"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Set-top box IPTV",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Codificador H.264 para Televisão Digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Fröhlich"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "vConf: Software de Vídeo Conferência Corporativa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antonio Augusto Medeiros Frölich"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "FlexES: Desenvolvimento de uma Arquitetura Flexível para Sistemas Embarcados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich",
+                    "Rafael Luís Cancian"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Rede H.264 SBTVD",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Valter Roesler",
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich",
+                    "Altamiro Amadeu Susin"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "EPOS - Embedded Parallel Operating System",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Antônio Augusto Medeiros Fröhlich"
+                ],
+                "ano_inicio": 1997,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um equipamento de exploração subaquática operado remotamente",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Rodrigo De Mello Garcia"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Fortalecimento do Curso de Especialização em Desenvolvimento de Produtos Eletrônicos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Fortalecimento do Curso de Especialização em Desenvolvimento de Produtos Eletrônicos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rede sem fio de sensores e atuadores para movimentação e controle de robôs humanoides",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pesquisa e Desenvolvimento de um protótipo do protocolo ponto-a-ponto e ponto-multi-ponto para roteadores sem fio outdoor",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes",
+                    "Roberto De Matos",
+                    "Marcelo Maia Sobral"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "SmartSpaces: Desenvolvendo produtos eletrônicos para espaços inteligentes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hugo Marcondes"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "MARCONDES",
+                    "software": "H.,  SimpleFS",
+                    "ano": "2004",
+                    "finalidade": "Armazenamento de dados."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "INOCÊNCIO, Vinicius Buzzo",
+                "titulo": "MARCONDES, H.;  CONTADOR DE PESSOAS COM TRANSMISSÃO DE DADOS VIA INTERNET",
+                "ano": "2023",
+                "periodico": "REVISTA ILHA DIGITAL. ISBN: 21772649   ."
+            },
+            {
+                "autores": "JUSTEN, D.",
+                "titulo": "MARCONDES, H.;  DESENVOLVIMENTO DE UM EQUIPAMENTO ELETRÔNICO PARA O MONITORAMENTO ONLINE DA UMIDADE DO SOLO UTILIZANDO OS PRINCÍPIOS DE IOT",
+                "ano": "2018",
+                "periodico": "REVISTA ILHA DIGITAL. ISBN: 21772649   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "CANCIAN, R",
+                "evento": "L.; STEMMER",
+                "local": "M.; FROHLICH, A. A.; Modelagem e Implementação de Escalonadores de Tempo Real para Sistemas Embarcados. VI Workshop de Sistemas Operacionais, Bento Gonçalves",
+                "ano": "2009"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "FROHLICH, A",
+                "evento": "A.; A Hybrid Hardware and Software Component Architecture for Embedded System Design. International Embedded System Symposium",
+                "local": "Langenargen",
+                "ano": "2009"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "FRÖHLICH, A",
+                "evento": "A. M.; On Hybrid Hw/Sw Components for Embedded System Design. IFAC World Congress",
+                "local": "Seul",
+                "ano": "2008"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "HOELLER JUNIOR, A",
+                "evento": "S.; WANNER",
+                "local": "Lucas Francisco; FRÖHLICH, A. A. M.; Portabilidade de sistemas operacionais no domínio de sistemas embarcados. 32th Latin-American Conference on Informatics, Santiago",
+                "ano": "2006"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "HOELLER JUNIOR, A",
+                "evento": "S.; WANNER",
+                "local": "Lucas Francisco; FRÖHLICH, A. A. M.; Operating Systems Portability: 8 bits and beyond. 11th IEEE International Conference on Emerging Technologies and Factory Automation, Prague",
+                "ano": "2006"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "HOELLER JUNIOR, A",
+                "evento": "S.; WANNER",
+                "local": "Lucas Francisco; FRÖHLICH, A. A. M.; EPOS: Um Sistema Operacional Portável para Sistemas Profundamente Embarcados. III Workshop de Sistemas Operacionais, Campo Grande",
+                "ano": "2006"
+            },
+            {
+                "autores": "MARCONDES, H.",
+                "titulo": "PEREIRA, M",
+                "evento": "T.; FRÖHLICH",
+                "local": "A. A. M.; Um Sistema de arquivos para o EPOS. II Workshop de Sistemas Operacionais, São Leopoldo",
+                "ano": "2005"
+            },
+            {
+                "autores": "PEREIRA, M. T.",
+                "titulo": "FRÖHLICH, A",
+                "evento": "A. M.; MARCONDES",
+                "local": "H.; RIFFS: Reverse Indirect Flash File System. International Conference on Embedded and Ubiquitous Computing, Aizu",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Vinícius Buzzo Inocêncio",
+                "titulo": "CONTADOR DE PESSOAS COM TRANSMISSÃO DE DADOS VIA INTERNET",
+                "ano": "2018",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Diogo Justen",
+                "titulo": "Desenvolvimento de um equipamento eletrônico para o monitoramento e automação de estufas hidropônicas",
+                "ano": "2017",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Cleber Zanatta",
+                "titulo": "Desenvolvimento de um dispositivo eletrônico para auxiliar na segurança infantil contra distanciamento não intencional de responsáveis",
+                "ano": "2015",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Israel Huller",
+                "titulo": "SISTEMA DE ATUAÇÃO E SUPERVISÃO PARA SEGURANÇA DE AMBIENTES REMOTOS",
+                "ano": "2014",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Alexandre Marcos Vieira",
+                "titulo": "DISPOSITIVO PARA MICROMEDIÇÃO REMOTA DE ÁGUA",
+                "ano": "2014",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Victor Augusto dos Santos",
+                "titulo": "ROBÔ SEMIAUTÔNOMO COLETOR DE BOLAS DE TÊNIS",
+                "ano": "2014",
+                "curso": "Sistemas Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marcelo Rodrigo dos Santos Andriolli",
+                "titulo": "DESENVOLVIMENTO DE UM GATEWAY ETHERNET PARA REDES IEEE 802.15.4",
+                "ano": "2014",
+                "curso": "Desenvolvimento de Produtos Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marcia Pancieiro",
+                "titulo": "DESENVOLVIMENTO DE UM PROTÓTIPO DE LOCALIZADOR VEICULAR",
+                "ano": "2013",
+                "curso": "Tecnologia em Sistemas Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Wesley Gonçalves Silva",
+                "titulo": "vConf: Software de Vídeo Conferência Corporativa",
+                "ano": "2012",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rodrigo Valceli Raimundo",
+                "titulo": "vConf: Software de Vídeo Conferência Corporativa",
+                "ano": "2011",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Suzana Vilas Boas Pescador",
+                "titulo": "vConf: Software de Vídeo Conferência Corporativa",
+                "ano": "2011",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "André Quintino Kuhnen",
+                "titulo": "vConf: Software de Vídeo Conferência Corporativa",
+                "ano": "2011",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Arnaldo Stramosk Júnior",
+                "titulo": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "ano": "2010",
+                "curso": "Sistemas Eletrônicos",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marcelo Savinski",
+                "titulo": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "ano": "2010",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Maicos Albrecht da Luz",
+                "titulo": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "ano": "2010",
+                "curso": "Física",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "João Paulo Pizani Flor",
+                "titulo": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "ano": "2010",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Luis Henrique dos Santos",
+                "titulo": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "ano": "2010",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "André Silva de Carvalho",
+                "titulo": "REDE ALTATV - Arquitetura Livre, Aberta e Escalável de Terminal de Acesso para o SBTVD-T",
+                "ano": "2010",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Thiago Martins de Souza",
+                "titulo": "vConf: Software de Vídeo Conferência Corporativa",
+                "ano": "2010",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.9047406911849976,
+            "indian": 5.770613670349121,
+            "black": 0.808672308921814,
+            "white": 40.90877151489258,
+            "middle eastern": 23.969562530517578,
+            "latino hispanic": 26.63763999938965
+        }
+    }
+}

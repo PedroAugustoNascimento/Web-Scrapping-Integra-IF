@@ -1,0 +1,857 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Engenharia de Software em Startups",
+                "orientador": "Ivan do Carmo Machado",
+                "ano_inicio": 2016,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Meta Aprendizado para Seleção Automática de Modelos de Séries Temporais",
+                "orientador": "Ricardo Bastos Cavalcante Prudencio",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Planejamento de Gestão Organizacional",
+                "instituicao": "Universidade de Pernambuco",
+                "orientador": "José Luiz Alves",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Católica de Pernambuco",
+                "ano_inicio": 1997,
+                "ano_fim": 2001
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Professora Executora",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Prática Como Componente Curricular - Engenharia de Software (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Programação II (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Professora Executora",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Produção de Mídias (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Redes de Computadores (Licenciatura em Computadores)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Gerência de Projetos (Licenciatura em Computação); - Programação III (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Fundamentos de Engenharia de Software (Bacharelado em Sistemas de Informação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Dsiciplinas ministradas: - Metodologia Científica (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Teoria da Computação (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Introdução a Teoria da Computação (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Tutora Virtual",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas ministradas: - Fundamentos de Engenharia de Computação (Licenciatura em Computação)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Professora Substituta",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas lecionadas: Algoritmos e Estrutura de Dados; Linguagem de Programação II; MicroInformática Aplicada"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Professora Substituta",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplina ministradas: - Algoritmo e estrutura de dados"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Professora Subistituta",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Introdução a Computação; - Cálculo Numérico; - Linguagem de Programação I"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Professora Substituta",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas lecionadas: Algoritmos e Estrutura de Dados; Informática na Educação"
+            },
+            {
+                "empresa": "Gimabel Comercial Ltda",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Programadora Junior",
+                "vinculo": "Celetista formal",
+                "descricao": "Suporte a rede de computadores Suporte a usuário Manutenção de computadores"
+            },
+            {
+                "empresa": "Allen Tecnologia em Informática Ltda",
+                "ano_inicio": 2001,
+                "ano_fim": 2002,
+                "funcao": "Consultora Técnica Nível II",
+                "vinculo": "Celetista formal",
+                "descricao": "Atendimento ao cliente interno da TIM ? Telenordeste Telefonia Celular, instalação de serviços de TI e sistemas e treinamento de usuário para utilização dos mesmos"
+            },
+            {
+                "empresa": "Stefanini Consultoria e Assessoria em Informática Ltda",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Analista Programadora Junior",
+                "vinculo": "Celetista formal",
+                "descricao": "Desenvolvimento de sistema na área de interconexão, para contagem e controle de bilhetes entrantes e saintes na rede da TIM - Telenordeste Telefonia Celular"
+            },
+            {
+                "empresa": "Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco",
+                "ano_inicio": 2006,
+                "ano_fim": 2009,
+                "funcao": "Engenheira de Teste",
+                "vinculo": "Celetista formal",
+                "descricao": "Definição de processo de teste voltado para impressoras fiscais, incluindo atividades de planejamento, design e execução de teste nas mesmas"
+            },
+            {
+                "empresa": "Companhia HidroElétrica do São Francisco",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Suporte Técnica em Informática",
+                "vinculo": "Estágio",
+                "descricao": "Suporte à rede de computadores e usuários"
+            },
+            {
+                "empresa": "Superintendência do Desenvolvimento do Nordeste",
+                "ano_inicio": 2000,
+                "ano_fim": 2000,
+                "funcao": "Suporte a Rede de Computadores",
+                "vinculo": "Estágio",
+                "descricao": "Gerenciamento de contas de usuários (Solaris)"
+            },
+            {
+                "empresa": "Vectra consultoria e Serviços Ltda",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Suporte a Rede de Computadores",
+                "vinculo": "Estágio",
+                "descricao": "Apoio a usuário de microinformática; Configuração e instalação de computadores em rede; Instalação e configuração de sistemas operacionais Windows; Documentação de redes locais; Criação de usuário para redes Windows Nt e 2000; Implantação de acesso ao servidor de arquivos; Instalação e configuração de placas de redes e fax modem para acesso a internet"
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professora Substituta",
+                "vinculo": "Professora Substituta",
+                "descricao": "Disciplinas ministradas: - Computação Aplicada a Contabilidade; - Álgebra Linear"
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Professora Substituta",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Computação aplicada a Contabilidade; - Métodos Quantitativos I; - Álgebra Linear"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Teoria da Computação; - Banco de Dados; - Projeto de Bando de Dados; - Engenharia de Requisitos"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Projeto de Banco de Dados; - Introdução a Compiladores; - Teoria da Computação; - Redes de Computadores"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Teoria da Computação; - Banco de Dados; - Projeto de Banco de Dados; - Engenharia de Requisitos"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Controle e Avaliação de Sistemas; - Estrutura de Dados II; - Teoria Geral da Administração"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Projeto de Banco de Dados; - Introdução a Compiladores; - Teoria da Computação"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Linguagens e Técnicas de Programação I; - Estrutura de Dados II; - Fundamentos de Sistema de Informação; - Teoria Geral da Administração"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Estrutura de Dados I; - Estrutura de Dados II; - Linguagens e Técnicas de Programação II"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas ministradas: - Linguagens e Técnicas de Programação II; - Estrutura de Dados I; - Estrutura de Dados II"
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2009,
+                "ano_fim": 2014,
+                "funcao": "Membro do Colegiado do Cruso",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Escritor Osman da Costa Lins",
+                "ano_inicio": 2009,
+                "ano_fim": 2014,
+                "funcao": "Membro do Núcleo Docente Estruturante",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro de Estudos e Sistemas Avançados do Recife",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Engenheira de Teste Pleno",
+                "vinculo": "Celetista formal",
+                "descricao": "Planejamento de Teste, Design de Teste e Execução de Teste para Aplicações Andoid"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "Professor EBTT D3-302",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Professor EBTT D3-301",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Banco de Dados; - Banco de Dados I; - Engenharia de Software; - Análise e Projeto de Sistemas"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Professor EBTT D3-302",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplina ministrada: - Hipermídia"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Coordenação de Curso",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Presidente da Comissão PPC",
+                "vinculo": "Servidor público",
+                "descricao": "Construção do Projeto Pedagógico do Curso (PPC) de Produção Multimídia"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Membro da Comissão PIC",
+                "vinculo": "Servidor público",
+                "descricao": "Comissão para Projeto Incial do Curso (PIC) de Ensino Médio em Tecnologia da Informação"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Membro de Comissão Permanente CPPD",
+                "vinculo": "Servidor público",
+                "descricao": "Comissão Permanente de Pessoal Docente (CPPD)"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Presidente do Colegiado do Curso",
+                "vinculo": "Servidor público",
+                "descricao": "Curso Superior de Tecnologia em Produção Multimídia"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Presidente do Núcleo Docente Estruturante",
+                "vinculo": "Servidor público",
+                "descricao": "Curso Superior de Tecnologia em Produção Multimídia"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Professor EBTT D3-301",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Lógica de Programação; - Introdução a Computação"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Professor EBTT D3-301",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas: - Banco de Dados; - Análise e Projeto de Sistemas"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Professora Executora",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplina ministrada como Ensino a Distância pelo UAB/IFBA: - Linguagem de Programação Orientada a Objetos II"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Professora Executora",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplina ministrada como Ensino a Distância pelo UAB/IFBA: - Linguagem de Programação"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Informática Básica; - Linguagem de Programação II; - Lógica de Programação; - Interação Homem Computador"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor EBTT D3-301",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Informática Básica; - Lógica de Programação"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2020,
+                "funcao": "Membro do Núcleo Docente Estruturante",
+                "vinculo": "Servidor público",
+                "descricao": "Curso Superior de Tecnologia em Redes de Computadores"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professora Executora",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplina ministrada como Ensino a Distância pelo UAB/IFBA: - Introdução ao Ensino a Distância (EaD)"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professora Executora",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplina ministrada como Ensino a Distância pelo UAB/IFBA: - Oficina do Moodle"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Informática Básica; - Análise e Projeto de Sistemas; - Engenharia de Software"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Informática Básica; - Linguagem de Programação II; - Engenharia de software; - Análise e Projeto de Sistemas"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Coordenadora do Programa de Hotel de Projetos",
+                "vinculo": "Servidor público",
+                "descricao": "IFBA Campus Jacobina"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Membro do Núcleo Docente Estruturante",
+                "vinculo": "Servidor público",
+                "descricao": "Curso Superior de Licenciatura em Computação do IFBA Campus Jacobina"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Banco de Dados I; - Informática Básica; - Engenharia de Software; - Linguagem de Programação II; - Lógica de Programação; - Modelagem de Banco de Dados"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Banco de Dados II; - Engenharia de Software"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Linguagem de Programação I; - Banco de Dados I; - Engenharia de Software"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Presidente da Comissão",
+                "vinculo": "Servidor público",
+                "descricao": "Projeto Pedagógico do Curso de Licenciatura em Computação do IFBA Campus Jacobina"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor EBTT D1-101",
+                "vinculo": "Servidor público",
+                "descricao": "Disciplinas ministradas: - Lógica de Programação; - Linguagem de Programação; - Banco de Dados II"
+            },
+            {
+                "empresa": "Revista Sintonia",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "",
+                "vinculo": "Membro de corpo editorial",
+                "descricao": "Consultora Científica da Revista do Curso de Bacharelado em Sistemas de Informação da Faculdade Escritor Osman da Costa Lins (FACOL)"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nGraduacao (2020) - Análise E Desenvolvimento De Sistemas.\nGraduacao (2020) - Produção Multimídia.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Pernambuco",
+                "nome": "Processo de Testes para Aplicações Embarcadas em Impressoras Fiscais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renata Maria De Souza Santos",
+                    "Paulo César Oliveira",
+                    "Alexandre Marcos Lins De Vasconcelos",
+                    "Elifrancis Soares",
+                    "Taise Dias",
+                    "Filipe Motta",
+                    "Roberto Damiani Mendes"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Aplicação voltada para auxiliar o trabalho dos Agentes Comunitários de Saúde.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renata Maria De Souza Santos",
+                    "Gustavo Lopes Araújo"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de um serious game para orientar crianças portadoras de anemia falciforme sobre cuidados da doença",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renata Maria De Souza Santos",
+                    "Igo Amauri Dos Santos Luz",
+                    "Fernanda Castelo Branco De Santana"
+                ],
+                "financiador": "Instituto Federal da Bahia, Instituto Federal da Bahia,",
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Grupo de Pesquisa SSMART",
+                "natureza": "Outra",
+                "equipe": [
+                    "Renata Maria De Souza Santos",
+                    "Igo Amauri Dos Santos Luz",
+                    "Ana Carolina Teles",
+                    "Antonio Messias Lopes Cruz",
+                    "Flavio Pereira Silva",
+                    "George Pacheco Pinto",
+                    "José Carlos Couto Souza Júnior",
+                    "José Wilton Fonseca Da Silva",
+                    "Leandro Costa Souza",
+                    "Lúcio Mauro Souza Borges",
+                    "Marcelo Silva Santos",
+                    "Pedro Miguel De Sousa Santos",
+                    "Raul Marques Leite De Souza",
+                    "Ronald Souza De Jesus",
+                    "Virgínia Caetano Baumhardt",
+                    "Antônio Cleber De Sousa Araújo",
+                    "Ikaro Campos De Araújo",
+                    "Lauro Cássio Martins De Paula"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Católica de Pernambuco",
+                "nome": "Tecnologia de Distribuição de Objetos para a Construção de Sistemas Corporativos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renata Maria De Souza Santos",
+                    "Viviane Bastos",
+                    "Silvio Soares Bandeira"
+                ],
+                "ano_inicio": 1999,
+                "ano_fim": 2001
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUZA",
+                    "titulo": "R. M.,  Startups e IA",
+                    "ano": "2020",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUZA",
+                    "evento": "R. M.,  Curso de Capacitação em Empreendedorismo e Inovação Tecnológica",
+                    "ano": "2022",
+                    "duracao_semanas": "50",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "Santos, Carla Renata dos",
+                "titulo": "Passos, Messias Santos;  SOUZA, R. M.;  CIÊNCIAS BÁSICAS PARA O DESENVOLVIMENTO SUSTENTÁVEL",
+                "ano": "2023",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786553605015 (Publicado)."
+            },
+            {
+                "autores": "Cico, Orges",
+                "titulo": "BESKER, T.;  NGUYEN-DUC, A.;  MARTINI, A.;  SOUZA, R. M.;  BOSCH, J.;  Toward a Technical Debt Relationship with the Pivoting of Growth Phase Startups. Título do capítulo: Toward a Technical Debt Relationship with the Pivoting of Growth Phase Startups",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9783030914, Cham."
+            },
+            {
+                "autores": "Cico, Orges",
+                "titulo": "SOUZA, RENATA;  Jaccheri, Letizia;  Nguyen Duc, Anh;  MACHADO, IVAN;  Lecture Notes in Business Information Processing. Título do capítulo: Startups Transitioning from Early to Growth Phase - A Pilot Study of Technical Debt Perception",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9783030672911."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "FARIAS, ROSELANE SILVA",
+                "titulo": "DE SOUZA, RENATA MARIA;  MCGREGOR, JOHN D.;  DE ALMEIDA, EDUARDO SANTANA;  Designing smart city mobile applications",
+                "ano": "2019",
+                "periodico": "EMPIRICAL SOFTWARE ENGINEERING (DORDRECHT. ONLINE). ISBN: 15737616   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA, R. M.",
+                "titulo": "Cico, O",
+                "evento": "; MACHADO",
+                "local": "IVAN; A survey on the software engineering practices in brazilian software startups. 24th Iberoamerican Conference on Software Engineering, CIbSE 2021, San Jose",
+                "ano": "2021"
+            },
+            {
+                "autores": "DE SANTANA, LUCAS PEREIRA",
+                "titulo": "CAITANO, DÉBORA AYANE N",
+                "evento": "; DO VALE",
+                "local": "FILIPE FIUSA; NETO, DANIEL DE SANTANA; DA SILVA, SAMUEL SANTOS; Santos, Renata Maria de Souza; DE SANTANA, FERNANDA CASTELO B.; LUZ, IGO AMAURI DOS SANTOS; Desenvolvimento de serious game para crianças portadoras de anemia falciforme. Simpósio Brasileiro de Jogos e Entretenimento Digital, Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, FRANKLIN",
+                "titulo": "SOUZA, RENATA; MACHADO, IVAN; Taming and Unveiling Software Reuse opportunities through White Label Software in Startups",
+                "evento": "2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)",
+                "local": "Portoroz",
+                "ano": "2020"
+            },
+            {
+                "autores": "Cico, O.",
+                "titulo": "SOUZA, R",
+                "evento": "M.; JACCHERI",
+                "local": "L.; DUC, A. N.; Machado, I.; Startups transitioning from early to growth phase - A pilot study of technical debt perception. International Conference on Software Business (ICSOB), Karlskrona",
+                "ano": "2020"
+            },
+            {
+                "autores": "SOUZA, RENATA",
+                "titulo": "MALTA, KARLA; SILVA, ROSELANE; MASIERO, PAULO; ALMEIDA, EDUARDO; MACHADO, IVAN; A Case Study about Startups' Software Development Practices",
+                "evento": "the XVIII Brazilian Symposium",
+                "local": "Fortaleza",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOUZA, RENATA",
+                "titulo": "ROCHA, LARISSA; SILVA, FRANKLIN; MACHADO, IVAN; Investigating Agile Practices in Software Startups",
+                "evento": "the XXXIII Brazilian Symposium",
+                "local": "Salvador",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOUZA, RENATA",
+                "titulo": "MALTA, KARLA; ALMEIDA, EDUARDO SANTANA DE; Software Engineering in Startups: A Single Embedded Case Study",
+                "evento": "2017 IEEE/ACM 1st International Workshop on Software Engineeting for Startups (SoftStart)",
+                "local": "Buenos Aires",
+                "ano": "2017"
+            },
+            {
+                "autores": "SOUZA, R. M.",
+                "titulo": "Tecnologia de Orientação a Objeto para a Construção de Sistemas Corporativos",
+                "evento": "3a Jornada de Iniciação Científica",
+                "local": "Recife",
+                "ano": "2001"
+            },
+            {
+                "autores": "SOUZA, R. M.",
+                "titulo": "BASTOS, V",
+                "evento": "; Tecnologia de Orientação a Objeto para a Construção de Sistemas Corporativos. 2a Jornada de Iniciação Científica",
+                "local": "Recife",
+                "ano": "2000"
+            },
+            {
+                "autores": "SOUZA, R. M.",
+                "titulo": "BASTOS, V",
+                "evento": "; Tecnologia de Orientação a Objeto para a Construção de Sistemas Corporativos. 1ª Jornada de Iniciação Científica",
+                "local": "Recife",
+                "ano": "1999"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Alberto silva de Jesus",
+                "titulo": "Cad-Mototaxista: Desenvolvimento de um Sistema de Gestão Municipal para Autorização e Controle do Transporte por Motocicleta da SMTT",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "IFBA - Campus Santo Antônio de Jesus"
+            },
+            {
+                "orientando": "João Augusto Moura Peixoto de Jesus",
+                "titulo": "Arquimedes, um Agente de Transformação no Ensino de Matemática: Uma Proposta Baseada em IA.",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "IFBA - Campus Santo Antônio de Jesus"
+            },
+            {
+                "orientando": "Pallouvia Gonçalves de Deus",
+                "titulo": "A Cultura das Startups de Software",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ariane de Lima Santos",
+                "titulo": "O Capital Humano em Startup de Software",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Esmailde Perreira Santos",
+                "titulo": "Citocélulas: Jogo Eletrônico Voltado para o Ensino Médio sobre as Células Procariontes e Eucariontes",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Welker Santos Farias",
+                "titulo": "Engenharia de Software em Startups: Uma Análise sobre o Mercado",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Geovania Dias Barbosa",
+                "titulo": "Práticas de Engenharia de Software em Startups",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Henrique Souza de Souza",
+                "titulo": "Uma Análise sobre as Políticas Públicas que dão Suporte a Startups de Software",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Andreina Silva Macedo Cezar",
+                "titulo": "Experimento sobre a Eficiência do Uso de tecnologia da Informação aplicada no Ensino Médio",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Tarsila Carvalho Gonçalvez",
+                "titulo": "Engenharia de Software em Startups: Uma Análise sobre o Capital Financeiro",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Iara Reis da Silva",
+                "titulo": "Business Intelligence: Auxiliando a Análise de Dados dos Egressos do Campus Jacobina de 2016",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Tiago Ferreira Soares Pessoa",
+                "titulo": "Implantação do Scrum em Empresa Pública de Tecnologia da Informação",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro universitário Maurício de Nassau - Recife"
+            },
+            {
+                "orientando": "Edy Carlos de Oliveira Silva",
+                "titulo": "SHALAB: Sistema para Auxilio Laboratorial",
+                "ano": "2012",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Faculdade Escritor Osman da Costa Lins"
+            },
+            {
+                "orientando": "Ítalo Gustavo Gomes Barbosa",
+                "titulo": "Implantação do sistema integrado ERP na Cardeal Distribuidora",
+                "ano": "2010",
+                "curso": "Bacharelado em Sistema de Informação",
+                "instituicao": "Faculdade Escritor Osman da Costa Lins"
+            },
+            {
+                "orientando": "Lidiane Maria Albuquerque Bezerra",
+                "titulo": "Gerenciamento de Telecentros: Uma proposta para o Município de Cumaru-PE",
+                "ano": "2010",
+                "curso": "Bacharelado em Sistema de Informação",
+                "instituicao": "Faculdade Escritor Osman da Costa Lins"
+            }
+        ]
+    }
+}

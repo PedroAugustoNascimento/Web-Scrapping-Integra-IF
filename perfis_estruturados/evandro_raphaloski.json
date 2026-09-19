@@ -1,0 +1,613 @@
+{
+    "campus": "- Campus Niterói",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Mato Grosso do Sul",
+                "orientador": "Edson Takashi Matsubara",
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Escola de Engenharia de São Carlos-USP",
+                "titulo": "Estudo sobre a variação dos parâmetros do Tree Load Balancing Algorithm (TLBA)",
+                "orientador": "Maria Stela Veludo de Paiva",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Redes de Computadores",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "titulo": "Algoritmos de Balanceamento de Cargas em Sistemas Distribuídos",
+                "orientador": "Prof",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharias de Sistemas",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Prof",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Tecnologias e Sistemas de Informação",
+                "instituicao": "Universidade Federal do ABC",
+                "orientador": "Prof",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Segurança do Trabalho",
+                "instituicao": "SOCIEDADE DE ENSINO SUPERIOR ESTACIO RIBEIRAO PRETO LTDA",
+                "orientador": "Diogo Dutra Neto",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Faculdade Anhanguera de Ribeirão Preto",
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+                "ano_inicio": 1995,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Faculdade das Américas",
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Formação Pedagógica para Graduados não Licenciados em Matemática",
+                "instituicao": "Universidade de Franca",
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Smar Equipamentos Industriais Ltda",
+                "ano_inicio": 2001,
+                "ano_fim": 2013,
+                "funcao": "Engenheiro Eletrônico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+                "ano_inicio": 2000,
+                "ano_fim": 2000,
+                "funcao": "Disciplina",
+                "vinculo": "Discente",
+                "descricao": "Esta pesquisa foi desevolvida no laboratório LCQEE da FEIS-UNESP, sendo também considerada como um trabalho de formatura e com direito a créditos"
+            },
+            {
+                "empresa": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+                "ano_inicio": 1998,
+                "ano_fim": 1999,
+                "funcao": "Discente",
+                "vinculo": "Iniciação Científica",
+                "descricao": "Iniciação Científica tendo como orgão Financiador a FAPESP"
+            },
+            {
+                "empresa": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+                "ano_inicio": 1996,
+                "ano_fim": 1998,
+                "funcao": "Estagiário",
+                "vinculo": "Discente",
+                "descricao": ""
+            },
+            {
+                "empresa": "Lulea University Of Technology",
+                "ano_inicio": 1999,
+                "ano_fim": 2000,
+                "funcao": "TRAINEE",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto de Pesquisas Em Informática e Automação",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Analista de Telecomuniações Jr",
+                "vinculo": "Não informado",
+                "descricao": "A INFORMAT é uma Empresa do Grupo ERICSSON de Telecomunicações"
+            },
+            {
+                "empresa": "Universidade de São Paulo",
+                "ano_inicio": 1998,
+                "ano_fim": 1998,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Estágio obrigatório da FEIS-UNESP, realizado da Faculdade de Medicina de Ribeirão Preto (FMRP), Laboratório de Bioengenharia - USP"
+            },
+            {
+                "empresa": "Universidade Paulista",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Professor Adjunto",
+                "vinculo": "Celetista formal",
+                "descricao": "Responsável por ministrar nos cursos: - Administração (Laboratório de Tecnologia da Informação); - Gestão de Tecnologia da Informação (Organização Computadores; Redes de Computadores e Telecomunicações e Segurança da Informação); - Engenharia Elétrica (Laboratório de Física; Estatística Descritiva e Tópicos de Informática). - Ciências da Computação (Práticas de Gestão e Resultados; Tópicos de Atuação Profissional)"
+            },
+            {
+                "empresa": "Faculdade Anhanguera de Ribeirão Preto",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Professor Assistente",
+                "vinculo": "Celetista formal",
+                "descricao": "Responsável por ministrar a disciplinas nos Cursos: - Engenharia de Controle e Automação, disciplinas: Sistemas Hidraulicos e Pneumáticos; - Engenharia Elétrica, disciplinas de Sistemas Digitais e Instrumentação Eletrônica"
+            },
+            {
+                "empresa": "Centro Universitário UniSEB",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor EAD e Presencial",
+                "vinculo": "Não informado",
+                "descricao": "1) Responsável por ministrar aulas no Curso de Gestão de Tecnologia da Informação EAD nas disciplinas de: - Gestão de Redes e Internet ; - Projeto InterDisciplinar II. - Tutoria e plantões para os alunos do curso. - Revisão de livros. - Elaboração de cursos e palestras"
+            },
+            {
+                "empresa": "Universidade de Franca",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor Adjunto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de São Paulo",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor substituto na área de Automação-Eletrônica no IFSP-Araraquara",
+                "descricao": "nas disciplinas de eletrônica digital (curso tecnólogo em mecatrônica), microprocessadores (curso técnico em mecatrônica) e gestão e empreendedorismo (curso técnico em mecânica)"
+            },
+            {
+                "empresa": "EDC Consultoria em Engenharia de Projetos e Mecânica LTDA",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Engenheiro de Firmware III",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Claretiano - Faculdade",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Professor Assistente C",
+                "vinculo": "Não informado",
+                "descricao": "Professor das Disciplinas de: - Circuitos Elétricos II; - Laboratório de Circuitos Elétricos II; - Projeto de Engenharia Mecatrônica (Sistemas Microcontrolados)"
+            },
+            {
+                "empresa": "TES Tecnologia Sistemas e Comércio LTDA",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Analista de Desenvolvimento de Produto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "MTM Tecnologia Industrial LTDA",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Engenheiro Eletricista",
+                "vinculo": "- Atuar no setor de eletroeletrônica; - Realizar atividades de esquema elétrico",
+                "descricao": "programação em Ladder, configuração de CLPs, parametrização de drivers. - Executar e coordenar projetos elétricos de equipamentos eletromecânicos, cálculo, dimensionamentos, seleção de componentes e outras atividades relacionadas ao projeto e desenvolvimento de máquinas e dispositivos. - Responsável por elaborar, executar e orientar projetos de engenharia elétrica, preparando especificações, desenhos, técnicas de execução, recursos necessários e outros requisitos para possibilitar a construção, montagem, funcionamento, manutenção reparo de instalações e equipamentos eletromecânicos. - Experiência em programação CLP Micrologix 1100, 1200 e 1400 com entradas e saídas discretas, Allen Bradley. - Dimensionamento e posicionamento de chave de segurança, botões de emergência, relés de alertas em painéis. - Posicionamento de sensores indutivos e magnéticos (M8 e M12), cortinas de segurança, bem como, chave de intertravamento de segurança sem contato, tecnologia RFID, categoria de segurança 4, grau de proteção IP69K para proteção e segurança do operador atendendo especificações da NR12"
+            },
+            {
+                "empresa": "Instituto Federal do Triângulo Mineiro",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Bolsista do Programa e-Tec Brasil",
+                "vinculo": "Bolsista",
+                "descricao": "São atividades específicas do tutor a distância: - Exercer as atividades típicas de tutoria; - Assistir aos alunos nas atividades do curso; - Mediar a comunicação de conteúdos entre o professor e os cursistas; - Apoiar o professor da disciplina nas atividades do curso; - Acompanhar as atividades do ambiente virtual de aprendizagem (AVA); - Coordenar e corrigir as atividades a distância; - Elaborar os relatórios de regularidade dos alunos; - Estabelecer e promover contato permanente com os alunos; - Aplicar avaliações; - Elaborar os relatórios de desempenho dos alunos nas atividades; - Orientar os estudantes em trabalhos de conclusão de cursos e/ou monografias"
+            },
+            {
+                "empresa": "Kostal Eletromecânica",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "Analista Desenvolvimento Produtos Eletrônicos",
+                "vinculo": "Manter contato técnico com clientes e fornecedores. Fazer avaliações de especificações técnicas de clientes automotivos e de normas técnicas Brasileiras e Internacionais. Atuar com elaboração de especificações técnicas e documentações de produto. Fazer elaboração de projeto de Hardware",
+                "descricao": "elaboração de projeto de Software, baseado em modelos UML, elaboração de modelamento e simulação de software de produto utilizando MatLab. Analisar lotes iniciais de produção oferecendo suporte técnico e verificando possíveis falhas produtivas internas e nos clientes fornecendo dados para elaboração de documentos normativos. Dar suporte ao desenvolvimento de fornecedores, pesquisa de novos componentes e ferramentas de suporte do desenvolvimento. Efetuar melhoria contínua em produtos e/ou processos. Conhecimentos profundos da linguagem C, elaboração de plano de validação de projeto eletrônico, projeto de hardware digital e analógico, utilizando microprocessadores de 16 e 32 bits, utilizando as melhoras práticas do mercado. Conhecimento de processadores Renesas, critérios de avaliação técnica e econômica da solução"
+            },
+            {
+                "empresa": "MSX International",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Analista de Software Senior",
+                "vinculo": "- Desenvolvimento de software para painel de automóveis para montadoras. - Análise de problemas em software",
+                "descricao": "identificação e resolução. - Trabalhar com módulo de simulação e protocolo CAN. - Análise de depuração e linha de parâmetros de protocolos CAN / LIN para atender aos padrões específicos da empresa. - Uso de ferramentas eletrônicas de teste e análise (CANAnalyzer). - Linguagens de programação: linguagem C para microcontroladores Renesas da família Dx4 usando o compilador Green Hills Multi. - Gerenciamento de configuração: IBM Synergy, SVN, Git - Rastreamento de bugs: Jira - Outras ferramentas de desenvolvimento: Eclipse, Desenvolvedor e Configurador DaVinci, Geny, CANalyzer, CANdela. - Metodologia de desenvolvimento: SPICE (ciclo V)"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Professor Ensino Básico",
+                "vinculo": "Técnico",
+                "descricao": "Tecnológico"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Smar Equipamentos Industriais Ltda",
+                "nome": "Controlador HSE/AS-i",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Evandro Raphaloski"
+                ],
+                "financiador": "Smar Equipamentos Industriais Ltda,",
+                "ano_inicio": 2001,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Smar Equipamentos Industriais Ltda",
+                "nome": "Definição de conceitos, implementação em Visual C++, documentação, teste e manutenção de um \"embbeded framework\" para RTOS Windows 32-bit, Nucleus e Net+OS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Evandro Raphaloski",
+                    "Marcelo Barros De Almeida",
+                    "Lellis Do Amaral Campos Junior",
+                    "Daniel Teixeira De Andrade",
+                    "Vanderlei Luiz D Miranda"
+                ],
+                "ano_inicio": 2002,
+                "ano_fim": 2002
+            },
+            {
+                "instituicao": "Smar Equipamentos Industriais Ltda",
+                "nome": "Reengenharia do protocolo Modbus para implementação de novas funcionalidades e melhora na estabilidade do firmware",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Evandro Raphaloski"
+                ],
+                "ano_inicio": 2003,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de São Paulo",
+                "nome": "Desenvolvimento de Jogos com XNA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Evandro Raphaloski"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "RPGif - Uso de jogos de interpretação de papéis no IFMS",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Evandro Raphaloski",
+                    "Brunno Elias Ferreira",
+                    "Cainã Vinícius De Arruda",
+                    "Victor Britto Nunes Pinto",
+                    "Bianca Gabriele Sampaio De Matos"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul, Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS,",
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Soluções makers para uma educação disruptiva",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Evandro Raphaloski",
+                    "Hugo Eduardo Pimentel Motta Siscar",
+                    "Gustavo Yoshio Maruyama",
+                    "Roberto Ajala Da Costa Junior",
+                    "Carla Diandra Simão Da Silva",
+                    "Alex Dos Santos Silva",
+                    "Guilherme Pereira Biazoto"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul,",
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "Aplicativo de Monitoramento de COVID19",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Evandro Raphaloski",
+                    "Ana Elisa Da Silva Cunha"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "nome": "O uso de tecnologias digitais voltadas à educação de jovens e adultos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Evandro Raphaloski",
+                    "Angelino Caon",
+                    "Hugo Eduardo Pimentel Motta Siscar",
+                    "Angelo Lugo Junior",
+                    "Ketenen Elizielly Zorrilha De Oliveira",
+                    "Maria Zilma Feitosa",
+                    "Roseli Da Silva Alves",
+                    "Rosilangela Rezende Dos Santos",
+                    "Simaura Elias Nogueira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "RAPHALOSKI",
+                    "titulo": "Evandro,  CAMPOS JUNIOR, Lellis Do Amaral,  Wirelesshart Tecnologia Wireless para Instrumento de Campo",
+                    "ano": "2009",
+                    "instituicao_promotora": "ISA Campinas."
+                },
+                {
+                    "autores": "RAPHALOSKI",
+                    "titulo": "Evandro,  OLIVEIRA, Rodrigo A Nunes de,  Protótipo de um Compensador Estático do tipo reator controlado por tiristores para estudos laboratoriais",
+                    "ano": "1999",
+                    "instituicao_promotora": "UNESP."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "RAPHALOSKI",
+                    "evento": "Evandro,  OLIVEIRA, D. R.,  CORREA, A. M.,  FERREIRA, V. G.,  DURAN, R. S.,  CANTERO, S. V. A. B.,  SANTOS, L. F. S.,  FERREIRA, M. R.,  Hackathon IFMS - Multicampi",
+                    "ano": "2020",
+                    "duracao_semanas": "4",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul."
+                },
+                {
+                    "autores": "RAPHALOSKI",
+                    "evento": "Evandro,  XVIII Semana da Engenharia Elétrica",
+                    "ano": "1997",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UNESP."
+                },
+                {
+                    "autores": "RAPHALOSKI",
+                    "evento": "Evandro,  Venhas Nos Conhecer",
+                    "ano": "1997",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Estadual Paulista &quot;Júlio de Mesquita Filho&quot;."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "RAPHALOSKI, Evandro",
+                "titulo": "PAIVA, Maria Stela Veludo de;  Um Novo Simulador para o Algoritmo de Balanceamento de Carga denominado Tree Load Balancing Algorithm",
+                "ano": "2006",
+                "periodico": "INFOCOMP (UFLA. Impresso). ISBN: 18074545   ."
+            },
+            {
+                "autores": "RAPHALOSKI, Evandro",
+                "titulo": "PAIVA, Maria Stela Veludo de;  Aplicação das Políticas de Balanceamento de Carga do Tree Load Balancing Algorithm em Simulações",
+                "ano": "2006",
+                "periodico": "INFOCOMP (UFLA. Impresso). ISBN: 18074545   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "RAPHALOSKI, Evandro",
+                "titulo": "OLIVEIRA, Rodrigo A Nunes de; Protótipo de um Compensador Estático do tipo reator controlado por tiristores para estudos laboratoriais",
+                "evento": "Reunião de Iniciação Científica da FEIS",
+                "local": "Ilha Solteira",
+                "ano": "1999"
+            },
+            {
+                "autores": "RAPHALOSKI, Evandro",
+                "titulo": "OLIVEIRA, Rodrigo A Nunes de; Protótipo de um Compensador Estático do Tipo Reator Controlado por Tiristores para Estudos Laboratoriais",
+                "evento": "XI Congresso de Iniciação Científica",
+                "local": "Araraquara",
+                "ano": "1999"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Angelo Lugo Jr, Roseli S",
+                "titulo": "Alves e Rosilangela R. Santos.  Informática básica para jovens e adultos",
+                "ano": "2021",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Bianca G",
+                "titulo": "S. de Matos; Cainã V. Arruda; Victor B.N. Pinto.  RPGif - Uso de jogos de interpretação de papéis no IFMS",
+                "ano": "2021",
+                "curso": "Técnico em Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Ketenen E",
+                "titulo": "Z. Oliveira, Maria Z. Feitosa, Simaura E. Nogueira.  Android para terceira idade",
+                "ano": "2021",
+                "curso": "Técnico em Manutenção e Suporte em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul"
+            },
+            {
+                "orientando": "Tharles Ferreira Silva",
+                "titulo": "Governança em Tecnologia da Informação baseada na ITIL",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Lauro Cesar Ribeiro",
+                "titulo": "TI Verde e Virtualização",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Rogério Roberto",
+                "titulo": "Workflow: vantagens e desvantagens",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Jéssima Yumi de Lima",
+                "titulo": "Gestão Eficiente de Projetos",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Graziela Aparecida Campos de Almeida",
+                "titulo": "Por que usar gerenciamento de projetos em TI?",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Vinicius Mazoni",
+                "titulo": "Gerenciamento de projetos com excelência",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Sóstenes Antônio Sobrinho",
+                "titulo": "A Tecnologia da Informação e a Alfabetização Infantil",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Vanúbia Vieira de Lima",
+                "titulo": "Novas tecnologias, novas perspectivas",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Gustavo Alves Bastos",
+                "titulo": "Escopo - a importação da comunicação durante a sua elaboração",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Cíntia de Moura Luiz",
+                "titulo": "Como sistematizar o departamento de gestão de pessoas de uma empresa?",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Nasson Antonio de Oliveira",
+                "titulo": "Benefícios do ITIL",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Ciro Rodrigues Galvão Junior",
+                "titulo": "Gestão de projetos no terceiro setor",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Luis Antônio da Conceição Carvalho",
+                "titulo": "COBIT",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "José Fabrício Vieira da Silva",
+                "titulo": "COBIT orientado a pequenos negócios",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Alex Junior Ferracini",
+                "titulo": "Metodologia de Projetos",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Samuel José de Paula Neto",
+                "titulo": "ITIL",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Euri Araujo de Paula",
+                "titulo": "Gestão de Serviços de TI Utilizando ITIL",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Helder Donda Ferreira",
+                "titulo": "Gestão de processos: alinhando o estratégico ao operacional",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Paulo César Baia Cardoso",
+                "titulo": "Governança de TI baseado na ITIL",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            },
+            {
+                "orientando": "Letícia Nunes Baco",
+                "titulo": "Governança de TI aplicada ao gerenciamento de projetos",
+                "ano": "2013",
+                "curso": "Gestão de Tecnologia da Informação",
+                "instituicao": "Centro Universitário UniSEB"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0007050528656691313,
+            "indian": 0.0030668273102492094,
+            "black": 5.5863827583380044e-05,
+            "white": 96.4406967163086,
+            "middle eastern": 1.773594617843628,
+            "latino hispanic": 1.7818701267242432
+        }
+    }
+}

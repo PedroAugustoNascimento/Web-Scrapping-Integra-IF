@@ -1,0 +1,106 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "periodo": "2023",
+                "instituicao": "Universidade Federal de Goiás",
+                "orientador": "Fabrízzio Alphonsus Alves de Melo Nunes Soares"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "periodo": "2019 - 2022",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "A Comparative Study of Text Classification Techniques for Hate Speech Detection",
+                "orientador": "Thierson Couto Rosa"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Currículo e Prática Docente nos Anos Iniciais",
+                "periodo": "2023 - 2023",
+                "instituicao": "Universidade Federal do Piauí"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "periodo": "2011 - 2018",
+                "instituicao": "Universidade Federal de Goiás"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "periodo": "2020 - 2021",
+                "cargo": "Estagiário Docente, Bolsista, Estagiário Docente nas disciplinas de \"Compiladores\" e \"Compiladores 1\" para os cursos de graduação de Ciência da Computação e Engenharia da Computação, respectivamente.."
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "periodo": "2012 - 2012",
+                "cargo": "Monitor de Cálculo 1, Bolsista."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
+                "periodo": "2022 - 2023",
+                "cargo": "Professor, Disciplinas Ministradas : Banco de Dados; Linguagem de Programação; Fundamentos e Operação de Computadores; Introdução à Engenharia de Computadores; Arquitetura de Computadores; Compiladores; Programação Básica; Linguagens Formais e Autômatos; Sistemas Operacionais; Linguagens e Técnicas para Programação.."
+            },
+            {
+                "empresa": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+                "periodo": "2024",
+                "cargo": "PROFESSOR EBTT, Professor do Ensino Básico, Técnico e Tecnológico do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Valença, na área de Ciência da Computação, ministrando disciplinas nos cursos superiores de Análise e Desenvolvimento de Sistemas e Licenciatura em Computação, e para o curso técnico integrado em Informática.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C. C.,  FERNANDES, D. S. A.,  FERNANDES, M. G. C.,  Caracterização De Mensagens Em Lingua Portuguesa Com Traços De Racismo No Twitter",
+                    "ano": "2018",
+                    "instituicao_promotora": "Escola Regional de Informática de Goiás."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C. C.,  FERNANDES, D. S. A.,  FERNANDES, M. G. C.,  Racismo Em Tweets De Língua Portuguesa",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Federal de Goias."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.658727645874023,
+            "indian": 9.223613739013672,
+            "black": 11.57824993133545,
+            "white": 19.875850677490234,
+            "middle eastern": 15.77393627166748,
+            "latino hispanic": 33.88962936401367
+        }
+    }
+}

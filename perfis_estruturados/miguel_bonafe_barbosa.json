@@ -1,0 +1,121 @@
+{
+    "campus": "- Campus Manaus Centro",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Universidade do Minho",
+                "titulo": "Desenvolvimento de uma aplicação informática para a criação de Diagramas de Identificação de Desperdícios",
+                "orientador": "José Dinis de Araújo Carvalho",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "ANALISE DE SISTEMAS",
+                "instituicao": "Centro Universitário FECAP",
+                "ano_inicio": 1990,
+                "ano_fim": 1992
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Processamento de Dados",
+                "instituicao": "Universidade de Taubaté",
+                "ano_inicio": 1987,
+                "ano_fim": 1990
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2002,
+                "ano_fim": null,
+                "funcao": "PROFESSOR",
+                "vinculo": "PROFESSOR DE ENSINO BÁSICO",
+                "descricao": "TÉCNICO E TECNOLO"
+            },
+            {
+                "empresa": "Instituto Don Adalberto Marzi - IDAM",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Desenvolvimento",
+                "descricao": "Manutenção e suporte a sistemas de informação"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  Sistema de Apoio ao Processo de Solitação/Entrega de Bens/Serviços",
+                    "ano": "2009",
+                    "finalidade": "Apoio ao Processo de Solitação e Entrega de Bens ou Serviços."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA ATEND",
+                    "ano": "2007",
+                    "finalidade": "Apoio organizacional aos restaurantes populares administrados pelo Governo do Estado do Amazonas."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA BORUN",
+                    "ano": "2006",
+                    "finalidade": "Sistema para arquivamento de imagens em banco de dados."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA DE FATURAMENTO",
+                    "ano": "1995",
+                    "finalidade": "Emissão de N,F., Boleto Bancário."
+                },
+                {
+                    "autor": "BARBOSA",
+                    "software": "M. B.,  SISTEMA DE FATURAMENTO E DUPLICATA",
+                    "ano": "1994",
+                    "finalidade": "Emissão de N,F. e Duplicata."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jonathas da Silva Pessoa",
+                "titulo": "Sistema Analisador de Dióxido de Nitrogenio SANO2",
+                "ano": "2007",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.8980870246887207,
+            "indian": 6.787408351898193,
+            "black": 0.5119915008544922,
+            "white": 29.864728927612305,
+            "middle eastern": 41.62995910644531,
+            "latino hispanic": 19.307828903198242
+        }
+    }
+}

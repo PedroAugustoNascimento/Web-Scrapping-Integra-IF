@@ -1,0 +1,513 @@
+{
+    "campus": "- Campus Natal - Zona Leste (EaD)",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Estratégias de Busca Reativa Utilizando Aprendizagem por Reforço e Algoritmos de Busca Local",
+                "orientador": "Jorge Dantas de Melo",
+                "ano_inicio": 2010,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Uma Implementação Paralela Híbrida para o Problema do Caixeiro Viajante Usando Algoritmos Genéticos, GRASP e Aprendizagem por Reforço",
+                "orientador": "Jorge Dantas de Melo",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado Em Sistemas de Informação",
+                "instituicao": "Faculdade Natalense Para o Desenvolvimento do RN",
+                "ano_inicio": 2001,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Caixa",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Contrato temporário",
+                "vinculo": "Não informado",
+                "descricao": "Neste projeto trabalhei na função de projetista de sistemas. O projeto foi desenvolvido na Caixa Econômica Federal de Brasília"
+            },
+            {
+                "empresa": "Faculdade Natalense Para o Desenvolvimento do RN",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "DIV-I",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "bolsista",
+                "vinculo": "Doutorando",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação para o Desenvolvimento Científicio e Tecnológico em Saúde",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Revista Brasileira de Inovação Tecnologica em Saúde",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de corpo editorial"
+            },
+            {
+                "empresa": "EXPERT SYSTEMS WITH APPLICATIONS",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Caixa",
+                "nome": "Desenvolvimento de um sistema distribuido em uma arquitetura cluster aplicado ao sistema de loterias da Caixa Econômica Federal",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos"
+                ],
+                "financiador": "Caixa Econômica Federal,",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "e-Guia: Sistema para Prover Autonomia e Acessibilidade aos Deficientes Visuais nos Serviços de Transportes Urbanos",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Glaucio Bezerra Brandão",
+                    "Bruno Gomes De Araújo",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "João Marcos Teixeira Lacerda",
+                    "Danilo Alves Pinto Nagem",
+                    "Jose Diniz Junior",
+                    "Francis Solange Vieira Tourinho"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Plataforma Integrada Da Rede Observatório Nacional De Recursos Humanos Em Saúde Do Brasil E Dos Profissionais De Saúde Do Mercosul E Da Rede De Negociação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Robinson Luís De Souza Alves"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Cursos de Capacitação em Codificação em Causa Básica do Óbito - CID 10",
+                "natureza": "Extensão",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Robinson Luís De Souza Alves",
+                    "Karilany Dantas Coutinho",
+                    "Aldiney José Doreto"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Construção e Desenvolvimento de uma Caneta a Plasma para Tratamento da Cárie Dentária",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Custodio Leopoldino De Brito Guerra Neto",
+                    "Antonio Higor Freire De Morais",
+                    "Karilany Dantas Coutinho",
+                    "Agnaldo Souza Cruz",
+                    "Ângelo Roncalli Oliveira Guerra",
+                    "João Marcos Teixeira Lacerda"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo De Viabilidade De Dispositivo Biomédico Para Detecção De Câncer Baseado Em MICRORNA: Internacionalização Do Complexo Industrial De Saúde",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Antonio Higor Freire De Morais",
+                    "Agnaldo Souza Cruz"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo Para Desenvolvimento Em Escala Industrial, Validação Pré-Clínica E Homologação Do Osseus - Dispositivo Biomédico Para Auxílio No Diagnóstico De Doenças Osteometabólicas.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Antonio Higor Freire De Morais",
+                    "Karilany Dantas Coutinho",
+                    "Agnaldo Souza Cruz"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Plataforma Para o Programa Nacional de Melhoria do Acesso e da Qualidade da Atenção Básica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Antonio Higor Freire De Morais",
+                    "Pablo Holanda Cardoso",
+                    "Agnaldo Souza Cruz",
+                    "Milena Cristina Duarte De Almeida",
+                    "Jordana Crislayne De Lima Paiva"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Segundo Cursos de Capacitação em Codificação em Causa Básica do Óbito - CID 10",
+                "natureza": "Extensão",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Karilany Dantas Coutinho",
+                    "Aldiney José Doreto"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Curso de Auto-instrucional na Modalidade à Distância em Telessaúde: Teleconsultoria e Teleregulação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Glaucio Bezerra Brandão",
+                    "Bruno Gomes De Araújo",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Jose Diniz Junior",
+                    "Rosiane Viana Zuza Diniz",
+                    "Robinson Luís De Souza Alves",
+                    "Custodio Leopoldino De Brito Guerra Neto",
+                    "Antonio Higor Freire De Morais",
+                    "Hélio Roberto Hekis"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "E-Guia: Sistema para Prover Autonomia e Acessibilidade aos Deficientes Visuais nos Serviços de Transportes Urbanos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ana Maria Guimarães Guerreiro",
+                    "Glaucio Bezerra Brandão",
+                    "Bruno Gomes De Araújo",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Jailton Barbosa Dos Santos",
+                    "Sidney Soares Trindade"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Projeto de Telessáude-RN: Continuidade e Expansão para os Município do Provab RN E PB",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Jose Diniz Junior",
+                    "Rosiane Viana Zuza Diniz",
+                    "Francis Solange Vieira Tourinho"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Desenvolvimento De Um Middleware Sensível Ao Contexto Para Gerenciamento De Dados Em Tempo-Real Utilizando Dispositivos Móveis Em Ambientes Hospitalares",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Jorge Dantas De Melo",
+                    "Adriao Duarte Doria Neto",
+                    "Ana Maria Guimarães Guerreiro",
+                    "Glaucio Bezerra Brandão",
+                    "Bruno Gomes De Araújo",
+                    "Cicília R. M. Leite",
+                    "Pedro Fernandes Ribeiro Neto",
+                    "Yaskara Ygara Menescal Pinto Fernandes",
+                    "Gláucia Regina Medeiros Azambuja Sizilio",
+                    "Aquiles Medeiros Filgueira Burlamaqui",
+                    "Ricardo Alexsandro De Medeiros Valentim"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Projeto Telerregulação e Mais Especialidades",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Bruno Gomes De Araújo",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Danilo Alves Pinto Nagem",
+                    "Jose Diniz Junior",
+                    "Robinson Luís De Souza Alves",
+                    "Custodio Leopoldino De Brito Guerra Neto",
+                    "Antonio Higor Freire De Morais",
+                    "Ricardo Fernando Arrais",
+                    "Karilany Dantas Coutinho",
+                    "Hertz Wilton De Castro Lins",
+                    "Irami Araújo Filho"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "AVA-SUS: Desenvolvimento de um Sistema Integrado de Ambientes Virtuais de Aprendizagem para o Ministério Da Saúde",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Glaucio Bezerra Brandão",
+                    "Bruno Gomes De Araújo",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Robinson Luís De Souza Alves",
+                    "Philippi Sedir Grilo De Morais",
+                    "Custodio Leopoldino De Brito Guerra Neto",
+                    "Hélio Roberto Hekis",
+                    "Pablo Holanda Cardoso",
+                    "Marcel Da Câmara Ribeiro Dantas",
+                    "Rodrigo Dantas Da Silva",
+                    "Karilany Dantas Coutinho",
+                    "Pedro Henrique Germano Evangelista"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Projeto Aplicado a Formação no SUS para o Mais Médicos e o Mais Especialidades",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Robinson Luís De Souza Alves"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Pesquisa Aplicada a Implementação de Processos Educacionais em Sistemas Integrados de Informação e Comunicação em Saúde",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Paulo Queiroz Dos Santos",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Robinson Luís De Souza Alves"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SANTOS",
+                    "software": "João Paulo Q. dos,  Sistema de submissão de artigos via web",
+                    "ano": "2003",
+                    "finalidade": "Provê a gerência de artigos para a submissão em eventos."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "VALENTIM, R. A. M.",
+                "titulo": "SANTOS, João Paulo Q. dos;  ALVES, R. L. S.;  COUTINHO, K. D.;  GUERRA NETO, C. L. B.;  Papaiz, F.;  DANTAS, M. C. R.;  SILVA, R. D.;  ARAUJO, B. G.;  Gestão de recursos humanos em saúde mediada por tecnologia: seguindo a trilha da inovação",
+                "ano": "2018",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788593839177, Natal (Publicado)."
+            },
+            {
+                "autores": "VALENTIM, R. A. M.",
+                "titulo": "GUERRA NETO, C. L. B.;  SANTOS, João Paulo Q. dos;  SILVA NETO, J. H. V.;  LIMA, J. R. F.;  MEDEIROS, K. C.;  DANTAS, L. G.;  FREIRE, M. V. R.;  LOIOLA, A. A.;  Sistema de monitoramento e avaliação da integração ensino saúde",
+                "ano": "2017",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788593839467, Natal (Publicado)."
+            },
+            {
+                "autores": "VALENTIM, R. A. M.",
+                "titulo": "SANTOS, J. P. Q.;  ALVES, R. L. S.;  SILVA NETO, J. H. V.;  ARAUJO, B. G.;  SILVA, R. D.;  Cadastro nacional de especialistas",
+                "ano": "2016",
+                "informacoes_adicionais": "Impresso. ISBN: 9788593839849, Natal (Publicado)."
+            },
+            {
+                "autores": "FIRMINO FILHO, J. M.",
+                "titulo": "SANTOS, J. P. Q.;  VALENTIM, R. A. M.;  NOBREGA, G. A. S.;  DANTAS, M. C. R.;  MORAIS, A. H. F.;  ARAUJO, B. G.;  A telessaúde no Brasil e a inovação tecnológica na atenção primária. Título do capítulo: LCD-OpenPACS: Sistema Integrado de Eleradiologia com Auxílio o Diagnóstico de Câncer de Pulmão em Exames de Tomografia Computadorizada",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9788570640406, Natal."
+            },
+            {
+                "autores": "DANTAS, M. C. R.",
+                "titulo": "ALVES, R. L. S.;  LIMEIRA, M. V. P. M.;  GUILAYN, P. M.;  QUEIROZ, D. F.;  SANTOS, J. P. Q.;  CARDOSO, P. H.;  VALENTIM, R. A. M.;  Gestão de recursos humanos em saúde mediada por tecnologia: seguindo a trilha da inovação. Título do capítulo: Plataforma de Livre-Trânsito de profissionais de Saúde no Mercosul",
+                "ano": "2017",
+                "informacoes_adicionais": "ISBN: 9788593839177, Natal."
+            },
+            {
+                "autores": "VALENTIM, R. A. M.",
+                "titulo": "ALVES, R. L. S.;  SANTOS, João Paulo Q. dos;  TRINDADE, S. S.;  ARAUJO, B. G.;  MORAIS, P. S. G.;  PAIVA, J. C.;  BARROS, D. M. S.;  Tecnologias Assistivas ? Experiências e Desafios. Título do capítulo: E-Guia: Sistema de Acessibilidade para Deficientes Visuais no Serviço de Transporte Urbano",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9788576120733, Mossoró/RN."
+            },
+            {
+                "autores": "SANTOS, João Paulo Q. dos",
+                "titulo": "LIMA JUNIOR, F. C.;  MAGALHAES, M.;  MELO, J. D.;  DORIA NETO, A. D.;  Computational Intelligence in Expensive Optimization Problems. Título do capítulo: A Parallel Hybrid Implementation Using Genetic Algorithms, GRASP and Reinforcement Learning for the Salesman Traveling Problem",
+                "ano": "2010",
+                "informacoes_adicionais": "ISBN: 9783642107009, New York."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "ROCHA, MARCELLA ANDRADE DA",
+                "titulo": "MORAIS, PHILIPPI SEDIR GRILO DE;  BARROS, DANIELE MONTENEGRO DA SILVA;  SANTOS, JOÃO PAULO QUEIROZ DOS;  DIAS-TRINDADE, SARA;  VALENTIM, RICARDO ALEXSANDRO DE MEDEIROS;  A text as unique as a fingerprint: Text analysis and authorship recognition in a Virtual Learning Environment of the Unified Health System in Brazil",
+                "ano": "2022",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "FERREIRA, MATHEUS A. C.",
+                "titulo": "SALES-MOIOLI, ANA ISABELA L.;  BARROS, DANIELE M. S.;  ALBUQUERQUE, GABRIELA A.;  ALVES, LUCA P. C. F.;  TEIXEIRA, CÉSAR A. D.;  HENRIQUES, JORGE M. O.;  GIL, PAULO;  GUSMÃO, CRISTINE M. G.;  VALENTIM, RICARDO A. M.;  CARVALHO, DIONÍSIO D. A.;  CRUZ, AGNALDO S.;  COUTINHO, KARILANY D.;  OLIVEIRA, CARLOS A. P.;  MORAIS, ANTONIO H. F.;  SANTOS, JOÃO PAULO Q.;  MAYRINK, NADJA N. V.;  GALVÃO-LIMA, LEONARDO J.;  Development of technologies to support the diagnosis of infectious diseases and cancer to support the primary health care",
+                "ano": "2022",
+                "periodico": "RESEARCH ON BIOMEDICAL ENGINEERING. ISBN: 24464740   ."
+            },
+            {
+                "autores": "PINHEIRO, BRUNO DE MELO",
+                "titulo": "CAMPOS, ANTÔNIO LUIZ PEREIRA DE SIQUEIRA;  DE CARVALHO, DIONÍSIO DIAS AIRES;  CRUZ, AGNALDO SOUZA;  DE MEDEIROS VALENTIM, RICARDO ALEXSANDRO;  VERAS, NICOLAS VINÍCIUS RODRIGUES;  DOS SANTOS, JOÃO PAULO QUEIROZ;  The influence of antenna gain and beamwidth used in OSSEUS in the screening process for osteoporosis",
+                "ano": "2021",
+                "periodico": "Scientific Reports. ISBN: 20452322   ."
+            },
+            {
+                "autores": "SANTOS, João Paulo Q. dos",
+                "titulo": "MELO, J. D.;  DORIA NETO, A. D.;  ALOISE, D.;  Reactive Search strategies using Reinforcement Learning, Local Search algorithms and Variable Neighborhood Search",
+                "ano": "2014",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "MORAIS, P. S. G.",
+                "titulo": "SANTOS, J. B.;  BARROS, D. M. S.;  VALENTIM, R. A. M.;  ALVES, R. L. S.;  Lacerda, João M. T.;  SANTOS, João Paulo Q. dos;  TRINDADE, S. S.;  GUERRA NETO, C. L. B.;  Nagem, Danilo A. P.;  E-GUIA: SISTEMA PARA PROVER MOBILIDADE E ACESSIBILIDADE AOS DEFICIENTES VISUAIS NOS SERVIÇOS DE TRANSPORTES URBANOS",
+                "ano": "2013",
+                "periodico": "Revista Brasileira de Inovação Tecnologica em Saúde. ISBN: 22361103   ."
+            },
+            {
+                "autores": "SANTOS, João Paulo Q. dos",
+                "titulo": "LIMA JUNIOR, F. C.;  MAGALHAES, M.;  MELO, J. D.;  DORIA NETO, A. D.;  A Parallel Hybrid Implementation Using Genetic Algorithm, GRASP and Reinforcement Learning",
+                "ano": "2009",
+                "periodico": "International Joint Conference on Neural Networks. Proceedings. ISBN: 10987576   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, João Paulo Q. dos",
+                "titulo": "Um componente Java para Upload arquivo via protocolo HTTP: Uma soluçao baseada em servidores WEB",
+                "evento": "56ª RA SBPC",
+                "local": "Cuiabá",
+                "ano": "2004"
+            },
+            {
+                "autores": "SANTOS, João Paulo Q. dos",
+                "titulo": "Sistema de Acompanhamneto do Processo de Avaliação de Artigos Científicos Via Web - SSANET",
+                "evento": "IV Congresso de Iniciação Científica da FARN",
+                "local": "Natal",
+                "ano": "2004"
+            },
+            {
+                "autores": "SANTOS, João Paulo Q. dos",
+                "titulo": "Trabalhando Imagens com Java 2D",
+                "evento": "IV Congresso de Iniciação Científica da FARN",
+                "local": "Natal",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Lucas Gabriel Amaro Pereira",
+                "titulo": "Proposta de Arquitetura de prontuário eletrônico do paciente odontológico unificado.",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Ana Maria Jeronimo Soares",
+                "titulo": "Sistema de checagem de reviso&#771;es veiculares: uma proposta de suporte a&#768; gesta&#771;o da qualidade em empresas concessiona&#769;rias",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00042267394019290805,
+            "indian": 0.0003624940582085401,
+            "black": 6.924884019099409e-06,
+            "white": 98.48645782470703,
+            "middle eastern": 0.6244372725486755,
+            "latino hispanic": 0.888313353061676
+        }
+    }
+}

@@ -1,0 +1,623 @@
+{
+    "campus": "- Campus Rio Verde",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Eletrônica e Computação",
+                "instituicao": "Instituto Tecnológico de Aeronáutica",
+                "titulo": "Redes complexas e autômatos celulares aplicados à criptografia",
+                "orientador": "Carlos Henrique Costa Ribeiro",
+                "ano_inicio": 2010,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Um novo método criptográfico baseado no cálculo de pré-imagens de autômatos celulares caóticos, não-homogêneos e não-aditivos",
+                "orientador": "Prof",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade de Rio Verde",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade de Rio Verde",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Monitor em disciplinas",
+                "vinculo": "Aluno da Instituição",
+                "descricao": "Ministrava aulas de reforço para as disciplinas de Introdução a Ciência da Computação II, Estrutura de Dados I e II"
+            },
+            {
+                "empresa": "Universidade de Rio Verde",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Projetista e Pesquisador",
+                "vinculo": "Aluno da Instituição",
+                "descricao": "Trabalhos de Pesquisa e projetos desenvolvidos pelo NUPEC - Núcleo de Pesquisa em Computação"
+            },
+            {
+                "empresa": "Universidade Federal de Uberlândia",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Pesquisador",
+                "vinculo": "Aluno - Prog. de Pós-Graduação",
+                "descricao": "Cursando mestrado em inteligência artificial"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "Cursando disciplinas",
+                "vinculo": "Aluno - Prog. Pós-Graduação",
+                "descricao": "Aluno especial das disciplinas: \"Inteligência artificial simbólica\" e \"inteligência artificial conexionista\""
+            },
+            {
+                "empresa": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Cursando disciplinas",
+                "vinculo": "Aluno - Prog. Pós-Graduação",
+                "descricao": "Aluno especial das disciplinas: \"PDS - Processamento Digital de Sinais\", \"VHDL - Linguagem de descrição de hardware\", \"Algebra Linear\" e \"Sistemas computacionais de alto desempenho\""
+            },
+            {
+                "empresa": "Instituto Superior de Educação Almeida Rodrigues",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Professor Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Estadual de Goiás",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Professor Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "ano_inicio": 2008,
+                "ano_fim": 2019,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Tecnológico de Aeronáutica",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Pesquisador",
+                "vinculo": "Não informado",
+                "descricao": "Aluno - Prog. de Pós-Graduação"
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Goiano\nEnsino-medio (2019) .\nGraduacao (2019) - Ciência Da Computação.\nTreinamento Ministrado: Universidade de Rio Verde\n(2002 - 2003) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Uberlândia",
+                "nome": "Estudos em Computação Evolutiva e Autômatos Celulares",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo Vidica",
+                    "Heverton Barros De Macêdo",
+                    "Gina Maira Barbosa De Oliveira",
+                    "José Carlos Bortot",
+                    "Maria Cazuho Saito Takiguti",
+                    "Sandra Regina Cardoso Siqueira",
+                    "Marcelo Jorge Leão De Lima",
+                    "Laurence Amaral",
+                    "Guilherme Godói Da Silva",
+                    "Jaqueline A. J. Papini",
+                    "Hélder R. G. Linhares"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Fundação de Amparo à Pesquisa do Estado de Minas Gerais,",
+                "ano_inicio": 2005,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Federal de Uberlândia",
+                "nome": "Computação Bio-inspirada (CompBio): estudos e aplicações",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heverton Barros De Macêdo",
+                    "Gina Maira Barbosa De Oliveira",
+                    "Alexsandro Mariano",
+                    "Alécio Dantas",
+                    "Paulo Vidica",
+                    "Laurence Amaral",
+                    "Stéfano Vale Vita",
+                    "Marcos Luiz Bueno",
+                    "Tarcísio Abadio De Magalhães Júnior",
+                    "Laura Barbosa De Carvalho",
+                    "Enrique Fynn"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Universidade Federal de Uberlândia",
+                "nome": "Evolução de Autômatos Celulares para Resolução de Tarefas Computacionais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heverton Barros De Macêdo",
+                    "Gina Maira Barbosa De Oliveira",
+                    "Alexsandro Mariano",
+                    "Alécio Dantas"
+                ],
+                "financiador": "Universidade Federal de Uberlândia, Conselho Nacional de Desenvolvimento Científico e Tecnológico, Fundação de Amparo à Pesquisa do Estado de Minas Gerais, Fundação de Amparo à Pesquisa do Estado de Minas Gerais,",
+                "ano_inicio": 2006,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "nome": "XIII Secomp",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Heverton Barros De Macêdo",
+                    "Roney Lopes Lima",
+                    "Aladir Ferreira Da Silva Júnior",
+                    "Rafael Prado De Castro",
+                    "Danillo Vaz Borges De Assis",
+                    "Sérgio Henrique De Almeida",
+                    "Renato Oliveira Abreu",
+                    "Leizer Fernandes Moraes",
+                    "Fabrício Vieira Campos",
+                    "Jaqueline Fassini",
+                    "Thiago Silva Da Luz"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Implantação e Consolidação do Centro de Excelência em Agricultura Exponencial - CEAGRE",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Heverton Barros De Macêdo",
+                    "Alan Carlos Da Costa",
+                    "Leandro Rodrigues Da Silva Souza",
+                    "Angélica Ferreira Melo",
+                    "Patrícia Gouveia Nunes",
+                    "Adriano Jakelaitis",
+                    "Bruno De Oliveira Costa Couto",
+                    "Silvia Ferreira Marques Salustiano",
+                    "José Milton Alves"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "PAZ",
+                    "software": "W. J.,  MACÊDO, H. B.,  SGTCC - Sistema Gerenciador de Trabalho de Conclusão de Curso",
+                    "ano": "2015",
+                    "finalidade": "Gestão dos trabalhos de conclusão de curso."
+                },
+                {
+                    "autor": "MACÊDO",
+                    "software": "H. B.,  ASSIS, D. V. B.,  ABREU, R. O.,  Gerenciamento de Eventos - IFG / Câmpus Jataí",
+                    "ano": "2010",
+                    "finalidade": "Gerenciamento de Eventos."
+                },
+                {
+                    "autor": "BORGES",
+                    "software": "F. F.,  MACÊDO, H. B.,  Borges, V. C. M.,  Um Sistema para Gerenciamento de Eventos on line - SGE",
+                    "ano": "2003",
+                    "finalidade": "Programa de gerenciamento de eventos (desde controle de frequência utilizando código de barras até a parte finaceira do evento, incluido inscrições e outros)."
+                },
+                {
+                    "autor": "MACÊDO",
+                    "software": "H. B.,  SILVA, R. S.,  Proposta de desenvolvimento de uma ferramenta para teste estrutural de aplicações",
+                    "ano": "2003",
+                    "finalidade": "Aplicar teste estrutural em aplicativos desenvolvidos em linguagem C."
+                },
+                {
+                    "autor": "MACÊDO",
+                    "software": "H. B.,  SILVA, R. S.,  E-Sell - (Comércio Eletrônico)",
+                    "ano": "2001",
+                    "finalidade": "Programa com o propósito de efetuar vendas on-line."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MACÊDO",
+                    "curso": "H. B.,  Utilizando o Linux MINICOM",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "MACÊDO",
+                    "curso": "H. B.,  Orientações sobre o Projeto MINICOM e uso do Metasys",
+                    "ano": "2010"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "RIBEIRO",
+                    "evento": "A. C.,  OLIVEIRA, D. C.,  MACÊDO, H. B.,  BELO FILHO, M. A. F.,  MENDONCA, R. C.,  ARAUJO, A. J.,  AMORIM, M. J.,  3º Abobora Contest",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia Goiano."
+                },
+                {
+                    "autores": "MACÊDO",
+                    "evento": "H. B.,  Lima, R. L.,  ALMEIDA, S. H.,  SILVA JUNIOR, A. F.,  ASSIS, D. V. B.,  RAIMANN, E.,  CAMPOS, F. V.,  COSTA, G. A.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  XIII SECOMP - Semana de Computação",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás."
+                },
+                {
+                    "autores": "ASSIS",
+                    "evento": "C. F. S.,  Lima, R. L.,  LOPES, S. C. A.,  CURADO, T. S.,  BRAGA, C. C.,  SILVA, E. G.,  PEREIRA, F. S.,  MACÊDO, H. B.,  FARIA, J. C. S.,  LEMOS, L. S.,  SOUZA, M. S.,  SOUZA, R. R.,  XXI Semana Técnico-Científico-Cultural do IFG-Câmpus Jataí",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFG-Câmpus Jataí."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  ALMEIDA, S. H.,  COSTA, G. A.,  ASSIS, D. V. B.,  RAIMANN, E.,  CAMPOS, F. V.,  MACÊDO, H. B.,  MORAES, L. F.,  ABREU, R. O.,  Lima, R. L.,  CASTRO, R. P.,  XII SECOMP - Semana de Computação",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "G. A.,  ALMEIDA, S. H.,  CAMPOS, F. V.,  SILVA JUNIOR, A. F.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  Lima, R. L.,  II Seminário de Pesquisa em Computação",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  VILELA, F. A.,  CAMPOS, F. V.,  COSTA, G. A.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  Lima, R. L.,  ALMEIDA, S. H.,  XI SECOMP - Semana da Computação",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  VILELA, F. A.,  COSTA, G. A.,  Lima, R. L.,  ASSIS, D. V. B.,  RAIMANN, E.,  CAMPOS, F. V.,  MACÊDO, H. B.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  ALMEIDA, S. H.,  I Seminário de Pesquisa em Computação",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                },
+                {
+                    "autores": "CASTRO",
+                    "evento": "R. P.,  SILVA JUNIOR, A. F.,  CAMPOS, F. V.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  ABREU, R. O.,  Lima, R. L.,  ALMEIDA, S. H.,  X Secomp - Semana da Computaçao",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  Lima, R. L.,  ALMEIDA, S. H.,  IX Secomp - Semana da Computaçao",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  ASSIS, D. V. B.,  RAIMANN, E.,  MACÊDO, H. B.,  MORAES, L. F.,  CASTRO, R. P.,  ABREU, R. O.,  Lima, R. L.,  ALMEIDA, S. H.,  VIII Secomp - Semana da Computaçao",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                },
+                {
+                    "autores": "ABREU",
+                    "evento": "R. O.,  SILVA, M. D.,  ALMEIDA, S. H.,  ASSIS, D. V. B.,  CASTRO, R. P.,  Lima, R. L.,  MACÊDO, H. B.,  MORAES, L. F.,  RAIMANN, E.,  SILVA JUNIOR, A. F.,  VII Secomp (Semana da Computação) - 3º SEEL (Simpósio de Engenharia Elétrica)",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  FRANCO, P. C.,  CASTRO, R. P.,  ABREU, R. O.,  SOUZA, R. R.,  ALMEIDA, S. H.,  ASSIS, D. V. B.,  RAIMANN, E.,  CHAGAS, F. O.,  MACÊDO, H. B.,  ANDRADE, J. G.,  MORAES, L. F.,  SILVA, M. D.,  MORESCO, P. F.,  VI Secomp",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  ABREU, R. O.,  ALMEIDA, S. H.,  ASSIS, D. V. B.,  RAIMANN, E.,  CHAGAS, F. O.,  MACÊDO, H. B.,  GONCALVES, J. A.,  FRANCO, P. C.,  COSTA, R. F.,  CASTRO, R. P.,  V Secomp - Semana da Computaçao",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Goiás."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "evento": "A. F.,  ALMEIDA, S. H.,  ASSIS, D. V. B.,  RAIMANN, E.,  CHAGAS, F. O.,  MACÊDO, H. B.,  GONCALVES, J. A.,  LIMA, L. V. O.,  COSTA, R. F.,  CASTRO, R. P.,  IV Secomp - Semana da Computaçao",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Centro Federal de Educação Ciência e Tecnologia - CEFET."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "LIRA, EVERTON R.",
+                "titulo": "DE MACÊDO, HEVERTON B.;  LIMA, DANIELLI A.;  ALT, LEONARDO;  OLIVEIRA, GINA M. B.;  A reversible system based on hybrid toggle radius-4 cellular automata and its application as a block cipher",
+                "ano": "2023",
+                "periodico": "NATURAL COMPUTING (DORDRECHT. ONLINE). ISBN: 15729796   ."
+            },
+            {
+                "autores": "MACÊDO, HEVERTON B.",
+                "titulo": "OLIVEIRA, GINA M. B.;  RIBEIRO, CARLOS H. C.;  A Comparative Study between the Dynamic Behaviours of Standard Cellular Automata and Network Cellular Automata Applied to Cryptography",
+                "ano": "2015",
+                "periodico": "INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS. ISBN: 08848173   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "NUNES, J. M.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; Desenvolvimento de software web e app para gerenciamento de pedidos remotos em restaurantes. III Simpósio de Pesquisa em Computação - SPC",
+                "local": "JATAI",
+                "ano": "2018"
+            },
+            {
+                "autores": "VILARINHO, I. S. C.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; INTERAÇÃO COM APLICATIVOS DE COMPUTADOR COM O USO DE UM APONTADOR LASER E UMA WEBCAM. Simpósio de Pesquisa em Computação - SPC",
+                "local": "Jataí",
+                "ano": "2017"
+            },
+            {
+                "autores": "SOUZA, V. F.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; RECONHECIMENTO E ACOMPANHAMENTO DE OBJETOS EM IMAGENS OBTIDAS COM WEBCAM. Simpósio de Pesquisa em Computação - SPC",
+                "local": "Jataí",
+                "ano": "2017"
+            },
+            {
+                "autores": "VILARINHO, I. S. C.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; Interação com Aplicativos de Computador com o Uso de um Apontador Laser e uma Webcam. Simpósio de Pesquisa",
+                "local": "Ensino e Extensão - SIMPEEX, Aparecida de Goiânia",
+                "ano": "2017"
+            },
+            {
+                "autores": "SOUZA, V. F.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; Reconhecimento e Acompanhamento de Objetos em Imagens Obtidas com Webcam. Simpósio de Pesquisa",
+                "local": "Ensino e Extensão - SIMPEEX, Aparecida de Goiânia",
+                "ano": "2017"
+            },
+            {
+                "autores": "ARAUJO, F. A.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; Fiscalize: aplicativo para auxiliar na fiscalização de trânsito. I Simpósio de Pesquisa em Computação - SPC",
+                "local": "Jataí",
+                "ano": "2015"
+            },
+            {
+                "autores": "MACEDO, HEVERTON B.",
+                "titulo": "OLIVEIRA, GINA M",
+                "evento": "B.; RIBEIRO",
+                "local": "CARLOS H.C.; Dynamic Behaviour of Chaotic Cellular Automata - A Comparative Entropy Analysis of Regular Lattices and Small-World Structures. 2013 IEEE International Conference on Systems, Man and Cybernetics (SMC 2013), Manchester",
+                "ano": "2013"
+            },
+            {
+                "autores": "MACÊDO, H. B.",
+                "titulo": "LIMA, M",
+                "evento": "J. L.; OLIVEIRA",
+                "local": "G. M. B.; Searching for a Cryptographic Model Based on the Pre-Image Calculus of Cellular Automata.. Simpósio Brasileiro de Redes Neurais, Salvador",
+                "ano": "2008"
+            },
+            {
+                "autores": "OLIVEIRA, G. M. B.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; BRANQUINHO",
+                "local": "A.; LIMA, M. J. L.; A CRYPTOGRAPHIC MODEL BASED ON THE PRE-IMAGE CALCULUS OF CELLULAR AUTOMATA. AUTOMATA2008: Workshop Cellular Automata Theory and Applications, Bristol",
+                "ano": "2008"
+            },
+            {
+                "autores": "MARIANO, A.",
+                "titulo": "DANTAS, A",
+                "evento": "; MACÊDO",
+                "local": "H. B.; OLIVEIRA, G. M. B.; NOVAS ABORDAGENS NA EVOLUÇÃO DE AUTÔMATOS CELULARES UNIDIMENSIONAIS NA TAREFA DE SINCRONIZAÇÃO.. CEEL2007 - V Conferência de Estudos em Engenharia Elétrica, Uberlândia",
+                "ano": "2007"
+            },
+            {
+                "autores": "Borges, V. C. M.",
+                "titulo": "MACÊDO, H",
+                "evento": "B.; CARMO",
+                "local": "M. S.; SILVA, R. S.; SIGOP - Sistema de Gerenciamento de Ocorrências Policiais. II Seminário de Informática da UNIC, Cuiabá",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Thiago Rafael Mariotti Claudio",
+                "titulo": "Monitoria de Ensino para Estruturas de Dados I",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "ABDIEL BARBOSA RIBEIRO",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Abdiel Barbosa Ribeiro",
+                "titulo": "Contagem do tráfego de veículos usando visão computacional",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Sérgio Souza Novak",
+                "titulo": "CLASSIFICAÇÃO DE REGRAS DE AUTÔMATOS CELULARES ELEMENTARES APLICADAS EM REDES DO TIPO SMALL-WORLD",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Yago Braz Fonseca",
+                "titulo": "FILTRAGEM DE RUÍDOS EM IMAGENS MÉDICAS E DE SENSORIAMENTO REMOTO POR AUTÔMATOS CELULARES",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Jéssica Martins Nunes",
+                "titulo": "ASKLUNCH: APLICATIVO PARA PEDIDOS E GERENCIAMENTO DE MARMITAS",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Felipe Almeida Araújo",
+                "titulo": "FISCALIZE: APLICATIVO PARA AUXILIAR NA FISCALIZAÇÃO DE TRÂNSITO",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Felipe Viana Sousa",
+                "titulo": "Análise matemática de um modelo criptográfico baseado em redes complexas",
+                "ano": "2017",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Instituto Tecnológico de Aeronáutica"
+            },
+            {
+                "orientando": "Rodrigo Martins de Abreu",
+                "titulo": "SISTEMA PARA GERENCIAMENTO DE RESERVAS DE RECURSOS DIDÁTICOS",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Igor Souza Camargos Vilarinho",
+                "titulo": "Interação com Aplicativos de Computador com o Uso de um Apontador Laser e uma Webcam",
+                "ano": "2016",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Victoria Ferreira Souza",
+                "titulo": "Reconhecimento e Acompanhamento de Objetos a Partir de Imagens Obtidas por Uma Webcam",
+                "ano": "2016",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Wagner Júnio da Paz",
+                "titulo": "SGTCC: Sistema Gerenciador de Trabalho de Conclusão de Curso",
+                "ano": "2015",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "André Ricardo do Carmo Santarém",
+                "titulo": "Construção de um Software para Interação com Computadores Utilizando Processamento de Imagens",
+                "ano": "2012",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "ALINE SOUZA ROCHA",
+                "titulo": "Sistema de tolerancia a falhas através de redundância de software e hardware",
+                "ano": "2011",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Silverino Sobreira",
+                "titulo": "Sistema de Controle de Acesso ao 41º BIMTZ",
+                "ano": "2011",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Susane Oliveira de Sousa",
+                "titulo": "A Utilização das Técnicas de Processamento de Imagem e de Redes Neurais Artificiais para o Reconhecimento de Padrões",
+                "ano": "2011",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Elicássio Assis Silva",
+                "titulo": "Sistema de Segurança Utilizando Processamento de Imagem",
+                "ano": "2011",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Denise Vieira Oliveira",
+                "titulo": "Sistema de Segurança Utilizando Processamento de Imagem",
+                "ano": "2011",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Thamer Horbylon Nascimento",
+                "titulo": "Simulação do Controle de Tráfego Terrestre Utilizando Visão Computacional",
+                "ano": "2011",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Maria Regina Oliveira Vilela",
+                "titulo": "Sistema de Gerenciamento de Eventos Online",
+                "ano": "2010",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            },
+            {
+                "orientando": "Danillo Lino de Andrade",
+                "titulo": "FIREFLY: Sistema de Consulta e Comparação de Preços e Produtos em Lojas Virtuais",
+                "ano": "2010",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.8120546378195286e-05,
+            "indian": 0.00034929325920529664,
+            "black": 1.1331729865560192e-06,
+            "white": 96.88551330566406,
+            "middle eastern": 2.7106964588165283,
+            "latino hispanic": 0.40340426564216614
+        }
+    }
+}

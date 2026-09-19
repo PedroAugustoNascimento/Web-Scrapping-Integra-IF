@@ -1,0 +1,178 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Discovering a Domain-Specific Schema from General-Purpose Knowledge Base",
+                "orientador": "Ana Carolina Brandão Salgado",
+                "ano_inicio": 2018,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Um Perfil de Qualidade para Fontes de Dados Dinâmicas",
+                "orientador": "Ana Carolina Brandão Salgado",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal do Amapá",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Estácio de Alagoas",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade Estácio de Alagoas",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor Visitante",
+                "vinculo": "Não informado",
+                "descricao": "Ministrou a disciplina Banco de Dados de Informações Geográfica e Tópicos Especiais de Projeto e Implementação de Banco de Dados no curso de pós-graduação (Especialização) em Administração de Banco de Dados"
+            },
+            {
+                "empresa": "Centro Universitário Mario Pontes Jucá - UMJ",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Professor no curso de Análise e Desenvolvimento de Sistemas"
+            },
+            {
+                "empresa": "Secretaria de Educação do Estado de Alagoas",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Professor",
+                "vinculo": "Contrato",
+                "descricao": "Lecionou no Curso Técnico em Manutenção e Suporte em Informática na forma Integrada ao Ensino Médio"
+            },
+            {
+                "empresa": "Instituto Federal de Alagoas",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": "Lecionou no curso Técnico em Informática na forma Integrado ao Ensino Médio"
+            },
+            {
+                "empresa": "Instituto Federal do Amapá",
+                "ano_inicio": 2020,
+                "ano_fim": 2021,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": "Lecionou nos curso Técnico em Informática nas formas Integrado e Subsequente ao Ensino Médio"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": "Leciona nos curso Técnico em Informática nas formas Integrado e Subsequente ao Ensino Médio"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "COSTA NETO, E.",
+                "titulo": "MOREIRA, J.;  BARBOSA, L.;  SALGADO, A. C.;  Domain-specific schema discovery from general-purpose knowledge bases",
+                "ano": "2023",
+                "periodico": "INTERNATIONAL JOURNAL OF METADATA, SEMANTICS AND ONTOLOGIES. ISBN: 1744263X   ."
+            },
+            {
+                "autores": "COSTA NETO, E.",
+                "titulo": "MOREIRA, J.;  SALGADO, A. C.;  BARBOSA, L.;  Class Schema Discovery from Semi-Structured Data",
+                "ano": "2023",
+                "periodico": "Journal of Information and Data Management - JIDM. ISBN: 21787107   ."
+            },
+            {
+                "autores": "MOREIRA, J.",
+                "titulo": "SILVA NETO, E. C.;  BARBOSA, L.;  Analysis of structured data on Wikipedia",
+                "ano": "2021",
+                "periodico": "INTERNATIONAL JOURNAL OF METADATA, SEMANTICS AND ONTOLOGIES (PRINT). ISBN: 17442621   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "COSTA NETO, E.",
+                "titulo": "MOREIRA, J",
+                "evento": "; BARBOSA",
+                "local": "L.; SALGADO, A. C.; CoFFee: A Co-occurrence and Frequency-Based Approach to Schema Mining. Brazilian Symposium on Databases, Buzios/RJ",
+                "ano": "2022"
+            },
+            {
+                "autores": "MOREIRA, J.",
+                "titulo": "SILVA NETO, E",
+                "evento": "C.; BARBOSA",
+                "local": "L.; Índices de Infoboxes para Recuperação de Informação Estruturada de Entidades da Wikipédia. DSW/Simpósio Brasileiro de Banco de Dados, Fortaleza/CE",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOUZA, J.",
+                "titulo": "SILVA, J",
+                "evento": "L.; SILVA",
+                "local": "G.; SILVA NETO, E. C.; Fiscaliza Cidadão: Uma Proposta para Promoção da Transparência e Participação em Políticas Públicas Através do Uso de Dados Abertos Governamentais. Escola Regional de Sistemas de Informação do Rio de Janeiro, Rio de Janeiro",
+                "ano": "2017"
+            },
+            {
+                "autores": "LIMA, I.",
+                "titulo": "ALVES, L",
+                "evento": "F.; SOUZA",
+                "local": "J.; SILVA NETO, E. C.; SpaceEduc: Uma Uma Proposta para Estimular a Aprendizagem de Alunos Portadores de Necessidades Educacionais Especiais. Simpósio Brasileiro de Informática na Educação, Recife/PE",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA NETO, E. C.",
+                "titulo": "LOSCIO, B",
+                "evento": "F.; SALGADO",
+                "local": "A. C.; Geração de um Perfil de Qualidade para Fontes de Dados Dinâmicas. Simpósio Brasileiro de Banco de Dados, Salvador/BA",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 0.943374752998352,
+            "indian": 3.285999298095703,
+            "black": 0.2729564309120178,
+            "white": 31.60342025756836,
+            "middle eastern": 14.434298515319824,
+            "latino hispanic": 49.45995330810547
+        }
+    }
+}

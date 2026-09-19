@@ -455,5 +455,18 @@
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00042267394019290805,
+            "indian": 0.0003624940582085401,
+            "black": 6.924884019099409e-06,
+            "white": 98.48645782470703,
+            "middle eastern": 0.6244372725486755,
+            "latino hispanic": 0.888313353061676
+        }
     }
 }

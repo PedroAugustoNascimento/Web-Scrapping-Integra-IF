@@ -1,0 +1,480 @@
+{
+    "campus": "- Campus Catalão",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem e Otimização",
+                "instituicao": "Universidade Federal de Catalão",
+                "titulo": "Detecção de Fake News do idioma Português a partir de poucos dados rotulados",
+                "orientador": "Nádia Félix Felipe da Silva",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Segurança da Informação",
+                "instituicao": "Universidade Federal de Goiás",
+                "orientador": "Márcio Souza Dias",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Faculdade Pitágoras",
+                "ano_inicio": 2002,
+                "ano_fim": 2006
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "John Deere Brasil Ltda",
+                "ano_inicio": 2003,
+                "ano_fim": 2004,
+                "funcao": "Assistente Administrativo em Sistemas de Info",
+                "vinculo": "- Responsável por tratar incidentes de sistema relacionados ao usuários finais. - Suporte em hardware",
+                "descricao": "redes e softwares para os usuários finais"
+            },
+            {
+                "empresa": "MMCB Automotores do Brasil S/A",
+                "ano_inicio": 2004,
+                "ano_fim": 2014,
+                "funcao": "Analista de Redes Pleno",
+                "vinculo": "- Responsável por pesquisar",
+                "descricao": "avaliar, testar e aplicar novas soluções para redes de computadores. - Gerenciar os acessos e contas dos usuários no domínio Windows. - Manutenção na redes de computadores para aplicações de voz e de dados. - Diagnosticar problemas de redes de computadores usando sistemas de gerenciamento via SNMP. - Controlar a navegação dos usuários na Internet via proxy"
+            },
+            {
+                "empresa": "Centro de Ensino Superior de Catalão",
+                "ano_inicio": 2010,
+                "ano_fim": 2019,
+                "funcao": "Docente",
+                "vinculo": "Professor nas disciplinas de Administração de Sistemas Operacionais",
+                "descricao": "Redes de Computadores, Administração de Redes de Computadores, Governança de Tecnologia da Informação, Segurança da Informação, Legislação em Informática e Tópicos Especiais(Linux)"
+            },
+            {
+                "empresa": "WGO Informática LTDA",
+                "ano_inicio": 2016,
+                "ano_fim": 2019,
+                "funcao": "Analista de Redes",
+                "vinculo": "- Responsável por pesquisar e implantar ferramentas para automatizar atividades e serviços de TI. - Gerenciar o sistema de backup para servidores e dispositivos de rede usando ferramentas de Software Livre. - Gerenciar o acesso remoto de clientes por meio de ferramentas GNU/Linux. - Reforçar a configuração de servidores GNU/Linux. - Implementar serviços de redes como DNS",
+                "descricao": "DHCP, HTTP, FTP, NTP, Netflow, etc usando ferramentas de Software Livre. - Criar scripts usando Python e ShellSript para automatizar serviços. - Gerenciar serviços de armazenamento(storage). - Analisar e diagnosticar problemas de servidores"
+            },
+            {
+                "empresa": "HPE Automotores do Brasil Ltda",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Analista de Segurança da Informação Sênior",
+                "vinculo": "- Responsável por pesquisar",
+                "descricao": "avaliar, testar e aplicar novas soluções para redes de computadores e segurança de sistemas. - Auditar sistemas e aplicações usando ferramentas de segurança. Ex: Kali LInux Tools. - Manipular eventos de segurança gerados por sistemas, fazendo uso de serviços de correlação. - Gerenciar e monitorar dispositivos de rede usando framework NAC(Network Access Control). - Monitorar o comportamento de antivírus nos servidores e nos clientes. - Aplicar correções de segurança nos dispositivos de rede. - Auditar usuários e grupos nos servidores. - Aplicar configuração reforçada(hardening) nos servidores"
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Técnico de Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Catalão",
+                "ano_inicio": 2019,
+                "ano_fim": 2022,
+                "funcao": "Técnico de Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Professor Ensino Básico Técnico Tecnológico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Goiano\nGraduacao (2025) - Sistemas De Informação.\nEnsino-medio (2025) .\nEnsino-medio (2024 - 2024) .\nGraduacao (2024 - 2024) - Sistemas De Informação.\nEnsino-medio (2024 - 2024) .\nGraduacao (2024 - 2024) - Sistemas De Informação.\nEnsino-medio (2023 - 2023) .\nEnsino-medio (2022 - 2022) .\nGraduacao (2022 - 2022) - Administração.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "VPN Cisco - Site-to-Site",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2009,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Central Log Management(Open Source)",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2009,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Cisco Intrusion Detection System",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Infraestrutura de rede em anel com fibra óptica",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Infraestrutura de rede física Cisco",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "NAP - Network Access Protection",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Sistema de comunicação instantânea interna",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2007,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Telefonia Voip",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2007,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Infraestrutura para Site Backup",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2006,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Wireless Security Network",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Windows 2003 - Domain",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Projeto Wireless Ruckus",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Anyconnect Mobile - VPN sobre SSL",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Gerenciamento de Vulnerabilidades",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2010,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Sistema de acesso remoto(Cisco Anyconnect)",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Sistemas de acesso remoto para terceiros",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Proxy Transparente(WCCP)",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Controle de Hardware, Software e Patchs",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Documentação do Plano de Contigência de TI",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Controle de acesso na rede sem fio para terceiros",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Controle de acesso de Telefones IP(VOIP)",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "MMCB Automotores do Brasil S/A",
+                "nome": "Projeto Splunk(SIEM)",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "WGO Informática LTDA",
+                "nome": "Sistema de Acesso Remoto com Auditoria de Acesso",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "WGO Informática LTDA",
+                "nome": "Sistema de Backup de Dispositivos de Rede",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "WGO Informática LTDA",
+                "nome": "Sistema de DHCP com suporte a MariaDB",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "WGO Informática LTDA",
+                "nome": "Análise de Tráfego de Redes por Meio de Flows",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jean Tomaz Da Silva"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "IFInclusivo",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jean Tomaz Da Silva",
+                    "Cristiane De Fatima Dos Santos Cardoso",
+                    "Pedro Artur Ferreira Dos Santos Costa",
+                    "Ariana Mesquita Gonçalves",
+                    "Ariane De Sa Soares",
+                    "Clarice Alves Pinto",
+                    "Davi Antônio Ferreira Félix",
+                    "Heloísa Da Silva Nunes Ribeiro",
+                    "Isaias Valdemir Rodrigues Ribeiro De Souza",
+                    "Jhennyf Lima Santana",
+                    "Pedro Henrique De Jesus Ferreira",
+                    "Pedro Flávio Estrela Gomes",
+                    "Walmir Cardoso Dos Santos Rosa"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Bom preço: Aplicação para facilitação de acesso às promoções em estabelecimentos comerciais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jean Tomaz Da Silva",
+                    "Cristiane De Fatima Dos Santos Cardoso",
+                    "Pedro Artur Ferreira Dos Santos Costa",
+                    "Darcson Lanúcio Ferreira Fernandes",
+                    "João Vitor Farias Soares",
+                    "Marcos Luigi Da Silva Rodrigues",
+                    "Sabrina Ferreira Pires",
+                    "Vinicius Carrijo Fernandes De Freitas",
+                    "Yasmine Oliveira Belmiro"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "BELO",
+                    "evento": "F. F.,  SILVA, J. T.,  1º CEPEX-UFCat Congresso De Ensino, Pesquisa E Extensão Da Universidade Federal De Catalão",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Catalão."
+                },
+                {
+                    "autores": "RIBEIRO",
+                    "evento": "C. G.,  SILVA, J. T.,  VIVA UFCAT - 2020",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Catalão."
+                },
+                {
+                    "autores": "BELO",
+                    "evento": "F. F.,  SILVA, J. T.,  I Mostra do PIBID, I Mostra do PROLICEN, I Mostra do PET-Saude Interprofissionalidade da Universidade Federal de Catalão",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Catalão."
+                },
+                {
+                    "autores": "BELO",
+                    "evento": "F. F.,  SILVA, J. T.,  5° CONPEEX - Bioeconomia: Diversidade e Riqueza para Desenvolvimento Sustentável",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Goiás - Regional Catalão."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MOURA, F. A. M.",
+                "titulo": "SILVA, J. T.;  MARTINEZ, L. F. E.;  REZENDE, D. C.;  SPDV: Uma aplicação para deficientes visuais",
+                "ano": "2017",
+                "periodico": "CEPPG REVISTA (CATALÃO). ISBN: 15178471   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.4717046320438385,
+            "indian": 0.6177574992179871,
+            "black": 0.06745021045207977,
+            "white": 68.4403305053711,
+            "middle eastern": 17.44403076171875,
+            "latino hispanic": 12.958720207214355
+        }
+    }
+}

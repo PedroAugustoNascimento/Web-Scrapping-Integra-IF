@@ -1,0 +1,230 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Modelagem Computacional",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "orientador": "Susana Varrero Iglesias",
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Computacional em Ciência e Tecnologia",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "titulo": "Segmentação e classificação de imagens de ultrassom: Estudo comparativo de filtros, métodos e arquiteturas na detecção de nódulos mamários",
+                "orientador": "Susana Marrero Iglesias",
+                "ano_inicio": 2023,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Como Ensinar a DIstância",
+                "instituicao": "Centro Universitário Leonardo da Vinci",
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Computação Forense e Perícia Digital",
+                "instituicao": "Universidade Pitágoras Unopar Anhaguera",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "instituicao": "Centro Universitário Leonardo da Vinci",
+                "ano_inicio": 2018,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2010,
+                "ano_fim": 2016
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Manutenção de máquinas",
+                "vinculo": "Vínculo: Estágiario",
+                "descricao": "LABIN, Organização e manutenção de máquinas no laboratória do curso de Ciências Sociais"
+            },
+            {
+                "empresa": "Ministério do Trabalho e Emprego",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Estagiário do setor de informática",
+                "vinculo": "Estagiário",
+                "descricao": "Manutenção, suporte e supervisão em máquinas e sistemas utilizados pela instituição em Ilhéus - Ba"
+            },
+            {
+                "empresa": "Fundação Instituto Brasileiro de Geografia e Estatística",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Agente Censitário de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Educacional do município de Uruçuca",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Professor",
+                "vinculo": "PS",
+                "descricao": "Professor de matemática do 6º ao 9º ano do Ensino Fundamental (EJA - Ensino de Jovens e Adultos), no Centro Educacional do município de Uruçuca"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professor Ens. Bas. Tec. Tecnológico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor Mediador a Distância",
+                "vinculo": "Contrato",
+                "descricao": "Contrato de urgência de 90 dias como Professor Mediador Presencial de Montagem e Manutenção de Máquinas pelo programa RedeEtec"
+            },
+            {
+                "empresa": "Secretaria de Educação do Estado da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2020,
+                "funcao": "Ensino Profissional de Informática",
+                "vinculo": "Professor Reda",
+                "descricao": "Professor Reda do ensino profissional na área de Informática"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Professor Ensino Básico Tec Tecnológico",
+                "vinculo": "Servidor público",
+                "descricao": "Professor de Informática para o Ensino Integrado Médio/ Técnico, Ensino Superior e Professor Mediador a Distancia do curso Técnico em Informática"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "nome": "CRIAÇÃO E AUTOMAÇÃO DE CÂMARA PARA MATURAÇÃO DE CARNES",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Wadson Araujo Souza",
+                    "Venicios Gomes Costa Santos"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUZA",
+                    "titulo": "W. A.,  IGLESIAS, S. M.,  AMBROSIO, P. E.,  CLASSIFICAÇÃO DE NÓDULOS MAMÁRIOS EM IMAGENS DE ULTRASSOM USANDO REDES NEURAIS CONVOLUCIONAIS: UM ESTUDO COMPARATIVO DE ARQUITETURAS",
+                    "ano": "2024",
+                    "instituicao_promotora": "Uesc - Universidade Estadual de Santa Cruz."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "W. A.,  IGLESIAS, S. M.,  AMBROSIO, P. E.,  SEGMENTAÇÃO DE NÓDULOS MAMÁRIOS EM IMAGENS DE ULTRASSOM UTILIZANDO MÉTODOS COMPARATIVOS",
+                    "ano": "2024",
+                    "instituicao_promotora": "Uesc - Universidade Estadual de Santa Cruz."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOUZA",
+                    "curso": "W. A.,  Como trabalhar com planilhas eletrônicas (FIC)",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "W. A.,  Informática Básica (FIC)",
+                    "ano": "2023"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SOUZA, W. A.",
+                "titulo": "IGLESIAS, S. M.;  AMBROSIO, P. E.;  XXIX Brazilian Congress on Biomedical Engineering &#8209; Volume 3: Biomedical Informatics, and Biomedical Signal and Image Processing.",
+                "ano": "2025",
+                "informacoes_adicionais": "Varios. ISBN: 9783031949333, Cham (Suíça) (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA, WADSON ARAUJO",
+                "titulo": "IGLESIAS, SUSANA MARRERO; AMBRÓSIO, PAULO EDUARDO; Segmentation of Ultrasound Images for the Detection of Breast Nodules",
+                "evento": "2024 IEEE UFFC Latin America Ultrasonics Symposium (LAUS)",
+                "local": "Montevideo",
+                "ano": "2024"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Állan Roger Assunção de Jesus",
+                "titulo": "A IMPORTÂNCIA DO SOFTWARE TIMETABLE PARA A ORGANIZAÇÃO DO CRONOGRAMA DOS ESTUDANTES DO IF BAIANO CAMPUS URUÇUCA",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Diêgo Silva de Miranda",
+                "titulo": "AGENDA VIRTUAL",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Cosme Reis dos Santos",
+                "titulo": "IMPLEMENTAÇÃO DA IDENTIFICAÇÃO BIOMÉTRICA NO REFEITÓRIO DO IFBAIANO CAMPUS URUÇUCA: UMA ABORDAGEM TECNOLÓGICA",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.1305272579193115,
+            "indian": 3.6265323162078857,
+            "black": 0.6304200887680054,
+            "white": 41.9573860168457,
+            "middle eastern": 19.79193115234375,
+            "latino hispanic": 31.863203048706055
+        }
+    }
+}

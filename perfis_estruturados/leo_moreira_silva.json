@@ -1,0 +1,551 @@
+{
+    "campus": "- Campus Ceará-Mirim",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Programa Doutoral em Ciência e Tecnologia da Informação",
+                "instituicao": "Universidade de Coimbra",
+                "titulo": "Emotions & Software Development: using social media to improve software quality",
+                "orientador": "Henrique Santos do Carmo Madeira",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "GRADUAÇÃO EM SISTEMAS E COMPUTAÇÃO",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "PerfMiner Visualizer: uma ferramenta para análise da evolução do atributo de qualidade de desempenho em sistemas de software",
+                "orientador": "Uira Kulesza",
+                "ano_inicio": 2014,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Engenharia de Software",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "orientador": "Fábio Marzullo",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Centro Federal de Educação Tecnológica do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Área de sistemas de informação"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2006,
+                "ano_fim": 2006,
+                "funcao": "Programador",
+                "vinculo": "Bolsista",
+                "descricao": "O trabalho iniciado no CEFET-RN foi para desenvolver um portal em Zope/Plone/Python, para a Agência Nacional de Petróleo - ANP. Contudo, devido ao egresso na empresa Rui Cadete, a continuidade do projeto foi realizada por outro aluno do CEFET-RN"
+            },
+            {
+                "empresa": "Secretaria Municipal de Transporte e Trânsito Urbano",
+                "ano_inicio": 2006,
+                "ano_fim": 2006,
+                "funcao": "Suporte",
+                "vinculo": "Bolsista",
+                "descricao": "Este trabalho tinha como objetivo prestar suporte aos clientes, referentes ao sistema STTU Escola"
+            },
+            {
+                "empresa": "Governo do Estado do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Sub-Coordenador",
+                "vinculo": "Cargo Comissionado",
+                "descricao": "Desempenhou a função de Sub-Coordenador de Programação, responsável pelo desenvolvimento de sistemas e redes da instituição"
+            },
+            {
+                "empresa": "OWSE Informática",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Programador Sênior",
+                "vinculo": "Celetista formal",
+                "descricao": "Líder técnico de projetos usando as tecnologias Java, JSF, Richfaces, JPA, Hibernate, Jboss Seam, Jboss, OC4J, iReport, Eclipse IDE"
+            },
+            {
+                "empresa": "CICLOP Investimentos e Participações",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Contrato de Consultoria",
+                "vinculo": "Foram desenvolvidos sistemas-demo na linguagem Java",
+                "descricao": "utilizando JBoss e EJB 3.0, bem como na linguagem C#"
+            },
+            {
+                "empresa": "Symetrix Corporation",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Contrato de Consultoria",
+                "vinculo": "Foram desenvolvidos sistemas-demo na linguagem Java",
+                "descricao": "utilizando JBoss e EJB 3.0, bem como na linguagem C#"
+            },
+            {
+                "empresa": "BRQ Soluções em Informática S/A",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Desenvolvedor Sênior",
+                "vinculo": "Líder técnico de projetos usando as tecnologias Java",
+                "descricao": "JSF 2, Primefaces, Hibernate, JPA, Spring, Jboss, Eclipse IDE, Scrum"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nOutro (2014 - 2014) .\nEnsino-medio (2013) .\nOutro (2013 - 2013) .\nGraduacao (2013 - 2014) - Análise E Desenvolvimento De Sistemas.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Simulador Memória Cache",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Gustavo Fernandes Carvalho",
+                    "Bruno Pereira Pontes",
+                    "Eduardo Bráulio Wandeley Netto",
+                    "Jorgiano Márcil Bruno Vidal"
+                ],
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SISTEMA DE INFORMATIZAÇÃO DO PROCESSO DE AQUISIÇÃO DOS DADOS DOS AGENTES DE ENDEMIAS E MONITORAMENTO DOS FOCOS DE DENGUE EM TEMPO REAL",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Demetrios Araújo Magalhães Coutinho",
+                    "Ayla Márcia Cordeiro Bizerra",
+                    "Manoel Do Bonfim Lins De Aquino"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SmartPill: ajuda inteligente para gerenciar meus medicamentos",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Leonardo Ataíde Minora",
+                    "Décio Casagrande Ramuski Filho",
+                    "Dennis Da Silva Nunes",
+                    "Julian Ignacio Sansat",
+                    "Ítalo Berg Marques Souza Dos Reis",
+                    "Thiago Freitas De Almeida"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "IFExam: um sistema para realização de atividades avaliativas online",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Péricles Gomes Da Costa",
+                    "Jefferson Douglas Moreira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SUAP Instant Messaging: aplicativo institucional de mensagens instantâneas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Bernardo Vilela Gonçalves",
+                    "Matuzael Dos Santos Dias",
+                    "José Durval Pacheco Tavares Junior"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SustenClick: denunciando problemas ambientais em Ceará-Mirim/RN",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Alvaro Lopes Silva Da Rocha",
+                    "Jonathan Felipe Dos Santos Alves",
+                    "Evaneide Maria De Melo"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "PORTal: aplicativo de ensino voltado aos conteúdos base da língua portuguesa no ensino fundamental",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Djalma Antony Lemos Rodrigues",
+                    "Melina Nascimento Gomes"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Plataforma SustenClick: auxiliando no combate a crimes e infrações ambientais em Ceará-Mirim/RN",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leo Moreira Silva",
+                    "Alvaro Lopes Silva Da Rocha",
+                    "Jonathan Felipe Dos Santos Alves",
+                    "José Durval Pacheco Tavares Junior",
+                    "Juan Lucas Alves Bezerra"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.,  Servidor Sorridente",
+                    "ano": "2015",
+                    "finalidade": "Desenvolvido para auxiliar o Exame Periódico Odontológico dos servidores do IFRN como parte da política de promoção e prevenção à saúde dos servidores da instituição.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  Rui Conciliação",
+                    "ano": "2006",
+                    "finalidade": "O sistema Rui Conciliação objetiva realizar o mapeamento de lançamentos contábeis provenientes de relatórios gerados pelo sistema de conciliação com o sistema contábil da empresa Rui Cadete.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  SED - Sistema de Envio de Dados",
+                    "ano": "2006",
+                    "finalidade": "O SED ? Sistema de Envio de Dados ? é um programa com a finalidade de auxiliar os clientes da Rui Cadete a enviarem dados em formato de arquivo para a empresa.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  RCA Cartões",
+                    "ano": "2006",
+                    "finalidade": "O sistema RCACartoes foi criado para facilitar a captação dos dados dos extratos de recebimento de cartão de crédito das empresas-cliente e disponibilizá-los de uma forma padronizada, mais organizada e de fácil entendimento.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  RCA Plano de Contas",
+                    "ano": "2006",
+                    "finalidade": "O RCA Plano de Contas busca conectar o plano de contas usado pelas empresas-cliente e o plano de contas utilizado na Rui Cadete.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Adiantamento",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle dos empréstimos feitos aos funcionários de uma determinada empresa-cliente.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Atualização de Impostos",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade calcular o valor dos juros SELIC, importantes para a contabilidade.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha CMV",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle de estoque dos clientes, possibilitando a consulta dos principais dados lançados. Este sistema possibilita também a exportação dos dados em diversos formatos.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Composição de Estoque",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle detalhado do estoque do cliente, decompondo-o em várias visões.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Empréstimo PRICE",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle de empréstimos Price dos clientes, possibilitando a consulta dos principais dados lançados e a exportação dos mesmos em diversos formatos.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha ExtratoPAES",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade fornecer ao usuário do sistema o acompanhamento do saldo devedor de um cliente.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Refis",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade fornecer ao usuário do sistema o acompanhamento do saldo devedor de um cliente.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Incorporação",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade fazer o controle dos custos e recebimentos por imóvel e geral de um empreendimento, realizado por uma empresa-cliente da Rui Cadete.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha IOF",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle dos empréstimos feitos entre empresas e o cálculo do IOF para um determinado mês.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha PROADI",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle dos financiamentos PROADI dos clientes, possibilitando a consulta dos dados cadastrados. O sistema também fornece a opção de exportar os dados em diversos formatos.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  CARVALHO, G. F.,  P. A. Souza Neto,  VALENTIM, R. A. M.,  E-Planilha Despesas Antecipadas",
+                    "ano": "2006",
+                    "finalidade": "Esta E-Planilha tem como finalidade realizar o controle das despensas de um determinado cliente. Exemplos de despesas: IPTU, IPVA, etc.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  PONTES, B. P.,  CARVALHO, G. F.,  NETTO, E. B. W.,  VIDAL, J. M. B.,  LBGCache V2.0.",
+                    "ano": "2005",
+                    "finalidade": "Simulador didático para análise do comportamento e funcionamento estrutural de memórias cache."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "L. M.;SILVA, LEO;SILVA, LEO MOREIRA,  NETO, U, T,  Customizando tudo: pecado ou adaptação",
+                    "ano": "2011",
+                    "instituicao_promotora": "SBC."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "L. M.,  Groovy e Grails",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "L. M.,  Desenvolvimento com Grails",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "L. M.,  Controle de Versões com GIT",
+                    "ano": "2013"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, LEO MOREIRA",
+                "titulo": "SILVA, LUIIS ANUNCIADO; KULESZA, UIRA; RODRIGUES, DJALMA ANTONY; PINTO, FELIPE; PerfMinerArch - A Tool to Visualize and Analyze Performance Deviations",
+                "evento": "2020 IEEE International Conference on Software Architecture Companion (ICSAC)",
+                "local": "Salvador",
+                "ano": "2020"
+            },
+            {
+                "autores": "SILVA, L. M.",
+                "titulo": "RODRIGUES, D",
+                "evento": "A. L.; GOMES",
+                "local": "M. N.; VALE, A. P. N.; TAVARES JUNIOR, J. D. P.; Portal: aplicativo de ensino voltado aos conteúdos base da língua portuguesa no ensino fundamental. Expo Nacional MILSET Brasil, Fortaleza",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTOS, JADSON",
+                "titulo": "MEDEIROS, MARCOS; Kulesza, Uirá; PINTO, FELIPE; MOURA, RONICELI; NETO, JOSÉ GAMELEIRA; FREITAS, GUILHERME; SILVA, LEO; Applying and Adapting a Performance Deviation Analysis Tool in Web Information Systems",
+                "evento": "SBQS&apos;19: XVIII Brazilian Symposium on Software Quality",
+                "local": "Fortaleza Brazil",
+                "ano": "2019"
+            },
+            {
+                "autores": "DIAS, MATUZAEL",
+                "titulo": "GONÇALVES, BERNARDO; SILVA, LEO; PACHECO, JOSÉ; SUAP Instant Messaging: aplicativo institucional de mensagens instantâneas",
+                "evento": "XXIX Simpósio Brasileiro de Informática na Educação (Brazilian Symposium on Computers in Education)",
+                "local": "Fortaleza",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, LEO",
+                "titulo": "Felipe A",
+                "evento": "P. Pinto; Kulesza",
+                "local": "Uirá; TREUDE, C.; PerfMiner Visualizer: uma ferramenta para análise da evolução do atributo de qualidade de desempenho em sistemas de software. VIII Congresso Brasileiro de Software, Fortaleza",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, LEO",
+                "titulo": "Kulesza, Uirá; Um framework para visualização da evolução arquitetural de sistemas de software baseada em cenários de casos de uso",
+                "evento": "Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+                "local": "Maringá",
+                "ano": "2016"
+            },
+            {
+                "autores": "Felipe A. P. Pinto",
+                "titulo": "SILVA, L",
+                "evento": "M.;SILVA",
+                "local": "LEO;SILVA, LEO MOREIRA; Kulesza, Uirá; Eduardo Guerra; Assessment of the Performance Quality Attribute for Evolving Software Systems: An Exploratory Study. Hawaii International Conference on System Sciences (HICSS), Grand Hyatt, Kauai, Hawaii",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, L. M.",
+                "titulo": "SILVA, LEO;SILVA, LEO MOREIRA; NETO, U, T; Kulesza, Uirá; OWSE-AF: Um Framework para Desenvolvimento de Aplicações Web",
+                "evento": "10th Latin American Conference on Pattern Languages of Programs (SugarLoafPLoP 2014)",
+                "local": "Ilhabela, São Paulo",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, L. M.",
+                "titulo": "SILVA, LEO;SILVA, LEO MOREIRA; CARVALHO, G",
+                "evento": "F.; PONTES",
+                "local": "B. P.; VIDAL, J. M. B.; NETTO, E. B. W.; LBGCache V2.0: Simulador Didático para Análise do Comportamento e Funcionamento Estrutural de Memórias Cache. I Jornada Nacional da Produção Científica em Educação Profissional e Tecnológica, Brasília",
+                "ano": "2006"
+            },
+            {
+                "autores": "SILVA, L. M.",
+                "titulo": "PONTES, B",
+                "evento": "P.; P. A. Souza Neto; Definição de Componentes Arquiteturais Reutilizáveis: Um Estudo de Caso na Utilização de Padrões de Projetos Arquiteturais no Desenvolvimento de Sistemas para Ambientes Coorporativos. I Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica",
+                "local": "Natal, RN",
+                "ano": "2006"
+            },
+            {
+                "autores": "SILVA, L. M.",
+                "titulo": "SILVA, LEO;SILVA, LEO MOREIRA; CARVALHO, G",
+                "evento": "F.; PONTES",
+                "local": "B. P.; NETTO, E. B. W.; VIDAL, J. M. B.; Loop-Way Cache. WSCAD - VI Workshop em Sistemas Computacionais de Alto Desempenho, Rio de Janeiro",
+                "ano": "2005"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "ANA FLÁVIA FIRMINO DE OLIVEIRA ROCHA",
+                "titulo": "PROMOVENDO A DIVULGAÇÃO DE PRODUTOS AGRÍCOLAS ATRAVÉS DO AGROVERDES",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ISABELLY NATHALIA REBOUÇAS DE OLIVEIRA",
+                "titulo": "PROMOVENDO A DIVULGAÇÃO DE PRODUTOS AGRÍCOLAS ATRAVÉS DO AGROVERDES",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "VINÍCIUS IAPERY DA SILVA FERNANDES",
+                "titulo": "PROMOVENDO A DIVULGAÇÃO DE PRODUTOS AGRÍCOLAS ATRAVÉS DO AGROVERDES",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ANDERSON DOS SANTOS CORREIA",
+                "titulo": "BIBLIOTECA INTERATIVA DE GAMES (BIG): UMA PROPOSTA DE REPOSITÓRIO DE JOGOS DIGITAIS PARA O IFRN",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "GERALDO MATHEUS GOMES DA SILVA",
+                "titulo": "BIBLIOTECA INTERATIVA DE GAMES (BIG): UMA PROPOSTA DE REPOSITÓRIO DE JOGOS DIGITAIS PARA O IFRN",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "JAQUELINE HONORIO CASSIANO",
+                "titulo": "BIBLIOTECA INTERATIVA DE GAMES (BIG): UMA PROPOSTA DE REPOSITÓRIO DE JOGOS DIGITAIS PARA O IFRN",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "DJALMA ANTONY LEMOS RODRIGUES",
+                "titulo": "PORTAL: APLICATIVO VOLTADO AOS CONTEÚDOS BASE DA LÍNGUA PORTUGUESA NO ENSINO FUNDAMENTAL",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MELINA NASCIMENTO GOMES",
+                "titulo": "PORTAL: APLICATIVO VOLTADO AOS CONTEÚDOS BASE DA LÍNGUA PORTUGUESA NO ENSINO FUNDAMENTAL",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Lizandra Êmily Galvão",
+                "titulo": "ESTUDO ACERCA DA TECNOLOGIA COMO PROPOSTA DE METODOLOGIA PARA AUXÍLIO EDUCACIONAL A PARTIR DA UTILIZAÇÃO DE JOGOS DIGITAIS EDUCACIONAIS",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Salu Coelho da Silva",
+                "titulo": "ESTUDO ACERCA DA TECNOLOGIA COMO PROPOSTA DE METODOLOGIA PARA AUXÍLIO EDUCACIONAL A PARTIR DA UTILIZAÇÃO DE JOGOS DIGITAIS EDUCACIONAIS",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Antônio Thiago de Araújo Ferreira",
+                "titulo": "SISGIAP - Sistema Gerenciador de Informações Apícolas - Abordagem Relacional",
+                "ano": "2014",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Lívio Augusto de Queiroz",
+                "titulo": "SISGIAP - Sistema Gerenciador de Informações Apícolas - Uma Visão Geral da Aplicação",
+                "ano": "2014",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Maria Inês Barros Pinto",
+                "titulo": "SISGIAP - Sistema Gerenciador de Informações Apícolas - Visão Geral sobre o Módulo Móvel",
+                "ano": "2014",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Álvaro Rangel Soares",
+                "titulo": "Análise Comparativa entre MySQL e MongoDB",
+                "ano": "2014",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.604703903198242,
+            "indian": 4.646829128265381,
+            "black": 0.8534989356994629,
+            "white": 37.62919616699219,
+            "middle eastern": 23.65496063232422,
+            "latino hispanic": 30.610815048217773
+        }
+    }
+}

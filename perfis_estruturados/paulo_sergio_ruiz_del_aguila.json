@@ -1,0 +1,138 @@
+{
+    "campus": "- Campus Manaus Zona Leste",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Um Metamodelo e uma Ferramenta CASE para Data Warehouse Espacial",
+                "orientador": "Robson do Nascimento Fidalgo",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2004,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Ávila Soluções",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Estagiário",
+                "vinculo": "Contratual",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Iniciação Científica",
+                "vinculo": "Estudo Comparativo entre as API (Application Program Interface) para OLAP (Online Analytical Processing)",
+                "descricao": "XMLA e OLAP4J"
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Monitor",
+                "vinculo": "Não informado",
+                "descricao": "Monitor da disciplina de GDI - Gerenciamento de Dados e Informação"
+            },
+            {
+                "empresa": "GCF Soluções",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Desenvolvedor",
+                "vinculo": "Contratual",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto de Tecnologia de Pernambuco",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Analista de Banco de Dados",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Ambiental e Tecnológico da Amazônia",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Desenvolvedor P&D Pleno",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "SIDIA INSTITUTO DE CIENCIA E TECNOLOGIA",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Analista de Desenvolvimento Mobile",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Atuação como professor de ensino superior e técnico nos cursos de Engenharia de Software e Informática.Disciplinas ministradas: Banco de dados",
+                "descricao": "Programação em Banco de Dados, Linguagem de Programação, Programação Orientada a Objetos, Estrutura de Dados, Gerenciamento de Projetos"
+            },
+            {
+                "empresa": "Polo de Inovação Tecnológica CTHM",
+                "ano_inicio": 2021,
+                "ano_fim": 2022,
+                "funcao": "Coordenador de Projetos",
+                "vinculo": "Bolsista",
+                "descricao": "Coordenador do Projeto Humax-HBR MMS Sistema de Gestão de Estoque.Atividades realizadas:- Refatoramento do front-end e back-end do Sistema legado;- Refatoramento e normalização do banco de dados;- Desenvolvimento do módulo de gestão de estoque. Construção, manutenção e validação de modelos de dados. Implementação e manutenção do Bancos de Dados"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DEL AGUILA, P. S. R.",
+                "titulo": "Fidalgo, R. N.;  Towards a More Straightforward and More Expressive Metamodel for SDW Modeling",
+                "ano": "2011",
+                "periodico": "GESTS International Transactions on Computer Science and Engineering. ISBN: 17386438   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.534787178039551,
+            "indian": 8.848432540893555,
+            "black": 2.2701616287231445,
+            "white": 15.612846374511719,
+            "middle eastern": 9.03462028503418,
+            "latino hispanic": 57.69915771484375
+        }
+    }
+}

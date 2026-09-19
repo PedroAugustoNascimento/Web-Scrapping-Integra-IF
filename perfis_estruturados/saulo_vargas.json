@@ -1,0 +1,580 @@
+{
+    "campus": "- Câmpus Gaspar",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Ensino de Ciências Naturais e Matemática",
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "titulo": "A Importância de Considerar o Acaso nos Fenômenos Aleatórios para o Ensino e Aprendizagem da Probabilidade e Estatística",
+                "orientador": "Dr",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Mecatrônica",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA DE INSPEÇÃO AUTOMÁTICA DE TECIDO DE MALHA",
+                "orientador": "Maurício Edgar Stivanello",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Matemática Aplicada e Computacional",
+                "instituicao": "Universiade Federal de Santa Catarina",
+                "orientador": "Dr Mário César Zambaldi",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Métodos Estatísticos",
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "orientador": "Dr Claudio Loesch",
+                "ano_inicio": 2004,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Matemática",
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 1999,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática",
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 1999,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "CENTRO UNIVERSITÁRIO LEONARDO DA VINCI",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Contrato - disciplina",
+                "descricao": "Curso: Licenciatura em Matemática - Disciplina: Laboratório de Matemática"
+            },
+            {
+                "empresa": "CENTRO UNIVERSITÁRIO LEONARDO DA VINCI",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "ORIENTADOR DE DISCIPLINA E ÁREA DE ESTUDOS",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Escola de Educação Básica Hercílio Deeke",
+                "ano_inicio": 2004,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Contrato",
+                "descricao": "Professor - Ensino Médio"
+            },
+            {
+                "empresa": "Revista Maiêutica",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "",
+                "vinculo": "Membro de corpo editorial",
+                "descricao": "Revista de Publicação Acadêmica do Núcleo de Educação a Distância (NEAD) - Licenciatura em Matemática. ISBN 978-85-7830-106-4"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Sistema de Monitoramento Automático de Ambientes Através de Visão Computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Mateus Moraes Bueno"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Estudo e Desenvolvimento de Algoritmos de Processamento de Imagens Digitais para Visão Computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Pedro Henrique Schmitt"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema para Identificação Automática de Defeitos na Produção de Tecidos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Kleber Juan Marcellino",
+                    "Marcelo Antônio Galdin"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema para Interação Humano-Computador baseado em Visão Computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Cesar Pereira Viana",
+                    "Matheus Oliveira Dos Santos"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema de Visão Computacional para Estimação Automática de Parâmetros em Ambientes Monitorados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Juliano Emir Nunes Masson",
+                    "Cassiano Pereira Viana"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema para Identificação Automática de Defeitos na Produção Madeireira",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Mario Lucio Roloff"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema para Identificação Automática de Defeitos em Produtos Manufaturados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Mario Lucio Roloff",
+                    "Lucas Ricardo Zanette",
+                    "Gabriel Gonçalves Possamai"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2014,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um Sistema de Monitoramento Automático de Ambientes Através de Visão Computacional(Fase 2)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Juliano Emir Nunes Masson"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de sistema web para gerenciamento de bases de imagens de tecido e comparação de técnicas automáticas de inspeção de tecido",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Priscila Graziele Busnello De Araujo"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "V SeI - Semana de Informática do Câmpus Gaspar",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Andrei De Souza Inácio",
+                    "Romulo De Aguiar Beninca",
+                    "Jean Rigo Da Silva",
+                    "Rogerio Antonio Schmitt",
+                    "Leonardo Ronald Perin Rauta",
+                    "Leonardo Leiria Fernandes",
+                    "Mateus Bizzotto Nunes",
+                    "Andreu Carminati",
+                    "Alexandre Altair De Melo",
+                    "Daniela Sbizera Justo"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Projetos de Jogos Digitais Educativos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Análise do Software Estatístico R para Apoio à Pesquisa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Robson Raulino Rautenberg"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Programando Robôs",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Jairo Caetano Junior",
+                    "Ramon Patrick Wiethorn"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Análise de Softwares Estatísticos Gratuitos para Apoio à Pesquisa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Robson Raulino Rautenberg"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "RobotIFSC: pesquisa em robótica como ferramenta de incentivo à Ciência e integração social no câmpus Gaspar do IFSC",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Jean Rigo Da Silva",
+                    "Leonardo Ronald Perin Rauta",
+                    "Leonardo Leiria Fernandes",
+                    "Mateus Bizzotto Nunes",
+                    "Andreu Carminati",
+                    "Thiago Lipinsk Paes",
+                    "Guilherme Luis Soares",
+                    "João Vitor Costermane Caetano",
+                    "Cristian Pessatti Dos Anjos",
+                    "Felipe Azevedo De Souza"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "PFLN-2604.0027 Sistema de Inspeção de Qualidade para Teares Circulares",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Mauricio Edgar Stivanello",
+                    "Delcino Picinin Júnior",
+                    "Raimundo Ricardo Matos Da Cunha",
+                    "Felipe Cintra Nunes Braga"
+                ],
+                "financiador": "Associação Brasileira de Pesquisa e Inovação Industrial, Litma Tecnologia LTDA, Serviço Brasileiro de Apoio às Micro e Pequenas Empresas, Serviço de Apoio às Micro e Pequenas Empresas de Florianópolis, TEXFAN LOOM MATERIALS, Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Minha Escola no IFSC x Curriculariação da Extensão",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Andrei De Souza Inácio",
+                    "Watson Beck Júnior",
+                    "Bárbara Silvana Sabino"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "IFSC Câmpus Gaspar nas Olimpíadas Brasileiras de Robótica e Informática",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Saulo Vargas",
+                    "Andrei De Souza Inácio",
+                    "Leonardo Leiria Fernades"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "VARGAS",
+                    "titulo": "Saulo,  STIVANELLO, M. E.,  STEMMER, M. R.,  REIS, D. S.,  GOMES, P. C. R.,  Interação Humano-Computador Baseada em Vídeo Através de Descritores de Fourier e Redes Neurais Artificiais",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFPR - UNIPAR."
+                },
+                {
+                    "autores": "VARGAS",
+                    "titulo": "Saulo,  MORETTO, G.,  As Concepções que os Alunos Trazem do Acaso e Suas Implicações para o Ensino e Aprendizagem da Probabilidade e Estatística",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade de Cruz Alta - UNICRUZ."
+                },
+                {
+                    "autores": "VARGAS",
+                    "titulo": "Saulo,  MORETTO, G.,  Pressupostos para o Ensino",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade de Taubaté - UNITAU."
+                },
+                {
+                    "autores": "VARGAS",
+                    "titulo": "Saulo,  Aplicação dos Sitemas Lineares Numa Dieta Nutricional",
+                    "ano": "2006",
+                    "instituicao_promotora": "ETEVI - Escola Técnica do Vale do Itajaí."
+                },
+                {
+                    "autores": "VARGAS",
+                    "titulo": "Saulo,  Oficina: Desafios Lógicos",
+                    "ano": "2006",
+                    "instituicao_promotora": "FURB."
+                },
+                {
+                    "autores": "PROBST",
+                    "titulo": "R. W.,  SOUZA, A. M. S.,  LUNARDELLI, P. A.,  VARGAS, Saulo,  Skat: O xadrez do baralho",
+                    "ano": "2002",
+                    "instituicao_promotora": "FURB."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "VARGAS, Saulo",
+                "titulo": "SOUZA, A. M. S.;  Probabilidade e Estatística",
+                "ano": "2009",
+                "informacoes_adicionais": "Impresso. ISBN: 9788578302009 (Publicado)."
+            },
+            {
+                "autores": "SOUZA, A. M. S.",
+                "titulo": "VARGAS, Saulo;  Análise Matemática",
+                "ano": "2009",
+                "informacoes_adicionais": "Impresso. ISBN: 9788578301576 (Publicado)."
+            },
+            {
+                "autores": "VARGAS, Saulo",
+                "titulo": "SOUZA, A. M. S.;  Geometria Descritiva",
+                "ano": "2008",
+                "informacoes_adicionais": "Impresso. ISBN: 9788578300593, Indaial (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "DE SOUZA INACIO, ANDREI",
+                "titulo": "ALTAIR DE MELO, ALEXANDRE;  DE AGUIAR BENINCA, RÔMULO;  VARGAS, SAULO;  Proposta de Ações de Extensão como parte da curricularização da extensão: um relato de experiência no Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "ano": "2019",
+                "periodico": "CAMINHO ABERTO: REVISTA DE EXTENSÃO DO IFSC. ISBN: 23590580   ."
+            },
+            {
+                "autores": "OLIVEIRA, F. S.",
+                "titulo": "VARGAS, Saulo;  WATANABE, M.;  STIVANELLO, M. E.;  ROLOFF, M. L.;  Desenvolvimento de um Sistema para Contagem Automática de Micro-crustáceos da Espécie Artemia Salina Empregando Visão Computacional",
+                "ano": "2017",
+                "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC. ISBN: 22372903   ."
+            },
+            {
+                "autores": "STIVANELLO, M. E.",
+                "titulo": "VARGAS, Saulo;  ROLOFF, M. L.;  STEMMER, M. R.;  Automatic Detection and Classification of Defects in Knitted Fabrics",
+                "ano": "2016",
+                "periodico": "Revista IEEE América Latina. ISBN: 15480992   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "VARGAS, Saulo",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; STIEGELMAIER",
+                "local": "E.; MASSON, J. E. N.; ROLOFF, M. L.; Evaluation of Segmentation Techniques for Automated Inspection of Defects in Fabrics. 12th IEEE/IAS International Conference on Industry Applications, Curitiba",
+                "ano": "2016"
+            },
+            {
+                "autores": "STIVANELLO, M. E.",
+                "titulo": "POSSAMAI, G",
+                "evento": "G.; VALMORBIDA",
+                "local": "A. D.; ROLOFF, M. L.; VARGAS, Saulo; Visage - Sistema de Inspeção de Produtos por Visão Computacional Baseado em Diagrama de Blocos. 12th IEEE/IAS International Conference on Industry Applications, Curitiba",
+                "ano": "2016"
+            },
+            {
+                "autores": "VARGAS, R. S.",
+                "titulo": "SILVA, M",
+                "evento": "F. P.; ARENHARDT",
+                "local": "S. S.; INACIO, A. S.; VARGAS, Saulo; FERNADES, L. L.; IFSC Gaspar na Olimpíada Brasileira de Robótica. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, Criciúma",
+                "ano": "2016"
+            },
+            {
+                "autores": "MASSON, J. E. N.",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; VARGAS",
+                "local": "Saulo; Fisioterapia orientada por Visão Computacional empregando Descritores de Fourier e RNA. Computer on the Beach 2014, Florianópolis",
+                "ano": "2014"
+            },
+            {
+                "autores": "STIVANELLO, M. E.",
+                "titulo": "VARGAS, Saulo; MASSON, J",
+                "evento": "E. N.; Desenvolvimento de um Sistema de Detecção de Defeitos para a Indústria Têxtil. XI IEEE/IAS International Conference on Industry Applications (IEEE/IAS INDUSCON 2014)",
+                "local": "Juiz de Fora",
+                "ano": "2014"
+            },
+            {
+                "autores": "STIVANELLO, M. E.",
+                "titulo": "VARGAS, Saulo; MASSON, J",
+                "evento": "E. N.; Estudo da Viabilidade de Utilização de Placa ARM em um Sistema de Inspeção Óptica em Linha para a Produção Têxtil. SIBGRAPI 2014 (XXVII Conference on Graphics",
+                "local": "Patterns and Images), Rio de Janeiro",
+                "ano": "2014"
+            },
+            {
+                "autores": "STIVANELLO, M. E.",
+                "titulo": "VARGAS, Saulo; MASSON, J",
+                "evento": "E. N.; Desenvolvimento de um Sistema de Visão para Inspeção Automática de Tecidos. SIBGRAPI 2014 (XXVII Conference on Graphics",
+                "local": "Patterns and Images), Rio de Janeiro",
+                "ano": "2014"
+            },
+            {
+                "autores": "STIVANELLO, M. E.",
+                "titulo": "VARGAS, Saulo; FEDECHEN, E",
+                "evento": "A.; Desenvolvimento de um Sistema de Vigilância Inteligente Através de Visão Computacional. XXXIII Congresso da Sociedade Brasileira de Computação - EncompIF",
+                "local": "Maceió",
+                "ano": "2013"
+            },
+            {
+                "autores": "BUENO, M. M.",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; VARGAS",
+                "local": "Saulo; FEDECHEM, E. A.; Desenvolvimento de um Sistema de Monitoramento Automático de Ambientes Através de Visão Computacional. XIX Congresso Brasileiro de Automática - CBA, Campina Grande",
+                "ano": "2012"
+            },
+            {
+                "autores": "BUENO, M. M.",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; VARGAS",
+                "local": "Saulo; FEDECHEM, E. A.; Sistema de Visão Computacional para Extração Automática de Estatísticas em Ambientes Monitorados. SIBGRAPI 2012 - XXV Conference on Graphics, Patterns and Images, Ouro Preto (MG)",
+                "ano": "2012"
+            },
+            {
+                "autores": "BENKE, D.",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; MELLO JUNIOR",
+                "local": "L. J.; VARGAS, Saulo; FEDECHEM, E. A.; Desenvolvimento de um Sistema para Contagem Automática de Células Sanguíneas Através de Visão Computacional. XXI Seminário de Computação (SEMINCO), Blumenau",
+                "ano": "2012"
+            },
+            {
+                "autores": "VARGAS, Saulo",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; STEMMER",
+                "local": "M. R.; REIS, D. S.; GOMES, P. C. R.; Interação Humano-Computador Baseada em Vídeo Através de Descritores de Fourier e Redes Neurais Artificiais. WRVA 2012 - IXI Workshop de Realidade Virtual e Aumentada, Paranavaí - PR",
+                "ano": "2012"
+            },
+            {
+                "autores": "BENKE, D.",
+                "titulo": "MELLO JUNIOR, L",
+                "evento": "J.; STIVANELLO",
+                "local": "M. E.; VARGAS, Saulo; Avaliação Automática de Amostras Biológicas Através de Visão Computacional. Mostra Integrada de Ensino, Pesquisa e extensão - MIPE, Blumenau",
+                "ano": "2011"
+            },
+            {
+                "autores": "SALDANHA, D. S.",
+                "titulo": "STIVANELLO, M",
+                "evento": "E.; VARGAS",
+                "local": "Saulo; DELUCHI, C. H. G.; Avaliação do Ambiente Flash para Desenvolvimento de Projetos Acadêmicos. Mostra Integrada de Ensino, Pesquisa e Extensão - MIPE, Blumenau",
+                "ano": "2011"
+            },
+            {
+                "autores": "VARGAS, Saulo",
+                "titulo": "MORETTO, G",
+                "evento": "; As Concepções que os Alunos Trazem do Acaso e suas Implicações para o Ensino e Aprendizagem da Probabilidade e Estatística. XV Seminário Interinstitucional de Ensino",
+                "local": "Pesquisa e Extensão, Cruz Alta",
+                "ano": "2010"
+            },
+            {
+                "autores": "VARGAS, Saulo",
+                "titulo": "MORETTO, G",
+                "evento": "; Pressupostos para o Ensino. XI Mostra de Pós-Graduação",
+                "local": "Taubaté",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Cesar Pereira Viana",
+                "titulo": "Desenvolvimento de um Sistema para Interação Humano-Computador baseado em Visão Computacional",
+                "ano": "2013",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Matheus Oliveira dos Santos",
+                "titulo": "Desenvolvimento de um Sistema para Interação Humano-Computador baseado em Visão Computacional",
+                "ano": "2013",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Pedro Henrique Schmitt",
+                "titulo": "Estudo e Desenvolvimento de Algoritmos de Processamento de Imagens Digitais para Visão Computacional",
+                "ano": "2011",
+                "curso": "Curso Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    }
+}

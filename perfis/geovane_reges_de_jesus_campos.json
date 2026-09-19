@@ -87,7 +87,7 @@
             {
                 "empresa": "Instituto Federal Goiano",
                 "periodo": "2014",
-                "cargo": "Prof do Ens. Básico, Técnico e Tecnológico, Disciplinas ministradas:Algoritmos e lógica de Programação, Operação de Computadores, Linguagem Python I, Modelagem de Banco de Dados, Linguaguagem Python II.."
+                "cargo": "Prof do Ens. Básico, Técnico e Tecnológico, Servidor público, Disciplinas ministradas:Algoritmos e lógica de Programação, Operação de Computadores, Linguagem Python I, Modelagem de Banco de Dados, Linguaguagem Python II.."
             }
         ],
         "direcao_administracao": ": Instituto Federal Goiano\nCampus Avançado Hidrolândia (2018) : Coordenador De Polo Da Uab.",
@@ -106,28 +106,22 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Educando e Formando Cidadãos para o Trânsito em Hidrolândia",
-                "periodo": "2018 - 2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Geovane Reges de Jesus Campos",
-                    "Amivaldo Batista dos Santos",
-                    "Alexandre Carvalho Silva",
-                    "Thays Martins Vital da Silva",
-                    "Alyce Fernandes Silva",
-                    "Albert Lino Leão",
-                    "Amanda Alves Batista Silva",
-                    "Gustavo Gonçalves Lima"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Horta Caseira",
                 "periodo": "2017 - 2017",
                 "natureza": "Extensao",
                 "equipe": [
                     "Geovane Reges de Jesus Campos",
                     "Wenderson Sousa Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Operador de Computador",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Geovane Reges de Jesus Campos",
+                    "Amivaldo Batista dos Santos"
                 ]
             },
             {
@@ -158,9 +152,9 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Operador de Computador",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
+                "nome": "Laboratório de Informática: Espaço de Aprendizagem e colaboração Digital",
+                "periodo": "2024",
+                "natureza": "Desenvolvimento",
                 "equipe": [
                     "Geovane Reges de Jesus Campos",
                     "Amivaldo Batista dos Santos"
@@ -189,12 +183,36 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Laboratório de Informática: Espaço de Aprendizagem e colaboração Digital",
-                "periodo": "2024",
-                "natureza": "Desenvolvimento",
+                "nome": "Desenvolvimento de ambientes de Realidade Virtual para treinamento de operadores de subestações da Indústria de Energia Elétrica",
+                "periodo": "2021 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcel da Silva Melo",
+                    "Geovane Reges de Jesus Campos",
+                    "Alexandre Carvalho Silva",
+                    "Luciano Carlos Ribeiro da Silva",
+                    "Joao Gabriel Moreira",
+                    "Angel Rodrigues Ferreira",
+                    "Gustavo Neri Pereira Dias",
+                    "Gabriel Vieira Melo",
+                    "Thyago Gomes Costa"
+                ],
+                "financiador": "Instituto Federal Goiano,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Educando e Formando Cidadãos para o Trânsito em Hidrolândia",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
                 "equipe": [
                     "Geovane Reges de Jesus Campos",
-                    "Amivaldo Batista dos Santos"
+                    "Amivaldo Batista dos Santos",
+                    "Alexandre Carvalho Silva",
+                    "Thays Martins Vital da Silva",
+                    "Alyce Fernandes Silva",
+                    "Albert Lino Leão",
+                    "Amanda Alves Batista Silva",
+                    "Gustavo Gonçalves Lima"
                 ]
             }
         ]

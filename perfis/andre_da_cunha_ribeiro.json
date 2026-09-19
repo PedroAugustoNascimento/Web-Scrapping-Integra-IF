@@ -36,28 +36,41 @@
             {
                 "empresa": "Centro Federal de Educação Tecnologica de Rio Verde Go",
                 "periodo": "1998 - 2008",
-                "cargo": "Professor, Professor de Ensino Básico, Técnico e Tecnológico."
+                "cargo": "Professor, Servidor público, Professor de Ensino Básico, Técnico e Tecnológico."
             },
             {
                 "empresa": "Centro Federal de Educação Tecnologica de Rio Verde Go",
                 "periodo": "1995 - 1998",
-                "cargo": ", Programador de Computadores."
+                "cargo": ", Servidor público, Programador de Computadores."
             },
             {
                 "empresa": "Universidade de Rio Verde",
                 "periodo": "1993 - 1995",
-                "cargo": "."
+                "cargo": ", Servidor público."
             },
             {
                 "empresa": "Instituto Federal Goiano",
                 "periodo": "1998",
-                "cargo": "."
+                "cargo": ", Servidor público."
             }
         ],
         "direcao_administracao": ": Instituto Federal Goiano\nCampus Rio Verde (2016 - 2019) .",
         "ensino": ": Instituto Federal Goiano\nGraduacao (2016) - Ciência Da Computação.\nGraduacao (2014 - 2016) - Engenharia Civil.",
         "comissoes": "",
         "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para Maratona de Programação e OBI",
+                "periodo": "2019 - 2019",
+                "natureza": "Ensino",
+                "equipe": [
+                    "André da Cunha Ribeiro",
+                    "Gabriel Medeiros Alves",
+                    "Athos José de Araújo",
+                    "Matheus de Jesus Amorim",
+                    "Gabriel Garcia Pavan"
+                ]
+            },
             {
                 "instituicao": "Instituto Federal Goiano",
                 "nome": "IF Goiano ? Câmpus Rio Verde na OBI",
@@ -90,29 +103,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Treinamento para Maratona de Programação e OBI",
-                "periodo": "2019 - 2019",
-                "natureza": "Ensino",
-                "equipe": [
-                    "André da Cunha Ribeiro",
-                    "Gabriel Medeiros Alves",
-                    "Athos José de Araújo",
-                    "Matheus de Jesus Amorim",
-                    "Gabriel Garcia Pavan"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Treinamento para Maratona de Programação e Abóbora Constest",
-                "periodo": "2025",
-                "natureza": "Ensino",
-                "equipe": [
-                    "André da Cunha Ribeiro",
-                    "Gabriel de Jesus Vieira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Programação Competitiva em Rio Verde",
                 "periodo": "2023",
                 "natureza": "Extensao",
@@ -133,6 +123,16 @@
                     "Douglas Cedrim Oliveira"
                 ],
                 "financiador": "Instituto Federal Goiano,"
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Treinamento para Maratona de Programação e Abóbora Constest",
+                "periodo": "2025",
+                "natureza": "Ensino",
+                "equipe": [
+                    "André da Cunha Ribeiro",
+                    "Gabriel de Jesus Vieira"
+                ]
             }
         ]
     },
@@ -353,6 +353,27 @@
     },
     "producao_outra": {
         "outras_orientacoes": [
+            {
+                "orientando": "Matheus de Jesus Amorim",
+                "titulo": "ANÁLISE DA TRAJETÓRIA COMPETITIVA NO IFGOIANO - CAMPUS RIO VERDE (2016?2025)",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Willian Pereira de Sousa",
+                "titulo": "SISTEMA WEB PARA AUXÍLIO NO PLANEJAMENTO DE ROTAÇÕES DE CULTURAS",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Paulo Felipe Candia Cazon",
+                "titulo": "Atribuição de papéis em alguns Grafos Cayley",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGoiano - Campus Rio Verde"
+            },
             {
                 "orientando": "Gabriel Medeiros Alves",
                 "titulo": "IMPLEMENTAÇÃO DE UM SISTEMA WEB PARA VISUALIZAÇÃO DE COLORAÇÃO DE ARESTAS EM GRAFOS DE CAYLEY H_l,p",

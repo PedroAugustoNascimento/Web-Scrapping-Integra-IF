@@ -1,0 +1,390 @@
+{
+    "campus": "- Campus Manaus Centro",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Detecção de Ruído em Repositórios de Máquinas de Busca",
+                "orientador": "Edleno Silva de Moura",
+                "ano_inicio": 2009,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Algoritmos para Avaliação de Confiança em Apontadores Encontrados na Web",
+                "orientador": "Edleno Silva de Moura",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "INFORMATICA EDUCATIVA",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "ano_inicio": 1992,
+                "ano_fim": 1992
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "TECNOLOGIA JAVA",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "orientador": "Vicente Lucena Junior",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "TECNOLOGIA EM ELETRONICA",
+                "instituicao": "Instituto de Tecnologia da Amazônia",
+                "ano_inicio": 1988,
+                "ano_fim": 1992
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "CENTRO FEDERAL DE EDUCACAO TECNOLOGICAO DO AMAZONAS",
+                "ano_inicio": 1987,
+                "ano_fim": 2008,
+                "funcao": "PROFESSOR",
+                "vinculo": "Servidor público",
+                "descricao": "Mudou a razão social de CEFET-AM para IF-AM"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Professor do Ensino Médio",
+                "vinculo": "Técnico e Tecnológ",
+                "descricao": "Servidor público"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2020 - 2023) : Pró-reitor De Pesquisa, Pós-graduação E Inovação.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2017 - 2020) : Chefe Do Departamento De Informação E Comunicação.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2016 - 2017) : Coordenador Do Curso Técnico De Informática.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nEnsino-medio (2018) .\nGraduacao (2018) - Tecnologia Em Desenvolvimento De Software.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "CENTRO FEDERAL DE EDUCACAO TECNOLOGICAO DO AMAZONAS",
+                "nome": "Laboratório de excelência em P&D utilizando tecnologia J2ME",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Andréa Pereira Mendonça",
+                    "Vicente Ferreira De Lucena Júnior",
+                    "Isaac Benjamin Benchimol",
+                    "José Pinheiro De Queiroz Neto",
+                    "Valteir Romão"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "ROBO-TI: Robótica educacional no incentivo de alunos do ensino médio para atuação na área de Tecnologia da Informação.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "José Pinheiro De Queiroz Neto",
+                    "Daily Daleno De O. Rodrigues",
+                    "Vitor Bremgartner Da Frota",
+                    "Joyce Miranda Dos Santos",
+                    "Hillermann Ferreira Osmidio Lima",
+                    "Micila Sumaria Medeiros Pereira",
+                    "Sionise Rocha Gomes",
+                    "Hilton Barros De Castro",
+                    "Euler Vieira Da Silva",
+                    "Lia Alessandra Da Silva Martins",
+                    "Antônio Marcos Lima Xavier",
+                    "Antonio Ferreira Dos Santos Junior",
+                    "Gabriel Pinheiro Compto"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Latin-America Practices and Soft Skills for an Innovation Oriented Network - LAPASSION",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Isaac Benjamin Benchimol",
+                    "José Pinheiro De Queiroz Neto",
+                    "Joyce Miranda Dos Santos",
+                    "Flávio José Aguiar Soares",
+                    "Criscian Kellen Amaro De Oliveira",
+                    "Carlos Ramos",
+                    "Gilbert Martins Breves"
+                ],
+                "financiador": "Erasmus Plus,",
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Laboratório de Convergência Digital e Computação Pervasiva - LABCONDIG",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Vicente Ferreira De Lucena Júnior",
+                    "Isaac Benjamin Benchimol",
+                    "José Pinheiro De Queiroz Neto",
+                    "Lady Daiana De Oliveira Pinto"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2007,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Grupo de Pesquisa Computação Aplicada",
+                "natureza": "Outra",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Emmerson Santa Rita Silva",
+                    "Neila Batista Xavier",
+                    "Viviane Gols Da Silva"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "BICENTENÁRIO DA INDEPENDÊNCIA: 200 anos de ciência, tecnologia e inovação no Brasil e 113 anos de Ensino Profissional e Tecnológico no Amazonas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Schimpl",
+                    "Flavia Camila"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "IFControl 3.0 - Uma proposta inteligente para economizar energia e controllar recursos do ambiente",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Cauã Adriel Reis Zacarias",
+                    "Jeison Andres Pena Arevalo",
+                    "Axel Santos Da Silva"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "MOB_IFAM: Programa de mobilidade para cooperação e desenvolvimento de pesquisas na área de tecnologia da informação e engenharia eletrônica.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jucimar Brito De Souza",
+                    "Isaac Benjamin Benchimol",
+                    "José Pinheiro De Queiroz Neto",
+                    "Ana Célia Said"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "AMAZONAS",
+                    "titulo": "L. M.,  LIMA, R.,  JUCIMAR SOUZA,  I Encontro Regional de Informática - ERIN 2009",
+                    "ano": "2009",
+                    "instituicao_promotora": "Universidade Federal do Amazonas."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOUZA",
+                    "curso": "J. B.,  JAVA BÁSICO",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "J. B.,  JAVA BÁSICO",
+                    "ano": "2006"
+                },
+                {
+                    "autor": "SOUZA",
+                    "curso": "J. B.,  JAVA 2 MICRO EDITION",
+                    "ano": "2006"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUZA",
+                    "evento": "J. B.,  XXVI Olimpíada Brasileira de Informática (OBI2024)",
+                    "ano": "2024",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "UNICAMP."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "JUCIMAR,  Olimpiada Brasileira de Robótica",
+                    "ano": "2016",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "UNICAMP."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "J. B.,  Olimpiada Brasileita de Informática - OBI no IFAM",
+                    "ano": "2015",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "UNICAMP."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "J. B.,  Olimpiada Brasileita de Informática - OBI no IFAM",
+                    "ano": "2014",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "UNICAMP."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DA SILVA, DANIEL SANTOS",
+                "titulo": "DE SOUZA, JUCIMAR BRITO;  Desenvolvimento de aplicativo Android para dispositivos móveis voltado para identificação de entrada e saída de alunos do ensino médio no IFAM-CMC / Development of an Android application for mobile devices aimed at identifying the entrance and exit of high school students at IFAM-CMC",
+                "ano": "2021",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "PEQUENO, PEDRO VINÍCIUS DE OLIVEIRA",
+                "titulo": "SILVA, EMMERSON SANTA RITA DA;  SOUZA, JUCIMAR BRITO DE;  MACHADO, MARCELO CHAMY;  ConceptER - Uma ferramenta para criação e manutenção do Modelo Entidade-Relacionamento e geração automática de instruções SQL para banco de dados",
+                "ano": "2020",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "SOUZA, JUCIMAR",
+                "titulo": "CARVALHO, ANDRÉ;  CRISTO, MARCO;  MOURA, EDLENO;  CALADO, PAVEL;  CHIRITA, PAUL-ALEXANDRU;  NEJDL, WOLFGANG;  Using site-level connections to estimate link confidence",
+                "ano": "2012",
+                "periodico": "Journal of the American Society for Information Science and Technology (Print). ISBN: 15322882   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PEQUENO, PEDRO",
+                "titulo": "RITA, EMMERSON S",
+                "evento": "; SOUZA",
+                "local": "JUCIMAR B.; MACHADO, MARCELO C.; ConceptER - Uma ferramenta para criação e manutenção do Modelo Entidade-Relacionamento e geração automática de instruções SQL para banco de dados. VI Encontro Nacional de Computação dos Institutos Federais, Belem",
+                "ano": "2019"
+            },
+            {
+                "autores": "D. Feitosa",
+                "titulo": "E",
+                "evento": "Neves; SOUZA",
+                "local": "JUCIMAR BRITO DE; EMMERSON SANTA RITA DA SILVA; EASYCODE: UM AMBIENTE DE TECNOLOGIAS DE APOIO PARA O ENSINO DE LÓGICA DE PROGRAMAÇÃO. V Simpósio de Ensino Tecnológico do Amazonas - V SETA, Manaus",
+                "ano": "2019"
+            },
+            {
+                "autores": "SCANTLEBURY, GBSON",
+                "titulo": "VIEIRA, LEONARDO; SILVA, EMMERSON; SOUZA, JUCIMAR; Desenvolvimento de Tecnologias Assistivas Para Imersão de Deficientes Visuais em Ambientes Educacionais",
+                "evento": "IV Encontro Nacional de Computação dos Institutos Federais",
+                "local": "São Paulo",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, G. S.",
+                "titulo": "RAMOS, P",
+                "evento": "A.T; ALCANTARA JÚNIOR",
+                "local": "J.S.; JUCIMAR SOUZA; IFCONTROL ? UMA PROPOSTA PARA CONTROLAR O AMBIENTE DAS SALAS DE AULA EM UMA INSTITUIÇÃO DE ENSINO. I CONGRESSO DE CIÊNCIA, EDUCAÇÃO E PESQUISA TECNOLÓGICA - CONCEPT, Manaus",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Daniel Santos da Silva",
+                "titulo": "MAPES: APLICATIVO PARA MONITORAMENTO GEOGRÁFICO DE ALUNOS",
+                "ano": "2020",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Érika Soares da Silva",
+                "titulo": "UNDER ATTACK: UM SISTEMA WEB GAMIFICADO PARA APOIO AO ENSINO DE TESTE DE SOFTWARE",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Marcos Paulo Ferreira Mamede dos Santos",
+                "titulo": "USO DE TECNOLOGIAS WEB/MOBILE PARA AUTOMATIZAÇÃO DE SERVIÇOS EM ESCRITÓRIOS JURÍDICOS",
+                "ano": "2013",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Edisandro Bessa de Lima",
+                "titulo": "SISTEMA CAR SERVICES: CONTROLE AUTOMATIZADO DE MANUTENÇÃO PREVENTIVA DE VEÍCULOS",
+                "ano": "2008",
+                "curso": "Desenvolvimento de Software para WEB",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Carlos Eduardo Leitão da Silva",
+                "titulo": "SISTEMA WEB PARA GERENCIAMENTO DE PROJETOS DE IMPLANTAÇÃO DE SOFTWARES",
+                "ano": "2008",
+                "curso": "Desenvolvimento de Software para WEB",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "LUCY MARY FEITOSA AMAZONAS",
+                "titulo": "AUDIONEWS - SISTEMA DE NOTÍCIAS VIA WEB: UM MODELO PARA INCLUSÃO DIGITAL DE DEFICIENTES VISUAIS",
+                "ano": "2008",
+                "curso": "Desenvolvimento de Software para WEB",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Robson Ramos Ferreira",
+                "titulo": "INTEGRAÇÃO DE SISTEMAS HETEROGÊNEOS UTILIZANDO WEB SERVICES",
+                "ano": "2008",
+                "curso": "Desenvolvimento de Software para WEB",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "LINCOLN ANDRADE SANTOS",
+                "titulo": "SAP ? SISTEMA DE ATOS DE PESSOAL",
+                "ano": "2007",
+                "curso": "Desenvolvimento de Software para WEB",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Lidiane Parente Andrade",
+                "titulo": "Sistema Consultivo de Exames Clínicos via Web",
+                "ano": "2007",
+                "curso": "Desenvolvimento de Software para WEB",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 4.876868724822998,
+            "indian": 3.486218214035034,
+            "black": 0.5910989046096802,
+            "white": 51.96199035644531,
+            "middle eastern": 24.79644775390625,
+            "latino hispanic": 14.287379264831543
+        }
+    }
+}

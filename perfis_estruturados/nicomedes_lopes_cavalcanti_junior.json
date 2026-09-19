@@ -1,0 +1,385 @@
+{
+    "campus": "- Campus Nova Cruz",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engineering Science",
+                "instituicao": "University of Oxford",
+                "titulo": "Action Recognition",
+                "orientador": "David Murray",
+                "ano_inicio": 2006,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Clusterização baseada em algoritmos fuzzy",
+                "orientador": "Francisco de Assis Tenório de Carvalho",
+                "ano_inicio": 2004,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal da Paraíba",
+                "ano_inicio": 2000,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Telemática",
+                "instituicao": "CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DA PARAÍBA",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro de Estudos e Sistemas Avançados do Recife",
+                "ano_inicio": 2006,
+                "ano_fim": 2006,
+                "funcao": "Engenheiro de Sistemas Jr 4",
+                "vinculo": "Celetista formal",
+                "descricao": "Responsável por implementer uma versão do SIP (Session Initiation Protocol) para aparelhos celulares como parte de uma aplicação ?Pressione para falar? (Push to talk). Este trabalho foi executado como parte da divisão de pesquisa e desenvolvimento do César. O objetivo principal era desenvolver componentes básicos, que poderiam ser utilizados para construir aplicações mais complexas. Tecnologias utilizadas: C orientado a objetos, padrões de projeto, modelagem UML, SVN, bugzilla, Mantis, Máquina virtual Linux, Técnicas de especificação de requisitos para conformidade com a normatização do protocolo SIP"
+            },
+            {
+                "empresa": "Real time oriented Applications",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Prestação de Serviço",
+                "vinculo": "Não informado",
+                "descricao": "Montagem do Projeto de uma Aplicação de tempo real de Monitoramento e Arbitragem para investimento em bolsa de valores Organização da equipe Definição de tecnologias e arquitetura Prototipação em C#"
+            },
+            {
+                "empresa": "Associação Paraíbana de Ensino Renovado",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Professor Adjunto",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Information Sciences",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Micro & Nano Letters",
+                "ano_inicio": 2011,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade de São Paulo",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Programa FAPESP de capacitação e treinamento",
+                "vinculo": "Bolsista",
+                "descricao": "Manutenção para o software AcMus, um software para medição de parâmetros acústicos em salas de concerto"
+            },
+            {
+                "empresa": "Empresa de Tecnologia e Informações da Previdência Social",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Analista de Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Zênite Automação e Informática",
+                "ano_inicio": 2002,
+                "ano_fim": 2004,
+                "funcao": "Estagiário",
+                "vinculo": "Estagiário",
+                "descricao": "Parte do grupo de desenvolvimento, implementação e desenvolvimento de um aplicativo para controle de horas trabalhadas por um empregado baseado em batidas de cartão de ponto ou crachá. Os crachás e leitores eram produzidos na empresa. O software possuía diversas funcionalidades como gerar o relatório de ponto de cada funcionário ao final de cada período, administrar banco de horas, horários flexíveis, abonos, integração a sistemas de folhas de pagamento e outros. Habilidades Envolvidas: Análise e modelagem em UML, modelagem de dados relacional ER, Object Pascal, C++, SQL, ferramentas RAD (Rapid Application Development) como Delphi 5.0 e C++ Builder 4.0"
+            },
+            {
+                "empresa": "Universidade Federal da Paraíba",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Paraíba",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Prestação de Serviço FUNAPE",
+                "vinculo": "Desenvolvimento de aplicação para controle financeiro de verbas enviadas pela CAPES aos programas de pós-graduação da UFPB. Tecnologias utilizadas: J2EE",
+                "descricao": "Tomcat, Oracle 9i, Hibernate, Java Swing"
+            },
+            {
+                "empresa": "Universidade Federal da Paraíba",
+                "ano_inicio": 2005,
+                "ano_fim": null,
+                "funcao": "Colaborador",
+                "vinculo": "Não informado",
+                "descricao": "Pesquisa na área de modelagem de imagens: Uso de modelos de compressão de dados para segmentação de imagens e classificação de texturas no grupo de pesquisa do Prof. Dr. Leonardo Vidal Batista"
+            },
+            {
+                "empresa": "Universidade Federal da Paraíba",
+                "ano_inicio": 2002,
+                "ano_fim": 2004,
+                "funcao": "Bolsista",
+                "vinculo": "Iniciação Científica",
+                "descricao": "Orientador: Prof. Dr. Didier Jean Georges Guigue Projeto do Cnpq, número do processo 523580/1996-7 Grupo de pesquisa em música, musicologia e tecnologia aplicada - GMT Pesquisa e Desenvolvimento: -Desenvolvimento de uma ferramenta para segmentação automática de fluxos musicais. -Development of a website for music composition -Continuação do desenvolvimento de uma aplicação web para composição baseado na obra do pianista norte-americano Earle Brown. Habilidades Envolvidas: sistemas multi-agentes, inteligência artificial, programação em Java, administração de uma máquina MAC OS X. http://www.cchla.ufpb.br/gmt/"
+            },
+            {
+                "empresa": "Universidade Federal da Paraíba",
+                "ano_inicio": 2002,
+                "ano_fim": 2004,
+                "funcao": "Colaborador",
+                "vinculo": "Não informado",
+                "descricao": "Pesquisa em tópicos de processamento de imagens e teoria da informação no grupo de pesquisa do Prof. Dr. Leonardo Vidal Batista"
+            },
+            {
+                "empresa": "CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DA PARAÍBA",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Voluntario",
+                "vinculo": "Monitor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Professor Assistente",
+                "vinculo": "Nível 01",
+                "descricao": "Professor Substituto, Ensinar: -Introdução à Computação (algoritmos e Pascal) -Introdução à Programação (algoritmos e estruturas) -Cálculo Numérico -Elementos de Informática (introdução básica à Internet, Web, Processadores de texto, planilhas, etc)"
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Pesquisador EAD",
+                "vinculo": "Professor Pesquisador I",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal Rural de Pernambuco",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor Auxiliar",
+                "vinculo": "Nível 1",
+                "descricao": "Professor Substituto, 11/2004-02/2005 Ensinar: -Introdução à Computação (algoritmos e Pascal) -Introdução à microeletrônica -Software Educacional 03/2005-10/2005 Ensinar: -Introdução à Computação (algoritmos e Pascal) -Banco de Dados (Modelagem, Modelo ER, Normalização, Linguagem de definição, DDL, e consultas, SQL )"
+            },
+            {
+                "empresa": "Institut National de Recherche en Informatique et Automatique",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Estagiário de pesquisa",
+                "vinculo": "Período: 10/2005-03/2006 Orientador: Prof. Dr. Fabrice Rossi -Desenvolvimento baseado em antigas implementações de algoritmos SOM (Self-Organizing Map) e DSOM (Dissimilarity Self-Organizing Map) para formar uma biblioteca chamada Somlib. -Trabalhos realizados no linux",
+                "descricao": "Mandriva 10.0; Linguagem Java 5.0; Ambiente Eclipse; Ferramenta web de trabalho colaborativo; Controle de Versão: SVN; JUNIT para testes. -Planejamento e escrita de casos de teste; documentação de código; reengenharia e refatoramento de código; desenvolvimento de novas funcionalidades"
+            },
+            {
+                "empresa": "ew3 - Internet business",
+                "ano_inicio": 2011,
+                "ano_fim": 2015,
+                "funcao": "Consultor",
+                "vinculo": "Não informado",
+                "descricao": "Participando como pesquisador e gerente no desenvolvimento de um novo produto"
+            },
+            {
+                "empresa": "ew3 - Internet business",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "Estagiário",
+                "vinculo": "Estagiário",
+                "descricao": "Membro do grupo de modelagem e implementação para o sistema de atendimento ao cliente (SAC) da companhia de água da Paraíba, CAGEPA. Realizar manutenção de outras aplicações desenvolvidas pela empresa. Habilidades Envolvidas: Uso de uma linguagem de modelagem (UML), Modelagem ER, Engenharia de Software, Java (JSP, JDBC, Struts), Object Pascal, SQL, MySQL, Jasper Report, Portabilidade de código através de integração de Java a código nativo Linux(lib) e Window(dll) via JNI para acesso a impressora BEMATECH"
+            },
+            {
+                "empresa": "ew3 - Internet business",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "Consultor",
+                "vinculo": "Consultor",
+                "descricao": "Prestou serviço à EW3 produzindo uma interface WEB utilizando a linguagem Java e ferramentas como servidor WEB Tomcat, JasperReport. Esta interface Web serviu para complementar o sistema SAC para a empresa Cagepa fornecendo relatórios e indicadores administrativos e gerenciais baseados na base de dados do sistema SAC, também desenvolvido pela EW3"
+            },
+            {
+                "empresa": "Serviço Federal de Processamento de Dados",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Analista",
+                "vinculo": "Celetista formal",
+                "descricao": "Membro de um time responsável pela especificação e desenvolvimento de um novo sistema para a Receita Federal. Habilidades Envolvidas: Aprendizagem do processo de desenvolvimento adotado pela empresa, engenharia de requisitos"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal Rural de Pernambuco\nGraduacao (2009 - 2009) - Licenciatura Em Computação.\nGraduacao (2009 - 2009) - Licenciatura Em Física.\nGraduacao (2009 - 2009) - Zootecnia.\nGraduacao (2009 - 2010) - Licenciatura Em Computação.\nGraduacao (2005 - 2005) - Licenciatura Em Computação.\nGraduacao (2005 - 2005) - Licenciatura Em Química.\nGraduacao (2005 - 2005) - Engenharia Agrícola.\nGraduacao (2005 - 2005) - Licenciatura Em Computação.\nGraduacao (2004 - 2005) - Licenciatura Em Computação.\nGraduacao (2004 - 2005) - Engenharia Agrícola.\nGraduacao (2004 - 2005) - Licenciatura Em Matemática.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Pernambuco",
+                "nome": "Recuperação de imagens utilizando CSS e SOM",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nicomedes Lopes Cavalcanti Junior",
+                    "De Souza",
+                    "Renata M.C.R.",
+                    "De Almeida",
+                    "Carlos W.D."
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Institut National de Recherche en Informatique et Automatique",
+                "nome": "AXIS (User-centered design, analysis and improvement of information systems)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Nicomedes Lopes Cavalcanti Junior"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "Cavalcanti Junior",
+                    "evento": "N.L.,  Seventh International Conference on Intelligent Systems Design and Applications, ISDA 2007",
+                    "ano": "2007",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IEEE."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DE CARVALHO, F. A. T.",
+                "titulo": "TENÓRIO, C. P.;  CAVALCANTI JUNIOR, N. L.;  Partitional Fuzzy Clustering Methods Based on Adaptive Quadratic Distances",
+                "ano": "2006",
+                "periodico": "Fuzzy sets and systems   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "NASCIMENTO, M. V. P.",
+                "titulo": "BATISTA, L",
+                "evento": "V.; Cavalcanti Junior",
+                "local": "N.L.; A New Approach to Biometric Recognition based on Hand Geometry. 30th ACM Symposium on Applied Computing, Salamanca",
+                "ano": "2015"
+            },
+            {
+                "autores": "CAVALCANTI JUNIOR, N. L.",
+                "titulo": "BARROS, R",
+                "evento": "S. M.; ROMEIRO",
+                "local": "M. B.; A model for extending legacy applications by implementing new requirements as components. 2006 IEEE International Conference on Services Computing, Chicago",
+                "ano": "2006"
+            },
+            {
+                "autores": "DE CARVALHO, F. A. T.",
+                "titulo": "CAVALCANTI JUNIOR, N",
+                "evento": "L.; Fuzzy clustering algorithms for symbolic interval data based on L2 Norm. IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2006)",
+                "local": "Vancouver",
+                "ano": "2006"
+            },
+            {
+                "autores": "BATISTA, L. V.",
+                "titulo": "MEIRA, M",
+                "evento": "M.; CAVALCANTI JUNIOR",
+                "local": "N. L.; Content-Based Texture Image Retrieval Using The Lempel-Ziv-Welch Algorithm. First International Conference on Computer Vision Theory and Applications (VISAPP 2006), Setúbal",
+                "ano": "2006"
+            },
+            {
+                "autores": "ALMEIDA, C. W. D.",
+                "titulo": "RODRIGUES, C",
+                "evento": "E. B.; CAVALCANTI JUNIOR",
+                "local": "N. L.; A Shape-Based Image Retrieval System Using the Curvature Scale Space (CSS). 6th International Conference on Hybrid Intelligent Systems (HIS 06), Auckland",
+                "ano": "2006"
+            },
+            {
+                "autores": "CAVALCANTI JUNIOR, N. L.",
+                "titulo": "DE CARVALHO, F",
+                "evento": "A. T.; A Fuzzy c-means Algorithm Based on an Adaptive L2 Minkowsky Distance. Fifth International Conference on Hybrid Intelligent Systems (HIS?05)",
+                "local": "Rio de Janeiro (Brasil)",
+                "ano": "2005"
+            },
+            {
+                "autores": "BATISTA, L. V.",
+                "titulo": "MEIRA, M",
+                "evento": "M.; CAVALCANTI JUNIOR",
+                "local": "N. L.; Texture Classification using Local and Global Histogram Equalization and the Lempel-Ziv-Welch. Fifth International Conference on Hybrid Intelligent Systems (HIS?05), Rio de Janeiro",
+                "ano": "2005"
+            },
+            {
+                "autores": "CAVALCANTI JUNIOR, N. L.",
+                "titulo": "DE CARVALHO, F",
+                "evento": "A. T.; An Adaptive Fuzzy c-means Algorithm with the L2 Norm.. 18th Australian Joint Conference on Artificial Intelligence (AI05)",
+                "local": "Sydney",
+                "ano": "2005"
+            },
+            {
+                "autores": "SILVA, A. C. G.",
+                "titulo": "DE CARVALHO, F",
+                "evento": "A. T.; LUDEMIR",
+                "local": "T. B.; CAVALCANTI JUNIOR, N. L.; Comparing Metrics in Fuzzy Clustering for Symbolic Data on SODAS format.. IX Ibero-American Conference on Artificial Intelligence (IBERAMIA2004), Puebla",
+                "ano": "2004"
+            },
+            {
+                "autores": "LIMA, E. T.",
+                "titulo": "GUIGUE, D",
+                "evento": "; COSTA",
+                "local": "E. B.; SILVA, K. S.; CAVALCANTI JUNIOR, N. L.; SOS: A Tool for the Automatic Segmentation of Musical Flows. IX Simpósio Brasileiro de Computação e música, Campinas - SP",
+                "ano": "2003"
+            },
+            {
+                "autores": "CAVALCANTI JUNIOR, N. L.",
+                "titulo": "NASCIMENTO, M",
+                "evento": "V. P.; BATISTA",
+                "local": "L. V.; Um Sistema de Morphing Baseado em Campos. III Encontro Regional de Matemática Aplicada e Computacional - ERMAC, João Pessoa",
+                "ano": "2003"
+            },
+            {
+                "autores": "CAVALCANTI JUNIOR, N. L.",
+                "titulo": "GUIGUE, D",
+                "evento": "; LIMA",
+                "local": "E. T.; Uma ferramenta para segmentação automática de fluxos musicais. XI Encontro de Iniciação Científica da UFPB, João Pessoa",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 12.500616073608398,
+            "indian": 16.25617218017578,
+            "black": 7.961662769317627,
+            "white": 18.932018280029297,
+            "middle eastern": 18.221418380737305,
+            "latino hispanic": 26.12812042236328
+        }
+    }
+}

@@ -425,13 +425,6 @@
                 "instituicao": "Faculdade de Ensino Superior de Catalão"
             },
             {
-                "orientando": "Eduardo Silva",
-                "titulo": "Gestão de Controle de Estoquese sua Aplicação no Almoxarifado - Estudo de Caso: Empresa Alpha",
-                "ano": "2012",
-                "curso": "Administração",
-                "instituicao": "Centro de Ensino Superior de Catalão"
-            },
-            {
                 "orientando": "Eder Antônio Neto",
                 "titulo": "Análise através de índeice econômico financeiro: Um estudo de caso realizado na empresa BASF S.A.",
                 "ano": "2012",
@@ -460,13 +453,6 @@
                 "instituicao": "Centro de Ensino Superior de Catalão"
             },
             {
-                "orientando": "Jucilaine Tomé Arruda",
-                "titulo": "O perfil ético e profissional do contabilista na cidade de Catalão-GO",
-                "ano": "2012",
-                "curso": "Ciências Contábeis",
-                "instituicao": "Faculdade de Ensino Superior de Catalão"
-            },
-            {
                 "orientando": "Marcelo Marcos Machado",
                 "titulo": "A importância do contador na consultoria de um empreendimento",
                 "ano": "2012",
@@ -486,6 +472,20 @@
                 "ano": "2012",
                 "curso": "Administração",
                 "instituicao": "Centro de Ensino Superior de Catalão"
+            },
+            {
+                "orientando": "Eduardo Silva",
+                "titulo": "Gestão de Controle de Estoquese sua Aplicação no Almoxarifado - Estudo de Caso: Empresa Alpha",
+                "ano": "2012",
+                "curso": "Administração",
+                "instituicao": "Centro de Ensino Superior de Catalão"
+            },
+            {
+                "orientando": "Jucilaine Tomé Arruda",
+                "titulo": "O perfil ético e profissional do contabilista na cidade de Catalão-GO",
+                "ano": "2012",
+                "curso": "Ciências Contábeis",
+                "instituicao": "Faculdade de Ensino Superior de Catalão"
             },
             {
                 "orientando": "Carlos Viveiros",
@@ -558,15 +558,15 @@
                 "instituicao": "Centro de Ensino Superior de Catalão"
             },
             {
-                "orientando": "Cássia Cristina Rodrigues Felício",
-                "titulo": "Planejamento e gerencia de projetos com ênfase no PMI: Estudo de caso na empresa John Deere",
+                "orientando": "Aline da Silva",
+                "titulo": "Tecnologia de informação aplicada à administração moderna",
                 "ano": "2008",
                 "curso": "Administração em Sistemas de Informação Gerencial",
                 "instituicao": "Centro de Ensino Superior de Catalão"
             },
             {
-                "orientando": "Aline da Silva",
-                "titulo": "Tecnologia de informação aplicada à administração moderna",
+                "orientando": "Cássia Cristina Rodrigues Felício",
+                "titulo": "Planejamento e gerencia de projetos com ênfase no PMI: Estudo de caso na empresa John Deere",
                 "ano": "2008",
                 "curso": "Administração em Sistemas de Informação Gerencial",
                 "instituicao": "Centro de Ensino Superior de Catalão"
@@ -1013,5 +1013,18 @@
                 "instituicao": "Centro de Ensino Superior de Catalão"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.006791069637984037,
+            "indian": 0.0274362675845623,
+            "black": 0.0011257422156631947,
+            "white": 89.02149963378906,
+            "middle eastern": 6.154139518737793,
+            "latino hispanic": 4.789012908935547
+        }
     }
 }

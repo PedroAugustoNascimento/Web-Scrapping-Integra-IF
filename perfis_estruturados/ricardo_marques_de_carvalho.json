@@ -1,0 +1,389 @@
+{
+    "campus": "- Campus Morrinhos",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Administração",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Atitudes e Comportamentos: Avaliação de Influenciadores Digitais Fitness com o uso de Inteligência Artificial",
+                "orientador": "Ricardo Limongi França Coelho",
+                "ano_inicio": 2020,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Agronegócios",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "Contribuição ao estudo de consumo alimentar nas famílias do Distrito Federal: Aplicação da tecnologia de descobrir conhecimento em base de dados (KDD)",
+                "orientador": "Edwin Pinto de La Sota",
+                "ano_inicio": 2004,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Científica e Tecnológica",
+                "instituicao": "Instituto Federal Goiano",
+                "orientador": "Lídia Morais",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Pontifícia Universidade Católica de Goiás",
+                "ano_inicio": 1997,
+                "ano_fim": 2001
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Administração",
+                "instituicao": "Universidade Gama Filho",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Companhia do Desenvolvimento do Planalto Central",
+                "ano_inicio": 2004,
+                "ano_fim": 2007,
+                "funcao": "Analista de Business Intelligence",
+                "vinculo": "- Análise e desenvolvimento de sistemas de Business Intelligence; - Líder / Coordenador de projetos de BI; - Levantamento de Informações Gerenciais",
+                "descricao": "Modelagem multidimensional, Construção de DW e DM; - Levantamento das necessidades funcionais, Análise e Mapeamento de Processos; - KDD - DataMining; - Levantamento de indicadores de desempenho (KPIs) para construção de Dashboards; - Implantação de Sistemas de Infomações Gerenciais em diversos orgãos do GDF(Governo do Distrito Federal), dentre os quais se destacam (Secretaria de Educação, Secretaria de Gestão Administrativa, Corregedoria, Secretaria da Solidariedade, etc.). - Ferramentas utilizadas nos projetos: Sybase IQ (Banco de Dados), Business Objects XI (OLAP), Gomining (Datamining)"
+            },
+            {
+                "empresa": "Secretaria de Estado da Fazenda de Goiás",
+                "ano_inicio": 2001,
+                "ano_fim": 2003,
+                "funcao": "Analista de Data Warehouse",
+                "vinculo": "Prestador de serviços",
+                "descricao": "- Utilização da metodologia e-comet(Metodologia de construção de projetos de Data Warehouses / Data Marts baseada no PMI); - Levantamento das necessidades gerenciais, fontes de informações, riscos, responsabilidades e premissas para composição do escopo para o plano de trabalho; - Análise de negócios; - Desenvolvimento de processos de ETL; - Configuração e ambientação das ferramentas da Business Objects; - Treinamento aos usuários; - Ferramentas utilizadas no projeto: Microsoft SQL Server, DTS (ETL) e Ferramentas OLAP da Business Objects"
+            },
+            {
+                "empresa": "Banco de Brasília",
+                "ano_inicio": 2003,
+                "ano_fim": 2004,
+                "funcao": "Analista de Data Warehouse",
+                "vinculo": "Celetista formal",
+                "descricao": "- Levantamento: das necessidades gerenciais, fontes de informações, riscos, responsabilidades e premissas para composição do escopo no plano de trabalho; - Configuração e ambientação das ferramentas da Business Objects; - Treinamento aos usuários. Ferramentas utilizadas no projeto: Oracle, Informática Power Center (ETL) e Ferramentas OLAP da Business Objects"
+            },
+            {
+                "empresa": "Politec Informática - Matriz",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Analista / Desenvolvedor",
+                "vinculo": "Celetista formal",
+                "descricao": "- Análise e desenvolvimento de sistemas na fábrica de software da Politec; - Ferramentas utilizadas no projeto: Java(MVC), Java Script, HTML, JBuilder, Rational Rose e Oracle"
+            },
+            {
+                "empresa": "CPMBRAXIS",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Analista / Projetista - Business Intelligence",
+                "vinculo": "Celetista formal",
+                "descricao": "Projeto na OI - Rio de Janeiro Análise e Projeto do Sistema de Portabilidade Numérica, sendo o responsável pelo levantamento de requisitos e criação dos diagramas UML para insumos ao desenvolvimento deste sistema pela fábrica de software. Ferramentas utilizadas no projeto: Pacote Office e EA. Projeto na CLARO - São Paulo - Análise de Requisitos Gerenciais, Modelagem Dimensional e Desenvolvimento ETL. Ferramentas utilizadas no projeto: MS Project e Informática Power Center. Minha principal realização neste projeto foi a persistência em encontrar soluções para diversos problemas que surgiram, Resistindo a uma pressão no trabalho de 16 horas por dia de domingo a domingo durante 4 meses. O equilíbrio emocional foi o ponto chave para resistir e suportar tais circunstâncias"
+            },
+            {
+                "empresa": "CAST INFORMATICA S.A",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Consultor de Business Intelligence",
+                "vinculo": "Não informado",
+                "descricao": "- Consultoria em projetos de Business Intelligence utilizando tecnologias SAP e Oracle. - Planejamento de arquiteturas computacionais para compor soluções de Business Intelligence"
+            },
+            {
+                "empresa": "CAST INFORMATICA S.A",
+                "ano_inicio": 2008,
+                "ano_fim": 2013,
+                "funcao": "Analista de Business Intelligence",
+                "vinculo": "Celetista formal",
+                "descricao": "- Análise e desenvolvimento de sistemas de Business Intelligence. - Analise de requisitos para sistema GED/ECM - Planejamento de arquiteturas computacionais para compor soluções de Business Intelligence"
+            },
+            {
+                "empresa": "Empresa de Tecnologia e Informações da Previdência Social",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Empregado Público",
+                "vinculo": "Gestor de Negócios do SIGEPE (Sistema de Gestão de Pessoas do Governo Federal ) formado pelo consórcio entre a UnB",
+                "descricao": "Serpro, Dataprev e Ministério do Planejamento, Orçamento e Gestão (MPOG)"
+            },
+            {
+                "empresa": "Empresa de Tecnologia e Informações da Previdência Social",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Empregado Público",
+                "vinculo": "Não informado",
+                "descricao": "Analista de Negócios da COPN(Coordenação de Gestão de Portfólio e Novos Negócios)"
+            },
+            {
+                "empresa": "Escola Mundo Encantado das Letrinhas",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Professor Ensino Fundamental I",
+                "vinculo": "Contrato especial",
+                "descricao": "Professor de matemática na Educação Fundamental I"
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Ipameri (GO)",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "Coordenador do Curso Técnico em Comércio",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Ipameri (GO)",
+                "ano_inicio": 2016,
+                "ano_fim": 2019,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "RDG - LTDA",
+                "ano_inicio": 2011,
+                "ano_fim": 2014,
+                "funcao": "Sócio Gerente",
+                "vinculo": "Não informado",
+                "descricao": "Sócio Gerente na RDG - LTDA"
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial - GO",
+                "ano_inicio": 1999,
+                "ano_fim": 2001,
+                "funcao": "Instrutor de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Morrinhos (GO)",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2024,
+                "ano_fim": 2024,
+                "funcao": "Professor da disciplina de Marketing II",
+                "vinculo": "Estágio Doutoral",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "Pesquisador colaborador",
+                "vinculo": "Não informado",
+                "descricao": "Aluno do PPGADM (Doutorado em Administração)"
+            },
+            {
+                "empresa": "RGSA (ANPAD)",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Hidrolândia",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Goiano - Câmpus Hidrolândia\nGraduacao (2025) - Logística.\nTreinamento Ministrado: Companhia do Desenvolvimento do Planalto Central\nCompanhia Do Desenvolvimento Do Planalto Central (2004) - Companhia Do Desenvolvimento Do Planalto Central - Analista de Business Intelligence.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Goiano - Câmpus Ipameri (GO)",
+                "nome": "Grupo de Estudos e Pesquisas Interdisciplinares em Ciências Humanas e Sociais Aplicadas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ricardo Marques De Carvalho"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Universidade Federal de Goiás",
+                "nome": "Data Science Methods and Machine Learning Algorithms Applied to Marketing Analytics (PI06243-2022)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ricardo Marques De Carvalho",
+                    "Ricardo Limongi França Coelho",
+                    "Rafael Barreiros Porto",
+                    "Vinícius Andrade Brei",
+                    "Thiago Lima Mesquita",
+                    "João Ricardo De Oliveira Junior",
+                    "Adriely Camparoto Brito",
+                    "Caroline Evangelista Moreira",
+                    "Wâmbia Suélem Feliciano De Faria",
+                    "Celyce De Sousa Gonçalves"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CARVALHO",
+                    "software": "R. M.,  Desenvolvimento de Sistemas de Suporte à Decisão",
+                    "ano": "2005",
+                    "finalidade": "Apoiar decisões tatico-estratégicas."
+                },
+                {
+                    "autor": "CARVALHO",
+                    "software": "R. M.,  Sistema de Recursos Humanos",
+                    "ano": "2003",
+                    "finalidade": "Controle e gestão de recursos humanos do Estado de Goiás."
+                },
+                {
+                    "autor": "CARVALHO",
+                    "software": "R. M.,  Sistema de Recursos Humanos",
+                    "ano": "2002",
+                    "finalidade": "Automatizar os Processos de Recursos Humanos na Secretária de Fazenda do Estado de Goiás."
+                },
+                {
+                    "autor": "CARVALHO",
+                    "software": "R. M.,  Portal WEB - Poptec",
+                    "ano": "2001",
+                    "finalidade": "Apresentação de noticiário nos canais da web."
+                },
+                {
+                    "autor": "CARVALHO",
+                    "software": "R. M.,  Metodologia de Mineração de Dados",
+                    "ano": "2004",
+                    "finalidade": "Elaboração de uma metodologia eficiente para analisar dados utilizando a tecnologia de Mineração de Dados."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CARVALHO",
+                    "titulo": "R. M.,  A utilização de Robôs na busca por informações na Internet",
+                    "ano": "2001",
+                    "instituicao_promotora": "Universidade Católica de Goiás."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CARVALHO",
+                    "curso": "R. M.,  Educação Financeira",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CARVALHO",
+                    "evento": "R. M.,  JESUS, W. L. C.,  Aula Inaugural do curso Superior de Tecnologia em Gestão Comercial no IFGoiano Campus Avançado de Ipameri",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFGoiano Campus Avançado de Ipameri."
+                },
+                {
+                    "autores": "JESUS",
+                    "evento": "W. L. C.,  CARVALHO, R. M.,  IF Saúde - Campus Avançado Ipameri.",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Goiano - Campus Avançado Ipameri.."
+                },
+                {
+                    "autores": "JESUS",
+                    "evento": "W. L. C.,  CARVALHO, R. M.,  II Campanha do Agasalho do IF Goiano - Campus Avançado Ipameri.",
+                    "ano": "2016",
+                    "duracao_semanas": "2",
+                    "instituicao_promotora": "IF Goiano - Campus Avançado Ipameri.."
+                },
+                {
+                    "autores": "JESUS",
+                    "evento": "W. L. C.,  CARVALHO, R. M.,  III edição do Sábado Esportivo do Instituto Federal Goiano - Campus Avançado Ipameri",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano - Campus Avançado Ipameri."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "CARVALHO, R. M.",
+                "titulo": "Gestão de Marketing",
+                "ano": "2016",
+                "informacoes_adicionais": "Impresso. ISBN: 9788592088804, GOIANIA (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "CARVALHO, R. M.",
+                "titulo": "Uma avaliação da influência dos influenciadores digitais nos consumidores: Uma abordagem com uso de Machine Learning Behavior",
+                "evento": "XLVII EnAnpad - Consórcio Doutoral",
+                "local": "São Paulo",
+                "ano": "2023"
+            },
+            {
+                "autores": "CARVALHO, R. M.",
+                "titulo": "Gestão de Riscos em projetos de tecnologia",
+                "evento": "Ciclo de Palestras: Gestão de Projetos e Produtos de Tecnologia",
+                "local": "Goiânia",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Alessandra Amorim Silva",
+                "titulo": "Gerenciamento de empresas de pequeno porte (EPP) e de Micro empresas em Ipameri - GO",
+                "ano": "2019",
+                "curso": "Gestão Comercial",
+                "instituicao": "Instituto Federal Goiano - Câmpus Ipameri (GO)"
+            },
+            {
+                "orientando": "Etiene Sandrêssa Ribeiro de Freitas",
+                "titulo": "A Importância da Gestão De Recursos Humanos nas Pequenas e Médias Empresas",
+                "ano": "2019",
+                "curso": "Gestão Comercial",
+                "instituicao": "Instituto Federal Goiano - Câmpus Ipameri (GO)"
+            },
+            {
+                "orientando": "Matheus Felipe Silva",
+                "titulo": "Localização, Movimentação e Armazenagem de Materiais na cidade de Ipameri.",
+                "ano": "2017",
+                "curso": "Técnico em comércio integrado ao ensino médio",
+                "instituicao": "Pró-Reitoria de Extensão do IFGoiano"
+            },
+            {
+                "orientando": "Michelle Cristina Mendonça de Oliveira",
+                "titulo": "A importância da tecnologia da informação para o planejamento e controle do orçamento familiar",
+                "ano": "2016",
+                "curso": "Técnico em Administração",
+                "instituicao": "Instituto Federal Goiano - Câmpus Ipameri (GO)"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 20.277843475341797,
+            "indian": 9.871724128723145,
+            "black": 3.9399359226226807,
+            "white": 19.12891387939453,
+            "middle eastern": 17.287858963012695,
+            "latino hispanic": 29.49372673034668
+        }
+    }
+}

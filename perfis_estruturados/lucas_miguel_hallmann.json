@@ -1,0 +1,146 @@
+{
+    "campus": "- Campus Vacaria",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Metalúrgica e de Materiais",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "ANÁLISE DE TENSOFISSURAMENTO EM FRASCOS SOPRADOS DE POLIETILENO DE ALTA DENSIDADE PARA A INDÚSTRIA DE DOMISSANITÁRIOS VIA DATA VISUALIZATION",
+                "orientador": "Ruth Marlene Campomanes Santana",
+                "ano_inicio": 2019,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Ciência de Dados e Big Data Analytics",
+                "instituicao": "SOCIEDADE DE ENSINO SUPERIOR ESTACIO RIBEIRAO PRETO LTDA",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Formação Pedagógica de Docentes Para A Educação Básica e Profissional",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Técnico em Tecnologia da Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria indígena: saberes e fazeres em tempos de ensino remoto",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Lucas Miguel Hallmann",
+                    "Mônica De Souza Chissini"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "HALLMANN",
+                    "titulo": "L. M.,  FRACISQUETTI, E. L.,  SANTANA, R. M. C.,  ASSESSMENT OF FRAGILITIES IN HDPE SURFACES IN HOUSEHOLD CLEANING BOTTLES",
+                    "ano": "2025",
+                    "instituicao_promotora": "ABPol."
+                },
+                {
+                    "autores": "HALLMANN",
+                    "titulo": "L. M.,  FRACISQUETTI, E. L.,  SANTANA, R. M. C.,  Use of association rules for evaluation of stress cracking in polymers",
+                    "ano": "2023",
+                    "instituicao_promotora": "ABPol."
+                },
+                {
+                    "autores": "HALLMANN",
+                    "titulo": "L. M.,  FRACISQUETTI, E. L.,  SANTANA, R. M. C.,  Avaliação do Tensofissuramento em fracos soprados de PEAD com fluidos domissanitários",
+                    "ano": "2022",
+                    "instituicao_promotora": "Departamento de Engenharia de Materiais da Universidade Federal de São Carlos (DEMa/UFSCar)."
+                },
+                {
+                    "autores": "HALLMANN",
+                    "titulo": "L. M.,  FRACISQUETTI, E. L.,  SANTANA, R. M. C.,  Influência do tipo de agente tensoativo no tensofissuramento (stress cracking) em fracos soprados de PEAD",
+                    "ano": "2022",
+                    "instituicao_promotora": "Departamento de Engenharia de Materiais da Universidade Federal de São Carlos (DEMa/UFSCar)."
+                },
+                {
+                    "autores": "HALLMANN",
+                    "titulo": "L. M.,  Situando a Virtualização no IFRS",
+                    "ano": "2015",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "HALLMANN, LUCAS MIGUEL",
+                "titulo": "TOREZAN VIEGAS, LUCIANE;  Relato de experiência sobre ensino remoto emergencial de programação web",
+                "ano": "2024",
+                "periodico": "REVISTA BRASILEIRA DE APRENDIZAGEM ABERTA E A DISTÂNCIA. ISBN: 18061362   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Brenda Castaldo",
+                "titulo": "Sistema Web para a organização dos armários do IFRS Campus Farroupilha",
+                "ano": "2019",
+                "curso": "Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Ana Laura Duarte da Silva",
+                "titulo": "Aplicação web para teste de fluência leitora para ensino fundamental I",
+                "ano": "2019",
+                "curso": "Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0012253118911758065,
+            "indian": 0.004809997975826263,
+            "black": 0.00015206998796202242,
+            "white": 93.00659942626953,
+            "middle eastern": 2.0403265953063965,
+            "latino hispanic": 4.946885108947754
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "periodo": "28001010095M3",
+                "instituicao": "Universidade Federal da Bahia",
+                "orientador": "Gustavo Bittencourt Figueiredo"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Propriedade Intelectual e Transferência de Tecnologia para Inovação",
+                "periodo": "2023 - 2025",
+                "instituicao": "Instituto Federal da Bahia",
+                "titulo": "DESENVOLVIMENTO DE UM FRAMEWORK PARA ACOMPANHAMENTO DE COOPERAÇÕES TÉCNICAS ENTRE EMPRESAS E O IFBA",
+                "orientador": "Luiz Cláudio Machado dos Santos"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão da Tecnologia da Informação",
+                "periodo": "2010 - 2012",
+                "instituicao": "Faculdade das Águas Emendadas",
+                "orientador": "Francisco Santos Carvalho"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "periodo": "2005 - 2009",
+                "instituicao": "Faculdade de Tecnologia e Ciências"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "periodo": "2005 - 2010",
+                "cargo": "Administrador de Redes, REDA, Administrador de Redes gerenciadas por firewall Linux."
+            },
+            {
+                "empresa": "SENAI - SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - UNIDADE ILHÉUS-BA",
+                "periodo": "2010 - 2015",
+                "cargo": "Professor para Nível Técnico, Professor Efetivo, Professor e Coordenador de Cursos Técnicos."
+            },
+            {
+                "empresa": "Faculdade Madre Thais",
+                "periodo": "2015 - 2015",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "periodo": "2015 - 2019",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2019",
+                "cargo": "Professor EBTT, Servidor público."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "ALMEIDA",
+                    "evento": "Hedertone V.,  SECITEC - Semana de Educação, Ciência e Tecnologia do IFBA - Campus Jequié",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Campus Jequié."
+                },
+                {
+                    "autores": "KAMAKAWA",
+                    "evento": "H.,  ALMEIDA, Hedertone V.,  Ação de extensão: Carreiras e Profissões em Tecnologia da Informação",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFPR - Paranavaí."
+                },
+                {
+                    "autores": "MEIRA",
+                    "evento": "V.S.,  ALMEIDA, H. V.,  II Semana de Sistemas de Informação",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade de Tecnologia e Ciências."
+                },
+                {
+                    "autores": "MEIRA",
+                    "evento": "V.S.,  ALMEIDA, H. V.,  Seminário Comemorativo do I ano do Curso de Sistemas de Informação",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade de Tecnologia e Ciências."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALMEIDA, HEDERTONE",
+                "titulo": "MACHADO, LUIZ CLÁUDIO;  VALENÇA ARAÚJO, MARCIO LUIS;  DE JESUS SANTOS, GIVANILDO;  FRAMEWORKS PARA VALIDAÇÃO DE ACORDOS DE COOPERAÇÃO",
+                "ano": "2024",
+                "periodico": "REVISTA MULTIDISCIPLINAR DO NORDESTE MINEIRO. ISBN: 21786925   ."
+            },
+            {
+                "autores": "SANTOS, GIVANILDO DE JESUS",
+                "titulo": "DOS SANTOS, WAGNA PILER CARVALHO;  SILVA, MARCELO SANTANA;  NANO, RITA MARIA WESTE;  ALMEIDA, HEDERTONE VIEIRA;  Análise da política brasileira de proteção da propriedade intelectual para softwares e invenção implementada por computador (IIC)",
+                "ano": "2023",
+                "periodico": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA. ISBN: 16968352   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 8.932348123380507e-07,
+            "indian": 3.7246031752147246e-06,
+            "black": 5.00878272191585e-09,
+            "white": 99.6916732788086,
+            "middle eastern": 0.1879757046699524,
+            "latino hispanic": 0.12034019082784653
+        }
+    }
+}

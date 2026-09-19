@@ -1,0 +1,780 @@
+{
+    "campus": "- Câmpus Itajaí",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro",
+                "titulo": "Combined 3D Visualization of Volume Data and Polygonal Models using a Shear-Warp Algorithm",
+                "orientador": "Marcelo Gattass",
+                "ano_inicio": 1996,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Instituto de Informática",
+                "titulo": "Visualizacao e Exploracao de Dados Cientificos associados a Objetos Tridimensionais",
+                "orientador": "Flavio Wagner",
+                "ano_inicio": 1991,
+                "ano_fim": 1994
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Informatica",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "ano_inicio": 1986,
+                "ano_fim": 1990
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Microsoft Corporation",
+                "ano_inicio": 2001,
+                "ano_fim": 2011,
+                "funcao": "Full time",
+                "vinculo": "Software Engineer",
+                "descricao": "Software Development Engineer in Test II at SQL Server Engine RDBMS team"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora e pesquisadora junto ao curso de graduação em Ciência da Computação na UNIVALI campus Itajaí"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora e pesquisadora junto ao curso de graduação em Ciência da Computação; professora junto ao curso de graduação em Eng. de Computação; professora colaboradora junto ao mestrado em Computação Aplicada - todos na UNIVALI campus Itajaí"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora e pesquisadora junto ao curso de graduação em Ciência da Computação; professora junto ao curso de graduação em Eng. Industrial Mecânica; professora colaboradora junto ao mestrado em Computação Aplicada - todos na UNIVALI campus Itajaí"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora e pesquisadora junto ao curso de graduação em Ciência da Computação; professora colaboradora junto ao mestrado em Computação Aplicada - todos na UNIVALI campus Itajaí"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora disciplina Tópicos Especiais em Computação: Computação Gráfica para curso de Graduação em Ciência da Computação na UNIVALI campus Itajai"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora e pesquisadora junto a curso de graduação em Ciências da Computação; Colaboradora junto ao mestrado em Computação Aplicada para ministrar disciplinas"
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Professora disciplina Tópicos Especiais em Computação: Computação Gráfica para curso de Graduação em Ciência da Computação na UNIVALI campus Itajai e curso de Eng. de Computação em São José"
+            },
+            {
+                "empresa": "TecGraf",
+                "ano_inicio": 1998,
+                "ano_fim": 1998,
+                "funcao": "Pesquisadora Sênior",
+                "vinculo": "Bolsista",
+                "descricao": "Pesquisa, desenvolvimento e implementação de software junto ao projeto DAMP-SIN - Programa para cálculo de dano máximo provável em sistemas industriais, em conjunto com o SEGEN-PETROBRÁS"
+            },
+            {
+                "empresa": "TecGraf",
+                "ano_inicio": 1995,
+                "ano_fim": 1997,
+                "funcao": "Pesquisadora Sênior",
+                "vinculo": "Bolsista",
+                "descricao": "Pesquisa, desenvolvimento e implementação de software junto ao projeto POS-PETROX - Pós-processador de resultados obtidos na simulação de processos químicos em conjunto com a DIPRIND-PETROBRÁS"
+            },
+            {
+                "empresa": "Tribunal Regional do Trabalho 12a Regiao",
+                "ano_inicio": 1993,
+                "ano_fim": 1994,
+                "funcao": "Assistente Administrativo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Tribunal Regional do Trabalho 12a Regiao",
+                "ano_inicio": 1992,
+                "ano_fim": 1993,
+                "funcao": "Programadora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado de Santa Catarina",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado de Santa Catarina",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "O Pão dos Pobres de Santo Antônio",
+                "ano_inicio": 1991,
+                "ano_fim": 1991,
+                "funcao": "Professora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Catarinense",
+                "ano_inicio": 2014,
+                "ano_fim": 2018,
+                "funcao": "Docente",
+                "vinculo": "Servidor público",
+                "descricao": "Docente e pesquisadora junto ao IFC-Camboriú, tendo exercidos os cargos de Coordenadora do curso Técnico Integrado em Informática e Coordenadora do curso de Bacharelado em Sistemas de Informação"
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "ano_inicio": 2013,
+                "ano_fim": 2016,
+                "funcao": "EXP-B: Bolsa de Extensão no País",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista EXP-B: Bolsa de Fomento Tecnológico e Extensão Inovadora de LONGA DURAÇÃO Edital: C - Núcleos Nascentes Coordenador: Ana Elisa Ferreira Schmidt Processo: 458814/2013-0 Título: CHAMADA Nº 84/2013 MCTI-SECIS/CNPq - TECNOLOGIA ASSISTIVA Instituição: Universidade do Vale do Itajaí / UNIVALI Vigência: 13/12/2013 a 31/04/2016"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Docente EBTT",
+                "vinculo": "Servidor público",
+                "descricao": "Docente EBTT e pesquisadora junto ao Instituto Federal de Santa Catarina, campus Itajaí, vinculada ao curso de Graduação em Engenharia Elétrica, atualmente ministrando disciplinas relacionadas a Ciências da Computação e Robótica"
+            },
+            {
+                "empresa": "Perspectivas",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Membro Comitê Científico"
+            },
+            {
+                "empresa": "Perspectivas",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Membro Comitê Científico"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Consultora ad-hoc para avaliação de projetos de pesquisa para EDITAL DE CHAMADA PÚBLICA FAPESC/CNPQ Nº 06/2016 APOIO A INFRAESTRUTURA DE CTI PARA JOVENS PESQUISADORES"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2025 - 2025) : Diretora Geral Do Ifsc Campus Itajaí.\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2020 - 2025) : Chefe De Ensino, Pesquisa E Extensão.\nPesquisa e Desenvolvimento\nSQL Server Product Unit (2001 - 2011): Banco de dados,\nCTTMar - Centro de Ciências Tecnológicas da Terra e do Mar (2011): Computação Gráfica, IHC - Interação Humano Computador,\nGrupo de tecnologia em computação gráfica (1995 - 1998): Computação Gráfica,\nCampus Camboriú (2014): Informática na Educação, Jogos Digitais, IHC - Interação Humano Computador, Computação Gráfica e Processamento de Imagens, Experiência do Usuário, Tecnologia Assistiva,\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2018): Robótica, Internet das Coisas, Processamento Digital de Imagens,",
+        "ensino": ": Instituto Federal de Santa Catarina\nOutro (2018) .\nGraduacao (2018) - Engenharia Elétrica.",
+        "comissoes": ": Instituto Federal Catarinense\nMembro Núcleo Docente Estruturante (nde) Do Curso Superior De Bacharelado Em Sistemas De Informação - Portaria No 017/gdg/ifc-cam/2015 (2015).\nMembro Do Comitê De Extensão - Portaria No 078/gdg/ifc-cam/2015 (2015).\nPresidente Do Ndb ? Núcleo Docente Básico Do Curso Técnico Em Informática - Portaria No 070/gdg/ifc-cam/2015 (2014).\nMembro Núcleo Docente Estruturante (nde) Do Curso Superior De Tecnologia Em Sistemas - Portaria No 340/gdg/ifc-cam/2014 (2014).\nMembro Do Grupo De Trabalho Em Informática - Reitoria - Portaria No 3.547/014 (2014).\nPresidente Comissão De Análise Do Ppc Do Curso Técnico Em Redes De Computadores (2014).",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Vale do Itajaí",
+                "nome": "Desenvolvimento de soluções em interação para jogos digitais acessíveis",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Adriana Gomes Alves",
+                    "Regina Célia Linhares Hostins",
+                    "Marco Aurélio Soares Dos Santos",
+                    "Karla D. P. Cathcat",
+                    "Rodrigo Ribeiro",
+                    "Guilherme Garcia Da Rosa",
+                    "Killian Michel Soares",
+                    "Lucas Clazer Perussolo",
+                    "Luis Henrique De Melo Santiago",
+                    "Fábio Souza Da Fonseca"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2013,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Programando Futuro",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Mozara Dias Koehler",
+                    "Elvis Cordeiro Nogueira",
+                    "Bianca Dos Santos Bolda",
+                    "Eduardo Dornelles Silveira",
+                    "Eduardo Loback Stefani",
+                    "Rafael Jackson Andrade",
+                    "Eduardo Lucrezia Cardoso",
+                    "Maurici Meneghetti De Souza",
+                    "Lucas Abs Da Cruz Preto"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Estudo de técnicas de processamento de imagem para análise e investigação forense em fotografias digitais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Tiago Torresani"
+                ],
+                "financiador": "Instituto Federal Catarinense,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Programando o Futuro",
+                "natureza": "Outra",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Mozara Dias Koehler",
+                    "Elvis Cordeiro Nogueira",
+                    "Bianca Dos Santos Bolda",
+                    "Eduardo Dornelles Silveira",
+                    "Eduardo Loback Stefani",
+                    "Rafael Jackson Andrade"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Estudo e proposta de framework para autenticação de identidade através de fotografia digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Elvis Cordeiro Nogueira",
+                    "Deonir Bampi Júnior"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina, Instituto Federal Catarinense,",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Aplicação de Gestão do Conhecimento no CEPC - Campo Experimental de Psicultura de Camboriú",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Catia Dos Reis Machado",
+                    "Reginaldo Rubens Da Silva"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Desenvolvimento de Objetos de Aprendizagem para o Apoio às Disciplinas de Algoritmos e Estruturas de Dados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Gabriel Martins",
+                    "Alexandre De Aguiar Amaral"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Desenvolvimento de rádio interna digital e interativa para o Instituto Federal Catarinense - campus Camboriú",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Daniel De Andrade Varela",
+                    "Nicolas Lima De Oliveira"
+                ],
+                "financiador": "Instituto Federal Catarinense, Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Implementação de Software para Verificação de Adulterações do Tipo Cópia e Cola em Fotografias Digitais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Tiago Torresani"
+                ],
+                "financiador": "Instituto Federal Catarinense,",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense",
+                "nome": "Proposta e desenvolvimento de uma interface natural para jogos educacionais acessíveis através da utilização do dispositivo não convencional Microsoft Kinect",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Rodrigo Ribeiro"
+                ],
+                "financiador": "Instituto Federal Catarinense,",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto e desenvolvimento de medidor wireless autônomo de consumo de água",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Saimon Miranda Fagundes"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina, Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto Piloto para a Curricularização da Extensão no Curso de Engenharia Elétrica do Campus Itajaí: Sub-projeto Laboratório de Robótica do IFSC-Campus Itajaí",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ana Elisa Ferreira Schmidt",
+                    "Fernanda Argoud"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ALVES",
+                    "software": "A. G.,  Nunes, M. C. A.,  SCHMIDT, Ana E. F.,  SANTOS, M. A. S.,  CARTHCAT, KARLA D.P.,  HOSTINS, REGINA C.L.,  RIBEIRO, R.,  ROSA, G. G.,  PERUSSOLO, L. C.,  SANTIAGO, L. H. M.,  Desafio do Carteiro",
+                    "ano": "2017",
+                    "finalidade": "Programa de Computador.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR5120160016159."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "ANA ELISA F.,  ALVES, A. G.,  Projetos do Laboratório Interdisciplinar de Tecnologias Interativas",
+                    "ano": "2015",
+                    "instituicao_promotora": "UNIVALI - Itajaí."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  ALVES, A. G.,  CATHCAT, K. D. P.,  DIGITAL GAMES AS A TOOL FOR INCLUSIVE EDUCATION: A CASE OF STUDY REPORT",
+                    "ano": "2015",
+                    "instituicao_promotora": "The Association of Science, Education and Technology (TASET)."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "ANA ELISA F.,  ALVES, A. G.,  CARTHCAT, KARLA D.P.,  HOSTINS, REGINA C.L.,  SANTOS, M. A. S.,  Desenvolvimento de Soluções em Interação para Jogos Digitais Acessíveis",
+                    "ano": "2015",
+                    "instituicao_promotora": "MCTI."
+                },
+                {
+                    "autores": "GORNISKI",
+                    "titulo": "S.,  SCHMIDT, Ana E. F.,  Validação da biblioteca KinectProject através da implementação de uma interface natural ao Projeto da Trilha do Morro da Cruz",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "ANA ELISA F.,  MATAREZI, J.,  DAZZI, R. L. S.,  BEMBEM, A. L.,  Cidadania ambiental e inclusão digital: cardápio de aprendizagem para os telecentros ambientais da sala verde de Itajaí (SC)",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade de São Paulo - USP."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Interação através de dispositivos não-convencionais",
+                    "ano": "2013",
+                    "instituicao_promotora": "Faculdade Avantis."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  CARDOSO, G. S.,  Dispositivos não-convencionais de interação",
+                    "ano": "2013",
+                    "instituicao_promotora": "UNIVALI."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Andando pela estrada do futuro",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Native XML Support in Microsoft® SQL Server? 2005",
+                    "ano": "2004",
+                    "instituicao_promotora": "Microsoft Corporation."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  XQuery in Microsoft® SQL Server? 2005",
+                    "ano": "2004",
+                    "instituicao_promotora": "Microsoft Corporation."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Aplicações de visualização volumétrica à área médica",
+                    "ano": "2000",
+                    "instituicao_promotora": "Instituto do Coração da Faculdade de Medicina da USP."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Carvalho, P. C.,  Nunes, R. A.,  Volume Estimation and Surgery Planning from Lung CT Images",
+                    "ano": "1999",
+                    "instituicao_promotora": "SBC - Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Computação Gráfica Aplicada à Medicina",
+                    "ano": "1999",
+                    "instituicao_promotora": "UNIPLAC - Universidade do Planalto Catarinense."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "titulo": "Ana E. F.,  Computação Gráfica",
+                    "ano": "1993",
+                    "instituicao_promotora": "CELESC - Centrais Elétricas do Estado de Santa Catarina."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SCHMIDT",
+                    "curso": "Ana E. F.,  Introdução à Computação Gráfica",
+                    "ano": "1999"
+                },
+                {
+                    "autor": "SCHMIDT",
+                    "curso": "Ana E. F.,  Computação Gráfica",
+                    "ano": "1994"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SCHMIDT",
+                    "evento": "ANA ELISA F.,  KOEHLER, M. D.,  NOGUEIRA, E. C.,  17a Olimpíada Brasileira de Informática",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "SCHMIDT",
+                    "evento": "ANA ELISA F.,  KOEHLER, M. D.,  Feira de Ciências E-Lixo: reuso do lixo eletrônico",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "INSTITUTO FEDERAL CATARINENSE - CAMPUS CAMBORIÚ."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ALVES, A. G.",
+                "titulo": "CATHCAT, K. D. P.;  SCHMIDT, ANA ELISA F.;  Digital Games as a Tool for Inclusive Education: a case of study report",
+                "ano": "2016",
+                "periodico": "TURK ONLINE J EDUC T. ISBN: 21467242   ."
+            },
+            {
+                "autores": "ALVES, ADRIANA G.",
+                "titulo": "SCHMIDT, ANA ELISA F.;  CARTHCAT, KARLA D.P.;  HOSTINS, REGINA C.L.;  Exploring Technological Innovation towards Inclusive Education: Building Digital Games - An Interdisciplinary Challenge",
+                "ano": "2015",
+                "periodico": "Procedia: Social and Behavioral Sciences. ISBN: 18770428   ."
+            },
+            {
+                "autores": "Michael Rys",
+                "titulo": "Friedman, Marc;  Nair, Giri;  SCHMIDT, Ana E. F.;  Fang, Yi;  Spatial Indexing in Microsoft SQL Server 2008",
+                "ano": "2008",
+                "periodico": "SIGMOD Record. ISBN: 01635808   ."
+            },
+            {
+                "autores": "SCHMIDT, Ana E. F.",
+                "titulo": "Carvalho, Paulo Cezar Pinto;  Gattass,Marcelo;  Combined 3D visualization of volume data and polygonal models using a shear-warp algorithm",
+                "ano": "2000",
+                "periodico": "Computers & Graphics. ISBN: 00978493   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Souza, Allan G.",
+                "titulo": "Vieira, Mateus C",
+                "evento": "; FAGUNDES",
+                "local": "S. M.; SCHMIDT, Ana E. F.; Projeto e Desenvolvimento de Medidor Wireless Autônomo de Consumo. Seminário de Ensino, Pesquisa, Expensão e Inovação do IFSC, Chapecó",
+                "ano": "2019"
+            },
+            {
+                "autores": "LIMA, A. S. A.",
+                "titulo": "Nogueira, Rodrigo; SCHMIDT, Ana E",
+                "evento": "F.; OLIVEIRA",
+                "local": "P. C. F.; Aplicativo colaborativo para alerta de vulnerabilidade a alagamentos e enchentes no Vale do Itajaí. 9º Workshop de Computação Aplicada a Gestão do Meio Ambiente e Recursos Naturais (WCAMA_CSBC 2018), Natal",
+                "ano": "2018"
+            },
+            {
+                "autores": "LIMA, A. S. A.",
+                "titulo": "Nogueira, Rodrigo; SCHMIDT, Ana E",
+                "evento": "F.; VARELA",
+                "local": "D. A.; Desenvolvimento de Aplicativo Colaborativo para Alerta de Alagamentos e Enchentes No Vale do Itajaí. I Workshop em Sistemas de Informação (WSI) do IX e-TIC ? Encontro de Tecnologias de Informação e Comunicação do Instituto Federal Catarinense, Camboriú",
+                "ano": "2018"
+            },
+            {
+                "autores": "OLIVEIRA, N. L.",
+                "titulo": "SCHMIDT, Ana E",
+                "evento": "F.; VARELA",
+                "local": "D. A.; Frigotto, L.; Desenvolvimento de Rádio Interna Digital e Interativa para o Instituto Federal Catarinense - Campus Camboriú. X Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI), Camboriú",
+                "ano": "2017"
+            },
+            {
+                "autores": "SCHMIDT, ANA ELISA F.",
+                "titulo": "TORRESANI, T",
+                "evento": "; ANÁLISE E INVESTIGAÇÃO FORENSE EM FOTOGRAFIAS DIGITAIS Relato de pesquisa. VI Feira de Iniciação Científica e Extensão do IFC",
+                "local": "Camboriú",
+                "ano": "2015"
+            },
+            {
+                "autores": "SCHMIDT, ANA ELISA F.",
+                "titulo": "PEDROSO, H",
+                "evento": "; COSTA",
+                "local": "R. S.; Projeto de Interfaces utilizando o modelo MEX - Estudo de Caso: BusFalante. VI Feira de Iniciação Científica e Extensão do IFC, Camboriú",
+                "ano": "2015"
+            },
+            {
+                "autores": "ALVES, A. G.",
+                "titulo": "CARTHCAT, KARLA D",
+                "evento": "P.; SCHMIDT",
+                "local": "ANA ELISA F.; Educação Inclusiva: Elicitação de Elementos de Jogabilidade por meio do Design Participativo. XIV Simpósio Brasileiro de Jogos e Entretenimento Digital, Teresina",
+                "ano": "2015"
+            },
+            {
+                "autores": "ALVES, A. G.",
+                "titulo": "CARTHCAT, KARLA D",
+                "evento": "P.; SCHMIDT",
+                "local": "ANA ELISA F.; SANTIAGO, L. H. M.; Oficina de Design Participativo: engine humana para validação de jogabilidade e mecânica de um jogo educacional digital e acessível. 6o EATI: Encontro Anual de Tecnologia da Informação e Semana Acadêmica de Tecnologia da Informação, FREDERICO WESTPHALEN",
+                "ano": "2015"
+            },
+            {
+                "autores": "ROSA, G. G.",
+                "titulo": "PERUSSOLO, L",
+                "evento": "C.; ALVES",
+                "local": "ADRIANA G.; SCHMIDT, ANA ELISA F.; Técnicas de desenvolvimento de jogos digitais: jogo 'O desafio do carteiro'.. XIII Simpósio de Informática - SIRC, Santa Maria",
+                "ano": "2015"
+            },
+            {
+                "autores": "GORNISKI, S.",
+                "titulo": "SCHMIDT, Ana E",
+                "evento": "F.; Validação da biblioteca KinectProject através da implementação de uma interface natural ao Projeto da Trilha do Morro da Cruz. V Computer on the Beach",
+                "local": "Florianópolis",
+                "ano": "2014"
+            },
+            {
+                "autores": "BEMBEM, A. L.",
+                "titulo": "SCHMIDT, Ana E",
+                "evento": "F.; MATAREZI",
+                "local": "J.; DAZZI, R. L. S.; Cidadania ambiental e inclusão digital: cardápio de aprendizagem para os telecentros ambientais da sala verde de Itajaí (SC). Simpósio Políticas Públicas de Educação Ambiental para Sociedades Sustentáveis ? Municípios, Escolas e Instituições de Educação Superior que educam para a sustentabilidade socioambiental, Piracicaba",
+                "ano": "2014"
+            },
+            {
+                "autores": "CARDOSO, G. S.",
+                "titulo": "SCHMIDT, Ana E",
+                "evento": "F.; Biblioteca de Funções para Utilização do Kinect em Jogos Eletrônicos e Aplicações NUI. Workshop of Undergraduate Works (WUW) in SIBGRAPI 2013 (XXVI Conference on Graphics",
+                "local": "Patterns and Images), Arequipa",
+                "ano": "2013"
+            },
+            {
+                "autores": "CARDOSO, G. S.",
+                "titulo": "SCHMIDT, Ana E",
+                "evento": "F.; Biblioteca de Funções para Utilização do Kinect em Jogos Eletrônicos e Aplicações NUI. XI Simpósio Brasileiro de Games e Entretenimento Digital",
+                "local": "Brasília",
+                "ano": "2012"
+            },
+            {
+                "autores": "Gerhardt, A.",
+                "titulo": "Paiva, A",
+                "evento": "; SCHMIDT",
+                "local": "Ana E. F.; Martha, L.F.; Carvalho, P. C.; Gattass,Marcelo; Requisites of 3D Seismic Data Volume Rendering. Proceedings of the GOCAD ENSG Conference 3D Modeling of Natural Objects: A Challenge for the 2000´s, Nancy, France",
+                "ano": "1998"
+            },
+            {
+                "autores": "SCHMIDT, Ana E. F.",
+                "titulo": "VISUALIZACAO INTERATIVA APLICADA AO ESTUDO DE CAMPOS ELETROMAGNETICOS",
+                "evento": "ANAIS DE COMUNICACOES DO VI SIMPOSIO BRASILEIRO DE COMPUTACAO GRAFICA E PROCESSAMENTO DE IMAGENS",
+                "local": "",
+                "ano": "1993"
+            },
+            {
+                "autores": "SCHMIDT, Ana E. F.",
+                "titulo": "INTERACTIVE VISUALIZATION OF FINITE ELEMENT METHOD RESULTS IN STUDING ELECTROMAGNETIC FIELDS",
+                "evento": "COMPUMAG - CONFERENCE ON THE COMPUTATION OF ELETROMAGNETIC FIELDS PROCEEDINGS",
+                "local": "",
+                "ano": "1993"
+            },
+            {
+                "autores": "SCHMIDT, Ana E. F.",
+                "titulo": "PREVIEW: FERRAMENTA PARA ANIMACAO E INTEGRACAO DE SISTEMAS",
+                "evento": "V SIMPOSIO BRASILEIRO DE COMPUTACAO GRAFICA E PROCESSAMENTO DE IMAGENS",
+                "local": "",
+                "ano": "1992"
+            },
+            {
+                "autores": "SCHMIDT, Ana E. F.",
+                "titulo": "INTEGRATING GRAPHIC SOFTWARE - THE MAKING OF M",
+                "evento": "A.T.E.. XVIII CONFERENCIA LATINOAMERICANA DE INFORMATICA",
+                "local": "",
+                "ano": "1992"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Nicolas Lima de Oliveira",
+                "titulo": "Desenvolvimento de rádio interna digital e interativa para o Instituto Federal Catarinense - campus Camboriú",
+                "ano": "2016",
+                "curso": "Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Tiago Torresani",
+                "titulo": "Implementação de Software para Verificação de Adulterações do Tipo Cópia e Cola em Fotografias Digitais",
+                "ano": "2016",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Gabriel Martins",
+                "titulo": "Desenvolvimento de Objetos de Aprendizagem para o Apoio às Disciplinas de Algoritmos e Estruturas de Dados",
+                "ano": "2016",
+                "curso": "Técnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Tiago Torresani",
+                "titulo": "Estudo de técnicas de processamento de imagem para análise e investigação forense em fotografias digitais",
+                "ano": "2015",
+                "curso": "Tecnologia em Sistemas para Internet",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Elvis Cordeiro Nogueira",
+                "titulo": "Estudo e proposta de framework para autenticação de identidade através de fotografia digital",
+                "ano": "2015",
+                "curso": "Bacharelado eme Sistemas de Informação",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Deonir Bampi Júnior",
+                "titulo": "Estudo e proposta de framework para autenticação de identidade através de fotografia digital",
+                "ano": "2015",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Rodrigo Ribeiro",
+                "titulo": "Proposta e desenvolvimento de uma interface natural para jogos educacionais acessíveis através da utilização do dispositivo não convencional Microsoft Kinect",
+                "ano": "2014",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Instituto Federal Catarinense"
+            },
+            {
+                "orientando": "Guilherme Garcia da Rosa",
+                "titulo": "Desenvolvimento de soluções em interação para jogos digitais acessíveis",
+                "ano": "2014",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Sergio Gorniski Junior",
+                "titulo": "Validação da biblioteca KinectProject através da implementação de uma interface natural ao projeto da Trilha do Morro do Cruz",
+                "ano": "2013",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Alexandre da Silva",
+                "titulo": "Protótipo de um simulador de cortes de cabelos utilizando técnicas de processamento digital de imagens",
+                "ano": "2013",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Gabriel Schade Cardoso",
+                "titulo": "Criação de uma biblioteca de funções para o Microsoft Kinect como interface para a ferramenta Unity",
+                "ano": "2012",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Luiz Eduardo Zis",
+                "titulo": "Software de apoio no desenvolvimento de websites utilizando técnicas de processamento digital de imagens",
+                "ano": "2012",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            },
+            {
+                "orientando": "Evandro Pereira",
+                "titulo": "Estudo da Teoria dos Fractais",
+                "ano": "1994",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Angela Schmidt; Cláudia dos Anjos",
+                "titulo": "SHADEVIEW: Estudo e Implementação de Modelos de Shading com Iluminação",
+                "ano": "1993",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Fernando da Silva Santos Villela",
+                "titulo": "Biblioteca de gerenciamento de interface - BIGI",
+                "ano": "1993",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.4213699996471405,
+            "indian": 0.8294317126274109,
+            "black": 0.10366427898406982,
+            "white": 59.71131134033203,
+            "middle eastern": 19.411094665527344,
+            "latino hispanic": 19.52312660217285
+        }
+    }
+}

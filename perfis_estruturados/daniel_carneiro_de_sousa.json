@@ -1,0 +1,126 @@
+{
+    "campus": "- Campus Posse",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Análise de Dados",
+                "instituicao": "Descomplica Faculdade Digital",
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Estadual de Goiás",
+                "ano_inicio": 2017,
+                "ano_fim": 2022
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Serviço de Apoio às Micros e Pequenas Empresas de Goiás",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Auxiliar Administrativo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço de Apoio às Micros e Pequenas Empresas de Goiás",
+                "ano_inicio": 2021,
+                "ano_fim": 2022,
+                "funcao": "Recepcionista",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço de Apoio às Micros e Pequenas Empresas de Goiás",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Estagiário",
+                "vinculo": "Outro (especifique)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Grupo Moreira",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Técnico de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUSA",
+                    "titulo": "D. C.,  CAVALCANTE, K. C. R,  INTELIGÊNCIA ARTIFICIAL PARA POTENCIALIZAÇÃO DA INOVAÇÃO EDUCACIONAL",
+                    "ano": "2020",
+                    "instituicao_promotora": "Asociación Española de Psicología Conductual (AEPC)."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SOUSA, D. C.",
+                "titulo": "HORA, G. V.;  CAVALCANTE, K. C. R;  Demonstrações contábeis obrigatórias: apontamentos e projeções para tomada de decisão organizacional",
+                "ano": "2021",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUSA, D. C.",
+                "titulo": "HORA, G",
+                "evento": "V.; CAVALCANTE",
+                "local": "K. C. R; DEMONSTRAÇÕES CONTÁBEIS OBRIGATÓRIAS: APONTAMENTOS E PROJEÇÕES PARA TOMADA DE DECISÃO ORGANIZACIONAL. X Semana de Produção Científica - Edição Especial, Brasília - DF",
+                "ano": "2021"
+            },
+            {
+                "autores": "SOUSA, D. C.",
+                "titulo": "CAVALCANTE, K",
+                "evento": "C. R; INTELIGÊNCIA ARTIFICIAL PARA POTENCIALIZAÇÃO DA INOVAÇÃO EDUCACIONAL. 8 th International Congress of Educational Sciences and Development",
+                "local": "Granada (Espanha)",
+                "ano": "2020"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.286971092224121,
+            "indian": 6.526447772979736,
+            "black": 2.7200047969818115,
+            "white": 21.63283920288086,
+            "middle eastern": 11.26868724822998,
+            "latino hispanic": 48.56504440307617
+        }
+    }
+}

@@ -1,0 +1,674 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade do Vale do Itajaí",
+                "titulo": "Um Mecanismo de Controle e Gerência de Segurança para Ambientes de e-Science",
+                "orientador": "Michelle Silva Wangham",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Computação",
+                "instituicao": "Claretiano Centro Universitário",
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2010,
+                "ano_fim": 2014
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Adjunto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Desenvolvimento de uma interface gráfica para a ferramenta Netkit (desenvolvida pela Universidade de Roma, Itália) ferramenta didática para experimentação com Redes de Computadores virtuais, para auxiliar no aprendizado da disciplina de Redes de Computadores dos cursos técnicos e tecnólogos do IFSC. Conceitos básicos de redes, configuração de switches, VLAN, roteamento, RIP, OSPF, tunel MPLS"
+            },
+            {
+                "empresa": "Rede Nacional de Ensino e Pesquisa",
+                "ano_inicio": 2013,
+                "ano_fim": 2018,
+                "funcao": "Administrador de sistema",
+                "vinculo": "Prestador de Serviço",
+                "descricao": "Desenvolvimento do Laboratório para Experimentação (testbed) em Gestão de Identidade (GId) (GIdLab). Implantação e configuração de frameworks de GId, criação de roteiros de configuração simplificados, suporte aos pesquisadores da área, criação de um ambiente automatizado de deploy dos frameworks, de forma que o pesquisador foque na pesquisa e desenvolvimento de novas funcionalidades"
+            },
+            {
+                "empresa": "GNOVIT Sistemas da Informação",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Estagiário",
+                "vinculo": "Bolsista",
+                "descricao": "Configuração e suporte de centrais PABX virtuais com Asterisk/Elastix. Configuração básica de um PABX, configuração de faixas de ramais, secretária eletrônica, URA e entrocamentos E2/Digital, configuração de roteamento/encaminhamento utilizando interfaces digitais ou de celular/GSM"
+            },
+            {
+                "empresa": "Dígitro Tecnologia",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Assistente técnico",
+                "vinculo": "Assistente técnico de suporte aos produtos e serviços da Dígitro. Configuração de PABX",
+                "descricao": "Enlace E2/Digital, URA, Tarifação e suporte aos produtos de CallCenter da mesma, entre outros"
+            },
+            {
+                "empresa": "Dígitro Tecnologia",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "Estágio",
+                "vinculo": "Bolsista",
+                "descricao": "Estágio não obrigatório. Estágio na área de Telecomunicações, com ênfase em sistemas telefônicos, sistemas de bilhetagem telefônicas, configuração de centrais PABX"
+            },
+            {
+                "empresa": "Fundação CERTI",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Estágio",
+                "vinculo": "Bolsista",
+                "descricao": "Alocado inicialmente para o suporte do Projetor ProInfo, projeto em parceria com o Governo Federal, que disponibilizada através de comodato, um projetor com funções de computador embutido com o objetivo de informatizar a sala de aula. Posteriormente desenvolveu habilidades na área de eletrônica e atuou juntamente com a equipe do Ginga (Set top box da TV Digital do Brasil) para embarcar uma versão modificada do uboot e uLinux"
+            },
+            {
+                "empresa": "Arm Telecomunicacões e Serviços de Engenharia",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Analista CPE",
+                "vinculo": "Analista CPE",
+                "descricao": "configuração e suporte para Redes de alta criticidade, clientes empresariais de médio à grande porte. Configuração de roteamento, OSPF e BGP, configuração de equipamentos de borda de rede Cliente - Operadora. Equipamentos CISCO, Datacom, Huawei e Juniper. Estabelecimento enlaces dedicados, tecnologia X.25 (obsoleto) e WAN. Suporte na tratativa de rompimento de fibras, identificação do enlace indisponível e restabelecimento junto com equipe externa. Entre outras atividades"
+            },
+            {
+                "empresa": "Instituto Federal Catarinense",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": "Atuação como professor substituto da área de Informática. Lecionando disciplinas de Redes de Computadores para o Ensino Técnico Integrado ao Médio para turmas de 2º e 3º anos. Além de lecionar a cadeira de Sistemas Distribuídos e Redes de Computadores para o Bacharelado em Ciência da Computação no Instituto Federal Catarinense campus Videira"
+            },
+            {
+                "empresa": "Universidade do Oeste de Santa Catarina",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Professor",
+                "vinculo": "Professor das disciplinas Princípios de Telecomunicações",
+                "descricao": "Sistemas e Redes de Telecomunicações, Redes de Computadores 2 e Segurança de Sistemas, nos cursos Engenharia de Computação e Engenharia Elétrica"
+            },
+            {
+                "empresa": "Universidade do Oeste de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor",
+                "vinculo": "Prestação de serviço",
+                "descricao": "Professor da disciplina de Administração de Sistemas Windows no curso de Pós-graduação em Administração e Segurança de Redes 2017/02 totalizando 30 h/aula"
+            },
+            {
+                "empresa": "Faculdade de Tecnologia SENAI Mato Grosso",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor",
+                "vinculo": "Prestador de serviço",
+                "descricao": "Professor convidado para ministrar disciplina Segurança em WAN e Roteadores, no MBA de Segurança da Informação"
+            },
+            {
+                "empresa": "Anolis Tecnologia da Informação",
+                "ano_inicio": 2018,
+                "ano_fim": 2019,
+                "funcao": "Administrador de Sistemas",
+                "vinculo": "Prestador de Serviço",
+                "descricao": "Atuando principalmente no gerenciamento da infraestrutura. Gerenciamento com Puppet, utilizando dos conceitos de DevOps, e Infrastructure as Code. Gestão de Identidade com Shibboleth. Git e administração de sistemas Ubuntu Linux"
+            },
+            {
+                "empresa": "SIPPulse",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Assistente de Suporte Técnico III",
+                "vinculo": "Suporte em produtos baseado em FreeSWITCH e o OpenSIPS para comunicação VoIP/SIP",
+                "descricao": "desenvolvidos pela SIPPulse Tecnologia"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Campus Gaspar (2025 - 2025) : Coordenador Do Curso Superior De Tecnologia Em Análise E Desenvolvimento De Sistemas.\nPesquisa e Desenvolvimento\nInstituto Federal de Santa Catarina - Campus Gaspar (2020): Blockchain, Pensamento computacional, Redes de Computadores, Sistemas Operacionais, Informática na Educação, Sistemas Distribuídos,\nInstituto Federal de Santa Catarina - Câmpus São José (2011 - 2011): Redes de Computadores,\nRede Nacional de Ensino e Pesquisa (2013 - 2018): Gestão de Identidades Digitais, Administração de Sistemas GNU/Linux, Implantação e manutenção de serviços de Redes,\nCampus Videira (2017 - 2019): Segurança em Redes de Computadores,",
+        "ensino": ": Faculdade de Tecnologia SENAI Mato Grosso\nPos-graduacao (2018 - 2018) - Mba Em Segurança Da Informação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Ferramenta didática para experimentação com redes de computadores virtuais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcelo Maia Sobral",
+                    "Maykon Chagas De Souza"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Elas Digitais: o Pensamento computacional na mesa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Levantamento do estado da arte sobre o uso de blockchain e contrato inteligentes (smart contracts) dentro do contexto acadêmico",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Alex Ricardo Weber",
+                    "Pedro Henrique Mazocco",
+                    "Raquel Otovicz",
+                    "Tayna Cristine Batista Ananias De Souza",
+                    "Yasmin De Lima Fornari"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Educação assistida por animais: a importância das abelhas para a comunidade escolar no oeste catarinense",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Naidi Carmen Gabriel",
+                    "Luciane Belmonte Pereira"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Pesquisa e desenvolvimento de chatbots",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Alex Ricardo Weber",
+                    "Wanderson Poster"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Elas Digitais e pensamento computacional ao alcance da mão",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Vitoria Lemos Soares",
+                    "Maria Isabel Medina Basi",
+                    "Isabela Reinhold",
+                    "Taynah Cristina Da Cunha Kraemer"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "IX SeI - Semana de Informática",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maykon Chagas De Souza"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto e implementação de um chatbot utilizando linguagem simples para aplicação na Secretaria Acadêmica.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Andrei De Souza Inácio",
+                    "Ariane Gentil Da Silva Pavarini",
+                    "Ana Beatriz Faustino Souza"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Laboratório de Educação Ambiental do IFSC Câmpus Gaspar",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Leonidas Joao De Mello Junior",
+                    "Carlos Geovanni Alves Ledra",
+                    "Daiane De Souza Carvalho",
+                    "Daniel Felipe Jimenez Monteiro",
+                    "Fernanda Maria Trentini Carneiro",
+                    "Graciane Regina Pereira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "aprendizagem de informática: uma proposta para a formação de novas conexões",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Romulo De Aguiar Beninca",
+                    "Leonardo Leiria Fernandes",
+                    "Pedro Henrique Godri",
+                    "Everton Luis Anselmini",
+                    "Hagar De Lara Tiburcio De Oliveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Formação de formadores sobre Pensamento Computacional",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Jaqueline Correia Brandao"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Semana Nacional de Ciência e Tecnologia: ciências básicas para o desenvolvimento sustentável",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fernando Mezadri",
+                    "Maykon Chagas De Souza",
+                    "Hagar De Lara Tiburcio De Oliveira",
+                    "Carlos Geovanni Alves Ledra",
+                    "Fernanda Maria Trentini Carneiro",
+                    "Graciane Regina Pereira",
+                    "Karitha Bernardo De Macedo"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Elas Digitais e o panorama da participação de mulheres nos cursos da Computação no Câmpus Gaspar do IFSC",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Vitoria Lemos Soares",
+                    "Elisa Vitória Alberto",
+                    "Graca Aparecida Prestes Sabadin"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de recursos de pensamento computacional para o ensino básico",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Jaqueline Correia Brandao"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Clube de programação, usando a Olimpíada Brasileira de Informática para o incentivo do aprendizado de programação como metodologia de ensino, buscando permanência e êxito.",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Andrei De Souza Inácio",
+                    "Saulo Vargas",
+                    "Natan João Vansuita"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Educando para a liberdade, o uso de Linux e tecnologias livres como aliados para uma educação de qualidade",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Andrei De Souza Inácio",
+                    "Renato Simoes Moreira",
+                    "Romulo De Aguiar Beninca",
+                    "Jaqueline Correia Brandao",
+                    "Murilo Henrique Galvão De Sousa Azevedo"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Transformando o Atendimento Acadêmico com Agentes Inteligentes Conversacionais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Andrei De Souza Inácio",
+                    "Thalles Dos Santos Ramos",
+                    "Saulo Vargas"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Jogo sério para disseminação das contribuições femininas ao Mundo Digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Jaqueline Correia Brandao",
+                    "Daniela Sbizera Justo",
+                    "Maria Clara Adao",
+                    "Pedro Luiz Tascheck"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "BioGPT: framework de interação com dados biológicos a partir de processamento de linguagem natural",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Andrei De Souza Inácio",
+                    "Renato Simoes Moreira",
+                    "Filipe Sautner Bernardes",
+                    "Osmar Barbosa Gomes Da Conceicao",
+                    "Thiago De Sene Pereira"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Proposta de desenvolvimento de um chatbot usando técnicas aprendizado de máquina para uma instituição de ensino",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Leonardo Ronald Perin Rauta",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Andrei De Souza Inácio",
+                    "Renato Simoes Moreira",
+                    "Romulo De Aguiar Beninca",
+                    "Filipe Sautner Bernardes",
+                    "Kleyton Da Silva"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Elas Digitais: avaliação do impacto de oficinas de desenvolvimento do Pensamento Computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maykon Chagas De Souza",
+                    "Caroline Reis Vieira Santos Rauta",
+                    "Vitoria Lemos Soares"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CHAGAS",
+                    "software": "M.,  SILVA, J. J.,  WANGHAM, MICHELLE S.,  Mecanismo de Controle e Gerência de Segurança para Ambientes Colaborativos.",
+                    "ano": "2016",
+                    "finalidade": "Pesquisa."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "WANGHAM",
+                    "titulo": "M. S.,  CHAGAS, M.,  Autenticação e Autorização na Internet do Futuro.",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí."
+                },
+                {
+                    "autores": "CHAGAS",
+                    "titulo": "M.,  SILVA, J. J.,  WANGHAM, M. S.,  Serviço de Gerência de Segurança para Organizações Virtuais em Federações SAML",
+                    "ano": "2016",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "CHAGAS",
+                    "titulo": "MAYKON,  Mozilla em pt-BR",
+                    "ano": "2016",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí (UNIVALI)."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "M. C.,  WANGHAM, M. S.,  Estudo sobre a interoperabilidade entre sistemas de gestão de identidades federadas em ambientes de pesquisas colaborativas",
+                    "ano": "2015",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "CHAGAS",
+                    "titulo": "MAYKON,  Shibboleth 3 - desafios e possibilidades",
+                    "ano": "2015",
+                    "instituicao_promotora": "Rede Nacional de Ensino e Pesquisa (RNP)."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "M. C.,  WANGHAM, M. S.,  MELLO, E. R.,  Implantação de uma Comunidade Acadêmica Federada para Experimentação usando Framework Shibboleth",
+                    "ano": "2014",
+                    "instituicao_promotora": "UNIVALI."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "M. C.,  MELLO, E. R.,  WANGHAM, M. S.,  CAFe Expresso: Comunidade Acadêmica Federada para Experimentação usando Framework Shibboleth",
+                    "ano": "2014",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOUZA",
+                    "curso": "M. C.,  SCOTTI, K.,  Minicurso de Controle de Versão com GIT",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CHAGAS",
+                    "evento": "M.,  IX Semana da Informática",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina (IFSC)."
+                },
+                {
+                    "autores": "CHAGAS",
+                    "evento": "M.,  V Semana Acadêmica de Computação e Informática",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Catarinense campus Videira."
+                },
+                {
+                    "autores": "MUELLER",
+                    "evento": "A.,  CUNHA, F. S.,  LEMOS, H.,  BOMBASSARO, T. A.,  MARTINS, S. T.,  DAZZI, R. L. S.,  CHEROBIN, R.,  SANTIAGO, R.,  MESCHKE, N.,  CHAGAS, M.,  LOPES, M. D.,  WARMLING, A.,  RAUTA, L. R. P.,  FERNANDES, A. M. R.,  SOBIERANSKI, A. C.,  SANFELICE, C.,  KRONBAUER, D. P.,  COELHO, D. K.,  MELO, D. R.,  COMUNELLO, E.,  et.al,  Computer on the Beach",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí."
+                },
+                {
+                    "autores": "MUELLER",
+                    "evento": "A.,  MIRANDA, E. M.,  COMUNELLO, E.,  CUNHA, F. S.,  LEMOS, H.,  RAMOS, J. V.,  BARROS, J.,  SILVA, J. J.,  SILVA, J. M. C.,  SOUSA, J. S.,  RAUTA, L. R. P.,  WARMLING, A.,  CHAGAS, M.,  REGINALDO, A. R.,  FERNANDES, A. M. R.,  SOBIERANSKI, A. C.,  SANFELICE, C.,  KRONBAUER, D. P.,  COELHO, D. K.,  MELO, D. R.,  et.al,  Computer on the Beach",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade do Vale do itajaí."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DE SOUZA, MAYKON CHAGAS",
+                "titulo": "SILVA, JUCÉLIO JAIR;  WANGHAM, MICHELLE SILVA;  Mecanismo de controle e gerência de segurança para ambientes colaborativos",
+                "ano": "2017",
+                "periodico": "REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA. ISBN: 21766649   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DOS SANTOS RAMOS, THALLES",
+                "titulo": "SSTRAGNI, ALEXANDRA; VARGAS, SAULO; CHAGAS, MAYKON; DE SOUZA INÁCIO, ANDREI; Atendimento Inteligente: Solução Automatizada de Suporte Acadêmico para Alunos de uma Instituição de Ensino",
+                "evento": "Anais do Computer on the Beach",
+                "local": "Itajaí",
+                "ano": "2025"
+            },
+            {
+                "autores": "REIS VIEIRA SANTOS RAUTA, CAROLINE",
+                "titulo": "CHAGAS, MAYKON; CLARA ADÃO, MARIA; CORREIA BRANDÃO, JAQUELINE; LUIZ TASCHECK, PEDRO; Cartilhas de Atividades para Promoção de Igualdade de Gênero e Cultura digital",
+                "evento": "Anais do Computer on the Beach",
+                "local": "Itajaí",
+                "ano": "2025"
+            },
+            {
+                "autores": "GABRIEL POZZOBON DOS SANTOS, JOÃO",
+                "titulo": "GENTIL DA SILVA PAVARINI, ARIANE; CHAGAS, MAYKON; REIS VIEIRA SANTOS RAUTA, CAROLINE; DE SOUZA INÁCIO, ANDREI; Chatbot para Atendimento em uma Secretaria Acadêmica: Facilitando Comunicações por meio de Linguagem Simples",
+                "evento": "Computer on the Beach",
+                "local": "Balneário Camboriú - Santa Cat",
+                "ano": "2024"
+            },
+            {
+                "autores": "REIS VIEIRA SANTOS RAUTA, CAROLINE",
+                "titulo": "CHAGAS DE SOUZA, MAYKON; LEMOS SOARES, VITÓRIA; Pensamento Computacional como Resgate de Habilidades Lógicas no Ensino Técnico Integrado ao Ensino Médio",
+                "evento": "Computer on the Beach",
+                "local": "Balneário Camboriú - Santa Ca",
+                "ano": "2024"
+            },
+            {
+                "autores": "REIS VIEIRA SANTOS RAUTA, CAROLINE",
+                "titulo": "CHAGAS DE SOUZA, MAYKON; REINHOLD, ISABELA; ISABEL MEDINA BASI, MARIA; VITÓRIA ALBERTO, ELISA; LEMOS SOARES, VITÓRIA; Elas Digitais e o Pensamento computacional ao Alcance da Mão",
+                "evento": "Computer on the Beach",
+                "local": "Florianópolis - Santa Catarin",
+                "ano": "2023"
+            },
+            {
+                "autores": "CHAGAS, MAYKON",
+                "titulo": "SILVA, JUCELIO JAIR; ADRIANO, DANIEL D",
+                "evento": "; WANGHAM",
+                "local": "MICHELLE S.; SM4VO: A Security Management Mechanism for Virtual Organizations. 2019 9th LatinAmerican Symposium on Dependable Computing (LADC), Natal",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOUZA, M. C.",
+                "titulo": "SILVA, J",
+                "evento": "J.; WANGHAM",
+                "local": "M. S.; Serviço de Gerência de Segurança para Organizações Virtuais em Federações SAML. XVI Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, Niterói, RJ",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOUZA, J. S.",
+                "titulo": "LOPES, Marcelo Dornbusch; FERNANDES, Anita Maria da Rocha; DE SOUZA, MAYKON CHAGAS; Mulheres Digitais: Uma Análise da Participação das Mulheres nos Cursos de Ciência da Computação e Engenharia de Computação no Brasil e na Universidade Univali",
+                "evento": "Computer on the Beach",
+                "local": "Florianópolis",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOUZA, M. C.",
+                "titulo": "WANGHAM, M",
+                "evento": "S.; Estudo sobre Interoperabilidade entre Sistemas de Gestão de Identidades Federadas em Ambientes de Pesquisas Colaborativas. XV Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais",
+                "local": "Florianópolis, SC",
+                "ano": "2015"
+            },
+            {
+                "autores": "SOUZA, M. C.",
+                "titulo": "WANGHAM, M",
+                "evento": "S.; MELLO",
+                "local": "E. R.; Implantação de uma Comunidade Acadêmica Federada para Experimentação usando Framework Shibboleth. Computer on the Beach, Florianópolis, SC",
+                "ano": "2014"
+            },
+            {
+                "autores": "SOUZA, M. C.",
+                "titulo": "MELLO, E",
+                "evento": "R.; WANGHAM",
+                "local": "M. S.; CAFe Expresso: Comunidade Acadêmica Federada para Experimentação usando Framework Shibboleth. XIV Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, Belo Horizonte",
+                "ano": "2014"
+            },
+            {
+                "autores": "SOUZA, M. C.",
+                "titulo": "MELLO, E",
+                "evento": "R.; WANGHAM",
+                "local": "M. S.; GIdLab: Laboratório de Experimentação em Gestão de Identidade. XIV Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, Belo Horizonte, MG",
+                "ano": "2014"
+            },
+            {
+                "autores": "WANGHAM, M. S.",
+                "titulo": "MELLO, E",
+                "evento": "R.; SOUZA",
+                "local": "M. C.; COELHO, H.; GidLab: Laboratório de experimentação em Gestão de Identidades.. XIII Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, Manaus, AM.",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Vinicius da Silva Moll",
+                "titulo": "Análise de Implantação de Serviço de Rede Wireless Mesh IEEE 802.11s Substituindo Redes Wireless Tradicionais",
+                "ano": "2019",
+                "curso": "Especialização Em Administração E Segurança De Red",
+                "instituicao": "Universidade do Oeste de Santa Catarina"
+            },
+            {
+                "orientando": "Arthur Abitante",
+                "titulo": "Análise de Ameaças e lmpactos a Dispositivos de IOT sobre ataque de Negação de Serviço Distribuído",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Catarinense Campus Videira"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.334051609039307,
+            "indian": 6.973212242126465,
+            "black": 2.11610746383667,
+            "white": 28.59988784790039,
+            "middle eastern": 19.085622787475586,
+            "latino hispanic": 36.89111328125
+        }
+    }
+}

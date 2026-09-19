@@ -1,0 +1,674 @@
+{
+    "campus": "- Campus Formiga",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Verification of Vehicular Networks Using Probabilistic Model Checking",
+                "orientador": "Sérgio Vale Aguiar Campos",
+                "ano_inicio": 2010,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Matemática e Computacional",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "titulo": "Uma Técnica para Validação de Processos de Desenvolvimento de Software",
+                "orientador": "Gray Farias Moita",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Lato Sensu Especialista em Docência",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "orientador": "Edio da Costa Junior",
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Centro Universitário do Sul de Minas",
+                "orientador": "Tomás Dias Sant' Ana",
+                "ano_inicio": 2004,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciencia da Computação",
+                "instituicao": "Centro Universitário de Formiga",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Fundação Educacional de Oliveira",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Professor",
+                "vinculo": "Livre",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário do Sul de Minas",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "Pesquisador",
+                "vinculo": "Projeto de Pesquisa",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Pesquisador",
+                "vinculo": "Estudante",
+                "descricao": ""
+            },
+            {
+                "empresa": "RM Sistemas",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "SE Sistemas",
+                "ano_inicio": 2001,
+                "ano_fim": 2006,
+                "funcao": "Programador",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2016,
+                "ano_fim": 2018,
+                "funcao": "Coordenador do Curso de Ciência da Computação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Disciplinas: Introdução à Programação",
+                "descricao": "Algoritmos, Banco de Dados, Desenvolvimento Web, Paradigmas de Linguagens"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Minas Gerais\nEnsino-medio (2010 - 2010) .\nOutro (2010 - 2011) .\nGraduacao (2009 - 2009) - Análise E Desenvolvimento De Sistemas.\nGraduacao (2009 - 2009) - Sistemas Para Internet.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Centro Universitário do Sul de Minas",
+                "nome": "ET (Emulador TCP/IP) - Emulador para Web das camadas de Interface de Rede e Rede da arquitetura TCP/IP.",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Danielle Costa",
+                    "Juvêncio Geraldo De Moura",
+                    "Fernando Henrique Martins Baldance",
+                    "Tomás Dias Sant' Ana"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais,",
+                "ano_inicio": 2004,
+                "ano_fim": 2004
+            },
+            {
+                "instituicao": "Centro Universitário de Formiga",
+                "nome": "ArchCollect - Framework para coleta de dados de interações de usuários em páginas Web com HTML e XML dinâmicas e estáticas",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Joubert De Castro Lima"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2003,
+                "ano_fim": 2003
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Protocolo para realização de manobras de ultrapassagem utilizando verificação probabilística de modelos e redes veiculares",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Efrem Ferreira",
+                    "Lucas Alves De Faria",
+                    "Bruno Eustáquio Enes"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sistema de Controle para Associações de Assistiência a Menores",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Bruno Eustáquio Enes",
+                    "Vinícius Alves De Araújo"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sistema de Baixo Custo para monitoramento de entregas/veículos em tempo real",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Efrem Ferreira",
+                    "Bruno Eustáquio Enes",
+                    "Patrícia Pieroni",
+                    "Bruno Ferreira"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Carro verde: uma arcabouço de coleta e descoberta de informações na Web",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Raí Caetano De Jesus",
+                    "Luciana Lourdes Silva",
+                    "João Paulo Fernandes De Cerqueira César",
+                    "Renan Airton Batista Ribeiro",
+                    "Igor Antônio Pedroso",
+                    "José Luiz Maciel Pimenta",
+                    "Washington Santos Da Silva"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Elaboração de Portfólio de Serviços de uma Empresa Júnior Multicursos com a Utilização da Metodologia de Design de Proposta de Valor",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Igor Antônio Pedroso",
+                    "Miguel Rivera Peres Júnior"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Protótipo de gerenciador de ambientes em instituições educacionais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Jeferson Marques Costa Alves",
+                    "Paulo Henrique Xavier",
+                    "Lucas Mateus Menezes Silva"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sistema de apoio ao controle gerencial de instituições filantrópicas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Vinícius Alves De Araújo"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Ferramenta de migração de dados para o Gradient 1.0",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Jeferson Marques Costa Alves"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Protótipo de Gerenciador de Horários para Instituições de Ensino",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Paulo Henrique Xavier"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Uso de Tecnologia da Informação e Comunicação na aprendizagem de algoritmos",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Camily Leal Silva",
+                    "Felipe De Castro Leal Ribeiro"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,",
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa IF MAIS EMPREENDEDOR NACIONAL",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Paulo Henrique Xavier",
+                    "Eric Felipe Santos",
+                    "João Geraldo Borges Sales",
+                    "Lucas Gabriel De Almeida",
+                    "Rafael Souza Bernardo",
+                    "Tales Pereira Grechi"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",
+                "nome": "Sistema Inteligente de Cadastro e Análise de Crédito Comercial - SICACC",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Bruno Ferreira",
+                    "Efrem Ferreira",
+                    "Miguel Rivera Peres Júnior",
+                    "Washington Santos Da Silva"
+                ],
+                "financiador": "Associação Brasileira de Pesquisa e Inovação Industrial,",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "B.,  CUNHA, F. D.,  CAMPOS, S. V. A.,  BRAZ, F. A. F.,  LOUREIRO, A. A.,  Intelligent Service to Perform Overtaking in Vehicular Networks",
+                    "ano": "2015",
+                    "instituicao_promotora": "University of Cyprys."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "titulo": "B.,  BRAZ, F. A. F.,  CAMPOS, S. V. A.,  LOUREIRO, A. A.,  A Probabilistic Model Checking Analysis of Vehicular Ad-hoc Networks",
+                    "ano": "2015",
+                    "instituicao_promotora": "IEEE."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "Ferreira",
+                    "curso": "Bruno,  Orientação a objetos na prática para criação de jogos e interfaces gráficas",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "B.,  Criação de Web services com Java",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "B.,  RIBEIRO, R. A. B.,  Introdução ao MongoDB",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "Ferreira",
+                    "curso": "Bruno,  Criação de Jogos 2D em Java",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "Ferreira",
+                    "evento": "Bruno,  X Jornada de Educação, Ciência e Tecnologia (JECT) do IFMG ? Campus Formiga",
+                    "ano": "2021",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "B.,  VIII Jornada de Educação, Ciência e Tecnologia (JECT) do IFMG ? Campus Formiga",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "B.,  Jornada Cultural do IFMG - Campus Formiga",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Minas Gerais."
+                },
+                {
+                    "autores": "GARBAZZA",
+                    "evento": "I. E.,  SANTOS, L. A.,  COSTA, D.,  FERREIRA, B.,  TRINDADE, A. R.,  I Semana de Ciências Exatas - IFMG - campus Bambuí",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologiado Norte de Minas Gerais."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "Introdução aos Algoritmos e à Programação Básica com a Linguagem Java",
+                "ano": "2022",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786558760450, Belo Horizonte (Publicado)."
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "Conceitos Avançados sobre Algoritmos e Programação com a Linguagem Java",
+                "ano": "2022",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786558760412, Belo Horizonte (Publicado)."
+            },
+            {
+                "autores": "MARINHO, R. P.",
+                "titulo": "FERREIRA, B.;  Programação .Net Básico",
+                "ano": "2022",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786558760351, Belo Horizonte (Publicado)."
+            },
+            {
+                "autores": "MARINHO, R. P.",
+                "titulo": "FERREIRA, B.;  Programação .Net Avançado",
+                "ano": "2022",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786558760337, Belo Horizonte (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "Moita, Gray F;  Inspection technique for the validation of software development processes",
+                "ano": "2010",
+                "periodico": "Materials Science & Engineering. C, Biomimetic Materials, Sensors and Systems (Print). ISBN: 09284931   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Ferreira E.",
+                "titulo": "ENES, B",
+                "evento": "E.; PIERONI",
+                "local": "P.; FERREIRA, B.; Sistema de baixo custo para monitoramento de entregas e veículos em tempo real. Seminário de Pesquisa e Inovação (SemPI), Formiga",
+                "ano": "2017"
+            },
+            {
+                "autores": "ARAUJO, V. A.",
+                "titulo": "ENES, B",
+                "evento": "E.; FERREIRA",
+                "local": "B.; Sistema de controle para associações de assistência a menores. Seminário de Pesquisa e Inovação (SemPI), Formiga",
+                "ano": "2017"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "CAMPOS, S",
+                "evento": "V. A.; CUNHA",
+                "local": "F. D.; LOUREIRO, A. A.; BRAZ, F. A. F.; Intelligent Service to Perform Overtaking in Vehicular Networks. ISCC 2015 - The Twentieth IEEE Symposium on Computers and Communications., Larnaca",
+                "ano": "2015"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "BRAZ, F",
+                "evento": "A. F.; CAMPOS",
+                "local": "S. V. A.; LOUREIRO, A. A.; A Probabilistic Model Checking Analysis of Vehicular Ad-hoc Networks. 2015 IEEE 81st Vehicular Technology Conference: VTC2015-Spring, Glasgow",
+                "ano": "2015"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "CAMPOS, S",
+                "evento": "V. A.; BRAZ",
+                "local": "F. A. F.; A Probabilistic Model Checking Analysis of a Realistic Vehicular Networks Mobility Model. 17th Brazilian Sumposium, Maceió, AL, Brazil",
+                "ano": "2014"
+            },
+            {
+                "autores": "OLIVEIRA, D.",
+                "titulo": "BRAZ, F",
+                "evento": "A. F.; FERREIRA",
+                "local": "B.; FARIA-CAMPOS, A.; CAMPOS, S. V. A.; Using Binary Decision Diagrams (BDDs) for Memory Optimization in Basic Local Alignment Search Tool (BLAST). Brazilian Symposium on Bioinformatics, Belo Horizonte",
+                "ano": "2014"
+            },
+            {
+                "autores": "BRAZ, F. A. F.",
+                "titulo": "Ferreira, Bruno; AMARAL, J",
+                "evento": "; FARIA-CAMPOS",
+                "local": "A.; CAMPOS, S. V. A.; CRUZ, J.; A Probabilistic Model Checking Analysis of the Potassium Reactions with the Palytoxin and Na+/K+-ATPase Complex. 8th Brazilian Symposium on Bioinformatics, BSB 2013, Recife",
+                "ano": "2013"
+            },
+            {
+                "autores": "Ferreira, Bruno",
+                "titulo": "BRAZ, F",
+                "evento": "A. F.; CAMPOS",
+                "local": "S. V. A.; A Probabilistic Model Checking Approach to Investigate Vehicular Networks. XV Simpósio Brasileiro de Métodos Formais, Natal-RN",
+                "ano": "2012"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "DIAS, T",
+                "evento": "M. R.; MOITA",
+                "local": "G. F.; COSTA, D.; Validação de Processo de Desenvolvimento de Software por Métricas de Satisfação de Uso. IX SIMMEC Simpósio de Mecânica Computacional, São João Del Rei",
+                "ano": "2010"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "DIAS, T",
+                "evento": "M. R.; MOITA",
+                "local": "G. F.; SILVA, A. M.; Viabilidade do Desenvolvimento de Software Baseado no Modelo MPS.BR com a Metodolgia Extreme Programming. IX SIMMEC - Simpósio de Mecânica Computacional, São João Del Rei",
+                "ano": "2010"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "MOITA, G",
+                "evento": "F.; ALMEIDA",
+                "local": "P. E. M.; BORGES, H. E.; Técnica de Inspeção para a Validação de Processos de Desenvolvimento de Softwares. 30º Congresso Ibero-Latino-Americano de Métodos Computacionais em Engenharia, Armação de Búzios",
+                "ano": "2009"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "MOITA, G",
+                "evento": "F.; ALMEIDA",
+                "local": "P. E. M.; BORGES, H. E.; Uma proposta de técnica por inspeção para validação de processo de desenvolvimento de software. XII Encontro de Modelagem Computacional, Rio de Janeiro",
+                "ano": "2009"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "MOITA, G",
+                "evento": "F.; Avaliação de técnicas para validação em processos de desenvolvimento de software. VIII Simpósio de Mecânica Computacional",
+                "local": "Belo Horizonte",
+                "ano": "2008"
+            },
+            {
+                "autores": "MOITA, G. F.",
+                "titulo": "FERREIRA, B",
+                "evento": "; The evaluation of different validation techniques for software development process. 8th World Congress on Computational Mechanics",
+                "local": "Veneza",
+                "ano": "2008"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "MOITA, G",
+                "evento": "F.; Avaliação de técnicas de verificação e validação para processos de desenvolvimento de software. IX Seminário de Progresso de Pesquisa em Pós-graduação / IV Encontro Interinstitucional de Pesquisa em Pós-graduação",
+                "local": "Belo Horizonte",
+                "ano": "2007"
+            },
+            {
+                "autores": "FERREIRA, B.",
+                "titulo": "COSTA, D",
+                "evento": "; MOURA",
+                "local": "J. G.; SANT' ANA, T. D.; ETCPIP - Emulador de rede para as camadas de Rede e Interface de Rede. ErComp Segundo Encontro Regional de Computação, Formiga",
+                "ano": "2006"
+            },
+            {
+                "autores": "LIMA, J. C.",
+                "titulo": "MOURA, J",
+                "evento": "G.; FERREIRA",
+                "local": "B.; ESMIN, A. A. A.; ArchCollect front-end: a Web usage data mining acquisition mechanism focused on satatic or dynamic contenting applications. Sixth International Conference In Enterprise Information Systems, Porto",
+                "ano": "2004"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Lucas Gabriel de Almeida",
+                "titulo": "FERRAMENTA PARA BUSCA EM DOCUMENTOS TEXTUAIS POR PROMPTS UTILIZANDO LARGE LANGUAGE MODEL E RETRIEVAL-AUGMENTED GENERATION",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "João Paulo de Souza",
+                "titulo": "Protótipo de uma Plataforma de busca de Preços na Web",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Gabriel Fernandes Silva Gondim",
+                "titulo": "Protótipo de uma Aplicação Web para Extração de Dados Não Estruturados",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Paulo Henrique Xavier",
+                "titulo": "Protótipo de sistema para eleições com validação e segurança inspirados na tecnologia Blockchain",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Rúbia Marques de Oliveira",
+                "titulo": "Protótipo de Sistema WEB para Imobiliária com Sistema de Recomendação de Imóveis",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Igor Antônio Pedroso",
+                "titulo": "Sistema de seleção de divulgadores, análise e gerenciamento de campanhas de marketing no instagram",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Leandro Souza Pinheiro",
+                "titulo": "Uso de Model Checking como alternativa de solução ao problema Timetabling",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ana Paula Silva Cunha",
+                "titulo": "Protótipo de uma Single Page Application para Autoatendimento Bibliotecário usando ReactJS",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Luiz Eduardo Pereira",
+                "titulo": "Uso de metaheurísca em uma ferramenta de cotação para compras de cartas de magic: the gathering",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lucas Alves de Faria",
+                "titulo": "Desenvolvimento de &#8203;Website Responsivos com microserviços para gerenciamento escolar",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Déborah Aparecida Resende",
+                "titulo": "Protótipo de Single Page Application (SPA) para gerenciamento de sorveterias e dispositivo para monitoramento da temperatura",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Bruno Eustáquio Enes Cardoso",
+                "titulo": "Desenvolvimento de &#8203;websites Responsivos para Rede de Hotéis",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "João Paulo de Menezes",
+                "titulo": "Protótipo de sistema para monitoramento em tempo real de entrega de produtos",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Vinícius Alves de Araújo",
+                "titulo": "PBITI: Sistema de Controle para Associações de Assistência a menores carentes",
+                "ano": "2016",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Hélder Ribeiro dos Santos",
+                "titulo": "SysSumula - Sistema para controle do jogo e geração de súmulas de Handebol",
+                "ano": "2009",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais"
+            },
+            {
+                "orientando": "Thiago Rodrigo Silva",
+                "titulo": "Desenvolvimento de Software: Uma classe para publicar informações na Internet",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            },
+            {
+                "orientando": "Vera Lucia de Jesus Machada",
+                "titulo": "Desenvolvimento de Sistemas: Software de Gestão Escolar",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 13.069618225097656,
+            "indian": 10.445591926574707,
+            "black": 4.972364902496338,
+            "white": 20.20793342590332,
+            "middle eastern": 17.35502052307129,
+            "latino hispanic": 33.9494743347168
+        }
+    }
+}

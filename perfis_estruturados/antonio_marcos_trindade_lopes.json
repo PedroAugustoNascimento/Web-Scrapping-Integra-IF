@@ -1,0 +1,147 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 2002,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnólogo em Processamento de Dados",
+                "instituicao": "Universidade da Amazônia",
+                "ano_inicio": 1997,
+                "ano_fim": 1999
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Civil",
+                "instituicao": "Universidade da Amazônia",
+                "ano_inicio": 1989,
+                "ano_fim": 1993
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Chefe",
+                "vinculo": "Servidor público",
+                "descricao": "função de Chefe do Núcleo de Educação a Distância deste Centro Federal de Educação Tecnológica do Pará, código FG01"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Coordenador",
+                "vinculo": "Servidor público",
+                "descricao": "Coordenador Técnico da Unidade de Ensino Descentralizada de Marabá deste Centro Federal de Educação Tecnológica do Pará, sem efeito financeiro"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2003,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "cefetpa",
+                "ano_inicio": 2005,
+                "ano_fim": 2011,
+                "funcao": "Coordenador",
+                "vinculo": "Atuei na implantação do núcleo de educação a distancia do IFPa",
+                "descricao": "como Coordenador Adjunto do mesmo"
+            },
+            {
+                "empresa": "Escola Agrotécnica Federal de Castanhal",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Telemar Norte Leste - Rio de Janeiro",
+                "ano_inicio": 2001,
+                "ano_fim": 2002,
+                "funcao": "Técnico de Comunicação de Dados",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": cefetpa\nCEFET-Pa (2006) : Coordenador Do Núcleo E Ead.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nGraduacao (2007 - 2007) - Engenharia Dos Materiais.\nGraduacao (2007 - 2007) - Tecnólogo Em Telecomunicações.\nGraduacao (2003) - Tecnólogo Em Análise E Desenvolvimento De Sistemas.\nEnsino-fundamental (2003) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Universidade Aberta do Brasil",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Antônio Marcos Trindade Lopes"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Universidade Aberta do Brasil",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Antônio Marcos Trindade Lopes",
+                    "Darlindo Maria Pereira Veloso Filho"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2007
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LOPES",
+                    "software": "A. M. T.,  Sistema de Administração de Pacientes",
+                    "ano": "2003",
+                    "finalidade": "Controle de Atendimentos de Pacientes."
+                },
+                {
+                    "autor": "LOPES",
+                    "software": "A. M. T.,  Projeto de Rede Wireless EAFC-Pa",
+                    "ano": "2003",
+                    "finalidade": "Interligar os prédios da Escola Agrotécnica Federal de Castanhal."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 34.00486373901367,
+            "indian": 12.869131088256836,
+            "black": 9.98578929901123,
+            "white": 10.394377708435059,
+            "middle eastern": 9.684475898742676,
+            "latino hispanic": 23.061368942260742
+        }
+    }
+}

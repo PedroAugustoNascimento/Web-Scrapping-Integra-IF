@@ -1,0 +1,193 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica e Computação Aplicada",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Análise de Modelos Computacionais e de Inteligência Artificial para Reconhecimento de Emoções Através de Inflexões da Fala",
+                "orientador": "Marcos César Seruffo",
+                "ano_inicio": 2022,
+                "ano_fim": 2024
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Gestão Estratégica da Tecnologia da Informação",
+                "instituicao": "Universidade Estácio de Sá",
+                "orientador": "Msc",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Centro Universitário do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor do programa PRONATEC",
+                "vinculo": "javascript:void(0)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Pará",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "IFind-Bus: Sistema de Rastreamento de Rota Escolar como Solução Tecnológica para o Transporte de Estudantes do IFPA Campus Óbidos.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Lúcio De Souza Júnior",
+                    "Felipe Da Silva Santos"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Análise de Dados sobre Violência contra a Mulher e Desenvolvimento de um Portal de Mapa da Violência no Município de Óbidos.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "João Lúcio De Souza Júnior",
+                    "Raila Carvalho Araújo",
+                    "Arthur Castro Da Silva Paula"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Desenvolvimento de um robô seguidor de linha utilizando modelagem e impressão 3D como Kit Educacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Lúcio De Souza Júnior",
+                    "Kamilla Rebeka De Amorim Souza"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Infobótica: Ensino e aprendizagem com foco no acesso a robótica educativa",
+                "natureza": "Extensão",
+                "equipe": [
+                    "João Lúcio De Souza Júnior",
+                    "Reinoso",
+                    "Luiz F."
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Análise de Modelos Computacionais e de Inteligência Artificial para Reconhecimento de Emoções Através de Inflexões da Fala.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "João Lúcio De Souza Júnior",
+                    "Marcos César Seruffo",
+                    "Saulo William Da Silva Costa"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SOUZA JÚNIOR",
+                    "titulo": "J. L.,  'Tecnologia e Inovação: Desafios e oportunidades em um Futuro Sustentável e Inclusivo'",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Pará."
+                },
+                {
+                    "autores": "LOPES",
+                    "titulo": "G. W. O.,  De Souza, João Lúcio,  SOUSA JUNIOR, E. L.,  ANÁLISE DE SOLUÇÕES OPEN SOURCE DE MACHINE LEARNING EM PYTHON: UM ESTUDO BIBLIOGRÁFICO",
+                    "ano": "2024",
+                    "instituicao_promotora": "Universidade Federal do Oeste do Pará."
+                },
+                {
+                    "autores": "NEVES",
+                    "titulo": "F. S.,  SALES, R. E. S.,  De Souza, João Lúcio,  DESENVOLVIMENTO DE UM SISTEMA DE CONTROLE DE VENDAS PARA PEQUENAS EMPRESAS DO MUNICÍPIO DE ÓBIDOS/PA",
+                    "ano": "2024",
+                    "instituicao_promotora": "Universidade Federal do Oeste do Pará."
+                },
+                {
+                    "autores": "De Souza",
+                    "titulo": "João Lúcio,  Tecnologia e Inovação: desafios e oportunidades na construção de um futuro sustentável e inclusivo",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal do Pará Campus Óbidos."
+                },
+                {
+                    "autores": "SOUZA JÚNIOR",
+                    "titulo": "JOÃO LÚCIO DE,  SARMANHO NETO, M.,  SOUZA, T. O.,  EvadMonitor: SISTEMA PARA IDENTIFICAÇÃO E ANÁLISE TENDENCIAL DE EVASÃO ESCOLAR",
+                    "ano": "2021",
+                    "instituicao_promotora": "INSITUTO FEDERAL DE EDUCAÇÃO, CIENCIA E TECNOLOGIA DO PARÁ - IFPA."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOUZA JÚNIOR",
+                    "curso": "J. L.,  Uso de novas tecnologias para uso em trabalhos acadêmicos",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MEDEIROS, A. M.",
+                "titulo": "SOUZA JÚNIOR, J. L.;  ANDRADE, M. C. M. A.;  COSTA, SAULO WILLIAM DA SILVA;  COSTA, FERNANDO AUGUSTO R.;  SAMPAIO NETO, N. C.;  SERUFFO, MARCOS CÉSAR DA R.;  Application of a multicriteria decision model for the classification of Paraíba?s municipalities as to the occurrence of domestic and family violence against women",
+                "ano": "2024",
+                "periodico": "Journal on interactive systems. ISBN: 27637719   ."
+            },
+            {
+                "autores": "De Souza, João Lúcio",
+                "titulo": "COSTA, SAULO WILLIAM DA SILVA;  COSTA, FERNANDO AUGUSTO RIBEIRO;  MEDEIROS, ALANA MIRANDA;  DESOUZA, GUILHERME N.;  SERUFFO, MARCOS CÉSAR DA ROCHA;  A classification model for municipalities in the paraense Amazon regarding the risk of violence against women: A multicriteria approach",
+                "ano": "2023",
+                "periodico": "PLoS One. ISBN: 19326203   ."
+            },
+            {
+                "autores": "REINOSO, LUIZ F.",
+                "titulo": "JÚNIOR, JOÃO LÚCIO DE S.;  Monitor COVID - Sistema de Auto AvaliaÃ§Ã£o de SaÃºde durante a pandemia de COVID-19 em Ã?bidos no Baixo Amazonas / COVID Monitor - Self Assessment Health System during the COVID-19 pandemic in Ã?bidos in the Lower Amazon",
+                "ano": "2021",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "S. JÚNIOR, JOÃO LÚCIO DE",
+                "titulo": "COSTA, SAULO WILLIAM S",
+                "evento": "; COSTA",
+                "local": "FERNANDO AUGUSTO R.; MEDEIROS, ALANA M.; SERUFFO, MARCOS CÉSAR DA R.; Modelo de Decisão Multicritério para classificar municípios quanto ao risco de violência doméstica contra a mulher: um estudo a partir da Amazônia Paraense. Workshop sobre as Implicações da Computação na Sociedade, Brasil",
+                "ano": "2023"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

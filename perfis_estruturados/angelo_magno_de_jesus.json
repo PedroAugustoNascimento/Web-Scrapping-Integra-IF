@@ -1,0 +1,936 @@
+{
+    "campus": "- Campus Ouro Branco",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ensino de Ciências",
+                "instituicao": "Universidade Cruzeiro do Sul",
+                "titulo": "A Collaborative Learning Strategy for Computational Thinking Development through Game Programming",
+                "orientador": "Ismar Frango Silveira",
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Pontifícia Universidade Católica de Minas Gerais",
+                "titulo": "Uma abordagem para extração de texto em vídeos digitais baseada em análise temporal",
+                "orientador": "Silvio Jamil Ferzole Guimarães",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência",
+                "instituicao": "Instituto Federal Minas Gerais",
+                "orientador": "Lilian Amaral de Carvalho",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2005,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Monitor de Algoritmos e Estrutura de Dados",
+                "vinculo": "Monitor Bolsista",
+                "descricao": "Atividades de desenvolvidas: ministrar aulas práticas em laboratório, auxílio ao professor na correção de provas, elaboração de material didático e atendimento aos alunos"
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Estagiário em Informática",
+                "vinculo": "Estágio",
+                "descricao": "Atividades: Desenvolvimento e manutenção de um sistema para controle do acervo museológico, nas linguagens de programação Java e Delphi. Parceria: DECOM/UFOP, Museu da Inconfidência"
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Monitor de Programação de Computadores",
+                "vinculo": "Monitor Bolsista",
+                "descricao": "Atividades desenvolvidas: Elaboração de material didático e atendimento aos alunos"
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2006,
+                "ano_fim": 2006,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista programa pró-ativa",
+                "descricao": "Análise e teste de aplicações de linguagens funcionais para área de robótica. Orientação: profª Drª Lucília Figueiredo"
+            },
+            {
+                "empresa": "Universidade Federal de Ouro Preto",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista programa pró-ativa",
+                "descricao": "Desenvolvimento de um tutorial sobre aplicações de programação funcional para Web, como também o desenvolvimento de pequenos exemplos práticos, para servir de material didático para os alunos da disciplina Programação Funcional. Orientação: profª Drª Lucília Figueiredo"
+            },
+            {
+                "empresa": "Prefeitura Municipal de Ouro Preto",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Estagiário em Desenvolvimento de Software",
+                "vinculo": "Estágio",
+                "descricao": "Atividades: Desenvolvimento de sistemas na linguagem de programação Java"
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Coordenador Licenciatura da Computação",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor de Ensino Superior e Tecnológico",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Escola Politécnica de Minas Gerais",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor de Ensino Técnico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nCampus Ouro Branco (2016) : Coordenador Do Curso Superior Em Licenciatura Em Computação.\nCampus Ouro Branco (2013 - 2016) : Coordenador Do Curso Técnico Integrado Em Informática.",
+        "ensino": ": Escola Politécnica de Minas Gerais\nOutro (2010 - 2010) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "IUNIUS",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Elton José Da Silva",
+                    "Henrique Borges Pereira",
+                    "Ângelo Magno De Jesus"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal de Ouro Preto",
+                "nome": "OriOnGroups",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Elton José Da Silva"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Robô de Baixo Custo Programável por Voz para Deficientes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Vinicius Azevedo Viana",
+                    "Douglas De Sá Santos",
+                    "Christian Fernandes De Deus",
+                    "Maria Luiza Campos Valli"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Ambiente de Programação para Aplicação Robótica Educacional Livre",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Lorena Almeida Cunha Ferreira",
+                    "Maria Caroline Bolivar Rufo",
+                    "Giovani Donizete Ambrósio",
+                    "Fabiano Marinho Cindra Santos"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um robô de baixo custo comandado por voz",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Vinicius Azevedo Viana",
+                    "Douglas De Sá"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento de um Ambiente para Programação de Robôs",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Lorena Almeida Cunha Ferreira",
+                    "Maria Caroline Bolivar Rufo",
+                    "Giovani Donizete Ambrósio",
+                    "Fabiano Marinho Sindra Santos"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Análise de Usabilidade e Sociabilidade em Ambientes EaD",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Giovani Donizete Ambrósio"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Desenvolvimento e Aplicação de Jogos Educacionais Digitais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Lorena Almeida Cunha Ferreira",
+                    "Dimas Antonio Silveira Gonçalves"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "DOJO?GO: Uma Forma Divertida e Colaborativa de se Aprender através de Dojo de Programação de Jogos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Gislaine Moura Da Silva"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Inclusão do Pensamento Computacional para Ensino Especial nas APAE`s.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Antonio Carlos Da Silva",
+                    "Shirley Aparecida Da Silva",
+                    "Elizangela Dos Santos Pimenta"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Programa OB 2.0",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ângelo Magno De Jesus",
+                    "Carlos Eduardo Paulino Silva",
+                    "Paula",
+                    "Suelen",
+                    "Marcio Assis Miranda"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Proposta de um Objeto de Aprendizagem para Ensino de Ciência da Computação por Meio de Computação Desplugada",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de um Jogo Digital de Estratégia para o Desenvolvimento de Habilidades de Resolução de Problemas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Pensamento Crítico IFMG",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ângelo Magno De Jesus"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Aplicações Interdisplinares do Pensamento Computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ângelo Magno De Jesus"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  TEODORO, H. M.,  IAprender - Plataforma Interativa para Ensinar sobre Inteligência Artificial/Aprendizado de Máquina",
+                    "ano": "2024",
+                    "finalidade": "Plataforma para o aprendizado de Inteligência Artificial/Aprendizado de Máquina."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  SimSustentabilidade",
+                    "ano": "2021",
+                    "finalidade": "Jogo que possui como objetivo educar a respeito da importância da sustentabilidade além de trabalhar habilidades de resolução de problemas.."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  GeradorDesafios",
+                    "ano": "2021",
+                    "finalidade": "Gerar desafios de programação automaticamente para desenvolver habilidades do Pensamento Computacional em estudantes."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  ArduAlg",
+                    "ano": "2014",
+                    "finalidade": "Ambiente com Tradutor que permite programar a placa Arduino com Português Estrturado."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  VozRobot",
+                    "ano": "2014",
+                    "finalidade": "Programa para Programar (comandos básicos) um Robô Arduino por comandos de voz."
+                },
+                {
+                    "autor": "FERREIRA",
+                    "software": "L. A. C.,  JESUS, Â. M.,  Jogo ITDrama",
+                    "ano": "2014",
+                    "finalidade": "Ensino de Informática através de um jogo temático.."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  da Silva, E., J.,  OrionGroups: Personal Profile",
+                    "ano": "2008",
+                    "finalidade": "Módulo para criação e busca de perfis de usuário no ambiente de gerenciamento de comunidades online OriOnGroups."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "Â. M.,  da Silva, E., J.,  API C++ para Algoritmos e Estrutura de Dados",
+                    "ano": "2008",
+                    "finalidade": "Uma mini bilioteca C++, desenvolvida para apoiar as aulas práticas de Algoritmos e Estrutura de Dados."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "JESUS",
+                    "titulo": "ÂNGELO,  SILVEIRA, I. F.,  A Collaborative Game-Based Learning Framework to Improve Computational Thinking Skills",
+                    "ano": "2019",
+                    "instituicao_promotora": "Pontificia Universidad Javeriana Cali."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "ÂNGELO,  SILVEIRA, I. F.,  Gamificação do Ensino de Desenvolvimento de Jogos Digitais por meio de uma Rede Social Educacional.",
+                    "ano": "2018",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "J. A.,  JESUS, ÂNGELO,  Avaliação de Interação de um Sistema de Gestão Acadêmica: Um Estudo de Caso",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí."
+                },
+                {
+                    "autores": "MACHADO",
+                    "titulo": "L. R. P.,  CASTRO, C. L.,  JESUS, ÂNGELO,  Tomathoes: Um Jogo Educacional para Estímulo Cognitivo",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade do Vale do Itajaí."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  VIANA, V. A.,  DEUS, C. F.,  SANTOS, D. S.,  VALLI, M. L. C.,  Desenvolvimento de um Robô de Baixo Custo Programável por Voz para Deficientes",
+                    "ano": "2014",
+                    "instituicao_promotora": "USP - São Carlos."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  FERREIRA, L. A. C.,  RUFO, M. C. B.,  SANTOS, F. M. C.,  AMBROSIO, G. D.,  ArduAlg: Programando o Arduino com Português Estruturado",
+                    "ano": "2014",
+                    "instituicao_promotora": "USP - São Carlos."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  PEDRO, W. S. S.,  CARVALHO, G. C. B.,  Aprendendo com Diversão: O Jogo Digital Aventuras de Jonny",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFTM."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  GUMARAES, A. C. P.,  REIS, V. C. L.,  ALMEIDA, J. P. R. F.,  SANTOS, L. R.,  SyncBug: Interface Remota com Garra Robótica",
+                    "ano": "2014",
+                    "instituicao_promotora": "USP - São Carlos."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  SANTOS, D. S.,  VIANA, V. A.,  DEUS, C. F.,  VALLI, M. L. C.,  Desenvolvimento de um Robô de Baixo Custo Comandado por Voz",
+                    "ano": "2013",
+                    "instituicao_promotora": "UNIFOR."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  REIS, G.,  Utilização do Jogo de Simulação Simcity no Ensino",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  MACIEL, V. P.,  Um Arcabouço Computacional para Ensino Baseado em Processamento de Imagens Digitais",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  Workshop de Desenvolvimento .NET",
+                    "ano": "2010",
+                    "instituicao_promotora": "PUC Minas."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  Engenharia de Sistemas Colaborativos",
+                    "ano": "2010",
+                    "instituicao_promotora": "PUC Minas."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  Desenvolvimento WEB com ASP.NET",
+                    "ano": "2009",
+                    "instituicao_promotora": "PUC Minas."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  da Silva, E., J.,  Múltiplos Perfis de Usuários em Comunidades Online: uma implementação no ambiente OriOnGroups",
+                    "ano": "2008",
+                    "instituicao_promotora": "Universidade Federal de Ouro Preto."
+                },
+                {
+                    "autores": "JESUS",
+                    "titulo": "Â. M.,  FREDERICO, C.,  Ribeiro, F. N.,  FALCAO, H. M.,  Desenvolvimento de uma Ferramenta para Análise de Tráfegos em Redes IP com Qualidade de Serviço",
+                    "ano": "2007",
+                    "instituicao_promotora": "UFOP, UNIPAC."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "JESUS",
+                    "curso": "Â. M.,  Iniciando Desenvolvimento WEB com .NET",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "JESUS",
+                    "curso": "Â. M.,  Desenvolvimento para SharePoint",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "JESUS",
+                    "curso": "Â. M.,  Desenvolvimento para SharePoint",
+                    "ano": "2010"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "MOURA, H. A.;  OLIVEIRA, P. M. E.;  SANTOS, R. G. C.;  Educação profissional e tecnológica no brasil: pesquisas, experiências e reflexões no contexto do IFMG?volume 4",
+                "ano": "2024",
+                "informacoes_adicionais": "Nao_informado. ISBN: 978-65-985162, Belo Horizonte (Organizado(a))."
+            },
+            {
+                "autores": "BARROS, M. C.",
+                "titulo": "JESUS, Â. M.;  Educação profissional e tecnológica no brasil: pesquisas, experiências e reflexões no contexto do IFMG. Título do capítulo: USO DA GAMIFICAÇÃO PARA APERFEIÇOAMENTO DO PROGRAMA BOLSA DE COMPLEMENTAÇÃO EDUCACIONAL: Um estudo de caso do CEFET-MG",
+                "ano": "2024",
+                "informacoes_adicionais": "ISBN: 9786598516222, Belo Horizonte."
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "SILVEIRA, ISMAR FRANGO;  Pensamento Computacional: pesquisas, práticas e concepções. Título do capítulo: PENSAMENTO COMPUTACIONAL: POSSIBILIDADES PARA A INTERDISCIPLINARIDADE",
+                "ano": "2024",
+                "informacoes_adicionais": "ISBN: 9788584802432, Curitiba."
+            },
+            {
+                "autores": "de Jesus, Ângelo Magno",
+                "titulo": "SILVEIRA, ISMAR FRANGO;  Advances in Intelligent Systems and Computing. Título do capítulo: Applying Agile Software Engineering to Develop Computational Thinking in Children",
+                "ano": "2020",
+                "informacoes_adicionais": "ISBN: 9783030456870."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "TEODORO, H. M.;  Desenvolvimento de um Objeto de Aprendizagem Digital para o Ensino de Redes Neurais Artificiais",
+                "ano": "2024",
+                "periodico": "Anais do Simpósio Brasileiro de Informática na Educação (SBIE). ISBN: 23166533   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "BARROS, M. C.",
+                "titulo": "JESUS, Â",
+                "evento": "M.; Uso da Gamificação para Aperfeiçoamento do Programa Bolsa de Complementação Educacional: um estudo de caso do CEFET-MG. XXIII Encontro Nacional de Educação (ENACED) e Seminário Internacional de Estudos e Pesquisa em Educação nas Ciências (SIEPEC)",
+                "local": "Ijuí",
+                "ano": "2024"
+            },
+            {
+                "autores": "GOIS, M. D.",
+                "titulo": "JESUS, ÂNGELO MAGNO DE; Elaboração de uma Cartilha Didática sobre a Política de Ações Afirmativas no Instituto Federal de Minas Gerais",
+                "evento": "XXIII Encontro Nacional de Educação (ENACED)",
+                "local": "Ijuí",
+                "ano": "2024"
+            },
+            {
+                "autores": "SOUSA, A. R.",
+                "titulo": "JESUS, ÂNGELO MAGNO DE; Design de Interação de um Protótipo de Aplicativo para Utilização do Método de Aprendizagem Colaborativa Jigsaw",
+                "evento": "Workshop em Estratégias Transformadoras e Inovação na Educação (WETIE 2024)/CBIE 2024",
+                "local": "Rio de Janeiro",
+                "ano": "2024"
+            },
+            {
+                "autores": "JESUS, ÂNGELO MAGNO DE",
+                "titulo": "SILVEIRA, I",
+                "evento": "F.; GeDAI: Um Sistema para Criar Desafios de Programação de Jogos Digitais para Promover o Pensamento Computacional. XIII Congresso Brasileiro de Informática na Educação (CBIE 2024)",
+                "local": "Rio de Janeiro",
+                "ano": "2024"
+            },
+            {
+                "autores": "CARDOSO, G. S.",
+                "titulo": "JESUS, Â",
+                "evento": "M.; betterwrite.io - Processador de Texto voltado para a Criatividade. XXI Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)",
+                "local": "Diamantina",
+                "ano": "2022"
+            },
+            {
+                "autores": "DUTRA, L. S. S.",
+                "titulo": "JESUS, Â",
+                "evento": "M.; PROPOSTA DE UMA SEQUE&#770;NCIA DIDA&#769;TICA PARA O DESENVOLVIMENTO DA HABILIDADE DE DECOMPOSIC&#807;A&#771;O DE PROBLEMAS EM ESTUDANTES. Encontro de Saberes 2021",
+                "local": "Ouro Preto",
+                "ano": "2021"
+            },
+            {
+                "autores": "LUCAS, J. S.",
+                "titulo": "JESUS, Â",
+                "evento": "M.; PROJETO DE UM OBJETO DE APRENDIZAGEM PARA ENSINO DE CIE&#770;NCIA DA COMPUTAC&#807;A&#771;O POR MEIO DE COMPUTAC&#807;A&#771;O DESPLUGADA. Encontro de Saberes 2021",
+                "local": "Ouro Preto",
+                "ano": "2021"
+            },
+            {
+                "autores": "DE JESUS, ANGELO MAGNO",
+                "titulo": "FRANGO SILVEIRA, ISMAR; A Generator of Game Programming Challenges for Computational Thinking Development",
+                "evento": "2020 XV Conferencia Latinoamericana de Tecnologias de Aprendizaje (LACLO)",
+                "local": "Loja",
+                "ano": "2020"
+            },
+            {
+                "autores": "SILVA, VICTOR",
+                "titulo": "MOURA, HELENIARA; PAULA, SUELEN; JESUS, ÂNGELO; ALGO+RITMO: Uma Proposta Desplugada com a Música para Auxiliar no Desenvolvimento do Pensamento Computacional",
+                "evento": "XXV Workshop de Informática na Escola",
+                "local": "Brasília",
+                "ano": "2019"
+            },
+            {
+                "autores": "DE JESUS, ANGELO MAGNO",
+                "titulo": "SILVEIRA, ISMAR FRANGO; A Collaborative Game-Based Learning Framework to Improve Computational Thinking Skills",
+                "evento": "2019 International Conference on Virtual Reality and Visualization (ICVRV)",
+                "local": "Hong Kong",
+                "ano": "2019"
+            },
+            {
+                "autores": "JESUS, ÂNGELO",
+                "titulo": "SILVEIRA, I",
+                "evento": "F.; Gamificação do Ensino de Desenvolvimento de Jogos Digitais por meio de uma Rede Social Educacional. SBGames - Simpósio Brasileiro de Jogos e Entretenimento Digital",
+                "local": "Foz do Iguaçu",
+                "ano": "2018"
+            },
+            {
+                "autores": "FERREIRA, LORENA ALMEIDA CUNHA",
+                "titulo": "JESUS, ANGELO MAGNO; Development of a Mobile Device Game for Clustering Students by Absorption Learning Style",
+                "evento": "Conferência Latino-americana de Tecnologias de Aprendizagem - LACLO",
+                "local": "São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, J. A.",
+                "titulo": "JESUS, Â",
+                "evento": "M.; Avaliação de Interação de um Sistema de Gestão Acadêmica: Um Estudo de Caso. Computer On the Beach",
+                "local": "Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "REZENDE, L. G. C.",
+                "titulo": "CASTRO, C",
+                "evento": "L.; JESUS",
+                "local": "Â. M.; Tomathoes: Um Jogo Educacional para Estímulo Cognitivo. Computer on the Beach, Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "MACHADO, L. R. P.",
+                "titulo": "TEIXEIRA, J",
+                "evento": "V. C.; JESUS",
+                "local": "Â. M.; Sistema Inteligente para Apoio no Jogo de Damas. Computer On the Beach, Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "SILVA, A",
+                "evento": "C.; SILVA",
+                "local": "S. A.; PIMENTA, E. S.; Descobrindo Possibilidades de Aplicação de Informática na Educação Especial para Portadores de Deficiência Mental. Computer On the Beach, Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "SOUZA, M. S. C.",
+                "titulo": "XAVIER, R",
+                "evento": "R. G.; JESUS",
+                "local": "Â. M.; Explorando Novas Tecnologias para o Estímulo do Pensamento Computacional em Alunos do Ensino Médio. Computer On the Beach, Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "SILVA, G",
+                "evento": "M.; SILVEIRA",
+                "local": "I. F.; Using Coding Dojo with Mobile Game Development to Engage Students to Learn Programing. TISE 2017 - XXII Congreso Internacional de Informática Educativa,",
+                "ano": "2017"
+            },
+            {
+                "autores": "FERREIRA, LORENA ALMEIDA CUNHA",
+                "titulo": "JESUS, ÂNGELO; RUFO, MARIA; SANTOS, FABIANO; Se-Robô: Aplicativo para Robótica Educacional de Baixo Custo",
+                "evento": "XXVII Simpósio Brasileiro de Informática na Educação",
+                "local": "Uberlandia",
+                "ano": "2016"
+            },
+            {
+                "autores": "JESUS, ÂNGELO",
+                "titulo": "SILVA, GISLAINE MOURA DA; DOJO`GO: Uma Forma Divertida e Colaborativa de se Aprender através de Dojo de Programação de Jogos",
+                "evento": "XXII Workshop de Informática na Escola",
+                "local": "Uberlandia",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, DÉBORA PRISCILLA DA",
+                "titulo": "SIDNEI, SIMONE; JESUS, ÂNGELO; SILVA, CARLOS EDUARDO PAULINO; Aplicação de Robótica na Educação de Forma Gradual para o Estímulo do Pensamento Computacional",
+                "evento": "Workshops do Congresso Brasileiro de Informática na Educação",
+                "local": "Uberlandia",
+                "ano": "2016"
+            },
+            {
+                "autores": "GONCALVES, D. A. S.",
+                "titulo": "SILVA, D",
+                "evento": "P.; SILVA",
+                "local": "G. M.; SILVA, D. V.; PEREIRA, M. F.; JESUS, ÂNGELO; EDUCAÇÃO PARA O SÉCULO XXI: O USO DA ROBÓTICA EDUCACIONAL COMO UMA PROPOSTA COLABORATIVA. Mostra Nacional de Robótica 2015 (MNR 2015), Uberlândia",
+                "ano": "2015"
+            },
+            {
+                "autores": "FERREIRA, L. A. C.",
+                "titulo": "RUFO, M",
+                "evento": "C. B.; SANTOS",
+                "local": "F. M. C.; ESPIRIDIAO, L. V. B.; JESUS, Â. M.; Se{Robô}: Aplicativo para Programação Inicial de Robôs. Mostra Nacional de Robótica 2015 (MNR 2015), Uberlândia",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, D. P.",
+                "titulo": "SIDNEI, S",
+                "evento": "S.; JESUS",
+                "local": "Â. M.; SILVA, C. E. P.; ROBÓTICA NO ENSINO FUNDAMENTAL COMO RECURSO PEDAGÓGICO MOTIVADOR DA APRENDIZAGEM: UM RELATO DE EXPERIÊNCIA. IV Encontro do PIBID do IFMG, São João Evangelista",
+                "ano": "2015"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "PEDRO, W",
+                "evento": "S. S.; CARVALHO",
+                "local": "G. C. B.; Aprendendo com Diversão: O Jogo Digital Aventuras de Jonny. II Encontro de Práticas Docentes da Licenciatura em Computação: Estágio Supervisionado e PIBID (Modalidade de Comunicação Oral), Uberlândia",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "AMBROSIO, G",
+                "evento": "D.; SILVA",
+                "local": "C. E. P.; Coleta Aventura: Jogo Digital para Educação em Coleta Seletiva de Lixo Reciclável.. II Encontro de Práticas Docentes da Licenciatura em Computação: Estágio Supervisionado e PIBID, Uberlândia",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "ROLIM, D",
+                "evento": "M.; VILELA",
+                "local": "A. B. M.; SILVA, C. E. P.; Responda no Chute: Exercitando Conhecimentos Através de um Jogo Digital. II Encontro de Práticas Docentes da Licenciatura em Computação: Estágio Supervisionado e PIBID,",
+                "ano": "2014"
+            },
+            {
+                "autores": "GONCALVES, D. A. S.",
+                "titulo": "SILVA, G",
+                "evento": "M.; LOPES",
+                "local": "A. M. M.; SILVA, C. E. P.; JESUS, Â. M.; PENIDO, E. C. C.; A criação do Jogo 'Route 01' e a integração entre matérias pedagógicas e da computação.. II Encontro de Práticas Docentes da Licenciatura em Computação: Estágio Supervisionado e PIBID, Uberlândia",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, D. V.",
+                "titulo": "LUZ, R",
+                "evento": "S.; SILVA",
+                "local": "C. E. P.; JESUS, Â. M.; PENIDO, E. C. C.; O Jogo das Bolinhas ? Topologias, Roteamento e Bloqueio nas Redes.. II Encontro de Práticas Docentes da Licenciatura em Computação: Estágio Supervisionado e PIBID,",
+                "ano": "2014"
+            },
+            {
+                "autores": "SILVA, J. A.",
+                "titulo": "SILVA, D",
+                "evento": "P.; SILVA",
+                "local": "C. E. P.; JESUS, Â. M.; PENIDO, E. C. C.; Experiência com jogo de cartas pedagógico para auxílio ao ensino do modelo OSI.. II Encontro de Práticas Docentes da Licenciatura em Computação: Estágio Supervisionado e PIBID, Uberlândia",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "FERREIRA, L",
+                "evento": "A. C.; SANTOS",
+                "local": "F. M. C.; RUFO, M. C. B.; AMBROSIO, G. D.; ArduAlg: Ambiente de Programação Fácil para Robótica na Plataforma Arduino. 5th Workshop of Robotics in Education, São Carlos",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "FERREIRA, L",
+                "evento": "A. C.; GONCALVES",
+                "local": "D. A. S.; Aplicação de Desenvolvimento de Jogos Digitais como um Meio de Motivação em Diferentes Níveis de Ensino de Computação. Workshop de Informática na Escola (WIE), Congresso Brasileiro de Informática na Educação (CBIE), Dourados",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "SILVA, C",
+                "evento": "E. P.; FERREIRA",
+                "local": "L. A. C.; AMBROSIO, G. D.; LITEC: Laboratório de Inteligência e Tecnologias Educacionais em Computação. Congresso Brasileiro de Informática na Educação (CBIE), Dourados, MS",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "SANTOS, F",
+                "evento": "M. C.; AMBROSIO",
+                "local": "G. D.; FERREIRA, L. A. C.; RUFO, M. C. B.; ArduAlg: Programando o Arduino com Português Estruturado. Mostra Nacional de Robótica 2014 (MNR 2014), Sorocaba",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "ALMEIDA, J",
+                "evento": "P. R. F.; GUMARAES",
+                "local": "A. C. P.; SANTOS, L. R.; REIS, V. C. L.; SyncBUG: Interface Remota com Garra Robótica. Mostra Nacional de Robótica 2014 (MNR 2014), Sorocaba",
+                "ano": "2014"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "VIANA, V",
+                "evento": "A.; DEUS",
+                "local": "C. F.; SA, D.; VALLI, M. L. C.; DESENVOLVIMENTO DE UM ROBÔ DE BAIXO CUSTO PROGRAMÁVEL POR VOZ PARA PORTADORES DE NECESSIDADES ESPECIAIS. Mostra Nacional de Robótica 2014 (MNR 2014), Sorocaba",
+                "ano": "2014"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, A.",
+                "titulo": "DUTRA, D",
+                "evento": "; STIILPEN JR.",
+                "local": "M.; DUTRA, A. A.; MELO, F. M.; MENDONCA, P. H. C.; FERREIRA, K.; JESUS, Â. M.; Radialize: A Tool for Social Listening Experience on the Web Based on Radio Station Programs. 22nd International World Wide Web Conference (Demos Session), Rio de Janeiro",
+                "ano": "2013"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "DEUS, C",
+                "evento": "F.; SA",
+                "local": "D.; VALLI, M. L. C.; VIANA, V. A.; Desenvolvimento de um Robô Móvel de Baixo Custo Comandado por Voz. Mostra Nacional de Robótica (MNR 2016), Fortaleza",
+                "ano": "2013"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "GUIMARÂES, S",
+                "evento": "J. F.; PATROCÍNIO JÚNIOR",
+                "local": "Z. K. G; Video text extraction based on image regularization and temporal analysis. IEEE International, Symposium on Multimedia, Dana Point",
+                "ano": "2011"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "da Silva, E",
+                "evento": ", J.; MISTool: um ambiente colaborativo para a aplicação do Método de Inspeção Semiótica. Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais",
+                "local": "Belo Horizonte",
+                "ano": "2010"
+            },
+            {
+                "autores": "JESUS, Â. M.",
+                "titulo": "da Silva, E",
+                "evento": ", J.; COUTINO",
+                "local": "T.; User?s Multiple Profiles in Online Communities: an implementation in the OriOnGroups environment. CLIHC - Latin America Conference on Human Computer Interaction, Yucatán",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Thiago Manoel de Rezende,",
+                "titulo": "Biblioteca de Gerenciamento de Janelas Multiplataforma Utilizando Data-Oriented Design",
+                "ano": "2023",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Aline Rodrigues de Sousa",
+                "titulo": "Estudo de caso do Design de Interação de um protótipo de aplicativo para aplicação do método Jigsaw em sala de aula",
+                "ano": "2023",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Antônio Marcos Pereira",
+                "titulo": ".  Estudo de Caso do Design de Interação de um Protótipo de Aplicativo para o Uso Metodologia Aprendizagem Baseada em Projetos em Sala de Aula",
+                "ano": "2023",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Hugo de Melo Teodoro",
+                "titulo": "Desenvolvimento de uma Rede Neural Artificial como Objeto de Aprendizagem de IA",
+                "ano": "2023",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Daniel Marcos Hermenegildo",
+                "titulo": "esigner de Experiência do Usuário em Ambientes de Inovação",
+                "ano": "2023",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Samira Borges",
+                "titulo": "Proposta de uma Ferramenta de Visualização de Dados para Analisar o Perfil de Estudantes do IFMG",
+                "ano": "2023",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Paulo Ricardo da Silva Santos",
+                "titulo": "A Falta de Privacidade e de Segurança de Informações Sensíveis dos Alunos no Ensino Remoto Emergencial Durante a Pandemia COVID-19 no IFMG - campus Ouro Branco",
+                "ano": "2022",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Walter Sales São Pedro",
+                "titulo": "A Matemática e os Jogos Digitais: revisão literária de trabalhos voltados à pesquisa do ensino da matemática com auxílio de jogos digitais",
+                "ano": "2022",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Giovane Silva Cardoso",
+                "titulo": "betterwrite.io - Processador de Texto voltado para a Criatividade",
+                "ano": "2022",
+                "curso": "Sistema de Informação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Luis Carlos Maciel",
+                "titulo": "Portal Lori: Uma Ferramenta para Avaliação de Objetos Digitais de Aprendizagem",
+                "ano": "2022",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Josiane Silva Lucas",
+                "titulo": "Projeto de um Objeto de Aprendizagem para Ensino de Ciência da Computação por Meio de Computação Desplugada",
+                "ano": "2021",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Natália Amaral Pereira de Souza",
+                "titulo": "Disciplina de Programação e as Influências em Disciplinas no Ensino Médio no Contexto do IFMG campus Ouro Branco",
+                "ano": "2021",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Leidiane Silva Soares",
+                "titulo": "Proposta de uma sequência didática para o desenvolvimento da habilidade de decomposição de problemas em estudantes",
+                "ano": "2021",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Lorena Almeida Cunha Ferreira",
+                "titulo": "Identificando Estilos de Aprendizagem Através de um Jogo",
+                "ano": "2018",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Emilia Fabiana Nascimento",
+                "titulo": "Aprendizagem Interativa para Crianças Portadoras de Autismo",
+                "ano": "2018",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Jéssica Aureliano Silva",
+                "titulo": "Avaliação de Usabilidade da Plataforma Conecta Sob a Perspectiva dos Alunos do IFMG Campus Ouro Branco",
+                "ano": "2017",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Gislaine Moura da Silva",
+                "titulo": "DOJO`GO: Uma Forma Divertida e Colaborativa de se Aprender através de Dojo de Programação de Jogos",
+                "ano": "2017",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Tales Eduardo Valadares Silva",
+                "titulo": "JOGOS E SUAS APLICAÇÕES NA EDUCAÇÃO: O que eles trabalham? O que eles nos ensinam?",
+                "ano": "2017",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.2440212368965149,
+            "indian": 9.045687675476074,
+            "black": 0.6679012179374695,
+            "white": 8.199298858642578,
+            "middle eastern": 68.41663360595703,
+            "latino hispanic": 13.4264554977417
+        }
+    }
+}

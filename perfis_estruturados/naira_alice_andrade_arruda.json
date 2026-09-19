@@ -1,0 +1,358 @@
+{
+    "campus": "- Câmpus Xanxerê",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em computação",
+                "instituicao": "Instituto de Computação - UFF",
+                "orientador": "Daniel Cardoso Moraes de Oliveira",
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para a Educação Profissional e Tecnológica",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Tecnologia da Informção",
+                "instituicao": "CENTRO DE ENSINO SAO LUCAS LTDA",
+                "orientador": "André Pitkowski",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "ENGENHARIA DE SOFTWARE",
+                "instituicao": "AVM EDUCACIONAL LTDA",
+                "orientador": "Ludmilla Flôres Meneses Lima",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Norte do Paraná",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Tutora EAD",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professora EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2016,
+                "ano_fim": 2018,
+                "funcao": "Coordenadora Geral da Rede e-Tec Rondônia",
+                "vinculo": "Bolsista",
+                "descricao": "Gestora da Educação a Distância do Estado de Rondônia"
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor Pesquisador II",
+                "vinculo": "Bolsista",
+                "descricao": "atuou como Professor pesquisador II, modalidade a distancia, no curso Técnico em Informática para Internet, na disciplina de Projetos de Sistemas Web"
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Tutora EAD",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Aprovado Concursos",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Professora",
+                "vinculo": "Não informado",
+                "descricao": "Professora de Informática Básica e Noções de Informática para concursos"
+            },
+            {
+                "empresa": "Mestres Vestibulares e Concursos",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Professora de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "17ª Brigada de Infantaria de Selva",
+                "ano_inicio": 2008,
+                "ano_fim": 2012,
+                "funcao": "Sargento Técnico Temporário de Informática",
+                "vinculo": "Não informado",
+                "descricao": "Atuou como auxiliar da Seção de Informática do quartel"
+            },
+            {
+                "empresa": "2° Regimento de Cavalaria Mecanizado",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Sargento Técnico Temporário de Informática",
+                "vinculo": "Não informado",
+                "descricao": "Atuou como Auxiliar da Seção de Informática no quartel. Na cidade de São Borja- RS"
+            },
+            {
+                "empresa": "5° Batalhão de Engenharia de Construção de PVH",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Sargento Técnico Temporário de Informática",
+                "vinculo": "Servidor público",
+                "descricao": "Atuou na Seção de Informática no quartel, ficando responsável pelos sistemas corporativos do Exército, cumulativamente com a montagem, manutenção e configuração das redes virtuais de internet e a instrução e formação dos soldados de Seção de Informática"
+            },
+            {
+                "empresa": "MSD - EDUCAÇÃO PROFISSIONAL",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Professor horista",
+                "vinculo": "Não informado",
+                "descricao": "Atuação como professora no curso de Gestão Empresarial"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "Professora EBTT de Informática",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "nome": "Desafio de Lógica de Programação (Torre de Hanói)",
+                "natureza": "Outra",
+                "equipe": [
+                    "Naira Alice Andrade Arruda",
+                    "Saulo Souza De Macedo",
+                    "Jhordano Malacarne Bravim",
+                    "Anderson De Oliveira Seixas"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "nome": "DESAFIO DE LÓGICA DE PROGRAMAÇÃO (Torre de Hanói)",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "nome": "DESENVOLVIMENTO TECNOLÓGICO PARA INDÍGENAS QUE VIRÃO PARA O IFRO,",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "nome": "Informática Básica - Componentes do computador",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "nome": "II Semana de Informática do Campus Porto Velho Zona Norte",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda",
+                    "Mariela Mizota Tamada"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "ROBOTmaker: Robótica educacional através da Cultura Maker",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda",
+                    "Fábio De Souza Alves"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "UniRobô - Robótica para Todos",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "IFcast: Rumo ao futuro",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto \"Corpo Voz\"",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Dia do Orgulho Nerd",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Semana Interna de Prevenção de Acidentes do Trabalho (SIPAT): Um projeto para conscientizar o trabalhador de forma tecnológica, interativa, com humor e leveza.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Naira Alice Andrade Arruda",
+                    "Juscelia Padilha"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "BERNARDES",
+                    "evento": "V. H. F.,  ARRUDA, N. A. A.,  ALVES, F. S.,  PADILHA, J.,  Semana nacional de Ciência e Tecnologia do Campus Xanxerê",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina Campus Xanxerê."
+                },
+                {
+                    "autores": "BARROS",
+                    "evento": "M.,  PROCOPIO, A.,  ARRUDA, N. A. A.,  AYRES, A.,  II Encontro de Iniciação Científica e Inovação Tecnológica",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRO - campus Guajará-Mirim - RO."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "BARBOSA, A. A. S.",
+                "titulo": "CARVALHO, R. N.;  ARRUDA, N. A. A.;  EDUCAÇÃO A DISTÂNCIA: mineração de dados e pesquisa-ação no contexto amazônico",
+                "ano": "2020",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786586087598, Curitiba (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "ARRUDA, N. A. A.",
+                "titulo": "ARRUDA, N. A. A.;  Aldeia conectada: a inclusão digital na floresta amazônica",
+                "ano": "2022",
+                "periodico": "brazilian journal development. ISBN: 25258761   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Bruno Pagani",
+                "titulo": "UCAN (YOU CAN - VOCÊ PODE!): Desenvolvimento de Aplicação Web para Gestão de Rotina",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Emanuele",
+                "titulo": "Hora da Feira: Desenvolvimento de um Website para Feira dos Produtores Rurais de Xanxerê/SC",
+                "ano": "2022",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Hianca Geanne Queiros dos Santos",
+                "titulo": "estágio supervisionado",
+                "ano": "2018",
+                "curso": "Técnico em Informática para Internet",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia"
+            },
+            {
+                "orientando": "Nathalia Silva Chen",
+                "titulo": "estágio supervisionado",
+                "ano": "2018",
+                "curso": "Técnico em Informática para Internet",
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.385347843170166,
+            "indian": 4.4064178466796875,
+            "black": 0.5340418815612793,
+            "white": 36.28718185424805,
+            "middle eastern": 14.275397300720215,
+            "latino hispanic": 38.11160659790039
+        }
+    }
+}

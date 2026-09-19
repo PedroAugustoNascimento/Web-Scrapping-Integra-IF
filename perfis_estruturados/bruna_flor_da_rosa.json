@@ -1,0 +1,471 @@
+{
+    "campus": "- Campus Osório",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Educação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Para além do Universo",
+                "orientador": "Fernanda Wanderer",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissional em Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "titulo": "Re(pensar) a Fabricação Digital: uma análise das produções científicas sobre Fabricação Digital",
+                "orientador": "Carine Bueira Loureiro",
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Aplicações para a Web",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "orientador": "André Luis Castro de Freitas",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Pedagogia",
+                "instituicao": "Universidade Luterana do Brasil",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Luterana do Brasil",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Luterana do Brasil",
+                "ano_inicio": 2013,
+                "ano_fim": 2016,
+                "funcao": "Professor de ensino superior",
+                "vinculo": "Não informado",
+                "descricao": "Professora nos cursos de Análise e Desenvolvimento de Sistemas e Pedagogia"
+            },
+            {
+                "empresa": "Prefeitura Municipal de Torres(RS)",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Professora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Prefeitura Municipal de Arroio do Sal",
+                "ano_inicio": 2008,
+                "ano_fim": 2011,
+                "funcao": "Secretária Escolar",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Air Soluções em TI",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Programadora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "bitFácil Soluções em TI",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "departamento comercial",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Casa São Paulo Magazine",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2020,
+                "ano_fim": 2022,
+                "funcao": "Coordenador de Curso",
+                "vinculo": "Portaria 18/2020",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Professor de Ens. Básico",
+                "vinculo": "Técnico e Tecnoló",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Luterana do Brasil",
+                "nome": "Aplicações de Redes Sociais no Ensino",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Márcio Machado Da Silva"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Lincando Culturas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Márcio Rogério Olivato Pozzer",
+                    "Roberta Dos Reis Neuhold",
+                    "Luis Rodrigo Pereira Cardoso",
+                    "Vinícius Fritzen Machado"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "WIKIESCOLAS",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Inae De Borba Rosa",
+                    "Bruno Chagas Alves Fernandes",
+                    "Duardo Colissi Wiceskoski"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "(RE)PENSAR A FABRICAÇÃO DIGITAL: Uma análise das produções científicas sobre Fabricação Digital",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Projeto de Extensão Educação Matemática - produção e divulgação científica",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Fabiana Gerusa Leindeker Da Silva"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "WindMaker: um espaço de difusão da cultura maker",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Terrimar Ignácio Pasqualetto"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Zoodex: uma enciclopédia biológica interativa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Lisiane Zanella",
+                    "Maysa Silva Rosa",
+                    "Claudius Jardel Soares"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Mulheres na informática: resgatando protagonismos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Kathlen Luana Oliveira"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "WindMaker.Prof",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Terrimar Ignácio Pasqualetto",
+                    "Amanda Roast"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Para além do Universo: Existência(s), história(s) e contexto(s) sobre o Metaverso",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Bruna Flor Da Rosa"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Ensino de linguagem de programação Java a partir da Lógica Proposicional",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Sergio Guilherme Santos Portella",
+                    "Róger Urdangarin"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Ensino da Matemática através da Lógica de Programação: Exercitando o Raciocínio Lógico.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Josias Savóis Neubert",
+                    "Vinicius Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Jogando com TITIBOTS Colaborativo",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Bruna Flor Da Rosa",
+                    "Priscila Cadorin Nicolete",
+                    "Kryscia Daviana Ramírez Benavides",
+                    "Juarez Bento Da Silva"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ROSA",
+                    "software": "B. F.,  Professor Digital",
+                    "ano": "2012",
+                    "finalidade": "Sistema para gestão de atividades administrativas e pedagógicas do professor.."
+                },
+                {
+                    "autor": "ROSA",
+                    "software": "B. F., (RE)PENSAR A FABRICAÇÃO DIGITAL ? PORTAL DE CONTEÚDO ONLINE",
+                    "ano": "2019",
+                    "finalidade": "Divulgar informações sobre o Movimento Maker."
+                },
+                {
+                    "autor": "ROSA",
+                    "software": "B. F.,  (RE)PENSAR A FABRICAÇÃO DIGITAL ? PORTAL DE CONTEÚDO ONLINE",
+                    "ano": "2019",
+                    "finalidade": "Divulgar informações sobre o Movimento Maker."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ROSA",
+                    "titulo": "B. F.,  UMA ANÁLISE DAS RELAÇÕES ENTRE METAVERSO E EDUCAÇÃO A PARTIR DE OBRAS DE FICÇÃO CIENTÍFICA foi apresentada por BRUNA FLOR DA ROSA",
+                    "ano": "2025",
+                    "instituicao_promotora": "RECENE - UFRN."
+                },
+                {
+                    "autores": "ROSA",
+                    "titulo": "B. F.,  FABIS, C. S.,  VOCÊ NÃO PODE FAZER E NÃO COMPARTILHAR: UMA ANÁLISE DE PRÁTICAS MAKERS NA EDUCAÇÃO",
+                    "ano": "2024",
+                    "instituicao_promotora": "ANPED."
+                },
+                {
+                    "autores": "ROSA",
+                    "titulo": "B. F.,  Todos somos Makers: possibilidades e problematizações sobre a Inclusão Digital via Cultura Maker",
+                    "ano": "2024",
+                    "instituicao_promotora": "Universidade Federal de Uberlândia."
+                },
+                {
+                    "autores": "ROSA",
+                    "titulo": "B. F.,  Mulheres na área de TI: um relato de experiência",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal de São Paulo."
+                },
+                {
+                    "autores": "ROSA",
+                    "titulo": "I. B.,  ROSA, B. F.,  WIKIESCOLAS",
+                    "ano": "2020",
+                    "instituicao_promotora": "Instituto Federal do Rio Grande do Sul."
+                },
+                {
+                    "autores": "ROSA",
+                    "titulo": "B. F.,  LOUREIRO, C. B.,  Etnografia de rede e pesquisa documental",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade do Vale do Taquari - Univates."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ROSA",
+                    "curso": "B. F.,  Fabricação Digital",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "ROSA",
+                    "curso": "B. F.,  Tecnologias Digitais na educação matemática",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "ROSA",
+                    "curso": "B. F.,  O uso pedagógico das mídias na educação: Possibilidades, limites e desafios",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "ROSA",
+                    "curso": "B. F.,  O uso pedagógico das mídias na educação: Possibilidades, limites e desafios.",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "ROSA",
+                    "curso": "B. F.,  O uso pedagógico das mídias na educação: Possibilidades, limites e desafios.",
+                    "ano": "2015"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DA SILVA FABIS, CAMILA",
+                "titulo": "FLOR DA ROSA, BRUNA;  WANDERER, FERNANDA;  Vidas em consumo, sujeitos escolares e a rotina -agorista-: efeitos da implementação do Novo Ensino Médio",
+                "ano": "2025",
+                "periodico": "PRÁXIS EDUCATIVA (UEPG. ONLINE). ISBN: 18094309   ."
+            },
+            {
+                "autores": "NEUHOLD, R. R.",
+                "titulo": "POZZER, M. R. O.;  ROSA, B. F.;  O PROCESSO DE DESENVOLVIMENTO DE UMA APLICAÇÃO WEB PARA A DINAMIZAÇÃO DA ECONOMIA DA CULTURA EM UM PEQUENO MUNICÍPIO",
+                "ano": "2022",
+                "periodico": "EXPRESSA EXTENSÃO. ISBN: 23588195   ."
+            },
+            {
+                "autores": "PORTELLA, S. G. S.",
+                "titulo": "URDANGARIN, R.;  ROSA, B. F.;  ENSINO DE LINGUAGEM DE PROGRAMAÇÃO JAVA A PARTIR DA LÓGICA PROPOSICIONAL: COMPARTILHAMENTO DE SABERES ENTRE ESTUDANTES DA ?INSTITUIÇÃO 1? E DA ?INSTITUIÇÃO 2?",
+                "ano": "2018",
+                "periodico": "REVISTA DE ESTUDOS CURRICULARES. ISBN: 21838755   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ROSA, B. F.",
+                "titulo": "FABIS, C",
+                "evento": "S.; VOCÊ NÃO PODE FAZER E NÃO COMPARTILHAR: UMA ANÁLISE DE PRÁTICAS MAKERS NA EDUCAÇÃO. XV Reunião ANPEd Sul (2024)",
+                "local": "São Leopoldo / RS",
+                "ano": "2024"
+            },
+            {
+                "autores": "ROSA, B. F.",
+                "titulo": "Todos somos Makers: possibilidades e problematizações sobre a Inclusão Digital via Cultura Maker",
+                "evento": "VIII Colóquio Nacional Michel Foucault: a vida como escândalo da verdade",
+                "local": "Uberlândia - MG",
+                "ano": "2024"
+            },
+            {
+                "autores": "ROSA, B. F.",
+                "titulo": "TONETTO, E",
+                "evento": "P.; ROSA",
+                "local": "I. B.; WIKIESCOLAS: UM MAPEAMENTO COLABORATIVO DE ESCOLAS PÚBLICAS BRASILEIRAS. Mostra de Ensino, Extensão e Pesquisa do IFRS Campus Osório, Osório",
+                "ano": "2021"
+            },
+            {
+                "autores": "ROSA, I. B.",
+                "titulo": "ROSA, B",
+                "evento": "F.; WICESKOSKI",
+                "local": "D. C.; FERNANDES, B. C. A.; WIKIESCOLAS: UM MAPEAMENTO COLABORATIVO DE ESCOLAS PÚBLICAS BRASILEIRAS. 11ª Mostra de ensino, pesquisa e extensão, Osório",
+                "ano": "2021"
+            },
+            {
+                "autores": "ROSA, I. B.",
+                "titulo": "ROSA, B",
+                "evento": "F.; WICESKOSKI",
+                "local": "D. C.; Wikiescolas. 6º Salão de Pesquisa, Extensão e Ensino, Bento Gonçalves",
+                "ano": "2021"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Yuri Artmann Nunes",
+                "titulo": "TREEFALL: SISTEMA PARA REPORTS DE ÁRVORES E/OU GALHOS COM RISCO DE QUEDA",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Rafael Renck da Silva",
+                "titulo": "GEHOS - SISTEMA DE GESTÃO DE PRONTO ATENDIMENTO PARA O HOSPITAL BENEFICENTE SÃO VICENTE DE PAULO",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.42484426498413086,
+            "indian": 0.18867360055446625,
+            "black": 0.007601569872349501,
+            "white": 87.09527587890625,
+            "middle eastern": 7.025826930999756,
+            "latino hispanic": 5.257775783538818
+        }
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "orientador": "Manoel Gomes de Mendonça Neto",
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "UMA INFRAESTRUTURA COMPUTACIONAL PARA IDENTIFICAÇÃO E MONITORAMENTO DE DÍVIDA TÉCNICA",
+                "orientador": "Manoel Gomes de Mendonça Neto",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": 2017
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Estágio",
+                "vinculo": "Bolsista",
+                "descricao": "Atividades realizadas: 1 - Estudo e testes em soluções de virtualização de servidores(KVM, XEN, VMWARE); 2 - Produção de relatórios, documentos técnicos, normas de uso, procedimentos e processos relacionados às atividades desempenhadas; 3 - Realização de palestras e treinamentos internos para a equipe da STI/UFBA e parceiros; 4 - Participação em reuniões de planejamento de atividades e projetos relacionados às atividades desempenhadas; 5 - Participação no Curso de Virtualização de Servidores da ESR/RNP;"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Pesquisa",
+                "vinculo": "Bolsista",
+                "descricao": "Estágio realizado Fraunhofer Project Center at UFBA"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsa de pesquisa PIBIT"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "Servidor público",
+                "descricao": "Professor Efetivo no IFBA Santo Antônio de Jesus"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Professor de Antropologia do Ensino Superior",
+                "vinculo": "Servidor público",
+                "descricao": "Professor substituto no IFBA campus Santo Amaro. Leciono disciplinas de computação no curso de Licenciatura em Computação"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Escola Politécnica da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Gerente de Projetos de TI",
+                "vinculo": "Servidor público",
+                "descricao": "Liderava tecnicamente analistas no desenvolvimento de sistemas computacionais"
+            },
+            {
+                "empresa": "Fundação Escola Politécnica da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": 2019,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "PORTO SEGURO CIA DE SEGUROS",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Engenheiro de Software / Lider Técnico",
+                "vinculo": "Não informado",
+                "descricao": "Consultor Softvaro alocado na Porto Seguro Seguros exercendo a função de liderança técnica"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "GEOData - Mapeamento da Infraestrutura Energética da Bahia, Descrição: Sistema que utiliza dados georreferenciados da Infraestrutura do Estado da Bahia representadas por diferentes camadas no ArcGIS para o desenvolvimento de uma solução web visual integra",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Felipe Gustavo De Souza Gomes",
+                    "Renato Lima Novais",
+                    "Manoel G; De Mendonça",
+                    "Francisco José Da Silva Borges De Santana"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Visminer - a software analysis and visualization tool",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Felipe Gustavo De Souza Gomes",
+                    "Renato Lima Novais",
+                    "Thiago Souto Mendes",
+                    "Manoel G; De Mendonça"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Utilizando geotecnologia para redescoberta do espaço geográfico na história de Santo Amaro",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Felipe Gustavo De Souza Gomes",
+                    "Jorge Costa Leite Junior"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "PET Saúde",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Felipe Gustavo De Souza Gomes"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "GOMES",
+                    "software": "F. G. S.,  Mineração de Dados e Cálculo de Métricas",
+                    "ano": "2014",
+                    "finalidade": "Mineração de Dados e Cálculo de Métricas."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CARVALHO, LUIS PAULO DA SILVA",
+                "titulo": "MENDES, THIAGO SOUTO;  GOMES, FELIPE GUSTAVO DE SOUZA;  FREIRE, SÁVIO;  NOVAIS, RENATO LIMA;  MENDONÇA, MANOEL GOMES;  Using Third-Party Components? Metadata to Analyze Cross-cutting Concerns",
+                "ano": "2024",
+                "periodico": "JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT. ISBN: 21951721   ."
+            },
+            {
+                "autores": "GOMES, FELIPE",
+                "titulo": "Investigating the Point of View of Project Management Practitioners on Technical Debt - A Study on Stack Exchange",
+                "ano": "2023",
+                "periodico": "JOURNAL OF SOFTWARE ENGINEERING RESEARCH AND DEVELOPMENT. ISBN: 21951721   ."
+            },
+            {
+                "autores": "MENDES, THIAGO S.",
+                "titulo": "GOMES, FELIPE G. S.;  GONÇALVES, DAVID P.;  MENDONÇA, MANOEL G.;  NOVAIS, RENATO L.;  SPÍNOLA, RODRIGO O.;  VisminerTD: a tool for automatic identification and interactive monitoring of the evolution of technical debt items",
+                "ano": "2019",
+                "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE). ISBN: 16784804   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "GOMES, FELIPE",
+                "titulo": "SANTOS, EDER PEREIRA DOS; FREIRE, SÁVIO; MENDONÇA, MANOEL; MENDES, THIAGO SOUTO; SPÍNOLA, RODRIGO; Investigating the point of view of project management practitioners on technical debt",
+                "evento": "TechDebt '22: International Conference on Technical Debt",
+                "local": "Pittsburgh Pennsylvania",
+                "ano": "2022"
+            },
+            {
+                "autores": "SANTOS, EDER PEREIRA",
+                "titulo": "GOMES, FELIPE; FREIRE, SÁVIO; MENDONÇA, MANOEL; MENDES, THIAGO SOUTO; SPÍNOLA, RODRIGO; Technical Debt on Agile Projects: Managers? point of view at Stack Exchange",
+                "evento": "SBQS '22: XXI Brazilian Symposium on Software Quality",
+                "local": "Curitiba Brazil",
+                "ano": "2022"
+            },
+            {
+                "autores": "MENDES, T. S.",
+                "titulo": "GOMES, F",
+                "evento": "G. S.; MENDONCA",
+                "local": "M. G.; SPINOLA, R. O.; CARVALHO, L. P. S.; NOVAIS, R. L; RepositoryMiner ? uma ferramenta extensível de mineração de repositórios de software para identificação automática de Dívida Técnica. VIII Congresso Brasileiro de Sofware, Fortaleza-CE",
+                "ano": "2017"
+            },
+            {
+                "autores": "MENDES, T. S.",
+                "titulo": "GONCALVES, D",
+                "evento": "P.; GOMES",
+                "local": "F. G. S.; NOVAIS, R. L; SPINOLA, R. O.; MENDONCA, M. G.; VisminerTD: Uma Ferramenta para Identificação Automática e Monitoramento Interativo de Dívida Técnica. VIII Congresso Brasileiro de Software, Fortaleza-CE",
+                "ano": "2017"
+            },
+            {
+                "autores": "LEITE JUNIOR, Jorge Costa",
+                "titulo": "GOMES, F",
+                "evento": "G. S.; GEOTEC MÓVEL - GEOTECNOLOGIA E MOBILIDADE VOLTADA AO TURISMO E PRESERVAÇÃO DA MEMÓRIA HISTÓRICO-CULTURAL.. VII Congresso Norte Nordeste de Pesquisa e Inovação - VII CONNEPI",
+                "local": "Palmas-TO",
+                "ano": "2012"
+            },
+            {
+                "autores": "LEITE JUNIOR, J.",
+                "titulo": "GOMES, F",
+                "evento": "G. S.; GEOTEC - UM SISTEMA DE INFORMAÇÃO GEOGRÁFICA VOLTADA À PRESERVAÇÃO DA MEMÓRIA HISTÓRICO-CULTURAL VOLTADA AO TURISMO. VI Congresso de Pesquisa e Inovação da Rede Norte e Nordeste de Educação Tecnológica - CONNEPI - 2011",
+                "local": "Natal-RN",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 11.495882987976074,
+            "indian": 8.129029273986816,
+            "black": 3.3034183979034424,
+            "white": 28.317005157470703,
+            "middle eastern": 20.627925872802734,
+            "latino hispanic": 28.126737594604492
+        }
+    }
+}

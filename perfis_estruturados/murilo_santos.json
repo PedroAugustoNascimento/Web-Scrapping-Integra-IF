@@ -1,0 +1,156 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Gestão e Tecnologia Industrial",
+                "instituicao": "Faculdade de Tecnologia Senai Cimatec",
+                "titulo": "Avaliação da Formação Técnica para o Setor Industrial de Feira De Santana: Um Estudo de Caso",
+                "orientador": "Camila de Sousa Pereira-Guizzo",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores e Telecomunicações",
+                "instituicao": "Universidade Salvador",
+                "orientador": "José Augusto Suruagy Monteiro",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Administração com Ênfase em Análise de Sistemas",
+                "instituicao": "Fundação Visconde de Cairu",
+                "ano_inicio": 2001,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Comercial de Frangos Asa Branca Ltda",
+                "ano_inicio": 1999,
+                "ano_fim": 1999,
+                "funcao": "Técnico em Informática",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "D'Affonseca Representações de Seguros Ltda.",
+                "ano_inicio": 1999,
+                "ano_fim": 2001,
+                "funcao": "Técnico de Seguros",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Stefanini IT Solutions",
+                "ano_inicio": 2003,
+                "ano_fim": 2004,
+                "funcao": "Técnico de Suporte",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Caraíba Metais SA - Grupo Paranapanema",
+                "ano_inicio": 2004,
+                "ano_fim": 2009,
+                "funcao": "Analista de Suporte",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Disciplinas Ministradas: Arquitetura de Computadores",
+                "descricao": "Sistemas Operacionais, Redes de Computadores, Análise e Modelagem de Dados, Montagem e Manutenção de Microcomputadores e Empreendedorismo"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SANTOS",
+                    "curso": "M.,  Montagem e Manutenção de Microcomputadores",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M.,  BAUMANN, Eneida Santana,  Palestra Segurança da Informação: Conceitos Iniciais",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M.,  BAUMANN, Eneida Santana,  Palestra O Que é TI Verde",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M.,  Oficina de Montagem e Estruturação de Microcomputadores",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M.,  Carvalho, Luciene Santos,  Mini-curso Eficiência Energética em Ambientes e Equipamentos de Informática",
+                    "ano": "2009"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SANTOS",
+                    "evento": "M.,  Workshop do Jovem Empreendedor",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "M.,  FERREIRA, R.,  II WorkShop do Jovem Empreendedor",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Instituto Federal de Educação, Ciências e Tecnologia da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, M.",
+                "titulo": "PEREIRA-GUIZZO, C",
+                "evento": "S.; SAMPAIO",
+                "local": "R. R.; CORDEIRO, A. J. A.; Aplicação da Análise de Agrupamento na Avaliação da Formação Técnica Profissionalizante para o Setor Industrial.. XLVI SBPO Simpósio Brasileiro de Pesquisa Operacional, Salvador",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "black",
+        "raca_ibge": "Preta",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.0477516651153564,
+            "indian": 4.765981674194336,
+            "black": 84.68765258789062,
+            "white": 0.6448197960853577,
+            "middle eastern": 0.44431760907173157,
+            "latino hispanic": 7.409478664398193
+        }
+    }
+}

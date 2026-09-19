@@ -1,0 +1,581 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação e Matemática Computacional",
+                "instituicao": "Universidade de São Paulo",
+                "titulo": "Planejamento de Trajetória para Estacionamento de Veículos Autônomos",
+                "orientador": "Denis Fernando Wolf",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2006,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade de São Paulo",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista (Mestrado)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Independente do Nordeste",
+                "ano_inicio": 2013,
+                "ano_fim": 2024,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade de Tecnologia e Ciências",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor",
+                "vinculo": "Disciplinas Lecionadas em Sistemas de Informação: Sistemas Operacionais",
+                "descricao": "Algoritmos e Programação, Organização e Arquitetura de Computadores Estágio Supervisionado. Análise e Modelagem de Sistemas I"
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2017,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2021,
+                "ano_fim": 2023,
+                "funcao": "professor substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Integrado de Manufatura e Tecnologia",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Professor Assistente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Faculdade Independente do Nordeste\nColegiado de Eng. da Computação (2014 - 2019) : Coordenador.",
+        "ensino": ": Centro Integrado de Manufatura e Tecnologia\nGraduacao (2022) - Bacharelado Ead Em Ciência De Dados E Inteligência Artificial.\nTreinamento Ministrado: Centro Integrado de Manufatura e Tecnologia\nCimatec (2022 - 2022) - Cimatec - Professor Assistente.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade de São Paulo",
+                "nome": "Instituto Nacional de Ciência e Tecnologia em Sistemas Embarcados Críticos INCT SEC",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Gomes Prado",
+                    "José Carlos Maldonado"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Faculdade Independente do Nordeste",
+                "nome": "Sistemas embarcados, inteligêntes e robóticos em ambientes educacionais do ensino superior",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos Gomes Prado",
+                    "André Luiz M. Silva",
+                    "Iggor Lincolln",
+                    "Kleber Rocha Bastos",
+                    "Luan Silva Santana",
+                    "Wellington Assunção Azevedo",
+                    "Adalberto Igor De Souza Oliveira",
+                    "Eroaldo Gomes Silva Junior",
+                    "Paulo Henrique Sousa Silva",
+                    "Rodrigo Teixeira Barros De Almeida"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "nome": "Núcleo de Gestão Colaborativa",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Gomes Prado",
+                    "Roque Mendes Prado Trindade"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "PRADO",
+                    "software": "M. G.,  Sistema para planejamento e controle de trajetória para estacionamento de veículos autônomos",
+                    "ano": "2013",
+                    "finalidade": "Sistema para planejamento e controle de trajetória para estacionamento de veículos autônomos."
+                },
+                {
+                    "autor": "PRADO",
+                    "software": "M. G.,  Sistema web para controle de uma maquete automatizada",
+                    "ano": "2010",
+                    "finalidade": "Sistema web para controle de uma maquete automatizada."
+                },
+                {
+                    "autor": "PRADO",
+                    "software": "M. G.,  Sistema embarcado para controle de uma maquete automatizada",
+                    "ano": "2010",
+                    "finalidade": "Sistema embarcado para controle de uma maquete automatizada."
+                },
+                {
+                    "autor": "PRADO",
+                    "software": "M. G., Circuito eletrônico para controle de atuadores e processamento de sinais analógicos",
+                    "ano": "2010",
+                    "finalidade": "Circuito eletrônico para controle de atuadores e processamento de sinais analógicos."
+                },
+                {
+                    "autor": "PRADO",
+                    "software": "M. G.,  Curadoria para construção de trilha para desenvolvimento web",
+                    "ano": "2022",
+                    "finalidade": "Curadoria para construção de trilha para desenvolvimento web."
+                },
+                {
+                    "autor": "PRADO",
+                    "software": "M. G.,  Curadoria para construção de trilha para desenvolvimento web",
+                    "ano": "2021",
+                    "finalidade": "Curadoria para construção de trilha para desenvolvimento web."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PRADO",
+                    "titulo": "M. G.,  Robôs Móveis e Veículos Autônomos",
+                    "ano": "2012",
+                    "instituicao_promotora": "UNIARARAS."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PRADO",
+                    "curso": "MARCOS,  Oficina de introdução à plataforma Arduino",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "PRADO",
+                    "curso": "MARCOS,  Robótica",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "PRADO",
+                    "curso": "MARCOS,  Introdução ao Arduino",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "PRADO",
+                    "curso": "M. G.,  Introdução à Robótica",
+                    "ano": "2009"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "PRADO",
+                    "evento": "M. G.,  SILVA, M. F. L. E.,  FAGUNDES, M. V. C.,  SOUZA, A. M.,  VIII SET - Semana das Engenharias e Tecnologia",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Independente do Nordeste - FAINOR."
+                },
+                {
+                    "autores": "PRADO",
+                    "evento": "M. G.,  SILVA, M. F. L. E.,  FAGUNDES, M. V. C.,  SOUZA, A. M.,  IV SIMPEA - Simpósio de Pesquisa em Engenharia e Arquitetura e II Semana de Arquitetura e Urbanismo",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Independente do Nordeste - FAINOR."
+                },
+                {
+                    "autores": "PRADO",
+                    "evento": "M. G.,  SILVA, M. F. L. E.,  FAGUNDES, M. V. C.,  VII SET - Semana das Engenharias e Tecnologia",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Independente do Nordeste - FAINOR."
+                },
+                {
+                    "autores": "PRADO",
+                    "evento": "M. G.,  I Exposição de Robótica e Automação",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Independente do Nordeste - FAINOR."
+                },
+                {
+                    "autores": "PRADO",
+                    "evento": "M. G.,  SILVA, M. F. L. E.,  FAGUNDES, M. V. C.,  III SIMPEA - Simpósio de Pesquisa em Engenharia e Arquitetura",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Independente do Nordeste - FAINOR."
+                },
+                {
+                    "autores": "PRADO",
+                    "evento": "M. G.,  IV Semana de Computação da UESB",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Estadual do Sudoeste da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "OLIVEIRA, I. N.",
+                "titulo": "MOREIRA, K. P.;  SILVA, W. L.;  CHAVES, V. D.;  PRADO, M. G.;  LOPES, M. S. S.;  AUTOMATIZAÇÃO DE LABORATÓRIOS DIDÁTICOS DE FÍSICA GERAL - CONSTRUÇÃO DE UMA MAQUETE EXPERIMENTAL AUTOMATIZADA PARA A DETERMINAÇÃO DA CONSTANTE DE PLANCK",
+                "ano": "2018",
+                "periodico": "EXPERIÊNCIAS EM ENSINO DE CIÊNCIAS (UFRGS). ISBN: 19822413   ."
+            },
+            {
+                "autores": "OLIVEIRA, Ivanor. N.",
+                "titulo": "CHAVES, V. D.;  PRADO, M. G.;  TAKIYA, C.;  LOPES, M. S. S.;  AS MUDANÇAS OCORRIDAS NOS PROGRAMAS DE ENSINO DA FÍSICA, OS LABORATÓRIOS DIDÁTICOS DE FÍSICA E A INCLUSÃO DE NOVAS TECNOLOGIAS NO DESENVOLVIMENTODOS EXPERIMENTOS REMOTOS",
+                "ano": "2016",
+                "periodico": "EXPERIÊNCIAS EM ENSINO DE CIÊNCIAS (UFRGS). ISBN: 19822413   ."
+            },
+            {
+                "autores": "FERNANDES, LEANDRO C.",
+                "titulo": "HATA, ALBERTO;  PIGATTO, DANIEL;  BRANCO, KALINKA CASTELO;  GRASSI, VALDIR;  OSORIO, FERNANDO S.;  WOLF, DENIS F.;  SOUZA, JEFFERSON R.;  PESSIN, GUSTAVO;  SHINZATO, PATRICK Y.;  SALES, DANIEL;  MENDES, CAIO;  PRADO, MARCOS;  KLASER, RAFAEL;  MAGALHÃES, ANDRÉ CHAVES;  CaRINA Intelligent Robotic Car: Architectural Design and Applications",
+                "ano": "2014",
+                "periodico": "Journal of Systems Architecture. ISBN: 13837621   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, P. H. S.",
+                "titulo": "ALMEIDA, R",
+                "evento": "T. B.; CAETANO",
+                "local": "A. P.; PRADO, MARCOS; Ambiente Virtual para Simulação de Futebol de Robôs Aplicado ao Estudo de Programação, Sistemas Inteligentes e Robótica. Workshop de Educação e Informática Bahia-Alagoas-Sergipe (WEIBASE) - ERBASE, Ilheus - BA",
+                "ano": "2019"
+            },
+            {
+                "autores": "ADALBERTO IGOR DE SOUZA OLIVEIRA",
+                "titulo": "MARCOS GOMES PRADO; ANTONIO CANDEA LEITE; Adaptação de um Automodelo para Aplicações de Robótica Móvel na Agricultura",
+                "evento": "XXII Congresso Brasileiro de Automática",
+                "local": "João Pessoa",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA JUNIOR, E. G.",
+                "titulo": "OLIVEIRA, L",
+                "evento": "F.; PRADO",
+                "local": "MARCOS; SOARES, A. F.; SIMULAÇÃO DE AMBIENTE BUCAL EM UMA CUBA COM SISTEMA EMBARCADO. Anais da Semana de Iniciação Científica, Vitória da Conquista",
+                "ano": "2017"
+            },
+            {
+                "autores": "ANDRADE, A.",
+                "titulo": "PRADO, MARCOS; Sistema robótico cooperativo aplicado à robótica móvel",
+                "evento": "X Semana de Iniciação Científica",
+                "local": "Vitória da Conquista",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, P. H. S.",
+                "titulo": "BARROS, B",
+                "evento": "C.; PRADO",
+                "local": "MARCOS; AMBIENTES DIGITAIS PARA ENSINO E APRENDIZAGEM DE SISTEMAS INTELIGENTES. X Semana de Iniciação científica, Vitória da Conquista",
+                "ano": "2017"
+            },
+            {
+                "autores": "ALMEIDA, R. T. B.",
+                "titulo": "PRADO, MARCOS; Construção de módulos de sensores para sistemas robóticos, eletrônicos, programáveis, no intuito de auxiliar as bases educacionais do ensino superior",
+                "evento": ". X Semana de Iniciação Científica",
+                "local": "Vitória da Conquista",
+                "ano": "2017"
+            },
+            {
+                "autores": "TRINDADE, Diogo Meira",
+                "titulo": "; OLIVEIRA, A",
+                "evento": "I. S.; PRADO",
+                "local": "MARCOS; SILVA, I. L.; DESENVOLVIMENTO DE PLATAFORMA ROBÓTICA DIDÁTICA. Semana de Iniciação Científica, Vitória da Conquista",
+                "ano": "2016"
+            },
+            {
+                "autores": "DOURADO, I. L.",
+                "titulo": "PRADO, MARCOS; Desenvolvimento de um sistema de navegação para uma plataforma robótica de pequeno porte",
+                "evento": "Semana de Iniciação Científic",
+                "local": "Vitória da Conquista",
+                "ano": "2016"
+            },
+            {
+                "autores": "PRADO, M. G.",
+                "titulo": "AZEVEDO, W",
+                "evento": "A.; VIANA",
+                "local": "C. C.; SANTOS NETO, D.; RIBEIRO, E. E. B.; DOURADO, I. L.; BASTOS, K. R.; SANTANA, L. S.; OLIVEIRA, R.; SALES, T. F.; DESENVOLVIMENTO DE UMA PLATAFORMA ROBÓTICA MÓVEL PARA NAVEGAÇÃO AUTÔNOMA. Mostra Nacional de Robótica, São Carlos - SP",
+                "ano": "2014"
+            },
+            {
+                "autores": "MAGALHAES, A. C.",
+                "titulo": "PRADO, M",
+                "evento": "G.; GRASSI JR",
+                "local": "V.; WOLF, D. F.; Autonomous Vehicle Navigation in Semi-Structured Urban Environment. IFAC Intelligent Autonomous Vehicles Symposium, Gold Coast",
+                "ano": "2013"
+            },
+            {
+                "autores": "PRADO, M. G.",
+                "titulo": "MAGALHAES, A",
+                "evento": "C.; WOLF",
+                "local": "D. F.; GRASSI JR, V.; Detecção de Vagas e Estacionamento Autônomo de Veículos.. SBAI - Simpósio Brasileiro de Automação Inteligente, Fortaleza-CE",
+                "ano": "2013"
+            },
+            {
+                "autores": "CORREA, D. S. O.",
+                "titulo": "SCIOTTI, D",
+                "evento": "F.; PRADO",
+                "local": "M. G.; SALES, D. O.; WOLF, D. F.; OSORIO, F. S.; Mobile Robots Navigation in Indoor Environments Using Kinect Sensor. II Brazilian Conference on Critical Embedded Systems, Campinas-SP",
+                "ano": "2012"
+            },
+            {
+                "autores": "OLIVEIRA, Ivanor. N.",
+                "titulo": "PRADO, M",
+                "evento": "G.; OLIVEIRA",
+                "local": "E. N.; SILVA, W. L.; SILVA, A. L. M.; CASTRO, L. M.; GONCALVES, C. P.; CHAVES, V. D.; Construção de uma maquete experimental de um giroscópio simétrico simples automatizado para o estudo da sua precessão sob a atuação da força de gravidade. XXVIII Encontro de Físicos do Norte e Nordeste, Teresina",
+                "ano": "2010"
+            },
+            {
+                "autores": "OLIVEIRA, Ivanor. N.",
+                "titulo": "SILVA, J",
+                "evento": "C. A.; PRADO",
+                "local": "M. G.; SILVA, A. L. M.; SILVA, W. L.; CASTRO, L. M.; GONCALVES, C. P.; CHAVES, V. D.; SANTOS, E. A. R.; TAKIYA, C.; Pêndulo de torção automatizado para a determinação dos momentos de inércia de corpos de formas irregulares. XXVIII Encontro de Físicos do Norte e Nordeste, Teresina",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Amanda Prates Caetano",
+                "titulo": "Projeto de apoio ao ensino no laboratório de robótica da FAINOR",
+                "ano": "2019",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Guilherme Rezende Inácio",
+                "titulo": "Desenvolvimento deum sistema web para gerenciamento hospitalar voltado à enfermagem",
+                "ano": "2019",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "André Luiz Amaral de Jesus Andrade",
+                "titulo": "Sistemas embarcados, inteligêntes e robóticos emambientes educacionais do ensino superio",
+                "ano": "2018",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Rodrigo Teixeira Barros de Almeida",
+                "titulo": "Sistemas embarcados, inteligêntes e robóticos emambientes educacionais do ensino superio",
+                "ano": "2018",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Paulo Henrique Souza Silva",
+                "titulo": "Sistemas embarcados, inteligêntes e robóticos em ambienteseducacionais do ensino superior,",
+                "ano": "2018",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Bianca Cardoso Barros",
+                "titulo": "Sistemas embarcados, inteligêntes e robóticos em ambienteseducacionais do ensino superior,",
+                "ano": "2018",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "ANDRÉ LUIZ AMARAL DE JESUS ANDRADE",
+                "titulo": "Estudo e Desenvolvimento de um Sistema Robótico Cooperativo",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "DIOGO MEIRA TRINDADE",
+                "titulo": "Estudo e Desenvolvimento de um Sistema Robótico Cooperativo",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "HOLDIMAR ALONSO PAIVA",
+                "titulo": "Estudo e Desenvolvimento de um Sistema Robótico Cooperativo",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "DIOGO MEIRA TRINDADE",
+                "titulo": "DESENVOLVIMEN TO DE ARQUITETURA DISTRIBUÍDA PARA CONTROLE DE PLATAFORMA ROBÓTICA MÓVEL, UTILIZANDO O PROTOCOLO CAN E MICROCONTROL ADORES ARM",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "THAILAN FRAGA SALES",
+                "titulo": "SENSOR DE DISTÂNCIA 2D PARA ROBÓTICA EDUCACIONAL",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Adalberto Igor de Souza Oliveira",
+                "titulo": "DESENVOLVIMENTO DE UMA PLATAFORMA PARA PESQUISA EM ROBÓTICA MÓVEL UTILIZANDO GEOMETRIA ACKERMAN",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Ícaro Lessa Dourado",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA DE NAVEGAÇÃO POR MARCAÇÕES ARTIFICIAIS POR UMA PLATAFORMA ROBÓTICA MÓVEL DE PEQUENO PORTE",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "TÁRSIS OLIVEIRA SANTOS",
+                "titulo": "DESENVOLVIMENTO DE UM ESCÂNER PARA IDENTIFICAÇÃO DE FALHAS EM PEÇAS PLANAS",
+                "ano": "2017",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "MARCOS SOUZA DE OLIVEIRA JÚNIOR",
+                "titulo": "Protótipo de Encoder Óptico Aplicado a uma Plataforma Robótica Móvel de Pequeno Porte para Cálculos Odométricos",
+                "ano": "2016",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Ícaro Lessa Dourado",
+                "titulo": "Desenvolvimento de m sistema de navegação para uma plataforma robótica móvel de pequeno porte",
+                "ano": "2016",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "RODRIGO BORGES OLIVEIRA",
+                "titulo": "FERRAMENTA COMPUTACIONAL PARA GERAÇÃO DE HORÁRIOS ESCOLARES UTILIZANDO INTELIGÊNCIA ARTIFICIAL",
+                "ano": "2016",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "HUMBERTO LEONE RODRIGUES AZEVEDO",
+                "titulo": "FASTPARK: UM SISTEMA DE GERÊNCIA DE VAGAS EM ESTACIONAMENTOS FECHADOS",
+                "ano": "2016",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Kleber Rocha Bastos",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA PARA NAVEGAÇÃO INDOOR DE PESSOAS COM DEFICIÊNCIA VISUAL BASEADO NA TECNOLOGIA RFID E APLICAÇÃO ANDROID",
+                "ano": "2015",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Kleber Rocha Bastos",
+                "titulo": "Construção de uma plataforma robótica móvel para navegação autônoma - Arquitetura de Software",
+                "ano": "2015",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Carol Correia Viana",
+                "titulo": "Construção de uma plataforma robótica móvel para navegação autônoma - Arquitetura de Hardware",
+                "ano": "2015",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Romeu Silva Santos Oliveira",
+                "titulo": "Construção de uma plataforma robótica móvel para navegação autônoma - Simulação",
+                "ano": "2015",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Igor Araújo Dias Santos",
+                "titulo": "CONSTRUÇÃO DE VEÍCULO AÉREO NÃO TRIPULADO DE BAIXO CUSTO E SUA APLICABILIDADE NA LOCALIZAÇÃO DE FOCOS DE PROLIFERAÇÃO DO MOSQUITO TRANSMISSOR DA DENGUE",
+                "ano": "2015",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "FILIPE LIMA FERNANDES",
+                "titulo": "FOREST MANAGEMENT: UM SISTEMA AUTOMATIZADO PARA MELHORIAS DE PROCESSOS NA ÁREA DE PESQUISA FLORESTAL",
+                "ano": "2014",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Fabio pereira almeida",
+                "titulo": "Desenvolvimento do &quot;hexacaravela&quot; - robô autônomo em forma de inseto.",
+                "ano": "2014",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "Gustavo da Costa Cardozo",
+                "titulo": "Construção de um manipulador robótico com quatro graus de liberdade",
+                "ano": "2014",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Faculdade Independente do Nordeste"
+            },
+            {
+                "orientando": "SANDRO DA SILVA ROMA",
+                "titulo": "SUPERVISÃO E CONTROLE REMOTO DE ESTAÇÃO ELEVATÓRIA DE ÁGUA TRATADA UTILIZANDO O CELULAR",
+                "ano": "2013",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Faculdade Independente do Nordeste"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.6707304120063782,
+            "indian": 1.6250500679016113,
+            "black": 0.2081305980682373,
+            "white": 63.698692321777344,
+            "middle eastern": 20.728511810302734,
+            "latino hispanic": 13.06888484954834
+        }
+    }
+}

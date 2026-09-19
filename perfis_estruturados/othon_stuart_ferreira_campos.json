@@ -1,0 +1,326 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Sergipe",
+                "titulo": "Data Analytics Transparente para Descoberta de Padrões e Anomalias na Realização de Convênios e Contratos de Repasse",
+                "orientador": "Methanias Colaço Rodrigues Junior",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Sistema de Informação para WEB",
+                "instituicao": "Universidade Tiradentes",
+                "orientador": "Kellyne",
+                "ano_inicio": 2003,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Fisica Licenciatura",
+                "instituicao": "Universidade Federal de Sergipe",
+                "ano_inicio": 2002,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Tiradentes",
+                "ano_inicio": 1996,
+                "ano_fim": 2001
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Ci Centro de Informações Ltda",
+                "ano_inicio": 2000,
+                "ano_fim": 2003,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Atuando como Analista de Sistemas no projeto de desenvolvimento da Automação Bancária do BANESE - Banco do Estado de Sergipe. Responsável pelos módulos de Benefício",
+                "descricao": "Cartões, Multicontas, Cheques Custodiados e Contratos. No período de 26 de setembro de 2001 até 30 de outubro de 2001 fui responsável pelo desenvolvimento do projeto \"Inscrição no vestibular via Internet\", para faculdade São Luís. Tal sistema foi desenvolvido no horário noturno. Os dois sistemas sitados foram desenvolvidos com as seguintes tecnologias: Linguagem de programação Java, as bibliotecas de classes que integram as plataformas Java 2 Standard Edition, Java 2 Enterprise Edition, XML, JSP"
+            },
+            {
+                "empresa": "Escola Técnica Federal de Sergipe",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Professor Contratado pela Caixa Escolar",
+                "vinculo": "Não informado",
+                "descricao": "Durande este período ministrei a Disciplina de Delphi Básico"
+            },
+            {
+                "empresa": "Banese Corretora de Seguros",
+                "ano_inicio": 2003,
+                "ano_fim": 2008,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "A partir do dia 01/07/2005",
+                "descricao": "coordena a equipe de desenvolvimento do sistema de Automação Bancária do Banese na tecnologia ?.NET?. Desenvolvimento, manutenção e documentação das transações do sistema de Automação Bancária do BANESE. Sistema desenvolvido com a tecnologia Java. As principais transações trabalhadas foram: Saques, Depósitos, Transferências, Cadastros de Contas e Clientes, Abertura de Contratos e Integração com Sistemas Legados"
+            },
+            {
+                "empresa": "Oracle",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Consultor",
+                "vinculo": "Não informado",
+                "descricao": "Consutor SOA no projeto VIVO - NFO"
+            },
+            {
+                "empresa": "Tech.SE Consultoria em Informãtica",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Sócio-Diretor",
+                "vinculo": "Sócio",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nGraduacao (2026) - Computação.\nGraduacao (2025 - 2026) - Computação.\nEnsino-medio (2010) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "O setor bancário e a geração de lixo tecnológico nos municípios de Gloria e Paulo Afonso - BA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Othon Stuart Ferreira Campos",
+                    "Ricardo Augusto Nink",
+                    "Ronaldo Da Maceno Lima",
+                    "Jonathas Jeronimo Barbosa",
+                    "Julyana Mota De Moura",
+                    "Carlos Morais Jatobá B. Júnior",
+                    "Hellen Juliana Nunes Rodrigues",
+                    "Esdriane Cabral Viana",
+                    "Marcos Antônio Gomes"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CAMPOS",
+                    "software": "O. S. F.,  Crédito no Canais",
+                    "ano": "2010",
+                    "finalidade": "Disponibilizar crédito aos clientes do Banese nos canais de auto atendimento.."
+                },
+                {
+                    "autor": "CAMPOS",
+                    "software": "O. S. F.,  MARQUES, J. L.,  Inscrição on-line do processo seletivo da Faculdade São Luis",
+                    "ano": "2000",
+                    "finalidade": "Inscrição para o processo seletivo da Faculdade São Luis."
+                },
+                {
+                    "autor": "CAMPOS",
+                    "software": "O. S. F.,  Migração de banco de dados: SQLServer 2008 para Oracle 10",
+                    "ano": "2009",
+                    "finalidade": "Migração de banco de dados da automação bancária do BANESE: SQLServer 2008 para Oracle 10."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CAMPOS",
+                    "titulo": "OTHON STUART F.,  Do semi-árido ao futuro digital: ciência e tecnologia para transformar realidades locais",
+                    "ano": "2025",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "CAMPOS",
+                    "titulo": "O. S. F.,  A Atuação do Profissional de TI",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal da Bahia - IFBA."
+                },
+                {
+                    "autores": "CAMPOS",
+                    "titulo": "O. S. F.,  Inovação tecnológica num ambiente conservador.(Automação Bancária: Como o Jovem java venceu o vovô Cobol)",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFSertão-PE."
+                },
+                {
+                    "autores": "CAMPOS",
+                    "titulo": "O. S. F.,  Inovação tecnológica num ambiente conservador. (Automação Bancária: Como o Jovem java venceu o vovô Cobol)",
+                    "ano": "2013",
+                    "instituicao_promotora": "IF SERTÃO."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CAMPOS",
+                    "curso": "O. S. F.,  Introdução ao Ambiente WEB",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "CAMPOS",
+                    "curso": "O. S. F.,  Java Básico",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "CAMPOS",
+                    "curso": "O. S. F.,  Java Avançado",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "CAMPOS",
+                    "curso": "O. S. F.,  Java WEB",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "CAMPOS",
+                    "curso": "O. S. F.,  Java basico",
+                    "ano": "2006"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CAMPOS",
+                    "evento": "O. S. F.,  XXII ESCOLA REGIONAL DE COMPUTAÇÃO BAHIA - ALAGOAS - SERGIPE (ERBASE)",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia - IFBA."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "ROCHA, FABIO GOMES",
+                "titulo": "CORREIO, ISADORA MARIA LIMA DO NASCIMENTO; CAMPOS, OTHON STUART F",
+                "evento": "; RODRIGUEZ",
+                "local": "GUILLERMO; A MODEL BASED ON TOPSIS FOR DECISION OF INVESTMENT IN STRATEGIC PLANNING OF ICT. CONTECSI International Conference on Information Systems and Technology Management, São Paulo",
+                "ano": "2019"
+            },
+            {
+                "autores": "ROCHA, FABIO GOMES",
+                "titulo": "NASCIMENTO, ISADORA MARIA LIMA DO; CAMPOS, OTHON STUART F",
+                "evento": "; SANTOS",
+                "local": "RODRIGO; RODRIGUEZ COLABORADOR, GUILLERMO; MOBILE APPLICATION SECURITY. CONTECSI International Conference on Information Systems and Technology Management, São Paulo",
+                "ano": "2019"
+            },
+            {
+                "autores": "FERREIRA CAMPOS, OTHON STUART",
+                "titulo": "COLA'O J'NIOR, METHANIAS; INTELLIGENT DATA ANALYSIS APPLIED TO PUBLIC GOVERNANCE AND FEDERAL CONVENTIONS AND ONLENDINGS TRANSPARENCY: A SYSTEMATIC MAPPING",
+                "evento": "15th CONTECSI International Conference on Information Systems and Technology Management",
+                "local": "São Paulo",
+                "ano": "2018"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Denise Oliveira de Souza",
+                "titulo": "Mineração de dados e regras de associação",
+                "ano": "2018",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Andresa Soares Dias da Costa",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Integrada",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Igor Cardoso de Morais",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Integrada",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Mariana Vasconcelos de Mello",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Integrada",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Michely Santos Feitosa",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Alexandra Caroline Mercêz",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Luclécia Resendes Santos",
+                "titulo": "O Modelo Relacional e a Normalização de Dados",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Erik Danilo Costa de Almeida",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2016",
+                "curso": "Técnico em Informática - Integrada",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Elys Daiane Fernandes Teixeira",
+                "titulo": "Principais Tipos de Ataques em Redes 802.11",
+                "ano": "2015",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jeane Thays Silva",
+                "titulo": "Conceitos de BPM e BPMS",
+                "ano": "2013",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Danilo Santos de Rocha",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2012",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Edmar Moreira Benício",
+                "titulo": "Estagio Supervisionado",
+                "ano": "2012",
+                "curso": "Técnico em Informática - Subsequente",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "black",
+        "raca_ibge": "Preta",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 18.143033981323242,
+            "indian": 15.021268844604492,
+            "black": 29.54631233215332,
+            "white": 7.64103889465332,
+            "middle eastern": 7.626834392547607,
+            "latino hispanic": 22.021512985229492
+        }
+    }
+}

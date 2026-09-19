@@ -1,0 +1,136 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Economia",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "orientador": "Renato Ramos",
+                "ano_inicio": 1999,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de sistemas",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Civil",
+                "instituicao": "Fundação Universidade Regional de Blumenau",
+                "ano_inicio": 1982,
+                "ano_fim": 1988
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Cepar Construção e Comércio",
+                "ano_inicio": 1989,
+                "ano_fim": 1994,
+                "funcao": "Engenheiro Civil",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "A,Zen Engenharia",
+                "ano_inicio": 1987,
+                "ano_fim": 1988,
+                "funcao": "Estagio supervisionado",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial - SC",
+                "ano_inicio": 1992,
+                "ano_fim": 1994,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Planalto Catarinense",
+                "ano_inicio": 1991,
+                "ano_fim": 1993,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro de Educação Profissional Dário Geraldo Salles",
+                "ano_inicio": 1992,
+                "ano_fim": 1994,
+                "funcao": "Professor curso técnico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Aquarela Informatica Ltda",
+                "ano_inicio": 1997,
+                "ano_fim": 2016,
+                "funcao": "Socio proprietario",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": 2019,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "A PRODUÇÃO DE CONCRETO SIMPLES COM ADIÇÃO DE CHAMOTE DE REVESTIMENTO",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Evilásio Pires Dos Santos",
+                    "Raimundo Jose De Sousa Castro",
+                    "Simone Aparecida Da Silva Souza",
+                    "Ernan Gausmann",
+                    "Jhenifer Lahana Kaspary Ramos"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.6905131340026855,
+            "indian": 9.994245529174805,
+            "black": 2.527252674102783,
+            "white": 23.239652633666992,
+            "middle eastern": 34.064937591552734,
+            "latino hispanic": 23.483402252197266
+        }
+    }
+}

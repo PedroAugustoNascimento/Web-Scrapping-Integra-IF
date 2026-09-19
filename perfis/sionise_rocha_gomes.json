@@ -36,11 +36,6 @@
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "periodo": "2024",
-                "cargo": ", Servidor público, Professora do Ensino Básico, Técnico e Tecnológico redistribuida do IFAM para o IFPE, conforme Portaria Conjunto N 879 de 25/10/2024, publicada no DOU de 01-11-2024.."
-            },
-            {
-                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "periodo": "2013 - 2014",
                 "cargo": "Professora do PRONATEC, Bolsista, Professora do Pronatec (Programa Nacional de acesso ao Ensino Técnico e Emprego), dos cursos técnico em nível médio na forma concomitante em Informática e Meio Ambiente."
             },
@@ -73,10 +68,15 @@
                 "empresa": "Instituto Federal de Pernambuco",
                 "periodo": "2023 - 2024",
                 "cargo": "Professora EBBT - Colaboração Técnica, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal de Pernambuco - Campus Palmares",
+                "periodo": "2026",
+                "cargo": "Professor EBTT, Servidor público."
             }
         ],
         "direcao_administracao": "",
-        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nGraduacao (2012 - 2012) - Tecnologia Em Desenvolvimento De Software.\nOutro (2010) .",
+        "ensino": ": Instituto Federal de Pernambuco - Campus Palmares\nEnsino-medio (2026) .\nGraduacao (2026) - Tecnólogo Em Análise E Desenvolvimento De Sistemas.\nExtensão Universitária: Instituto Federal de Pernambuco - Campus Palmares\nInstituto Federal de Pernambuco - Campus Palmares: Projeto Ifladies (2026) - Projeto Ifladies.",
         "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Amazonas\nMembro Do Comitê De Pesquisa Do Ifam - Cprf (2013).",
         "projetos": [
             {
@@ -86,9 +86,9 @@
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Sionise Rocha Gomes",
+                    "Ana Mena Barreto Bastos",
                     "Bruno Freitas Gadelha",
                     "Andréa P. Mendoça",
-                    "Ana Mena Barreto Bastos",
                     "Irlene dos Santos Matias",
                     "Cícero Thiago Nascimento dos Santos"
                 ],
@@ -163,15 +163,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "IFMaker IFAM CPRF",
-                "periodo": "2020",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Sionise Rocha Gomes"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Manas Makers",
                 "periodo": "2023 - 2023",
                 "natureza": "Extensao",
@@ -184,17 +175,28 @@
                 "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas,"
             },
             {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "IFMaker IFAM CPRF",
+                "periodo": "2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Sionise Rocha Gomes"
+                ]
+            },
+            {
                 "instituicao": "Universidade Federal do Amazonas",
-                "nome": "Sistemas Inteligentes",
-                "periodo": "2002 - 2009",
+                "nome": "ColabWeb - Ferramentas baseadas na Web para Apoio ao Trabalho Colaborativo",
+                "periodo": "2006 - 2010",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Sionise Rocha Gomes",
                     "Bruno Freitas Gadelha",
                     "Alberto Nogueira de Castro Júnior",
-                    "José Francisco de Magalhães Netto"
+                    "José Francisco de Magalhães Netto",
+                    "Leonardo Nascimento dos Santos",
+                    "Thaís Helena Chaves de Castro"
                 ],
-                "financiador": ","
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
             },
             {
                 "instituicao": "Universidade Federal do Amazonas",
@@ -213,18 +215,32 @@
             },
             {
                 "instituicao": "Universidade Federal do Amazonas",
-                "nome": "ColabWeb - Ferramentas baseadas na Web para Apoio ao Trabalho Colaborativo",
-                "periodo": "2006 - 2010",
+                "nome": "Sistemas Inteligentes",
+                "periodo": "2002 - 2009",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Sionise Rocha Gomes",
                     "Bruno Freitas Gadelha",
                     "Alberto Nogueira de Castro Júnior",
-                    "José Francisco de Magalhães Netto",
-                    "Leonardo Nascimento dos Santos",
-                    "Thaís Helena Chaves de Castro"
+                    "José Francisco de Magalhães Netto"
                 ],
-                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal de Pernambuco - Campus Palmares",
+                "nome": "VITAS - Visão, Inteligência e Tecnologias Aplicadas à Saúde",
+                "periodo": "2026",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sionise Rocha Gomes",
+                    "LIMA",
+                    "TIAGO PESSOA FERREIRA DE",
+                    "Josiel da Cunha Silva",
+                    "David Edson Ribeiro",
+                    "Diogo Lopes da Silva",
+                    "Hélio Fernando Bentzen Pessoa Filho",
+                    "Nelson Correia de Lima Júnior"
+                ]
             }
         ]
     },
@@ -405,13 +421,6 @@
                 "instituicao": "Instituto Federal do Amazonas Presidente Figueired"
             },
             {
-                "orientando": "Jefté Noberson De Sousa Santos",
-                "titulo": "Desenvolvimento de Dispositivo para o Auxílio de Pessoas com Limitações Visuais",
-                "ano": "2021",
-                "curso": "TÉCNICO DE NÍVEL MÉDIO EM DESENVOLVIMENTO DE SISTEMAS NA FORMA INTEGRADA",
-                "instituicao": "Instituto Federal do Amazonas Presidente Figueired"
-            },
-            {
                 "orientando": "Gerson Henrique dos Santos Trindade",
                 "titulo": "Desenvolvimento do Site IFMaker IFAM CPRF",
                 "ano": "2021",
@@ -435,6 +444,13 @@
             {
                 "orientando": "Luiz Kennedy Cavalcante Cortez",
                 "titulo": "Desenvolvimento do Site IFMaker IFAM CPRF",
+                "ano": "2021",
+                "curso": "TÉCNICO DE NÍVEL MÉDIO EM DESENVOLVIMENTO DE SISTEMAS NA FORMA INTEGRADA",
+                "instituicao": "Instituto Federal do Amazonas Presidente Figueired"
+            },
+            {
+                "orientando": "Jefté Noberson De Sousa Santos",
+                "titulo": "Desenvolvimento de Dispositivo para o Auxílio de Pessoas com Limitações Visuais",
                 "ano": "2021",
                 "curso": "TÉCNICO DE NÍVEL MÉDIO EM DESENVOLVIMENTO DE SISTEMAS NA FORMA INTEGRADA",
                 "instituicao": "Instituto Federal do Amazonas Presidente Figueired"
@@ -489,13 +505,6 @@
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
             },
             {
-                "orientando": "Keny Lucas dos Santos Souza",
-                "titulo": "Monitoria em Informática",
-                "ano": "2016",
-                "curso": "Técnico em Nível Médio em Eletrotécnica",
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
-            },
-            {
                 "orientando": "João Bosco Correa Rubim Filho",
                 "titulo": "Automação e Monitoramento Residencial Via Aplicativo Mobile",
                 "ano": "2016",
@@ -505,6 +514,13 @@
             {
                 "orientando": "Jean Carlos Barbosa Araujo",
                 "titulo": "Automação e Monitoramento Residencial Via Aplicativo Mobile",
+                "ano": "2016",
+                "curso": "Técnico em Nível Médio em Eletrotécnica",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Keny Lucas dos Santos Souza",
+                "titulo": "Monitoria em Informática",
                 "ano": "2016",
                 "curso": "Técnico em Nível Médio em Eletrotécnica",
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"

@@ -1,0 +1,90 @@
+{
+    "campus": "- Câmpus Lages",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Docência No Ensino Superior",
+                "instituicao": "Centro de Ensino Superior de Maringá",
+                "orientador": "ELIZABETE CUSTÓDIO DA SILVA",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Banco de Dados",
+                "instituicao": "Centro de Ensino Superior de Maringá",
+                "orientador": "Janaína Aparecida de Freitas",
+                "ano_inicio": 2019,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Centro Universitário FACVEST",
+                "ano_inicio": 2000,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "SID YESBRAS Unidade Lages",
+                "ano_inicio": 2007,
+                "ano_fim": 2016,
+                "funcao": "Instrutor de cursos livres",
+                "vinculo": "Instrutor dos cursos livres: Informática Básica",
+                "descricao": "Designer Gráfico, Web Design, Montagem e Manutenção de Computadores e Robótica Educacional"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Professor do Curso Técnico em Informática do Instituto Federal de Educação",
+                "descricao": "Ciência e Tecnologia de Santa Catarina - IFSC - Câmpus Lages.Disciplinas lecionadas: Linguagem de Programação I, Segurança da Informação, Sistemas Operacionais, Arquitetura de Computadores, Informática, Ética e Sociedade e Informática Básica. Esta última, também nos demais cursos do IFSC - Câmpus Lages/SC"
+            },
+            {
+                "empresa": "Instituto Federal Catarinense",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Professor Substituto",
+                "vinculo": "PROFESSOR DO CURSO SUPERIOR EM REDES DE COMPUTADORES Disciplina de Banco de DadosPROFESSOR DO CURSO TÉCNICO EM INFORMÁTICADisciplinas: Banco de Dados",
+                "descricao": "Engenharia de Software, Hardware e Sistemas Operacionais, Web Designer, Projeto Integrador II"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.7957279682159424,
+            "indian": 3.2838363647460938,
+            "black": 0.5701459050178528,
+            "white": 48.82524108886719,
+            "middle eastern": 24.343631744384766,
+            "latino hispanic": 20.181419372558594
+        }
+    }
+}

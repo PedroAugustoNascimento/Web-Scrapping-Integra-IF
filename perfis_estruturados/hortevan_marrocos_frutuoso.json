@@ -1,0 +1,171 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Transdutores Adaptativos Programáveis e sua Aplicação no Desenvolvimento de Agentes de Diálogos",
+                "orientador": "Prof",
+                "ano_inicio": 2016,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Estácio de Sá",
+                "ano_inicio": 2010,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Formação Pedagógica em Informática",
+                "instituicao": "Centro Universitário Leonardo da Vinci",
+                "ano_inicio": 2024,
+                "ano_fim": 2026
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": 2022,
+                "funcao": "Técnico Administrativo",
+                "vinculo": "Servidor público",
+                "descricao": "Assistente em Administração, desempenhando funções administrativas"
+            },
+            {
+                "empresa": "Fundação Norte Riograndense de Pesquisa e Cultura",
+                "ano_inicio": 2008,
+                "ano_fim": 2014,
+                "funcao": "Coordenador de TI",
+                "vinculo": "Coordenação de Equipe de Desenvolvimento e Manutenção de Equipamentos. Análise",
+                "descricao": "projeto e Desenvolvimento de Sistemas nas utilizando as linguagens Delphi, Java e PHP, com banco de dados PostgreSQL e Firebird. Modelagem e Administração de Banco de Dados PostgreSQL. Administração de servidores Linux/DEBIAN"
+            },
+            {
+                "empresa": "Fundação Norte Riograndense de Pesquisa e Cultura",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Desenvolvimento de Sistemas",
+                "vinculo": "Bolsista",
+                "descricao": "Desenvolvimento de Sistemas em Delphi e PHP, com banco de dados PostgreSQL"
+            },
+            {
+                "empresa": "Fundação Norte Riograndense de Pesquisa e Cultura",
+                "ano_inicio": 2002,
+                "ano_fim": 2006,
+                "funcao": "Desenvolvimento de Sistemas",
+                "vinculo": "Desenvolvimento de Sistemas em Delphi e PHP",
+                "descricao": "com banco de dados PostgreSQL. Coordenação do Centro de Processamento de Dados CPD/FUNPEC"
+            },
+            {
+                "empresa": "Techvirtual - Design,Producões e Desenvolvimento",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Desenvolvimento de Sistemas",
+                "vinculo": "Desenvolvimento de Sistemas em Delphi e PHP",
+                "descricao": "com banco de dados PostgreSQL e MySQL"
+            },
+            {
+                "empresa": "IFRN - Campus Natal Central",
+                "ano_inicio": 2022,
+                "ano_fim": 2024,
+                "funcao": "Professor substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia - Valença",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Rio Grande do Norte - Campus Zona Norte",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal do Rio Grande do Norte - Campus Zona Norte",
+                "nome": "Análise dos sentimentos dos professores que atendem alunos com Transtorno do Espectro Autista através da Inteligência Artificial",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Hortevan Marrocos Frutuoso",
+                    "Desiderio",
+                    "Vanessa"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "DESIDÉRIO, VANESSA",
+                "titulo": "FRUTUOSO, HORTEVAN M.;  Autismo e inclusão: socialização de experiência de quem acolhe pessoas que estão no espectro",
+                "ano": "2024",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786553812178 (Publicado)."
+            },
+            {
+                "autores": "DESIDÉRIO, VANESSA",
+                "titulo": "FRUTUOSO, HORTEVAN M.;  Inclusão de Pessoas com Transtorno de Espectro Autista na Educação Profissional e Tecnológica",
+                "ano": "2023",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788583333227 (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "DESIDÉRIO, VANESSA",
+                "titulo": "FRUTUOSO, HORTEVAN M.;  PROPOSTA DE MODELO DE SOFTWARE PARA APOIO ÀS ATIVIDADES DE PRÁTICA PROFISSIONAL DOS ALUNOS DO ENSINO MÉDIO",
+                "ano": "2022",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FRUTUOSO, HORTEVAN M.",
+                "titulo": "BEDREGAL, BENJAMIN R",
+                "evento": "C.; Processamento de Linguagem Natural Controlada utilizando uma Ma¿quina de Moore. XV Encontro Nacional de Inteligência Artificial e Computacional",
+                "local": "São Paulo",
+                "ano": "2018"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 13.19929027557373,
+            "indian": 9.998514175415039,
+            "black": 6.204215049743652,
+            "white": 9.795279502868652,
+            "middle eastern": 6.452369689941406,
+            "latino hispanic": 54.35033416748047
+        }
+    }
+}

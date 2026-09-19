@@ -12,16 +12,16 @@
             },
             {
                 "nivel": "Especialização",
-                "curso": "Ciência de Dados e Analytics",
-                "periodo": "2023",
-                "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro (RIO)"
-            },
-            {
-                "nivel": "Especialização",
                 "curso": "Educação Empreendedora",
                 "periodo": "2016 - 2017",
                 "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro",
                 "orientador": "Sandra Regina Holanda Mariano"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Ciência de Dados e Analytics",
+                "periodo": "2023",
+                "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro (RIO)"
             },
             {
                 "nivel": "Graduação",
@@ -58,11 +58,6 @@
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "periodo": "2015 - 2017",
-                "cargo": "Coordenador de Pólo da Rede E-Tec Brasil, Bolsista, Visa à oferta de educação profissional e tecnológica a distância e tem o propósito de ampliar e democratizar o acesso a cursos técnicos de nível médio, públicos e gratuitos, em regime de colaboração entre União, estados, Distrito Federal e municípios.."
-            },
-            {
-                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "periodo": "2015",
                 "cargo": "Membro Colegiado dos Cursos Técnicos, Membro do Colegiado dos Cursos Técnicos do Eixo Tecnológico do Instituto Federal de Educação, Ciência e Tecnologia do Pará - Campus Tucuruí.."
             },
@@ -70,6 +65,11 @@
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "periodo": "2015",
                 "cargo": "Membro NDE dos Cursos Técnicos."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "periodo": "2015 - 2017",
+                "cargo": "Coordenador de Pólo da Rede E-Tec Brasil, Bolsista, Visa à oferta de educação profissional e tecnológica a distância e tem o propósito de ampliar e democratizar o acesso a cursos técnicos de nível médio, públicos e gratuitos, em regime de colaboração entre União, estados, Distrito Federal e municípios.."
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
@@ -99,12 +99,12 @@
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "periodo": "2010 - 2010",
-                "cargo": "Professor bolsista - PARFOR, Bolsista, Plano Nacional de Formação de Professores da Educação Básica - PARFOR Disciplina ministrada: Fundamentos de Educação a Distância.."
+                "cargo": "Elaborar PPC Curso Tecnologia em Informática, Membro do grupo responsável pela elaboração do Projeto Político do Curso de Tecnologia em Informática do Instituto Federal de Educação, Ciência e Tecnologia do Pará - Campus Tucuruí.."
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
                 "periodo": "2010 - 2010",
-                "cargo": "Elaborar PPC Curso Tecnologia em Informática, Membro do grupo responsável pela elaboração do Projeto Político do Curso de Tecnologia em Informática do Instituto Federal de Educação, Ciência e Tecnologia do Pará - Campus Tucuruí.."
+                "cargo": "Professor bolsista - PARFOR, Bolsista, Plano Nacional de Formação de Professores da Educação Básica - PARFOR Disciplina ministrada: Fundamentos de Educação a Distância.."
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
@@ -255,7 +255,7 @@
                 },
                 {
                     "autores": "SANTOS",
-                    "evento": "Douglas Bechara,  BRANCH, E. C. N.,  MIRANDA, F. M. S.,  BAPTISTA, H. C.,  SILVA, L. P.,  CARIELLO, L. I. L.,  MEZZOMO, L. P.,  LOPES, L. N. A.,  PINHEIRO, L. P.,  FERNANDES, N. M. G.,  MARTINS, O. S.,  MARTINS, R. M.,  OLIVEIRA, R. O.,  CASTRO, A. C. L. F.,  CARDOSO, A. C. P.,  COELHO, C. C.,  COELHO, D. C.,  DIAS, D. S.,  FERRAZ, D. O.,  BRAZ, E. N.,  et.al,  Exposição de Trabalhos Técnicos, Científicos, Tecnológicos e Culturais - EXPOTEC",
+                    "evento": "Douglas Bechara,  BRANCH, E. C. N.,  MIRANDA, F. M. S.,  BAPTISTA, H. C.,  SILVA, L. P.,  CARIELLO, L. I. L.,  MEZZOMO, L. P.,  LOPES, L. N. A.,  PINHEIRO, L. P.,  FERNANDES, N. M. G.,  MARTINS, O. S.,  MARTINS, R. M.,  OLIVEIRA, R. O.,  CASTRO, A. C. L. F.,  COELHO, C. C.,  CARDOSO, A. C. P.,  COELHO, D. C.,  DIAS, D. S.,  FERRAZ, D. O.,  BRAZ, E. N.,  et.al,  Exposição de Trabalhos Técnicos, Científicos, Tecnológicos e Culturais - EXPOTEC",
                     "ano": "2011",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Pará - IFPA / Campus Tucuruí."
@@ -267,8 +267,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "ROCHA, NÚRIA CAROLLINE SILVA DA",
-                "titulo": "SANTOS, Douglas Bechara;  FÜLBER, HELENO;  MERLIN, BRUNO;  Palp-It: uma ferramenta web colaborativa para compartilhamento de gráficos táteis",
+                "autores": "MERLIN, BRUNO",
+                "titulo": "ROCHA, NÚRIA CAROLLINE SILVA DA;  SANTOS, Douglas Bechara;  FÜLBER, HELENO;  Palp-It: uma ferramenta web colaborativa para compartilhamento de gráficos táteis",
                 "ano": "2025",
                 "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
             }

@@ -4,14 +4,6 @@
     "dados_gerais": {
         "formacao": [
             {
-                "nivel": "Doutorado",
-                "curso": "Difusão do Conhecimento",
-                "periodo": "2023 - 2023",
-                "instituicao": "Universidade Federal da Bahia",
-                "titulo": "SMART CITIES E DIFUSÃO DO CONHECIMENTO: UMA ANÁLISE COM BASE NO NÍVEL DE MATURIDADE DAS CIDADES",
-                "orientador": "Roberto Monteiro"
-            },
-            {
                 "nivel": "Mestrado",
                 "curso": "Sistemas e Computação",
                 "periodo": "2017 - 2019",
@@ -61,6 +53,11 @@
         ],
         "atuacoes_profissionais": [
             {
+                "empresa": "Teledata",
+                "periodo": "2003 - 2003",
+                "cargo": "Técnico de Suporte, Manutenção de hardware, atendimento interno aos usuários assim possibilitar que os usuários disponham de equipamentos de microinformática e de rede de teleinformática em perfeitas condições de uso, responsabilizando-se pela assistência técnica, na manutenção preventiva e corretiva dos equipamentos. Confecção de cabos, extensões e outros condutores, com base nos manuais de instruções, criando meios facilitadores de utilização do equipamento."
+            },
+            {
                 "empresa": "Avansys",
                 "periodo": "2009 - 2009",
                 "cargo": "Analista de Suporte Jr, Monitoramento de rotinas de operação, links de comunicação e realizações de rotinas de backup, administração e operação de servidores, utilização e suporte Active Directory, MS-Exchange, utilização de ferramentas de acesso remoto, conhecimentos em plataforma Windows e pacote Office. Atividade com Open Office ? Br Office, Linux,squid, suporte a usuários Linux, Distribuição Debian, Suse e Fedora. Virtualização de serviços como Nagios e Zabbix. Suporte na central Telefônica Alcatel, conhecimento em telefonia / PABX ?Alcatel? cabeamento ótico e estruturado categoria 5 e 6. Suporte aos equipamentos e vlans 3com.."
@@ -79,11 +76,6 @@
                 "empresa": "ELEKEIROZ",
                 "periodo": "2003 - 2006",
                 "cargo": "Técnico de Suporte e Telecomunicação, Suporte a usuário DATASUL sistema Microsiga, instalação de equipamentos, configuração de aplicativos, suporte a usuário Windows XP, rotina de backup, manutenção de equipamentos, administração e manutenção do servidor Windows 2003 suporte ao correio de e-mail Microsoft Exchange, administração do sistema help desk, atendimento a usuários remotos como resolução de problemas tanto por orientação via telefone ou via área de trabalho remoto. Resolução e identificação de problemas na rede de teleinformática, detectando os defeitos providenciando a visita da assistência técnica, quando necessário, auxiliando na manutenção. Confecção de cabos, extensões e outros condutores, com base nos manuais de instruções, criando meios facilitadores de utilização do equipamento. Realização de controle a assistência técnica e manutenção em relatórios informatizados para subsidiar a gerência de manutenção de informações do andamento dos serviços. Controle do estoque de peças de reposição dos equipamentos. Providenciando o rodízio dos equipamentos, procurando evitar ociosidades e otimizando a utilização, de acordo com as necessidades dos usuários. Acompanhado e dando suporte a implantação dos projetos de sistemas, distribuir os softwares aplicativos e verificar sua performance, visando estabilizar a rotina de produção e otimizar a utilização dos recursos disponíveis.."
-            },
-            {
-                "empresa": "Teledata",
-                "periodo": "2003 - 2003",
-                "cargo": "Técnico de Suporte, Manutenção de hardware, atendimento interno aos usuários assim possibilitar que os usuários disponham de equipamentos de microinformática e de rede de teleinformática em perfeitas condições de uso, responsabilizando-se pela assistência técnica, na manutenção preventiva e corretiva dos equipamentos. Confecção de cabos, extensões e outros condutores, com base nos manuais de instruções, criando meios facilitadores de utilização do equipamento."
             },
             {
                 "empresa": "Fundação Bahiana de Engenharia",
@@ -261,8 +253,8 @@
                 "periodico": "Revista de Educação, Ciências e Sociedade na Amazônia (RECSA). ISBN: 30861160   ."
             },
             {
-                "autores": "SILVA, J. J.",
-                "titulo": "SANTANA, EBER DA SILVA DE;  OLIVEIRA, C. R.;  PINTO, H. F.;  REIS, E. F. B.;  BELEM, J. R. S.;  ANDRADE, R. A.;  FERREIRA NETO, C. H.;  INTELIGÊNCIAS ARTIFICIAIS NA EDUCAÇÃO E O PAPEL DO PROFESSOR NO PROCESSO DE ENSINO APRENDIZAGEM",
+                "autores": "SANTANA, EBER DA SILVA DE",
+                "titulo": "SILVA, J. J.;  OLIVEIRA, C. R.;  PINTO, H. F.;  REIS, E. F. B.;  BELEM, J. R. S.;  ANDRADE, R. A.;  FERREIRA NETO, C. H.;  INTELIGÊNCIAS ARTIFICIAIS NA EDUCAÇÃO E O PAPEL DO PROFESSOR NO PROCESSO DE ENSINO APRENDIZAGEM",
                 "ano": "2023",
                 "periodico": "REVISTA FISIO&TERAPIA. ISBN: 16780817   ."
             },
@@ -292,6 +284,13 @@
             }
         ],
         "trabalhos_eventos": [
+            {
+                "autores": "SANTANA, E. S.",
+                "titulo": "FLOWEDU: UMA PLATAFORMA DIGITAL INTELIGENTE COMO FERRAMENTA DE APOIO DO TRABALHO DOCENTE",
+                "evento": "XI Simpósio Internacional de Tecnologias Digitais na Educação (SNTDE 2026)",
+                "local": "São Luís",
+                "ano": "2026"
+            },
             {
                 "autores": "SANTANA, EBER DA SILVA DE",
                 "titulo": "GUALBERTO, E",

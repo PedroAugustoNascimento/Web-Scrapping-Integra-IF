@@ -1,0 +1,588 @@
+{
+    "campus": "- Campus Manaus Distrito",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "PhD in Electrical and Computer Engineering",
+                "instituicao": "University of British Columbia",
+                "orientador": "Sidney Fels",
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "WE-QT: Uma técnica automatizada de perguntas e respostas para inspeção de usabilidade em aplicações de Web",
+                "orientador": "Tayana Uchôa Conte",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Biofísica Quântica e Biorressonância Aplicada à Saúde",
+                "instituicao": "Faculdade de Tecnologia em Saúde CIEPH",
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal do Amazonas",
+                "ano_inicio": 2006,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Amazonas",
+                "ano_inicio": 2014,
+                "ano_fim": 2017,
+                "funcao": "Professor Auxiliar",
+                "vinculo": "Nível I",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Amazonas",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Mestrado em Informática",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Membro efetivo",
+                "vinculo": "Não informado",
+                "descricao": "Professora de Ensino Superior"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal do Amazonas\nGraduacao (2016) - Agronomia.\nGraduacao (2014) - Engenharia De Software.\nGraduacao (2014) - Sistema De Informação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Amazonas",
+                "nome": "Um Sistema Automatizado para o Registro e Gestão de Alocação de Salas e Laboratórios do Instituto de Ciências Exatas e Tecnologia (ICET)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Bruno Araújo Bonifácio"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Universidade Federal do Amazonas",
+                "nome": "Um Sistema Automatizadopara o Ensino de Libras",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Bruno Araújo Bonifácio"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Universidade Federal do Amazonas",
+                "nome": "WE-QT: Uma técnica de perguntas para inspeção de aplicações Web",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Tayana Uchôa Conte",
+                    "Bruno Araújo Bonifácio"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2010,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Sistema Integrado de Coleta Automatizada de Programas Maliciosos: E-CACURI",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Vitor Bremgartner Da Frota",
+                    "Gilbert Breves Martins",
+                    "Carlos Tiago Garamtizado",
+                    "José Pinheiro De Queiroz Neto",
+                    "Eduardo James Pereira Souto",
+                    "Isaac Benjamim Benchimol",
+                    "Alyson De Jesus Dos Santos"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Curso de Formação Inicial e Continuada - FIC em Informática Básica e Avançada",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Gilbert Breves Martins",
+                    "Sandra Maria Dossena",
+                    "Lucilene Rebouças De Oliveira",
+                    "Hamie Queiroz Tomas",
+                    "José Max Dias Figueiras Junior",
+                    "Francisca Fernanda Mariano Da Silva",
+                    "Ronilson Cavalcante Da Silva",
+                    "Eugues Silva De Souza"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "IMPLEMENTAÇÃO DE CONTROLE ESTATÍSTICO DO PROCESSO ONLINE",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Wagner Queiróz",
+                    "Lizandro Manzato",
+                    "Willian Barbosa Ribeiro",
+                    "Misael Marques Ricardo",
+                    "Janderson Mike Do Nascimento Jati"
+                ],
+                "financiador": "TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO EIRELI,",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Oficinas 4.0 - Capacitação em Inovação, Empreendedorismo e Tecnologias Digitais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "Vitor Bremgartner Da Frota",
+                    "Gilbert Breves Martins",
+                    "Ana Lúcia Soares Machado",
+                    "David Washington Freitas Lima",
+                    "Micila Sumaria Medeiros Pereira",
+                    "Emmerson Silva",
+                    "Carlos Araújo Mar",
+                    "Daniel Nascimento E Silva",
+                    "Luis Carlos Da Silva Garcia Junior"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Projeto Aranouá - Programa de Formação e Aperfeiçoamento Profissional de Nível Superior e Pós-Graduação em Áreas Prioritárias Relacionadas à Ciência, Tecnologia, Engenharia e Matemática (STEM) do Instituto Federal do Amazonas",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Priscila Silva Fernandes",
+                    "José Carlos Ferreira Souza",
+                    "Claudia Magalhaes Do Valle",
+                    "Jeconias Ferreira Dos Santos",
+                    "Renildo Viana Azevedo",
+                    "Luana Monteiro Da Silva",
+                    "Geisy Anny Venâncio"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "RAMOS",
+                    "evento": "J. G. A.,  MACHADO, A. L. S.,  FERNANDES, P. S.,  Semana Nacional de Ciência, Tecnologia e Extensão 2018 do IFAM CMDI",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM/CMDI)."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BREMGARTNER, VITOR",
+                "titulo": "FERNANDES, PRISCILA;  SOUSA, JEANNE;  SOUZA, JOSÉ CARLOS;  Aprendizagem baseada em projetos aplicada a cursos de formação inicial e continuada em Cultura Maker",
+                "ano": "2022",
+                "periodico": "REVISTA IBERO-AMERICANA DE ESTUDOS EM EDUCAÇÃO. ISBN: 19825587   ."
+            },
+            {
+                "autores": "BREMGARTNER, VITOR",
+                "titulo": "FERNANDES, P. S.;  Realidade Virtual e Educação: Um estudo sobre o impacto de inserir o dispositivo Cardboard em sala de aula",
+                "ano": "2018",
+                "periodico": "REVISTA DE ESTUDOS E PESQUISAS SOBRE ENSINO TECNOLÓGICO. ISBN: 2446774X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, FABRÍCIO",
+                "titulo": "LIMA, EMANUEL; VIEIRA, KELISSON; VENANCIO, GEISY ANNY; FERNANDES, PRISCILA; BREMGARTNER, VITOR; RIVERO, LUIS; Salas de Reuniões Virtuais para Apoio ao Ensino Remoto em Tempos de Pandemia: Uma Análise Comparativa",
+                "evento": "Workshop de Informática na Escola",
+                "local": "Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, DANIELLE A.",
+                "titulo": "FARIAS, LETÍCIA C",
+                "evento": "; PIMENTEL",
+                "local": "LIA X.; SILVA, SAMUEL V. DA; VENANCIO, GEISY ANNY; FERNANDES, PRISCILA; BREMGARTNER, VITOR; RIVERO, LUIS; Tecnologias Assistivas para Alfabetização de Crianças com TEA: Uma Análise de Aplicativos da Plataforma Google Play. Workshop de Informática na Escola, Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "SOLEDADE, ALEXANDER",
+                "titulo": "VENANCIO, GEISY ANNY; FERNANDES, PRISCILA; BREMGARTNER, VITOR; RIVERO, LUIS; Análise de Aplicativos para Pessoas Analfabetas: Quais são as suas Características?",
+                "evento": "Workshop de Informática na Escola",
+                "local": "Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "FERNANDES, PRISCILA",
+                "titulo": "BREMGARTNER, VITOR; VENÂNCIO, GEISY ANNY; RIVERO, LUIS; AN EXPERIENCE REPORT ON THE ADAPTATION OF A FACE-TO-FACE DISCIPLINE TO THE VIRTUAL CONTEXT IN TIMES OF COVID-19 PANDEMIC",
+                "evento": "14th annual International Conference of Education",
+                "local": "Research and Innovation, Online Conference",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, MARCOS",
+                "titulo": "BATISTA, BRUNO; AMARAL, VITOR; VENANCIO, GEISY ANNY; FERNANDES, PRISCILA; BREMGARTNER, VITOR; RIVERO, LUIS; Análise Comparativa de Sistemas de Leitura de Tela no Apoio ao Ensino de Pessoas com Deficiência Visual",
+                "evento": "Workshop de Informática na Escola",
+                "local": "Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, M. P.",
+                "titulo": "FROTA, V",
+                "evento": "B.; CAVALCANTE",
+                "local": "M. A.; FERNANDES, P. S.; ABECASSIS, U. V.; Estimulando a Lógica de Programação em Estudantes de Tecnologia em Mecatrônica usando Laboratório Remoto com Raspberry e Arduino. XI Conferência Internacional de TIC na Educação (Challenges 2019), Braga, Portugal",
+                "ano": "2019"
+            },
+            {
+                "autores": "MEDIM, RHUAN",
+                "titulo": "FERNANDES, PRISCILA; A QUIZ GAME APPLICATION TO SUPPORT STUDENTS PASSING FEDERAL UNIVERSITY EXAMS",
+                "evento": "12th annual International Conference of Education",
+                "local": "Research and Innovation, Seville",
+                "ano": "2019"
+            },
+            {
+                "autores": "FERNANDES, P. S.",
+                "titulo": "SOUZA, J",
+                "evento": "C. F.; SANTOS",
+                "local": "I. M. S.; LIBRASPLAY: PRACTICING BRAZILIAN SIGN LANGUAGE THROUGH A MOBILE GAME. 12th International Conference of Education, Research and Innovation, Sevilha, Espanha",
+                "ano": "2019"
+            },
+            {
+                "autores": "LUCAS BRIGIDO DA COSA, ANTONIO",
+                "titulo": "BONIFACIO, BRUNO ARAUJO; PEDRACA DE SOUZA, BRUNO; FERNANDES, PRISCILA SILVA; Applying Teaching Methods as Requirements to Develop Games to Assist Children with Learning Disabilities: A Case Study",
+                "evento": "2018 XLIV Latin American Computer Conference (CLEI)",
+                "local": "São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "ROCHA, FABIANA",
+                "titulo": "BREMGARTNER, VITOR; VALIM, MARCEL; BONIFACIO, BRUNO; FERNANDES, PRISCILA; The Influence of the Student's Personality Type on the Preference of the Computer Science Learning Process",
+                "evento": "2018 XLIV Latin American Computer Conference (CLEI)",
+                "local": "São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "SOUZA, DAYANE ROSAS DE",
+                "titulo": "BONIFACIO, BRUNO ARAUJO; TRINDADE, GENARDE MACEDO; FERNANDES, PRISCILA SILVA; Using Augmented Reality in the Development of Literacy for Students with Special Educational Needs",
+                "evento": "2018 XIII Latin American Conference on Learning Technologies (LACLO)",
+                "local": "São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "PEDRACA DE SOUZA, BRUNO",
+                "titulo": "COSTA, DANIEL S",
+                "evento": "; COSTA",
+                "local": "DANIELLA O.; BONIFACIO, BRUNO ARAUJO; FERNANDES, PRISCILA SILVA; Using Frameworks for Rapid Applications Development as Learning Object for Teaching Web Programming. 2018 XIII Latin American Conference on Learning Technologies (LACLO), São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "QUEIROZ, W.",
+                "titulo": "BRAGA, T",
+                "evento": "; RAMOS",
+                "local": "A.; FERNANDES, P. S.; BONIFACIO, B. A.; EspecLab: Utilizando Realidade Virtual para o Ensino de Química. XXIII Conferência Internacional sobre Informática na Educação (TISE 2018), Brasília",
+                "ano": "2018"
+            },
+            {
+                "autores": "SOUZA, DAYANE DE",
+                "titulo": "TRINDADE, GENARDE; FERNANDES, PRISCILA SILVA; BONIFÁCIO, BRUNO; alfabetzAR: Uma Aplicação Móvel com base na Realidade Aumentada como Ferramenta de Apoio no Processo de Alfabetização de Portadores de Síndrome de Down",
+                "evento": "XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education)",
+                "local": "Recife",
+                "ano": "2017"
+            },
+            {
+                "autores": "MACIEL, K. S.",
+                "titulo": "FERNANDES, P",
+                "evento": "S.; BONIFACIO",
+                "local": "B. A.; A Influência Do Ensino Na Experiência Do Usuário: Avaliação De Acessibilidade e Usabilidade Em Plataformas Móveis Utilizadas Por Pessoas De Baixo Letramento. Congreso Internacional de Informática Educativa, Santiago, Chile",
+                "ano": "2016"
+            },
+            {
+                "autores": "BELCHIOR, E. H. F.",
+                "titulo": "MEIRELES, M",
+                "evento": "A. C.; FERREIRA",
+                "local": "R. S.; BONIFACIO, B. A.; FERNANDES, P. S.; Avaliando Aspectos Motivacionais do Uso da Ferramenta Scratch para Ensino de Programação: Um Relato de Experiência. Congreso Internacional de Informática Educativa, Santiago, Chile",
+                "ano": "2016"
+            },
+            {
+                "autores": "BRITO, RUDDÁ",
+                "titulo": "FERNANDES, MARTHA; QUEIROZ, WAGNER; SOUZA, BRUNO PEDRACA DE; BONIFÁCIO, BRUNO; FERNANDES, PRISCILA SILVA; MACteaching: Utilizando um Jogo para Apoio ao Ensino do Método de Avaliação de Comunicabilidade",
+                "evento": "XXVII Simpósio Brasileiro de Informática na Educação",
+                "local": "Uberlandia",
+                "ano": "2016"
+            },
+            {
+                "autores": "PEDRACA, B.",
+                "titulo": "BONIFACIO, B",
+                "evento": "A.; FERNANDES",
+                "local": "P. S.; FONTAO, A. L.; DIAS-NETO, A. C.; Explorando a Personalidade do Desenvolvedor em Ecossistemas de Software Móvel. Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software, Maceió, AL",
+                "ano": "2016"
+            },
+            {
+                "autores": "Coutinho, W.",
+                "titulo": "COUTO, E",
+                "evento": "; BIASE",
+                "local": "C.; FERNANDES, P. S.; BONIFACIO, B. A.; Improving an Educational Mobile Application Through Usability Evaluation. International Technology, Education and Development Conference, Madri",
+                "ano": "2015"
+            },
+            {
+                "autores": "PEDRACA, B.",
+                "titulo": "FERNANDES, P",
+                "evento": "S.; A Influência da Meta-usabilidade e Comunicabilidade nas Técnicas de Inspeção de Aplicações Web. Workshop de Iniciação Científica em Sistemas de Informação - Simpósio Brasileiro de Sistemas de Informação",
+                "local": "Goiania",
+                "ano": "2015"
+            },
+            {
+                "autores": "NEVES, L.",
+                "titulo": "KANDA, J",
+                "evento": "Y.; FERNANDES",
+                "local": "P. S.; An Education Game for Users With Disabilities. 8th International Conference of Education, Research and Innovation, Seville",
+                "ano": "2015"
+            },
+            {
+                "autores": "PEDRACA, B.",
+                "titulo": "BONIFACIO, B",
+                "evento": "A.; FERNANDES",
+                "local": "P. S.; Melhorando uma Técnica de Inspeção de Usabilidade de Aplicação Web por meio do Método de Avaliação de Comunicabilidade. 13ª Conferencia Ibero Americana WWW/INTERNET, Florianópolis",
+                "ano": "2015"
+            },
+            {
+                "autores": "TEIXEIRA, L. J. C.",
+                "titulo": "FERNANDES, P",
+                "evento": "S.; GONCALVES",
+                "local": "E. S.; BONIFACIO, B. A.; Aprimorando Aplicações Web por meio de Avaliação de Usabilidade: um Estudo de Caso em uma Instituição de Ensino Superior. 13ª Conferencia Ibero Americana WWW/INTERNET, Florianópolis",
+                "ano": "2015"
+            },
+            {
+                "autores": "GRANA, C. B.",
+                "titulo": "FERNANDES, M",
+                "evento": "S.; FONTAO",
+                "local": "A. L.; FERNANDES, P. S.; BONIFACIO, B. A.; Avaliando a Experiência de Desenvolvedores (DX) no Processo de Ensino de Desenvolvimento de Aplicações Móveis. 13ª Conferencia Ibero Americana WWW/INTERNET, Florianópolis",
+                "ano": "2015"
+            },
+            {
+                "autores": "GRANA, C. B.",
+                "titulo": "FERNANDES, M",
+                "evento": "S.; FERNANDES",
+                "local": "P. S.; BONIFACIO, B. A.; Assessing Developer Experience in Teaching Process of Mobile Application Development. 8th annual International Conference of Education, Research and Innovation, Seville",
+                "ano": "2015"
+            },
+            {
+                "autores": "FERNANDES, P. S.",
+                "titulo": "BONIFACIO, B",
+                "evento": "A.; CONTE",
+                "local": "T. U.; A Usability Inspection Approach to Assist in the Software Development Process. The Ninth International Conference on Software Engineering Advances (ICSEA), Nice",
+                "ano": "2014"
+            },
+            {
+                "autores": "BONIFACIO, B. A.",
+                "titulo": "Coutinho, W",
+                "evento": "; COUTO",
+                "local": "E.; MAR, C.; FERNANDES, P. S.; Avaliação de Usabilidade de Aplicativos Móveis: Um Estudo de Caso sobre um Aplicativo de Ensino. Conferências IADIS Ibero-Americanas WWW/Internet 2014, Porto",
+                "ano": "2014"
+            },
+            {
+                "autores": "BONIFACIO, B. A.",
+                "titulo": "FERNANDES, P",
+                "evento": "S.; SANTOS",
+                "local": "F.; OLIVEIRA, H. A. B. F.; CONTE, T. U.; Usabilidade de Aplicações Web Móvel: Avaliando uma Nova Abordagem de Inspeção através de Estudos Experimentais. XV Ibero-American Conference on Software Engineering (CIbSE 2012), Buenos Aires",
+                "ano": "2012"
+            },
+            {
+                "autores": "FERNANDES, P. S.",
+                "titulo": "CONTE, T",
+                "evento": "U.; BONIFACIO",
+                "local": "B. A.; Improving a Web Usability Inspection Technique through an Observational Study. 24th International Conference on Software Engineering & Knowledge Engineering (SEKE 2012), Redwood City",
+                "ano": "2012"
+            },
+            {
+                "autores": "FERNANDES, P. S.",
+                "titulo": "BONIFACIO, B",
+                "evento": "A.; CONTE",
+                "local": "T. U.; WE-QT: A Web Usability Inspection Technique to Support Novice Inspectors. III Congresso Brasileiro de Software: Teoria e Prática, XXVI Simpósio Brasileiro de Engenharia de Software (SBES 2012), Natal, RN",
+                "ano": "2012"
+            },
+            {
+                "autores": "FERNANDES, P. S.",
+                "titulo": "BONIFACIO, B",
+                "evento": "A.; Luis Rivero; Davi Santos; CONTE",
+                "local": "T. U.; Avaliando uma nova Abordagem para Inspeção de Usabilidade através de Análise Quantitativa e Qualitativa. VIII Ibero-American Conference on Software Engineering, Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "BONIFACIO, B. A.",
+                "titulo": "FERNANDES, P",
+                "evento": "S.; OLIVEIRA",
+                "local": "H. A. B. F.; CONTE, T. U.; UBICUA: A Customizable Usability Inspection Approach For Web Mobile Applications. IADIS INTERNATIONAL CONFERENCE WWW/INTERNET, Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "FERNANDES, P. S.",
+                "titulo": "CHAVES, L",
+                "evento": "; BONIFACIO",
+                "local": "B. A.; CONTE, T. U.; WE-QT Tool: Uma Ferramenta de Apoio a Inspeção de Usabilidade de Aplicações Web. X Brazilian Symposium on Human Factors in Computer Systems (IHC 2011), Porto de Galinhas, PE",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Dayane Rosas de Souza",
+                "titulo": "alfabetizAR: uma Aplicação Móvel com Base na Realidade Aumentada como Ferramenta de Apoio no Processo de Alfabetização de Portadores de Síndrome de Down",
+                "ano": "2017",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "MARCOS TARDELLY CORREA DE CASTRO",
+                "titulo": "HE MOBILE: UM APLICATIVO MÓVEL PARA APOIO DE INSPEÇÃO DE USABILIDADE BASEADO NA AVALIAÇÃO HEURÍSTICA",
+                "ano": "2017",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Thiago da Silva Braga",
+                "titulo": "VIRTUALIZAÇÃO DE UM AMBIENTE 3D PARA AUXILIAR NO ESTUDO DA ESPECTROFOTOMETRIA",
+                "ano": "2017",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Ruddá Silva Beltrão Brito",
+                "titulo": "MAQUE: UMA FERRAMENTA MÓVEL COLABORATIVA PARA INSPEÇÃO DE USABILIDADE EM APLICAÇÕES WEB",
+                "ano": "2017",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Katlhen Santos Maciel",
+                "titulo": "Avaliação de Acessibilidade e Usabilidade em Plataformas Móveis Utilizadas por Pessoas de Baixo Letramento.",
+                "ano": "2016",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Giderlane Moraes de Souza",
+                "titulo": "Um Jogo para Ensino de Programação",
+                "ano": "2016",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Valber Cunha Tavares",
+                "titulo": "Sistema de Lotação de Servidores da Secretaria Municipal de Educação de Itacoatiara",
+                "ano": "2016",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Fabiana Rocha da Silva",
+                "titulo": "Estudo sobre a influência do Tipo de Personalidade do Professor/Aluno no Ensino da Computação",
+                "ano": "2016",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Renata Costa de Melo",
+                "titulo": "Estudo Sobre as Tecnologias de Desenvolvimento de Aplicações para Dispositivos Móveis: Nativo, Web App e Hibrido",
+                "ano": "2016",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Bruno Pedraça de Souza",
+                "titulo": "Avaliando a Comunicabilidade de Técnicas de Inspeções de Usabilidade para Aplicações Web",
+                "ano": "2016",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Liliane Ribeiro da Silva",
+                "titulo": "Estudo Comparativo Entre Técnicas de Inspeção de Usabilidade para Aplicações Web",
+                "ano": "2015",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Bruno Pedraça de Souza",
+                "titulo": "Um Estudo sobre a Influência da Meta-usabilidade em Técnicas de Inspeção de Aplicações Web",
+                "ano": "2015",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Thiago Ricardo Nascimento da Silva",
+                "titulo": "Impacto do Perfil Psicológico no Desempenho de Inspeção de Usabilidade",
+                "ano": "2015",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Augusto Roberto Medeiros Mena Barreto",
+                "titulo": "Desenvolvimento e Avaliação Experimental de um Aplicativo para o Ensino de Libras",
+                "ano": "2015",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Amazonas"
+            },
+            {
+                "orientando": "Kayque Javan Paz Carneiro",
+                "titulo": "Desenvolvimento e Avaliação experimental de uma Plataforma de Compartilhamento por Meio de Conexão Ponto a Ponto",
+                "ano": "2015",
+                "curso": "Engenharia de Software",
+                "instituicao": "Universidade Federal do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 38.73288345336914,
+            "indian": 15.232901573181152,
+            "black": 5.135988712310791,
+            "white": 7.185225009918213,
+            "middle eastern": 5.305649757385254,
+            "latino hispanic": 28.407352447509766
+        }
+    }
+}

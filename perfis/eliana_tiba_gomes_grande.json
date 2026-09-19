@@ -97,6 +97,11 @@
                 "empresa": "Instituto Federal Goiano - Campus Iporá",
                 "periodo": "2014 - 2014",
                 "cargo": "."
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Campus Posse",
+                "periodo": "2024 - 2024",
+                "cargo": "."
             }
         ],
         "direcao_administracao": "",
@@ -105,12 +110,46 @@
         "projetos": [
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Criação de um material didático estruturado em Kotlin com Android Studio e Firebase",
+                "periodo": "2024 - 2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Eliana Tiba Gomes Grande",
+                    "DENNER LEVI COSTA FILHO"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de um site para o ensino de Química através de vídeos e impressões 3D",
+                "periodo": "2024 - 2024",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Eliana Tiba Gomes Grande",
+                    "Brayan de Oliveira Caixeta"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "DESENVOLVIMENTO DE SOFTWARE DO JOGO TETRIS PARA O ENSINO DA TABELA PERÍODICA",
                 "periodo": "2013 - 2014",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Eliana Tiba Gomes Grande",
                     "Nádia Cristina Ferreira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano - Campus Iporá",
+                "nome": "Sistema de Gestão de Eventos Científicos e Tecnológicos",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Eliana Tiba Gomes Grande",
+                    "Luciana Recart Cardoso",
+                    "Rafael Divino Ferreira Feitosa",
+                    "Wesley Flávio de Miranda",
+                    "Newarney Torrezão da Costa",
+                    "Thamer Horbylon Nascimento"
                 ]
             },
             {
@@ -128,17 +167,13 @@
                 ]
             },
             {
-                "instituicao": "Instituto Federal Goiano - Campus Iporá",
-                "nome": "Sistema de Gestão de Eventos Científicos e Tecnológicos",
-                "periodo": "2014 - 2014",
-                "natureza": "Extensao",
+                "instituicao": "Instituto Federal Goiano - Campus Posse",
+                "nome": "Projeto Integrador 2024: NO CAMINHO DA SUSTENTABILIDADE E CIDADANIA",
+                "periodo": "2024 - 2024",
+                "natureza": "Ensino",
                 "equipe": [
                     "Eliana Tiba Gomes Grande",
-                    "Luciana Recart Cardoso",
-                    "Rafael Divino Ferreira Feitosa",
-                    "Wesley Flávio de Miranda",
-                    "Newarney Torrezão da Costa",
-                    "Thamer Horbylon Nascimento"
+                    "Luciano Nogueira"
                 ]
             }
         ]
@@ -192,8 +227,8 @@
                     "instituicao_promotora": "IF Goiano - Câmpus Iporá."
                 },
                 {
-                    "autores": "REGINA",
-                    "evento": "M.,  GRANDE, E. T. G.,  CARDOSO, L. R.,  SEBBA, M. E.,  FESTARCI",
+                    "autores": "GRANDE",
+                    "evento": "E. T. G.,  REGINA, M.,  CARDOSO, L. R.,  SEBBA, M. E.,  FESTARCI",
                     "ano": "2012",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal Goiano."

@@ -1,0 +1,196 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Mecatrônica",
+                "periodo": "2016 - 2018",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Medição de corrente em linhas de alta tensão por sensores sem-fio autônomos",
+                "orientador": "Antonio Cezar de Castro Lima"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Eletrônica",
+                "periodo": "1990 - 1992",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "periodo": "2005 - 2008",
+                "instituicao": "Universidade Federal da Bahia"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "1983",
+                "cargo": ", Servidor público."
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "periodo": "2002 - 2003",
+                "cargo": "Colaborador."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (1984) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Nobreak de 3KVA com tripla conversão em alta freqüência",
+                "periodo": "2005 - 2005",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Sistema de Paralelismo de No-breaks",
+                "periodo": "2007 - 2007",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus"
+                ],
+                "financiador": ","
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de um Sistema de monitoramento online da saúde do paciente",
+                "periodo": "2018",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus",
+                    "Eduardo Telmo Fonseca Santos",
+                    "Vinicius João Gonçalves Cunha"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Analisador Digital de Rendimento para Motores de Indução Trifásico",
+                "periodo": "2001 - 2002",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus",
+                    "Jés de Jesus Fiais"
+                ],
+                "financiador": "Companhia de Eletricidade do Estado da Bahia,"
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Desenvolvimento de um Sistema de Monitoramento Remoto de Chaves Fusíveis",
+                "periodo": "2014 - 2015",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus",
+                    "Fabiano Fragoso Costa",
+                    "Antonio Cezar de Castro Lima",
+                    "Alvaro de Freitas Garcez Neto",
+                    "Marcio Fontana"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Protótipo para recuperar a comunicação com sensores de fundo em sistemas BCS",
+                "periodo": "2017",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus",
+                    "Antonio Cezar de Castro Lima",
+                    "Marcio Fontana",
+                    "Leizer Schnitman",
+                    "José Emílio Quesado de Souza"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Diagnóstico de Desgaste em Comutadores de Derivação sob Carga",
+                "periodo": "2002",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Raimundo Jorge Abreu de Jesus",
+                    "Luiz Alberto Luz de Almeida"
+                ],
+                "financiador": "Companhia de Eletricidade do Estado da Bahia,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A.,  Maquina Virtual para microcontrolador 8051",
+                    "ano": "2014",
+                    "finalidade": "Utial no ensino de sistemas microprocessados em susbstituição ao kit físico."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A.,  Sistema de Analise de Motores",
+                    "ano": "2002",
+                    "finalidade": "Analise de Rendimento de motores de insdução trifásicos."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A.,  PABX 28",
+                    "ano": "2001",
+                    "finalidade": "Empressa privada."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., AMEIDA, C. V. R., Analisador de rendimento de motor trefásico",
+                    "ano": "2002",
+                    "finalidade": "Avalição de redimento em motores de indução trifásico."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., Bloqueador telefônico de chamadas",
+                    "ano": "2000",
+                    "finalidade": "Publco de massa."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., Central Telefonica 28",
+                    "ano": "1999",
+                    "finalidade": "Mercado de telecomunicações."
+                },
+                {
+                    "autor": "JESUS",
+                    "software": "R. J. A., Simulador de sistema supervisório SISUP",
+                    "ano": "1991",
+                    "finalidade": "Manutenção em sistemas supervisório."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 62.962806701660156,
+            "indian": 9.694975852966309,
+            "black": 2.2914631366729736,
+            "white": 5.30172061920166,
+            "middle eastern": 1.6996989250183105,
+            "latino hispanic": 18.049333572387695
+        }
+    }
+}

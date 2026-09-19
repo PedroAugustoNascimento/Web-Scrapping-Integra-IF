@@ -31,12 +31,6 @@
             },
             {
                 "nivel": "Especialização",
-                "curso": "MBA em Inteligência Artificial para Negócios",
-                "periodo": "2024",
-                "instituicao": "Facudade Exame"
-            },
-            {
-                "nivel": "Especialização",
                 "curso": "METODOLOGIA DO ENSINO SUPERIOR",
                 "periodo": "2001 - 2002",
                 "instituicao": "INSTITUTO CULTURAL DE ENSINO SUPERIOR DO AMAZONAS",
@@ -55,6 +49,12 @@
                 "periodo": "2006 - 2007",
                 "instituicao": "Centro Universitário do Norte",
                 "orientador": "MARIA HERCILIA TRIBUZY M CORDEIRO"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Inteligência Artificial para Negócios",
+                "periodo": "2024",
+                "instituicao": "Facudade Exame"
             },
             {
                 "nivel": "Graduação",
@@ -140,8 +140,8 @@
                 "periodo": "2008 - 2009",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Emmerson Santa Rita da Silva",
-                    "KEIKO VERONICA FONSECA ONO"
+                    "KEIKO VERONICA FONSECA ONO",
+                    "Emmerson Santa Rita da Silva"
                 ]
             },
             {
@@ -314,6 +314,15 @@
             },
             {
                 "instituicao": "Centro Universitário de Ensino Superior do Amazonas",
+                "nome": "Elaboração do PPCT do Curso Técnico em Recursos Humanos",
+                "periodo": "2021 - 2021",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Emmerson Santa Rita da Silva"
+                ]
+            },
+            {
+                "instituicao": "Centro Universitário de Ensino Superior do Amazonas",
                 "nome": "Elaboração do PPCT do Curso Técnico em Jogos Digitais",
                 "periodo": "2021 - 2021",
                 "natureza": "Ensino",
@@ -342,15 +351,6 @@
             {
                 "instituicao": "Centro Universitário de Ensino Superior do Amazonas",
                 "nome": "Elaboração do PPCT do curso Técnico em Energias Renováveis",
-                "periodo": "2021 - 2021",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Emmerson Santa Rita da Silva"
-                ]
-            },
-            {
-                "instituicao": "Centro Universitário de Ensino Superior do Amazonas",
-                "nome": "Elaboração do PPCT do Curso Técnico em Recursos Humanos",
                 "periodo": "2021 - 2021",
                 "natureza": "Ensino",
                 "equipe": [

@@ -1,0 +1,124 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "1995 - 1999",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Sistema Computadorizado de Apoio à Microscopia Óptica Orientado a Objetos",
+                "orientador": "Ascendino Flávio Dias e Silva"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "1985 - 1990",
+                "instituicao": "Universidade Católica de Pernambuco"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "periodo": "2003 - 2013",
+                "cargo": "Professor EBTT."
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Pernambuco",
+                "periodo": "1996 - 2003",
+                "cargo": "Professor."
+            },
+            {
+                "empresa": "Prefeitura Municipal do Recife",
+                "periodo": "1993 - 1994",
+                "cargo": "Diretor Divisão de Informações Educacionais, Assessor, Estatística Educacional da Rede Municipal."
+            },
+            {
+                "empresa": "Bio Lógica Ltda.",
+                "periodo": "1988 - 1991",
+                "cargo": "Sócio-gerente, Sócio, Empresa voltada ao desenvolvimento de software/hardware biomédico.."
+            },
+            {
+                "empresa": "Telesystemes do Brasil Ltda.",
+                "periodo": "1992 - 1993",
+                "cargo": "Analista de Sistemas/Gerente Microinformática."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2013",
+                "cargo": "Professor EBTT."
+            }
+        ],
+        "direcao_administracao": ": Centro Federal de Educação Tecnológica de Pernambuco\nUnidade de Pesqueira - PE (1997 - 2002) : Chefia Do Laboratório De Informática.\nPesquisa e Desenvolvimento\nCentro de Tecnologia (2001 - 2003): Identificação por Rádio Frequência (RFID),",
+        "ensino": ": Centro Federal de Educação Tecnológica de Pernambuco\nOutro (2003 - 2003) - Análise E Desenvolvimento De Sistemas.\nOutro (2000 - 2002) .\nOutro (1997 - 2002) .\nOutro (1997 - 2002) .\nExtensão Universitária: Universidade Federal de Pernambuco\nUniversidade Federal de Pernambuco: Programa Piloto De Ensino À Distância Para Professores Do Ensino Médio De Pernambuco (2006 - 2011) - Programa Piloto De Ensino À Distância Para Professores Do Ensino Médio De Pernambuco.\nUniversidade Federal de Pernambuco: Experimentos Para O Ensino-aprendizagem Nos Ensinos Médio E Profissionalizante (2006 - 2011) - Experimentos Para O Ensino-aprendizagem Nos Ensinos Médio E Profissionalizante.",
+        "comissoes": ": Centro Federal de Educação Tecnológica de Pernambuco\nMembro Da Comissão (2000 - 2002).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Pernambuco",
+                "nome": "Estudo da relação entre o nível de atenção e o estímulo luminoso intermitente, gerado na frequência RAE (ritmo alfa espontâneo) de cada indivíduo.",
+                "periodo": "1988 - 1990",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jose Gustavo Cordeiro de Araujo",
+                    "Carlos Alberto Gonçalves"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Universidade Federal de Pernambuco",
+                "nome": "EDUCOM",
+                "periodo": "1984 - 1988",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jose Gustavo Cordeiro de Araujo",
+                    "Paulo Gileno Cysneiros"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Fundo de Financiamento da Televisão Educativa, Ministério da Educação, Universidade Federal de Pernambuco,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "Araujo",
+                    "curso": "J. G. C.,  GOUVEIA, H. S. B.,  Discutindo Ciências no Ensino Fundamental",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CYSNEIROS",
+                    "evento": "P. G.,  Araujo, J. G. C.,  I Encontro de Informática Educativa do Nordeste",
+                    "ano": "1987",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Pernambuco."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.15842485427856445,
+            "indian": 0.4445803463459015,
+            "black": 0.040357764810323715,
+            "white": 76.05680847167969,
+            "middle eastern": 15.484054565429688,
+            "latino hispanic": 7.81577730178833
+        }
+    }
+}

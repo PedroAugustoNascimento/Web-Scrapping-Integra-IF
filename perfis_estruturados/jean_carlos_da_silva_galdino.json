@@ -1,0 +1,651 @@
+{
+    "campus": "- Campus Natal - Zona Norte",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "UFRJ",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "titulo": "Análise técnica, social e politica dos impactos das plantas solares e eólicas em uma determinada região",
+                "orientador": "David Alves Castelo Branco",
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Ciência e Engenharia de Petróleo",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Estudo comparativo do desempenho de controladores robustos aplicados a um sistemas de tanques acoplados",
+                "orientador": "André Laurindo Maitteli",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Automação de Processos à Gás Natural",
+                "instituicao": "Universidade Potiguar",
+                "orientador": "Ricardo Souza Marques",
+                "ano_inicio": 2007,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Educação Profissional",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Formação Docente para o Ensino Superior",
+                "instituicao": "Faculdade de Ciências Cultura e Extensão do Rio Grande do Norte",
+                "orientador": "Joaci Sabino",
+                "ano_inicio": 2003,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática Licenciatura",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Universidade Potiguar",
+                "ano_inicio": 2001,
+                "ano_fim": 2002
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro de Lançamento da Barreira do Inferno",
+                "ano_inicio": 2002,
+                "ano_fim": 2009,
+                "funcao": "Técnico em Eletrônica",
+                "vinculo": "Executava atividades de Manutenção e Instalação de Equipamentos de Informática",
+                "descricao": "Equipamentos de telemedidas, equipamentos PCM, decomutadores. Inspecionava e mantinha todo o cabeamento de dados. Operava equipamentos de Informática, PCM, Decomutadores, servidores e equipamentos de rastreio de veículos espaciais"
+            },
+            {
+                "empresa": "Diebold Procomp",
+                "ano_inicio": 1998,
+                "ano_fim": 1999,
+                "funcao": "Técnico em Eletrônica",
+                "vinculo": "Celetista formal",
+                "descricao": "Executava serviços de Instalação, configuração e Manutenção de equipamentos para automação comercial e bancária, e também de equipamentos de informática e de redes de computadores, transmissores, receptores, MODEM, Roteadores e equipamento de dispensa de cédulas e xeques. Ainda, impressoras térmicas e laser, monitores CRT entre outros"
+            },
+            {
+                "empresa": "Supermercados Nordestão",
+                "ano_inicio": 1999,
+                "ano_fim": 2001,
+                "funcao": "Técnico em Informática",
+                "vinculo": "Celetista formal",
+                "descricao": "Executava Instalação, configuração e manutenção de equipamentos de informática, no-break, roteadores, Hub, servidores. Palnejava, Instalava, configurava e mantinha redes de computadores, NOVELL, WINDOWS NT, UNIX e todo cabeamento estruturado. Realizava a manutenção dos equipamentos de Frente de loja e retaguarda, bem como dos equipamentos de comuincação via X25, REMPAC, entre outros"
+            },
+            {
+                "empresa": "Centro de Tecnologia do Gás",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Professor de Cursos técnicos",
+                "vinculo": "Professor Extra Quadro",
+                "descricao": "Professor de Eletrônica, Eletrônica de Potência, Controle de Processos e Introdução as Tecnologia dos Gases"
+            },
+            {
+                "empresa": "Petrobrás Transporte",
+                "ano_inicio": 2001,
+                "ano_fim": 2002,
+                "funcao": "Operador Júnior",
+                "vinculo": "Celetista formal",
+                "descricao": "Operação de dutos e terminais de petróleo"
+            },
+            {
+                "empresa": "Prefeitura Municipal de Natal",
+                "ano_inicio": 2004,
+                "ano_fim": 2009,
+                "funcao": "Professor de Matemática e Informática",
+                "vinculo": "Não informado",
+                "descricao": "Professor de Matemática e Informática"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Professor e Coordenador de Extensão",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Hot Line Informática",
+                "ano_inicio": 1994,
+                "ano_fim": 1998,
+                "funcao": "Técnico em Eletrônica e Suporte em Redes",
+                "vinculo": "Celetista formal",
+                "descricao": "Atividades Executadas: Instalação, configuração e manutenção de Equipamentos de Informática em geral. Instalação e configuração e Manutenção de sistemas operacionais de Redes. Instalação de Servidores e estações de trabalho. Ambientes Novell, Windows e Windows NT Planejamento e execução de cabeamento estruturados. Instalação de softwares aplicativos"
+            },
+            {
+                "empresa": "XEROX do Brasil",
+                "ano_inicio": 1998,
+                "ano_fim": 1999,
+                "funcao": "Técnico de Equipamentos Eletroeletrônico",
+                "vinculo": "Consecionário Técnico",
+                "descricao": "Parceiro para execução de serviços de manutenção de impressoras e copiadoras da marca XEROX"
+            },
+            {
+                "empresa": "Governo do Estado do Rio Grande do Norte",
+                "ano_inicio": 2002,
+                "ano_fim": 2004,
+                "funcao": "Professor de Matemática e de Informática",
+                "vinculo": "Professor Substituto",
+                "descricao": "Ministrava aulas de Matemática e de Informática, como professor substituto, para turmas do Ensino Fundamental e Médio na Escola Estadual Prof. José Fernandes Machado"
+            },
+            {
+                "empresa": "Escola Carrossel",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Professor de Manutenção de Computadores",
+                "vinculo": "Contrato Individual",
+                "descricao": "Ministrei um curso de Manutenção de computadores para uma turma de 20 alunos durante um semestre com carga horária de 60h"
+            },
+            {
+                "empresa": "Clinica Dr. Antonio Matias",
+                "ano_inicio": 2000,
+                "ano_fim": 2008,
+                "funcao": "Suporte técnico em Informática",
+                "vinculo": "Profissional liberal",
+                "descricao": "Executava atividades como Consultor e Suporte Técnico de Informática. Realizava Instalação, atualização e manutenção dos equipamentos de informática em geral. Instalava, atualizava e gerenciava a rede Novell e posteriormente a rede Windows da clínica"
+            },
+            {
+                "empresa": "CAPES - Centro Anhanguera de Promoção e Educação Social",
+                "ano_inicio": 2011,
+                "ano_fim": null,
+                "funcao": "Bolsista",
+                "vinculo": "Professor formador",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Professor Bolsista Pronatec",
+                "vinculo": "Bolsista",
+                "descricao": "Ministrei durante o período acima as seguintes disciplinas: ARQUITETURA DE COMPUTADORES - 15 h TÉCNICO INFORMÁTICA - 60 h TÉCNICO INFORMÁTICA - 60 h TÉCNICO INFORMÁTICA BÁSICA E APLICADA - 60 h TÉCNICO INTRODUÇÃO À INFORMÁTICA - 60 h TÉCNICO TIPOS DE ENERGIA RENOVÁVEL - 75 h TÉCNICO ELETRÔNICA APLICADA - 45 h TÉCNICO INSTALAÇÕES ELÉTRICAS - 60 h TÉCNICO CIRCUITOS ELETRÔNICOS - 50 h TÉCNICO INSTALAÇÕES ELÉTRICAS - 45 h TÉCNICO SISTEMAS DIGITAIS - 70 h TÉCNICO INSTALAÇÕES ELÉTRICAS - 45 h TÉCNICO PROJETO E INSTALAÇÃO DE SISTEMAS DE ENERGIA RENOVÁVEL - 60 h TÉCNICO"
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Professor Formador IES",
+                "vinculo": "Bolsista",
+                "descricao": "Atuei como professor formador no Pacto Nacional pelo Fortalecimento do Ensino Médio (PNFEM) da Secretaria de Educação Básica do MEC e Coordenado pela UFRN"
+            },
+            {
+                "empresa": "Instituto Metrópole Digital",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Tutor Presencial",
+                "vinculo": "Bolsista",
+                "descricao": "Tutor da turma de redes de computadores - Módulo avançado"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Propriedades Elétricas de Materiais existentes na Região do Trairí",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jean Carlos Da Silva Galdino"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Reciclando Baterias",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jean Carlos Da Silva Galdino",
+                    "Elialdo Chibério Da Silva"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,",
+                "ano_inicio": 2010,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "MIcroeletrônica - Programação VHDL",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jean Carlos Da Silva Galdino"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Física dos Semicondutores",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jean Carlos Da Silva Galdino",
+                    "Elialdo Chibério Da Silva"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Humanidades, ciências e tecnologia: articulação possível e necessária para melhorar a educação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Xêniasilva Gomes",
+                    "Jean Carlos Da Silva Galdino",
+                    "Maria Aparecida Trindade"
+                ],
+                "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,",
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Recliclando Equipamentos Eletro-Eletrônicos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jean Carlos Da Silva Galdino"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte,",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "FERNANDES",
+                    "titulo": "H. C. C.,  SOUZA JUNIOR, F. A. C.,  SILVA, J. W. O.,  LAVOR, O. P.,  GALDINO, J. C. S.,  UM AERO GERADOR PARA USO RESIDENCIAL.",
+                    "ano": "2014",
+                    "instituicao_promotora": "UFRN."
+                },
+                {
+                    "autores": "GALDINO",
+                    "titulo": "J. C. S.,  RAMOS, Z. M. A.,  Reutilizando sucatas de equipamentos eletroeletrônicos como ferramenta de ensino e pesquisa em cursos técnicos do IFRN",
+                    "ano": "2012",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DE SANTA CATARINA."
+                },
+                {
+                    "autores": "GALDINO",
+                    "titulo": "J. C. S.,  Técnica de controle robusto aplicado a um sistema de tanques acoplados",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade do Estado do Rio Grande do Norte."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. E.,  GALDINO, J. C. S.,  QUEIROZ, M. J.,  OLIVEIRA, J. G.,  E-lixo: Desenvolvimento de pequenos projetos com a reutilização de componentes eletrônicos no IFRN",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "GALDINO",
+                    "titulo": "J. C. S.,  Controle robusto de um sistema de tanques acoplados",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "GALDINO",
+                    "titulo": "J. C. S.,  Dérick da Costa Ferreira,  Josivan Bezerra da Silva,  Reciclagem do e-lixo (ou lixo eletro-eletrônico)",
+                    "ano": "2010",
+                    "instituicao_promotora": "IFAL."
+                },
+                {
+                    "autores": "GALDINO",
+                    "titulo": "J. C. S.,  Simulação de Controle Robusto de um sistema dinâmico",
+                    "ano": "2010",
+                    "instituicao_promotora": "Sociedade Brasileira para o Progresso da Ciência."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Eletrônica Analógica",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  MANUTENÇÃO DE COMPUTADORES",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Redes de Acesso",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Eletrônica Básica: Resolvendo questões",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Medidas Elétricas",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Redes de Acesso",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Prevenção contra choques elétricos",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Redes de Acesso",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Redes de Acesso",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "GALDINO",
+                    "curso": "J. C. S.,  Informática Básica",
+                    "ano": "1998"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "Leite",
+                    "evento": "J. Y. P.,  ARAUJO, A. L. C.,  SOUZA, S. C.,  SANTOS, J. P.,  CAPISTRANO, P. M. P.,  OLIVEIRA, M. V. F.,  GALDINO, J. C. S.,  VIII CONGIC",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO RIO GRANDE DO NORTE."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "GALDINO, J. C. S.",
+                "titulo": "LIMA, A. A.;  MAIA, D. V. A.;  LEMOS, E. C.;  QUEIROZ, M. J.;  Curso de Informática Avançada",
+                "ano": "2013",
+                "informacoes_adicionais": "Impresso. ISBN: 9788581610573, Natal (Organizado(a))."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "Dérick da Costa Ferreira",
+                "titulo": "Josivan Bezerra da Silva;  GALDINO, J. C. S.;  Reciclagem de lixo eletrônico",
+                "ano": "2010",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "GALDINO, J. C. S.",
+                "titulo": "QUEIROZ, M",
+                "evento": "J.; SILVA",
+                "local": "R. E.; OLIVEIRA, J. G.; E-LIXO: DESENVOLVIMENTO DE PEQUENOS PROJETOS COM A REUTILIZAÇÃO DE COMPONENTES ELETRÔNICOS NO IFRN. VIII CONGIC, NATAL",
+                "ano": "2011"
+            },
+            {
+                "autores": "GALDINO, J. C. S.",
+                "titulo": "CONTROLE ROBUSTO DE UM SISTEMA DE TANQUES ACOPLADOS",
+                "evento": "VIII CONGIC",
+                "local": "NATAL",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Christiany Gley Barbosa de Lima",
+                "titulo": "As novas tecnologias na educação e seus reflexos no processo de construção do material didático",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM ENSINO DE LÌNGUA PORTUGUESA E MATEMÁTICA NUMA PE",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Daniel da Silva Viana",
+                "titulo": "A elaboração de jogos matemáticos em uma perspectiva transdisciplinar",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM ENSINO DE LÌNGUA PORTUGUESA E MATEMÁTICA NUMA PE",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Manoel Vasconcelos Montenegro neto",
+                "titulo": "O GÊNERO TEXTO INSTRUCIONAL E O JOGO DAMAS: DESENVOLVENDO O RACIOCINO LÓGICO-MATEMÁTICO NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM ENSINO DE LÌNGUA PORTUGUESA E MATEMÁTICA NUMA PE",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Silvina Júlia Damasceno de Oliveira",
+                "titulo": "O uso das novas tecnologias para o ensino das operações matemáticas fundamentais no ensino fundamental",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM ENSINO DE LÌNGUA PORTUGUESA E MATEMÁTICA NUMA PE",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Marcos José Ferreira Nunes",
+                "titulo": "POR UMA LINGUAGEM ACESSÍVEL AO ENSINO DA MATEMÁTICA: A ETNOMATEMÁTICA COMO ESTRATÉGIA",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM ENSINO DE LÌNGUA PORTUGUESA E MATEMÁTICA NUMA PE",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Flávia Freire de Oliveira",
+                "titulo": "A RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS NUMA ABORDAGEM TRANSDISCIPLINAR",
+                "ano": "2019",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM ENSINO DE LÌNGUA PORTUGUESA E MATEMÁTICA NUMA PE",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Laura de Assis Moura",
+                "titulo": "Estágio Obrigatório",
+                "ano": "2014",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Victor Hugo dos Santos Farias",
+                "titulo": "Reaproveitamento de Lixo eletrônico",
+                "ano": "2014",
+                "curso": "Eletrônica",
+                "instituicao": "IFRN"
+            },
+            {
+                "orientando": "MATHEUS VINÍCIUS DA SILVA DANTAS",
+                "titulo": "Instalações elétricas com segurança para a comunidade",
+                "ano": "2014",
+                "curso": "Edificações Subsequente",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MONIC LAURA ALVES DE ARAÚJO",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Leonardo Viana de Carvalho",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR OBRIGATÓRIO SUPERVISIONADO",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "CRISTIANE LEANDRO VIANA",
+                "titulo": "RELATÓRIO DE ESTÁGIO SUPERVISIONADO",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "William Rodrigo Augusto Gomes",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR OBRIGATÓRIO SUPERVISIONADO",
+                "ano": "2013",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Maria Aparecida de Souza Dantas",
+                "titulo": "A utilização de jogos matemáticos na sala de aula como recurso no processo de ensino aprendizagem",
+                "ano": "2013",
+                "curso": "Esp em ensino da Língua Portuguesa e Matemática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "JOSÉ ALMARÍ FERREIRA",
+                "titulo": "COMO APRENDER PORCENTAGEM DE FORMA TRANSDISCIPLINAR?",
+                "ano": "2013",
+                "curso": "Esp em ensino da Língua Portuguesa e Matemática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Daminhão Andre de Souza",
+                "titulo": "Estago Supervisionado",
+                "ano": "2013",
+                "curso": "Redes de Computadores",
+                "instituicao": "IFRN"
+            },
+            {
+                "orientando": "José Lindinarte do Nascimento",
+                "titulo": "Os recursos tecnológicos na escola: o computador e a internet",
+                "ano": "2013",
+                "curso": "Esp em ensino da Língua Portuguesa e Matemática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ADRIANA ALVES SILVA DE VASCONCELOS",
+                "titulo": "COMO A TRANSDISCIPLINARIDADE OU INTERDISCIPLINARIDADE É ABORDADA NOS LIVROS DIDÁTICOS DE (LÍNGUA PORTUGUESA E MATEMÁTICA).",
+                "ano": "2012",
+                "curso": "Especialização em Língua Portuguesa e Matemática",
+                "instituicao": "IFRN"
+            },
+            {
+                "orientando": "Lidigleydson de Melo Torres",
+                "titulo": "A INTERDISCIPLINARIDADE NAS AULAS DE LÍNGUA PORTUGUESA E MATEMÁTICA A PARTIR DA LITERATURA INFANTIL",
+                "ano": "2012",
+                "curso": "Especialização em Língua Portuguesa e Matemática",
+                "instituicao": "IFRN"
+            },
+            {
+                "orientando": "Maria Jane Queiroz",
+                "titulo": "Estágio Supervisionado",
+                "ano": "2012",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Maria Jane de Queiroz",
+                "titulo": "E-lixo: Desenvolvimento de pequenos projetos com a reutilização de componentes eletrônicos no IFRN",
+                "ano": "2011",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "José Gerson de Oliveira Silva",
+                "titulo": "E-lixo: Desenvolvimento de pequenos projetos com a reutilização de componentes eletrônicos no IFRN",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Rogério Emílio da Silva",
+                "titulo": "E-lixo: Desenvolvimento de pequenos projetos com a reutilização de componentes eletrônicos no IFRN",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "José Jossiny",
+                "titulo": "E-lixo: Desenvolvimento de pequenos projetos com a reutilização de componentes eletrônicos no IFRN",
+                "ano": "2011",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "José Arimatéia Evangelista Campelo da Silva",
+                "titulo": "Natureza Elétrica dos Materiais Encontrados na Região do Trairí",
+                "ano": "2010",
+                "curso": "Técnico Integrado em Refrigeração e Climatização",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Aparecida Kevily",
+                "titulo": "Natureza Elétrica dos Materiais Encontrados na Região do Trairí",
+                "ano": "2010",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Tancredo Regis Teixeira Silva",
+                "titulo": "Estudo da natureza elétrica e mecânica dos materiais existente no Trairi.",
+                "ano": "2010",
+                "curso": "Técnico Integrado em Refrigeração e Climatização",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Suender Hallesson dos Santos",
+                "titulo": "Eletrmagnetismo, suas aplicações e seu estado da arte",
+                "ano": "2010",
+                "curso": "Física",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Jorge vitorAraújo Souza",
+                "titulo": "O consumo de energia elétrica no campus Santa Cruz",
+                "ano": "2010",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Dérick Da Costa Ferreira",
+                "titulo": "Reciclagem do e-lixo (ou lixo eletro-eletrônico)",
+                "ano": "2010",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 8.054117202758789,
+            "indian": 12.737306594848633,
+            "black": 4.043985843658447,
+            "white": 17.38890838623047,
+            "middle eastern": 24.805660247802734,
+            "latino hispanic": 32.970027923583984
+        }
+    }
+}

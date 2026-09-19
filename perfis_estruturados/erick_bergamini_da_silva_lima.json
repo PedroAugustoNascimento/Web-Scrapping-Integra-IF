@@ -1,0 +1,301 @@
+{
+    "campus": "- Campus Natal - Zona Leste (EaD)",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Engenharia de Software",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "QUEST DESIGN CANVAS: UM MODELO DE CRIAÇÃO DE QUESTS PARA JOGOS DIGITAIS DE GÊNERO RPG",
+                "orientador": "CHARLES ANDRYE GALVAO MADEIRA",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de computadores",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Hudson Ramos",
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Coordenação Geral do Programa Escola Técnica Aberta do Brasil",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Estagiário",
+                "vinculo": "Bolsista",
+                "descricao": "Estagiário desenvolvedor de materiais e aulas em Adobe Flash com ActionScript: atuou no desenvolvimento de aulas com animações em flash para os cursos de ensino a distancia providos pelo IFRN"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "- Atua como professor na disciplina de Autoria Web",
+                "descricao": "Princípios de Design e Projeto Gráfico, Design Web e Arquitetura da Informação, Informática Básica e Montagem e Manutenção"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Professor Temporário",
+                "vinculo": "Professor Substituto",
+                "descricao": "- Atuou como professor substituto de Sistemas Operacionais e Sistemas Operacionais em Redes. - Ministrou a disciplina de Redes de Computadores para os cursos Técnico em Informática e Tecnologia em Análise e Desenvolvimento de Sistemas. - Foi professor de informática básica nos cursos técnicos de Administração, Eletrotécnica e Sistemas de Informação. - Ministrou a disciplina de Montagem e Instalação para o curso técnico de Sistemas de Informação"
+            },
+            {
+                "empresa": "Guarda Municipal do Natal",
+                "ano_inicio": 2004,
+                "ano_fim": 2014,
+                "funcao": "Agente",
+                "vinculo": "- Atuou como Agente da GMN",
+                "descricao": "no Pelotão Patrimonial, no período de 2004 à 2008. - Atuou no serviço de suporte à informática e desenvolvimento de sistemas para a sede da instituição no período de 2008 à 2013. - Atuou no setor de estatísticas do CIOSP-RN, no período de 2013 à 2014, gerando relatórios e desenvolvendo sistemas de gerenciamento de dados"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Colaboração pedagógica entre o Campus EaD/IFRN e escolas públicas do RN.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Erick Bergamini Da Silva Lima",
+                    "Andrea Gabriel Francelino Rodrigues",
+                    "Eulalia Raquel Gusmao De Carvalho Neto",
+                    "Ilane Ferreira Cavalcante",
+                    "Christine Meyrelles Felipe Da Fonseca",
+                    "Carlos Eduardo Campos Freir",
+                    "Elizama Das Chagas Lemos"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Desenvolvimento de framework baseado em Gamification para estimular o engajamento de servidores no uso do Repositório Institucional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Erick Bergamini Da Silva Lima",
+                    "Thiago Medeiros Barros"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Avaliação, Proposta e Desenvolvimento de Interface Melhorada do Sistema de Repositório Institucional e Framewrok Baseado em Gamification",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Erick Bergamini Da Silva Lima",
+                    "Thiago Medeiros Barros"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Produção de jogos educacionais digitais para aplicação no ensino em EaD",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Erick Bergamini Da Silva Lima"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LIMA",
+                    "software": "E. B. S.,  SISTEMA DE CADASTRO DE RONDAS",
+                    "ano": "2016",
+                    "finalidade": "Controle de Rondas.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512016000348-0."
+                },
+                {
+                    "autor": "LIMA",
+                    "software": "E. B. S.,  Sistema de Gerencia de Escalas, Postos e Serviços da Guarda Municipal do Natal",
+                    "ano": "2010",
+                    "finalidade": "Gerencia do setor de Operações da Guarda Municipal do Natal."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CUNHA",
+                    "titulo": "A. D.,  LIMA, A. A.,  LIMA, E. B. S.,  POLÍTICA EDUCACIONAL: UMA ANÁLISE DO REUNI",
+                    "ano": "2015",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco."
+                },
+                {
+                    "autores": "LIMA",
+                    "titulo": "E. B. S.,  LIMA, A. A.,  LEMOS, E. C.,  TICS APLICADAS AO ENSINO SEMIPRESENCIAL",
+                    "ano": "2015",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE PERNAMBUCO."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "LIMA",
+                    "curso": "E. B. S.,  Introdução a criação de jogos com RPG Maker XV ACE Lite",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "E. B. S.,  Introdução ao desenvolvimento de jogos com Unity",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "E. B. S.,  Introdução à Modelagem 3D com Blender",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "E. B. S.,  Montagem e manutenção básica de computadores",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "E. B. S.,  Montagem e manutenção básica de computadores",
+                    "ano": "2014"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "MADEIRA",
+                    "evento": "C. A. G.,  BRITO, A. L. S.,  ARANHA, E. H. S.,  NASCIMENTO, N. D. M.,  SANTOS, W. L.,  DANTAS, R. R.,  MEDEIROS, T. J.,  TAVARES, R. J. C.,  NUNES, I. D.,  LIMA, E. B. S.,  IV Encontro Potiguar de Jogos, Entretenimento e Educação",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "INSTITUTO METROPOLE DIGITAL / UFRN."
+                },
+                {
+                    "autores": "MADEIRA",
+                    "evento": "C. A. G.,  LIMA, E. B. S.,  CAMPOS, A. M. C.,  ROSA, J. G. S. S.,  BRITO, A. L. S.,  ARANHA, E. H. S.,  DANTAS, R. R.,  NUNES, I. D.,  ANDRADE, J. V. L.,  BARBOSA, J. F. R.,  PETRY, A. S.,  ALBERTO, G. G. P.,  III Encontro Potiguar de Jogos, Entretenimento e Educação",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "INSTITUTO METROPOLE DIGITAL / UFRN."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "E. B. S.,  Semana de arte, cultura e desporto",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                },
+                {
+                    "autores": "LIMA",
+                    "evento": "E. B. S.,  Simpósio de Iniciação a pesquisa",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "LIMA, E. B. S.",
+                "titulo": "LEMOS, E. C.;  Princípios de design e projeto gráfico",
+                "ano": "2015",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788583331438, Natal (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "BARBOSA, J. F. R.",
+                "titulo": "MADEIRA, C",
+                "evento": "A. G.; BARBOSA",
+                "local": "E. A. M.; LIMA, E. B. S.; Escolhendo um Jogo Digital Educativo e Eficiente: um Instrumento de apoio aos Docentes do Ensino Médio. Simpósio Brasileiro de Games e Entretenimento Digital, Foz do Iguaçú",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Nancy Francisca da Silva",
+                "titulo": "ENSINO REMOTO EM TEMPOS DE PANDEMIA: VIVÊNCIAS NO CONTEXTO DAS ESCOLAS PÚBLICAS DO RN",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "Ruan Kleberson Pereira da Silva",
+                "titulo": "TECNOLOGIAS EDUCACIONAIS NO ENSINO DE HISTÓRIA PARA NOVOS HORIZONTES NA ESCOLA PÚBLICA",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "Pedro Victor Pires de Medeiros",
+                "titulo": "TECNOLOGIAS EDUCACIONAIS:A INFORMÁTICA, COMO FERRAMENTA DE CONHECIMENTO NA SALA DE AULA",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "Manoel Vasconcelos Montenegro Neto",
+                "titulo": "EXPERIÊNCIAS DE APRENDIZADO",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "DAYVSON RICARDO RUFINO DA SILVA",
+                "titulo": "O PAPEL DA SOCIEDADE NA ESCOLA FRENTE À EDUCAÇÃO A DISTÂNCIA NA EDUCAÇÃO PROFISSIONAL",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "Artur Antunes Avelino Ferreira",
+                "titulo": "TECNOLOGIAS EDUCACIONAIS PARA O ENSINO DA MATEMÁTICA",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "Alisson Silva Nogueira",
+                "titulo": "O ENSINO DA EDUCAÇÃO FÍSICA A DISTÂNCIA: A TECNOLOGIA IMPULSIONANDO O MOVIMENTO HUMANO.",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            },
+            {
+                "orientando": "Carlos Rodrigo de Araujo",
+                "titulo": "CONSTRUINDO UM APRENDIZADO ACADÊMICO E PROFISSIONAL MEDIADO POR TECNOLOGIAS APLICADAS À EAD",
+                "ano": "2021",
+                "curso": "Especialização em Tecnologias Educacionais e Educação a Distância",
+                "instituicao": "IFRN-Campus Zona Leste"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 18.635854721069336,
+            "indian": 15.34126091003418,
+            "black": 6.438729763031006,
+            "white": 14.959369659423828,
+            "middle eastern": 11.862763404846191,
+            "latino hispanic": 32.762027740478516
+        }
+    }
+}

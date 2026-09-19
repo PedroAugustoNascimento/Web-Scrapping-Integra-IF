@@ -35,14 +35,14 @@
             },
             {
                 "nivel": "Graduação",
-                "curso": "Engenharia de Software",
-                "periodo": "2009 - 2012",
+                "curso": "Música",
+                "periodo": "2004 - 2008",
                 "instituicao": "Universidade Federal de Goiás"
             },
             {
                 "nivel": "Graduação",
-                "curso": "Música",
-                "periodo": "2004 - 2008",
+                "curso": "Engenharia de Software",
+                "periodo": "2009 - 2012",
                 "instituicao": "Universidade Federal de Goiás"
             }
         ],
@@ -76,6 +76,11 @@
                 "empresa": "Associação Nacional de Pesquisa e Pós-Graduação em Música",
                 "periodo": "2008 - 2010",
                 "cargo": "Contribuinte."
+            },
+            {
+                "empresa": "Software X",
+                "periodo": "2024",
+                "cargo": ", Revisor de periódico."
             },
             {
                 "empresa": "Secretaria de Estado da Educação e Cultura",
@@ -113,11 +118,6 @@
                 "cargo": ", Revisor de periódico."
             },
             {
-                "empresa": "Software X",
-                "periodo": "2024",
-                "cargo": ", Revisor de periódico."
-            },
-            {
                 "empresa": "Array",
                 "periodo": "2025",
                 "cargo": ", Revisor de periódico."
@@ -143,8 +143,8 @@
                 "periodo": "2006 - 2008",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Sônia Ray",
-                    "Gabriel da Silva Vieira"
+                    "Gabriel da Silva Vieira",
+                    "Sônia Ray"
                 ],
                 "financiador": "Fundação de Apoio à Pesquisa,"
             },
@@ -154,8 +154,8 @@
                 "periodo": "2004 - 2005",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Sônia Ray",
-                    "Gabriel da Silva Vieira"
+                    "Gabriel da Silva Vieira",
+                    "Sônia Ray"
                 ],
                 "financiador": "Fundação de Apoio à Pesquisa,"
             },
@@ -226,19 +226,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Programação Web com Java EE",
-                "periodo": "2015 - 2016",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Carlos da Costa Oliveira",
-                    "David Rosa Garcia",
-                    "Gabriel da Silva Vieira",
-                    "Matheus Correia Florêncio",
-                    "Maxwell Allan Ferreira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Técnicas de processamento digital de imagens",
                 "periodo": "2015 - 2016",
                 "natureza": "Pesquisa",
@@ -263,23 +250,25 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Programação Web com Java EE",
+                "periodo": "2015 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "David Rosa Garcia",
+                    "Maxwell Allan Ferreira",
+                    "Gabriel da Silva Vieira",
+                    "Carlos da Costa Oliveira",
+                    "Matheus Correia Florêncio"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Produzindo mapas de profundidade com uso de câmera monocular",
                 "periodo": "2016 - 2017",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Gabriel da Silva Vieira",
                     "Naiane Maria de Sousa"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Aplicativo de cálculo de disparidade e estimativa de profundidade para smartphone",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Gabriel da Silva Vieira",
-                    "Adriley Samuel Ribeiro Barbosa",
-                    "Samuel Alves dos Santos"
                 ]
             },
             {
@@ -291,6 +280,17 @@
                     "Gabriel da Silva Vieira",
                     "Lucas Lourenço de Jesus",
                     "Roberto Murilo Martins Cordeiro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Aplicativo de cálculo de disparidade e estimativa de profundidade para smartphone",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gabriel da Silva Vieira",
+                    "Adriley Samuel Ribeiro Barbosa",
+                    "Samuel Alves dos Santos"
                 ]
             },
             {
@@ -317,6 +317,17 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Recuperação de Imagens Fotográficas por Conteúdo e Reconhecimento Facial em Coleções de Grande Escala",
+                "periodo": "2025",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gabriel da Silva Vieira",
+                    "Artur Duarte Monteiro",
+                    "Bruno Henrique Pereira Souto"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Reconhecimento Facial de Bovinos para Acesso Imediato a Informações Zootécnicas",
                 "periodo": "2025",
                 "natureza": "Pesquisa",
@@ -334,17 +345,6 @@
                     "Gabriel da Silva Vieira",
                     "Pedro Henrique Nunes Oliveira",
                     "Bruno Henrique Pereita Souto"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Recuperação de Imagens Fotográficas por Conteúdo e Reconhecimento Facial em Coleções de Grande Escala",
-                "periodo": "2025",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Gabriel da Silva Vieira",
-                    "Artur Duarte Monteiro",
-                    "Bruno Henrique Pereira Souto"
                 ]
             },
             {
@@ -379,9 +379,9 @@
                 "periodo": "2025",
                 "natureza": "Ensino",
                 "equipe": [
-                    "Gabriel da Silva Vieira",
                     "Kelvis Duank Ribeiro de Oliveira",
                     "Marlon Neves da Mota",
+                    "Gabriel da Silva Vieira",
                     "João Vitor Pagani",
                     "Farley Ramos de Sena"
                 ]
@@ -637,6 +637,12 @@
                 "periodico": "Softwarex. ISBN: 23527110   ."
             },
             {
+                "autores": "VIEIRA, GABRIEL S.",
+                "titulo": "FONSECA, AFONSO U.;  ROCHA, BRUNO M.;  SOUSA, NAIANE M.;  FERREIRA, JULIO C.;  FELIX, JULIANA P.;  LIMA, JUNIO C.;  SOARES, FABRIZZIO;  Insect Predation Estimate Using Binary Leaf Models and Image-Matching Shapes",
+                "ano": "2022",
+                "periodico": "Agronomy-Basel. ISBN: 20734395   ."
+            },
+            {
                 "autores": "DA SILVA VIEIRA, GABRIEL",
                 "titulo": "ROCHA, BRUNO MORAES;  FONSECA, AFONSO UESLEI;  DE SOUSA, NAIANE MARIA;  FERREIRA, JULIO CESAR;  CABACINHA, CHRISTIAN DIAS;  SOARES, FABRIZZIO;  Automatic detection of insect predation through the segmentation of damaged leaves",
                 "ano": "2022",
@@ -647,12 +653,6 @@
                 "titulo": "VIEIRA, GABRIEL S.;  FONSECA, AFONSO U.;  SOUSA, NAIANE M.;  PEDRINI, HELIO;  SOARES, FABRIZZIO;  Detection of Curved Rows and Gaps in Aerial Images of Sugarcane Field Using Image Processing Techniques",
                 "ano": "2022",
                 "periodico": "Ieee Canadian Journal Of Electrical And Computer Engineering. ISBN: 26941783   ."
-            },
-            {
-                "autores": "VIEIRA, GABRIEL S.",
-                "titulo": "FONSECA, AFONSO U.;  ROCHA, BRUNO M.;  SOUSA, NAIANE M.;  FERREIRA, JULIO C.;  FELIX, JULIANA P.;  LIMA, JUNIO C.;  SOARES, FABRIZZIO;  Insect Predation Estimate Using Binary Leaf Models and Image-Matching Shapes",
-                "ano": "2022",
-                "periodico": "Agronomy-Basel. ISBN: 20734395   ."
             },
             {
                 "autores": "VIEIRA, GABRIEL S.",
@@ -673,8 +673,8 @@
                 "periodico": "ArXiv Quantum Physics e-print. ISBN: 07053010   ."
             },
             {
-                "autores": "PARREIRA, R. T.",
-                "titulo": "VIEIRA, G. S.;  SOARES, F. A. A.;  LAUREANO, G. T.;  FERREIRA, J. C.;  A Segmented Consistency Check Approach to Disparity Map Refinement",
+                "autores": "VIEIRA, G. S.",
+                "titulo": "SOARES, F. A. A.;  LAUREANO, G. T.;  PARREIRA, R. T.;  FERREIRA, J. C.;  A Segmented Consistency Check Approach to Disparity Map Refinement",
                 "ano": "2019",
                 "periodico": "CANADIAN JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING-REVUE CANADIENNE DE GENIE ELECTRIQUE ET INFORMATIQUE. ISBN: 08408688   ."
             },

@@ -1,0 +1,126 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Rafael Xavier de Oliveira Souza",
+                "instituicao": "Universidade Norte do Paraná",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Sftware",
+                "instituicao": "ANHANGUERA EDUCACIONAL LTDA",
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "ano_inicio": 2016,
+                "ano_fim": 2022
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "UNIFAN CENTRO UNIVERSITARIO NOBRE DE FEIRA DE SANTANA LTDA",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": UNIFAN CENTRO UNIVERSITARIO NOBRE DE FEIRA DE SANTANA LTDA\nGraduacao (2026) - Engenharia De Sftware.",
+        "comissoes": ": Instituto Federal da Bahia\nConselho Do Curso Técnico De Informática (2025).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Hotel de Projetos do IFBA",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Wild Santos Barreto",
+                    "Iam Lucas De Andrade Medeiros",
+                    "Rogério Da Silva Vilas Boas"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Touch Market",
+                "natureza": "Outra",
+                "equipe": [
+                    "Wild Santos Barreto",
+                    "Iam Lucas De Andrade Medeiros"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "Projeto Cidades Inteligentes - Municípios",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Wild Santos Barreto",
+                    "Leandro Oliveira De Souza",
+                    "Jonatas Ferreira Bastos",
+                    "Jeime Nunes De Andrade",
+                    "Ronilson De Oliveira"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.316331148147583,
+            "indian": 1.0055874586105347,
+            "black": 0.2121284306049347,
+            "white": 59.973487854003906,
+            "middle eastern": 13.866682052612305,
+            "latino hispanic": 23.625776290893555
+        }
+    }
+}

@@ -1,0 +1,921 @@
+{
+    "campus": "- Campus Formiga",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "titulo": "Reconhecimento de padrão individual baseado no histórico de navegação em um Web Site",
+                "orientador": "Luiz Fernando Rust da Costa Carmo",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Médio e Técnico",
+                "instituicao": "UniAlphaville",
+                "orientador": "Sandro Takeshi Munakata da Silva",
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Projeto e Arquitetura de Cloud Computing",
+                "instituicao": "SOCIEDADE DE ENSINO SUPERIOR ESTACIO RIBEIRAO PRETO LTDA",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Centro Universitário do Sul de Minas",
+                "orientador": "Tomás Dias S'antana",
+                "ano_inicio": 2004,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Unifor-Centro Universitario de Formiga",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Núcleo de Tecnologia Educacional para a Saúde",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Analista de Sistema",
+                "vinculo": "Prestadora de serviço",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro de Pesquisas da Petrobras",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Pesquisadora",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Núcleo de Ensino Técnico",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Professora",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria de Educação Continuada, Alfabetização e Diversidade",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Professora",
+                "descricao": ""
+            },
+            {
+                "empresa": "Unifor-Centro Universitario de Formiga",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Professora",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade de Oliveira",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professora",
+                "vinculo": "Professora",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Presidencia da CPPD local - Campus Formiga",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Presidencia da CAD - Campus Formiga",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2020,
+                "ano_fim": 2022,
+                "funcao": "Coordenador do curso Técnico em informática",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "Membro do NDE",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Pesquisadora",
+                "vinculo": "Pesquisadora",
+                "descricao": "Pesquisadora do Grupo de Pesquisa CNPq, GSE (Grupo de Soluções em Engenharia)"
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Avaliador Ad hoc de projetos de pesquisa",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Parecerista Ad hoc da revista ForScience",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2014,
+                "ano_fim": 2019,
+                "funcao": "Coordenação de TCC",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Coordenação dos Cursos de Computação",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Presidente do Nucleo Docente Estruturante",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Presidente do Colegiado da Computação",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "Professora",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Núcleo de Computação Eletrônica",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Pesquisadora",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "MEC-FIES/PRONATEC",
+                "ano_inicio": 2012,
+                "ano_fim": 2015,
+                "funcao": "Avaliadora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "MEC-Bolsa Formação/PRONATEC",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Supervisora de cursos",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "CEAD-Curso EAD de Manutenção e Suporte em Informática",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Coordenadora Substituta",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "CEAD-Curso EAD de Manutenção e Suporte em Informática",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Professora",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "FORSCIENCE",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário de Formiga",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "professora",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Revista Interface Tecnológica - FATEC [1807-3980]",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Emprapii -Pólo de Inovação do campus Formiga",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Pesquisadora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": MEC-Bolsa Formação/PRONATEC\nInstituição/Empresa MEC-Bolsa Formação/PRONATEC - MG - Brasi (2013 - 2014) : Supervisão.",
+        "ensino": ": CEAD-Curso EAD de Manutenção e Suporte em Informática\nOutro (2010 - 2011) .\nExtensão Universitária: Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais: Curso De Extensão: Práticas Em Redes De Computadores (2009 - 2009) - Curso De Extensão: Práticas Em Redes De Computadores.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Proposta de infraestrutura para divulgação de conteúdo em campi via TVDI.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão Renafor: Atendimento Educacional Especializado (AEE): Excluindo diferenças e elevando a qualidade do ensino com o uso de tecnologias computacionais",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Carlos Bernardes Rosa Junior"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Segurança para Internet das Coisas - IoT",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Estudo das Redes Definidas por Software no contexto da Internet das Coisas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "GSE - Grupo de Soluções em Engenharia, do(a) Instituto Federal Minas Gerais.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Gustavo Lobato Campos",
+                    "Ana Paula Lima Santos",
+                    "Patrick Santos De Oliveira",
+                    "Mariana Santos Guimaraes"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Analise de métodos estatísticos para conjunto de dados em grande escala-Big Data",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Luzia Apardecida Costa"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto e desenvolvimento de sistema web para gerenciamento dos Trabalhos de Conclusão de Curso (TCC))",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Patrick Santos De Oliveira",
+                    "Nikollas Ferreira Gonçalves"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Prática em Redes de Computadores",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Harley Rios"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Operador de Computador e Softwares Utilitários",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Meliponicultura Cidadã",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Patrick Santos De Oliveira",
+                    "Ana Cardoso Clemente Filha Ferreira De Paula"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Aprimoramento de Ferramenta para Automatização da Auditoria de Conformidade com o CIS em Sistemas e Redes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Lucas Gontijo",
+                    "Kauan Eduardo Silveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Automatização da Coleta e Análise de Dados com Dashboard Interativo para Usina Solar Fotovoltaica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Heinrich Lincoln Teixeira Rodrigues",
+                    "Lucas De Miranda Martins",
+                    "Sofia Arantes Da Mata"
+                ],
+                "financiador": "Instituto Federal Minas Gerais,",
+                "ano_inicio": 2025,
+                "ano_fim": 2026
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Campo Digital-Campo Digital: Estratégias Digitais para Valorização de Produtos da Agricultura",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Carlos Bernardes Rosa Junior"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": 2026
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Jogos Educativos Digitais para Formento do Raciocínio Lógico",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": 2026
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Software R para análise estatística - FIC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Luzia Apardecida Costa"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Projeto de extensão: Fundamentos da Computação na Nuvem - FIC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Núcleo de Computação Eletrônica",
+                "nome": "Reconhecimentos de padroes de comportamento",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "financiador": "Núcleo de Computação Eletrônica,",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
+                "nome": "Análise do protocolo RPL orientada às redes IoT",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Arthur Augusto Ferreira Pope"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
+                "nome": "Projeto de extensão: IFmais Empreendedor",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Gustavo Lobato Campos",
+                    "Patrick Santos De Oliveira",
+                    "Lélis Pedro De Andrade"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
+                "nome": "Projeto de extensão: Liceu XP",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
+                "nome": "Projeto de extensão: Desenvolvimento de páginas web",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga",
+                "nome": "Projeto de extensão: Desvendando a Indústria 4.0",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Danielle Costa De Oliveira"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Emprapii -Pólo de Inovação do campus Formiga",
+                "nome": "Sistema Avançado de Gestão de Riscos Cibernéticos e Monitoramento",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Danielle Costa De Oliveira",
+                    "Tiago Simão Ferreira",
+                    "Fernando Gomes Braga",
+                    "Renato Machado De Godoy",
+                    "Saulo Henrique Cabral Silv"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "COSTA",
+                    "titulo": "D.,  Internet das Coisas (IoT)",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFMG."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "D.,  Luiz Fernando Rust da Costa Carmo,  Reconhecimento de padrões de comportamento individual baseado no histórico de navegação em um Web Site",
+                    "ano": "2007",
+                    "instituicao_promotora": "NCE/UFRJ."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "COSTA",
+                    "curso": "D.,  Simulação de redes de sensores usando o simulador COOJA",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "D.,  Introdução a IoT com projeto de controle de acesso por RFID",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "D.,  Fundamentos de computação na nuvem",
+                    "ano": "2019"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "COSTA",
+                    "evento": "D.,  XIII Jornada de Educação Ciência e Tecnologia do IFMG campus Formiga",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG-Campus Formiga."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "D.,  VII Jornada de Educação Ciência e Tecnologia do IFMG campus Formiga",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFMG."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Indústria 4.0: Internet das Coisas",
+                "ano": "2021",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786558761, Belo Horizonte (Publicado)."
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Programador Web em Tecnologias Front-end",
+                "ano": "2021",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9001046017, Belo Horizonte (Publicado)."
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Aprendendo HTML e CSS na prática",
+                "ano": "2018",
+                "informacoes_adicionais": "Impresso. ISBN: 9788557078284, Olinda (Publicado)."
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "MEDEIROS, F. O.;  OLIVEIRA, P. S.;  Engenharia 4.0: a era da produção inteligente. Título do capítulo: Engenharia 4.0: a era da produção inteligente",
+                "ano": "2020",
+                "informacoes_adicionais": "ISBN: 9786586707."
+            },
+            {
+                "autores": "OLIVEIRA, P. M.",
+                "titulo": "COSTA, D.;  LIMA, F. P.;  Proeja e Proeja-FIC no Intituto Federal de Minas Gerais: reflexões e experiências. Título do capítulo: Alfabetização digital no âmbito Proeja-FIC Campus Formiga",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9788586473135, Ouro Preto."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "COSTA, D.",
+                "titulo": "FERREIRA, K. L. C.;  OLIVEIRA, M. L. R.;  Redes Definidas por Software: Um estudo Sistêmico sobre as novas abordagens no contexto da IoT",
+                "ano": "2022",
+                "periodico": "Revista Científica Inovação e Tecnologia. ISBN: 21751846   ."
+            },
+            {
+                "autores": "PIRMEZ, Luci",
+                "titulo": "COSTA, D.;  Luiz Fernando Rust da Costa Carmo;  BACELLAR, L. F. H.;  Enhancing Levenshtein Distance algorithm for assessing Behavioral Trust",
+                "ano": "2011",
+                "periodico": "COMPUTER SYSTEMS SCIENCE AND ENGINEERING. ISBN: 02676192   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MARTINS, L. M.",
+                "titulo": "RODRIGUES, H",
+                "evento": "L. T.; MATA",
+                "local": "S. A.; OLIVEIRA, D. C.; Monitoramento de Geração de Energia Solar através de Dashboard Interativo no IFMG - Campus Formiga. V Planeta IFMG 2025, Ribeirão das Neves",
+                "ano": "2025"
+            },
+            {
+                "autores": "SOUZA, A. J.",
+                "titulo": "OLIVEIRA, P",
+                "evento": "S.; COSTA",
+                "local": "D.; SANTOS, M. G.; Proposição de novo enquadramento tarifário e análise de eficiência energética para serviço autônomo de água e esgoto. Congresso Tecnológico Brasileiro Água e Energia,",
+                "ano": "2021"
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "OLIVEIRA, P",
+                "evento": "S.; Ensino apoiado por canais online: Uma proposta para engajar alunos da área de Engehnaria Elétrica. XLIX-Congresso Barsileiro de Educação em Engenharia",
+                "local": "online",
+                "ano": "2021"
+            },
+            {
+                "autores": "SANTOS, G. O.",
+                "titulo": "COSTA, D",
+                "evento": "; Desenvolvimento de portal para intercamio de idiomas português/inglês. Jallae-Jornada Andinas de Literatura Latinoamericana de Estudantes",
+                "local": "Rio Branco",
+                "ano": "2020"
+            },
+            {
+                "autores": "MEDEIROS, F. O.",
+                "titulo": "COSTA, D",
+                "evento": "; Estudo sobre Benchmarks para Avaliação de Desempenhos Orientados a Nuvem. https://www.peteletricaufu.com/ceel/evento/artigos/",
+                "local": "Uberlândia",
+                "ano": "2020"
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "MEDEIROS, F",
+                "evento": "O.; OLIVEIRA",
+                "local": "P. S.; Método de Levantamento Bibliográfico para Revisão Sistematica da Literatura: uma abordagem no contexto da Industria 4.0. XLVII Congresso Brasileiro de Educação em Engenharia (COBENGE) e II Simpósio Internacional de Educação em Engenharia, Fortaleza-CE",
+                "ano": "2019"
+            },
+            {
+                "autores": "FERREIRA, K. L. C.",
+                "titulo": "COSTA, D",
+                "evento": "; Projeto e Desenvolvimento de um Protótipo Utilizando Light Fodelity (LI-FI). IX Jornada de Educação",
+                "local": "Ciência e Tecnologia (JECT) do IFMG ? Campus Formiga, Formiga",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, V. G.",
+                "titulo": "COSTA, D",
+                "evento": "; COSTA",
+                "local": "L. A.; Análise de métodos estatísticos para conjunto de dados em grande escala- BIG DATA. IX Jornada De Educação, Ciência E Tecnologia (JECT) Do IFMG ? Campus Formiga, Formiga",
+                "ano": "2019"
+            },
+            {
+                "autores": "Ferreira, B.",
+                "titulo": "Magela, Rodrigues; Moita, F",
+                "evento": "Gray; COSTA",
+                "local": "D.; Validação de processo de desenvolvimento de software por métricas de satisfação de Uso. SIMMEC-IX Simpósio de Mecânica Computacional, São João Del-Rei",
+                "ano": "2010"
+            },
+            {
+                "autores": "PEREIRA, Felipe S.",
+                "titulo": "COSTA, D",
+                "evento": "; Visão Geral das Tecnologias Envolvidas no Desenvolvimento de Aplicações Interativas para o Sistema Brasileiro de TV. II Semana de Ciência e Tecnologia",
+                "local": "Bambuí",
+                "ano": "2009"
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Luiz Fernando Rust da Costa Carmo; Reconhecimento de padrões de comportamento individual baseado no histórico de navegação em um Web Site",
+                "evento": "SBSEG-VII Simposio Brasileiro em Segurança da Informação e de Sistemas Computacionais",
+                "local": "Rio de Janeiro",
+                "ano": "2007"
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Ferreira, B",
+                "evento": "; Moura",
+                "local": "J.G.; Emulador para Web das camadas de Interface de Rede e Rede da arquitetura TCP/IP. II ERCCOMP, Formiga",
+                "ano": "2006"
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Emulador para web das camadas de Interface de rede e Rede da arquitetura TCP\\IP",
+                "evento": "II Mostra de Iniciação Científica do Unis-MG",
+                "local": "Varginha-MG",
+                "ano": "2004"
+            },
+            {
+                "autores": "COSTA, D.",
+                "titulo": "Especificação e Implementação de uma Ferramenta Distribuída para Edição e Animação de Textos Infantis na Web utilizando PLN",
+                "evento": "ERCOMP-Encontro regional de computação",
+                "local": "Formiga-MG",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Heinrich Lincoln Teixeira Rodrigues",
+                "titulo": "Automatização da Coleta e Análise de Dados com Dashboard Interativo para Usina Solar Fotovoltaica",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Lucas de Miranda Martins",
+                "titulo": "Automatização da Coleta e Análise de Dados com Dashboard Interativo para Usina Solar Fotovoltaica",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Sofia Arantes da Mata",
+                "titulo": "Automatização da Coleta e Análise de Dados com Dashboard Interativo para Usina Solar Fotovoltaica",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Lucas Gontijo",
+                "titulo": "Estágio, Embrapii-Polo de Inovação",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "André Carvalho",
+                "titulo": "Estágio, Embrapii-Polo de Inovação",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "Embrapii - Polo de Inovação do IFMG"
+            },
+            {
+                "orientando": "Tales Grechi",
+                "titulo": "Estudo Comparativo de Funções Hash para o Armazenamento de Senhas",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Elias Eduardo Silva Rodrigues",
+                "titulo": "Web crawler para pesquisa de preços de medicamentos farmacêuticos",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Eduarda Faria",
+                "titulo": "Projeto Integrador",
+                "ano": "2024",
+                "curso": "Tecnico em Infomática",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Lucas Antônio Nogueira Silva",
+                "titulo": "Estágio, Embrapii-Polo de Inovação",
+                "ano": "2024",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Sofia Arantes",
+                "titulo": "Projeto Integrador",
+                "ano": "2024",
+                "curso": "Tecnico em Infomática",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Saulo Cassiano de Carvalho",
+                "titulo": "Auditoria de segurança da informação em sistema web - estudo de caso",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Ana Paula Pacheco",
+                "titulo": "Análise de algoritmos para criptografia leve",
+                "ano": "2020",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Guilherme Olimpio dos Santos",
+                "titulo": "Estágio",
+                "ano": "2020",
+                "curso": "Tecnico em Infomática",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Fernanda Medeiros",
+                "titulo": "Análise de Benchmarks baseado nas métricas para Cloud Computing",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Minas Gerais- Campus Formiga"
+            },
+            {
+                "orientando": "Kimberly Lamounier",
+                "titulo": "Projeto e construção de protótipo usando a tecnologia Light Fidelity (Li-Fi)",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Nikollas Ferreira Gonçalves",
+                "titulo": "Projeto e Desenvolvimento de Sistema Web para Gerenciamento dos Trabalhos de Conclusão de Curso",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Giovanne Sainatto Torres",
+                "titulo": "Desenvolvimento de uma Infraestrutura para Análise Estatística em Big Data",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Pedro Henrique da Costa Alvesi",
+                "titulo": "Arquitetura adaptável para comunicação em nuvem para sistemas de telemetria",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Kimberly Lamounier Campos Ferreira",
+                "titulo": "Estudo das Redes Definidas por Software no Contexto da Internet das Coisas",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ana Paula Fernandes",
+                "titulo": "Protótipo de uma Aplicação para Definição de Escala na Área de Saúde",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Vanessa G",
+                "titulo": "Silva.  Análise de Métodos Estatísticos para Conjunto de Dados em Grande Escala - Big Data",
+                "ano": "2018",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Mateus Faria Calixto",
+                "titulo": "Estágio",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Suena Batista Galoneti",
+                "titulo": "Estágio",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Bruno de Oliveira Tomé",
+                "titulo": "Estágio",
+                "ano": "2014",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Ezequiel Antônio Barbosa",
+                "titulo": "Modelagem e desenvolvimento de um software de otimização no co-processamento de resíduos na indústria do cimento envolvendo custos, qualidade e impacto ambiental",
+                "ano": "2008",
+                "curso": "Ciência da Computação",
+                "instituicao": "Centro Universitário de Formiga"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.4144422709941864,
+            "indian": 2.369176149368286,
+            "black": 0.09734097123146057,
+            "white": 45.119712829589844,
+            "middle eastern": 22.030536651611328,
+            "latino hispanic": 29.968782424926758
+        }
+    }
+}

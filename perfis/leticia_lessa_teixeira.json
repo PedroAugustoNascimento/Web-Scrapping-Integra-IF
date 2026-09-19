@@ -1,0 +1,132 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2022",
+                "instituicao": "Universidade Federal da Bahia",
+                "orientador": "Marcela Silva Novo"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante MEng em Engenharia Eletrônica e da Computação",
+                "periodo": "2017 - 2018",
+                "instituicao": "Dublin City University",
+                "titulo": "An Object Detection CNN suitable for Embedded and Mobile Devices",
+                "orientador": "Kevin McGuinness"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "",
+                "periodo": "2023 - 2024",
+                "instituicao": "FACULDADE FOCUS",
+                "orientador": "s/o"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2011 - 2016",
+                "instituicao": "Universidade Federal da Bahia"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "periodo": "2021 - 2022",
+                "cargo": "Professora Substituta, Lecionei as disciplinas de Sistemas de Comunicação, Laboratório Integrado I, II e V do curso de Engenharia Elétrica.."
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "periodo": "2014 - 2015",
+                "cargo": "Coordenadora de Marketing do Onda Elétrica, Bolsista, Bolsa de Iniciação à Extensão pelo projeto Onda Elétrica - Ciência para a Comunidade, para o desenvolvido do protótipo de uma esteira industrial automatizada que conta objetos e caixas. Orientada pela professora Ana Isabela Araújo Cunha.."
+            },
+            {
+                "empresa": "Companhia de Processamento de Dados do Estado da Bahia",
+                "periodo": "2015 - 2016",
+                "cargo": "Estagiária, Bolsista, Auxiliei os engenheiros nos projetos elétricos e de climatização; realizei orçamentos de equipamentos e serviços; e acompanhei manutenções.."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2024",
+                "cargo": "Professor EBTT, Leciono as disciplinas de Sistemas Digitais e Robótica para o curso de Engenharia Mecatrônica e Eletrônica Digital para o Ensino Médio Integrado.."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2019 - 2021",
+                "cargo": "Professora Substituta, Lecionei as disciplinas de Eletrônica Analógica e Eletrônica Digital, ambas em módulos teóricos e práticos, para o ensino médio e técnico.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal da Bahia\nGraduacao (2023 - 2023) - Engenharia Elétrica.\nGraduacao (2022 - 2022) - Engenharia Elétrica.\nExtensão Universitária: Universidade Federal da Bahia\nUniversidade Federal da Bahia: Onda Elétrica (2023 - 2024) - Onda Elétrica.\nUniversidade Federal da Bahia: Onda Elétrica (2011 - 2016) - Onda Elétrica.\nExtensão Universitária: Instituto Federal da Bahia\nInstituto Federal da Bahia: Fórmula If (2024) - Fórmula If.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Onda Elétrica - Ciência para a Comunidade",
+                "periodo": "2011 - 2016",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Letícia Lessa Teixeira",
+                    "Isadora Lopes Queiroz",
+                    "Franklin Lima Santos",
+                    "Mateus Bulhões Nunes Souto",
+                    "Ana Isabela Araújo Cunha"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "TEIXEIRA",
+                    "evento": "L. L.,  MARTINEZ, L.,  OLIVEIRA, S. G. C.,  LUZ, L. J. T.,  SANTANA, E. P.,  XVII Jornada Interativa de Engenharia Elétrica",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Onda Elétrica."
+                },
+                {
+                    "autores": "CUNHA",
+                    "evento": "A. I. A.,  FÉ, N. G.,  CUNHA JUNIOR, A. O.,  TEIXEIRA, L. L.,  CAVALCANTE, A. A. S.,  FREITAS, R. Q.,  XI Jornada Interativa de Engenharia Elétrica",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Onda Elétrica."
+                },
+                {
+                    "autores": "CUNHA",
+                    "evento": "A. I. A.,  QUEIROZ, I. L.,  SOUTO, M. B. N.,  FÉ, N. G.,  TEIXEIRA, L. L.,  X Jornada Interativa de Engenharia Elétrica",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Onda Elétrica."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.9229812622070312,
+            "indian": 3.2186262607574463,
+            "black": 0.2146441787481308,
+            "white": 43.90557861328125,
+            "middle eastern": 25.372406005859375,
+            "latino hispanic": 26.365760803222656
+        }
+    }
+}

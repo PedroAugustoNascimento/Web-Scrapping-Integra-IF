@@ -72,11 +72,11 @@
             {
                 "empresa": "Instituto Federal do Amazonas - IFAM Campus Tabatinga",
                 "periodo": "2023",
-                "cargo": "Professor EBTT."
+                "cargo": "Professor EBTT, Servidor público."
             }
         ],
         "direcao_administracao": "",
-        "ensino": ": Centro Universitário do Norte\nGraduacao (2008 - 2008) - Tecnologo Em Desenvolvimento De Sistemas Web.\nGraduacao (2008 - 2008) - Bacharel Em Ciências Da Computação.",
+        "ensino": ": Centro Universitário do Norte\nGraduacao (2008 - 2008) - Bacharel Em Ciências Da Computação.\nGraduacao (2008 - 2008) - Tecnologo Em Desenvolvimento De Sistemas Web.",
         "comissoes": "",
         "projetos": [
             {
@@ -89,6 +89,22 @@
                     "Silvio Meira"
                 ],
                 "financiador": "Instituto Nacional de Ciências e tecnologia para Engenharia de Software,"
+            },
+            {
+                "instituicao": "Instituto Federal do Amazonas - IFAM Campus Tabatinga",
+                "nome": "Centro MAPATI de Inovação, Pesquisa e Desenvolvimento Sociobioeconomico do Alto Solimões",
+                "periodo": "2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Namedin Pereira Teles Junior",
+                    "Marxer Antônio Batista",
+                    "Moisés Alves Muniz",
+                    "Idelmar do Nascimento",
+                    "Cindy Alves Holanda",
+                    "Mário Júnior Anampa",
+                    "Isac Leda de Souza",
+                    "Fernando dos Santos"
+                ]
             }
         ]
     },
@@ -96,8 +112,8 @@
         "producao_tecnica": {
             "softwares": [
                 {
-                    "autor": "TELES JUNIOR",
-                    "software": "N. P.,  FARIAS, J.,  CARVALHO, A.,  RODRIGUES, F.,  PEREIRA, A.,  LIMA, D.,  MORIAS, L.,  LUCENA, R.,  FREITAS, R.,  FireScrum (Módulo Taskboard)",
+                    "autor": "CARVALHO",
+                    "software": "A.,  TELES JUNIOR, N. P.,  FARIAS, J.,  RODRIGUES, F.,  PEREIRA, A.,  LIMA, D.,  MORIAS, L.,  LUCENA, R.,  FREITAS, R.,  FireScrum (Módulo Taskboard)",
                     "ano": "2009",
                     "finalidade": "Ferramenta desenvolvida para auxiliar empresas no gerenciamento de projetos utilizando a metodologia ágil Scrum."
                 },
@@ -184,7 +200,15 @@
         ]
     },
     "producao_outra": {
-        "outras_orientacoes": []
+        "outras_orientacoes": [
+            {
+                "orientando": "Wandrelly Syndi Luana Angulo de Moraes Cavache",
+                "titulo": "OS DESAFIOS DA GESTÃO PÚBLICA NA IMPLEMENTAÇÃO DE POLÍTICAS SOCIAIS: UM ESTUDO SOBRE A EFICIÊNCIA DO BOLSA FAMÍLIA NO ESTADO DO AMAZONAS",
+                "ano": "2026",
+                "curso": "ESPECIALIZAÇÃO LATO SENSU EM GESTÃO PÚBLICA ESTRATÉGICA",
+                "instituicao": "Instituto Federal do Amazonas - IFAM Campus Tabatinga"
+            }
+        ]
     },
     "Cor/Raça": {
         "raca_original": "latino hispanic",

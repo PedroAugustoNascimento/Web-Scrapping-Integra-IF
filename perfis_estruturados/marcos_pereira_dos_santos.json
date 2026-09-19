@@ -1,0 +1,411 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Rede de computadores",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Carlos Eduardo Dutra",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2000,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Colégio Nossa Senhora de Fátima",
+                "ano_inicio": 2007,
+                "ano_fim": 2012,
+                "funcao": "Professor de Robótica Pedagógica",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Colégio Nossa Senhora de Fátima",
+                "ano_inicio": 2006,
+                "ano_fim": 2016,
+                "funcao": "Técnico de Suporte",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "UNITECH Tecnologia de Informação",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Técnico de Suporte",
+                "vinculo": "Celetista formal",
+                "descricao": "Contratado para o suporte da Telebahia Celular em Vitória da Conquista"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2013,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "Docente Efetivo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal da Bahia\nIFBA- Campus Brumado (2018) : Coordenador De Robótica.\nInstituto Federal de Educação, Ciência e Tecnologia da Bahia (2018): Sistema de Automação em Horta Escolar usando IoT,",
+        "ensino": "",
+        "comissoes": ": Instituto Federal da Bahia\nConsultor E Docente (2018).\nConsultor (2017 - 2017).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto Icactus - Sistema de Irrigação Autônomo e Inteligente",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Marcos Pereira Dos Santos",
+                    "Anderson Neves Dos Santos",
+                    "Romário Henrique Das Neves Santos"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC)",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Curso de robótica",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "A transversalidade da ciência, tecnologia e inovações para o planeta",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Pereira Dos Santos",
+                    "Viviane Nascimento Silva"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto Icactus - Sistema de Irrigação por Capilaridade",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "nome": "Icactus - Sistema de Irrigação Autônomo e Inteligente",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "nome": "1º Workshop de Informática: O mundo conectado",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "nome": "PESCO Projeto Estude Conosco / IFBA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Pereira Dos Santos",
+                    "Cinthia Batista Nunes"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "nome": "ZeusBits de Difusão e Popularização da Robótica",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "nome": "Programa Nacional de Acesso ao Ensino técnico e Emprego - PRONATEC",
+                "natureza": "Outra",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia Campus Brumado",
+                "nome": "Projeto Icactus - Sistema de Irrigação Autônomo e Inteligente",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Marcos Pereira Dos Santos"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SANTOS",
+                    "software": "M. P.,  Núcleo de Assessoramento Pedagógico (NAP) do Curso Técnico em Informática Subsequente",
+                    "ano": "2017",
+                    "finalidade": "Educacional."
+                },
+                {
+                    "autor": "SANTOS",
+                    "software": "M. P.,  Hybridus Sistema Web aplicado ao melhoramento genético por meio de hidridação",
+                    "ano": "2016",
+                    "finalidade": "Educacional."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTOS",
+                    "titulo": "M. P.,  As experiências com robótica pedagógica na rede federal",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFBA - Campus Brumado."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Interconexão entre redes virtuais",
+                    "ano": "2019"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Roteamento dinâmico em roteadores Cisco",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Minicurso - Robótica Pedagógica",
+                    "ano": "2017"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Configuração de Redes Virtuais",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Configuração avançada de switches Cisco",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Eletrônica Básica",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Introdução a robótica livre",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  I Curso de iniciação à Robótica Educacional",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "M. P.,  Curso de Linux",
+                    "ano": "2000"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SANTOS",
+                    "evento": "M. P.,  NUNES, C. B.,  SILVA, V. N.,  Semana Nacional de Ciência e Tecnologia SECITEC",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA Campus Brumado."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "M. P.,  Olimpíada Brasileira de Robótica - OBR 2012 Etapa Estadual Bahia",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "OBR e Colégio Nossa Senhora de Fátima."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "M. P.,  Olimpíada Brasileira de Robótica - OBR 2011 - Etapa Regional Bahia",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "OBR e Colégio Nossa Senhora de Fátima."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "M. P.,  III Olimpíada Brasileira de Robótica - OBR 2009 Etapa Regional Bahia",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "OBR e Colégio Nossa Senhora de Fátima."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "GOMES, A. G.;  SANTOS, C. F.;  SOUZA NETO, R. A.;  Sistema de Hidroponia Automatizado",
+                "ano": "2014",
+                "periodico": "Sistema de Hidroponia Automatizado. ISBN: 9788856X   ."
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "ARAUJO, V. H.;  GONCALVES, L. M. G.;  SANTOS, N. S.;  UMA EXPERIÊNCIA EDUCATIVA DE ROBÓTICA EM BAIRROS DE VULNERABILIDADE SOCIAL DE VITÓRIA DA CONQUISTA ? BAHIA",
+                "ano": "2013",
+                "periodico": "REVISTA EXTENSÃO & CIDADANIA. ISBN: 23190566   ."
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "ARAUJO, V. H.;  GONCALVES, L. M. G.;  SANTOS, N. S.;  UMA EXPERIÊNCIA EDUCATIVA DE ROBÓTICA EM BAIRROS DE VULNERABILIDADE SOCIAL DE VITÓRIA DA CONQUISTA ? BAHIA",
+                "ano": "2013",
+                "periodico": "REVISTA EXTENSÃO & CIDADANIA. ISBN: 23190566   ."
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "Amorin, Andrique Figueirêdo;  SANTOS, Igor;  Estação Meteorológica de baixo custo",
+                "ano": "2012",
+                "periodico": "Estação Metereológica de Baixo Custo. ISBN: 9788856X   ."
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "Amorin, Andrique Figueirêdo;  SANTOS, I. A. D.;  Robótica Educacional Aplicada às tradições do nordeste: jogos robotizados de quermesse junina",
+                "ano": "2011",
+                "periodico": "Robótica Educacional Aplicada às tradições do Nordeste: Jogos robotizadas de quermesse junina. ISBN: 9788854X   ."
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "Amorin, Andrique Figueirêdo;  SANTOS, I. A. D.;  Robótica Educacional: Desenvolvimento de um robô móvel de baixo custo",
+                "ano": "2011",
+                "periodico": "Robótica Educacional: Desenvolvimento de um robô móvel de baixo custo. ISBN: 9788854X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "SILVA, C",
+                "evento": "S.; Automação e Registro de Dados em abrigos escamoteadores para leitões: avaliando a eficiência energética. FEIRA BRASILEIRA DE CIÊNCIAS E ENGENHARIA",
+                "local": "São Paulo",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "Espantalho automatizado - Wilson",
+                "evento": "Febrace - Feira brasileira de ciências e engenharia",
+                "local": "São Paulo",
+                "ano": "2015"
+            },
+            {
+                "autores": "SANTOS, M. P.",
+                "titulo": "CASTRO, L",
+                "evento": "V. A.; CARVALHO",
+                "local": "M. E. Q.; Um robô na limpeza de ar condicionado. Feira Brasileira de Ciências e Engenharia - FEBRACE, São Paulo",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Marcos Pereira dos Santos",
+                "titulo": "TECNOLOGIA BLOCKCHAIN E A PERSPECTIVA DE IMPLEMENTAÇÃO EM INSTITUIÇÕES DE ENSINO",
+                "ano": "2022",
+                "curso": "Informática",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            },
+            {
+                "orientando": "EDISON DE SOUZA OLIVEIRA JUNIOR",
+                "titulo": "PERSISTÊNCIA DE DADOS RELACIONAIS EM APLICAÇÕES ORIENTADAS A OBJETOS: O PROBLEMA DA ABSTRAÇÃO OBJETO-RELACIONAL",
+                "ano": "2018",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "orientando": "Alex Barreto da Cruz",
+                "titulo": "Redes de computadores- Wireless",
+                "ano": "2016",
+                "curso": "Ciências da Computação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Juliano Nunes Souza",
+                "titulo": "Manutenção de hardware e redes afins",
+                "ano": "2016",
+                "curso": "Ciências da Computação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+            },
+            {
+                "orientando": "Lucas Viana Alves Castro",
+                "titulo": "Um robô na limpeza de ar-condicionados",
+                "ano": "2009",
+                "curso": "Ensino Médio",
+                "instituicao": "Colégio Nossa Senhora de Fátima"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 0.5007032155990601,
+            "indian": 14.75713062286377,
+            "black": 1.2562446594238281,
+            "white": 8.847442626953125,
+            "middle eastern": 53.2838020324707,
+            "latino hispanic": 21.35468101501465
+        }
+    }
+}

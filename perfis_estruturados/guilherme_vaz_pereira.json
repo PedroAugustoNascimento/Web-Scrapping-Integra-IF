@@ -1,0 +1,196 @@
+{
+    "campus": "- Campus Farroupilha",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "orientador": "Rafael Prikladnicki",
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Maria",
+                "titulo": "Abordagem Multicritérios para Adaptação de Processos Baseada em Situational Method Engineering",
+                "orientador": "Lisandra Manzoni Fontoura",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande",
+                "ano_inicio": 2004,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Programa Especial de Formação Pedagógica de Docentes",
+                "instituicao": "Claretiano Centro Universitário",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Farroupilha",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": "Atuação em curso Técnico em Informática"
+            },
+            {
+                "empresa": "Teracom Telemática",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Projetista de Desenvolvimento de Software",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": "Atuação em Curso Superior em Análise e Desenvolvimento de Sistemas e Curso Técnico em Informática para Internet"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "G. V.,  FONTOURA, L. M.,  An Approach to Risk Prevention Based on Situational Method Engineering",
+                    "ano": "2011",
+                    "instituicao_promotora": "International Association for Development of the Information Society (IADIS)."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "LORENZ, WAGNER GADÊA",
+                "titulo": "BRASIL, MIGUEL BAUERMANN;  FONTOURA, LISANDRA MANZONI;  VAZ PEREIRA, GUILHERME;  Activity-Based Software Process Lines Tailoring",
+                "ano": "2014",
+                "periodico": "International Journal of Software Engineering and Knowledge Engineering. ISBN: 02181940   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PEREIRA, GUILHERME VAZ",
+                "titulo": "Jackson, Victoria; Prikladnicki, Rafael; van der Hoek, André; Fortes, Luciane; ARAÚJO, CAROLINA; COELHO, ANDRÉ; CHELLI, LIGIA; RAMOS, DIEGO; Exploring GenAI in Software Development: Insights from a Case Study in a Large Brazilian Company",
+                "evento": "2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSESEIP)",
+                "local": "Ottawa",
+                "ano": "2025"
+            },
+            {
+                "autores": "PEREIRA, G. V.",
+                "titulo": "SEVERO, F",
+                "evento": "S.; FONTOURA",
+                "local": "L. M.; A Risk Management Approach Based on Situational Method Engineering. XV Ibero-American Conference on Software Engineering, Buenos Aires",
+                "ano": "2012"
+            },
+            {
+                "autores": "PEREIRA, G. V.",
+                "titulo": "FONTOURA, L",
+                "evento": "M.; Defining Agile and Planned Method Fragments for Situational Method Engineering. Simpósio Brasileiro de Sistemas de Inormação",
+                "local": "São Paulo",
+                "ano": "2012"
+            },
+            {
+                "autores": "BRASIL, M. A. B.",
+                "titulo": "PEREIRA, G",
+                "evento": "V.; FONTOURA",
+                "local": "L. M.; Adaptação de processos de software usando Situational Method Engineering com Base em Critérios de Melhoria de Qualidade. Conferencia Latinoamericana en Informática, Medellín",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Dâmaris Sbrizza",
+                "titulo": "Desenvolvimento de Aplicativo Móvel em Flutter Para Divulgação de Animais Achados e Perdidos",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Cristian da Rosa Nunes",
+                "titulo": "Implementação de módulo para cashback em sistema de ecommerce",
+                "ano": "2022",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Micael dos Santos",
+                "titulo": "DAX Helper: um sistema web vertical de monitoramento e gestão técnica para o ERP Microsoft Dynamics AX 2012",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Lucas Panisson Hoffmann",
+                "titulo": "Fluxo Fácil: um sistema para gestão do fluxo de caixa de pequenas e médias empresas",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Braian Erlindo Horn de Borba",
+                "titulo": "Software Mobile para Responsáveis de Alunos de uma Escola de Educação Infantil",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Eduardo Balbinot",
+                "titulo": "Locus Studio: uma ferramenta web para gerenciamento de rotas e pontos de interesse em ambientes indoor",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Vinícius Montenegro Silva",
+                "titulo": "Aplicação da Usabilidade de Software em uma Interface para a Modelagem Conceitual de Banco de Dados",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.499135971069336,
+            "indian": 5.418837070465088,
+            "black": 0.671737790107727,
+            "white": 32.107215881347656,
+            "middle eastern": 28.58412742614746,
+            "latino hispanic": 29.71894073486328
+        }
+    }
+}

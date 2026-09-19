@@ -45,7 +45,7 @@
                 "cargo": "Prof. Colaborador."
             }
         ],
-        "direcao_administracao": ": Instituto Federal de Santa Catarina\nCampus Joinville (2017 - 2020) : Coordenador Da Área Eletroeletrônica.\nCampus Joinville (2011 - 2013) : Chefe De Laboratório - Eletroeletrônica.\nUNIDADE JOINVILLE (2007 - 2008) : Coordenador De Relações Externas.\nCampus Joinville (2009): Indústria 4.0, Visão Computacional,",
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nCampus Joinville (2017 - 2020) : Coordenador Da Área Eletroeletrônica.\nCampus Joinville (2011 - 2013) : Chefe De Laboratório - Eletroeletrônica.\nUNIDADE JOINVILLE (2007 - 2008) : Coordenador De Relações Externas.\nCampus Joinville (2009): Visão Computacional, Indústria 4.0,",
         "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2019) - Engenharia Elétrica.\nGraduacao (2010) - Tecnologia Em Mecatrônica.\nEnsino-medio (2007) .",
         "comissoes": "",
         "projetos": [
@@ -183,16 +183,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Inclusão digital através de oficinas de programação utilizando uma plataforma lúdica",
-                "periodo": "2012 - 2012",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Stefano Romeu Zeplin",
-                    "Jessyka Senes"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Estudo da acessibilidade espacial de alunos do ensino profissionalizante aos laboratórios do campus Joinville",
                 "periodo": "2012 - 2013",
                 "natureza": "Pesquisa",
@@ -209,6 +199,16 @@
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Stefano Romeu Zeplin"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Inclusão digital através de oficinas de programação utilizando uma plataforma lúdica",
+                "periodo": "2012 - 2012",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Stefano Romeu Zeplin",
+                    "Jessyka Senes"
                 ]
             },
             {
@@ -472,8 +472,8 @@
                 "instituicao": "Sociedade Educacional de Santa Catarina"
             },
             {
-                "orientando": "LISCHKA, Robson F",
-                "titulo": ".  Modelamento cinemático e proposta de elaboração de algoritmos para o MINI-AGV II",
+                "orientando": "CARGNIN, Cleiton B",
+                "titulo": ".  Aplicação do protocolo Modbus para automação industrial",
                 "ano": "2004",
                 "curso": "Automação Industrial",
                 "instituicao": "Sociedade Educacional de Santa Catarina"
@@ -486,8 +486,8 @@
                 "instituicao": "Sociedade Educacional de Santa Catarina"
             },
             {
-                "orientando": "CARGNIN, Cleiton B",
-                "titulo": ".  Aplicação do protocolo Modbus para automação industrial",
+                "orientando": "LISCHKA, Robson F",
+                "titulo": ".  Modelamento cinemático e proposta de elaboração de algoritmos para o MINI-AGV II",
                 "ano": "2004",
                 "curso": "Automação Industrial",
                 "instituicao": "Sociedade Educacional de Santa Catarina"

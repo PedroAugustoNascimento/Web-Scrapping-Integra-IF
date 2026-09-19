@@ -1,0 +1,221 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Estudo Comparativo do Desempenho da Transferência de Dados nas Arquiteturas RINA e TCP/IP",
+                "orientador": "José Augusto Suruagy Monteiro",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA Profissional em Redes de Computadores",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Carlos Eduardo Dutra",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores e Telecomunicações",
+                "instituicao": "Universidade Salvador",
+                "orientador": "José Augusto Suruagy Monteiro",
+                "ano_inicio": 2010,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Informática",
+                "instituicao": "Universidade Católica do Salvador",
+                "ano_inicio": 2004,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Claretiano Centro Universitário",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "CPM BRAXIS",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Técnico de Infraestrutura de TI",
+                "vinculo": "Atividades realizadas no Centro de Processamento de Dados (NOC - Network Operation Center) com monitoramento e operação dos recursos de TIC da Universidade Federal da Bahia. Geração de dados estatísticos a partir das bases de dados existentes; Relatórios de disponibilidades de serviços hospedados na Universidade Federal da Bahia. Análise e comparação da qualidade dos serviços prestados; Controle dos níveis de serviços; Documentação dos procedimentos e instruções técnicas; Elaboração do Inventário de Hardware e Software ferramenta Colector; Avaliação do desempenho dos recursos de Tecnologia Informação e Comunicação; Execução dos processos de Gestão da configuração",
+                "descricao": "Gestão de problemas (Identificação e Análise), Gestão da disponibilidade, Gestão da capacidade, Gestão de níveis de serviços e de Gestão dos procedimentos e conhecimento da metodologia ITIL (Information Technology Infrastructure Library); Operação e monitoramento dos processos do software de backup IBM Tivoli Storage Manager;"
+            },
+            {
+                "empresa": "Universidade Federal de Pernambuco",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista da Fundação de Amparo Ciência e Tecnologia do Estado de Pernambuco - FACEPE. Atividades de pesquisas na linha de Redes de Computadores, especificamente, em Novas Arquiteturas de Redes de Computadores para Internet do Futuro"
+            },
+            {
+                "empresa": "Tribunal Regional Eleitoral da Bahia",
+                "ano_inicio": 2006,
+                "ano_fim": 2009,
+                "funcao": "Técnico Pleno de Infraestrutura de TI",
+                "vinculo": "Não informado",
+                "descricao": "Atuando pela empresa de tecnologia CTIS Tecnologia da Informação"
+            },
+            {
+                "empresa": "Tribunal Regional Eleitoral da Bahia",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Estágio",
+                "vinculo": "Estagiário",
+                "descricao": "Atividades realizadas no Departamento de Tecnologia da Informação, especificamente, Suporte a Usuários. Vínculo: Estágio"
+            },
+            {
+                "empresa": "Companhia de Processamento de Dados do Estado da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Analista de Infraestrutura de TI Pleno",
+                "vinculo": "Atividades realizadas no Departamento de Armazenamento de Dados e Recuperação de Desastres da Companhia de Processamento de Dados do Estado da Bahia (PRODEB). Experiências com soluções de backup Commvault",
+                "descricao": "HP Data Protector, NetBackup, TSM, ArcServe além de tecnologias de armazenamento de dados. Atividades de administração, operação e implementação no ambiente de Backup da PRODEB com mais de 400 servidores na rotina de backup e implementação das soluções online via San (Lanfree), Banco de Dados (Postgresql, Mysql e MSSQL), além de agentes online de virtualização utilizando a tecnologia VMWare"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": 2014,
+                "funcao": "Analista de Infraestrutura de TI",
+                "vinculo": "Atividades: - Responsável pelo projeto de reestruturação e otimização do ambiente de backup (80 servidores na rotina) da universidade utilizando as melhores práticas da IBM. - Participação do Projeto de Reestruturação da Rede SAN. - Reestruturação do Ambiente Backup da UFBA com ferramenta de gerenciamento de dados - Tivoli Storage Manager?TSM. Criação/Atualização Policy Sets",
+                "descricao": "CopyGroups, StoragePools, ActiveData. Implementação TSMManager. - Administração da rede SAN, incluindo Storages IBM (4500, 4700, 5020 e Storwize V7000), Switches FC - Brocade 300e e servidores Dell (1950, 2900, R610, R900 e R910); - Administração Servidores Aplicativos ? JBOSS ? TOMCAT ? APACHE. Ambiente de desenvolvimento e produção TODOS com plataformas GNU Linux Debian (Etch, Lenny e Squezze). - Responsável pela Instalação, administração, configuração e suporte de servidores na plataforma Microsoft, assim como os serviços de Active Directory, DNS, DHCP (60 escopos diferentes), RRAS, Terminal Server (200 usuários), VPN, GPO, IIS, WSUS, FTP, Print Server, File Server e clusters NLB. - Responsável pela Instalação, administração, configuração e suporte de servidores na plataforma GNU Linux / Debian, que hospedam os serviços web (FTP, Jboss, Tomcat e Apache2). - Responsável pelo monitoramento e gerenciamento dos servidores nas plataformas Wind. Server 2003 e GNU Linux/ Debian através do sistema Zabbix. - Responsável pelo ambiente do TSM ? Tivoli Storage Manager (TSM Server). Implementado as rotinas de arquivamento automático, Storagepools de cópias, processos de reclamations (otimização dos volumes dos dados), Backup DB2 v9.5, deduplicação de dados e implementação da expansão dos storagepools no ambiente. - Responsável pela administração e implementação de melhorias das bibliotecas de fitas Quantum i500 e TandberData T40. - Criação, configuração e administração de máquinas virtuais utilizando VMWare Vsphere . Configuração Processos VMotion (Host e Datastores)"
+            },
+            {
+                "empresa": "Fundação de Apoio à Pesquisa e Extensão",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Analista de Tecnologia",
+                "vinculo": "Não informado",
+                "descricao": "Responsável pela administração da infraestrutura de servidores da Superintendência de Tecnologia da Informação da Universidade Federal da Bahia (UFBA-STI). Focado no suporte de servidores de aplicações e na qualidade dos serviços web. Administração da rede SAN (Storage Area Network). Home Page: https://sti.ufba.br/"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (2018) .\nGraduacao (2018) - Computação.",
+        "comissoes": ": Instituto Federal da Bahia\nMembro Da Comissão De Horários (2020 - 2020).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Pernambuco",
+                "nome": "Novas Arquiteturas de Redes de Computadores",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Djalma Almeida Lima Filho",
+                    "Jose Augusto Suruagy Monteiro"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LIMA FILHO",
+                    "titulo": "D.A,  Avaliação experimental de uma arquitetura de rede recursiva direcionada para Internet do Futuro",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Estadual de Santa Cruz (UESC).."
+                },
+                {
+                    "autores": "LIMA FILHO",
+                    "titulo": "D.A,  MONTEIRO, J. A. S.,  Estudo comparativo do desempenho da transfere&#770;ncia de dados nas arquiteturas de redes RINA e TCP-IP",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade Presbiteriana Mackenzie Campus Higienópolis."
+                },
+                {
+                    "autores": "LIMA FILHO",
+                    "titulo": "D.A,  MONTEIRO, J. A. S.,  Investigação do protótipo IRATI usando testbed FIBRE.",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade Presbiteriana Mackenzie Campus Higienópolis."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "LIMA FILHO",
+                    "evento": "D.A,  XI Jornada Científica e Tecnológica do Oeste Baiano (JCTOB)",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "LIMA FILHO",
+                    "evento": "D.A,  Jogos internos do IFBA - Campus Barreiras",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Giovanna Maria Souza",
+                "titulo": "LIMA FILHO, D",
+                "evento": "A; GAME EDUCACIONAL PARA AJUDAR CRIANÇAS COM DISLEXIA NO APRENDIZADO DAS LETRAS NO IDIOMA INGLÊS. VI Congresso Baiano de Educação Inclusiva e IV Simpósio Brasileiro de Educação Especial",
+                "local": "Salvador",
+                "ano": "2021"
+            },
+            {
+                "autores": "LIMA FILHO, D.A",
+                "titulo": "Avaliação experimental de uma arquitetura de rede recursiva direcionada para Internet do Futuro",
+                "evento": "XIX Escola Regional de Computação Bahia",
+                "local": "Alagoas e Sergipe, Ilhéus-Bahia",
+                "ano": "2019"
+            },
+            {
+                "autores": "LIMA FILHO, D.A",
+                "titulo": "MONTEIRO, J",
+                "evento": "A. S.; Estudo comparativo do desempenho da transferência de dados nas arquiteturas RINA e TCP/IP. Workshop em Desempenho de Sistemas Computacionais e de Comunicação (16º WPerformance)",
+                "local": "São Paulo",
+                "ano": "2017"
+            },
+            {
+                "autores": "LIMA FILHO, D.A",
+                "titulo": "MONTEIRO, J",
+                "evento": "A. S.; Investigação do protótipo IRATI usando testbed FIBRE. 2º Workshop do testbed FIBRE (Future Internet Brazilian Environment for Experimentation)",
+                "local": "São Paulo",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 7.507803440093994,
+            "indian": 16.59695816040039,
+            "black": 9.24793529510498,
+            "white": 13.402271270751953,
+            "middle eastern": 14.256522178649902,
+            "latino hispanic": 38.98850631713867
+        }
+    }
+}

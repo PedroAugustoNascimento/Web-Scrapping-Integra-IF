@@ -1,0 +1,113 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Tecnologias e Educação Aberta e Digital",
+                "periodo": "2024 - 2025",
+                "instituicao": "Universidade Federal do Recôncavo da Bahia",
+                "orientador": "Claudiano Carneiro da Cruz Neto"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Segurança da Informação",
+                "periodo": "2025 - 2025"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Orientador",
+                "periodo": "a",
+                "orientador": "-"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Computação",
+                "periodo": "2017 - 2023",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "periodo": "2014 - 2017",
+                "instituicao": "Universidade Norte do Paraná"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2023 - 2025",
+                "cargo": "Professor Substituto, Professor Substituto."
+            },
+            {
+                "empresa": "IBM BRASIL IND.MAQ. E SERVICOS LTDA",
+                "periodo": "2017 - 2023",
+                "cargo": "Funcionario, Tecnico em Manutenção 1."
+            },
+            {
+                "empresa": "Brazil Iron Mineradora LTDA",
+                "periodo": "2025",
+                "cargo": "Analista de TI JR, CLT."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUZA",
+                    "evento": "J. N.,  Olimpíada Brasileira de Informática (OBI2024)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "J. N.,  Semana Nacional de Ciência e Tecnologia do IFBA Campus Seabra.",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SOUZA, J. N.",
+                "titulo": "RIBEIRO, I. C. S.;  Um estudo de caso sobre inclusão digital: a importância do uso da tecnologia como ferramenta pedagógica no Centro Educacional De Seabra (CES)",
+                "ano": "2024",
+                "periodico": "REVISTA EDUCAÇÃO PÚBLICA (RIO DE JANEIRO). ISBN: 19846290   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.48374077677726746,
+            "indian": 1.7066881656646729,
+            "black": 0.1668464094400406,
+            "white": 53.46419906616211,
+            "middle eastern": 28.331613540649414,
+            "latino hispanic": 15.846917152404785
+        }
+    }
+}

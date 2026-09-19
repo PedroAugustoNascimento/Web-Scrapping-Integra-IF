@@ -20,17 +20,17 @@
             },
             {
                 "nivel": "Especialização",
-                "curso": "Docência para a Educação Profissional e Tecnológica",
-                "periodo": "2021 - 2022",
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
-                "orientador": "Ana Maria Gonçalves Duarte Mendonça"
-            },
-            {
-                "nivel": "Especialização",
                 "curso": "Sistemas de Informação",
                 "periodo": "2021 - 2021",
                 "instituicao": "União Brasileira de Faculdades",
                 "orientador": "Carlos Hoegen"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para a Educação Profissional e Tecnológica",
+                "periodo": "2021 - 2022",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
+                "orientador": "Ana Maria Gonçalves Duarte Mendonça"
             },
             {
                 "nivel": "Graduação",
@@ -139,23 +139,23 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
-                "nome": "Análise dos efeitos degradantes em uma RSSF ZigBee a partir de modelos de propagação aplicados ao monitoramento de Áreas de Proteção Ambiental",
+                "nome": "Estudo sobre o Consumo de Energia em Redes Sensores Sem Fio (RSSF)",
                 "periodo": "2014 - 2015",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "José Anderson Rodrigues de Souza",
-                    "Saulo Aislan da Silva Eleuterio",
                     "Teles de Sales Bezerra",
                     "Jerônimo Silva Rocha"
                 ]
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
-                "nome": "Estudo sobre o Consumo de Energia em Redes Sensores Sem Fio (RSSF)",
+                "nome": "Análise dos efeitos degradantes em uma RSSF ZigBee a partir de modelos de propagação aplicados ao monitoramento de Áreas de Proteção Ambiental",
                 "periodo": "2014 - 2015",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "José Anderson Rodrigues de Souza",
+                    "Saulo Aislan da Silva Eleuterio",
                     "Teles de Sales Bezerra",
                     "Jerônimo Silva Rocha"
                 ]
@@ -174,17 +174,16 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
-                "nome": "Feirantes conectados na prevenção do COVID-19",
+                "nome": "QUIZVID-Teste o seu conhecimento no combate ao coronavírus",
                 "periodo": "2020 - 2020",
                 "natureza": "Extensao",
                 "equipe": [
                     "José Anderson Rodrigues de Souza",
                     "Giulliana Karla Lacerda Pereira de Queiroz",
-                    "Leonardo Nascimento dos Santos",
-                    "José Lucas Tavares da Silva",
-                    "Vitória Marculino dos Santos",
-                    "Kássia Dayana Rodrigues da Costa",
-                    "Júlio César Bezerra Vilar da Silva"
+                    "Júlio César Vilar da Silva",
+                    "Frederico Campos Pereira",
+                    "Amerson Felix dos Santos",
+                    "Eliane do Nascimento Silva"
                 ]
             },
             {
@@ -225,20 +224,6 @@
                     "Lucyana Xavier de Azevedo",
                     "Alane de Souza Monteiro",
                     "Adalberto Francisco Monteiro Filho"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
-                "nome": "QUIZVID-Teste o seu conhecimento no combate ao coronavírus",
-                "periodo": "2020 - 2020",
-                "natureza": "Extensao",
-                "equipe": [
-                    "José Anderson Rodrigues de Souza",
-                    "Giulliana Karla Lacerda Pereira de Queiroz",
-                    "Júlio César Vilar da Silva",
-                    "Frederico Campos Pereira",
-                    "Amerson Felix dos Santos",
-                    "Eliane do Nascimento Silva"
                 ]
             },
             {
@@ -289,12 +274,27 @@
                 "periodo": "2020 - 2020",
                 "natureza": "Extensao",
                 "equipe": [
+                    "Edlamar Costa",
                     "José Anderson Rodrigues de Souza",
                     "Teles de Sales Bezerra",
                     "Lucyana Xavier de Azevedo",
                     "Júlio César Bezerra Vilar da Silva",
-                    "Jessica Carla Jordão Basilio",
-                    "Edlamar Costa"
+                    "Jessica Carla Jordão Basilio"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
+                "nome": "Feirantes conectados na prevenção do COVID-19",
+                "periodo": "2020 - 2020",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Vitória Marculino dos Santos",
+                    "José Anderson Rodrigues de Souza",
+                    "Giulliana Karla Lacerda Pereira de Queiroz",
+                    "Leonardo Nascimento dos Santos",
+                    "José Lucas Tavares da Silva",
+                    "Kássia Dayana Rodrigues da Costa",
+                    "Júlio César Bezerra Vilar da Silva"
                 ]
             },
             {
@@ -363,8 +363,8 @@
                 "periodo": "2025",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Luiz Gustavo Dias",
                     "José Anderson Rodrigues de Souza",
+                    "Luiz Gustavo Dias",
                     "Moizes de Jesus Sousa"
                 ]
             },

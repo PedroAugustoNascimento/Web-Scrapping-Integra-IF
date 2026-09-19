@@ -60,13 +60,18 @@
             },
             {
                 "empresa": "Instituto Federal Sul-Rio-Grandense",
+                "periodo": "2026",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal Sul-Rio-Grandense",
                 "periodo": "2017 - 2019",
-                "cargo": "professor, Professor Substituto."
+                "cargo": "Professor EBTT, Professor Substituto."
             },
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "periodo": "2020",
-                "cargo": "Professor efetivo."
+                "periodo": "2020 - 2026",
+                "cargo": "Professor efetivo, Servidor público."
             }
         ],
         "direcao_administracao": "",
@@ -105,14 +110,22 @@
                 ]
             },
             {
+                "instituicao": "Instituto Federal Sul-Rio-Grandense",
+                "nome": "Projeto Posniak",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Diego Pedro Gonçalves da Silva"
+                ]
+            },
+            {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Por que o leste europeu e a China? Uma análise de dados sobre os motivos que resultam no alto desempenho do leste europeu e da China em competições científicas de matemática e informática.",
+                "nome": "Projeto Posniak",
                 "periodo": "2024",
-                "natureza": "Pesquisa",
+                "natureza": "Outra",
                 "equipe": [
                     "Diego Pedro Gonçalves da Silva",
-                    "Raimundo Nonato Vieira de Oliveira",
-                    "Matheus Henrique Vieira Ramos Nobre"
+                    "Raimundo Nonato Vieira de Oliveira"
                 ]
             },
             {
@@ -136,12 +149,13 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Projeto Posniak",
+                "nome": "Por que o leste europeu e a China? Uma análise de dados sobre os motivos que resultam no alto desempenho do leste europeu e da China em competições científicas de matemática e informática.",
                 "periodo": "2024",
-                "natureza": "Outra",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "Diego Pedro Gonçalves da Silva",
-                    "Raimundo Nonato Vieira de Oliveira"
+                    "Raimundo Nonato Vieira de Oliveira",
+                    "Matheus Henrique Vieira Ramos Nobre"
                 ]
             },
             {
@@ -158,7 +172,7 @@
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Projeto Posniak",
-                "periodo": "2025",
+                "periodo": "2024 - 2026",
                 "natureza": "Extensao",
                 "equipe": [
                     "Diego Pedro Gonçalves da Silva",
@@ -233,6 +247,13 @@
                 }
             ],
             "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "D. P. G.,  1º Olimpíada Paritinense de Informática",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM - Campus Parintins."
+                },
                 {
                     "autores": ", R. L. S.",
                     "evento": "SILVA, D. P. G.,  OROZCO, A. M. S.,  OLIVEIRA, R. R.,  IFCODE - Vacaria",

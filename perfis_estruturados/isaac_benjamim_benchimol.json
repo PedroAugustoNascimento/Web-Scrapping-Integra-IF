@@ -1,0 +1,388 @@
+{
+    "campus": "- Campus Manaus Distrito",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Pernambuco",
+                "titulo": "Módulo de Treliça Mínimo para Códigos Convolucionais",
+                "orientador": "Cecilio José Lins Pimentel",
+                "ano_inicio": 2008,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Ferramentas de Desenvolvimento para Microcomputadores Dedicados Baseados em Processadores 80386/80486",
+                "orientador": "Rogério Cid Bastos",
+                "ano_inicio": 1993,
+                "ano_fim": 1995
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Automação Industrial",
+                "instituicao": "Universidade Federal da Paraíba",
+                "ano_inicio": 1990,
+                "ano_fim": 1991
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Amazonas",
+                "ano_inicio": 1985,
+                "ano_fim": 1990
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 1997,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Centro de Análise Pesquisa e Inovação Tecnológica",
+                "ano_inicio": 1989,
+                "ano_fim": 1992,
+                "funcao": "Engenheiro",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Vale do Itajaí",
+                "ano_inicio": 1994,
+                "ano_fim": 2001,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Amazonas",
+                "ano_inicio": 1996,
+                "ano_fim": 1996,
+                "funcao": "Professor",
+                "vinculo": "Serviços prestados",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto de Tecnologia da Amazônia",
+                "ano_inicio": 2001,
+                "ano_fim": 2004,
+                "funcao": "Professor",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Dados Representações e Sistemas",
+                "ano_inicio": 1992,
+                "ano_fim": 1996,
+                "funcao": "Engenheiro de Suporte",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo a Pesquisa do Estado do Amazonas",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de comitê assessor"
+            }
+        ],
+        "direcao_administracao": ": Dados Representações e Sistemas\nLaboratório Montagem/Manutenção (1992 - 1996) : Coordendor Laboratório Montagem/manutrenção.\nPesquisa e Desenvolvimento\nUnidade de Ensino Descentralizada (2005): Sistemas Embarcados,\nDiretoria Executiva (1989 - 1992): Sistemas Microprocessados, Eletrônica Digital, Dispositivos de Segurança,",
+        "ensino": ": Instituto de Tecnologia da Amazônia\nGraduacao (2001 - 2004) - Engenharia Da Computação.\nTreinamento Ministrado: Dados Representações e Sistemas\nSetor Comercial (1992 - 1996) - Setor Comercial - Engenheiro de Suporte.",
+        "comissoes": ": Centro Federal de Educação Tecnológica do Amazonas\nMembro Do Colegiado Do Curso De Tecnologia Em Desenvolvimento De Software (2006).\nMembro Do Comitê De Informática Do Cefet-am (2004).",
+        "projetos": [
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica do Amazonas",
+                "nome": "Laboratório de Convergência Digital e Computação Pervasiva",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Isaac Benjamim Benchimol",
+                    "Dr. - Ing. Vicente Ferreira Lucena",
+                    "José Pinheiro",
+                    "Jucimar De Souza Brito"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2007,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica do Amazonas",
+                "nome": "Laboratório de excelência em P&D utilizando tecnologia J2ME",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Isaac Benjamim Benchimol",
+                    "Dr. - Ing. Vicente Ferreira Lucena",
+                    "José Pinheiro"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica do Amazonas",
+                "nome": "Definição de uma Arquitetura de Componentes de Software Otimizada para o Desenvolvimento de Programas para Sistemas Embarcados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Isaac Benjamim Benchimol",
+                    "Dr. - Ing. Vicente Ferreira Lucena",
+                    "André Luiz Duarte Cavalcanti",
+                    "Paulo Cézar Stadzisz",
+                    "Angelo Perkusich",
+                    "Carlos Eduardo Pereira",
+                    "Enio Alterman Blay"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2005,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "MOB_IFAM - Programa de mobilidade para cooperação e desenvolvimento de pesquisas na área de Tecnologia da Informação e Engenharia Eletrônica",
+                "natureza": "Outra",
+                "equipe": [
+                    "Isaac Benjamim Benchimol",
+                    "Jucimar De Souza Brito",
+                    "José Pinheiro Queiroz Neto",
+                    "Ana Célia Bandão De Farias Said"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Latin-America Practices and Soft Skills for an Innovation Oriented Network - LAPASSION",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jucimar De Souza Brito",
+                    "Isaac Benjamim Benchimol",
+                    "José Pinheiro Queiroz Neto",
+                    "Flávio José Aguiar Soares",
+                    "Gilibert Breves Martins",
+                    "Carlos Ramos"
+                ],
+                "financiador": "Erasmus Plus,",
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Sistema Integrado de Coleta Automatizada de Programas Maliciosos: E-CACURI",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Isaac Benjamim Benchimol",
+                    "Gilibert Breves Martins",
+                    "Priscila Silva Fernandes",
+                    "Vitor Bremgartner Da Frota",
+                    "Eduardo James Pereira Souto",
+                    "Alyson De Jesus Dos Santos"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "MOB_IFAM: Programa de mobilidade para cooperação e desenvolvimento de pesquisas na área de tecnologia da informação e engenharia eletrônica.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Isaac Benjamim Benchimol",
+                    "Jucimar De Souza Brito",
+                    "José Pinheiro Queiroz Neto",
+                    "Ana Célia Bandão De Farias Said"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BENCHIMOL",
+                    "titulo": "ISAAC,  Smart Devices",
+                    "ano": "2025",
+                    "instituicao_promotora": "Ocean Manaus."
+                },
+                {
+                    "autores": "BENCHIMOL",
+                    "titulo": "ISAAC,  IA em Dispositivos Móveis Experience - A Revolução dos Smartwatches",
+                    "ano": "2024",
+                    "instituicao_promotora": "Ocean Manaus."
+                },
+                {
+                    "autores": "BENCHIMOL",
+                    "titulo": "ISAAC,  Wearables - Saúde Conectada",
+                    "ano": "2023",
+                    "instituicao_promotora": "Ocean Manaus."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "BENCHIMOL, ISAAC",
+                "titulo": "PIMENTEL, CECILIO;  SOUZA, RICHARD DEMO;  Low complexity trellis representations of convolutional codes via sectionalization of the minimal trellis",
+                "ano": "2015",
+                "periodico": "Telecommunications Systems. ISBN: 10184864   ."
+            },
+            {
+                "autores": "BENCHIMOL, ISAAC B",
+                "titulo": "PIMENTEL, CECILIO;  SOUZA, RICHARD DEMO;  UCHÔA-FILHO, BARTOLOMEU F;  A new computational decoding complexity measure of convolutional codes",
+                "ano": "2014",
+                "periodico": "EURASIP Journal on Advances in Signal Processing (Online). ISBN: 16876180   ."
+            },
+            {
+                "autores": "MORITZ, GUILHERME LUIZ",
+                "titulo": "SOUZA, RICHARD DEMO;  PIMENTEL, CECILIO;  PELLENZ, MARCELO EDUARDO;  UCHOA-FILHO, BARTOLOMEU F.;  BENCHIMOL, ISAAC;  Turbo Decoding Using the Sectionalized Minimal Trellis of the Constituent Code: Performance-Complexity Trade-Off",
+                "ano": "2013",
+                "periodico": "IEEE Transactions on Communications (Print). ISBN: 00906778   ."
+            },
+            {
+                "autores": "BENCHIMOL, ISAAC",
+                "titulo": "PIMENTEL, CECILIO;  SOUZA, RICHARD D;  UCHOA-FILHO, BARTOLOMEU F;  High-rate systematic recursive convolutional encoders: minimal trellis and code search",
+                "ano": "2012",
+                "periodico": "EURASIP Journal on Advances in Signal Processing (Online). ISBN: 16876180   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "NEPOMUCENO, F. G.",
+                "titulo": "BENCHIMOL, I",
+                "evento": "B.; PERES NETO",
+                "local": "A. A.; Análise de complexidade de códigos convolucionais baseados em algoritmos subótimos. XII Congresso Norte-Nordeste de Pesquisa e Inovação (Connepi), Recife-PE",
+                "ano": "2018"
+            },
+            {
+                "autores": "PERES NETO, A. A.",
+                "titulo": "MARTINS, L",
+                "evento": "F. P. M.; BENCHIMOL",
+                "local": "I.; SALES, D. C.; Decodificação de códigos convolucionais em plataforma FPGA baseada nas treliças convencional e mínima. X CONNEPI (Congresso Norte Nordeste de Pesquisa e Inovação), Rio Branco-AC",
+                "ano": "2015"
+            },
+            {
+                "autores": "BENCHIMOL, I.",
+                "titulo": "PIMENTEL, C",
+                "evento": "; SOUZA",
+                "local": "R. D.; Análise de Complexidade do Módulo de Treliça Seccionado de Códigos Convolucionais. XXX Simpósio Brasileiro de Telecomunicações, Brasília",
+                "ano": "2012"
+            },
+            {
+                "autores": "PELLENZ, Marcelo E.",
+                "titulo": "MORITZ, Guilherme L",
+                "evento": "; SOUZA",
+                "local": "R. D.; BENCHIMOL, I.; PIMENTEL, C.; Análise de Desempenho e Complexidade da Decodificação Turbo Utilizando a Treliça Mínima Seccionada. XXX Simpósio Brasileiro de Telecomunicações, Brasília",
+                "ano": "2012"
+            },
+            {
+                "autores": "BENCHIMOL, I.",
+                "titulo": "PIMENTEL, C",
+                "evento": "; SOUZA",
+                "local": "R. D.; UCHÔA FILHO, B. F.; Complexidade Computacional de Módulos de Treliça de Códigos Convolucionais. XXIX Simpósio Brasileiro de Telecomunicações, Curitiba",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Guilherme de Souza Sampaio",
+                "titulo": "Desenvolvimento de um kit didático usando FPGA para estudo de arquitetura de microprocessadores x86.",
+                "ano": "2020",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "IFAM ? CAMPUS MANAUS DISTRITO INDUSTRIAL"
+            },
+            {
+                "orientando": "Fábson Gomes Nepomuceno",
+                "titulo": "Análise de complexidade de códigos convolucionais baseados em algoritmos subotimos",
+                "ano": "2018",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Bruno da Costa Priantti",
+                "titulo": "Desenvolvimento de um emulador para o microprocessador 8086/8088 como ferramenta de ensino",
+                "ano": "2017",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Caio de Oliveira Freire",
+                "titulo": "Complexidades teórica e prática da decodificação de códigos covolucionais implementados no DSP TMS320C6748",
+                "ano": "2015",
+                "curso": "Sistemas de Telecomunicações",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Simone Sara Gomes de Macêdo Teixeira",
+                "titulo": "O espaço físico de uma escola infantil: um olhar da Gestão para a Acessibilidade",
+                "ano": "2015",
+                "curso": "Gestão Pública/Universidade Aberta do Brasil",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Leonardo Ferreira Pacheco Malta Martins",
+                "titulo": "Decodificação de códigos convolucionais baseada na treliça mínima implementada em FPGA",
+                "ano": "2014",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Álvaro de Azevedo Peres Neto",
+                "titulo": "Decodificação de códigos convolucionais baseada na treliça convencional implementada em plataforma FPGA",
+                "ano": "2014",
+                "curso": "Engenharia de Controle e Automação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Gabriel Bezerra de Menezes Armelin",
+                "titulo": "Implementação de um Servidor de Caixa-postal para o Sistema Operacional XINU",
+                "ano": "2008",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Milton Lima",
+                "titulo": "Controle Automático de Acesso a Ambientes",
+                "ano": "2006",
+                "curso": "Tecnologia em Desenvolvimento de Software",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.8635829949053004e-05,
+            "indian": 2.1534349798457697e-05,
+            "black": 6.548248165927362e-08,
+            "white": 99.83351135253906,
+            "middle eastern": 0.12424783408641815,
+            "latino hispanic": 0.04218515753746033
+        }
+    }
+}

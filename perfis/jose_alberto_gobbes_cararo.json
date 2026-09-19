@@ -114,20 +114,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
-                "nome": "Projeto e construção de bancada didática para o acionamento de motores elétricos",
-                "periodo": "2019 - 2021",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "José Alberto Gobbes Cararo",
-                    "EDUARDA LORENA CAMELO VIEIRA",
-                    "PEDRO HENRIQUE DUARTE MATOS",
-                    "SAMARA HELENA DA SILVA",
-                    "PATRICK FERREIRA DA SILVA",
-                    "Larissa Rezende Assis Ribeiro"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
                 "nome": "Curso FIC: Eletricista Predial",
                 "periodo": "2019 - 2019",
                 "natureza": "Extensao",
@@ -139,6 +125,20 @@
                     "Ivo José de Oliveira",
                     "Larissa Marques Peres",
                     "Alisson Lima Silva"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+                "nome": "Projeto e construção de bancada didática para o acionamento de motores elétricos",
+                "periodo": "2019 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "José Alberto Gobbes Cararo",
+                    "EDUARDA LORENA CAMELO VIEIRA",
+                    "PEDRO HENRIQUE DUARTE MATOS",
+                    "SAMARA HELENA DA SILVA",
+                    "PATRICK FERREIRA DA SILVA",
+                    "Larissa Rezende Assis Ribeiro"
                 ]
             },
             {
@@ -161,19 +161,25 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
-                "nome": "Dispositivo robótico autônomo para delivery.",
-                "periodo": "2020 - 2021",
-                "natureza": "Pesquisa",
+                "nome": "Projeto de P&D e Desenvolvimento Institucional com Implantação de curso de Especialista Técnico em Eficiência Energética",
+                "periodo": "2019",
+                "natureza": "Extensao",
                 "equipe": [
                     "José Alberto Gobbes Cararo",
-                    "José Antônio Maria de Rezende Silva",
-                    "Geovanne Pereira Furriel"
-                ]
+                    "Cleber A. Ganzaroli",
+                    "Geovanne Pereira Furriel",
+                    "Robert de Souza Bonuti",
+                    "Jeanisson Cesar Mariano Silva",
+                    "Vinicius Otto de Aguiar Ritzmann Marzall",
+                    "Iúri Ribeiro",
+                    "Geraldo Pereira da Silva Junior"
+                ],
+                "financiador": "Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH,"
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
-                "nome": "Análise da Inserção de Geração Distribuída Fotovoltaica em Redes de Distribuição de Energia",
-                "periodo": "2020 - 2021",
+                "nome": "Adequação de Tensão em Redes de Distribuição de Energia Utilizando Banco de Capacitores",
+                "periodo": "2021 - 2022",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "José Alberto Gobbes Cararo",
@@ -192,16 +198,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
-                "nome": "Adequação de Tensão em Redes de Distribuição de Energia Utilizando Banco de Capacitores",
-                "periodo": "2021 - 2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "José Alberto Gobbes Cararo",
-                    "ÉRICK MARTINS DA SILVA"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
                 "nome": "Projeto de sistema domótico para irrigação de jardins.",
                 "periodo": "2022 - 2023",
                 "natureza": "Pesquisa",
@@ -212,20 +208,24 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
-                "nome": "Projeto de P&D e Desenvolvimento Institucional com Implantação de curso de Especialista Técnico em Eficiência Energética",
-                "periodo": "2019",
-                "natureza": "Extensao",
+                "nome": "Dispositivo robótico autônomo para delivery.",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
                 "equipe": [
                     "José Alberto Gobbes Cararo",
-                    "Cleber A. Ganzaroli",
-                    "Geovanne Pereira Furriel",
-                    "Robert de Souza Bonuti",
-                    "Jeanisson Cesar Mariano Silva",
-                    "Vinicius Otto de Aguiar Ritzmann Marzall",
-                    "Iúri Ribeiro",
-                    "Geraldo Pereira da Silva Junior"
-                ],
-                "financiador": "Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH,"
+                    "José Antônio Maria de Rezende Silva",
+                    "Geovanne Pereira Furriel"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
+                "nome": "Análise da Inserção de Geração Distribuída Fotovoltaica em Redes de Distribuição de Energia",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "José Alberto Gobbes Cararo",
+                    "ÉRICK MARTINS DA SILVA"
+                ]
             }
         ]
     },
@@ -234,21 +234,15 @@
             "softwares": [
                 {
                     "autor": "CARARO",
-                    "software": "J. A. G.,  FONTE, D. O.,  ZARA, A. L. S. A.,  ExtractSUS - Open source for automated data extraction from DataSUS",
+                    "software": "J. A. G.,  ExtractSUS",
                     "ano": "2025",
-                    "finalidade": "Open source."
+                    "finalidade": "Metodologia reprodutível para extração automatizada de microdados do Sistema Único de Saúde.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026000916-2."
                 },
                 {
                     "autor": "CALIXTO",
                     "software": "W. P.,  NIELSON, RAFAEL,  REIS, MARCIO R. C.,  CARARO, JOSE A. G.,  SILVA, D. A. P.,  GOMES, F. A.,  GOMES, V. M.,  SANTOS, P. V.,  NETO, JOAO CAETANO,  VILELA, WAGNER A.,  QUALITAS V2",
                     "ano": "2019",
                     "finalidade": "Produto do Projeto P&D 423/2016.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 512019002004-9."
-                },
-                {
-                    "autor": "CARARO",
-                    "software": "J. A. G., FONTE, D. O., ZARA, A. L. S. A., ExtractSUS - Open source for automated data extraction from DataSUS",
-                    "ano": "2025",
-                    "finalidade": "Automated data download from DataSUS of the Brazilian Unified Health System (SUS - Sistema Único de Saúde).."
                 }
             ],
             "apresentacoes_trabalho": [
@@ -290,8 +284,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "VILELA JUNIOR, WAGNER A.",
-                "titulo": "COIMBRA, ANTONIO P.;  WAINER, GABRIEL A.;  CAETANO NETO, JOAO;  CARARO, JOSE A. G.;  REIS, MARCIO R. C.;  SANTOS, PAULO V.;  CALIXTO, WESLEY P.;  Analysis and Adequacy Methodology for Voltage Violations in Distribution Power Grid",
+                "autores": "SANTOS, PAULO V.",
+                "titulo": "VILELA JUNIOR, WAGNER A.;  COIMBRA, ANTONIO P.;  WAINER, GABRIEL A.;  CAETANO NETO, JOAO;  CARARO, JOSE A. G.;  REIS, MARCIO R. C.;  CALIXTO, WESLEY P.;  Analysis and Adequacy Methodology for Voltage Violations in Distribution Power Grid",
                 "ano": "2021",
                 "periodico": "Energies. ISBN: 19961073   ."
             },

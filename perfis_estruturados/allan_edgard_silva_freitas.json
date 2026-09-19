@@ -1,0 +1,1562 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Unifacs",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Simulação de Sistemas Distribuídos Híbridos e Dinâmicos",
+                "orientador": "Raimundo José de Araújo Macêdo",
+                "ano_inicio": 2007,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Um Modelo de Classificação de Exceções baseado em Redes de Kohonen ajustadas por Algoritmos Genéticos",
+                "orientador": "Jes de Jesus Fiais Cerqueira",
+                "ano_inicio": 2002,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 1998,
+                "ano_fim": 2001
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2006,
+                "ano_fim": 2020,
+                "funcao": "Professor do Ensino Bas.Técnico e Tecnológico",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 1998,
+                "ano_fim": 2003,
+                "funcao": "Técnico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 1997,
+                "ano_fim": 1997,
+                "funcao": "Estagiário",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 1995,
+                "ano_fim": 1997,
+                "funcao": "Bolsista",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor Colaborador do PPGM",
+                "vinculo": "Professor Colaborador do PPGM",
+                "descricao": "Programa de Pós-Graduação em Mecatrônica, com atuação em co-orientação e disciplinas, sob anuência institucional do IFBA"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2002,
+                "ano_fim": 2004,
+                "funcao": "Professor Substituto",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Ruy Barbosa",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Atuando em Atividades de Ensino",
+                "descricao": "Orientação de Trabalho de Conclusão de Curso de Graduação em Ciência da Computação e em Orientação do Centro de Estudos e Desenvolvimento de Software Livre da Faculdade Ruy Barbosa"
+            },
+            {
+                "empresa": "Faculdade Ruy Barbosa",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Ruy Barbosa",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Ruy Barbosa",
+                "ano_inicio": 2003,
+                "ano_fim": 2004,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Apoio a Educação e Desenv Tecnológico",
+                "ano_inicio": 1998,
+                "ano_fim": 2003,
+                "funcao": "Técnico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Palma Projeto Consultoria Sistemas e Representações Ltda",
+                "ano_inicio": 1999,
+                "ano_fim": 2003,
+                "funcao": "Sócio-Administrador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de comitê assessor"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado da Bahia",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Revisor do projetos no âmbito do Consórcio Juro Zero Bahia, de incentivo à inovação em empresas, que possui além da Fapesb, SECTI, SEBRAE, IEL e DESENBAHIA como instituições parceiras"
+            },
+            {
+                "empresa": "iSys: Revista Brasileira de Sistemas de Informação",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Revista Tecnia",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Espírito Santo",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Espírito Santo",
+                "ano_inicio": 2022,
+                "ano_fim": 2022,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Espírito Santo",
+                "ano_inicio": 2021,
+                "ano_fim": 2021,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Espírito Santo",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado do Piauí",
+                "ano_inicio": 2021,
+                "ano_fim": 2021,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "IEEE Transactions on Dependable and Secure Computing",
+                "ano_inicio": 2021,
+                "ano_fim": 2021,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "JOURNAL OF INTERNET SERVICES AND APPLICATIONS",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Rede Nacional de Ensino e Pesquisa",
+                "ano_inicio": 2020,
+                "ano_fim": 2023,
+                "funcao": "Assistente do CT-Blockchain",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Journal of Network and Systems Management",
+                "ano_inicio": 2021,
+                "ano_fim": 2021,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo a Pesquisa do Estado de Goiás",
+                "ano_inicio": 2022,
+                "ano_fim": 2022,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco",
+                "ano_inicio": 2023,
+                "ano_fim": 2023,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "INFECTIOUS DISORDERS. DRUG TARGETS",
+                "ano_inicio": 2023,
+                "ano_fim": 2023,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Journal of Infrastructure, Policy and Development",
+                "ano_inicio": 2024,
+                "ano_fim": 2024,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "IEEE Transactions on Network Science and Engineering",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo à Pesquisa do Estado de Mato Grosso",
+                "ano_inicio": 2024,
+                "ano_fim": 2024,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "RNP",
+                "ano_inicio": 2023,
+                "ano_fim": 2023,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Instituto Euvaldo Lodi",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "COMPUTING",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Palma Projeto Consultoria Sistemas e Representações Ltda\nPalma Projeto Consultoria Sistemas e Representações Ltda (1999 - 2003) : Diretor Técnico.\nPesquisa e Desenvolvimento\nIFBA - Campus Salvador (2018): Computação Distribuída, Internet das Coisas, Redes Avançadas, Blockchain e Web Descentralizada, Tecnologia em Saúde, Saúde Digital,\nLaboratório de Biofísica Computacional (2006 - 2009): Computação Bio-Inspirada,\nCoinf (1997 - 1999): Protocolo IPv6,\nLaboratório de Sistemas Distribuídos (2007): Sistemas Distribuídos Autonômicos,\nEscola Politécnica (2002 - 2007): Detecção de Falhas em Sistemas Elétricos,\nGrupo de Estudos e Desenvolvimento de Software Livre (2004 - 2005): Software Livre e Código Aberto,\nRNP (2020): Blockchain,",
+        "ensino": ": Fundação de Apoio a Educação e Desenv Tecnológico\nOutro (1998 - 2002) .",
+        "comissoes": ": Instituto Federal da Bahia\nColegiado E Nde Da Licenciatura Em Computação Ead (2021 - 2022).\nSecretário-executivo (2019 - 2022).\nConselheiro Titular Docente No Conselho Superior Do Ifba (2018 - 2023).\nConselheiro Titular Representante Do Conselho Do Campus De Salvador No Conselho De Ensino, Pesquisa E Extensão (2017 - 2018).\nMembro Nato No Conselho Do Campus De Salvador Como Diretor De Pesquisa, Pós-graduação E Inovação (2015 - 2020).\nCoordenador Do Comitê De Ética Na Pesquisa (8/2010 A 8/2013) (2010 - 2016).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Implantação e Desenvolvimento da Infra-Estrutura de Pesquisa Tecnológica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Elias Ramos De Souza",
+                    "Allan Edgard Silva Freitas"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2002,
+                "ano_fim": 2003
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto de Pesquisa e Desenvolvimento na Plataforma AS/400",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Mário Sérgio Rosas De Sant'Anna",
+                    "Paulo Luiz Sacerdote Santos",
+                    "Jorge Lázaro De Assunção"
+                ],
+                "financiador": "Itec S A,",
+                "ano_inicio": 1997,
+                "ano_fim": 1999
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SIGAEPT - Sistema de Gerência Acadêmica da Rede de Educação Profissional e Tecnológica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Ana Silvia Escocard Santiago",
+                    "Marcelo Feres",
+                    "Sérgio França",
+                    "Érica Gallindo"
+                ],
+                "financiador": "Ministério da Educação,",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "GIIRO: Gerenciador de Informações e Infraestrutura de Redes Ópticas",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Claudete Mary Souza Alves",
+                    "Romildo Martins Da Silva Bezerra",
+                    "Rodrigo Rocha Gomes E Souza",
+                    "Kleydson Wilbert Modesto Cunha",
+                    "Luiz Carlos Barreto Da Silva Filho",
+                    "Ibirisol Fontes Ferreira"
+                ],
+                "financiador": "Rede Nacional de Ensino e Pesquisa,",
+                "ano_inicio": 2015,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Medição Portátil de Baixo Custo de Indicadores de Saúde associados ao COVID-19",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Antonio Gabriel Souza Almeida",
+                    "Jorge Costa Leite Júnior",
+                    "Eduardo Marinho Barbosa",
+                    "Alfredo Ruben Corniali",
+                    "Élvio Prado Da Silva"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de um Sistema de Stitching de Imagens Tomográficas (TOMO)",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Eduardo Telmo Fonseca Santos",
+                    "José Mário Araújo"
+                ],
+                "financiador": "Associação Brasileira de Pesquisa e Inovação Industrial,",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "TELECOMPARTILHAMENTO DO CUIDADO ENTRE A ATENÇÃO BÁSICA E ATENÇÃO ESPECIALIZADA: QUALIFICAÇÃO DAS AÇÕES DE TELEMEDICINA E TELESSAÚDE PARA APOIO AO CUIDADO DURANTE A PANDEMIA DE COVID-19",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Jorge Costa Leite Júnior",
+                    "Eduardo Marinho Barbosa",
+                    "Esther Pereira Dos Santos",
+                    "Emmanuel Vitor Pereira De Jesus",
+                    "Alisson Santos De Sousa",
+                    "Daiana Cristina Machado Alves",
+                    "Erica Lima Costa De Menezes",
+                    "Gladys Reis De Oliveira",
+                    "José Cristiano Soster",
+                    "Victor Lima Cerqueira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "SMART NAV: Framework de Suporte à Navegação e à Rastreabilidade de Pacientes Com Câncer de Mama",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Renato Lima Novais",
+                    "José Dihego Da Silva Oliveira",
+                    "Tsang Ing Ren",
+                    "Luana Pinheiro De Sousa",
+                    "Filipe Antônio Aguiar Cavalcanti De Carvalho",
+                    "Matheus De Lima Oliveira",
+                    "Camila Vitória Oliveira Dos Anjos",
+                    "Luan Pinheiro Da Silva",
+                    "Yuri Cesar Lima Silva",
+                    "Lúcio Leandro Silva Santana",
+                    "Ana Ruth Nery Lima Bezerra"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Pesquisa e desenvolvimento de BIOS modificada utilizando engenharia reversa de sistema legado",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Manoel Carvalho Marques Neto",
+                    "Eduardo Telmo Fonseca Santos"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Pólo de Inovação EMBRAPII IF (PEIF) - área de competência: Equipamentos Médicos",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Andrea Cassia Peixoto Bitencourt",
+                    "Antonio Gabriel Souza Almeida",
+                    "Claudio Reynaldo Barbosa De Souza",
+                    "Handerson Jorge Dourado Leite",
+                    "Hugo Antonio Nunes Silva",
+                    "Josemir Da Cruz Alexandrino",
+                    "Justino De Araújo Medeiros",
+                    "Luiz Gustavo Da Cruz Duarte",
+                    "Manoel Carvalho Marques Neto",
+                    "Marcus Vinícius Teixeira Navarro",
+                    "Valéria Coelho Costa Navarro",
+                    "Wilson Otto Gomes Batista",
+                    "Elias Ramos-De-Souza"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Redes Comunitárias de Ensino e Pesquisa: Rede Metropolitana de Salvador",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "João Gualberto Rizzo De Araujo",
+                    "Adhvan Novais Furtado",
+                    "Luiz Cláudio Mendonça",
+                    "Claudete Mary Souza Alves",
+                    "Messias Bittencourt Figueiredo"
+                ],
+                "financiador": "Rede Nacional de Ensino e Pesquisa,",
+                "ano_inicio": 2005,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Dependable Mechanisms for Dynamic Networks",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Alírio Santos De Sá",
+                    "Sandro Santos Andrade",
+                    "Raimundo José De Araújo Macêdo",
+                    "Sergio Gorender",
+                    "Achour Mostefaoui",
+                    "Michel Raynal",
+                    "Pierre Sens",
+                    "Luciana Arantes",
+                    "Gael Thomas",
+                    "Julien Sopena",
+                    "Alfredo Goldman",
+                    "Damien Imbs",
+                    "Paulo Floriano",
+                    "Marcio Vinicius Dos Santos"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2010,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Drone as a Service",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Alírio Santos De Sá",
+                    "Sergio Gorender",
+                    "Marcos Ennes Barreto"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "BAMBU: REDE METROPOLITANA PARA EXPERIMENTAÇÃO E INOVAÇÃO DA INTERNET DO FUTURO",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Romildo Martins Da Silva Bezerra",
+                    "Leobino Nascimento Sampaio"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "INFRAESTRUTURA TECNOLÓGICA PARA CIDADES INTELIGENTES APLICADAS A SAÚDE",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Raimundo José De Araújo Macêdo",
+                    "Sergio Gorender",
+                    "Sa",
+                    "Alirio Santos De",
+                    "Paul Denis Etienne Regnier",
+                    "Handerson Jorge Dourado Leite"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Rede Nacional de Ensino e Pesquisa",
+                "nome": "HackInSDN",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Leobino Nascimento Sampaio",
+                    "Italo Valcy Da Silva Brito",
+                    "Talita Rocha Pinheiro",
+                    "Mayara Rodrigues Euclides Santos",
+                    "Henrique Queiroz Scoppetta Sampaio",
+                    "Raquel De Souza Marques Santos"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Rede Nacional de Ensino e Pesquisa",
+                "nome": "Iliada: A Nova Internet da Confiança",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Antonio Mateus De Sousa",
+                    "Glauber Dias Gonçalves",
+                    "Luiz Antonio Rodrigues",
+                    "Luis Carlos Erpen De Bona",
+                    "Victor Lima Cerqueira",
+                    "Luiz Eduardo Folly De Campos",
+                    "Marcos Felipe Schwarz",
+                    "Michelle Silva Wangham",
+                    "George Neres Dos Santos",
+                    "Caian De Jesus Santana",
+                    "Billy Anderson Pinheiro",
+                    "Alberto Paradisi",
+                    "Ericksulino Manoel De Araújo Moura",
+                    "Leandro Neumann Ciuffo"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Rede Nacional de Ensino e Pesquisa",
+                "nome": "CT-Blockchain: Comitê Técnico em Blockchain",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Allan Edgard Silva Freitas",
+                    "Fabíola Gonçalves Pereira Greve",
+                    "Renato Duarte Rocha"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "FREITAS",
+                    "software": "A. E. S.,  TREVIZAN, M. S.,  Sistema de gerenciamento de projetos baseado em inteligência artificial e metodologias híbridas",
+                    "ano": "2025",
+                    "finalidade": "Gerenciamento de Projetos.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025005131-0."
+                },
+                {
+                    "autor": "DIVINO",
+                    "software": "M. A. S. A.,  FREITAS, A. E. S.,  JudMed",
+                    "ano": "2023",
+                    "finalidade": "Blockchain para Acompanhamento de Solicitações Judiciais de Medicamentos.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023001995-0."
+                },
+                {
+                    "autor": "MARQUES NETO",
+                    "software": "M. C.,  JESUS JUNIOR, E. M. F.,  FREITAS, ALLAN E. S.,  ARION",
+                    "ano": "2021",
+                    "finalidade": "Mecanismo de Rastreabilidade por meio de Blockchain.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512021001107-4."
+                },
+                {
+                    "autor": "FREITAS",
+                    "software": "A. E. S.,  ALMEIDA, R. P.,  BARRETO, M. G.,  AYRES, L. D. G.,  SILVA FILHO, L. C. B.,  SILVA, R. B.,  JOSENEAS, E.,  SILVA NETO, E. M.,  CUNHA, K. W. M.,  SILVA, M. A. S.,  JESUS, V. R. P.,  FERREIRA, I. F.,  GIIRO - Gerenciador de Informações e Infraestrutura de Redes Ópticas",
+                    "ano": "2020",
+                    "finalidade": "Permite o gerenciamento de infraestrutura em redes ópticas.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512020000637-0."
+                },
+                {
+                    "autor": "JOSENEAS",
+                    "software": "E.,  SILVA, M. A. S.,  BORGES, J. L. S.,  SILVA, R. B.,  JESUS, V. R. P.,  SOUZA, R. R. G.,  FREITAS, A. E. S.,  SILVA NETO, E. M.,  GIIRO: Gerenciador de Informações e Infraestrutura de Redes Ópticas",
+                    "ano": "2017",
+                    "finalidade": "Gerenciamento de Elementos de Camada 1 em Redes Óticas Metropolitanas."
+                },
+                {
+                    "autor": "FREITAS",
+                    "software": "A. E. S.,  MACÊDO, RAIMUNDO JOSÉ DE ARAÚJO,  HDDSS: Hybrid and Dynamic Distributed System Simulator",
+                    "ano": "2013",
+                    "finalidade": "Simulador de Sistemas Distribuídos."
+                },
+                {
+                    "autor": "MATOS",
+                    "software": "E. S.,  GALLINDO, E.,  FERES, M.,  OLIVEIRA, M. M.,  Florentino, Pablo V.,  BARBOSA, S.,  SOUZA, M. E. S.,  FREITAS, A. E. S.,  Sistema Integrado de Gestão Acadêmica - SIGA-EPCT",
+                    "ano": "2010",
+                    "finalidade": "Sistema de Gestão Acadêmica - registro protocolado no INPI.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR5120130010489."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "FREITAS",
+                    "evento": "A. E. S.,  SOUSA, E. T. G.,  CAMBOIM, K. M. A.,  13th Latin-American Symposium on Dependable and Secure Computing (LADC 2024)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "MACEDO",
+                    "evento": "R. J. A.,  GORENDER, S.,  SILVA, F. M. A.,  FREITAS, A. E. S.,  SA, Alírio S.,  BARRETO, M. E.,  37th IEEE International Symposium on Reliable Distributed Systems - Registration Chair",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IEEE."
+                },
+                {
+                    "autores": "PETRUCCI",
+                    "evento": "V.,  FREITAS, A. E. S.,  BARRETO, M. E.,  IV Escola Regional de Alto Desempenho - Região Nordeste (ERAD-NE 2017)",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "GREVE",
+                    "evento": "F. G. P.,  FREITAS, A. E. S.,  BEZERRA, R. M. S.,  XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2016) - Coordenador Geral",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "MARQUES NETO",
+                    "evento": "M. C.,  Andrade, Sandro S.,  NOVAIS, R. L.,  FREITAS, A. E. S.,  XV Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE 2015) - Comitê Local",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "FREITAS",
+                    "evento": "A. E. S.,  BARRETO, M. E.,  II Escola Regional de Alto Desempenho - Região Nordeste (ERAD-NE 2013) - Coordenador",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "LOUREIRO",
+                    "evento": "Augusto,  CERQUEIRA, Jés,  FREITAS, A. E. S.,  XIX Simpósio Brasileiro de Inteligência Artificial, X Simpósio Brasileiro de Redes Neurais e Jornada de Robótica Inteligente (Joint Conference SBIA/SBRN/JRI 2008) - Comitê Local",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "Amauri,  DÓREA, Carlos,  CERQUEIRA, Jés,  FERREIRA, Niraldo,  MOREIRA, Fernando,  LOUREIRO, Augusto,  FREITAS, A. E. S.,  XVI Congresso Brasileiro de Automatica (CBA 2006) - Comitê Local",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Automatica."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SAMPAIO, L. N.",
+                "titulo": "FREITAS, A. E. S.;  MUNARETTO, A.;  MORAES, I. M.;  MANSILHA, R. B.;  Minicursos do SBRC 2026",
+                "ano": "2026",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788576696698 (Organizado(a))."
+            },
+            {
+                "autores": "RIBEIRO, N. M.",
+                "titulo": "SOUZA, C. R. B.;  FREITAS, A. E. S.;  Ecossistemas de Inovação: Análise para além da Fronteira",
+                "ano": "2019",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788567562346, Salvador (Organizado(a))."
+            },
+            {
+                "autores": "AMBROSIO, P. E.",
+                "titulo": "FREITAS, A. E. S.;  Anais da IV Escola Regional de Alto Desempenho - Região Nordeste",
+                "ano": "2017",
+                "informacoes_adicionais": "Meio_digital. ISBN: 21770093 (Organizado(a))."
+            },
+            {
+                "autores": "SIQUEIRA, F. A.",
+                "titulo": "LUNG, L. C.;  GREVE, Fabíola;  FREITAS, A. E. S.;  Livro de Minicursos do XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "ano": "2016",
+                "informacoes_adicionais": "Nao_informado. ISBN: 21774978 (Organizado(a))."
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "BEZERRA, R. M. S.;  IPv6 - Conceitos e Aspectos Práticos",
+                "ano": "2015",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788539906673, Rio de Janeiro (Publicado)."
+            },
+            {
+                "autores": "RAMOS FILHO, H. R. S.",
+                "titulo": "PEREIRA, L. V.;  FREITAS, A. E. S.;  RIBEIRO, R. M. C.;  Anais da III Escola Regional de Alto Desempenho - Região Nordeste",
+                "ano": "2015",
+                "informacoes_adicionais": "Nao_informado. ISBN: 21770093, Maceió (Organizado(a))."
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "Anais da II Escola Regional de Alto Desempenho - Região Nordeste",
+                "ano": "2013",
+                "informacoes_adicionais": "Meio_digital. ISBN: 21770093, Salvador (Organizado(a))."
+            },
+            {
+                "autores": "Campos, Josué N.",
+                "titulo": "Nacif, José A. M.;  Vieira, Alex B.;  Mendonça, Ronan D.;  Fontinele, Alexandre;  Carvalho, Luís H. S. de;  Oliveira, Isdael R.;  Cardoso, Ítallo W. F.;  Coelho, Rafael;  FREITAS, ALLAN E. S.;  Gonçalves, Glauber D.;  Jornada de Atualização em Informática 2024. Título do capítulo: Finanças Descentralizadas em Redes Blockchain: Perspectivas sobre Pesquisa e Inovação em Aplicações, Interoperabilidade e Segurança",
+                "ano": "2024",
+                "informacoes_adicionais": "ISBN: 9788576695974."
+            },
+            {
+                "autores": "GORENDER, S.",
+                "titulo": "MACEDO, R. J. A.;  SA, Alírio S.;  FREITAS, A. E. S.;  ESTEVES-VERISSIMO, P.;  Jornada de Atualização em Informática 2023. Título do capítulo: Confiabilidade e segurança nos sistemas distribuídos físico-digitais",
+                "ano": "2023",
+                "informacoes_adicionais": "ISBN: 9788576694991."
+            },
+            {
+                "autores": "SAMPAIO, L. N.",
+                "titulo": "FREITAS, A. E. S.;  BRITO, I. V. S.;  ARAUJO, F. R.;  RIBEIRO, A. V.;  Livro de Minicursos do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos 2021. Título do capítulo: Revisitando as ICNs: Mobilidade, Segurança e Aplicações Distribuídas através das Redes de Dados Nomeados",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 0021774978."
+            },
+            {
+                "autores": "BEZERRA, R. M. S.",
+                "titulo": "NASCIMENTO, F. M. S.;  FREITAS, A. E. S.;  Cadernos técnicos de computação e energia. Título do capítulo: 6LOWPAN ? PROMOVENDO A INTEGRAÇÃO ENTRE OS DISPOSITIVOS COM A COMPUTAÇÃO UBÍQUA E A IOT",
+                "ano": "2015",
+                "informacoes_adicionais": "ISBN: 9788589283212, Salvador."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SILVA, E. H. A.",
+                "titulo": "FREITAS, ALLAN E. S.;  Psephos: a Blockchain-based Voting System",
+                "ano": "2024",
+                "periodico": "Blockchain and Cryptocurrency. ISBN: 29382602   ."
+            },
+            {
+                "autores": "FREITAS, ALLAN EDGARD SILVA",
+                "titulo": "RODRIGUES, LUIZ ANTONIO;  JR., ELIAS PROCÓPIO DUARTE;  vCubeChain: A scalable permissioned blockchain",
+                "ano": "2024",
+                "periodico": "Ad Hoc Networks. ISBN: 15708705   ."
+            },
+            {
+                "autores": "RODRIGUES PILOTO, GISELA",
+                "titulo": "SANTOS OLIVEIRA, BRUNO;  MATOS PINHEIRO, ISABELLE;  MIRANDA PIRES SANTOS, GUSTAVO;  DOS SANTOS SOUZA, ANTÔNIO CARLOS;  SILVA FREITAS, ALLAN EDGARD;  DE SOUZA SANTOS, MARCOS;  CRUZ SÁ MENEZES, ROSÂNGELA MARIA;  RODRIGUES PEIXINHO PASSOS, TÂMARA THAIS;  LOPES DOS SANTOS, VICTOR;  Identificação de bactérias em feridas crônicas através da luz ultravioleta: Aplicativo Violet Wound",
+                "ano": "2024",
+                "periodico": "PEER REVIEW. ISBN: 15411389   ."
+            },
+            {
+                "autores": "RODRIGUES, M. A.",
+                "titulo": "SOUZA, A. C. S.;  PILOTO, G. R.;  SANTOS, V. L.;  SANTOS, R. S.;  FRANCA, L. M. C.;  SAMPAIO, R. L.;  OLIVEIRA, B. S.;  PINHEIRO, I. M.;  FREITAS, A. E. S.;  Violet Wound - um software de reconhecimento de biofilme em feridas crônicas aplicando técnicas de super resolução e imunofluorescência utilizando dispositivos móveis",
+                "ano": "2023",
+                "periodico": "Brazilian Journal of Health Review. ISBN: 25956825   ."
+            },
+            {
+                "autores": "DIVINO, M. A. S. A.",
+                "titulo": "FREITAS, A. E. S.;  JUSMED: A Blockchain-based Platform for Traceability of High-Cost Medication",
+                "ano": "2023",
+                "periodico": "Blockchain and Cryptocurrency. ISBN: 29382602   ."
+            },
+            {
+                "autores": "JESUS JUNIOR, E. M. F.",
+                "titulo": "MARQUES NETO, M. C.;  FREITAS, A. E. S.;  Garm: A Blockchain based platform for supply chain management",
+                "ano": "2020",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "BARRETO, I. M. S.",
+                "titulo": "FREITAS, A. E. S.;  GERANDO INTELIGÊNCIA ATRAVÉS DE MICRODADOS: UMA PROPOSTA DE BUSINESS INTELLIGENCE PARA A ÁREA DE ENSINO DO INSTITUTO FEDERAL DA BAHIA (IFBA)",
+                "ano": "2020",
+                "periodico": "Cadernos de Educação, Tecnologia e Sociedade. ISBN: 23169907   ."
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "BEZERRA, R. M. S.;  Performance Evaluation on Cyber-Physical Systems",
+                "ano": "2016",
+                "periodico": "ICIC EXPRESS LETTERS. ISBN: 1881803X   ."
+            },
+            {
+                "autores": "NASCIMENTO, P. S.",
+                "titulo": "FREITAS, A. E. S.;  Implementação do Protocolo de Lock para de Armazenamento DEPSKY",
+                "ano": "2015",
+                "periodico": "Revista de Sistemas de Informação da FSMA. ISBN: 19835604   ."
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "MACEDO, R. J. A.;  A performance evaluation tool for hybrid and dynamic distributed systems",
+                "ano": "2014",
+                "periodico": "Operating Systems Review. ISBN: 01635980   ."
+            },
+            {
+                "autores": "SA, Alírio S.",
+                "titulo": "FREITAS, A. E. S.;  MACEDO, R. J. A.;  Adaptive request batching for byzantine replication",
+                "ano": "2013",
+                "periodico": "Operating Systems Review. ISBN: 01635980   ."
+            },
+            {
+                "autores": "MACÊDO, RAIMUNDO JOSÉ DE ARAÚJO",
+                "titulo": "FREITAS, ALLAN EDGARD SILVA;  DE SÁ, ALÍRIO SANTOS;  Enhancing group communication with self-manageable behavior",
+                "ano": "2013",
+                "periodico": "Journal of Parallel and Distributed Computing (Print). ISBN: 07437315   ."
+            },
+            {
+                "autores": "ARAÚJO, Alan",
+                "titulo": "SANTANA, Daniel;  BRANDÃO, Raul;  FREITAS, A. E. S.;  Um Sistema de Detecção de Intrusos baseado em Mapas de Kohonen",
+                "ano": "2005",
+                "periodico": "CienteFico (Faculdade Rui Barbosa). ISBN: 16775716   ."
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "Roteamento Avançado com o Linux",
+                "ano": "2002",
+                "periodico": "NewsGeneration (Rio de Janeiro). ISBN: 15185974   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "COELHO, J. A. L.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Proposição e Avaliação do Protocolo BUS-B para Rastreamento Cooperativo de Ônibus Urbanos por Radiodifusão. Workshop de Computação Urbana",
+                "local": "Praia do Forte",
+                "ano": "2026"
+            },
+            {
+                "autores": "MOURA, E. M. A.",
+                "titulo": "ABREU, R",
+                "evento": "V. C.; SILVA",
+                "local": "F. A.; BRANCO, A. S. C.; FREITAS, A. E. S.; GONCALVES, G. D.; Adaptive Block Size and Block Timeout for Hyperledger Fabric Networks. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Praia do Forte",
+                "ano": "2026"
+            },
+            {
+                "autores": "TREVIZAN, M. S.",
+                "titulo": "FREITAS, ALLAN E",
+                "evento": "S.; Software Inteligente para Concepção de Metodologias Híbridas de Gestão de Projetos e sua Proteção como Ativo de Propriedade Intelectual. XII Encontro Nacional de Propriedade Intelectual",
+                "local": "",
+                "ano": "2026"
+            },
+            {
+                "autores": "BRITO, I. V. S.",
+                "titulo": "PINHEIRO, T",
+                "evento": "R.; SANTOS",
+                "local": "M. R. E.; SANTOS, R. S. M.; SAMPAIO, H. Q. S.; SANTOS, G. P. G.; FREITAS, ALLAN E. S.; SAMPAIO, L. N.; HackInSDN: Uma Arquitetura Flexível, Incremental e Portável para Experimentação em Cibersegurança. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Natal",
+                "ano": "2025"
+            },
+            {
+                "autores": "MOURA, E. M. A.",
+                "titulo": "GAMA, F",
+                "evento": "S.; FREITAS",
+                "local": "ALLAN E. S.; GONCALVES, G. D.; SOARES, A.; Rumo à Blockchain Adaptiva para a Plataforma Hyperledger Fabric. VIII Workshop Blockchain: Teoria, Tecnologia e Aplicações, Natal",
+                "ano": "2025"
+            },
+            {
+                "autores": "DEFREMONT, A.",
+                "titulo": "SANTANA, C",
+                "evento": "; SILVA",
+                "local": "C.; COSTA, C. M. C.; MOURA, E. M. A.; NERES, G.; CERQUEIRA, V. L.; PINHEIRO, B. A.; FREITAS, ALLAN EDGARD SILVA; Aprendizado Prático de Blockchain Permissionada: Desenvolvimento de Implementações com Hyperledger Besu e Hyperledger Fabric via Scripts e Markdown. Colóquio de Blokchain e Web Descentralizada, Natal",
+                "ano": "2025"
+            },
+            {
+                "autores": "SOUSA, A. M.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; SAMPAIO",
+                "local": "L. N.; Entre a Confiança e o Sigilo: Reputação Descentralizada com Garantia de Privacidade por Meio de Identidades Digitais Auto-Soberanas. Simpósio Brasileiro de Cibersegurança, Foz do Iguaçu",
+                "ano": "2025"
+            },
+            {
+                "autores": "COELHO, J. A. L.",
+                "titulo": "FREITAS, ALLAN E",
+                "evento": "S.; SILVA",
+                "local": "M. S.; PRIMO, R. G. B.; Prospecção Bibliométrica de Rastreio Veicular Urbano na Cidade de Salvador Com Técnica SDR e ADS-B. 13th International symposium on tecnnological innovation, Teresina",
+                "ano": "2025"
+            },
+            {
+                "autores": "SANTOS, I. L. R.",
+                "titulo": "SILVA, M",
+                "evento": "S.; MARTINS",
+                "local": "L. O. S.; FREITAS, ALLAN E. S.; Monitoramento de Riscos Psicossociais no Trabalho: Uma Prospecção Bibliométrica da Produção Brasileira Entre 2014 a 2023. 13th International symposium on tecnnological innovation, Teresina",
+                "ano": "2025"
+            },
+            {
+                "autores": "AZEVEDO, R. S.",
+                "titulo": "SILVA, M",
+                "evento": "S.; PRIMO",
+                "local": "R. G. B.; FREITAS, ALLAN E. S.; Dispositivos de Inteligência Artificial para Auxílio Diagnóstico Médico por Imagem. 13th International symposium on tecnnological innovation, Teresina",
+                "ano": "2025"
+            },
+            {
+                "autores": "PITOMBO, M.",
+                "titulo": "SILVA, M",
+                "evento": "S.; MARTIN",
+                "local": "L. O. S.; FREITAS, ALLAN E. S.; Precificação Imobiliária Urbana - Uma Análise Bibliométrica. 13th International symposium on tecnnological innovation, Teresina",
+                "ano": "2025"
+            },
+            {
+                "autores": "TREVIZAN, M. S.",
+                "titulo": "PRIMO, R",
+                "evento": "G. B.; SILVA",
+                "local": "M. S.; FREITAS, ALLAN E. S.; Prospecção Patentária Sobre o Uso de Inteligência Artificial em Programas de Computador Voltados para a Gestão de Projetos. 13th International symposium on tecnnological innovation, Teresina",
+                "ano": "2025"
+            },
+            {
+                "autores": "FREITAS, ALLAN E. S.",
+                "titulo": "A DAG-Based Post-Quantum Ledger",
+                "evento": "14th Latin-American Symposium on Dependable and Secure Computing",
+                "local": "ValParaíso",
+                "ano": "2025"
+            },
+            {
+                "autores": "CERQUEIRA, V. L.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Auditoria de Teleconsultorias em Saúde Digital Com Inteligência Artificial. 12º Congresso Brasileiro de Telemedicina e Telessaúde",
+                "local": "Rio de Janeiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "COELHO, J. A. L.",
+                "titulo": "MARQUES NETO, M",
+                "evento": "C.; FREITAS",
+                "local": "ALLAN E. S.; Monitoramento Ubíquo de Veículos em Ambientes Urbanos: Um Estudo de Caso em Salvador com SDR e ADS-B. Simpósio Brasileiro de Sistemas Multimídia e Web, Rio de Janeiro",
+                "ano": "2025"
+            },
+            {
+                "autores": "SOUSA, A. M.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; SAMPAIO",
+                "local": "L. N.; ToID: Reputação Baseada em Identificadores Descentralizados Para Aplicações Distribuídas. 24º Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais, São José dos Campos",
+                "ano": "2024"
+            },
+            {
+                "autores": "CERQUEIRA, V. L.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Blockchain System for Sharing Oncological Information. Blockchain and Criptocurrency Conference",
+                "local": "Tenerife",
+                "ano": "2024"
+            },
+            {
+                "autores": "RODRIGUES, LUIZ ANTONIO",
+                "titulo": "FREITAS, ALLAN E",
+                "evento": "S.; DUARTE JUNIOR",
+                "local": "E. P.; FULBER-GARCIA, V.; A Hierarchical Adaptive Leader Election Algorithm for Crash-Recovery Distributed Systems. 13th Latin-American Symposium on Dependable and Secure Computing, Recife",
+                "ano": "2024"
+            },
+            {
+                "autores": "SILVA, I. V. P. C.",
+                "titulo": "FREITAS, ALLAN E",
+                "evento": "S.; Telecompartilhamento do cuidado entre a atenção básica e atenção especializada: desenvolvimento de componentes para o Telessaude Bahia. V Congresso de Pesquisa",
+                "local": "Pós-Graduação e Inovação, XXI Seminário de Iniciação Científica, Tecnológica e Inovação do IFBA, Juazeiro",
+                "ano": "2024"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "RODRIGUES, L",
+                "evento": "A.; DUARTE JUNIOR",
+                "local": "E. P.; vCubeChain: Uma Blockchain Permissionada Escalável. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Brasília",
+                "ano": "2023"
+            },
+            {
+                "autores": "DIVINO, M. A. S. A.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Gerenciamento de Solicitação de Medicamento por Via Judicial com Blockchain. Colóquio em Blockchain e Web Descentralizada",
+                "local": "",
+                "ano": "2023"
+            },
+            {
+                "autores": "SILVA, E. H. A.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Psephos: a blockchain-based voting system. Blockchain & Cryptocurrency Conference (B2C' 2023)",
+                "local": "Corfu",
+                "ano": "2023"
+            },
+            {
+                "autores": "CERQUEIRA, V. L.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; SILVA",
+                "local": "M. S.; PRIMO, R. G. B.; Framework para Armazenamento de Registros de Saúde. 12nd International Symposium on Technological Innovation, Aracaju-SE",
+                "ano": "2023"
+            },
+            {
+                "autores": "DIVINO, M. A. S. A.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Use of Blockchain for Request Management Medication by Court. Blockchain and Cryptocurrency Conference (B2C' 2022)",
+                "local": "Barcelona",
+                "ano": "2022"
+            },
+            {
+                "autores": "CERQUEIRA, V. L.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Desenvolvimento de Componentes de Software para o Telecompartilhamento do Cuidado entre a Atenção Básica e a Atenção Especializada (Telessaúde). III Congresso de Pesquisa",
+                "local": "Pós-Graduação e Inovação do IFBA, Salvador",
+                "ano": "2022"
+            },
+            {
+                "autores": "SANTOS, D. S.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Predição de Cargas de Trabalho de Nós de Computação em Nuvem Usando Modelos ARIMA e Redes Neurais Recorrentes Tipo LST. XI Brazilian Symposium on Computing Systems Engineering (SBESC)",
+                "local": "",
+                "ano": "2021"
+            },
+            {
+                "autores": "JESUS JUNIOR, E. M. F.",
+                "titulo": "MARQUES NETO, M",
+                "evento": "C.; FREITAS",
+                "local": "A. E. S.; Árion: A Blockchain Framework for Traceability in Supply Chain Management. 3rd Blockchain Workshop: Theory, Technology, and Applications, Rio de Janeiro",
+                "ano": "2020"
+            },
+            {
+                "autores": "PIRES, S. S.",
+                "titulo": "ARAUJO, F",
+                "evento": "R.; FREITAS",
+                "local": "A. E. S.; SAMPAIO, L. N.; Análise de Perfis de Usuários de Música e Seus Impactos no Desempenho de Políticas de Substituição de Cache. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Gramado",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTOS, D. S.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Um Protótipo para Experimentos de Eficiência Energética em Nuvem Openstack. Salão de Ferramentas do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "local": "Gramado",
+                "ano": "2019"
+            },
+            {
+                "autores": "MORAES, A. D.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; MARQUES NETO",
+                "local": "M. C.; Collaborative and GPS Sensing for Waiting Time Prediction on Service Queues through Smartphones. IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD 2019), Porto",
+                "ano": "2019"
+            },
+            {
+                "autores": "PIRES, STEFANI S.",
+                "titulo": "RIBEIRO, ADRIANA V",
+                "evento": "; DE SOUSA",
+                "local": "ANTONIO M.; FREITAS, ALLAN E. S.; SAMPAIO, LEOBINO N.; On Evaluating the Influence of User?s Music Listening Habits on Cache Replacement Policies. 2018 IEEE Symposium on Computers and Communications (ISCC), Natal",
+                "ano": "2018"
+            },
+            {
+                "autores": "MORAES, ADRIANO D.",
+                "titulo": "FREITAS, ALLAN E",
+                "evento": "S.; NETO",
+                "local": "MANOEL C. MARQUES; Predicting Waiting Time in Public Service Qeues Using Participative and GPS Sensing with Smartphones. the 24th Brazilian Symposium, Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "JOSENEAS, E.",
+                "titulo": "SILVA, M",
+                "evento": "A. S.; BORGES",
+                "local": "J. L. S.; SILVA, R. B.; JESUS, V. R. P.; SOUZA, R. R. G. E.; FREITAS, A. E. S.; SILVA NETO, E. M.; Gerenciador de Informações e Infraestrutura de Redes Ópticas. IX (PTT) Fórum, São Paulo",
+                "ano": "2017"
+            },
+            {
+                "autores": "NASCIMENTO, P. S.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; CloudGI",
+                "local": "Gerenciando Instâncias de um Serviço Replicado em uma Plataforma de Computação em Nuvem. Salão de Ferramentas do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Vitória",
+                "ano": "2015"
+            },
+            {
+                "autores": "MOREIRA, F. L.",
+                "titulo": "SA, Alírio S",
+                "evento": "; FREITAS",
+                "local": "A. E. S.; Avaliando o Impacto da Disseminação Assíncrona de Operações na QoS de Bases de Dados Replicadas. V Workshop de Sistemas Distribuídos Autonômicos, Vitória",
+                "ano": "2015"
+            },
+            {
+                "autores": "SAMPAIO, L. N.",
+                "titulo": "OLIVEIRA, L",
+                "evento": "R.; BARRETO",
+                "local": "M. E.; BEZERRA, R. M. S.; FREITAS, A. E. S.; BAMBU: A Metropolitan Innovation Testbed for Promoting Future Internet Research. SwitchOn Sao Paulo Workshop, São Paulo",
+                "ano": "2015"
+            },
+            {
+                "autores": "MELO, F. L. E. M.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Adição de Mecanismos de Integração do Simulador HDDSS com Simuladores de Redes de Computadores'. XI Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação do IFBA, Porto Seguro",
+                "ano": "2014"
+            },
+            {
+                "autores": "MACÊDO, RAIMUNDO JOSÉ DE ARAÚJO",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Dos sistemas distribuídos self-aware. III Workshop de Sistemas Distribuídos Autonômicos",
+                "local": "Brasília",
+                "ano": "2013"
+            },
+            {
+                "autores": "MELO, F. L. E. M.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Adicionando Funcionalidades para o Simulador de Sistemas Distríbuidos HDDSS. X Seminário de Iniciação Científica",
+                "local": "Tecnológica e Inovação do IFBA, Eunápolis",
+                "ano": "2013"
+            },
+            {
+                "autores": "SA, Alírio S.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; MACEDO",
+                "local": "R. J. A.; Auto-Configuração de Máquina de Estados Tolerante a Falhas Bizantinas. II Workshop de Sistemas Distribuídos Autonômicos, Ouro Preto",
+                "ano": "2012"
+            },
+            {
+                "autores": "MACEDO, R. J. A.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; SA",
+                "local": "Alírio S.; A Self-Manageable Group Communication Protocol For Partially Synchronous Distributed Systems. Fifth Latin-American Symposium on Dependable Computing, São José dos Campos",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOUZA, M. E. S.",
+                "titulo": "BARBOSA, S",
+                "evento": "; FREITAS",
+                "local": "A. E. S.; OLIVEIRA, M. M.; MATOS, E. S.; Uma Proposta de Metodologia de Implantação para o sistema SIGA. I Workshop de Tecnologia da Informação e Comunicação da EPCT, São Luiz",
+                "ano": "2011"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "GOMES, G",
+                "evento": "P.; OLIVEIRA",
+                "local": "M. M.; MATOS, E. S.; VoIP@IFBA: de 2003 a 2011. I Workshop de Tecnologia da Informação e Comunicação da EPCT,",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACEDO, R. J. A.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; Group Communication for Self-Aware Distributed Systems. Simposio Brasileiro de Redes de Computadores e Sistemas Distribuidos",
+                "local": "Gramado",
+                "ano": "2010"
+            },
+            {
+                "autores": "MACEDO, R. J. A.",
+                "titulo": "FREITAS, A",
+                "evento": "E. S.; A Generic Group Communication Approach for Hybrid Distributed Systems. 9th IFIP international conference on Distributed Applications and Interoperable Systems",
+                "local": "Lisboa",
+                "ano": "2009"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "MACEDO, R",
+                "evento": "J. A.; Um Ambiente para Testes e Simulações de Protocolos Confiáveis em Sistemas Distribuídos Híbridos e Dinâmicos. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "local": "Recife",
+                "ano": "2009"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "ARAÚJO, Alexandre; SAMPAIO, Alexandre; DANTAS, Benedito; SITH: Sistema de Telemetria para Medição de Consumo de Água",
+                "evento": "V Workshop de Trabalhos de Iniciação Científica e Graduação Bahia",
+                "local": "Alagoas e Sergipe da 7 Escola Regional de Computação Bahia, Alagoas e Sergipe, Vitória da Conquista",
+                "ano": "2007"
+            },
+            {
+                "autores": "RAMOS, Servúlo",
+                "titulo": "RIBEIRO, Lucas; MOREIRA, Fernando; FERREIRA, Niraldo; CERQUEIRA, Jés; FREITAS, A",
+                "evento": "E. S.; Classificação de distúrbios na qualidade da energia utilizando distribuição de energia nas escalas Wavelet. V Seminário Nacional de Controle e Automação",
+                "local": "Salvador",
+                "ano": "2007"
+            },
+            {
+                "autores": "RAMOS, Servúlo",
+                "titulo": "RIBEIRO, Lucas; FERREIRA, Niraldo; FREITAS, A",
+                "evento": "E. S.; CERQUEIRA",
+                "local": "Jés; MOREIRA, Fernando; Classificação de Disturbios na Qualidade da Energia Elétrica utilizando Transformada Wavelet e Redes de Kohonen. XII Latin American Congress on Automation Control, Salvador",
+                "ano": "2006"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "CERQUEIRA, Jés; FERREIRA, Niraldo; Detecção de Falhas em Motores de Indução por meio de Mapas de Kohonen",
+                "evento": "VII Simpósio Brasileiro de Automação Inteligente",
+                "local": "São Luiz",
+                "ano": "2005"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "CERQUEIRA, Jés; FERREIRA, Niraldo; Um Modelo de Detecção de Falhas por Redes de Kohonen",
+                "evento": "VIII Brazilian Symposium on Neural Networks",
+                "local": "São Luiz",
+                "ano": "2004"
+            },
+            {
+                "autores": "FREITAS, A. E. S.",
+                "titulo": "CERQUEIRA, Jés; FERREIRA, Niraldo; Uso de Algoritmos Genéticos no Desenvolvimento de Redes Kohonen",
+                "evento": "IV Encontro Nacional de Inteligência Artificial no 23º Congresso da Sociedade Brasileira de Computação",
+                "local": "Campinas",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Caian de Jesus Santana",
+                "titulo": "Ilíada: A Nova Internet da Confiança",
+                "ano": "2026",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "George Neres dos Santos",
+                "titulo": "Ilíada: A Nova Internet da Confiança",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Caio Costa Cavalcanti",
+                "titulo": "Uma blockchain para notificação compulsória de doenças",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Victor Lima Cerqueira",
+                "titulo": "Telessaúde BA: Plataforma de Telecompartilhamento do cuidado entre a atenção primária e especializada à saúde",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Victor de Souza Mendes",
+                "titulo": "HEALTHCHAIN: UM SMART CONTRACT PARA ARMAZENAMENTO E GERENCIAMENTO DE DADOS MEDICOS DE PACIENTES",
+                "ano": "2023",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Esther Pereira dos Santos",
+                "titulo": "DESENVOLVIMENTO DE COMPONENTES DE APP MOBILE PARA O TELECOMPARTILHAMENTO DO CUIDADO ENTRE A ATENÇÃO BÁSICA E ATENÇÃO ESPECIALIZADA (TELESSAUDE)",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Victor Lima Cerqueira",
+                "titulo": "DESENVOLVIMENTO DE COMPONENTES DE SOFTWARE PARA O TELECOMPARTILHAMENTO DO CUIDADO ENTRE A ATENÇÃO BÁSICA E ATENÇÃO ESPECIALIZADA (TELESSAUDE)",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Samuel de Oliveira Lima Júnior",
+                "titulo": "SAMTEL - Simple Asterisk Management: Solução centralizada para gerência de centrais Asterisk",
+                "ano": "2019",
+                "curso": "Especialização em Computação Distribuída e Ubíqua",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Luís Fernando Coelho de Araújo Silva",
+                "titulo": "Desenvolvimento de um sistema de indicadores que proporcione avaliar o desempenho dos alunos e a efetividade dos cursos: Business Intelligence para a área de ensino do IFBA",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Danilo da Silva Santos",
+                "titulo": "Eficiência Energética em Ambientes de Computação em Nuvem que Utilizam a Plataforma OpenStack",
+                "ano": "2018",
+                "curso": "Especialização em Computação Distribuída e Ubíqua",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jorge Carlos de Jesus Gonçalves",
+                "titulo": "REPLICAÇÃO DE APLICAÇÕES POR MEIO DE FUNÇÕES VIRTUALIZADAS DE REDE: APLICAÇÃO NA BAMBU: Rede metropolitana para experimentação e inovação da Internet do Futuro",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Adriano Dias Moraes",
+                "titulo": "Monitoramento Colaborativo de Filas de Serviços utilizando Dispositivos Móveis",
+                "ano": "2017",
+                "curso": "Especialização em Computação Distribuída e Ubíqua",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jorge Carlos de Jesus Gonçalves",
+                "titulo": "ASPECTOS DE SEGURANÇA PARA DISPOSITIVOS IoT EM REDES DEFINIDAS POR SOFTWARE - APLICAÇÃO NA BAMBU: Rede metropolitana para experimentação e inovação da Internet do Futuro",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Filipe Santos Brito",
+                "titulo": "Framework Distribuído e Ubíquo de Controle de Publicidade Baseada em Contexto",
+                "ano": "2016",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jaqueline Mascarenhas Suzart",
+                "titulo": "Escalonador de Tarefas de Tempo Real Para um Simulador de Sistemas Distribuídos",
+                "ano": "2015",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Adnilson Costa Garrido Junior",
+                "titulo": "Auto-ajuste de parâmetros em protocolos de comunicação em grupo: estudo de caso do Isis",
+                "ano": "2014",
+                "curso": "Especialização em Computação Distribuída e Ubíqua",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Bruno Cesar Neves de Oliveira",
+                "titulo": "An Adaptive Replication Environment for a Relational Database Management System",
+                "ano": "2014",
+                "curso": "Especialização em Computação Distribuída e Ubíqua",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Fábio do Rosário Santos",
+                "titulo": "Interoperabilidade de Sistemas: um estudo de caso do SiGPes ? Sistema de Gestão de Pessoal da MB - GptFNSa",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Poliana dos Santos Nascimento",
+                "titulo": "CloudGI - Gerenciando Instâncias de um Serviço Replicado em uma Plataforma de Computação em Nuvem OpenStack",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Felipe Lacerda Edington Monteiro Melo",
+                "titulo": "Adição de Mecanismos de Integração do Simulador HDDSS com Simuladores de Redes de Computadores",
+                "ano": "2013",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Marcelino Igor Antunes",
+                "titulo": "Estudo de Caso do Uso do Catálogo de Serviços na Central de Serviços de TIC do IFBA",
+                "ano": "2012",
+                "curso": "Gestão de Instituições Públicas de Ensino",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Poliana dos Santos Nascimento",
+                "titulo": "Replicação em Sistemas Distribuídos",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Felipe Lacerda Edington Monteiro Melo",
+                "titulo": "Adicionando Funcionalidades para o Simulador de Sistemas Distribuídos HDDSS",
+                "ano": "2012",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jorge Moitinho de Aragão Bulcão",
+                "titulo": "CLASSIFICAÇÃO DE ANOMALIAS NA QUALIDADE DA REDE DE ENERGIA ELÉTRICA ATRAVÉS DO USO DE TRANSFORMADA WAVELET E REDES MULTILAYER PERCEPTRON (MLP)",
+                "ano": "2010",
+                "curso": "Engenharia Industrial Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Thiago Meira Neves",
+                "titulo": "DESENVOLVIMENTO DE ALGORITMOS DE SUPORTE A COMUNICAÇÃO EM GRUPO",
+                "ano": "2009",
+                "curso": "Engenharia Industrial Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Persis Castro Alves",
+                "titulo": "Ajuste de pesos em redes neurais auto-organizáveis por meio de algoritmos genéticos",
+                "ano": "2009",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Anita Cardoso de Sousa",
+                "titulo": "USO DE REDES AUTO-ORGANIZÁVEIS PARA EXTRAÇÃO DE CARACTERÍSTICAS EM BASE DE DADOS BIOFÍSICOS (PDB)",
+                "ano": "2008",
+                "curso": "Engenharia Industrial Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Ronaldo Pedreira Silva",
+                "titulo": "Proposta para Implantação de Diretrizes de Gestão do Conhecimento no CEFET-BA/Sede, com Ênfase em Conhecimento Tácito",
+                "ano": "2008",
+                "curso": "Gestão de Instituições Públicas de Ensino",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Lorena Raquel Santana de Carvalho",
+                "titulo": "Análise comparativa de compras eletrônica e tradicional: estudo de caso na SAEB",
+                "ano": "2007",
+                "curso": "Administração",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Jorge Moitinho de Aragão Bulcão",
+                "titulo": "Desenvolvimento de Algoritmos de Detecção de Anomalias em Sistemas baseados em Técnicas de Inteligência Artificial",
+                "ano": "2006",
+                "curso": "Engenharia Industrial Elétrica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Pedro Henrique M de Amorim Brandão e Renan Pessoa Menezes",
+                "titulo": "Sistema de Reconhecimento de Caractere para Auxilio a Deficientes Fisicos utilizando Redes Neurais Artificiais ajustadas por Algoritmos Geneticos",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Raul F Brandao e Allan A M de Souza e Daniel M Santana",
+                "titulo": "Sistema de Detecção de Intrusos baseado em Redes Neurais Artificiais de Kohonen",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Hilmar Santana Ferreira Filho e Igor Sanders",
+                "titulo": "Uma Implementação do mecanismo NAT-PT para um gateway IPv4/IPv6 em modo Kernel no GNU/Linux",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Gabriel Simões",
+                "titulo": "Um Software capaz de Transcrever Melodias Monofônicas para Notação Musical",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Luciano Souza do Nascimento",
+                "titulo": "Solução CRM para Micro/Pequenas Empresas",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Alexandre Gouveia de A Sampaio e Alexandre Matos de Araújo",
+                "titulo": "Implementação de Sistema de Telemetria para Medição de Consumo de Água baseada em Transmissão de Dados via Rede GPRS",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Rafael de Lima Jacinto",
+                "titulo": "Algoritmos Genéticos solucionando Timetabling (Caso de Uso: DCC UFBA)",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Vivian da Conceição Davino de Assis",
+                "titulo": "Classificação de Texto utilizando Mapas Auto-Organizáveis de Kohonen",
+                "ano": "2005",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Evandro Reis Mota",
+                "titulo": "Um Sistema Supervisório de uma Planta de Manufatura Integrado a Web",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            },
+            {
+                "orientando": "Leila Andrade dos Santos e Carine Bonfim Soares",
+                "titulo": "Implementação de uma Ferramenta em Modo Usuário de Interoperação de Redes IPv4 e IPv6 baseado no Protocolo Transport Relay Translator e em DNS-ALG para o GNU/Linux",
+                "ano": "2004",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Ruy Barbosa"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.73555850982666,
+            "indian": 11.700191497802734,
+            "black": 4.609637260437012,
+            "white": 21.745437622070312,
+            "middle eastern": 24.06195831298828,
+            "latino hispanic": 30.147218704223633
+        }
+    }
+}

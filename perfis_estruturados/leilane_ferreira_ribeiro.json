@@ -1,0 +1,118 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Salvador",
+                "titulo": "UMA ESTRATÉGIA BASEADA EM CRITÉRIOS PARA APOIAR A TOMADA DE DECISÃO SOBRE O PAGAMENTO DE ITENS DE DÍVIDA TÉCNICA",
+                "orientador": "Rodrigo Oliveira Spínola",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Lato Sensu em Engenharia de Software",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2004,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2009,
+                "ano_fim": 2012,
+                "funcao": "Programadora de sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "RIBEIRO",
+                    "software": "L. F.;RIBEIRO, LEILANE F.;RIBEIRO, LEILANE FERREIRA,  Facilis - Gerador de referências no formato ABNT",
+                    "ano": "2009",
+                    "finalidade": "Gerador de referências no formato ABNT."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "RIBEIRO, LEILANE FERREIRA",
+                "titulo": "ALVES, NICOLLI SOUZA RIOS; NETO, MANOEL GOMES DE MENDONCA; SPINOLA, RODRIGO OLIVEIRA; A Strategy Based on Multiple Decision Criteria to Support Technical Debt Management",
+                "evento": "2017 43rd Euromicro Conference on Software Engineering and Advanced Applications (SEAA)",
+                "local": "Vienna",
+                "ano": "2017"
+            },
+            {
+                "autores": "RIBEIRO, L. F.",
+                "titulo": "RIBEIRO, LEILANE F",
+                "evento": ";RIBEIRO",
+                "local": "LEILANE FERREIRA; SPINOLA, R. O.; Um Survey sobre a Pertinência e Relevância de Critérios de Decisão para Apoiar o Gerenciamento de Itens de Dívida Técnica. XV Simpósio Brasileiro de Qualidade de Software, Maceió",
+                "ano": "2016"
+            },
+            {
+                "autores": "RIBEIRO, L. F.",
+                "titulo": "FARIAS, M",
+                "evento": "A. F.; MENDONCA",
+                "local": "M.; SPINOLA, R. O.; Decision Criteria for the Payment of Technical Debt in Software Projects: A Systematic Mapping Study.. 18th International Conference on Enterprise Information Systems (ICEIS 2016), Roma",
+                "ano": "2016"
+            },
+            {
+                "autores": "ALVES, NICOLLI S.R.",
+                "titulo": "RIBEIRO, LEILANE F",
+                "evento": "; CAIRES",
+                "local": "VIVYANE; MENDES, THIAGO S.; SPINOLA, RODRIGO O.; Towards an Ontology of Terms on Technical Debt. 2014 6th International Workshop on Managing Technical Debt (MTD), Victoria",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.10206885635852814,
+            "indian": 0.29594486951828003,
+            "black": 0.02100115641951561,
+            "white": 76.79052734375,
+            "middle eastern": 7.378611087799072,
+            "latino hispanic": 15.411856651306152
+        }
+    }
+}

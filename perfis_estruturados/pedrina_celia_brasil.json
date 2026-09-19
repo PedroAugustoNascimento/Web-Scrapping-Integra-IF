@@ -1,0 +1,201 @@
+{
+    "campus": "- Campus São Paulo do Potengi",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "orientador": "Eduardo Henrique da Silva Aranha",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Inovação em Tecnologias Educacionais",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "UM SISTEMA DE SUPORTE À ATIVIDADE DOCENTE BASEADO EM ANÁLISE DE APRENDIZAGEM",
+                "orientador": "Isabel Dillmann Nunes",
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Residência em Engenharia de Software",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2010,
+                "ano_fim": 2013
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "WJ Informática LTDA",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Desenvolvedora de Sistemas",
+                "vinculo": "Fixo (Carteira assinada)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Gracom",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Professora",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Gamelogica Tecnologia LTDA",
+                "ano_inicio": 2013,
+                "ano_fim": 2016,
+                "funcao": "Engenheira de Software",
+                "vinculo": "Socia Fundadora",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professora Efetiva",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Escola Técnica Aberta do Brasil",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Tutor",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Circuito de Qualificação no Desenvolvimento para Dispositivos Móveis",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Pedrina Célia Brasil",
+                    "Gibeon Aquino",
+                    "Eduardo Henrique Da Silva Aranha",
+                    "Taeko Elias Barbosa",
+                    "Héldon José Oliveira Albuquerque",
+                    "Itamir De Morais Barroca Filho",
+                    "Kaio Alencar De Azevedo Dantas"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Inclusão Digital Através de Jogos Digitais e Robótica Educacional",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Pedrina Célia Brasil",
+                    "Eduardo Henrique Da Silva Aranha"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Desenvolvimento com HTML5 para Dispositivos Móveis",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Pedrina Célia Brasil",
+                    "Gibeon Aquino",
+                    "Kaio Alencar De Azevedo Dantas"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Cursos de Qualificação para Desenvolvimento em Dispositivos Móveis",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Pedrina Célia Brasil",
+                    "Gibeon Aquino",
+                    "Taeko Elias Barbosa",
+                    "Héldon José Oliveira Albuquerque"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Gamelogica Tecnologia LTDA",
+                "nome": "Carta à Vista",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Pedrina Célia Brasil",
+                    "Lucas Hiago Dantas"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "ARANHA",
+                    "evento": "E. H. S.,  CHARLES ANDRYE GALVAO MADEIRA,  GLAUBER GALVAO DE ARAUJO,  ITANILDO AUGUSTO SINNESIO DANTAS,  JÉSSICA VIVIANE DE OLIVEIRA FERNANDES,  BRASIL, P. C.;BRASIL, PEDRINA,  SOSTENEY DANTAS PEREIRA,  WENDELL OLIVEIRA DE ARAÚJO,  1º Workshop de Programação de Jogos Digitais no Ensino Básico",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "DEPARTAMENTO DE INFORMÁTICA E MATEMÁTICA APLICADA / UFRN."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Da Silva, A. P. A",
+                "titulo": "SILVA, T. R.;  BRASIL, P. C.;  SOSTENEY DANTAS PEREIRA;  ARANHA, E. H. S.;  A GAME TO ASSIST RETAINING KNOWLEDGE IN CLASSROOM",
+                "ano": "2015",
+                "periodico": "PROCEEDINGS OF INTERNATIONAL CONFERENCE ON ENGINEERING AND COMPUTER EDUCATION. ISBN: 23174145   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.893089294433594,
+            "indian": 7.395787715911865,
+            "black": 6.834017276763916,
+            "white": 26.272153854370117,
+            "middle eastern": 13.888303756713867,
+            "latino hispanic": 37.71664810180664
+        }
+    }
+}

@@ -81,6 +81,21 @@
         "projetos": [
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rede de sensores inteligentes para monitoramento de produtos termolábeis via Web",
+                "periodo": "2015 - 2016",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Samir Bonho",
+                    "Mário Baldini",
+                    "Jonas Fortunato Honorato",
+                    "Daniel de Souza Baulé",
+                    "Daniel Scariot Guterres",
+                    "JOÃO VICTOR NAGAE MENEGHINI"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Treinamento prático em Linux Embarcado",
                 "periodo": "2019 - 2019",
                 "natureza": "Extensao",
@@ -109,21 +124,6 @@
                     "Samir Bonho",
                     "Pedro Giassi Junior"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Rede de sensores inteligentes para monitoramento de produtos termolábeis via Web",
-                "periodo": "2015 - 2016",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Samir Bonho",
-                    "Mário Baldini",
-                    "Jonas Fortunato Honorato",
-                    "Daniel de Souza Baulé",
-                    "Daniel Scariot Guterres",
-                    "JOÃO VICTOR NAGAE MENEGHINI"
-                ],
-                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
             }
         ]
     },
@@ -167,10 +167,10 @@
                 "ano": "2009"
             },
             {
-                "autores": "SCHWARZ, L.",
-                "titulo": "MORAES, R",
-                "evento": "; BONHO",
-                "local": "S.; KOLM, D.; BAGGIO, J.; Monitoração de Sinais de ECG pela Internet em Tempo Real. X Congresso Brasileiro de Informática em Saúde, Florianópolis",
+                "autores": "KOLM, D.",
+                "titulo": "BONHO, S",
+                "evento": "; BAGGIO",
+                "local": "J.; SCHWARZ, L.; MORAES, R.; Monitoração de Sinais de ECG pela Internet em Tempo Real. X Congresso Brasileiro de Informática em Saúde, Florianópolis",
                 "ano": "2006"
             }
         ]
@@ -283,15 +283,15 @@
                 "instituicao": "Instituto Federal de Santa Catarina"
             },
             {
-                "orientando": "Jefferson Deschamps",
-                "titulo": "Sistema de monitoramento automotivo com sensoriamento e comunicação zigbee",
+                "orientando": "Rogério Prando",
+                "titulo": "Desenvolvimento de uma ferramentapara análise de sinais lógicos com interface de visualização em PC",
                 "ano": "2015",
                 "curso": "Sistemas Eletrônicos",
                 "instituicao": "Instituto Federal de Santa Catarina"
             },
             {
-                "orientando": "Rogério Prando",
-                "titulo": "Desenvolvimento de uma ferramentapara análise de sinais lógicos com interface de visualização em PC",
+                "orientando": "Jefferson Deschamps",
+                "titulo": "Sistema de monitoramento automotivo com sensoriamento e comunicação zigbee",
                 "ano": "2015",
                 "curso": "Sistemas Eletrônicos",
                 "instituicao": "Instituto Federal de Santa Catarina"

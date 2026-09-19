@@ -1,0 +1,145 @@
+{
+    "campus": "- Campus Pinheiral",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Modelagem Computacional",
+                "instituicao": "Universidade do Estado do Rio de Janeiro",
+                "titulo": "Restauração de Imagens de Microscopia de Força Atômica com uso da Regularização de Tikhonov via Processamento em GPU",
+                "orientador": "Antônio José da Silva Neto",
+                "ano_inicio": 2009,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal Fluminense",
+                "titulo": "Aspectos computacionais do cálculo de dispersão de calor em meios porosos",
+                "orientador": "Otton Teixeira da Silveira Filho",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Matemática",
+                "instituicao": "Universidade Federal Rural do Rio de Janeiro",
+                "ano_inicio": 1999,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal Rural do Rio de Janeiro",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Professor",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal Rural do Rio de Janeiro",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Monitor",
+                "vinculo": "Não informado",
+                "descricao": "Monitor de Estrutura de Dados"
+            },
+            {
+                "empresa": "Universidade Federal Rural do Rio de Janeiro",
+                "ano_inicio": 2000,
+                "ano_fim": 2000,
+                "funcao": "Monitor",
+                "vinculo": "Não informado",
+                "descricao": "Monitor de Estrutura de Dados"
+            },
+            {
+                "empresa": "Centro Universitário Estadual da Zona Oeste",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Docente",
+                "vinculo": "Professor Temporário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Ciência, Ensino e Tecnologia Nilo Peçanha",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Professor do Ensino Bás.",
+                "vinculo": "Téc. e Tecnológico",
+                "descricao": "Professor"
+            }
+        ],
+        "direcao_administracao": ": Centro Universitário Estadual da Zona Oeste\nColegiado de Computacao e Matematica (2008 - 2009) : Coordenador Do Laboratório De Realidade Virtual (lrv).\nColegiado de Computacao e Matematica (2008 - 2009) : Coordenador Do Curso De Gestão Da Tecnologia Da Informação.\nColegiado de Computacao e Matematica (2008 - 2009): Modelagem Computacional,",
+        "ensino": ": Centro Universitário Estadual da Zona Oeste\nGraduacao (2008 - 2009) - Tecnologia Em Sistemas De Informação.",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "ALMEIDA, A. G.",
+                "titulo": "Insira a Ficha",
+                "ano": "2022",
+                "informacoes_adicionais": "Impresso. ISBN: 9786500508987, São Paulo (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "ALMEIDA, A. G.",
+                "titulo": "STUTZ, D",
+                "evento": "; CIDADE",
+                "local": "G.,A.,G.; NETO, A., J., S.; Uso de Graphics Processing Unit (GPU) na Restauração de Imagens de Microscopia de Força Atômica com Regularização de Tikhonov. XXXII Congresso Nacional de Matemática Aplicada e Computacional (CNMAC), Cuiabá - Mato Grosso",
+                "ano": "2009"
+            },
+            {
+                "autores": "ALMEIDA, A. G.",
+                "titulo": "O",
+                "evento": ", S. L. G.; A GENERAL APPROACH ABOUT GALERKIN VARIATIONAL FORMULATION FOR FINITE ELEMENTS. WCCSETE?2006 ? World Congress on Computer Science",
+                "local": "Engineering and Technology Education, Itanhaém and Santos",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "José Caetano dos Santos Sobrinho",
+                "titulo": "Interface USB para rádio controle via Processador PIC",
+                "ano": "2009",
+                "curso": "Tecnologia em Sistemas de Informação",
+                "instituicao": "Centro Universitário Estadual da Zona Oeste"
+            },
+            {
+                "orientando": "Ebert Viard Neto",
+                "titulo": "Central Virtual de Floriculturas",
+                "ano": "2005",
+                "curso": "Licenciatura em Matemática",
+                "instituicao": "Universidade Federal Rural do Rio de Janeiro"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.750045885273721e-05,
+            "indian": 2.3107433662516996e-05,
+            "black": 6.24302458618331e-07,
+            "white": 99.83845520019531,
+            "middle eastern": 0.06195816025137901,
+            "latino hispanic": 0.09953845292329788
+        }
+    }
+}

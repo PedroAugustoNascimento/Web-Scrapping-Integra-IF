@@ -88,6 +88,15 @@
         "projetos": [
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um sistema de identificação e armazenamento automatizado baseado nos conceitos da indústria 4.0",
+                "periodo": "2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edson Hiroshi Watanabe"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Painel para Simulação e Desenvolvimento Cenários de Ambiente de Casas e Prédios Inteligentes.",
                 "periodo": "2020",
                 "natureza": "Extensao",
@@ -98,21 +107,24 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Desenvolvimento de um sistema de identificação e armazenamento automatizado baseado nos conceitos da indústria 4.0",
-                "periodo": "2020",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Edson Hiroshi Watanabe"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Desenvolvimento de Materiais Didáticos para o Ensino de Microcontroladores e Sistemas Embutidos",
                 "periodo": "2018 - 2018",
                 "natureza": "Extensao",
                 "equipe": [
                     "Edson Hiroshi Watanabe",
                     "Pietro Guesser"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aprendizagem por meio da realização de benfeitorias na Ajidevi",
+                "periodo": "2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Edson Hiroshi Watanabe",
+                    "RAFAEL GOMES FAUST",
+                    "ANA BARBARA KNOLSEISEN SAMBAQUI",
+                    "JOICE LUIZ JERONIMO"
                 ]
             },
             {
@@ -133,18 +145,6 @@
                 "equipe": [
                     "Edson Hiroshi Watanabe"
                 ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Aprendizagem por meio da realização de benfeitorias na Ajidevi",
-                "periodo": "2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Edson Hiroshi Watanabe",
-                    "RAFAEL GOMES FAUST",
-                    "ANA BARBARA KNOLSEISEN SAMBAQUI",
-                    "JOICE LUIZ JERONIMO"
-                ]
             }
         ]
     },
@@ -160,8 +160,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "JUNQUEIRA, F.",
-                "titulo": "WATANABE, E. H.;WATANABE, EDSON H.;  MIYAGI, P. E.;  SANTOS FILHO, D. J.;  da SILVA, R. M.;  BLOS, M. F.;  Framework to evaluate the performance and sustainability of a disperse productive system",
+                "autores": "WATANABE, E. H.",
+                "titulo": "WATANABE, EDSON H.;  MIYAGI, P. E.;  JUNQUEIRA, F.;  SANTOS FILHO, D. J.;  da SILVA, R. M.;  BLOS, M. F.;  Framework to evaluate the performance and sustainability of a disperse productive system",
                 "ano": "2018",
                 "periodico": "JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING (ONLINE). ISBN: 18063691   ."
             }

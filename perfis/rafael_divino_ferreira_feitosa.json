@@ -150,20 +150,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Desenvolvimento de uma linha do tempo interativa do IF Goiano",
-                "periodo": "2021",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Rafael Divino Ferreira Feitosa",
-                    "Rhennan Lazaro de Paulo Lima",
-                    "Fausto de Melo Faria Filho",
-                    "Eloisa de Carvalho Assis",
-                    "Felipe de Oliveira Gomes",
-                    "Christian Costa Queiroz"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Produção de materiais didáticos integradores destinados a uma Fábrica de Software",
                 "periodo": "2021",
                 "natureza": "Ensino",
@@ -175,6 +161,20 @@
                     "Poliana dos Santos Silva",
                     "Marcos Vinícius Melo Silva",
                     "Guilherme Monteiro Marques Menezes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de uma linha do tempo interativa do IF Goiano",
+                "periodo": "2021",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rafael Divino Ferreira Feitosa",
+                    "Rhennan Lazaro de Paulo Lima",
+                    "Fausto de Melo Faria Filho",
+                    "Eloisa de Carvalho Assis",
+                    "Felipe de Oliveira Gomes",
+                    "Christian Costa Queiroz"
                 ]
             },
             {
@@ -336,8 +336,8 @@
             ],
             "organizacao_eventos": [
                 {
-                    "autores": "PIRES",
-                    "evento": "W. M.,  FEITOSA, R. D. F.,  LIMA, R. L. P.,  PASSOS, H. S.,  FARIA FILHO, F. M.,  I Encontro Institucional de Egressos 2021",
+                    "autores": "FEITOSA",
+                    "evento": "R. D. F.,  LIMA, R. L. P.,  PASSOS, H. S.,  FARIA FILHO, F. M.,  PIRES, W. M.,  I Encontro Institucional de Egressos 2021",
                     "ano": "2021",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal Goiano - Campus Ceres."

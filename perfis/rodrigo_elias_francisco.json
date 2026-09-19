@@ -83,22 +83,13 @@
             }
         ],
         "direcao_administracao": ": Instituto Federal Goiano\nIF Goiano - Campus Morrinhos (2022) : Coordenação De Tc Do Curso De Tecnologia Em Sistemas Para Internet.\nIF Goiano - Campus Morrinhos (2014 - 2014) : Coordenador.",
-        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia de Goiás\nGraduacao (2013 - 2013) - Sistemas De Informação.\nEnsino-medio (2013 - 2013) - Técnico Em Informática Integrado.\nGraduacao (2013 - 2013) - Tecnologia Em Análise E Desenv. Sistemas.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia de Goiás\nEnsino-medio (2013 - 2013) - Técnico Em Informática Integrado.\nGraduacao (2013 - 2013) - Tecnologia Em Análise E Desenv. Sistemas.\nGraduacao (2013 - 2013) - Sistemas De Informação.",
         "comissoes": ": Instituto Federal Goiano\nMembro Titular Do Núcleo Docente Estruturante (nde) Do Curso Superior De Bacharelado Em Ciência Da Computação (2017 - 2018).\nMembro Titular Do Núcleo Docente Estruturante (nde) Do Curso Superior De Tecnologia Em Sistemas Para Internet (2014 - 2024).",
         "projetos": [
             {
                 "instituicao": "Instituto Federal Goiano",
                 "nome": "Treinamento para Competições em Computação",
                 "periodo": "2013 - 2013",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Rodrigo Elias Francisco"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Treinamento para competições em computação - modalidade Maratona de Programação",
-                "periodo": "2014 - 2014",
                 "natureza": "Extensao",
                 "equipe": [
                     "Rodrigo Elias Francisco"
@@ -115,12 +106,20 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "BPMN como ferramenta para alinhar TI e Negócio: estudo de caso no IFGoiano",
-                "periodo": "2017 - 2017",
-                "natureza": "Pesquisa",
+                "nome": "Treinamento para competições em computação - modalidade Maratona de Programação",
+                "periodo": "2014 - 2014",
+                "natureza": "Extensao",
                 "equipe": [
-                    "Rodrigo Elias Francisco",
-                    "Aryel Evelin Vieira Garcia"
+                    "Rodrigo Elias Francisco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Dojo de Programação como atividade complementar à formação",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rodrigo Elias Francisco"
                 ]
             },
             {
@@ -136,18 +135,19 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "IFRequisitos - Levantamento dos processos de negócios do IF Goiano",
+                "nome": "BPMN como ferramenta para alinhar TI e Negócio: estudo de caso no IFGoiano",
                 "periodo": "2017 - 2017",
-                "natureza": "Outra",
+                "natureza": "Pesquisa",
                 "equipe": [
-                    "Rodrigo Elias Francisco"
+                    "Rodrigo Elias Francisco",
+                    "Aryel Evelin Vieira Garcia"
                 ]
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Dojo de Programação como atividade complementar à formação",
-                "periodo": "2015 - 2015",
-                "natureza": "Extensao",
+                "nome": "IFRequisitos - Levantamento dos processos de negócios do IF Goiano",
+                "periodo": "2017 - 2017",
+                "natureza": "Outra",
                 "equipe": [
                     "Rodrigo Elias Francisco"
                 ]
@@ -201,6 +201,12 @@
     "producao_bibliografica": {
         "livros": [],
         "artigos": [
+            {
+                "autores": "COSTA, LILIAN LÚCIA",
+                "titulo": "FRANCISCO, RODRIGO ELIAS;  MELO, MARCEL DA SILVA;  MATOS, FERNANDO BARBOSA;  FERREIRA, FRANK DA COSTA;  LOPES, IGOR GONZAGA;  Potencialidades da Inteligência Artificial na educação profissional e tecnológica",
+                "ano": "2026",
+                "periodico": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE). ISBN: 19830882   ."
+            },
             {
                 "autores": "FRANCISCO, RODRIGO ELIAS",
                 "titulo": "AMBRÓSIO, ANA PAULA LABOISSIÈRE;  JUNIOR, CLEON XAVIER PEREIRA;  FERNANDES, MÁRCIA APARECIDA;  Juiz Online no ensino de CS1 - lições aprendidas e proposta de uma ferramenta",

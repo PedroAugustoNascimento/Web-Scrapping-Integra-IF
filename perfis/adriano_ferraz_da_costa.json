@@ -142,6 +142,19 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Circuito Beija-Flor",
+                "periodo": "2026 - 2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rosenilde Nogueira Paniago",
+                    "Adriano Ferraz da Costa",
+                    "Heyde Francielle do Carmo França",
+                    "Patricia Gouvea Nunes",
+                    "Jose Henrique Rodrigues Machado"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Inteligência Artificial e Ciência de Dados aplicada a Agricultura de Precisão",
                 "periodo": "2026 - 2026",
                 "natureza": "Extensao",
@@ -149,19 +162,6 @@
                     "Adriano Ferraz da Costa",
                     "Heyde Francielle do Carmo França",
                     "Renato Domiciano Silva Rosado"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Circuito Beija-Flor",
-                "periodo": "2026 - 2026",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Adriano Ferraz da Costa",
-                    "Heyde Francielle do Carmo França",
-                    "Rosenilde Nogueira Paniago",
-                    "Patricia Gouvea Nunes",
-                    "Jose Henrique Rodrigues Machado"
                 ]
             },
             {
@@ -421,5 +421,18 @@
                 "instituicao": "Universidade do Estado de Mato Grosso"
             }
         ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.8741967678070068,
+            "indian": 2.8303170204162598,
+            "black": 1.947322130203247,
+            "white": 51.91123962402344,
+            "middle eastern": 15.252250671386719,
+            "latino hispanic": 26.184677124023438
+        }
     }
 }

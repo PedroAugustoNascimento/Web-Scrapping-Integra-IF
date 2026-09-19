@@ -12,6 +12,23 @@
                 "orientador": "Roberto Célio Limão de Oliveira"
             },
             {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Segurança da Informação",
+                "periodo": "2021 - 2022",
+                "instituicao": "FACULDADE FOCUS",
+                "orientador": "-"
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência do Ensino Superior",
+                "periodo": "2003 - 2003",
+                "instituicao": "S B I",
+                "orientador": "Marco Antonio Larosa"
+            },
+            {
                 "nivel": "Especialização",
                 "curso": "graduação em Gestão da Tecnologia de Informação",
                 "periodo": "2024 - 2025",
@@ -25,16 +42,9 @@
             },
             {
                 "nivel": "Especialização",
-                "curso": "graduação em Metodologia de Ensino de Filosofia e Sociologia",
-                "periodo": "2024 - 2025",
-                "instituicao": "CENTRO DE ESTUDOS DE ESPECIALIZACAO E EXTENSAO"
-            },
-            {
-                "nivel": "Especialização",
-                "curso": "Docência do Ensino Superior",
-                "periodo": "2003 - 2003",
-                "instituicao": "S B I",
-                "orientador": "Marco Antonio Larosa"
+                "curso": "graduação em Engenharia de Software",
+                "periodo": "2022 - 2023",
+                "instituicao": "FACULDADE FOCUS"
             },
             {
                 "nivel": "Especialização",
@@ -44,26 +54,22 @@
                 "orientador": "-"
             },
             {
-                "nivel": "Especialização"
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Filosofia",
+                "periodo": "2020 - 2023",
+                "instituicao": "Centro Univesitário Cidade Verde"
             },
             {
-                "nivel": "Especialização",
-                "curso": "em Segurança da Informação",
-                "periodo": "2021 - 2022",
-                "instituicao": "FACULDADE FOCUS",
-                "orientador": "-"
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Física",
+                "periodo": "2023 - 2025",
+                "instituicao": "Centro Univesitário Cidade Verde"
             },
             {
                 "nivel": "Graduação",
                 "curso": "Tecnologia em Processamento de Dados",
                 "periodo": "1995 - 1998",
                 "instituicao": "Instituto Manauara de Ensino Superior"
-            },
-            {
-                "nivel": "Graduação",
-                "curso": "Licenciatura em Filosofia",
-                "periodo": "2020 - 2023",
-                "instituicao": "Centro Univesitário Cidade Verde"
             }
         ],
         "atuacoes_profissionais": [
@@ -80,12 +86,12 @@
             {
                 "empresa": "VIP - Viabilização e Implantação de Projetos",
                 "periodo": "1998 - 2000",
-                "cargo": "Consultor de Tecnologia e Negócios, Celetista formal, Analista de Sistemas. Programador em C, Clipper e D Base Plus III Programável. Consultor em TI.."
+                "cargo": "Analista e Desenvolvedor de Sistemas, Celetista formal, Analista de Sistemas.Programador em C, Clipper e D Base Plus III Programável.Consultor em TI.."
             },
             {
                 "empresa": "TELECOMUNICAÇÕES DO AMAZONAS S/A",
                 "periodo": "1995 - 1998",
-                "cargo": "Consultor Interno, Celetista formal, Consultor Interno em TI.."
+                "cargo": "Consultor Interno e Programador, Celetista formal, Consultor Interno em TI.."
             },
             {
                 "empresa": "Fundação Centro de Análise Pesquisa e Inovação Tecnológica",
@@ -95,12 +101,12 @@
             {
                 "empresa": "SERSEP - Segurança Eletrônica",
                 "periodo": "2009 - 2010",
-                "cargo": "Analista de Sistemas, Consultor em TI. Auditor Interno.."
+                "cargo": "Analista e Desenvolvedor de Sistemas, Consultor em TI.Auditor Interno.."
             },
             {
                 "empresa": "Instituto de Tecnologia e Educação Galileo da Amazônia",
                 "periodo": "2010 - 2012",
-                "cargo": "Pesquisador.."
+                "cargo": "Pesquisador e Desenvolvedor de Sistemas."
             },
             {
                 "empresa": "Fundação de Amparo a Pesquisa do Estado do Amazonas",
@@ -115,7 +121,7 @@
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "periodo": "2014",
-                "cargo": "Coordenador Geral dos Cursos de Graduação, Coordenador Geral dos Cursos de Graduação (2018 - Atual); Coordenador do Eico de Tecnologia e Comunicação do Campus Itacoatiara (2014-2016); Professor de Lógica de Programação; Professor de Linguagem de Programação I; Professor de Linguagem de Programação II; Professor de Linguagem de Programação III; Professor de Estrutura de Dados; Professor de Redes de Computadores; Professor de Sistemas Operacionais I; Professor de Sistemas Operacionais II e Professor de Arquitetura de Computadores.."
+                "cargo": "Coordenador Geral dos Cursos de Graduação, Servidor público, Coordenador Geral dos Cursos de Graduação (2018 - Atual); Coordenador do Eico de Tecnologia e Comunicação do Campus Itacoatiara (2014-2016); Professor de Lógica de Programação; Professor de Linguagem de Programação I; Professor de Linguagem de Programação II; Professor de Linguagem de Programação III; Professor de Estrutura de Dados; Professor de Redes de Computadores; Professor de Sistemas Operacionais I; Professor de Sistemas Operacionais II e Professor de Arquitetura de Computadores.."
             }
         ],
         "direcao_administracao": "",
@@ -380,10 +386,10 @@
                 "ano": "2011"
             },
             {
-                "autores": "MACIEL, P. H. L.",
-                "titulo": "Junior; BLANCO, C",
-                "evento": "J. C.; Adelson Bezerra de Medeiros; Jandecy Cabral Leite; Análisis de la Implantación de Programas de Mantenimiento Total Productivo y Mantenimiento Preditivo para Mejoras en la Producción de Energía. XIV Convención de Ingeniería Eléctrica",
-                "local": "Santa Clara",
+                "autores": "Junior",
+                "titulo": "MACIEL, P",
+                "evento": "H. L.; BLANCO",
+                "local": "C. J. C.; Adelson Bezerra de Medeiros; Jandecy Cabral Leite; Análisis de la Implantación de Programas de Mantenimiento Total Productivo y Mantenimiento Preditivo para Mejoras en la Producción de Energía. XIV Convención de Ingeniería Eléctrica, Santa Clara",
                 "ano": "2011"
             },
             {

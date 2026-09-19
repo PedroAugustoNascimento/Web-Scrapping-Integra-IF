@@ -85,7 +85,7 @@
             }
         ],
         "direcao_administracao": "",
-        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nGraduacao (2014) - Licenciatura Em Informática.\nAperfeicoamento (2014) - Técnico Em Redes De Computadores.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nAperfeicoamento (2014) - Técnico Em Redes De Computadores.\nGraduacao (2014) - Licenciatura Em Informática.",
         "comissoes": "",
         "projetos": [
             {
@@ -95,26 +95,11 @@
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Bruno Monteiro",
-                    "Danileno Meireles do Rosário",
                     "Gervásio Protásio S. Cavalcante",
+                    "Danileno Meireles do Rosário",
                     "Hermínio S. Gomes"
                 ],
                 "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "Desenvolvimento de um Sistema de Baixo Custo para o Controle e Monitoramento de Ambiência em Aviários",
-                "periodo": "2018 - 2019",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Jamile Alves Pedro",
-                    "Danileno Meireles do Rosário",
-                    "Suelene de Jesus do Carmo Corrêa",
-                    "Ricardo Augusto Martins Cordeiro",
-                    "Carlos Alberto de Oliveira Júnior",
-                    "Eduardo Kenji Negrão Konno",
-                    "Jacqueline Cristina Teixeira do Rosário"
-                ]
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
@@ -129,14 +114,17 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "Ensino de Física através de arduíno e robótica para alunos de escolas periféricas do município de Castanhal",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
+                "nome": "Desenvolvimento de um Sistema de Baixo Custo para o Controle e Monitoramento de Ambiência em Aviários",
+                "periodo": "2018 - 2019",
+                "natureza": "Desenvolvimento",
                 "equipe": [
                     "Danileno Meireles do Rosário",
-                    "Jaime Luis Cardoso da Cruz Filho",
-                    "Dário Gean da Silva",
-                    "Melquisedeque de Sousa Pereira"
+                    "Suelene de Jesus do Carmo Corrêa",
+                    "Ricardo Augusto Martins Cordeiro",
+                    "Carlos Alberto de Oliveira Júnior",
+                    "Eduardo Kenji Negrão Konno",
+                    "Jamile Alves Pedro",
+                    "Jacqueline Cristina Teixeira do Rosário"
                 ]
             },
             {
@@ -173,24 +161,14 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "O Uso das Tecnologias Digitais Educacionais: Um Estudo de Caso",
-                "periodo": "2022 - 2023",
+                "nome": "Ensino de Física através de arduíno e robótica para alunos de escolas periféricas do município de Castanhal",
+                "periodo": "2019 - 2019",
                 "natureza": "Extensao",
                 "equipe": [
                     "Danileno Meireles do Rosário",
-                    "Jaqueline de Souza Farias",
-                    "Paulo Henrique Dias Maciel"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
-                "nome": "CULTURA DIGITAL: um estudo sobre a conscientização da segurança e ética digital no Instituto Federal do Pará - Campus Castanhal",
-                "periodo": "2022 - 2023",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Danileno Meireles do Rosário",
-                    "Helena da Silva Borges",
-                    "Maria Clara Santos"
+                    "Jaime Luis Cardoso da Cruz Filho",
+                    "Dário Gean da Silva",
+                    "Melquisedeque de Sousa Pereira"
                 ]
             },
             {
@@ -206,6 +184,39 @@
                     "Alessandra do Socorro Cavalcante Bitar",
                     "Wander Jefferson Lima de Souza",
                     "José Alcimar dos Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "IFMAKER ITINERANTE",
+                "periodo": "2026",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Danileno Meireles do Rosário",
+                    "Maria Eduarda da Silva Oliveira"
+                ],
+                "financiador": "Secretaria de Estado de Cultura do Pará,"
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "CULTURA DIGITAL: um estudo sobre a conscientização da segurança e ética digital no Instituto Federal do Pará - Campus Castanhal",
+                "periodo": "2022 - 2023",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Danileno Meireles do Rosário",
+                    "Helena da Silva Borges",
+                    "Maria Clara Santos"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "O Uso das Tecnologias Digitais Educacionais: Um Estudo de Caso",
+                "periodo": "2022 - 2023",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Danileno Meireles do Rosário",
+                    "Jaqueline de Souza Farias",
+                    "Paulo Henrique Dias Maciel"
                 ]
             }
         ]
@@ -349,6 +360,16 @@
                 },
                 {
                     "autor": "ROSARIO",
+                    "curso": "DANILENO M.,  GUIMARAES, J. R. S.,  Formação - Formação em BNCC-Computação (6º ao 9º Ano): práticas integradas nos Anos Finais",
+                    "ano": "2026"
+                },
+                {
+                    "autor": "ROSARIO",
+                    "curso": "DANILENO M.,  SILVA, F. M. M.,  SILVA, G. V. S. E.,  Formação - Formação em Educação Digital e BNCC-Computação para a Educação Básica de São Francisco do Pará",
+                    "ano": "2026"
+                },
+                {
+                    "autor": "ROSARIO",
                     "curso": "DANILENO M.,  Formação - Encontro Formativo para Professoras da Educação Infantil: Currículo de Educação Digital",
                     "ano": "2025"
                 },
@@ -468,14 +489,14 @@
                 },
                 {
                     "autores": "ROSARIO",
-                    "evento": "DANILENO M.,  OLIVEIRA, M. E. S.,  REIS, W. C.,  XII Semana de Integração em Ciência, Arte e Tecnologia (XII SICAT)",
+                    "evento": "DANILENO M.,  OHASHI, A. G. R.,  CORREA, S. J. C.,  AMORIM, F. S.,  II Semana Acadêmica de Informática do IFPA Campus Castanhal",
                     "ano": "2023",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal do Pará - Campus Castanhal."
                 },
                 {
                     "autores": "ROSARIO",
-                    "evento": "DANILENO M.,  OHASHI, A. G. R.,  CORREA, S. J. C.,  AMORIM, F. S.,  II Semana Acadêmica de Informática do IFPA Campus Castanhal",
+                    "evento": "DANILENO M.,  OLIVEIRA, M. E. S.,  REIS, W. C.,  XII Semana de Integração em Ciência, Arte e Tecnologia (XII SICAT)",
                     "ano": "2023",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal do Pará - Campus Castanhal."
@@ -489,7 +510,7 @@
                 },
                 {
                     "autores": "ROSARIO",
-                    "evento": "DANILENO M.,  NASCIMENTO, S. S.,  Jogos dos Institutos Federais (JIFs) ? Etapa Estadual 2022",
+                    "evento": "DANILENO M.,  NASCIMENTO, S. S.,  Jogos dos Institutos Federais (JIFs)  Etapa Estadual 2022",
                     "ano": "2022",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal do Pará - Campus Marabá."
@@ -552,6 +573,12 @@
             }
         ],
         "artigos": [
+            {
+                "autores": "ROSARIO, DANILENO M.",
+                "titulo": "SILVA, G. V. S. E.;  SILVA, F. M. M.;  REIS, A. A.;  Implementação do Currículo de Computação na Educação Básica: um Estudo de Caso para o Diagnóstico da Proficiência Digital Docente",
+                "ano": "2026",
+                "periodico": "Revista Brasileira de Informática na Educação (RBIE). ISBN: 23176121   ."
+            },
             {
                 "autores": "ROSÁRIO, Danileno Meireles do",
                 "titulo": "POLÍTICAS PÚBLICAS DE INCLUSÃO DIGITAL: UMA ANÁLISE DO PROJETO -JAPIM MOBI: CONECTANDO SABERES- NO MUNICÍPIO DE CASTANHAL/PAPUBLIC POLICIES FOR DIGITAL INCLUSION: AN ANALYSIS OF THE PROJECT -JAPIM MOBI: CONNECTING KNOWLEDGE- IN THE MUNICIPALITY OF CASTANHAL/PA",
@@ -714,8 +741,8 @@
                 "ano": "2019"
             },
             {
-                "autores": "ROSÁRIO, DANILENO",
-                "titulo": "FILHO, JOSÉ ARNALDO; ROSÁRIO, DENIS; SANTOSY, ALDRI; GERLA, MÁRIO; A relay placement mechanism based on UAV mobility for satisfactory video transmissions",
+                "autores": "SANTOSY, ALDRI",
+                "titulo": "ROSÁRIO, DANILENO; FILHO, JOSÉ ARNALDO; ROSÁRIO, DENIS; GERLA, MÁRIO; A relay placement mechanism based on UAV mobility for satisfactory video transmissions",
                 "evento": "2017 16th Annual Mediterranean Ad Hoc Networking Workshop (MedHocNet)",
                 "local": "Budva",
                 "ano": "2017"
@@ -796,7 +823,7 @@
             },
             {
                 "orientando": "Renato da Silva Santana & Vanessa Reis Ferreira",
-                "titulo": "O Uso da Plataforma ?Google Sala de Aula? como Ferramenta de Apoio na Disciplina de Química: um estudo de caso no Colégio Antônio Lemos ? Santa Izabel/PA",
+                "titulo": "O Uso da Plataforma Google Sala de Aula como Ferramenta de Apoio na Disciplina de Química: um estudo de caso no Colégio Antônio Lemos  Santa Izabel/PA",
                 "ano": "2019",
                 "curso": "Licenciatura em Informática",
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"

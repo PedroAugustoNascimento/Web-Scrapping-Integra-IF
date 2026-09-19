@@ -1,0 +1,354 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Estratégia de redução de consumo de energia em Redes de Sensores Sem Fio Heterogêneas utilizando Lógica Fuzzy",
+                "orientador": "Carlos Tavares da Costa Júnior",
+                "ano_inicio": 2009,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Estácio de Belém",
+                "ano_inicio": 2002,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Professor PARFOR",
+                "vinculo": "Professor PARFOR",
+                "descricao": "Professor da disciplina Programação Orientada a Objetos do Programa Nacional de formação de professores - PARFOR"
+            },
+            {
+                "empresa": "FUNDACAO AMAZONIA DE AMPARO A ESTUDOS E PESQUISAS - FAPESPA",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Bolsista / Pesquisador",
+                "vinculo": "Outro (especifique)",
+                "descricao": ""
+            },
+            {
+                "empresa": "FACULDADE DA AMAZÔNIA",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "FACULDADE DE BELÉM",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Professor do Curso Tecnologia da Informação Disciplina: Segurança da Informação",
+                "descricao": "Programação Orientada a Objetos - Java"
+            },
+            {
+                "empresa": "Faculdade de Estudos Avançados do Pará",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Professor do Curso Sistemas de Informação Disciplina: Estrutura de Dados I",
+                "descricao": "Paradigmas de Linguagens de Programação"
+            },
+            {
+                "empresa": "Instituto Federal do Amapá",
+                "ano_inicio": 2013,
+                "ano_fim": 2018,
+                "funcao": "Professor efetivo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "INSTITUTO FEDERAL DO PARANA",
+                "ano_inicio": 2018,
+                "ano_fim": 2024,
+                "funcao": "PROFESSOR EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Pará",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "PROFESSOR EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal do Amapá\nInstituto Federal de Educação, Ciência e Tecnologia do Amapá (2014 - 2015) : Coordenador Do Curso Técnico Em Informática.",
+        "ensino": ": Faculdade de Estudos Avançados do Pará\nGraduacao (2013 - 2013) - Sistemas De Informação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Computação Aplicada e Sistemas Inteligentes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Suelene De Jesus Do Carmo Corre&#770;A",
+                    "Ericson Sarmento Costa",
+                    "Andrea Guimaraes Ribeiro Ohashi",
+                    "Bosco Silveira Brito",
+                    "Caren Vanessa Pinheiro De Castro"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "LÓGICA FUZZY APLICADA COMO UMA ESTRATÉGIA PARA COMBATER A EVASÃO ESCOLAR,",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "Sistema de compartilhamento de arquivos acadêmicos - SICAA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "Introdução a robotica com lego mindstorms",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Joel Ferreira Junior",
+                    "Lucas Souza"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "ROBÓTICA EDUCACIONAL",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "COMPUTAÇÃO DESPLUGADA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Lourival Alcântara Junior",
+                    "Luis Libaneo"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "ROBÓTICA PARA OBR",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Joel Ferreira Junior",
+                    "Lucas Souza"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "Robótica com lego mindstorms",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Joel Ferreira Junior",
+                    "Lucas Souza"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "LINUX BÁSICO",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Rafael Cavalcante"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "Desenvolvimento de Jogos educativos para nova ferramenta no processo de ensino aprendizagem da matemática",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Ana Beztriz Oliveira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "Introdução a robótica educacional do lego",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "Desenvolvimento de jogos educativos utilizando realidade virtual e aumentada",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal do Amapá",
+                "nome": "GINCANA DO CONHECIMENTO",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Christiano Do Carmo De Oliveira Maciel",
+                    "Marcos Quintairos",
+                    "Karoline Fernandes Siqueira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "Christiano",
+                    "software": "C. O. Maciel.,  SISRETEC",
+                    "ano": "2015",
+                    "finalidade": "SISTEMA DE CONTROLE DE RECURSOS DIDÁTICOS."
+                },
+                {
+                    "autor": "Christiano",
+                    "software": "C. O. Maciel.,  SISLAB",
+                    "ano": "2015",
+                    "finalidade": "SISTEMA DE RESERVA DE LABORATÓRIOS."
+                },
+                {
+                    "autor": "Christiano",
+                    "software": "C. O. Maciel.,  SISBIBLIO",
+                    "ano": "2014",
+                    "finalidade": "SISTEMA DE CONTROLE DE EMPRESTIMO E DEVOLUÇÃO DE LIVROS."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Christiano",
+                    "titulo": "C. O. Maciel.,  Segurança da Informação",
+                    "ano": "2013",
+                    "instituicao_promotora": "Faculdade de Belém."
+                },
+                {
+                    "autores": "Christiano",
+                    "titulo": "C. O. Maciel.,  Desenvolvimento de um Sistema de Automação para acionamento remoto de dispositivos utilizando celular / PDA",
+                    "ano": "2008",
+                    "instituicao_promotora": "IESAM - Instituto dos Estudos Superiores da Amazônia."
+                },
+                {
+                    "autores": "Christiano",
+                    "titulo": "C. O. Maciel.,  Desenvolvimento de uma Página Educacional na Web para estudos com simulaçoes de Campos Eletromagnéticos",
+                    "ano": "2003",
+                    "instituicao_promotora": "Sociedade Brasileira de Matemática Aplicada e Computacional."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Christiano, C. O. Maciel.",
+                "titulo": "POLÍTICA DE MÚLTIPLOS SALTOS PARA AUMENTO DE PERÍODO DE ESTABILIDADE EM RSSF HETEROGÊNEAS USANDO LÓGICA NEBULOSA?",
+                "evento": "IX CONNEPI",
+                "local": "SÃO LUIS",
+                "ano": "2014"
+            },
+            {
+                "autores": "Melo, M A",
+                "titulo": "Christiano, C",
+                "evento": "O. Maciel.; Controle energeticamente eficiente de múltiplos saltos para RSSF heterogêneas utilizando Lógica Fuzzy. SBRC",
+                "local": "",
+                "ano": "2013"
+            },
+            {
+                "autores": "Melo, M A",
+                "titulo": "Christiano, C",
+                "evento": "O. Maciel.; Multi-hop Energy-efficient Control for Heterogeneous Wireless Sensor Networks Using Fuzzy Logic. Multi-hop Energy-efficient Control for Heterogeneous Wireless Sensor Networks Using Fuzzy Logic",
+                "local": "",
+                "ano": "2013"
+            },
+            {
+                "autores": "Christiano, C. O. Maciel.",
+                "titulo": "Tássio C",
+                "evento": "Carvalho; José Jailton Júnior; Melo",
+                "local": "M A; Kelvin L. Dias; Carlos Tavares da Costa Júnior; Cluster-Head ideal em RSSF heterogêneas utilizando Lógica Fuzzy. Congresso Sul Brasileiro de Computação, Criciúma",
+                "ano": "2012"
+            },
+            {
+                "autores": "Christiano, C. O. Maciel.",
+                "titulo": "Tássio C",
+                "evento": "Carvalho; José Jailton Júnior; Melo",
+                "local": "M A; Carlos Tavares da Costa Júnior; ESTRATÉGIA CENTRALIZADA ENERGETICAMENTE EFICIENTE PARA RSSF HETEROGENEAS UTILIZANDO LÓGICA FUZZY. Conferencia sobre Redes de Computadores, Aveiro",
+                "ano": "2012"
+            },
+            {
+                "autores": "Christiano, C. O. Maciel.",
+                "titulo": "José Jailton Júnior; Tássio C",
+                "evento": "Carvalho; Kelvin L. Dias; Estratégia de redução de consumo de energia em Redes de Sensores Sem Fio utilizando Lógica Fuzzy. Congresso Brasileiro de Sistemas Fuzzy",
+                "local": "Sorocaba",
+                "ano": "2010"
+            },
+            {
+                "autores": "Christiano, C. O. Maciel.",
+                "titulo": "Desenvolvimento de uma pagina educacional na web para simulação computacional de ondas de campos eletromagnéticos",
+                "evento": "CNMAC",
+                "local": "SAO JOSE DO RIO PRETO",
+                "ano": "2003"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Socorro Silva da Costa",
+                "titulo": "O uso das TICs no processo de ensino aprendizagem: As práticas pedagógicas dos educadores da EMEF. DR. JOSÉ JOÃO DE MELO.",
+                "ano": "2013",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Administração em Sistemas de Informação",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "André Luiz Zambalde",
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciencia da Computação",
+                "instituicao": "Centro Universitário Presidente Antônio Carlos",
+                "ano_inicio": 2006,
+                "ano_fim": 2009
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "CETEC-TOPLINE",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Professor",
+                "vinculo": "Contratado",
+                "descricao": "Disciplinas lecionadas: -Web Design (Técnico Informática) -Design Gráfico (Técnico Informática) -Desenvolvimentos de Sistemas de Computadores (Técnico Informática)"
+            },
+            {
+                "empresa": "MiraLine",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Desenvolvedor",
+                "vinculo": "Empregado",
+                "descricao": "Desenvolvimento de Sites e Portais para internet com o uso da linguagem PHP, JavaScript, CSS, e Banco de Dados MySQL"
+            },
+            {
+                "empresa": "Centro Educacional Infância e Adolescência",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Professor",
+                "descricao": "Professor Informatica Básica a Avançada"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Professor Colaborador",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Lecionadas: -Redes de Computadores (Técnico em Informática)"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Lecionadas: -Programação Web (Curso Superior em Analise e Desenvolvimento de Sistemas de Computadores e Curso Técnico em Informática) -Programação Orientada a Objeto (Curso Superior em Analise e Desenvolvimento de Sistemas de Computadores e Curso Técnico em Informática) -Programação Estruturada (Curso Superior em Analise e Desenvolvimento de Sistemas de Computadores) -Analise de Sistemas (Técnico em Informática) -Banco de Dados (Técnico em Informática)"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Lecionadas: -Desenvolvimento Baseado em Frameworks (Curso Superior em Análise e Desenv. de Sistemas) -Administração de Banco de Dados (Curso Superior em Análise e Desenv. de Sistemas) -Programação para Internet (Curso Superior em Análise e Desenv. de Sistemas) -Programação Orientada a Objetos (Curso Superior em Análise e Desenv. de Sistemas) -Banco de Dados (Curso Superior em Análise e Desenv. de Sistemas)"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (2010 - 2012) .",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LIMA",
+                    "titulo": "Iklenio. P.,  Introdução à BioInformática",
+                    "ano": "2009",
+                    "instituicao_promotora": "UNIPAC."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "LIMA",
+                    "curso": "Iklenio. P.,  Introdução a animação com Flash e Action Script",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "Iklenio. P.,  Tratamento de Fotos no Adobe Photoshop",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "LIMA",
+                    "curso": "Iklenio. P.,  Criação de Vídeos",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 0.99,
+        "probabilidades_originais": {
+            "asian": 10.449491500854492,
+            "indian": 12.497655868530273,
+            "black": 6.050034523010254,
+            "white": 10.958514213562012,
+            "middle eastern": 10.301316261291504,
+            "latino hispanic": 49.74298095703125
+        }
+    }
+}

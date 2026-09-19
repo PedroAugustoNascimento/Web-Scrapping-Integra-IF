@@ -65,17 +65,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Rede sem fio de sensores e atuadores para movimentação e controle de robôs humanoides",
-                "periodo": "2017 - 2018",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Renan Augusto Starke",
-                    "Daniel Lohmann",
-                    "Hugo Marcondes"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Desenvolvimento, fabricação e caracterização de uma matriz flexível de sensores capacitivos para aplicações em robótica",
                 "periodo": "2017 - 2019",
                 "natureza": "Pesquisa",
@@ -83,6 +72,17 @@
                     "Renan Augusto Starke",
                     "Daniel Lohmann",
                     "Fernando Miranda"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rede sem fio de sensores e atuadores para movimentação e controle de robôs humanoides",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Hugo Marcondes"
                 ]
             },
             {
@@ -248,8 +248,8 @@
                     "finalidade": "Calibração de medidores de energia.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026001594-4."
                 },
                 {
-                    "autor": "LOHMANN",
-                    "software": "D.,  STARKE, R. A.,  HAMAD, A. F.,  Firmware do subsistema de gerenciamento de um dispositivo eletrônico de medição de parâmetros elétricos e sensores em ambientes hospitalares",
+                    "autor": "STARKE",
+                    "software": "R. A.,  LOHMANN, D.,  HAMAD, A. F.,  Firmware do subsistema de gerenciamento de um dispositivo eletrônico de medição de parâmetros elétricos e sensores em ambientes hospitalares",
                     "ano": "2025",
                     "finalidade": "Sistema de monitoramento de energia e processos em ambientes industriais.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026001595-2."
                 },

@@ -1,0 +1,503 @@
+{
+    "campus": "- Campus São Paulo do Potengi",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal do Ceará",
+                "titulo": "Acesso a Dados A partir de Ontologias Utilizando Mapeamentos Heterogêneos e Programação em Lógica",
+                "orientador": "Bernadette Farias Lóscio",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual do Ceará",
+                "ano_inicio": 2004,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual do Ceará",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Professor Formador",
+                "vinculo": "Universidade Aberta do Brasil",
+                "descricao": "Disciplinas: - Laboratório de Informática - Fundamentos de Engenharia de Software - Banco de Dados"
+            },
+            {
+                "empresa": "Universidade Estadual do Ceará",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Pesquisador e Desenvolvedor",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Estadual do Ceará",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Pesquisador e Desenvolvedor",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Banco do Nordeste do Brasil S/A",
+                "ano_inicio": 2002,
+                "ano_fim": 2002,
+                "funcao": "Bolsista de Nível Médio",
+                "vinculo": "Não informado",
+                "descricao": "Estagiária de Nível Médio"
+            },
+            {
+                "empresa": "Célula de Desenvolvimento (CEDES) do Dpto de Edificações e Rodovias do CE",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Desenvolvedor",
+                "vinculo": "Estagiário",
+                "descricao": "Atividades de Levantamento e Análise de Requisitos Implementação de Sistemas para Web"
+            },
+            {
+                "empresa": "Universidade Federal do Ceará",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Bolsista",
+                "vinculo": "Outro (especifique)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Lourenço Filho",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas já ministradas: - Banco de Dados I - Análise e Projeto de Sistemas - Desenvolvimento de Sistemas I - Teoria Geral dos Sistemas - Orientação de Monografia de conclusão de curso"
+            },
+            {
+                "empresa": "Laboratório de Desenvolvimento de Software - IFCE",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Pesquisador",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário Fametro",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas já ministradas: - Fundamentos de banco de dados - Técnicas de implementação de banco de dados - Programação orientada a objetos - Análise de Projeto de Sistemas OO - Desenvolvimento de Sistemas Web"
+            },
+            {
+                "empresa": "LCA Consulting",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Consultor - Conteudista",
+                "vinculo": "Não informado",
+                "descricao": "Consultor e conteudista de projetos da LCA e seus parceiros"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor Assistente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Estadual do Ceará",
+                "nome": "Pesquisa e Desenvolvimento voltados para aplicações Web",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Franklin De Oliveira Soares",
+                    "Antônio De Barros Serra",
+                    "Paulo Roberto"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Estadual do Ceará",
+                "nome": "UECE Mobile - LARCES_PBM",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Ana Luiza Bessa De Paula Barros",
+                    "Marcial Porto Fernandez",
+                    "Joaquim Celestino Junior",
+                    "Laure Waha Mendouga",
+                    "André Luis De Oliveira Campos",
+                    "Felipe Colares Torres",
+                    "Daniel Pereira Vieira",
+                    "Rafael Ramos Soares",
+                    "Francisco Wagner C. Aquino",
+                    "Marcel M. De Alencar"
+                ],
+                "financiador": "Hewlett-Packard Brasil - Matriz,",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Universidade Federal do Ceará",
+                "nome": "ONTools - Um Ambiente para Alinhamento, Integração e Evolução de Ontologias",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Bernadette Farias Lóscio",
+                    "Danusa Ribeiro Bezerra Da Cunha",
+                    "Hélio Rodrigues De Oliveira",
+                    "Fabiana Freire De Araújo"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "LCA Consulting",
+                "nome": "Projeto Líder Constrututor do Amanhã",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Fernando Wagner Brito Hortêncio Filho",
+                    "Carmem Silvia De Carvalho Rêgo",
+                    "Raquel Farias Lima"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Programa Institucional de Bolsa de Iniciação à Docência (PIBID)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes"
+                ],
+                "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,",
+                "ano_inicio": 2014,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Promoção de saúde, lazer e inclusão digital na terceira idade: aproximando saberes e experiências na Região do Potengi.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Camila Nascimento De Oliveira Taumaturgo"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "The English Click: plataforma de iniciação ao estudo de programação associada à língua inglesa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Tito Matias Ferreira Junior"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Desenvolvimento de uma plataforma virtual para elaboração de grades de horários com adaptações para versões modulares.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Alexmay Soares Nunes",
+                    "Camila Nascimento De Oliveira Taumaturgo"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Informatizando a Matemática: atividades de problemas de contexto técnico resolvidos com aplicação de conceitos matemáticos.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Alexmay Soares Nunes",
+                    "Camila Nascimento De Oliveira Taumaturgo",
+                    "Juliana Maria Schivani Alves"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Implementação de rotinas de cruzamento de horários e disponibilidades a partir do teorema de Hall no sistema SADHI",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Alexmay Soares Nunes"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Do \"Bom Uso da Natureza\" como princípio fundamental da ética ambiental: Um estudo crítico a partir da proposta de Catherine Larrère",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Alexandre Medeiros De Araujo"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "SADHI - Sistema de Apoio à Decisão para Elaboração de Horários",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fernanda Lígia Rodrigues Lopes",
+                    "Alexmay Soares Nunes",
+                    "Marcelo Ezequiel Moura Aragão",
+                    "Ezequiel Apolonio Brito De Araújo"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "ARAÚJO",
+                    "evento": "M.P.,  PENATIERI, G. R.,  LOPES, F. L. R.,  MORAIS, J.M.,  II Seminário de docência e conteporaneidade",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRN."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SACRAMENTO, E. R.",
+                "titulo": "VIDAL, V. M. P.;  MACEDO, J. A. F.;  LOSCIO, B. F.;  LOPES, F. L. R.;  CASANOVA, M. A.;  Towards Automatic Generation of Application Ontologies",
+                "ano": "2010",
+                "periodico": "Journal of Information and Data Management - JIDM. ISBN: 21787107   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "AZEVEDO, A. L. H.",
+                "titulo": "ARAUJO, H",
+                "evento": "B.; CARVALHO",
+                "local": "P. C.; FERREIRA, T. M.; LOPES, F. L. R.; THE ENGLISH CLICK: PLATAFORMA DE INICIAÇÃO AO ESTUDO DE PROGRAMAÇÃO ASSOCIADA Á LÍNGUA INGLESA. II Seminário Virtual de Pesquisa e Extensão do IFRN, São Paulo do Potengi",
+                "ano": "2021"
+            },
+            {
+                "autores": "SILVA, A. M.",
+                "titulo": "SILVA, C",
+                "evento": "M.; XAVIER",
+                "local": "J. D. S.; FERREIRA, T. M.; LOPES, F. L. R.; INSTRUMENTALIZAÇÃO À PRÁTICA PROFISSIONAL DO CURSO DE INFONET-SPP: PRIMEIRAS AÇÕES. II Seminário Virtual de Pesquisa e Extensão do IFRN, São Paulo do Potengi",
+                "ano": "2021"
+            },
+            {
+                "autores": "ARAGAO, M. E. M.",
+                "titulo": "ARAUJO, E",
+                "evento": "A. B.; LOPES",
+                "local": "F. L. R.; NUNES, A. S.; Sistema de Apoio à Decisão De Horários, Gerência de Salas/Turmas e Recurso de Capacitação. A Semana de Ciência, Tecnologia e Extensão do Instituto Federal do Rio Grande do Norte (Secitex), Natal",
+                "ano": "2018"
+            },
+            {
+                "autores": "ARAGAO, M. E. M.",
+                "titulo": "ARAUJO, E",
+                "evento": "A. B.; LOPES",
+                "local": "F. L. R.; NUNES, A. S.; SADHI: Sistema De Apoio à Decisão de Horários do Campus Ipanguaçu. III Encontro Internacional de Jovens Investigadores (JOIN), Fortaleza",
+                "ano": "2018"
+            },
+            {
+                "autores": "LOPES, F. L. R.",
+                "titulo": "SACRAMENTO, E",
+                "evento": "R.; LOSCIO",
+                "local": "B. F.; Using Heterogeneous Mappings for Rewriting SPARQL Queries. International Workshop on Web Semantics and Information Processing - in conjunction with International Conference on Database and Expert Systems Applications, Vienna",
+                "ano": "2012"
+            },
+            {
+                "autores": "SACRAMENTO, E. R.",
+                "titulo": "VIDAL, V",
+                "evento": "M. P.; MACEDO",
+                "local": "J. A. F.; LOSCIO, B. F.; LOPES, F. L. R.; CASANOVA, M. A.; LEMOS, F. C.; Towards Automatic Generation of Application Ontologies. 12th. International Conference on Enterprise Information Systems, Ilha da Madeira",
+                "ano": "2010"
+            },
+            {
+                "autores": "SACRAMENTO, E. R.",
+                "titulo": "VIDAL, V",
+                "evento": "M. P.; MACEDO",
+                "local": "J. A. F.; LOSCIO, B. F.; LOPES, F. L. R.; CASANOVA, M. A.; Towards Automatic Generation of Application Ontologies. 25° Simpósio Brasileiro de Banco de Dados, Belo Horizonte",
+                "ano": "2010"
+            },
+            {
+                "autores": "ARAUJO, F. F.",
+                "titulo": "LOPES, F",
+                "evento": "L. R.; LOSCIO",
+                "local": "B. F.; MeMO: A Clustering based Approach for Merging Multiple Ontologies. 9th International Workshop on Web Semantics, Bilbao",
+                "ano": "2010"
+            },
+            {
+                "autores": "LOPES, F. L. R.",
+                "titulo": "OLIVEIRA, W",
+                "evento": "G. C.; LOSCIO",
+                "local": "B. F.; Geração de Ontologias em OWL a partir de Bancos de Dados Relacionais. II Congresso Tecnológico InfoBrasil, Fortaleza",
+                "ano": "2009"
+            },
+            {
+                "autores": "ARAUJO, F. F.",
+                "titulo": "OLIVEIRA, H",
+                "evento": "R.; LOPES",
+                "local": "F. L. R.; CUNHA, D. R. B.; OLIVEIRA, D. M.; LOSCIO, B. F.; MeMOTool: Uma Ferramenta para Merging Múltiplo de Ontologias. XXIV Simpósio Brasileiro de Banco de Dados, Fortaleza",
+                "ano": "2009"
+            },
+            {
+                "autores": "LOPES, F. L. R.",
+                "titulo": "LOSCIO, B",
+                "evento": "F.; Utilizando mapeamentos semânticos para acesso a dados XML a partir de Ontologias. XXIV Simpósio Brasileiro de Banco de Dados",
+                "local": "Fortaleza",
+                "ano": "2009"
+            },
+            {
+                "autores": "OLIVEIRA, H. R.",
+                "titulo": "PINHEIRO, A",
+                "evento": "M.A; CUNHA",
+                "local": "D. R. B.; LOPES, F. L. R.; LOSCIO, B. F.; Utilizando Tecnologias Semânticas para Facilitar a Formação de Parcerias no Desenvolvimento de Projetos P&D. Congresso Tecnológico InfoBrasil, Fortaleza",
+                "ano": "2009"
+            },
+            {
+                "autores": "FERNANDEZ, M. P.",
+                "titulo": "BARROS, A",
+                "evento": "L. B. P; CELESTINO JUNIOR",
+                "local": "J.; MENDOUGA, L. W.; TORRES, F. C.; LOPES, F. L. R.; CAMPOS, A. L. O.; VIEIRA, D. P.; SOARES, R. R.; Uma Nova Arquitetura para Validação de Políticas em um Sistema de Gerenciamento Baseado em Políticas. 24° Simpósio Brasileiro de Redes de Computadores, Curitiba",
+                "ano": "2006"
+            },
+            {
+                "autores": "BARROS, A. L. B. P",
+                "titulo": "FERNANDEZ, M",
+                "evento": "P.; CELESTINO JUNIOR",
+                "local": "J.; MENDOUGA, L. W.; LOPES, F. L. R.; CAMPOS, A. L. O.; TORRES, F. C.; VIEIRA, D. P.; SOARES, R. R.; Un Outil Générique De Gestion Par Politiques: Validation De l?Implémentation. 7ème Colloque Francophone de Géstion de Réseaux et de Services, Bordeaux",
+                "ano": "2006"
+            },
+            {
+                "autores": "BARROS, A. L. B. P",
+                "titulo": "FERNANDEZ, M",
+                "evento": "P.; CELESTINO JUNIOR",
+                "local": "J.; MENDOUGA, L. W.; LOPES, F. L. R.; CAMPOS, A. L. O.; TORRES, F. C.; VIEIRA, D. P.; SOARES, R. R.; Validation De Politiques Et Détection De Conflits Pour La Gestion Par Politiques. 7ème Colloque Francophone de Géstion de Réseaux et de Services, Bordeaux",
+                "ano": "2006"
+            },
+            {
+                "autores": "LOPES, F. L. R.",
+                "titulo": "CAMPOS, A",
+                "evento": "L. O.; AQUINO",
+                "local": "F. W. C.; BARROS, A. L. B. P; Detecção e Resolução de Conflitos entre Políticas para Gerenciamento de Redes de Computadores. X Semana Universitária da UECE, realizada durante a 57a Reunião Anual da SBPC, Fortaleza",
+                "ano": "2005"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Marcelo Ezequiel Moura Aragão",
+                "titulo": "SADHI: SISTEMA DE APOIO À DECISÃO DE HORÁRIOS DO CAMPUS IPANGUAÇU",
+                "ano": "2018",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Vânia Karla Dantas Ricardo",
+                "titulo": "Orientação de Estágio de Docência",
+                "ano": "2017",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Sâmara Beatriz Sugimoto Faustino",
+                "titulo": "Orientação de Estágio de Docência",
+                "ano": "2017",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Guilherme Bruno de Melo Lima",
+                "titulo": "Orientação de Estágio de Docência",
+                "ano": "2017",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Flávia Daniely de Oliveira Silva",
+                "titulo": "Orientação de Estágio de Docência",
+                "ano": "2017",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Flávia Daniely de Oliveira Silva",
+                "titulo": "As Tecnologias da Informação e Comunicação no Processo de Ensino e Aprendizagem: Um Estudo a partir da Visão de Docentes de Informática Do IFRN",
+                "ano": "2017",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Anderson Felipe, Luiz Fernando, Sarah Amélia",
+                "titulo": "Doutor Ovinos: website de suporte a cuidados de ovinos",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Antônia Priscila Lopes de Oliveira",
+                "titulo": "Orientação de estágio docente",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Tuesla Bezerra Dos Santos",
+                "titulo": "Orientação de estágio docente",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Diego de Matos Bezerra",
+                "titulo": "Geração de grafos a partir de consultas SPARQL para seleção de fontes de dados através de similaridades entre",
+                "ano": "2013",
+                "curso": "Bacharelado em Sistemas de Informação",
+                "instituicao": "Faculdade Lourenço Filho"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.9365365505218506,
+            "indian": 1.2734960317611694,
+            "black": 0.4444841742515564,
+            "white": 47.56477355957031,
+            "middle eastern": 10.530386924743652,
+            "latino hispanic": 37.25032043457031
+        }
+    }
+}

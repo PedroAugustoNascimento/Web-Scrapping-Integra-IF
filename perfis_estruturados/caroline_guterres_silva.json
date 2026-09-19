@@ -1,0 +1,531 @@
+{
+    "campus": "- Campus Sertão",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Ciência da Computação",
+                "instituicao": "Universidade Federal de Santa Maria",
+                "titulo": "Catálogo de Padrões de Software no Desenvolvimento de Projetos Acadêmicos em Parceria com Outras Instituições",
+                "orientador": "Lisandra Manzoni Fontoura",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Metodologias e Práticas para Educação Básica EAD",
+                "instituicao": "Instituto Federal Farroupilha - Campus Jaguari",
+                "orientador": "Thiago Santi Bressan",
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Tecnologias em Educação a Distância",
+                "instituicao": "Faculdade São Luís",
+                "orientador": "",
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Graduação",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "de Formação de Professores Para A Educação P",
+                "instituicao": "Universidade Federal de Santa Maria",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas Para Internet",
+                "instituicao": "Universidade Federal de Santa Maria",
+                "ano_inicio": 2014,
+                "ano_fim": 2017
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Prefeitura Municipal de Tupanciretã",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Estagiário",
+                "vinculo": "Estagiário",
+                "descricao": "Estágio obrigatório curso técnico informática"
+            },
+            {
+                "empresa": "Instituto Federal Farroupilha- Campus Júlio de Castilhos",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Monitoria",
+                "vinculo": "Bolsista",
+                "descricao": "Monitoria em Algoritmos (Linguagem C)"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Maria",
+                "ano_inicio": 2019,
+                "ano_fim": 2021,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista CAPES"
+            },
+            {
+                "empresa": "Colégio Politécnico da Universidade Federal de Santa Maria",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista no projeto intitulado Prática no Ensino e Desenvolvimento de Soluções Computacionais Acessíveis"
+            },
+            {
+                "empresa": "Colégio Politécnico da Universidade Federal de Santa Maria",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista do projeto intitulado \"Design de interfaces usáveis e acessíveis em soluções computacionais para apoiar o ensino/ aprendizagem\""
+            },
+            {
+                "empresa": "Colégio Politécnico da Universidade Federal de Santa Maria",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista no projeto intitulado Capital Intelectual das Universidades e o Conhecimento Produzido no Âmbito da Pesquisa Universitária"
+            },
+            {
+                "empresa": "Colégio Politécnico da Universidade Federal de Santa Maria",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista no projeto intitulado Implantação da Assessoria de Comunicação do Colégio Politécnico da UFSM"
+            },
+            {
+                "empresa": "Tellfree Brasil Telefonia IP",
+                "ano_inicio": 2018,
+                "ano_fim": 2019,
+                "funcao": "Programador Junior",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Tellfree Brasil Telefonia IP",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Estagiária",
+                "vinculo": "Estagiária",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Farroupilha - Frederico Westphalen",
+                "ano_inicio": 2021,
+                "ano_fim": 2022,
+                "funcao": "Professora Substituta",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Legalle Concursos e Soluções Integradas Ltda., LEGALLE",
+                "ano_inicio": 2021,
+                "ano_fim": 2024,
+                "funcao": "Banca Examinadora",
+                "vinculo": "Contrato de Prestação de Servi",
+                "descricao": "Integrante da Banca Examinadora (Coordenação, Equipe Técnica e Equipe de Apoio) com as funções de: elaboração e revisão de questões para Concursos Públicos e Processos Seletivos da área de formação acadêmica e resposta de recursos e realização de trabalhos de coordenação, execução, planejamento e execução de Concursos Públicos e Processos Seletivos"
+            },
+            {
+                "empresa": "Mais Pré Vestibular",
+                "ano_inicio": 2022,
+                "ano_fim": 2022,
+                "funcao": "Professora Informática Preparatório Concurso",
+                "vinculo": "Contrato Temporário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Catarinense Campus Concórdia",
+                "ano_inicio": 2023,
+                "ano_fim": 2024,
+                "funcao": "Professora de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial - SC",
+                "ano_inicio": 2024,
+                "ano_fim": 2024,
+                "funcao": "Professora de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "PROCERGS - Cia de Processamento de Dados do Estado do Rio Grande do Sul",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Analista de Sistema",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Servidor público",
+                "descricao": "Docente - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Sertão"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal Farroupilha - Frederico Westphalen\nGraduacao (2022 - 2022) - Medicina Veterinária.\nPos-graduacao (2022) - Pós Graduação Em Computação Aplicada.\nOutro (2022 - 2022) .\nGraduacao (2022 - 2022) - Graduação Em Ciência Da Computação.\nGraduacao (2022) - Graduação Em Ciência Da Computação.\nEnsino-medio (2021) .",
+        "comissoes": ": Colégio Politécnico da Universidade Federal de Santa Maria\nMembro Suplente Representante Dos Discentes Da Comissão Do Núcleo Docente Estruturante Do Curso Superior De Tecnologia Em Sistemas Para Internet, Colégio Politécnico (2016 - 2018).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Farroupilha- Campus Júlio de Castilhos",
+                "nome": "Hardware sobre plataforma livre para demonstrar por sinalização de luz a comunicação de dados em um ambiente de rede de computadores.",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Isabella Sakis",
+                    "Mateus Moura Siqueira",
+                    "Luciano Schons Trevisan",
+                    "Fabio Teixeira Franciscato"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Sistema Integrado de Simulação ASTROS - Grupo de Mísseis e Foguetes (SIS-ASTROS GMF)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Lisandra Manzoni Fontoura"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Prática no Ensino e Desenvolvimento de Soluções Computacionais Acessíveis",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Viniciusdiehl De Franceschi",
+                    "Marcos Alexandre Rose Silva",
+                    "Emerson Dianini Miranda Machado",
+                    "Vanessa Gindri Vieira"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Design de interfaces usáveis e acessíveis em soluções computacionais para apoiar o ensino/ aprendizagem",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Marcos Alexandre Rose Silva",
+                    "Vinicius Coelho",
+                    "Lucas Roratto Da Silva"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Proposta de Abordagem para Definição de Processos em Projetos Envolvendo Universidade-Governo-Empresa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Lisandra Manzoni Fontoura"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Proposta de Abordagem para Definição de Processos em Projetos Envolvendo Universidade-Governo-Empresa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Lisandra Manzoni Fontoura"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Maria",
+                "nome": "Capital Intelectual das Universidades e o Conhecimento Produzido no Âmbito da Pesquisa Universitária",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Juçara Salete Gubiani",
+                    "Daniel Arruda Noro",
+                    "Igor Camargo Moiano"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Colégio Politécnico da Universidade Federal de Santa Maria",
+                "nome": "Implantação da Assessoria de Comunicação no Colégio Politécnico da UFSM",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Barbara Predebon Nogara",
+                    "Jaime Peixoto Stecca",
+                    "Marta Von Ende",
+                    "Vinicios Ragagnin Portella",
+                    "Alessandro Carvalho Miola"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal Farroupilha - Frederico Westphalen",
+                "nome": "Conexão Guria",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "André Fiorin"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Farroupilha - Frederico Westphalen",
+                "nome": "Formação em Tecnologias da Informação e Comunicação (TIC) em uma Perspectiva Prática aos Docentes das Redes Municipais da Educação da Região de Atuação do IFFAR - Frederico Westphalen",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Bruno Batista Boniati",
+                    "Monique Da Silva",
+                    "Graciela Fagundes Rodrigues",
+                    "Tauani Studzinski De Oliveira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Farroupilha - Frederico Westphalen",
+                "nome": "Formação em Tecnologias da Informação e Comunicação (TIC) em uma Perspectiva Prática aos Docentes das Redes Municipais da Educação da Região de Atuação do IFFAR - Frederico Westphalen",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Bruno Batista Boniati",
+                    "Tauani Stundzinski"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense Campus Concórdia",
+                "nome": "Arquitetura para a Promoção da Privacidade e Interoperabilidade de Dados em Processos de Comunicação de Registros Médico-Hospitalares",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Heitor Scalco Neto",
+                    "Caroline Guterres Silva"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Catarinense Campus Concórdia",
+                "nome": "Uma Proposta de Arquitetura de API para Adequação à Lei Geral de Proteção de Dados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Heitor Scalco Neto"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Monitoria de informática",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Caroline Guterres Silva",
+                    "Ivan Gabriel Dos Santos Chaves",
+                    "Joaquim Correa Fortunato"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "C. G.,  MOIANO, I. C.,  SCHIEFELBEIN, U. H.,  FRACESCHI, V. D.,  VIEIRA, V. G.,  II Semana Acadêmica do Curso Sistemas para Internet e II Simpósio Acadêmico de Tecnologia da Informação",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Colégio Politécnico da Universidade Federal de Santa Maria."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "C. G.,  SCHIEFELBEIN, U. H.,  MOIANO, I. C.,  GUBIANI, J. S.,  FRANCESCHI, V.,  I Semana Acadêmica Curso Sistemas para Internet",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Colégio Politécnico da Universidade Federal de Santa Matia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "FONTOURA, LISANDRA",
+                "titulo": "SILVA, CAROLINE; A Catalog of Process Patterns for Academic Software Projects",
+                "evento": "24th International Conference on Enterprise Information Systems",
+                "local": "Online Streaming",
+                "ano": "2022"
+            },
+            {
+                "autores": "BARBOSA, J. F. S.",
+                "titulo": "GUTERRES SILVA, CAROLINE; Fiorin, A",
+                "evento": "; Conexão Gurias: projeto de extensão que visa potencializar a participação de mulheres na área da tecnologia. XIII Mostra da Educação Profissional e Tecnológica.",
+                "local": "Santo Ângelo",
+                "ano": "2022"
+            },
+            {
+                "autores": "OLIVEIRA, T. S.",
+                "titulo": "SILVA, CAROLINE GUTERRES; BONIATI, B",
+                "evento": "B.; SILVA",
+                "local": "M.; RODRIGUES, G. F.; Formação em Tecnologias Educacionais para Professores da Rede Municipal da Cidade de Capivari do Sul: análise sobre uma perspectiva prática. XII Mostra da Educação Profissional e Tecnológica. Evento, Santa Maria",
+                "ano": "2021"
+            },
+            {
+                "autores": "FILHO, EVANDRO",
+                "titulo": "FONTOURA, LISANDRA; SILVA, CAROLINE; Software Processes Used in University, Government, and Industry: A Systematic Review",
+                "evento": "22nd International Conference on Enterprise Information Systems",
+                "local": "Prague",
+                "ano": "2020"
+            },
+            {
+                "autores": "GUTERRES SILVA, CAROLINE",
+                "titulo": "COELHO, VINICIUS; ROSE SILVA, MARCOS ALEXANDRE; Guideline for Designing Accessible Systems to Users with Visual Impairment: Experience with Users and Accessibility Evaluation Tools",
+                "evento": "19th International Conference on Enterprise Information Systems",
+                "local": "Porto",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, CAROLINE GUTERRES",
+                "titulo": "SILVA, M",
+                "evento": "A. R.; Inclusão Dos Deficientes Visuais: Utilizando Recursos De Acessibilidade Na Interação Com A Tecnologia (no prelo). 32° Jornada Acadêmica Integrada",
+                "local": "Santa Maria",
+                "ano": "2017"
+            },
+            {
+                "autores": "MOIANO, I. C.",
+                "titulo": "SILVA, CAROLINE GUTERRES; GUBIANI, JUCARA SALETE; Proposta De Uma Ferramenta Tecnológia Para Auxilixar Na Gestão De Projetos De Pesquisa (no prelo)",
+                "evento": "32° Jornada Acadêmica Integrada",
+                "local": "Santa Maria",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, L. R.",
+                "titulo": "SILVA, CAROLINE GUTERRES; MOIANO, I",
+                "evento": "C.; SILVA",
+                "local": "M. A. R.; GUBIANI, J. S.; Design de Interfaces de Sistemas Acessíveis aos Deficientes Visuais para os Dispositivos Móveis (no prelo). 32° Jornada Acadêmica Integrada, Santa Maria",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, CAROLINE GUTERRES",
+                "titulo": "MOIANO, I",
+                "evento": "C.; SILVA",
+                "local": "L. R.; COELHO, V.; SILVA, M. A. R.; Interação de Pessoas com Deficiência Visual com Dispositivos Móveis (no prelo). 8° Encontro Anual de Tecnologia da Informação, Frederico Westphalen",
+                "ano": "2017"
+            },
+            {
+                "autores": "NORO, D. A.",
+                "titulo": "SILVA, C",
+                "evento": "G.; GUBIANI",
+                "local": "J. S.; ZAMPIERI, N. V.; MOIANO, I. C.; Portal Web: Proposta De Uma Ferramenta Para A Gestão Do Conhecimento Com Base Em Comunidades De Prática. Congreso Internacional de Conocimiento e Innovación - ciKi, Bogotá",
+                "ano": "2016"
+            },
+            {
+                "autores": "NORO, DANIEL ARRUDA",
+                "titulo": "ZAMPIERI, NILZA VENTURINI; SILVA, CAROLINE GUTERRES; SOARES, LEONIR; GUBIANI, JUCARA SALETE; Sharing knowledge in the environment of a base of technological incubator",
+                "evento": "2016 35th International Conference of the Chilean Computer Science Society (SCCC)",
+                "local": "Valparaíso",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, C. G.",
+                "titulo": "NORO, D",
+                "evento": "A.; GUBIANI",
+                "local": "J. S.; LOPES, L. F. D.; Um Estudo Sobre Compartilhamento Do Conhecimento Em Uma Incubadora De Base Tecnológica. 7th International Symposium on Technological Innovation, Aracaju, Brasil",
+                "ano": "2016"
+            },
+            {
+                "autores": "NORO, D. A.",
+                "titulo": "SILVA, C",
+                "evento": "G.; GUBIANI",
+                "local": "J. S.; LOPES, L. F. D.; Comunidades De Prática: Um Modelo Para A Gestão Do Conhecimento Com Base Em Um Portal Web. 7th International Symposium on Technological Innovation, Aracaju, Brasil",
+                "ano": "2016"
+            },
+            {
+                "autores": "FRACESCHI, V. D.",
+                "titulo": "SILVA, M",
+                "evento": "A. R.; NORO",
+                "local": "D. A.; SCHIEFELBEIN, U. H.; SILVA, CAROLINE GUTERRES; Design de Sistemas para Internet Para Usuários com Deficiência Visual. 32° Jornada Acadêmica Integrada, Santa Maria",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, C. G.",
+                "titulo": "NORO, D",
+                "evento": "A.; MOIANO",
+                "local": "I. C.; FRACESCHI, V. D.; GUBIANI, J. S.; Avaliação da Gestão do Conhecimento como Ferramenta para Alavancar a Inovação nas Incubadoras Tecnológicas. 31° Jornada Acadêmica Integrada, Santa Maria, RS",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, C. G.",
+                "titulo": "GUBIANI, J",
+                "evento": "S.; SILVA",
+                "local": "M. A. R.; Avaliação Da Ferramenta Joomla Para Construção De Websites Acessíveis. 30° Jornada Acadêmica Integrada, Santa Maria, RS",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Tauani Studzinski de Oliveira",
+                "titulo": "Análise do Uso de Ferramentas Tecnológicas em Um Projeto de Formação Para Professores, na Cidade de Capivari do Sul",
+                "ano": "2021",
+                "curso": "Tecnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal Farroupilha - Frederico Westphalen"
+            },
+            {
+                "orientando": "Milena Fernandes Passini",
+                "titulo": "Tecnologias educacionais no ambiente da educação infantil sobre contexto da pandemia",
+                "ano": "2021",
+                "curso": "Tecnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal Farroupilha - Frederico Westphalen"
+            },
+            {
+                "orientando": "Brenda Oliveira",
+                "titulo": "Projetos que Impulsionam Mulheres na Área da Tecnologia: uma análise bibliográfica",
+                "ano": "2021",
+                "curso": "Tecnico em Informática Integrado ao Ensino Médio",
+                "instituicao": "Instituto Federal Farroupilha - Frederico Westphalen"
+            }
+        ]
+    }
+}

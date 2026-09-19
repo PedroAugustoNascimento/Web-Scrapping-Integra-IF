@@ -69,6 +69,11 @@
             {
                 "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "periodo": "2026",
+                "cargo": "Coordenador de Projeto, Bolsista, Coordenador do Projeto PD - TAMBAGI 4.0."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "periodo": "2026",
                 "cargo": "Diretor Geral, Servidor público, Nomeado Diretor Geral em 01/01/2026 conforme o Diário Oficial da União DOU n 245, de 24/12/2025, Seção 2, pág. 33. - PORTARIA N 2.003/GR/IFAM, DE 30 DE DEZEMBRO DE 2025.."
             },
             {
@@ -148,6 +153,24 @@
         "projetos": [
             {
                 "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Realidade Virtual",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Jaidson Brandão da Costa"
+                ]
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Metodologias Ágeis: Design Thinking e Scrum",
+                "periodo": "2025 - 2025",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Jaidson Brandão da Costa"
+                ]
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
                 "nome": "Inteligência Artificial - Redes Neurais (Deep Learning)",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
@@ -157,7 +180,7 @@
             },
             {
                 "instituicao": "Centro de Educação Tecnológica do Amazonas",
-                "nome": "Inteligência Artificial Visão Computacional",
+                "nome": "Internet das Coisas (IoT)",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
                 "equipe": [
@@ -184,24 +207,6 @@
             },
             {
                 "instituicao": "Centro de Educação Tecnológica do Amazonas",
-                "nome": "Internet das Coisas (IoT)",
-                "periodo": "2025 - 2025",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jaidson Brandão da Costa"
-                ]
-            },
-            {
-                "instituicao": "Centro de Educação Tecnológica do Amazonas",
-                "nome": "Metodologias Ágeis: Design Thinking e Scrum",
-                "periodo": "2025 - 2025",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jaidson Brandão da Costa"
-                ]
-            },
-            {
-                "instituicao": "Centro de Educação Tecnológica do Amazonas",
                 "nome": "Conectividade e Segurança Cibernética",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
@@ -211,22 +216,11 @@
             },
             {
                 "instituicao": "Centro de Educação Tecnológica do Amazonas",
-                "nome": "Realidade Virtual",
+                "nome": "Inteligência Artificial Visão Computacional",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
                 "equipe": [
                     "Jaidson Brandão da Costa"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Desenvolvimento de um Protótipo de Game 2D para Conscientização da Preservação da Fauna e Flora da Amazônia",
-                "periodo": "2015 - 2015",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Cristiane Barros Praia",
-                    "Jairo Vinicius Souza Franco"
                 ]
             },
             {
@@ -243,6 +237,17 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Um Estudo da Ferramenta Alice no Ensino de Desenvolvimento de um Game 3D",
+                "periodo": "2015 - 2015",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Wyllian Moreno Turman",
+                    "André Júnior de Lima Figueiredo"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Um Estudo da Ferramenta PMD nos Testes de um Game 2D",
                 "periodo": "2015 - 2015",
                 "natureza": "Desenvolvimento",
@@ -254,13 +259,25 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Um Estudo da Ferramenta Alice no Ensino de Desenvolvimento de um Game 3D",
+                "nome": "Desenvolvimento de um Protótipo de Game 2D para Conscientização da Preservação da Fauna e Flora da Amazônia",
                 "periodo": "2015 - 2015",
                 "natureza": "Desenvolvimento",
                 "equipe": [
                     "Jaidson Brandão da Costa",
-                    "Wyllian Moreno Turman",
-                    "André Júnior de Lima Figueiredo"
+                    "Cristiane Barros Praia",
+                    "Jairo Vinicius Souza Franco"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Jogos para Demonstração da Gamificação na Educação",
+                "periodo": "2016 - 2016",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "MAURÍCIO NOGUEIRA DE OLIVEIRA",
+                    "MAX WILLIAM MOREIRA DE CARVALHO",
+                    "RAYLSON TRINDADE DE OLIVEIRA"
                 ]
             },
             {
@@ -274,18 +291,6 @@
                     "Alexandre Ricardo von Ehnert",
                     "Criscian Kellen Amaro de Oliveira",
                     "José Pinheiro de Queiroz Neto"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Jogos para Demonstração da Gamificação na Educação",
-                "periodo": "2016 - 2016",
-                "natureza": "Desenvolvimento",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "MAURÍCIO NOGUEIRA DE OLIVEIRA",
-                    "MAX WILLIAM MOREIRA DE CARVALHO",
-                    "RAYLSON TRINDADE DE OLIVEIRA"
                 ]
             },
             {
@@ -304,6 +309,17 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "As Possibilidades do uso do Celular como um Recurso Didático pedagógico em sala de aula",
+                "periodo": "2017 - 2018",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Dalmi Alves Alcantara",
+                    "Marcus Vinícius Martins de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Desenvolvimento de Jogos Educacionais para Exemplificação da Gamificação",
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
@@ -314,13 +330,81 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "As Possibilidades do uso do Celular como um Recurso Didático pedagógico em sala de aula",
-                "periodo": "2017 - 2018",
+                "nome": "Desenvolvimento de games digitais como alternativa para integralização da matemática, física e artes na disciplina de programação.",
+                "periodo": "2018 - 2019",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Jaidson Brandão da Costa",
-                    "Dalmi Alves Alcantara",
-                    "Marcus Vinícius Martins de Oliveira"
+                    "Diogo Gonçalves"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Maratona Educacional ? Apresentação dos Cursos de Informática do IFAM",
+                "periodo": "2018 - 2018",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Jaidson Brandão da Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "I Semana de Meio Ambiente - Tema \"Lixo transformando vidas\"",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Criscian Kellen Amaro de Oliveira"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de uma Ferramenta para execução lúdica de códigos Java",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Anne Beatriz Vieira Nascimento"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um aplicativo para geração de códigos Java a partir da leitura via QR CODE dos Diagramas da UML",
+                "periodo": "2019 - 2020",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Thais Pinheiro de Souza"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Criação de um Material Didático sobre Algoritmo com Exibição cos Resultados no Smartphone",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Thereza Raquel de Lima Gomes"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um Material Didático Digital para Ensino de Física com Auxílio de um App Inteligente",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Wyllian Moreno Turman"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Jogo para Gamificação do Ensino de Língua Inglesa",
+                "periodo": "2021 - 2022",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão da Costa",
+                    "Felipe Santos Ramos"
                 ]
             },
             {
@@ -346,74 +430,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Maratona Educacional ? Apresentação dos Cursos de Informática do IFAM",
-                "periodo": "2018 - 2018",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jaidson Brandão da Costa"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Desenvolvimento de games digitais como alternativa para integralização da matemática, física e artes na disciplina de programação.",
-                "periodo": "2018 - 2019",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Diogo Gonçalves"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "I Semana de Meio Ambiente - Tema \"Lixo transformando vidas\"",
-                "periodo": "2015 - 2015",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Criscian Kellen Amaro de Oliveira"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Curso de Informática Básica, Direito Administrativo e Conhecimentos Específicos de Tecnologia da Informação voltados para Concursos Públicos",
-                "periodo": "2019 - 2019",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Jaidson Brandão da Costa"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Desenvolvimento de um aplicativo para geração de códigos Java a partir da leitura via QR CODE dos Diagramas da UML",
-                "periodo": "2019 - 2020",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Thais Pinheiro de Souza"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Desenvolvimento de uma Ferramenta para execução lúdica de códigos Java",
-                "periodo": "2019 - 2020",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Anne Beatriz Vieira Nascimento"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Jogo para Gamificação do Ensino de Língua Inglesa",
-                "periodo": "2021 - 2022",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Felipe Santos Ramos"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
                 "nome": "Algoritmos e Programação na Linguagem Python",
                 "periodo": "2025 - 2025",
                 "natureza": "Extensao",
@@ -423,22 +439,20 @@
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Criação de um Material Didático sobre Algoritmo com Exibição cos Resultados no Smartphone",
-                "periodo": "2020 - 2021",
-                "natureza": "Pesquisa",
+                "nome": "Capacitação e Interiorização em Tecnologias Habilitadoras na Amazônia CITHA",
+                "periodo": "2024 - 2025",
+                "natureza": "Extensao",
                 "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Thereza Raquel de Lima Gomes"
+                    "Jaidson Brandão da Costa"
                 ]
             },
             {
                 "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
-                "nome": "Desenvolvimento de um Material Didático Digital para Ensino de Física com Auxílio de um App Inteligente",
-                "periodo": "2020 - 2021",
-                "natureza": "Pesquisa",
+                "nome": "Curso de Informática Básica, Direito Administrativo e Conhecimentos Específicos de Tecnologia da Informação voltados para Concursos Públicos",
+                "periodo": "2019 - 2019",
+                "natureza": "Extensao",
                 "equipe": [
-                    "Jaidson Brandão da Costa",
-                    "Wyllian Moreno Turman"
+                    "Jaidson Brandão da Costa"
                 ]
             },
             {

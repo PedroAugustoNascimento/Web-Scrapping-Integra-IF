@@ -1,0 +1,220 @@
+{
+    "campus": "- Campus Natal - Zona Norte",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "LP-P2IP: Uma Versão de Baixo Consumo da Arquitetura P2IP Usando Reconfiguração Parcial em FPGA",
+                "orientador": "Valentin Obac Roda",
+                "ano_inicio": 2012,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Processamento embarcado aplicado a um sistema de detecção de vazamentos",
+                "orientador": "Andrés Ortiz Salazar",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2003,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Prefeitura Municipal de Natal",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor do Ensino Básico",
+                "vinculo": "Técnico e Tecnoló",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Estudo da fativilidade de um sistema de medidores sem fios para uma unidade de elevação de petroleo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Álvaro Medeiros Avelino",
+                    "Andres Ortiz Salazar",
+                    "Adrião Duarte Dória Neto",
+                    "Carlo Frederico Pereira De Siqueira Campos"
+                ],
+                "financiador": "Petróleo Brasileiro - Rio de Janeiro - Matriz,",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Detecção de vazamentos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Álvaro Medeiros Avelino",
+                    "André Laurindo Maitelli",
+                    "Andres Ortiz Salazar",
+                    "Adrião Duarte Dória Neto",
+                    "Rodrigo Eduardo Ferreira Da Silva",
+                    "Gabriell John Medeiros De Araújo",
+                    "José Álvaro De Paiva"
+                ],
+                "financiador": "Petróleo Brasileiro - Rio de Janeiro - Matriz,",
+                "ano_inicio": 2007,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Prefeitura Municipal de Natal",
+                "nome": "Monitoramento através de Equipamento para Serviço de Iluminação Pública da Cidade de Natal-RN: Regulação dos Níveis de Luminosidade e Registro de Ocorrência de Falhas Ocasionadas por Lâmpadas Apagadas na Rede",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Álvaro Medeiros Avelino",
+                    "Gláucio Bezerra Brandão",
+                    "Ricardo Alexsandro De Medeiros Valentim",
+                    "Jefferson Doolan Fernandes",
+                    "Leonardo Gomes De Paiva"
+                ],
+                "financiador": "FUNDAÇÃO DE APOIO A EDUCAÇÃO E AO DESENVOLVIMENTO TECNOLÓGICO DO RN FUNCERN,",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "AVELINO, Á. M.",
+                "titulo": "RODA, V. O.;  SAKUYAMA, C. A. V.;  ALBUQUERQUE, G. A. L.;  POSSA, P. R. C.;  Partial Reconfiguration Exploration Over P2IP Architecture",
+                "ano": "2017",
+                "periodico": "Przeglad Elektrotechniczny. ISBN: 00332097   ."
+            },
+            {
+                "autores": "ROCHA, FELIPE BARBALHO",
+                "titulo": "SILVA, RAUL SILVEIRA;  AVELINO, ÁLVARO MEDEIROS;  COSTA, CLAYTON MACIEL;  PLATAFORMA DE COMUNICAÇÃO SEM FIO APLICADA A SISTEMAS DE IRRIGAÇÃO",
+                "ano": "2015",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            },
+            {
+                "autores": "ALBERTO DE ALBUQUERQUE SILVA, CARLOS",
+                "titulo": "DUARTE DORIA NETO, ADRIAO;  ALBERTO NICOLAU OLIVEIRA, JOSE;  DANTAS MELO, JORGE;  SIMONETTI BARBALHO, DAVID;  MEDEIROS AVELINO, ALVARO;  Definition of an Architecture to Configure Artificial Neural Networks Topologies Using Partial Reconfiguraton in FPGA",
+                "ano": "2015",
+                "periodico": "IEEE Latin America Transactions. ISBN: 15480992   ."
+            },
+            {
+                "autores": "AVELINO, Á. M.",
+                "titulo": "AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO;  REGO, S. P.;  AMORIM, L. G. P.;  FERNANDES, J. D.;  MONITORAMENTO DE ATIVOS HOSPITALARES ATRAVÉS DE UMA REDE DE SENSORES SEM FIO",
+                "ano": "2013",
+                "periodico": "Revista Brasileira de Inovação Tecnologica em Saúde. ISBN: 22361103   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "AVELINO, Á. M.",
+                "titulo": "AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; COSTA, C",
+                "evento": "M.; BRITO",
+                "local": "M. M. A.; FONSECA, A. L. A.; CUNHA, N. J. A.; LOPES, T. S.; CASE - uma plataforma automatizada para monitoramento e acionamento de sirenes escolares. Congresso de Iniciação Científica do IFRN, Pau dos Ferros",
+                "ano": "2014"
+            },
+            {
+                "autores": "BRITO, M. M. A.",
+                "titulo": "FONSECA, A",
+                "evento": "L. A.; COSTA",
+                "local": "C. M.; CUNHA, N. J. A.; LOPES, T. S.; AVELINO, Á. M.;AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; CASE ? uma plataforma semi-automatizada para monitoramento e acionamento de sirenes escolares. Congresso Norte Nordeste de Pesquisa e Inovação, São Luís",
+                "ano": "2014"
+            },
+            {
+                "autores": "ROCHA, F. B.",
+                "titulo": "SILVA, R",
+                "evento": "S.; COSTA",
+                "local": "C. M.; AVELINO, Á. M.;AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; Sistema automatizado utilizando tecnologias de baixo custo para controle e monitoramento de irrigações no Vale do Açu. IX Congresso de Iniciação Científica do IFRN, Currais Novos",
+                "ano": "2012"
+            },
+            {
+                "autores": "ROCHA, F. R. F.",
+                "titulo": "AVELINO, Á",
+                "evento": "M.;AVELINO",
+                "local": "ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; SILVA, R. D. R.; Caracterização de placas de circuito impresso: uma perspectiva de reciclagem. Congresso Norte Nordeste de Pesquisa e Inovação, Palmas",
+                "ano": "2012"
+            },
+            {
+                "autores": "Andrés O. Salazar",
+                "titulo": "ARAÚJO, G",
+                "evento": "J. M. de; AVELINO",
+                "local": "Á. M.;AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; SILVA, R. E. F.; PAIVA, J. Á de; André L. Maitelli; Adrião D. D. Neto; Detecção de vazamentos em oleodutos por meio de análise Wavelet do sinal de pressão. XVIII Congresso Brasileiro de Automática, Bonito/MS",
+                "ano": "2010"
+            },
+            {
+                "autores": "AVELINO, Á. M.",
+                "titulo": "AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; SILVA, R",
+                "evento": "E. F.; ARAÚJO",
+                "local": "G. J. M. de; PAIVA, J. Á de; André L. Maitelli; Andrés O. Salazar; Adrião D. D. Neto; Implementação em DSP de um sistema de detecção de vazamentos utilizando técnicas sônicas e redes neurais artificiais. Rio Automação, Rio de Janeiro",
+                "ano": "2009"
+            },
+            {
+                "autores": "AVELINO, Á. M.",
+                "titulo": "AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; PAIVA, J",
+                "evento": "Á de; SILVA",
+                "local": "R. E. F.; ARAÚJO, G. J. M. de; AZEVEDO, F.; QUINTAES, F.; André L. Maitelli; Andrés O. Salazar; Adrião D. D. Neto; Real Time Leak Detection System Applied to Oil Pipelines Using Sonic Technology and Neural Networks. IECON, Porto",
+                "ano": "2009"
+            },
+            {
+                "autores": "SILVA, R. E. F.",
+                "titulo": "AVELINO, Á",
+                "evento": "M.;AVELINO",
+                "local": "ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; ARAÚJO, G. J. M. de; PAIVA, J. Á de; André L. Maitelli; Andrés O. Salazar; Adrião D. D. Neto; - Supervisão em tempo real de um sistema de detecção de vazamentos que usa tecnologia sônica. 5º Congresso Brasileiro de Pesquisa e Desenvolvimento em Petróleo e Gás,",
+                "ano": "2009"
+            },
+            {
+                "autores": "MARTINS, R. S.",
+                "titulo": "Victor J",
+                "evento": "L. Duarte; André L. Maitelli; Andrés O. Salazar; Adrião D. D. Neto; Thiago Q. de Medeiros; AVELINO",
+                "local": "Á. M.;AVELINO, ÁLVARO MEDEIROS;Avelino, Álvaro;MEDEIROS AVELINO, ALVARO; MÉTODO DE DETECÇÃO DE VAZAMENTOS COM BASE EM WAVELET E SOFTWARE EMBARCADO EM DSP. RIO PIPELINE, RIO DE JANEIRO",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 17.643571853637695,
+            "indian": 16.273860931396484,
+            "black": 11.855701446533203,
+            "white": 13.930946350097656,
+            "middle eastern": 16.328641891479492,
+            "latino hispanic": 23.96727180480957
+        }
+    }
+}

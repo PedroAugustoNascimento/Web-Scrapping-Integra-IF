@@ -1,0 +1,597 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "orientador": "Carlos Renato Lisboa Francês",
+                "ano_inicio": 2013,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Estratégia de Migração de Aplicações Legadas Visuais (tipo WIMP) para o ambiente Web",
+                "orientador": "Ana Maria de Alencar Price",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Especializacao Em Análise de Sistemas",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 1998,
+                "ano_fim": 1999
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia Em Processamento de Dados",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 1987,
+                "ano_fim": 1990
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade da Amazônia",
+                "ano_inicio": 2004,
+                "ano_fim": 2010,
+                "funcao": "Professora adjunto I",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "PROCESSAMENTO DE DADOS DO ESTADO DO PARÁ",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "Diretor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "DIRETOR DE TECNOLOGIA DA INFORMAÇÃO - DTI",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 1994,
+                "ano_fim": null,
+                "funcao": "PROFESSOR",
+                "vinculo": "1994 - 2006: ETFPA",
+                "descricao": "Vínculo: Servidor público, Enquadramento funcional: Professor titular - 1. e 2. graus, Carga horária: 402007 - 2012: CEFET (Centro Federal de Educ Tecnologica do Para ) -Vínculo: Servidor público, Enquadramento funcional: Professor titular - 1. e 2. graus, Carga horária: 40, "
+            },
+            {
+                "empresa": "Companhia de Informática de Belém S/A",
+                "ano_inicio": 1991,
+                "ano_fim": 2023,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo e Desenvolvimento da Pesquisa do Pará",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": PROCESSAMENTO DE DADOS DO ESTADO DO PARÁ\nDDS - DIRETORIA DE DESENVOLVIMENTO DE SISTEMAS (2007 - 2010) : Diretor.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Pará\nGraduacao (2003) - Análise E Desenvolvimento De Sistemas.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade da Amazônia",
+                "nome": "Aprendiz - Sistema de Aprendizado OnLine",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Claudio Roberto De Lima Martins"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2005,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Screencast: Uma plataforma de produção e distribuição de videoaulas para apoio ao ensino no IFPA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Claudio Roberto De Lima Martins",
+                    "Cleyton De Oliveira Vale",
+                    "José Stelio Stélio Malcher Jr",
+                    "Werner Johnson Pacheco Mota"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Desenvolvimento de aplicações em Android para apoio acadêmico do IFPA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Claudio Roberto De Lima Martins",
+                    "Ricardo Aires De Medeiros",
+                    "Victor Adriano Freitas Beckman Nery",
+                    "Renato De Andrade"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Pará,",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Fundação de Amparo e Desenvolvimento da Pesquisa do Pará",
+                "nome": "Amazônias: conhecimento e mudança",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Claudio Roberto De Lima Martins",
+                    "Cláudio Alex Jorge Da Rocha",
+                    "Diego Lisboa Cardoso",
+                    "Marcelino Silva Da Silva",
+                    "Edvar Da Luz Oliveira",
+                    "Liviane Ponte Rego",
+                    "Adamo Lima De Santana",
+                    "Carlos Natalino Da Silva",
+                    "Carlos Renato Lisboa Frances",
+                    "Maurilio De Abreu Monteiro"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Fundação de Amparo e Desenvolvimento da Pesquisa do Pará",
+                "nome": "Diagnóstico de Tecnologia da Informação e Comunicação (TIC) de empresas instaladas nos Distritos Industriais do Estado do Pará",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Claudio Roberto De Lima Martins",
+                    "Cláudio Alex Jorge Da Rocha",
+                    "Carlos Renato Lisboa Francês",
+                    "Diego Lisboa Cardoso",
+                    "Ádamo Lima De Santana",
+                    "Marcelino Silva Da Silva",
+                    "Edvar Da Luz Oliveira",
+                    "Liviane Ponte Rego",
+                    "Antônio Jorge Gomes Abelém",
+                    "Jorge Antonio Moraes De Souza",
+                    "Antonio Fernando Lavareda Jacob Junior"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Monteiro",
+                    "titulo": "Renata Wariss,  Amanda Sizo,  MARTINS, Claudio R L,  Uma Experiência de Implantação de Processo de Testes - Caso PRODEPA",
+                    "ano": "2010",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "MARTINS",
+                    "titulo": "Claudio R L,  Tecnologias de BI (Business Inteligence) no Governo do Pará",
+                    "ano": "2009",
+                    "instituicao_promotora": "Embrapa Amazônia Oriental."
+                },
+                {
+                    "autores": "DAHER",
+                    "titulo": "L. R.,  Amanda Sizo,  FERNANDES, J. A.,  XISTO, A.,  MARTINS, Claudio R L,  Arquitetura PRODEPA: Uma solução para criação de sistemas distribuídos",
+                    "ano": "2009",
+                    "instituicao_promotora": "SBC / SERPRO."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "MARTINS",
+                    "evento": "Claudio R L,  Oliveira, S R B,  Computec - Computação e Mercado",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CSBC - Sociedade Brasileira da Computação."
+                },
+                {
+                    "autores": "MARTINS",
+                    "evento": "Claudio R L,  Membro da Comissão Técnica e Avaliador de artigos - XX Semana Paraense de Informática e VIII Escola de Informática Norte/SBC",
+                    "ano": "2006",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CSBC - Sociedade Brasileira da Computação."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Carla A. Lima Reis",
+                "titulo": "MARTINS, Claudio R L;  Araújo, Marcos Venícios;  REIS, Rodrigo Quites;  Curso de Residência em Arquitetura de Software: Uma Parceria UFPA, UNAMA e CESUPA com AmazonCorp, CTIC-UFPA e PRODEPA",
+                "ano": "2011",
+                "periodico": "Revista do Programa Brasileiro da Qualidade e Produtividade em Software. ISBN: 21780277   ."
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "LIMA, Adailton Magalhães;  Carla A. Lima Reis;  REIS, Rodrigo Quites;  Padrões e Processos para Arquitetura de Software do Governo do Estado do Pará: Uma parceria PRODEPA E UFPA",
+                "ano": "2010",
+                "periodico": "Programa Brasileiro da Qualidade e Produtividade em Software. ISBN: 16791878   ."
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "PRICE, A. M. A.;  PIMENTA, M. S.;  Mapeamento de interfaces WIMP para interfaces web",
+                "ano": "2002",
+                "periodico": "Proceedings of Symposium on Human Factors in Computer Systems   ."
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "PIMENTA, M. S.;  PRICE, A. M. A.;  Sistematização do desenvolvimento de aplicações hipermídia na web: comparação de metodologias",
+                "ano": "2001",
+                "periodico": "Anais do 7. Simposio Brasileiro de Sistemas Multimidia e Hipermidia   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "VALE, C. O.",
+                "titulo": "MALCHER JR, J",
+                "evento": "S. S.; MOTA",
+                "local": "W. J. P.; MARTINS, Claudio R L; Screencast: uma plataforma de produção e distribuição de videoaulas para o apoio a EAD do IFPA. IV Bragantec e 3a Feira de Ciência e Tecnologia do IFSP, Bragança Paulista",
+                "ano": "2014"
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "VALE, C",
+                "evento": "O.; MALCHER JR",
+                "local": "J. S. S.; MOTA, W. J. P.; SCREENCAST: UMA PLATAFORMA DE PRODUÇÃO E DISTRIBUIÇÃO DE VIDEOAULAS PARA O APOIO A EAD DO IFPA. V SEMINÁRIO DE INICIAÇÃO CIENTÍFICA, TECNOLÓGICA E INOVAÇÃO DO IFPA, Belém/PA",
+                "ano": "2013"
+            },
+            {
+                "autores": "Monteiro, Renata Wariss",
+                "titulo": "DAHER, L",
+                "evento": "R.; MARTINS",
+                "local": "Claudio R L; O Uso do dotProject no Processo Prodepa de Desenvolvimento de Software. VI Workshop Anual do MPS (WAMPS 2010), Campinas",
+                "ano": "2010"
+            },
+            {
+                "autores": "Monteiro, Renata Wariss",
+                "titulo": "Cabral, Reinaldo; MARTINS, Claudio R L; Rocha, Ana Regina; ALHO, F",
+                "evento": "; O Esforço Requerido para Institucionalização de Processos de Software na Prodepa. WAMPS - Workshop Anual do MPS 2008",
+                "local": "Campinas",
+                "ano": "2008"
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "Cabral, Reinaldo; Monteiro, Renata Wariss; Rocha, Ana Regina; A Empresa de Processamento de Dados do Estado do Pará Rumo ao Nível F do MR-MPS",
+                "evento": "I Workshop de Empresas (W6 - MPS.BR)",
+                "local": "Belo Horizonte",
+                "ano": "2007"
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "AL",
+                "evento": ", E.; Uma Ferramenta de Apoio à Avaliação da Disposição do Conteúdo em Websites. XIX Semana Paraense de Informática e II Congresso de Tecnologia da Informação e Comunicação da Amazônia",
+                "local": "Belem",
+                "ano": "2005"
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "PRICE, A",
+                "evento": "M. A.; Estratégia de migração de aplicações cliente/servidor. V Escola de Informática Norte",
+                "local": "Belem",
+                "ano": "2003"
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "PIMENTA, M",
+                "evento": "S.; PRICE",
+                "local": "A. M. A.; Reengenharia de Aplicações Cliente/Servidor para Plataforma Web usando metamodelos.. CLEI, Montevideo",
+                "ano": "2002"
+            },
+            {
+                "autores": "MARTINS, Claudio R L",
+                "titulo": "PIMENTA, M",
+                "evento": "S.; PRICE",
+                "local": "A. M. A.; Migração de Aplicações Cliente/Servidor para a Plataforma Web Usando Metamodelos. Jornada Ibero-Americana de Engenharia de Software e Engenharia de Conhecimento, Salvador",
+                "ano": "2002"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "ENZO DIMITRI BARROS MARQUES e RODRIGO SOUSA BARROS",
+                "titulo": "REFATORAÇÃO EM PROJETO DE SOFTWARE: ESTUDO DE CASO DO SISTEMA DE TRIAGEM MARK",
+                "ano": "2024",
+                "curso": "TADS - TECNOG ANALISE E DESENVOLVIMENTO DE SISTEMAS",
+                "instituicao": "Inst Fed de Ed, Ciência e Tec do Pará"
+            },
+            {
+                "orientando": "DANIEL SANTIAGO PEREIRA",
+                "titulo": "ESTUDO COMPARATIVO ENTRE FRAMEWORKS JAVASCRIPT PARA DESENVOLVIMENTO DE PROGRESSIVE WEB APP",
+                "ano": "2023",
+                "curso": "TADS - TECNOG ANALISE E DESENVOLVIMENTO DE SISTEMAS",
+                "instituicao": "Inst Fed de Ed, Ciência e Tec do Pará"
+            },
+            {
+                "orientando": "João Paulo Moura Moreira da Costa, e Mauricio Lobato Moraes",
+                "titulo": "IMPLEMENTAÇÃO DE DEVOPS E GITOPS: UM ESTUDO DE CASO NA AGU/PARÁ",
+                "ano": "2023",
+                "curso": "TADS - TECNOG ANALISE E DESENVOLVIMENTO DE SISTEMAS",
+                "instituicao": "Inst Fed de Ed, Ciência e Tec do Pará"
+            },
+            {
+                "orientando": "Andressa H Leal Briglia Oliveira e Maradei Borges dos SANTOS",
+                "titulo": "Estudo heurístico de avaliação do Portal do Servidor do Pará: Perspectiva de qualidade e manutenção do serviço.",
+                "ano": "2023",
+                "curso": "TECNOL. EM GESTÃO PÚBLICA",
+                "instituicao": "Inst Fed de Ed, Ciência e Tec do Pará"
+            },
+            {
+                "orientando": "JOSÉ VICENTE N DA COSTA JUNIOR; ODON VITOR RIBEIRO GUIMARÃES",
+                "titulo": "REFATORAÇÃO EM PROJETOS DE SOFTWARE: ESTUDO DE CASO DO APLICATIVO MANEJAÍ",
+                "ano": "2021",
+                "curso": "TADS - Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "Lucio Martins Ferreira",
+                "titulo": "Assistente Virtual: Estudo de chatbots e utilização para auxiliar o uso de Smartphones",
+                "ano": "2021",
+                "curso": "TADS - Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "GLAUBER MATTEIS GADELHA",
+                "titulo": "DashGen: Gerador de quadros de apresentação de dados em formato de dashboards",
+                "ano": "2020",
+                "curso": "TADS - Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "CLAUDIO EBRAHIN DAS NEVES TENÓRIO; EDIVALDO DA SILVA MOREIRA",
+                "titulo": "O USO DO FRAMEWORK SPRING SECURITY PARA O CONTROLE DE ACESSO EM APLICAÇÕES WEB",
+                "ano": "2019",
+                "curso": "TADS - Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "WERNER JOHNSON PACHECO MOTA",
+                "titulo": "DESENVOLVIMENTO DE UMA APLICAÇÃO WEB COM DADOS ABERTOS SOBRE A EDUCAÇÃO BRASILEIRA",
+                "ano": "2018",
+                "curso": "TADS - Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "DANIEL MOTTA; THIAGO MARQUES DE SOUZA JACOBS",
+                "titulo": "SISTEMA DE GERENCIAMENTO WEB PARA ATIVIDADES DE URBANISMO EM CIDADES - URBANUS",
+                "ano": "2017",
+                "curso": "TADS - Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "Domingos da Silva Santos Junior",
+                "titulo": "ESTUDO SOBRE A RASTREABILIDADE DE REQUISITOS COM ENFOQUE NA ARQUITETURA DE SOFTWARE",
+                "ano": "2016",
+                "curso": "Curso de Especialização em Arquitetura de Software",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "Marcos Roberto Lopes Chagas, Stélio dos Santos Correa",
+                "titulo": "Refatorando Sistemas Legados Aplicando T´ecnicas de Programa¸c?ao Orientada a Aspectos",
+                "ano": "2016",
+                "curso": "Curso de Especialização em Arquitetura de Software",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "EWERTON ROFRAN DOS SANTOS ANDRADE",
+                "titulo": "Aplicação de um Processo de Extração de Conhecimento em Banco de Dados para Estudar a Influência das Variáveis Socioeconômicas nas notas do ENEM",
+                "ano": "2016",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Wesley Louzeiro Mota; Gastão Jose Macedo Claude",
+                "titulo": "Aplicação da Técnica Mapreduce na Modelagem de Algoritmos Genéticos para o ?Problema do Caixeiro Viajante&quot;",
+                "ano": "2014",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "ANDRÉA RAMALHO DOS SANTOS TORRES",
+                "titulo": "REDOCUMENTAÇÃO DE REQUISITO PARA SISTEMA LEGADO UTILIZANDO TÉCNICAS DE ENGENHARIA DE REQUISITOS",
+                "ano": "2013",
+                "curso": "ENGENHARIA DE REQUISITOS E MODELAG NEG.",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "ERIKA JAQUELINE AZEVEDO DA SILVA",
+                "titulo": "Análise de Requisitos na Abordagem de Linha de Produto de Software",
+                "ano": "2012",
+                "curso": "ENGENHARIA DE REQUISITOS E MODELAG NEG.",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "WESCLEY PIMENTEL FONTES",
+                "titulo": "Utilizando BDD no Processo Serpro de Desenvolvimento de Soluções",
+                "ano": "2012",
+                "curso": "ENGENHARIA DE SOFTWARE (UNISERPRO)",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "FELIPE ARTUR PARAENSE DE OLIVEIRA SERRA",
+                "titulo": "Utilizando Análise de Valor Agregado na Gestão de Projetos de Software",
+                "ano": "2012",
+                "curso": "ENGENHARIA DE SOFTWARE (UNISERPRO)",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "RAFAEL SOUZA SALES",
+                "titulo": "Linhas de Produto de Software : Conceitos, Modelagem e seu uso no Eclipse",
+                "ano": "2012",
+                "curso": "ENGENHARIA DE SOFTWARE (UNISERPRO)",
+                "instituicao": "Universidade Federal do Rio Grande do Sul"
+            },
+            {
+                "orientando": "JOZADAQUE SILVA SOUSA; SILMARA PATRICIA DA SILVA REIS",
+                "titulo": "DESENVOLVIMENTO DE PROTÓTIPO EM ANDROID: UM ESTUDO DE CASO DO SCA EM DISPOSITIVOS MÓVEIS",
+                "ano": "2011",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "YURI ALVES BRASIL",
+                "titulo": "SISPREVISÃO ? SISTEMA DE GERAÇÃO DE TARIFAS ATRAVÉS DA PREVISÃO DE VISISTAS EM UM SITE",
+                "ano": "2010",
+                "curso": "Eng. de Componentes com Java EE",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "HELDER ROGÉRIO COSTA DA SILVA",
+                "titulo": "MODELAGEM DE DADOS PARA UM SISTEMA FINANCEIRO PESSOAL",
+                "ano": "2010",
+                "curso": "Eng. de Componentes com Java EE",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "JOSÉ RICARDO SIQUEIRA DE MIRANDA",
+                "titulo": "QUESTIONÁRIO ON-LINE DINÂMICO (WEB Quiz) UTILIZANDO EJB E JSF",
+                "ano": "2010",
+                "curso": "Eng. de Componentes com Java EE",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "RICHARD ASSIS ROCHA",
+                "titulo": "SISTEMA DE GERENCIAMENTO DE CONTRATOS E CONVÊNIOS - SisCon",
+                "ano": "2010",
+                "curso": "Eng. de Componentes com Java EE",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "VICTOR RAFAEL SILVA COUTINHO PEREIRA",
+                "titulo": "CLASSIFICAÇÃO DE COMPONENTES REUTILIZÁVEIS - No contexto de reutilização na empresa Processamento de Dados do Pará (PRODEPA)",
+                "ano": "2010",
+                "curso": "Residência em Arquitetura de Software",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "RONICELLI CEZARIO FERNANDES",
+                "titulo": "PRONTUÁRIO ELETRÔNICO PARA CLINICA DE FISIOTERAPIA APLICANDO O PADRÃO MVC",
+                "ano": "2009",
+                "curso": "Esp. em Desenvolvimento de Sistemas Software Livre",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "LUCIANA SAYURI TSUCHIYA MASUDA",
+                "titulo": "CERTIFICAÇÃO DIGITAL: UMA PROPOSTA DE UM PROCESSO DE AUTENTICAÇÃO",
+                "ano": "2009",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "ERIKA JAQUELINE AZEVEDO DA SILVA",
+                "titulo": "MOBILESANO: APLICAÇÃO MÓVEL PARA APOIO AO PROGRAMA NACIONAL DE CONTROLE DA DENGUE",
+                "ano": "2008",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Glendon Magalhães Leitão & Nelson A B Margalho Júnior",
+                "titulo": "Comparação de Ferramentas para Implentação de Web Services",
+                "ano": "2007",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "IGOR GADELHA MOREIRA GONÇALVES",
+                "titulo": "BIBLIOTECA PORTÁTIL: DEMONSTRAÇÃO DE UMA APLICAÇÃO MÓVEL UTILIZANDO J2ME",
+                "ano": "2007",
+                "curso": "Tecnologia em Desenvolvimento de Sistemas",
+                "instituicao": "Cefet Pa"
+            },
+            {
+                "orientando": "THIAGO FERNANDES SOARES",
+                "titulo": "COMPARANDO PERSISTÊNCIA DE DADOS ORIENTADOS A OBJETOS EM MEIO RELACIONAL COM JDBC, JAVA PERSISTENCE API E O FRAMEWORK HIBERNATE : UM ESTUDO DE CASO",
+                "ano": "2007",
+                "curso": "Tecnologia em Desenvolvimento de Sistemas",
+                "instituicao": "Cefet Pa"
+            },
+            {
+                "orientando": "Will Santa Rosa Lobato",
+                "titulo": "Usabildade de Interfaces para o melhoramento de portais de ensino a longa distância",
+                "ano": "2006",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "Kleiton da Silva Gomes",
+                "titulo": "Segurança em ambientes de educação a distância",
+                "ano": "2006",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "Gil Vicente De Oliveira Araujo",
+                "titulo": "Um estudo sobre os modelos e padrões arquiteturais para aplicações web",
+                "ano": "2006",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "NEUZIANY NERY & REGIANE DO SOCORRO",
+                "titulo": "REQUISITENOW!: UMA FERRAMENTA WEB DE APOIO AO LEVANTAMENTO E ANÁLISE DE REQUISITOS BASEADOS EM CASOS DE USO",
+                "ano": "2005",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "JADIELLY FERNANDES & BRENO CASTRO ALVES",
+                "titulo": "UMA FERRAMENTA DE APOIO À AVALIAÇÃO DA DISPOSIÇÃO DE CONTEÚDO EM WEBSITES",
+                "ano": "2005",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "CLÁUDIO AUGUSTO CONTENTE VAZ",
+                "titulo": "ANÁLISE E PROJETO DE UMA APLICACAO WEB USANDO UML",
+                "ano": "2004",
+                "curso": "Tecnologia em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "ADELINO L",
+                "titulo": "NETO e ANDRÉ C. LOPES.  UMA ABORDAGEM DE CATÁLOGO PARA PADRÕES DE PROJETO HIPERMÍDIA (SISTEMAS WEB)",
+                "ano": "2004",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            },
+            {
+                "orientando": "Mario Domingos Castro Maranhão Wolf & Maurício Aldenor Souza",
+                "titulo": "ESTUDO ANALÍTICO DA ENGENHARIA DE REQUISITOS ATUAL E A DE PROCESSOS ÁGEIS (XP)",
+                "ano": "2004",
+                "curso": "Bach Em Ciencia da Computacao",
+                "instituicao": "Universidade da Amazônia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.2428008317947388,
+            "indian": 1.1069022417068481,
+            "black": 0.2626127302646637,
+            "white": 70.97891998291016,
+            "middle eastern": 11.592400550842285,
+            "latino hispanic": 14.816364288330078
+        }
+    }
+}

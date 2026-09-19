@@ -115,8 +115,8 @@
                 "periodo": "2018 - 2018",
                 "natureza": "Ensino",
                 "equipe": [
-                    "Márcio Antônio Ferreira Belo Filho",
                     "Carmencita Ferreira Silva Assis",
+                    "Márcio Antônio Ferreira Belo Filho",
                     "João Victor de Queiroz Moraes"
                 ]
             },
@@ -128,18 +128,6 @@
                 "equipe": [
                     "Márcio Antônio Ferreira Belo Filho",
                     "Carlos Cezar da Silva"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Impressora 3D como ferramenta de ensino de anatomia vegetal",
-                "periodo": "2022 - 2023",
-                "natureza": "Ensino",
-                "equipe": [
-                    "Márcio Antônio Ferreira Belo Filho",
-                    "Rosenilde Nogueira Paniago",
-                    "Valdnea Casagrande Dalvi",
-                    "Fernanda Elen Silva dos Santos"
                 ]
             },
             {
@@ -159,8 +147,20 @@
                 "periodo": "2022 - 2023",
                 "natureza": "Ensino",
                 "equipe": [
-                    "André da Cunha Ribeiro",
-                    "Márcio Antônio Ferreira Belo Filho"
+                    "Márcio Antônio Ferreira Belo Filho",
+                    "André da Cunha Ribeiro"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Impressora 3D como ferramenta de ensino de anatomia vegetal",
+                "periodo": "2022 - 2023",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Márcio Antônio Ferreira Belo Filho",
+                    "Rosenilde Nogueira Paniago",
+                    "Valdnea Casagrande Dalvi",
+                    "Fernanda Elen Silva dos Santos"
                 ]
             },
             {
@@ -170,8 +170,8 @@
                 "natureza": "Ensino",
                 "equipe": [
                     "Rosenilde Nogueira Paniago",
-                    "Márcio Antônio Ferreira Belo Filho",
-                    "Fernanda Elen Silva dos Santos"
+                    "Fernanda Elen Silva dos Santos",
+                    "Márcio Antônio Ferreira Belo Filho"
                 ]
             },
             {
@@ -269,7 +269,7 @@
                 "periodo": "2024",
                 "natureza": "Ensino",
                 "equipe": [
-                    "Rejane Araújo Guimarães",
+                    "Wesley Fonseca Vaz",
                     "Márcio Antônio Ferreira Belo Filho",
                     "Rosenilde Nogueira Paniago",
                     "Haihani Silva Passos",
@@ -283,6 +283,7 @@
                     "Nara Alinne Nobre da Silva",
                     "Nília Oliveira Santos Lacerda",
                     "Polyana Fernandes Pereira",
+                    "Rejane Araújo Guimarães",
                     "Sandra Cristina Marquez",
                     "Suzana Maria Loures de Oliveira Marcionilio",
                     "Adrielly Aparecida de Oliveira",
@@ -293,8 +294,7 @@
                     "Marco Antônio Pereira da Silva",
                     "Mariluza Silva Leite",
                     "Silvia Ferreira Marques Salustiano",
-                    "Thiago Fernandes Qualhato",
-                    "Wesley Fonseca Vaz"
+                    "Thiago Fernandes Qualhato"
                 ],
                 "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
             }
@@ -428,8 +428,8 @@
                     "instituicao_promotora": "Instituto Federal Goiano."
                 },
                 {
-                    "autores": "RIBEIRO",
-                    "evento": "A. C.,  MACEDO, H. B.,  SARDI, A. B. P.,  OLIVEIRA, D. C.,  BELO-FILHO, M.A.F.,  VILELA, M. S.,  Abóbora Contest - Maratona de Programação 2023",
+                    "autores": "VILELA",
+                    "evento": "M. S.,  RIBEIRO, A. C.,  MACEDO, H. B.,  SARDI, A. B. P.,  OLIVEIRA, D. C.,  BELO-FILHO, M.A.F.,  Abóbora Contest - Maratona de Programação 2023",
                     "ano": "2023",
                     "duracao_semanas": "1",
                     "instituicao_promotora": "Instituto Federal Goiano."
@@ -469,8 +469,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "AMORIM, P.",
-                "titulo": "BELO-FILHO, M.A.F.;  ALMADA-LOBO, B.;  An adaptive large neighbourhood search for the operational integrated production and distribution problem of perishable products",
+                "autores": "BELO-FILHO, M.A.F.",
+                "titulo": "AMORIM, P.;  ALMADA-LOBO, B.;  An adaptive large neighbourhood search for the operational integrated production and distribution problem of perishable products",
                 "ano": "2015",
                 "periodico": "International Journal of Production Research (Print). ISBN: 00207543   ."
             },
@@ -574,14 +574,14 @@
                 "autores": "Belo Filho, Márcio A. F.",
                 "titulo": "SANTOS, M",
                 "evento": "O.; MENESES",
-                "local": "C. N.; Times Assíncronos Aplicados ao Problema de Flow Shop com Estoques Intermediários e Restrições de Capacidade. 15º Simpósio Internacional de Iniciação Científica da USP, São Carlos",
+                "local": "C. N.; Métodos Heurísticos para Resolução do Problema de Dimensionamento e Seqüenciamento de Lotes em um Ambiente Flow Shop com Restrição de Capacidade. XXX Congresso Nacional de Matemática Aplicada e Computação, Florianópolis",
                 "ano": "2007"
             },
             {
                 "autores": "Belo Filho, Márcio A. F.",
                 "titulo": "SANTOS, M",
                 "evento": "O.; MENESES",
-                "local": "C. N.; Métodos Heurísticos para Resolução do Problema de Dimensionamento e Seqüenciamento de Lotes em um Ambiente Flow Shop com Restrição de Capacidade. XXX Congresso Nacional de Matemática Aplicada e Computação, Florianópolis",
+                "local": "C. N.; Times Assíncronos Aplicados ao Problema de Flow Shop com Estoques Intermediários e Restrições de Capacidade. 15º Simpósio Internacional de Iniciação Científica da USP, São Carlos",
                 "ano": "2007"
             }
         ]

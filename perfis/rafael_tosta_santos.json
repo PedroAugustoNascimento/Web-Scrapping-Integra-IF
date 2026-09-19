@@ -1,0 +1,138 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Computação Aplicada",
+                "periodo": "2014 - 2016",
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "titulo": "Modelos de Propagação em Regiões Urbanas e Suburbanas de Cidades Brasileiras",
+                "orientador": "Edgar Silva Júnior"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2008 - 2014",
+                "instituicao": "Universidade Estadual de Feira de Santana"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2024",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2017 - 2019",
+                "cargo": "Professor Substituto, Temporário."
+            },
+            {
+                "empresa": "Rede e-Tec IFBA",
+                "periodo": "2018 - 2019",
+                "cargo": "Professor Mediador a Distância, Bolsista, Cursos: Técnico em Informática para internet e Técnico em Manutenção e Suporte em Informática."
+            },
+            {
+                "empresa": "Universidade Estadual de Feira de Santana",
+                "periodo": "2019 - 2024",
+                "cargo": "Professor Substituto, Temporário."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "periodo": "2021 - 2021",
+                "cargo": "Prestação de serviços de educação, Prestador de serviço, Prestação de serviços de educação, ensino, orientação pedagógica e educacional; Curso EAD: Programador de Sistemas.."
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "periodo": "2021 - 2022",
+                "cargo": "Prestação de serviços de educação e ensino,, Prestador de serviço, Prestação de serviços de educação, ensino, orientação pedagógica e educacional; Curso EAD: Programador de Sistemas.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "nome": "Implantação Da Sistematização Da Assistência De Enfermagem No Hospital Geral Cleriston Andrade",
+                "periodo": "2020 - 2022",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Rafael Tosta Santos",
+                    "DANILO DE OLIVEIRA GONÇALVES",
+                    "SILVONE SANTA BARBARA DA SILVA"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTOS",
+                    "titulo": "R. T.,  DUARTE, A.,  Desenvolvimento de Métodos de Bioinformática para busca in-silico de Epítopos T CD8+ Humanos no Proteoma de Leishmania Braziliensis",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universidade Estadual de Feira de Santana Pró Reitoria de Pesquisa e Pós-Graduação."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "TOSTA SANTOS, RAFAEL",
+                "titulo": "SILVA JUNIOR, EDGAR;  ARANTES CARRIJO, GILBERTO;  Waveguide Propagation Model and Measuremensts for Mobile Systems in Brazilian Cities",
+                "ano": "2018",
+                "periodico": "IEEE Latin America Transactions. ISBN: 15480992   ."
+            },
+            {
+                "autores": "DUARTE, ANGELO",
+                "titulo": "QUEIROZ, ARTUR T. L.;  TOSTA, RAFAEL;  CARVALHO, AUGUSTO M.;  BARBOSA, CARLOS HENRIQUE;  BELLIO, MARIA;  DE OLIVEIRA, CAMILA I.;  Barral-Netto, Manoel;  Prediction of CD8+ Epitopes in Leishmania braziliensis Proteins Using EPIBOT: In Silico Search and In Vivo Validation",
+                "ano": "2015",
+                "periodico": "Plos One. ISBN: 19326203   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "FRAGA, LUCAS LOPES",
+                "titulo": "SANTOS, RAFAEL TOSTA; ROCHA, LARISSA; CRAFTPy: allowing people with visual impairments to create diagrams",
+                "evento": "Simpósio Brasileiro de Engenharia de Software",
+                "local": "Brasil",
+                "ano": "2024"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Elvis Huges do Nascimento",
+                "titulo": "GEnEbook-UI: Um Ambiente Gráfico para a Configuração de Features Usadas na Geração de Aventuras Textuais",
+                "ano": "2023",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Estadual de Feira de Santana"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.402032852172852,
+            "indian": 25.82575225830078,
+            "black": 8.461441993713379,
+            "white": 7.973496437072754,
+            "middle eastern": 7.917014122009277,
+            "latino hispanic": 40.42026901245117
+        }
+    }
+}

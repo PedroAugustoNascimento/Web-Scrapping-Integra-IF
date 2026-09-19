@@ -1,0 +1,222 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "CIÊNCIA DA COMPUTAÇÃO",
+                "instituicao": "Universidade Federal do Maranhão",
+                "orientador": "Antonio Oseas de Carvalho FIlho",
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Piauí",
+                "titulo": "METODOLOGIA COMPUTACIONAL BASEADA EM BIFPN PARA DETECÇÃO DE BACILOS DE KOCH EM IMAGENS DE BACILOSCOPIA DE ESCARRO",
+                "orientador": "Antonio Oseas De Carvalho Filho",
+                "ano_inicio": 2021,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Visão Computacional",
+                "instituicao": "Data Science Academy",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Federal do Piauí",
+                "ano_inicio": 2017,
+                "ano_fim": 2021
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Piauí",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "Monitor",
+                "vinculo": "Monitoria não remunerada",
+                "descricao": "Curso: SISTEMAS DE INFORMAÇÃO/CSHNBDisciplina: SINF/CSHNB021 - BANCO DE DADOS IIProfessor-orientador: ALAN RAFAEL FERREIRA DOS SANTOS Período letivo: 2019.1"
+            },
+            {
+                "empresa": "Universidade Federal do Piauí",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": "Título do projeto: Inteligência e Visão computacional aplicadas a problemas de imagens médicas para uso em sistemas de auxílio ao diagnóstico;Título do plano de trabalho: Classificação de tecidos da mama em maligno e benigno baseado em mamografias digitais;Orientador: ANTONIO OSEAS DE CARVALHO FILHO"
+            },
+            {
+                "empresa": "Universidade Federal do Piauí",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Monitor",
+                "vinculo": "Monitoria não remunerada",
+                "descricao": "Curso: SISTEMAS DE INFORMAÇÃO/CSHNBDisciplina: SINF/CSHNB001 - ALGORITMOS E PROGRAMAÇÃO IProfessor-orientador: ALCILENE DALILIA DE SOUSA Período letivo: 2018.1"
+            },
+            {
+                "empresa": "Universidade Federal do Piauí",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Monitor",
+                "vinculo": "Monitoria não remunerada",
+                "descricao": "Curso: SISTEMAS DE INFORMAÇÃO/CSHNBDisciplina: SINF/CSHNB001 - ALGORITMOS E PROGRAMAÇÃO IProfessor-orientador: PATRICIA VIEIRA DA SILVA BARROS Período letivo: 2018.2"
+            },
+            {
+                "empresa": "Universidade Federal do Piauí",
+                "ano_inicio": 2018,
+                "ano_fim": 2019,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": "Título do projeto: Descritores de textura e forma aplicados a classificação automática de imagens médicas para uso em ferramentas CAD;Título do plano de trabalho: Descritores de textura baseados em vidas artificiais aplicadas a caracterização de imagens de mamografia digital;Orientador: ANTONIO OSEAS DE CARVALHO FILHO"
+            },
+            {
+                "empresa": "Universidade Federal do Piauí",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": "Título do projeto: Metodologias para classificação automática de imagens médicas para uso em sistemas Computer-Aided Diagnostic; Título do plano de trabalho: Classificação de tecidos da mama em maligno e benigno baseado em mamografias digitais; Orientador: ANTONIO OSEAS DE CARVALHO FILHO"
+            },
+            {
+                "empresa": "SIDI RECIFE",
+                "ano_inicio": 2021,
+                "ano_fim": 2026,
+                "funcao": "Desenvolvedor de Software PL",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Pará",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "SIDI RECIFE",
+                "nome": "GenSiDi Reconhecimento Genérico de Objetos com Prompts Visuais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Patrick Ryan Sales Dos Santos",
+                    "Azael De Melo E Sousa",
+                    "Rafael Gregori De Souza",
+                    "Gustavo Shoiti Sonoda",
+                    "Vanessa Alvim Ferrão"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CARVALHO FILHO",
+                    "software": "A. O.,  ARAUJO, FLAVIO H. D.,  SILVA, ROMUERE R. V.,  DE ANDRADE LIRA RABELO, RICARDO,  BORGES, F. A. S.,  SANTOS, P. R. S.,  LELIS, SAMUEL P. B. D.,  SOUZA, L. B. M.,  Mapa da Covid-19 Piauí: uma ferramenta WEB para monitoramento e auxílio na tomada de decisões",
+                    "ano": "2023",
+                    "finalidade": "Ferramenta WEB para monitoramento e auxílio na tomada de decisões.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512023001015-4."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DOS SANTOS, PATRICK RYAN SALES",
+                "titulo": "DE CARVALHO BRITO, VITÓRIA;  DE CARVALHO FILHO, ANTÔNIO OSEAS;  DINIZ, JOÃO OTÁVIO BANDEIRA;  KochDet: BiFPN-based deep architecture for tuberculosis diagnosis",
+                "ano": "2024",
+                "periodico": "Biomedical Signal Processing and Control. ISBN: 17468094   ."
+            },
+            {
+                "autores": "BRITO, VITÓRIA DE CARVALHO",
+                "titulo": "SANTOS, PATRICK RYAN SALES DOS;  CARVALHO FILHO, ANTONIO OSEAS DE;  UMA ABORDAGEM MULTI-TASK LEARNING PARA A CONTAGEM DE BACILOS DA TUBERCULOSE EM IMAGENS DE SSM",
+                "ano": "2023",
+                "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC. ISBN: 22372903   ."
+            },
+            {
+                "autores": "SANTOS, PATRICK RYAN S. DOS",
+                "titulo": "BRITO, VITÓRIA DE C.;  CARVALHO FILHO, ANTONIO OSEAS DE;  KOCHDET: ARQUITETURA PROFUNDA BASEADA EM BIFPN PARA DETECÇÃO DE BACILOS DE KOCK",
+                "ano": "2023",
+                "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC. ISBN: 22372903   ."
+            },
+            {
+                "autores": "DE CARVALHO BRITO, VITÓRIA",
+                "titulo": "DOS SANTOS, PATRICK RYAN SALES;  DE SALES CARVALHO, NONATO RODRIGUES;  DE CARVALHO FILHO, ANTONIO OSEAS;  COVID-index: A texture-based approach to classifying lung lesions based on CT images",
+                "ano": "2021",
+                "periodico": "PATTERN RECOGNITION. ISBN: 00313203   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "dos Santos, P.V.S.",
+                "titulo": "SANTOS, P",
+                "evento": "R. S.; DINIZ",
+                "local": "JOÃO OTÁVIO BANDEIRA; CARVALHO FILHO, A. O.; U-Net-EL: A U-Net and Early Learning-Based Method for Histopathological Breast Image Segmentation. BRACIS 2025,",
+                "ano": "2026"
+            },
+            {
+                "autores": "SANTOS, PATRICK RYAN SALES DOS",
+                "titulo": "ARAÚJO, JOSÉ DENES LIMA; CARVALHO FILHO, ANTONIO OSEAS DE; EL-nnU-Net: Early Learning para Segmentação 3D do Hipocampo em Ressonância Magnética",
+                "evento": "Simpósio Brasileiro de Computação Aplicada à Saúde",
+                "local": "Brasil",
+                "ano": "2026"
+            },
+            {
+                "autores": "BARBOSA, F. F. R.",
+                "titulo": "SANTOS, P",
+                "evento": "R. S.; CARVALHO FILHO",
+                "local": "A. O.; SILVA, I. S.; VERAS, R. M. S.; Deep Learning for Helicobacter Pylori Classification: A Comparative Approach Using Transfer Learning and Data Augmentation. BRACIS 2025,",
+                "ano": "2025"
+            },
+            {
+                "autores": "SANTOS, PATRICK RYAN SALES DOS",
+                "titulo": "BRITO, VITÓRIA DE CARVALHO; CARVALHO FILHO, ANTONIO OSEAS DE; SOUSA, ALCILENE DALÍLIA DE; DINIZ, JOÃO OTÁVIO BANDEIRA; LUZ, DANIEL DE SOUSA; EfficientBacillus: uma arquitetura profunda para detecção dos bacilos de Koch",
+                "evento": "Simpósio Brasileiro de Computação Aplicada à Saúde",
+                "local": "Brasil",
+                "ano": "2023"
+            },
+            {
+                "autores": "DOS SANTOS, PATRICK R. S.",
+                "titulo": "RODRIGUES, JOEL J",
+                "evento": "P. C.; DE SOUZA",
+                "local": "LUCAS B. M.; LELIS, SAMUEL P. B. D.; RIBEIRO, HECTOR B.; BORGES, FABBIO A. S.; SILVA, ROMUERE R. V.; FILHO, ANTONIO OSEAS CARVALHO; ARAUJO, FLAVIO H. D.; DE ANDRADE LIRA RABELO, RICARDO; Prediction of COVID-19 using Time-Sliding Window: The case of Piauí State - Brazil. 2020 IEEE International Conference on Ehealth Networking, Application &amp; Services (HEALTHCOM), Shenzhen",
+                "ano": "2021"
+            },
+            {
+                "autores": "DOS SANTOS REIST, FRANCISCO JOSE",
+                "titulo": "VELOSO, MATEUS ASSIS; MORAES RODRIGUES, FILIPE MATEUS; DE CARVALHO BRITO, VITORIA; SALES DOS SANTOS, PATRICK RYAN; ARAUJO, JOSE DENES LIMA; DE ANDRADE LIRA RABELO, RICARDO; DE CARVALHO FILHO, ANTONIO OSEAS; BacillusNet: An automated approach using RetinaNet for segmentation of pulmonary Tuberculosis bacillus",
+                "evento": "2021 IEEE Symposium on Computers and Communications (ISCC)",
+                "local": "Athens",
+                "ano": "2021"
+            },
+            {
+                "autores": "SALES DOS SANTOS, PATRICK RYAN",
+                "titulo": "DE CARVALHO BRITO, VITORIA; DE CARVALHO FILHO, ANTONIO OSEAS; HENRIQUE DUARTE DE ARAUJO, FLAVIO; DE ANDRADE LIRA RABELO, RICARDO; JOSEPH MATHEW, MANO; A Capsule Network-based for identification of Glaucoma in retinal images",
+                "evento": "2020 IEEE Symposium on Computers and Communications (ISCC)",
+                "local": "Rennes",
+                "ano": "2020"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

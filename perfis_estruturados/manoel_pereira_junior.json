@@ -1,0 +1,371 @@
+{
+    "campus": "- Campus Formiga",
+    "instituto": "IFMG",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Minas Gerais",
+                "titulo": "Um Modelo Para Apoiar Projetistas De Sistemas Colaborativos Na Antecipação De Cenários",
+                "orientador": "Raquel Oliveira Prates",
+                "ano_inicio": 2010,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Matemática e Computacional",
+                "instituicao": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "titulo": "DEFINIÇÃO E VALIDAÇÃO DE UM PROCESSO DE DESENVOLVIMENTO PARA SOFTWARE CIENTÍFICO",
+                "orientador": "Gray Farias Moita",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Centro Universitário de Formiga",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Fundação Educacional de Oliveira",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Professor",
+                "vinculo": "Professor Adjunto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação Universidade de Itaúna",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Professor Adjunto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Minas Gerais",
+                "ano_inicio": 2007,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "FORSCIENCE",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de corpo editorial"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Minas Gerais\nInstituto Federal Minas Gerais - Campus Formiga (2008 - 2012) : Gerente De Tecnologia Da Informação.\nCentro Federal de Educação Tecnológica de Bambuí (2007 - 2008) : Gerente De Tecnologia Da Informação.",
+        "ensino": ": Instituto Federal Minas Gerais\nOutro (2010 - 2010) .\nOutro (2009 - 2009) .\nOutro (2009 - 2009) .\nGraduacao (2008 - 2008) - Tecnólogo Em Análise E Desenvolvimento De Sistemas.\nGraduacao (2008 - 2008) - Tecnólogo Em Análise E Desenvolvimento De Sistemas.\nOutro (2008 - 2008) .\nGraduacao (2007 - 2007) - Tecnólogo Em Análise E Desenvolvimento De Sistemas.\nOutro (2007 - 2007) .",
+        "comissoes": ": Instituto Federal Minas Gerais\nMembro Da Comissão De Concurso Público Para Docente (2009 - 2009).\nMembro Da Comissão De Registro Acadêmico (2008 - 2008).\nMembro Da Comissão Permanente De Vestibular E Exame De Seleção - Copeves (2007 - 2008).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "USO DO GUIA PMBOK® PARA A GESTÃO DE PROJETOS DE INOVAÇÃO E DE PRODUTOS SUBMETIDOS AO PÓLO DE INOVAÇÃO EM SISTEMAS AUTOMOTIVOS INTELIGENTES",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Manoel Pereira Junior"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "INFOVIAS - Um Sistema Inteligente para Usuários de Rodovias",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Manoel Pereira Junior",
+                    "Paim Lima",
+                    "Fernando",
+                    "Roger Santos Ferreira",
+                    "Juliana De Sousa Ribeiro",
+                    "Francisco De Sousa Júnior"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Sistema Inteligente para Controle Financeiro de Vendedores Itinerantes",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Manoel Pereira Junior",
+                    "Roger Santos Ferrreira",
+                    "Fernando Paim Lima"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal Minas Gerais",
+                "nome": "Escalonador Inteligente para Veículos e Ativos Móveis",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Manoel Pereira Junior",
+                    "Diego Mello Da Silva",
+                    "Roger Santos Ferrreira"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "software": "M.,  FERREIRA, ROGER SANTOS,  LIMA, F. P.,  FONSECA, R. W.,  FERNANDES, L. M.,  SILVA, A. F.,  Monitoramento Inteligente de Elevadores Prediais",
+                    "ano": "2022",
+                    "finalidade": "Acompanhamento inteligente de elevadores prediais.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512022002624-4."
+                },
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "software": "M.,  FERREIRA, ROGER SANTOS,  PAIM LIMA,  GONCALVES, N. F.,  AMARANTE;, P. P.,  OLIVEIRA, G. A.,  Sistema Inteligente para Controle Financeiro de Vendedores Itinerantes",
+                    "ano": "2020",
+                    "finalidade": "Potencializar as vendas de vendedores itinerantes.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512022002625-2."
+                },
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "software": "M.,  FERREIRA, R. S.,  SILVA, D. M.,  RESENDE, E. M. L.,  Escalonador inteligente para veículos e ativos móveis",
+                    "ano": "2019",
+                    "finalidade": "Escalonar veículos e ativos móveis.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512020000099-1."
+                },
+                {
+                    "autor": "NAMETALA",
+                    "software": "C. A. L.,  PEREIRA JUNIOR, M.;JUNIOR, MANOEL PEREIRA,  PEREIRA, S. S.,  SILVA, S. A. C.,  REIS, W. S.,  PRATO - PONTO DE REFEITÓRIO AUTOMATIZADO",
+                    "ano": "2013",
+                    "finalidade": "Refeitório de escola federal.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512013000696-1."
+                },
+                {
+                    "autor": "NAMETALA",
+                    "software": "C. A. L.,  PEREIRA JUNIOR, M.;JUNIOR, MANOEL PEREIRA,  REIS, W. S.,  SICAD - SISTEMA PARA CADASTRAMENTO DE ATIVIDADES DOCENTES",
+                    "ano": "2013",
+                    "finalidade": "Controle de atividades docentes.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512013000698-8."
+                },
+                {
+                    "autor": "NAMETALA",
+                    "software": "C. A. L.,  PEREIRA JUNIOR, M.;JUNIOR, MANOEL PEREIRA,  PEREIRA, S. S.,  SILVA, S. A. C.,  REIS, W. S.,  CONTA ACADÊMICA - SALTO ELETRÔNICO DO ALUNO",
+                    "ano": "2013",
+                    "finalidade": "Refeitório de escola federal.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512013000697-0."
+                },
+                {
+                    "autor": "CANTO",
+                    "software": "R. C.,  FERREIRA, R. S.,  CARDOSO, R. B.,  PEREIRA JUNIOR, M.;JUNIOR, MANOEL PEREIRA,  SISPLAN - SISTEMA DE PLANEJAMENTO PARTICIPATIVO",
+                    "ano": "2010",
+                    "finalidade": "Planejamento participativo.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 11710-0."
+                },
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "software": "M.,  COSTA, D. F.,  TEIXEIRA, P. R.,  CARDOSO, R. B.,  FERREIRA, R. S.,  SCEAP - SISTEMA DE CONTROLE DE EMPENHOS, ALMOXARIFADO E PATRIMONIO",
+                    "ano": "2010",
+                    "finalidade": "CONTROLE DE EMPENHOS, ALMOXARIFADO E PATRIMONIO.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512014001369-3."
+                },
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "software": "M.;JUNIOR, MANOEL PEREIRA,  SOARES, M. D.,  SIMULAR - Simulador de Álgebra Relacional",
+                    "ano": "2003",
+                    "finalidade": "Edição e Simulação de Consultas em Álgebra Relacional."
+                },
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "software": "M.;JUNIOR, MANOEL PEREIRA,  OLIVEIRA, P. M.,  Milksoft",
+                    "ano": "2002",
+                    "finalidade": "Controle Rural."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "curso": "M.;JUNIOR, MANOEL PEREIRA,  Desenvolvendo Aplicações Comerciais utilizando a IDE Borland Delphi e Banco de Dados",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "PEREIRA JUNIOR",
+                    "curso": "M.;JUNIOR, MANOEL PEREIRA,  Delphi 5.0 Intermediário",
+                    "ano": "2002"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FERREIRA, ROGER SANTOS",
+                "titulo": "JUNIOR, MANOEL PEREIRA;  XAVIER, GLÁUCIA DO CARMO;  Aprendizagem significativa na educação matemática: o uso do Diagrama CBN",
+                "ano": "2020",
+                "periodico": "RESEARCH, SOCIETY AND DEVELOPMENT. ISBN: 25253409   ."
+            },
+            {
+                "autores": "OLIVEIRA, P. M.",
+                "titulo": "PEREIRA JUNIOR, M.;JUNIOR, MANOEL PEREIRA;  COTA, G. M. C.;  Milksoft - Uma aplicação do porcesso Práxis",
+                "ano": "2007",
+                "periodico": "Revista Governança & Tecnologia. ISBN: 19819307   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "PRATES, R",
+                "evento": "O.; Um Modelo para Apoiar Designers de Sistemas Colaborativos na Antecipação de Cenários. Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais",
+                "local": "IHC 2015, Salvador, Bahia",
+                "ano": "2015"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "JUNIOR, MANOEL PEREIRA; VILLELA, M",
+                "evento": "L. B.; ROCHA",
+                "local": "E. C. F.; PRATES, R. O.; O Navegar Impreciso ? A Privacidade no Facebook Vivenciada por seus Usuários. Simpósio Brasileiro de Sistemas de Informação, João Pessoa - PB",
+                "ano": "2013"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "JUNIOR, MANOEL PEREIRA; PRATES, R",
+                "evento": "O.; XAVIER",
+                "local": "S.; Antecipando possíveis implicações de privacidade na postagem de fotos no Facebook. XII Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC), Manaus, AM, Brasil",
+                "ano": "2013"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "JUNIOR, MANOEL PEREIRA; MOITA, G",
+                "evento": "F.; Proposta para concepção de um processo de desenvolvimento para software científico. VIII Simpósio de Mecânica Computacional",
+                "local": "Belo Horizonte: PUC Minas",
+                "ano": "2008"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "JUNIOR, MANOEL PEREIRA; SOUZA, Marcelle Cristina Moura e; MOITA, G",
+                "evento": "F.; Definição e Validação de um Processo de Desenvolvimento Específico para Software Científico. XXVIII CILAMCE - Congresso Ibero Latino Americano sobre Métodos Computacionais em Engenharia",
+                "local": "Porto",
+                "ano": "2007"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "JUNIOR, MANOEL PEREIRA; MOITA, G",
+                "evento": "F.; Concepção de um processo de desenvolvimento específico para software científico. X Encontro de Modelagem Computacional",
+                "local": "Nova Friburgo",
+                "ano": "2007"
+            },
+            {
+                "autores": "SOUZA, Marcelle Cristina Moura e",
+                "titulo": "PEREIRA JUNIOR, M",
+                "evento": ";JUNIOR",
+                "local": "MANOEL PEREIRA; MOITA, G.F.; Propostas iniciais para a definição de um processo de desenvolvimento para software científico. IX Encontro de Modelagem Computacional, Belo Horizonte",
+                "ano": "2006"
+            },
+            {
+                "autores": "PEREIRA JUNIOR, M.",
+                "titulo": "JUNIOR, MANOEL PEREIRA; MOITA, G",
+                "evento": "F.; Definição e Validação de um Processo de Desenvolvimento para Software Científico. II Encontro Inter-Institucional de Pesquisa em Pós-Graduação",
+                "local": "Belo Horizonte",
+                "ano": "2006"
+            },
+            {
+                "autores": "SOUZA, Marcelle Cristina Moura e",
+                "titulo": "PEREIRA JUNIOR, M",
+                "evento": ";JUNIOR",
+                "local": "MANOEL PEREIRA; MOITA, G.F.; PESC - Processo de desenvolvimento específico para software científico: Propostas iniciais. XXVII CILAMCE - Iberian Latin American Congress on Computational Methods in Engineering, Belém",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Renato Borges Boaventura",
+                "titulo": "Desenvolvimento De Um Sistema Web Para Personal Trainers Utilizando O Framework Laravel",
+                "ano": "2021",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Augusto Amaral Araújo",
+                "titulo": "Desenvolvimento de pacote para uso de certificados digitais em aplicações Laravel",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Guilherme Cardoso Silva",
+                "titulo": "ESTUDO E IMPLEMENTAÇÃO DE UM INDEXADOR DE DOCUMENTOS COM WEBSTORAGE",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Renata Caroline Cunha",
+                "titulo": "ESTUDO COMPARATIVO SOBRE FERRAMENTAS DE RECONHECIMENTO ÓPTICO DE CARACTERES",
+                "ano": "2018",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "RAFAEL ROSSATO DE SOUZA",
+                "titulo": "ANÁLISE COMPARATIVA DE MODELOS PARA APOIO AO PROJETO DE SISTEMAS COLABORATIVOS",
+                "ano": "2017",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Denise Rodarte",
+                "titulo": "Estudo de Caso - Usabilidade do Site de Educação à Distância InterAge",
+                "ano": "2008",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Bya Carolina Lemos da Silva",
+                "titulo": "Acessibilidade e Usabilidade na INTERNET por Deficientes Motores",
+                "ano": "2008",
+                "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Minas Gerais"
+            },
+            {
+                "orientando": "Adriano Henrique Alves Silveira",
+                "titulo": "O Poder da Informação nas Organizações",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            },
+            {
+                "orientando": "Jónatas Silva Ribeiro",
+                "titulo": "Desenvolvimento do Sistema de Gestão Online da Loja Action Games",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            },
+            {
+                "orientando": "Raquel Veloso Rocha Soares",
+                "titulo": "Desenvolvimento de Software para a Financeira Financar",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            },
+            {
+                "orientando": "Antunes Nei Ferreira",
+                "titulo": "Sistema para Criação e Manutenção de Avaliações de Aprendizagem para o Ensino Fundamental e Médio",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            },
+            {
+                "orientando": "Paula Cristina Pires dos Santos",
+                "titulo": "LEARN - Software para Aprendizado da Linguagem SQL",
+                "ano": "2006",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Fundação Educacional de Oliveira"
+            }
+        ]
+    }
+}

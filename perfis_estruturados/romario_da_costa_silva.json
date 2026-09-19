@@ -1,0 +1,543 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "orientador": "Carlos Renato Lisboa Francês",
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Detecção de larvas de mosquitos do gênero Aedes utilizando Deep Learning",
+                "orientador": "Carlos Renato Lisboa Francês",
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Ciência de Dados",
+                "instituicao": "Faculdade do Grupo UNIASSELVI",
+                "orientador": "Norberto Siegel",
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia da Computação",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 2015,
+                "ano_fim": 2019
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Secretaria de Ciência, Tecnologia e Inovação do Pará (PA)",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Monitor",
+                "vinculo": "Bolsista",
+                "descricao": "Monitor do programa de inclusão digital - NAVEGAPARÁ"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": "Área: Informática"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "MCTI/CNPq - PRÓ-AMAZONIA: DeepBI-RADS: Deep Learning para a Antecipação Diagnóstica de Câncer de Mama",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Romário Da Costa Silva",
+                    "Evelin Helena Silva Cardoso",
+                    "Carlos Renato Lisboa Francês",
+                    "André Carlos Ponce De Leon Ferreira De Carvalho",
+                    "Joao Crisostomo Weyl Albuquerque Costa",
+                    "Vitor Hugo Macedo Gomes",
+                    "Nandamudi Lankalapalli Vijaykumar",
+                    "Jasmine Priscyla Leite De Araujo",
+                    "Jessé Da Costa Rocha",
+                    "Thalita Ayass De Souza",
+                    "Hugo Pereira Kuribayashi",
+                    "Paulo Pimentel De Assumpção",
+                    "Sidnir Carlos Baia Ferreira",
+                    "Ana Lúcia Prado",
+                    "Rommel Thiago Juca Ramos",
+                    "Cláudio Alex Jorge Da Rocha",
+                    "Carlos André De Mattos Teixeira",
+                    "Marcelino Silva Da Silva",
+                    "Catalina González-Uribe",
+                    "Edwin Rafael Villanueva Talavera",
+                    "Edvar Da Luz Oliveira",
+                    "Julio Leite Azancort Neto",
+                    "Josilene De Melo Lobato",
+                    "Gabriel Xavier Vieira Do Nascimento",
+                    "Hayla Luiza Da Costa Almeida",
+                    "Francicléia Ramos Pacheco",
+                    "Felipe Vilhena Costa",
+                    "Alisson Rafael Arcanjo Damasceno",
+                    "Kelvyn Werik Nascimento Gomes"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "CNPq/SECTICS/CAPES/FAPs INCT IAmazônia: Instituto Nacional de Ciência e Tecnologia em Inteligência Artificial aplicada às cidades inteligentes e sustentáveis na Amazônia brasileira",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vladimiro Miranda",
+                    "Leandro Aparecido Villas",
+                    "Romário Da Costa Silva",
+                    "Evelin Helena Silva Cardoso",
+                    "Carlos Renato Lisboa Francês",
+                    "Diego Lisboa Cardoso",
+                    "Roberto Célio Limão De Oliveira",
+                    "André Carlos Ponce De Leon Ferreira De Carvalho",
+                    "Eduardo Coelho Cerqueira",
+                    "Ádamo Lima De Santana",
+                    "Joao Crisostomo Weyl Albuquerque Costa",
+                    "Vitor Hugo Macedo Gomes",
+                    "Paolo Monti",
+                    "Nandamudi Lankalapalli Vijaykumar",
+                    "Jasmine Priscyla Leite De Araujo",
+                    "Teresa Bernarda Ludermir",
+                    "Marcela Alves De Souza",
+                    "Jessé Da Costa Rocha",
+                    "Thalita Ayass De Souza",
+                    "Hugo Pereira Kuribayashi",
+                    "Edilson Fernandes De Arruda",
+                    "Ines De Castro Dutra",
+                    "Paulo Pimentel De Assumpção",
+                    "Sidnir Carlos Baia Ferreira",
+                    "João Farias Guerreiro",
+                    "Ana Lúcia Prado",
+                    "Angela Burlamaqui Klautau",
+                    "Adam Dreyton Ferreira Dos Santos",
+                    "Adriana Ribeiro Carneiro Nunes",
+                    "Antonio Alfredo Ferreira Loureiro",
+                    "Bruno Duarte Gomes",
+                    "Denis Lima Do Rosário",
+                    "Diego Cardoso Estumano",
+                    "Fabricio Jose Brito Barros",
+                    "Gilvan Soares Borges",
+                    "Horacio Antonio Braga Fernandes De Oliveira",
+                    "Hugo Leonardo Melo Dos Santos",
+                    "Karcius Day Rosario Assis",
+                    "Luís Carlos Bassalo Crispino",
+                    "Pedro Henrique Juliano Nardelli",
+                    "Rafiza Luziani Varão Ribeiro Carvalho",
+                    "Siomar De Castro Soares",
+                    "Victor Henrique Rodrigues Cardoso",
+                    "Maria Thereza Miranda Rocco Giraldi",
+                    "Rommel Thiago Juca Ramos",
+                    "Rosinei De Sousa Oliveira",
+                    "Antonio Teixeira",
+                    "Brigitte Jaumard",
+                    "Catha O'Mahony",
+                    "Cormac Sreenan",
+                    "Edian Franklin Franco De Los Santos",
+                    "Edmundo Heitor Da Silva Monteiro",
+                    "José Luís Campos Oliveira Santos",
+                    "Luca Valcarenghi",
+                    "Marília Curado",
+                    "Moisés Felipe Mello Da Silva",
+                    "Orlando José Dos Reis Frazão",
+                    "Pedro Alberto Da Silva Jorge",
+                    "Shuangyi Yan",
+                    "Simon Xianyi Yang",
+                    "Susana Isabel Barreto De Miranda Sargento",
+                    "Waldir Aranha Moreira Junior",
+                    "Carlos André De Mattos Teixeira",
+                    "Carlos Willian Dias Dantas",
+                    "David Tavares Martins",
+                    "Josiellem Damasceno De Souza",
+                    "Lucas De Sousa Pacheco",
+                    "Matheus Moraes De Brito",
+                    "Rafael Veiga Teixeira E Silva",
+                    "Romulo Antonio Chaves Lopes",
+                    "Sandy Ingrid Aguiar Alves",
+                    "Ulrich Kauê Mendes Alencar Da Silva",
+                    "Victor Benedito Costa Ferreira",
+                    "Wylerson Guimarães Nogueira",
+                    "José Rogério De Araújo Silva"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Brasil++: Rede de Cooperação em Inteligência Artificial e Saúde para Auxílio ao Diagnóstico Precoce do Câncer Cervical",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "André Carlos Ponce De Leon Ferreira De Carvalho",
+                    "Ádamo Lima De Santana",
+                    "Nandamudi Lankalapalli Vijaykumar",
+                    "Edilson Fernandes De Arruda",
+                    "Ines De Castro Dutra",
+                    "Jasmine Priscyla Leite De Araujo",
+                    "Romário Da Costa Silva",
+                    "Evelin Helena Silva Cardoso",
+                    "Carlos Renato Lisboa Francês",
+                    "Paulo Pimentel De Assumpção",
+                    "Sidnir Carlos Baia Ferreira",
+                    "João Farias Guerreiro",
+                    "Ana Lúcia Prado",
+                    "Marcelino Silva Da Silva",
+                    "Marcelo Eduardo Vieira Segatto",
+                    "Carmelo Jose Albanez Bastos Filho",
+                    "Alessandro Igor Cavalcanti Leal",
+                    "Sylvio Barbon Júnior"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Destino Sustentável: uma aplicação web e móvel para gestão de resíduos sólidos recicláveis na cidade de Castanhal",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maria Vitória Rodrigues Oliveira",
+                    "Luciano Arruda Teran",
+                    "Carlos Frederico Do Vale Coutinho",
+                    "Bruno Souza Lyra Castro",
+                    "Romário Da Costa Silva",
+                    "José Ítalo Da Costa Silva"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SOUSA",
+                    "software": "C. W. A.,  ALENCAR, J. T.,  SILVA, R. C.,  SIAF - SISTEMA DE INFORMAçÃO DE AVALlAÇÃO FíSICA",
+                    "ano": "2026",
+                    "finalidade": "Trata-se de um sistema voltado ao apoio de avaliações físicas, com potencial de aplicação em contextos educacionais, acadêmicos e de promoção da saúde.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026004095-7."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C.,  SILVA, J. I. C.,  VIDAL, J. F.,  PIRES, Y. P.,  Técnicas de mineração de dados: Mensuração da aceitabilidade de veículos através da aplicação dos algoritmos APRIORI, J48 e NAIVE BAYES",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Federal do Pará."
+                },
+                {
+                    "autores": "OLIVEIRA JUNIOR",
+                    "titulo": "C. E. P.,  SILVA, R. C.,  SANTOS, E. F.,  AMARAL, P. L. C.,  VIDAL, J. F.,  Protocolo 6PE como alternativa ao NAT44 para limitação de endereços IPV4 e efetivação do IPV6",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Federal do Pará."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C.,  FERREIRA JUNIOR, J. J. H.,  Processamento de imagens aéreas para identificação e solução de problemas ambientais",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Federal do Pará."
+                },
+                {
+                    "autores": "COUTINHO",
+                    "titulo": "C. F. V.,  SILVA, R. C.,  SILVA, J. I. C.,  OLIVEIRA, M. V. R.,  CASTRO, B. S. L.,  Uma análise da usabilidade da aplicação web Destino Sustentável para o gerenciamento de resíduos sólidos recicláveis",
+                    "ano": "2019",
+                    "instituicao_promotora": "Universidade Federal do Pará."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C.,  OLIVEIRA, M. V. R.,  SILVA, J. I. C.,  Transmissão de Dados por Meio de Ondas Sonoras: A utilização da modulação QPSK",
+                    "ano": "2018",
+                    "instituicao_promotora": "UFPA."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C.,  SILVA, J. I. C.,  OLIVEIRA, M. V. R.,  Automação Residencial para Pessoas com Deficiência",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Federal do Pará."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C.,  O curso de Engenharia da Computação da UFPA",
+                    "ano": "2016",
+                    "instituicao_promotora": "UFPA."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "COSTA",
+                    "curso": "E. S. S.,  Silva, Romário da C.,  Fundamentos e Aplicações de Visão Computacional com Redes Neurais Convolucionais",
+                    "ano": "2025"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. C.,  Introdução à visão computacional",
+                    "ano": "2025"
+                },
+                {
+                    "autor": "Silva",
+                    "curso": "Romário da Costa,  COSTA, E. S. S.,  Desbravando o Mundo da Visão Computacional: Introdução às Redes Neurais Convolucionais (CNN) e Algoritmos de Detecção de Objetos",
+                    "ano": "2023"
+                },
+                {
+                    "autor": "OLIVEIRA",
+                    "curso": "M. V. R.,  SILVA, J. I. C.,  SILVA, R. C.,  TERAN, L. A.,  Arduíno",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. C.,  SOUSA, G. O.,  Montagem e Manutenção Básica de Computadores",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. C.,  ANDRADE, A. H. G.,  ALMEIDA, A. V.,  Introdução à programação",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. C.,  SOUSA, G. O.,  ALMEIDA, A. V.,  ANDRADE, A. H. G.,  Manutenção Básica de Computadores",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. C.,  SOUSA, G. O.,  LOPES, A. S.,  COSTA, E. S.,  Manutenção Básica de Computadores",
+                    "ano": "2013"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "R. C.,  I SETAPI - Semana Tecnológica Acadêmica de Pesquisa e Inovação",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal do Pará - IFPA."
+                },
+                {
+                    "autores": "CAJAIBA",
+                    "evento": "R. L.,  Silva, Romário da Costa,  IV Semana de Meio Ambiente e III Simpósio de Educação, Saúde e Meio Ambiente (SESMA)",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFPA."
+                },
+                {
+                    "autores": "BELCAVELLO",
+                    "evento": "M. P. P. S.,  Silva, Romário da Costa,  Encontro Interinstitucional de EJA da Região do Tapajós - I EIEJA/RT",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFPA."
+                },
+                {
+                    "autores": "FRANCÊS",
+                    "evento": "C. R. L.,  Silva, Romário da Costa,  I Workshop Amazônico Deep BI-RADS",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFPA."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "PEREIRA, ELAINNE LADISLAU F.",
+                "titulo": "SILVA, R. C.;  MOURA, FLÁVIO RAFAEL TRINDADE;  FRANCÊS, C. R. L.;  CARDOSO, Diego Lisboa;  Pineapples Health Detection Using Deep Learning Models",
+                "ano": "2026",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            },
+            {
+                "autores": "BARBOSA, ALEXANDRE DO NASCIMENTO",
+                "titulo": "Silva, Romário da Costa;  O impacto das tecnologias de saúde móvel na redução da mortalidade materna",
+                "ano": "2026",
+                "periodico": "REVISTA ELETRÔNICA ACERVO EM SAÚDE. ISBN: 21782091   ."
+            },
+            {
+                "autores": "FERREIRA, SIDNIR CARLOS BAIA",
+                "titulo": "ARAÚJO, JASMINE;  Silva, Romário;  TEIXEIRA, CARLOS ANDRÉ DE MATTOS;  SOUZA, JOSIELLEM;  GOMES, EVELIN;  ASSUMPÇÃO, PAULO;  GUERREIRO, JOÃO;  VIJAYKUMAR, NANDAMUDI;  FRANCÊS, CARLOS RENATO LISBOA;  Assessing the efficacy of convolutional neural networks for Pap smear classification: a real world analysis",
+                "ano": "2026",
+                "periodico": "PEERJ COMPUTER SCIENCE. ISBN: 23765992   ."
+            },
+            {
+                "autores": "DA SILVA, ROBERTO HIGINO PEREIRA",
+                "titulo": "TORRES LUCAS, AFONSO HENRIQUE;  DE ALMEIDA MENDONÇA, DANIEL CARLOS;  DO CARMO, VITOR RAMON VIANA;  DE MATTOS TEIXEIRA, CARLOS ANDRÉ;  AZANCORT NETO, JULIO LEITE;  Da Costa Silva, Romário;  LISBOA FRANCÊS, CARLOS RENATO;  Large language models as a decision-making core for semantic capability check in asset administration shell-based intelligent manufacturing",
+                "ano": "2026",
+                "periodico": "INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY. ISBN: 02683768   ."
+            },
+            {
+                "autores": "NETO, JULIO LEITE AZANCORT",
+                "titulo": "GOMES, EVELIN HELENA CARDOSO;  FREITAS, GLENDA CAMILA DE MELO;  Silva, Romário da Costa;  ARAÚJO, JASMINE PRISCYLA LEITE DE;  FRANCÊS, CARLOS RENATO LISBOA;  Landfill Site Allocation Multi-Objective Optimization With NSGA-II: A Case Study on Fogo Island, Cape Verde",
+                "ano": "2026",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "AZANCORT NETO, JULIO LEITE",
+                "titulo": "Silva, Romário da Costa; SOUZA, THALITA AYASS DE; TEIXEIRA, CARLOS ANDRÉ DE MATTOS; CARDOSO, EVELIN HELENA SILVA; ARAÚJO, JASMINE PRISCYLA LEITE DE; FRANCÊS, CARLOS RENATO LISBOA; WasteInsight: Conjunto de Dados para Detecção e Estimativa de Volume de Resíduos Sólidos Urbanos",
+                "evento": "Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais",
+                "local": "Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "COSTA, SAULO WILLIAM DA SILVA; CARDOSO, EVELIN HELENA SILVA; GOMES, VITOR HUGO MACEDO; FERREIRA JUNIOR, JOSÉ JAILTON HENRIQUE; SERUFFO, MARCOS CESAR DA ROCHA; FRANCÊS, CARLOS RENATO LISBOA; Abordagem Multicritério para Avaliação do Risco de Dengue nos Municípios da Região Metropolitana de Belém/PA",
+                "evento": "Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais",
+                "local": "Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "AZANCORT NETO, JULIO LEITE",
+                "titulo": "Silva, Romário da Costa; SOUZA, THALITA AYASS DE; TEIXEIRA, CARLOS ANDRÉ DE MATTOS; CARDOSO, EVELIN HELENA SILVA; ARAÚJO, JASMINE PRISCYLA LEITE DE; FRANCÊS, CARLOS RENATO LISBOA; Advanced Single-View Image-Based Framework for Volume Estimation in Urban Solid Waste Management",
+                "evento": "Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais",
+                "local": "Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "Silva, Romário da C.",
+                "titulo": "SOUZA, THALITA AYASS DE; CARDOSO, EVELIN HELENA SILVA; ARAÚJO, JASMINE PRISCYLA LEITE DE; FRANCÊS, CARLOS RENATO L",
+                "evento": "; Visão Computacional na Prática: Um Sistema de Detecção de Lixo para Cidades Inteligentes no Estado do Pará. Escola Regional de Informática Norte 2",
+                "local": "Brasil",
+                "ano": "2024"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "TEIXEIRA, CARLOS ANDRÉ DE MATTOS; FERREIRA JUNIOR, JOSÉ JAILTON HENRIQUE; FRÂNCES, CARLOS RENATO LISBOA; IDENTIFICAÇÃO DE LARVAS DE MOSQUITOS DO GÊNERO AEDES UTILIZANDO REDES NEURAIS CONVOLUCIONAIS",
+                "evento": "Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia",
+                "local": "Online",
+                "ano": "2023"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "FERREIRA JUNIOR, JOSÉ JAILTON HENRIQUE; FRÂNCES, CARLOS RENATO LISBOA; APLICAÇÃO DE REDES NEURAIS CONVOLUCIONAIS EM IMAGENS DE TOMOGRAFIA COMPUTADORIZADA PARA O PRÉ-DIAGNÓSTICO DE DOENÇAS RESPIRATÓRIAS AGUDAS: COVID-19 E PNEUMONIA VIRAL",
+                "evento": "Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia",
+                "local": "Online",
+                "ano": "2023"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "TEIXEIRA, CARLOS ANDRÉ DE MATTOS; FRÂNCES, CARLOS RENATO LISBOA; Modelo de Classificação e Detecção de Larvas de Mosquitos Aedes Usando YOLO",
+                "evento": "XIII Conferência Nacional em Comunicações",
+                "local": "Redes e Segurança da Informação - ENCOM, Belém",
+                "ano": "2023"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "FERREIRA JUNIOR, J",
+                "evento": "J. H.; FRÂNCES",
+                "local": "CARLOS RENATO LISBOA; Seruffo, Marcos César da Rocha; Risco de Dengue na Região Metropolitana de Belém: Uma Abordagem Multicritério para a Saúde Pública. X Jornada de Inclusão Digital e IV Arduíno Tech, Castanhal",
+                "ano": "2023"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "TEIXEIRA, CARLOS ANDRÉ DE MATTOS; FRANCÊS, CARLOS RENATO LISBOA; Um Estudo Comparativo entre Redes Neurais Convolucionais e YOLO como Estratégias de Controle do Aedes Aegypti",
+                "evento": "XIII Conferência Nacional em Comunicações",
+                "local": "Redes e Segurança da Informação, Belém",
+                "ano": "2023"
+            },
+            {
+                "autores": "Silva, Romário da Costa",
+                "titulo": "COSTA, E",
+                "evento": "S. S.; BARBOSA",
+                "local": "A. N.; CARDOSO, E. H. S.; ARAUJO, J. P. L.; FRANCÊS, CARLOS RENATO LISBOA; Rede Neural Perceptron para Classificação de Câncer de Mama: Uma Investigação Experimental. XII Simpósio de Estudos e Pesquisa em Ciências Ambientais na Amazônia, Belém",
+                "ano": "2023"
+            },
+            {
+                "autores": "SANTOS, T. S.",
+                "titulo": "SANTOS, R",
+                "evento": "B. R.; TERAN",
+                "local": "L. A.; SILVA, R. C.; FERREIRA JUNIOR, J. J. H.; A Importância das Ilustrações Animadas nas Aplicações Bancárias para Promover a Inclusão Digital. X Jornada de Inclusão Digital e IV Arduíno Tech, Castanhal",
+                "ano": "2023"
+            },
+            {
+                "autores": "SANTOS, R. B. R.",
+                "titulo": "SANTOS, T",
+                "evento": "S.; TERAN",
+                "local": "L. A.; SILVA, R. C.; FERREIRA JUNIOR, J. J. H.; Engenharia de Requisitos e Modelagem de Software: Um Estudo de Caso em uma Academia Universitária de Musculação. X Jornada de Inclusão Digital e IV Arduíno Tech, Castanhal",
+                "ano": "2023"
+            },
+            {
+                "autores": "OLIVEIRA, M. V. R.",
+                "titulo": "SILVA, R",
+                "evento": "C.; SILVA",
+                "local": "J. I. C.; TERAN, L. A.; Aplicação web para Gerenciamento de Res&#305;&#769;duos Sólidos Recicláveis. 10º Workshop de Computação Aplicada a Gestão do Meio Ambiente e Recursos Naturais do 39º Congresso da Sociedade Brasileira de Computação, Belém",
+                "ano": "2019"
+            },
+            {
+                "autores": "OLIVEIRA, M. V. R.",
+                "titulo": "SILVA, J",
+                "evento": "I. C.; SILVA",
+                "local": "R. C.; TERAN, L. A.; Conscientização e sustentabilidade: um estudo sobre a utilização de mídias sociais como ferramenta para educação ambiental. VII Jornada de Inclusão Digital / III Arduíno Tech, Castanhal",
+                "ano": "2019"
+            },
+            {
+                "autores": "CRUZ, J. W. V.",
+                "titulo": "SILVA, J",
+                "evento": "I. C.; SILVA",
+                "local": "H. J.; SILVA, R. C.; SOUSA, R. C.; OLIVEIRA, M. V. R.; FERREIRA JUNIOR, J. J. H.; Uma Solução Internet das Coisas para Monitoramento de Gases Poluentes na Amazônia Legal. IX Congresso Sul Brasileiro de Computação - SULCOMP, Criciúma",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, J. I. C.",
+                "titulo": "OLIVEIRA, M",
+                "evento": "V. R.; SILVA",
+                "local": "R. C.; Automação Residencial para Pessoas com Deficiência. VI Jornada da Inclusão Digital, Castanhal",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, R. C.",
+                "titulo": "OLIVEIRA, M",
+                "evento": "V. R.; SILVA",
+                "local": "J. I. C.; Transmissão de Dados por Meio de Ondas Sonoras: A utilização da modulação QPSK. VI Jornada de Inclusão Digital, Castanhal",
+                "ano": "2018"
+            },
+            {
+                "autores": "OLIVEIRA, M. V. R.",
+                "titulo": "SILVA, J",
+                "evento": "I. C.; SILVA",
+                "local": "R. C.; Tecnologia Assistiva: Automação Residencial como Ferramenta para Acessibilidade. XII Jornada de Iniciação Científica dos Grupos PET, Belém",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Maxwell Wilhames Araujo Lobato",
+                "titulo": "Diagnóstico Assistido por Visão Computacional no Teste do Reflexo Vermelho: Uma Abordagem Inteligente para Identificação de Alterações Oculares",
+                "ano": "2026",
+                "curso": "Engenharia de Telecomunicações",
+                "instituicao": "Universidade Federal do Pará"
+            },
+            {
+                "orientando": "Caio Weverton Alves de Sousa",
+                "titulo": "Protótipo de Sistema de Avaliação Física",
+                "ano": "2026",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará"
+            },
+            {
+                "orientando": "Afonso Felipe de Jesus Lardosa",
+                "titulo": "UNIVOL: protótipo de uma aplicação móvel para divulgação e concentração de vagas de trabalho voluntário no campus da UFPA - Castanhal",
+                "ano": "2022",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Pará"
+            }
+        ]
+    }
+}

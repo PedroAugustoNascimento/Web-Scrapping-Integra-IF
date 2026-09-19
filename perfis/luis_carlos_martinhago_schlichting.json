@@ -103,9 +103,9 @@
                 "periodo": "2013 - 2013",
                 "natureza": "Extensao",
                 "equipe": [
+                    "Luis Carlos Martinhago Schlichting",
                     "Fernando Pedro Henriques de Miranda",
-                    "Fernando Santana Pacheco",
-                    "Luis Carlos Martinhago Schlichting"
+                    "Fernando Santana Pacheco"
                 ],
                 "financiador": "Instituto Federal de Santa Catarina,"
             },
@@ -115,9 +115,9 @@
                 "periodo": "2013 - 2017",
                 "natureza": "Desenvolvimento",
                 "equipe": [
+                    "Luis Carlos Martinhago Schlichting",
                     "Jony Laureano Silveira",
                     "Rafael Nilson Rodrigues",
-                    "Luis Carlos Martinhago Schlichting",
                     "Edison Antonio Cardoso Aranha Neto",
                     "James Silveira"
                 ],
@@ -129,8 +129,8 @@
                 "periodo": "2013 - 2017",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Jony Laureano Silveira",
                     "Luis Carlos Martinhago Schlichting",
+                    "Jony Laureano Silveira",
                     "Rafael Nilson Rodrigues",
                     "Edison Antonio Cardoso Aranha Neto"
                 ]
@@ -235,9 +235,9 @@
                 "periodo": "2019 - 2021",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Daniel Dezan de Bona",
                     "Luis Carlos Martinhago Schlichting",
                     "Reginaldo Steinbach",
+                    "Daniel Dezan de Bona",
                     "Renan Augusto Starke"
                 ]
             },
@@ -379,8 +379,8 @@
         "livros": [],
         "artigos": [
             {
-                "autores": "Bento, A",
-                "titulo": "Schlichting, LCM;  Testes Para Certificação EMC de Uma Fonte Chaveada Full Range 60 W",
+                "autores": "Schlichting, LCM",
+                "titulo": "Bento, A;  Testes Para Certificação EMC de Uma Fonte Chaveada Full Range 60 W",
                 "ano": "2023",
                 "periodico": "REVISTA ILHA DIGITAL. ISBN: 21772649   ."
             },
@@ -629,10 +629,10 @@
                 "ano": "2017"
             },
             {
-                "autores": "BRANCO, MATHEUS VARELA",
-                "titulo": "COELHO, LETICIA A",
-                "evento": "; Schlichting",
-                "local": "Luis; GUSTAVSSON, INGVAR; MARQUES, MARIA A.; ALVES, GUSTAVO R.; Differentiating simulations and real (remote) experiments. the 5th International Conference, C&amp;#225;diz",
+                "autores": "MARQUES, MARIA A.",
+                "titulo": "ALVES, GUSTAVO R",
+                "evento": "; BRANCO",
+                "local": "MATHEUS VARELA; COELHO, LETICIA A.; Schlichting, Luis; GUSTAVSSON, INGVAR; Differentiating simulations and real (remote) experiments. the 5th International Conference, C&amp;#225;diz",
                 "ano": "2017"
             },
             {
@@ -962,13 +962,6 @@
                 "instituicao": "Faculdade Estácio de Sá de Santa Catarina"
             },
             {
-                "orientando": "Cleidiozam Guesser",
-                "titulo": "Verificação da necessidade da instalação de um sistema de informação na empresa Frutícola",
-                "ano": "2006",
-                "curso": "Administração",
-                "instituicao": "Faculdade Estácio de Sá de Santa Catarina"
-            },
-            {
                 "orientando": "Anderson Junckes Jacques",
                 "titulo": "Análise do processo de automação de triagem de objetos postais",
                 "ano": "2006",
@@ -1006,6 +999,13 @@
             {
                 "orientando": "Rodrigo Nascimento Piccolo",
                 "titulo": "A análise dos índices com os quais a Koerich Telecom é avaliada",
+                "ano": "2006",
+                "curso": "Administração",
+                "instituicao": "Faculdade Estácio de Sá de Santa Catarina"
+            },
+            {
+                "orientando": "Cleidiozam Guesser",
+                "titulo": "Verificação da necessidade da instalação de um sistema de informação na empresa Frutícola",
                 "ano": "2006",
                 "curso": "Administração",
                 "instituicao": "Faculdade Estácio de Sá de Santa Catarina"

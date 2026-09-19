@@ -1,0 +1,111 @@
+{
+    "campus": "- Campus Iporá",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Computação Forense e Segurança da Informação",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Graduação",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "ciência da computação",
+                "instituicao": "IF goiano campus iporá",
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professor substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro de Educação de jovens e adultos - Dom Bosco",
+                "ano_inicio": 2024,
+                "ano_fim": 2026,
+                "funcao": "Professor substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CASTRO",
+                    "titulo": "MURILO SANTOS DE,  GOMES, PEDRO RAPHAEL INÁCIO,  NASCIMENTO, THAMER HORBYLON,  Integration of Smartwatches in Low-Cost Virtual Environments: A Systematic Literature Review with Emphasis on Cardboard Devices",
+                    "ano": "2023",
+                    "instituicao_promotora": "SBC - ACM."
+                },
+                {
+                    "autores": "CASTRO",
+                    "titulo": "MURILO SANTOS DE,  GOMES, P. R. I.,  NASCIMENTO, T. H.,  Exploring Interaction in a Virtual Music Studio through Gesture",
+                    "ano": "2023",
+                    "instituicao_promotora": "SBC - ACM."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "GOMES, P. R. I.",
+                "titulo": "CASTRO, M",
+                "evento": "S.; NASCIMENTO",
+                "local": "T. H.; Simulação de Percussão de Baterias Utilizando Reconhecimento de Gestos em Smartwatches. ENATI, Iporá",
+                "ano": "2023"
+            },
+            {
+                "autores": "CASTRO, M. S.",
+                "titulo": "GOMES, P",
+                "evento": "R. I.; NASCIMENTO",
+                "local": "T. H.; Estúdio virtual musical: Interação através de Google Cardboard e smartwatch. ENATI, Iporá",
+                "ano": "2023"
+            },
+            {
+                "autores": "CASTRO, MURILO SANTOS DE",
+                "titulo": "GOMES, PEDRO RAPHAEL INÁCIO; NASCIMENTO, THAMER HORBYLON; Integration of Smartwatches in Low-Cost Virtual Environments: A Systematic Literature Review with Emphasis on Cardboard Devices",
+                "evento": "SVR &apos;23: Symposium on Virtual and Augmented Reality",
+                "local": "Rio Grande Brazil",
+                "ano": "2023"
+            },
+            {
+                "autores": "CASTRO, M. S.",
+                "titulo": "GOMES, P",
+                "evento": "R. I.; NASCIMENTO",
+                "local": "T. H.; Mapeamento de ambientes utilizando acelerômetro de smartwatches. ENATI, Iporá",
+                "ano": "2022"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "campus": "- Campus Ipanguaçu",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "An AI based Tool for Networks-on-Chip Design Space Exploration",
+                "orientador": "Márcio Eduardo Kreutz",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Servidor público",
+                "vinculo": "Integrante da equipe de gerencimento de serviços/servidores. Atua diretamente com servidores Linux e Windows Server 2008 R2. Liderou a migração de mais de 1000 contas de e-mails para a solução Zimbra Network Edition - tendo participado do projeto da arquitetura à implementação da solução e sua consequente migração. Implementando também outros mecanismos para incrementar a segurança do serviço que ajudaram a reduzir em quase 100% os incidentes de Segurança da Informação. Atuou nos projetos de monitoramento da infraestrutura com a solução \"Zabbix\" - monitoramento que incluía desde os equipamentos de conectividade até os serviços",
+                "descricao": "tendo como resultado aferições de SLA e um maior conhecimento a respeito da operação da rede como um todo. Esse projeto também apóia a equipe de Redes durante os incidentes, visto que permite uma rápida visualização do estado da rede, bem como uma visualização histórica dos dados. Implementou o ambiente de desktops virtuais utilizado por diversos setores da UFRN, ambiente esse implementado com o Vmware View 5, essa implementação ajudou a reduzir os custos e facilitar o acesso dos usuários a suas estações de trabalho - o ambiente permitia acesso via qualquer smartphone ou tablet. Gerencia o roteamento dinâmico externo da Instituição (BGP), inclusive criando novos ambientes e propondo reestruturações para o serviço - sempre visando alta disponibilidade aliada à segurança. Implementou o ambiente de rede Wireless (solução Cisco) da Universidade - desenhou e implementou todo o ambiente. Implantou a solução de antispam utilizada pelo ambiente de e-mails, tendo diminuído em mais de 90% os e-mails falsos para os usuários. E, consequentemente, reduzindo os incidentes de roubo de senhas e envios de spam. Liderou as provas de conceito de soluções Wireless, tendo trabalhado com diversos fabricantes"
+            },
+            {
+                "empresa": "Fundação Bradesco",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Analista de Redes",
+                "vinculo": "Não informado",
+                "descricao": "Éramos responsáveis por manter o parque de máquinas sempre atualizado e obedecendo as diretrizes de segurança da Informação. Além de prestar suporte básico de infraestrutura"
+            },
+            {
+                "empresa": "Instituto Metrópole Digital",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Tutor",
+                "vinculo": "Bolsista",
+                "descricao": "Tutor do curso Cisco CCNA"
+            },
+            {
+                "empresa": "Instituto Metrópole Digital",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Bolsista",
+                "vinculo": "Professor conteudista",
+                "descricao": "Professor conteudista da disciplina de Segurança da Informação do curso técnico em TI"
+            },
+            {
+                "empresa": "Fundação de Apoio à Pesquisa do Estado do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "PRESTADOR DE SERVIÇO",
+                "vinculo": "OUTROS",
+                "descricao": "Implantei solução para alta disponibilidade de internet para múltiplos provedores. A solução permitiu a integração da FAPERN a rede Giga Natal e a rede do governo do Estado do RN, desse modo, possibilitou uma internet rápida e estável, mas sem perder o acesso aos sistemas governamentais internos"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Dedicação Exclusiva",
+                "vinculo": "Não informado",
+                "descricao": "Professor EBTT da área de Redes de Computadores"
+            }
+        ],
+        "direcao_administracao": ": Universidade Federal do Rio Grande do Norte\nSuperintendência de Informática (2014 - 2014) : Diretor De Redes.\nSuperintendência de Informática (2013 - 2013) : Diretor De Redes.",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nEnsino-medio (2014 - 2015) .\nEnsino-medio (2014 - 2015) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Corretor Automático de Provas Objetivas via Dispositivos Móveis",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jefferson Igor Duarte Silva",
+                    "Aluisio Igor Rego Fontes",
+                    "Joao Paulo Ferreira Guimaraes",
+                    "Clayton Maciel Costa"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "J. I. D.;SILVA, JEFFERSON;SILVA, JEFFERSON IGOR DUARTE,  MELO, A. C. A.,  OLIVEIRA, A. J.,  ALVES, S. M.,  SOUTO, U. B.,  XIX Colóquio de Usinagem",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Rio Grande do Norte."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SOUZA, D. C.",
+                "titulo": "LIMA, C. M. C.;  OLIVEIRA, N. I.;  ANDRADE, G. S.;  FERREIRA, A. L. S.;  PINHEIRO, M. C. M. A.;  MARTINS, C. O.;  SARMENTO, R. G.;  CONFESSOR, J. P. C.;  SILVA, J. I. D.;SILVA, JEFFERSON;SILVA, JEFFERSON IGOR DUARTE;  Redes de computadores I",
+                "ano": "2016",
+                "informacoes_adicionais": "Hipertexto. ISBN: 9788570640062, Natal (Publicado)."
+            },
+            {
+                "autores": "AQUINO JUNIOR, G. S.",
+                "titulo": "CONFESSOR, J. P. C.;  SOUZA, F. A. A.;  SILVA, J. I. D.;SILVA, JEFFERSON;SILVA, JEFFERSON IGOR DUARTE;  SOUZA, D. C.;  OLIVEIRA, N. I.;  LOPES, F. A. S.;  SILVA, C. E.;  FERREIRA, A. L. S.;  ROCHA NETO, A. F.;  PINHEIRO, M. C. M. A.;  LIMA, C. M. C.;  MARTINS, C. O.;  SARMENTO, R. G.;  Redes de Computadores II",
+                "ano": "2016",
+                "informacoes_adicionais": "Hipertexto. ISBN: 9788570640178, natal (Publicado)."
+            },
+            {
+                "autores": "SILVA, J. I. D.",
+                "titulo": "SILVA, JEFFERSON;SILVA, JEFFERSON IGOR DUARTE;  ANDRADE, G. S.;  ROCHA, C. G. A.;  VIEIRA, M. N.;  GALVAO, R. K. M.;  SOUZA, D. C.;  BATISTA, T. V.;  PEREIRA, L. S.;  Segurança de redes",
+                "ano": "2014",
+                "informacoes_adicionais": "Hipertexto. ISBN: 9788570640185, Natal (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "DE ARAÚJO BATISTA, LUCAS DAMASCENO",
+                "titulo": "SILVA, DÁVILA MOREIRA LOPES;  TRIACA, ELOI ANTONIO;  DA SILVA DANTAS, GABRIEL NOGUEIRA;  DE MENEZES LOURENÇO, MARIA AUGUSTA;  RESENDE, JOÃO MATHEUS BERNARDO;  SILVA, JEFFERSON IGOR DUARTE;  DE MELO, ANDERSON CLAYTON ALVES;  DE OLIVEIRA, ADILSON JOSÉ;  Development of a wireless data transmission system for a uniaxial dynamometer",
+                "ano": "2021",
+                "periodico": "SN Applied Sciences. ISBN: 25233963   ."
+            },
+            {
+                "autores": "OLIVEIRA, A. J.",
+                "titulo": "SILVA, D. M. L.;  SILVA, J. I. D.;  SILVEIRA, Z. C.;  Design and experimental set-up of a hybrid dynamometer applied to a fourth axis of the vertical machining center",
+                "ano": "2020",
+                "periodico": "INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY. ISBN: 02683768   ."
+            },
+            {
+                "autores": "KREUTZ, MÁRCIO E.",
+                "titulo": "MAIA, SÍLVIA M.D.M.;  SILVA, JEFFERSON;  MAGALH'ÃES, MONICA;  A comparison between evolutionary and local search techniques applied to NoC design space exploration",
+                "ano": "2020",
+                "periodico": "INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING AND APPLICATIONS (PRINT). ISBN: 1751648X   ."
+            },
+            {
+                "autores": "SILVA, JEFFERSON",
+                "titulo": "KREUTZ, MÁRCIO;  PEREIRA, MONICA;  COSTA-ABREU, MARJORY DA;  An investigation of latency prediction for NoC-based communication architectures using machine learning techniques",
+                "ano": "2019",
+                "periodico": "THE JOURNAL OF SUPERCOMPUTING (DORDRECHT. ONLINE). ISBN: 15730484   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "asian",
+        "raca_ibge": "Amarela",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 45.61692428588867,
+            "indian": 8.540637969970703,
+            "black": 6.312330722808838,
+            "white": 10.963077545166016,
+            "middle eastern": 5.8951263427734375,
+            "latino hispanic": 22.671903610229492
+        }
+    }
+}

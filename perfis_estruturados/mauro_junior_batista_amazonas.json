@@ -1,0 +1,188 @@
+{
+    "campus": "- Campus Itacoatiara",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Identificac&#807;a&#771;o do Ni&#769;vel de Engajamento de Multido&#771;es em Eventos de Entretenimento Baseado em Sensoriamento Participativo e Redes Complexas",
+                "orientador": "Bruno Freitas Gadelha",
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Composic&#807;a&#771;o musical colaborativa baseada em espacializac&#807;a&#771;o sonora em tempo real",
+                "orientador": "Bruno Freitas Gadelha",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2011,
+                "ano_fim": 2014
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Iniciação Científica",
+                "vinculo": "Bolsista FAPEAM",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Amazonas",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Bolsista",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "Permanente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal do Amazonas - Campus Itacoatiara",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Amazonas",
+                "nome": "Uma Plataforma Tecnológica para Aumento do Engajamento de Multidões em Eventos Culturais na Região Amazônica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mauro Júnior Batista Amazonas",
+                    "Vasconcelos",
+                    "Victor",
+                    "Castro",
+                    "Thais",
+                    "Bruno Gadelha",
+                    "Rosiane Freitas",
+                    "Edna Cardoso"
+                ],
+                "financiador": "Fundação de Amparo a Pesquisa do Estado do Amazonas,",
+                "ano_inicio": 2018,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "AMAZONAS",
+                    "software": "M. J. B.,  Compomus",
+                    "ano": "2018",
+                    "finalidade": "Composição de música aleatória colaborativa em ambientes imersivos."
+                },
+                {
+                    "autor": "AMAZONAS",
+                    "software": "M. J. B.,  WebDB - Web Database Management App",
+                    "ano": "2017",
+                    "finalidade": "Gerenciamento de dados."
+                },
+                {
+                    "autor": "AMAZONAS",
+                    "software": "Mauro,  Scalable real-time sound Spatialization - ARSUS Framework",
+                    "ano": "2017",
+                    "finalidade": "Espacialização sonora multi-contexto."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "AMAZONAS, Mauro",
+                "titulo": "CASTRO, THAIS;  KIENEN, JOÃO GUSTAVO;  FREITAS, ROSIANE;  GADELHA, BRUNO;  Composing aleatoric music through interaction",
+                "ano": "2021",
+                "periodico": "PER MUSI (ONLINE). ISBN: 23176377   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "MARQUES, LEONARDO",
+                "titulo": "AMAZONAS, Mauro; CASTRO, THAIS; ASSUNCAO, WILLIAN; ZAINA, LUCIANA; GADELHA, BRUNO; CONTE, TAYANA; UX trek",
+                "evento": "IHC &apos;20: XIX Brazilian Symposium on Human Factors in Computing Systems",
+                "local": "Diamantina Brazil",
+                "ano": "2020"
+            },
+            {
+                "autores": "VASCONCELOS, VICTOR",
+                "titulo": "AMAZONAS, Mauro; CASTRO, T",
+                "evento": "; FREITAS",
+                "local": "R.; FUKS, H.; VEGA, K.; GADELHA, BRUNO; Redefining Audience Role in Live Performances. INTERNATIONAL CONFERENCE ON HUMAN-COMPUTER INTERACTION, Orlando, Flórida",
+                "ano": "2019"
+            },
+            {
+                "autores": "AMAZONAS, Mauro",
+                "titulo": "CASTRO, T",
+                "evento": "; FREITAS",
+                "local": "R.; GADELHA, BRUNO; Construindo Paisagens Sonoras através da Colaboração em Espaços Públicos. Simpósio Brasileiro de Sistemas Colaborativos, Rio de Janeiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "AMAZONAS, Mauro",
+                "titulo": "CASTRO, T",
+                "evento": "; FREITAS",
+                "local": "ROSIANE; GADELHA, BRUNO; Composing through Interaction: a framework for collaborative music composition based on human interaction on public spaces. 17th Brazilian Symposium on Computer Music, São João Del-Rei",
+                "ano": "2019"
+            },
+            {
+                "autores": "VASCONCELOS, VICTOR",
+                "titulo": "AMAZONAS, Mauro; CASTRO, THAIS; FREITAS, ROSIANE; GADELHA, BRUNO; Watch or Immerse?",
+                "evento": "the 17th Brazilian Symposium",
+                "local": "Belem",
+                "ano": "2018"
+            },
+            {
+                "autores": "AMAZONAS, Mauro",
+                "titulo": "VASCONCELOS, V",
+                "evento": "; BRANDAO",
+                "local": "A.; KIENEM, G.; CASTRO, T.; GADELHA, B.; FUKS, H.; Collaborative Music Composition Based on Sonic Interaction Design. 20th International Conference on Human-Computer Interaction, Las Vegas",
+                "ano": "2018"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 8.938715934753418,
+            "indian": 9.799222946166992,
+            "black": 2.7924909591674805,
+            "white": 13.48031997680664,
+            "middle eastern": 12.413003921508789,
+            "latino hispanic": 52.57624816894531
+        }
+    }
+}

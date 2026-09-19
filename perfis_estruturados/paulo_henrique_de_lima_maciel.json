@@ -1,0 +1,600 @@
+{
+    "campus": "- Campus Manaus Centro",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Processos Industriais",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Modelo para Análise de Negociação em Projetos de Sistemas em uma Fábrica de Software baseado em Pontos de Caso de Uso",
+                "orientador": "Roberto Célio Limão de Oliveira",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Segurança da Informação",
+                "instituicao": "FACULDADE FOCUS",
+                "orientador": "-",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência do Ensino Superior",
+                "instituicao": "S B I",
+                "orientador": "Marco Antonio Larosa",
+                "ano_inicio": 2003,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "graduação em Gestão da Tecnologia de Informação",
+                "instituicao": "CENTRO DE ESTUDOS DE ESPECIALIZACAO E EXTENSAO",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "graduação em Arquitetura e Organização de Computadores",
+                "instituicao": "CENTRO DE ESTUDOS DE ESPECIALIZACAO E EXTENSAO",
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "graduação em Engenharia de Software",
+                "instituicao": "FACULDADE FOCUS",
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Economia e Finanças",
+                "instituicao": "FACULDADE FOCUS",
+                "orientador": "-",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Filosofia",
+                "instituicao": "Centro Univesitário Cidade Verde",
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Física",
+                "instituicao": "Centro Univesitário Cidade Verde",
+                "ano_inicio": 2023,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Processamento de Dados",
+                "instituicao": "Instituto Manauara de Ensino Superior",
+                "ano_inicio": 1995,
+                "ano_fim": 1998
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Encol S/A Engenharia Comércio e Indústria",
+                "ano_inicio": 1989,
+                "ano_fim": 1990,
+                "funcao": "Programador",
+                "vinculo": "Não informado",
+                "descricao": "Desenvolvimento de Sistemas em C e Cobol"
+            },
+            {
+                "empresa": "Escola de 1º e 2º Grau Prof. Ramiro Olavo",
+                "ano_inicio": 1991,
+                "ano_fim": 1991,
+                "funcao": "Professor de Matemática e Física",
+                "vinculo": "Professor vistante",
+                "descricao": "Suplente do 1º Conselheiro Escolar"
+            },
+            {
+                "empresa": "VIP - Viabilização e Implantação de Projetos",
+                "ano_inicio": 1998,
+                "ano_fim": 2000,
+                "funcao": "Analista e Desenvolvedor de Sistemas",
+                "vinculo": "Celetista formal",
+                "descricao": "Analista de Sistemas.Programador em C, Clipper e D Base Plus III Programável.Consultor em TI"
+            },
+            {
+                "empresa": "TELECOMUNICAÇÕES DO AMAZONAS S/A",
+                "ano_inicio": 1995,
+                "ano_fim": 1998,
+                "funcao": "Consultor Interno e Programador",
+                "vinculo": "Celetista formal",
+                "descricao": "Consultor Interno em TI"
+            },
+            {
+                "empresa": "Fundação Centro de Análise Pesquisa e Inovação Tecnológica",
+                "ano_inicio": 1999,
+                "ano_fim": 2009,
+                "funcao": "Professor do Ensino Técnico e Ensino Superior",
+                "vinculo": "Celetista formal",
+                "descricao": "Professor de Fundamentos de Informática. Professor de Lógica e Técnicas de Programação. Professor de Linguagem I - PASCAL Professor de Linguagem II - C Professor de Linguagem III - JAVA Professor de Estrutura de Dados Professor de Sistemas Operacionais Professor de Desenvolvimento Web - Php Professor de Redes de Computadores Professor de Técnicas de Sistemas, Análise e Projeto. Professor de Informática I (Curso de Administração). Professor de Informática II (Curso de Administração)"
+            },
+            {
+                "empresa": "SERSEP - Segurança Eletrônica",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Analista e Desenvolvedor de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": "Consultor em TI.Auditor Interno"
+            },
+            {
+                "empresa": "Instituto de Tecnologia e Educação Galileo da Amazônia",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Pesquisador e Desenvolvedor de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Amparo a Pesquisa do Estado do Amazonas",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Coordenador do Projeto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Metropolitana de Manaus",
+                "ano_inicio": 2010,
+                "ano_fim": 2014,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Profesor de Estrutura de Dados I; Estrutura de Dados II; Organização e Arquitetura de Computadores; Sistemas Operacionais; Programação Orientada a Objetos (Java); Teoria Geral dos Sistemas; Informática Aplicada"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Coordenador Geral dos Cursos de Graduação",
+                "vinculo": "Servidor público",
+                "descricao": "Coordenador Geral dos Cursos de Graduação (2018 - Atual); Coordenador do Eico de Tecnologia e Comunicação do Campus Itacoatiara (2014-2016); Professor de Lógica de Programação; Professor de Linguagem de Programação I; Professor de Linguagem de Programação II; Professor de Linguagem de Programação III; Professor de Estrutura de Dados; Professor de Redes de Computadores; Professor de Sistemas Operacionais I; Professor de Sistemas Operacionais II e Professor de Arquitetura de Computadores"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Faculdade Metropolitana de Manaus\nGraduacao (2010) - Sistemas De Informação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto de Tecnologia e Educação Galileo da Amazônia",
+                "nome": "Desenvolvimento de um Software para Avaliação da Eficiência da Combustão de Termoelétricas Operando com Gás e Alternando com Diesel",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo Henrique De Lima Maciel"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Fundação de Amparo a Pesquisa do Estado do Amazonas",
+                "nome": "Biblioteca Virtual",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo Henrique De Lima Maciel"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Fundação de Amparo a Pesquisa do Estado do Amazonas",
+                "nome": "Desenvolvimento de Softwares Educacionais",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo Henrique De Lima Maciel"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Faculdade Metropolitana de Manaus",
+                "nome": "Núcleo de Computação Aplicada",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo Henrique De Lima Maciel",
+                    "Dernando Do Nascimento Custódio",
+                    "Washington Brito Damaceno"
+                ],
+                "financiador": "Faculdade Metropolitana de Manaus,",
+                "ano_inicio": 2011,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  CUSTODIO, D. N.,  DAMACENO, W. B.,  Sistema deControle de Estacionamento FAMETRO",
+                    "ano": "2011",
+                    "finalidade": "Controle de Estacionamento das Faculdades FAMETRO."
+                },
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  CUSTODIO, D. N.,  DAMACENO, W. B.,  Portal Núcleo de Computação APlicada - FAMETRO",
+                    "ano": "2011",
+                    "finalidade": "Portal Científico das Faculdades FAMETRO."
+                },
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  Sistema para Tratamento de Imagens em CFTV",
+                    "ano": "2010",
+                    "finalidade": "Tratamento de imagens para sistemas monitorados."
+                },
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  Sistema de Gestão Corporativa - Financeiro",
+                    "ano": "2009",
+                    "finalidade": "Gestão Corporativa."
+                },
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  Sistema de Solicitação de Serviços",
+                    "ano": "2009",
+                    "finalidade": "Ferramenta Corporativa."
+                },
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  Ambiente Virtual Corporativo",
+                    "ano": "2008",
+                    "finalidade": "Ferramenta Corporativa."
+                },
+                {
+                    "autor": "MACIEL",
+                    "software": "P. H. L.,  Sistema de Gestão Corporativo - Recursos Humanos",
+                    "ano": "2007",
+                    "finalidade": "Gestão Corporativa."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  Dark Web - O Lado Negro da Internet",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFAM - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas do Amazonas."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  Engenharia Social - Como Agem os Predadores Cibernéticos",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFAM - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas do Amazonas."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  A Poderosa Google",
+                    "ano": "2013",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  Segurança no Universo Cibernético",
+                    "ano": "2013",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  O Mercado de Trabalho para Profissionais da Área de TI",
+                    "ano": "2013",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  O Lado Negro da Internet",
+                    "ano": "2012",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  O Mercado de Trabalho para Profissionais da Área de TI",
+                    "ano": "2012",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  Tecnologias Bluetooth - A Geração das Redes Pessoais",
+                    "ano": "2011",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "titulo": "P. H. L.,  O Mercado de Trabalho para Profissionais da Área de TI",
+                    "ano": "2011",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Java Básico",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Desenvolvimento de Sistemas Web com HTML, CSS e MySQL.",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Linguagem C e Estrutura de Dados",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Desenvolvimento de Sistemas Web com HTML, CSS e MySQL.",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Lógica e Técnicas de Programação",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Linguagem C e Estrutura de Dados",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Desenvolvimento de Sistemas Web com HTML, CSS e MySQL.",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Linguagem C e Estrutura de Dados",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "MACIEL",
+                    "curso": "P. H. L.,  Lógica e Técnicas de Programação",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "MACIEL",
+                    "evento": "P. H. L.,  II Weektech FAMETRO - Semana de Informática 2016",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "FAMETRO - Faculdade Metropolitana de Manaus."
+                },
+                {
+                    "autores": "MACIEL",
+                    "evento": "P. H. L.,  IFAMTIC -Semana de Informática, Tecnologia e Comunicações do IFAM - Campus Itacoatiara",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas do Amazonas."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "Jandecy Cabral Leite; Adelson Bezerra de Medeiros; Modelo para el Análisis de la Negociación en los Proyetos de Sistemas en Una Fábrica de Software Basado en Puntos de Casos de Uso",
+                "evento": "Conferencia Internacional de Ciencias Computacionales e Informáticas",
+                "local": "Havana",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "Jandecy Cabral Leite; SILVA NETO, A",
+                "evento": "G.; Medición Eléctrica del Nivel de Los Depósitos de Combustible en Plantas Termoeléctricas para el Gerenciamiento de la Logística de Suministro. XIV Convención de Ingeniería Eléctrica",
+                "local": "Santa Clara",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "SANTOS, R",
+                "evento": "L. S.; OLIVEIRA",
+                "local": "R. C. L.; Jandecy Cabral Leite; AZEVEDO, M. S. S.; ESTEVES, A. F.; Estudio de la Influencia del Ciclo de Arranques y Paradas en el Estator de Generadores Sincrónicos. XIV Convención de Ingeniería Eléctrica, Santa Clara",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "ALENCAR, D",
+                "evento": "B.; ALBUQUERQUE",
+                "local": "F. E.; Jandecy Cabral Leite; Manutenção Autônoma Aplicada na Melhoria dos Processos Industriais: Um Estudo de Caso em uma Empresa do Pólo Industrial de Manaus - PIM. VII CNEG - Congresso Nacional de Excelência em Gestão, Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "Jandecy Cabral Leite; Análises das Condições Ergonômicas dos Carregadores Portuários do Porto de Manaus-Am",
+                "evento": ". VII CNEG - Congresso Nacional de Excelência em Gestão",
+                "local": "Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "Jandecy Cabral Leite; Análises das Condições Ergonômicas dos Carregadores Portuários do Porto de Manaus-Am",
+                "evento": ". VII CNEG - Congresso Nacional de Excelência em Gestão",
+                "local": "Rio de Janeiro",
+                "ano": "2011"
+            },
+            {
+                "autores": "Junior",
+                "titulo": "MACIEL, P",
+                "evento": "H. L.; BLANCO",
+                "local": "C. J. C.; Adelson Bezerra de Medeiros; Jandecy Cabral Leite; Análisis de la Implantación de Programas de Mantenimiento Total Productivo y Mantenimiento Preditivo para Mejoras en la Producción de Energía. XIV Convención de Ingeniería Eléctrica, Santa Clara",
+                "ano": "2011"
+            },
+            {
+                "autores": "MACIEL, P. H. L.",
+                "titulo": "Jandecy Cabral Leite; Adelson Bezerra de Medeiros; GOMES, P",
+                "evento": "C. R.; Utilização do algoritmo no CEP e sua confiabilidade nos processos industriais",
+                "local": "aplicado em controle de torque: Estudo de Caso do Pólo de Duas Rodas.. VII CNEG - Congresso Nacional de Excelência em Gestão, Rio de Janeiro",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luciana Borges Souza",
+                "titulo": "Multimídias: Uma Necessidade de Implementação para a Melhoria na Qualidade da Educação",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria do Rosário de Fátima Carvalho Souza",
+                "titulo": "Dificuldade de Aprendizagem na Leitura e Escrita e o Uso das tecnologias como Recurso Pedagógico",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria Edinélia dos Santos Moraes",
+                "titulo": "As Contribuições do Letramento no Processo de Ensino Aprendizagem como Uso das TICs para o 3º ano da Escola Municipal Iracema Aguiar Pereira",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria Zilda Coutinho Sousa",
+                "titulo": "O Uso da Tecnologias para o Ensino das Variações Linguísticas em uma Turma do 6º ano da Escola Estadual Dom Pedro II",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "José Marcolino de Oliveira Neto",
+                "titulo": "Informática na Educação: O Olhar dos Gestores Educacionais",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Elza Pereira de Almeida",
+                "titulo": "A Informática no Ensino Superior a Distância: Dificuldades Encontradas pela Turma do 2º Semestre de Ciências Biológicas da UNIVIRR/IFRR, Polo de Mucaja-RR",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Elzy Pereira de Almeida",
+                "titulo": "A Utilização do Laboratório de Informática como Metodologia de Aprendizagem da Educação Infantil da Escola Municipal Lígia Bruna Bezerra da Silva, no Município de Mucajaí-RR",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Manoel Lopes Rodrigues",
+                "titulo": "Informática na Educação: Concepções e Prática Docente Sobre o Uso das TICs no Ensino de Língua Portuguesa em Informatica na Educação",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Larisse Amorim Cavalcante",
+                "titulo": "Softwares Educativos como Recursos Didáticos no Incentivo à Leitura nos Anos Iniciais do Ensino Fundamental: Uma Prática Pedagógica",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria da Conceição Silva de Sousa",
+                "titulo": "A Importância das Novas Tecnologias no Processo de Ensino-APrendizagem: Uma Abordagem sobre o Uso dos Recursos Tecnológicos na Escola Municipal Maciel Vicente Ribeiro da Silva, no Município de Bonfim-RR",
+                "ano": "2019",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Francys Arthur Souza Telles",
+                "titulo": "Armazenamento de Dados nas Nuvens: Segurança e Privacidade das Informações",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Klyverson Fernandes",
+                "titulo": "Moodle um Sistema Web Completo: Sob as Perspectivas do Aluno ao Administrador",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Jean Lobo Oliveira",
+                "titulo": "Tendências em Green Cloud Computing",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Donizete de Paula Ramos Junior e Miller Da Silva Brandão",
+                "titulo": "Aplicações Web: Ferramentas, Influência dos Sistemas Web e suas Dificuldades",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Weberson Santos e Valberth Oliveira",
+                "titulo": "Otimização do Método das Potências para Classificação dos Resultados de Busca na Internet",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Marcelo Alves Da Cruz e Mistercleng Gonçalves Trindade",
+                "titulo": "Segurança em Servidores Web: Servidores Apache",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Marcionilo Vieira",
+                "titulo": "Rich Internet Applications com Jsf e Primefaces",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "José Luíz Cardoso da Silva e Rodrigo Lourenço da Silva",
+                "titulo": "Eficiência do Banco de Dados MySQL da Web",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            },
+            {
+                "orientando": "Daniel Alves de Assis Barbosa e Ericles Goes",
+                "titulo": "Computação nas Nuvens",
+                "ano": "2013",
+                "curso": "Desenvolvimento para Sistemas em Ambiente Web",
+                "instituicao": "Faculdade Metropolitana de Manaus"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00287512200884521,
+            "indian": 0.03509329631924629,
+            "black": 0.0006856017280369997,
+            "white": 88.48926544189453,
+            "middle eastern": 8.626322746276855,
+            "latino hispanic": 2.845759391784668
+        }
+    }
+}

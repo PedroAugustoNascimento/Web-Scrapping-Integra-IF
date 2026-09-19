@@ -1,0 +1,231 @@
+{
+    "campus": "- Campus Nilópolis",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "titulo": "Mecanismo para Detecção de Dano em Aerogeradores utilizando Redes de Atuadores e Sensores Sem Fio",
+                "orientador": "Luci Pirmez",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docencia no Ensino Superior",
+                "instituicao": "S B I",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciencia da Computação",
+                "instituicao": "Universidade Federal do Rio de Janeiro",
+                "ano_inicio": 1999,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Pedagogia",
+                "instituicao": "Centro Universitário Leonardo da Vinci",
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Direito",
+                "instituicao": "Universidade Estácio de Sá",
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Datamec S/A Sistema e Processamento de Dados",
+                "ano_inicio": 2003,
+                "ano_fim": 2003,
+                "funcao": "Estágiário",
+                "vinculo": "Estagiário",
+                "descricao": "Desenvolvimento do sistema corporativo onde foram utilizados padrões de projeto e J2EE com banco de dados DB2. Uso de ferramentas Eclipse e Websphere para o desenvolvimento do sistema"
+            },
+            {
+                "empresa": "Universidade Estácio de Sá",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Membro do corpo docente do Curso AUDITORIA EM TECNOLOGIA DA INFORMAÇÃO (Pós-Graduação Latu Sensu) na cadeira Segurança no ambiente Windows Server"
+            },
+            {
+                "empresa": "Orial Informática",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Estágiário",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "DFZ Informática LTDA",
+                "ano_inicio": 2003,
+                "ano_fim": 2005,
+                "funcao": "Programador Senior",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Brasilia Informática LTDA",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Administrador de Redes",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "VGA Informática LTDA",
+                "ano_inicio": 2010,
+                "ano_fim": 2014,
+                "funcao": "Gerente de Rede",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "CENTRAL IT Tecnologia da Informação LTDA",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Analista de Suporte",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial RJ",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Instrutor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "Professor Ens Basico Tecn Tecnologico",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "LEMOS",
+                    "software": "E. T.,  SILVA, J. X.,  NEMIROVISKY, R.,  VICON",
+                    "ano": "2001",
+                    "finalidade": "vigilancia e controle."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "ROCHA, ATSLANDS R.",
+                "titulo": "DELICATO, FLÁVIA C.;  SANTOS, IGOR;  LEMOS, ÉRICO;  GOMES, DANIELO G.;  PIRMEZ, LUCI;  DE SOUZA, JOSÉ NEUMAN;  WSNs clustering based on semantic neighborhood relationships",
+                "ano": "2012",
+                "periodico": "Computer Networks (1999). ISBN: 13891286   ."
+            },
+            {
+                "autores": "DOS SANTOS, IGOR LEÃO",
+                "titulo": "DE SOUZA, J. NEUMAN;  LEMOS, ÉRICO T.;  DELICATO, FLÁVIA C.;  PIRMEZ, LUCI;  VAZ PINTO, LUIZ A.;  ZOMAYA, ALBERT Y.;  A localized algorithm for Structural Health Monitoring using wireless sensor networks",
+                "ano": "2012",
+                "periodico": "Information Fusion (Print). ISBN: 15662535   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "LEMOS, E. T.",
+                "titulo": "PIRMEZ, LUCI; SANTOS, IGOR; DELICATO, FLÁVIA C",
+                "evento": "; ROSSETO",
+                "local": "S.; DE SOUZA, JOSÉ NEUMAN; PINTO, L. A. V.; Algoritmo Distribuído para Detecção de Dano em Aero Geradores Utilizando Redes de Atuadores e Sensores Sem Fio. XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Campo Grande",
+                "ano": "2011"
+            },
+            {
+                "autores": "SANTOS, IGOR",
+                "titulo": "PIRMEZ, LUCI; LEMOS, ÉRICO; PINTO, L",
+                "evento": "A. V.; DELICATO",
+                "local": "FLÁVIA C.; DE SOUZA, JOSÉ NEUMAN; Resource Consumption Analysis for a Structural Health Monitoring Algorithm Using Wireless Sensor Networks. XXVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Gramado",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "EDUARDO ROCHA PIRES",
+                "titulo": "Monitoria Acadêmica",
+                "ano": "2026",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "PATRICIA VAN DEN BERG BORGES",
+                "titulo": "Estágio",
+                "ano": "2026",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "ROBERTO LUIZ DOS SANTOS CARDOZO",
+                "titulo": "Estágio",
+                "ano": "2026",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "DIEGO JOHANN DA ROCHA KERN",
+                "titulo": "Estágio",
+                "ano": "2026",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "ORLANDO FERREIRA FILHO",
+                "titulo": "Estágio",
+                "ano": "2026",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "EDIANE VICTORIA DA SILVA",
+                "titulo": "Estágio",
+                "ano": "2025",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Érica Nogueira da Silva",
+                "titulo": "Estágio",
+                "ano": "2024",
+                "curso": "Informática",
+                "instituicao": "Universidade Estadual de Ponta Grossa"
+            },
+            {
+                "orientando": "Alisson de Lima Narciso",
+                "titulo": "Monitoria online de informática",
+                "ano": "2019",
+                "curso": "Manutenção e Suporte de Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            }
+        ]
+    }
+}

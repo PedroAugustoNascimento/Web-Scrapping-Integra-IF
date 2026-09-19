@@ -1,0 +1,74 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Especialista em Gestão em Segurança Pública",
+                "instituicao": "ISEAC",
+                "orientador": "Alex Oliveira",
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 1997,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": "Professor de Lógica de Programação"
+            },
+            {
+                "empresa": "Centro de Educação Maria Nilza Azevedo Silva",
+                "ano_inicio": 2003,
+                "ano_fim": 2013,
+                "funcao": "Professor Ensino Médio",
+                "vinculo": "Não informado",
+                "descricao": "Professor de Física e Matemática para o Ensino Médio"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 5.6083903312683105,
+            "indian": 24.462337493896484,
+            "black": 4.828769207000732,
+            "white": 17.13811683654785,
+            "middle eastern": 27.92902946472168,
+            "latino hispanic": 20.033357620239258
+        }
+    }
+}

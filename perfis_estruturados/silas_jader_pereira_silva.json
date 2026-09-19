@@ -1,0 +1,139 @@
+{
+    "campus": "- Campus Posse",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "EDUCAÇÃO",
+                "instituicao": "Universidade Federal de Rondônia",
+                "titulo": "TECNOLOGIAS E EDUCAÇÃO: A CULTURA MAKER COM ARDUINO COMO POSSIBILIDADE PARA O ENSINO NO CURSO DE LICENCIATURA EM FÍSICA DO IFRO",
+                "orientador": "Juracy Machado Pacífico",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "",
+                "instituicao": "S B I",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Administração e Análise de Sistemas",
+                "instituicao": "Faculdade de Iporá",
+                "ano_inicio": 2006,
+                "ano_fim": 2009
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Fundação Antares de E. Sup., Pesquisa e Extenção",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Empregatício",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade de Iporá",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Professor",
+                "vinculo": "Empregatício",
+                "descricao": "Professor no Curso de Análise e Desenvolvimento de Sistemas"
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Prefeitura Municipal de Palestina de Goiás",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Chefe do Departamento de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "Professor EBTT - Área Informática",
+                "vinculo": "Não informado",
+                "descricao": "Professor EBTT - Área Informática Atual no Grupo de Pesquisa Mecatrônica - dgp.cnpq.br/dgp/espelhogrupo/2757443461147054"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação Ciência e Tecnologia de Rondônia",
+                "nome": "PROGRAMAÇÃO DE ROBÔS VOLTADO A COMPETIÇÕES",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Silas Jader Pereira Silva"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "S. J. P.,  Robotica e automação com Arduino",
+                    "ano": "2015",
+                    "instituicao_promotora": "IF Goiano campus Iporá."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "S. J. P.,  Pofessores de TI,  ENATI - Encontro Anual de Tecnologia da Informação do Oeste Goiano",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Goiano."
+                },
+                {
+                    "autores": "Pofessores de TI",
+                    "evento": "SILVA, S. J. P.,  ENATI - Encontro Anual de Tecnologia da Informação do Oeste Goiano",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Goiano - Campus Iporá."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.1574164628982544,
+            "indian": 0.8669984936714172,
+            "black": 0.2154557853937149,
+            "white": 67.09662628173828,
+            "middle eastern": 15.01410961151123,
+            "latino hispanic": 16.649396896362305
+        }
+    }
+}

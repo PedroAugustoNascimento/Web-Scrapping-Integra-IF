@@ -1,0 +1,114 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Centro Universitário CESMAC",
+                "orientador": "Gustavo Ferreira Accioly",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Analise de Sistemas",
+                "instituicao": "Centro de Estudos Superiores de Maceió",
+                "ano_inicio": 2002,
+                "ano_fim": 2006
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Alagoas - Matriz",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Professor Substituto - Informática",
+                "vinculo": "Não informado",
+                "descricao": "Professor Substituto de Informática - Área Redes de Computadores Disciplinas ministradas: Arquitetura e Organização de Computadores; Introdução à Computação; Informática Básica; Manutenção de Hardware; Sistemas de Informação Gerenciais; Sistemas Operacionais"
+            },
+            {
+                "empresa": "Serviço Nacional de Aprendizagem Comercial",
+                "ano_inicio": 2008,
+                "ano_fim": 2011,
+                "funcao": "Assistente de Apoio Administrativo III",
+                "vinculo": "Área de atuação: Informática - Tecnologia da Informação",
+                "descricao": "com as seguintes atribuições: Suporte de TI; Suporte a usuário; Infraestrutura de Rede e Servidores; Apoio em Configuração de Servidores; Montagem e Manutenção de Computadores; Instalação de Softwares; Suporte de áudio e vídeo em eventos"
+            },
+            {
+                "empresa": "Universidade Aberta do Brasil",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Coordenador de TI",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "SUPRISERVI COM REPRES E SERVIÇOS LTDA",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Técnico de Manutenção I",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Estácio de Alagoas",
+                "ano_inicio": 2014,
+                "ano_fim": 2016,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Professor do Curso de Informática do Pronatec na Faculdade Estácio - FAL. Disciplinas Ministradas: Administração de Sistemas Operacionais; Ambiente Virtual de Aprendizagem; Informática Aplicada; Manutenção de Hardware; Redes de Computadores; Segurança da Informação"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Professor EBTT Efetivo - Área: Informática",
+                "vinculo": "Não informado",
+                "descricao": "Professor EBTT Efetivo da área de Informática"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "A. N. T.,  III SEPELL - Seminário de Pesquisa em Linguagem e Literatura",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Alagoas - IFAL."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.6804033517837524,
+            "indian": 2.909649610519409,
+            "black": 0.7499772310256958,
+            "white": 42.415767669677734,
+            "middle eastern": 22.278776168823242,
+            "latino hispanic": 29.965423583984375
+        }
+    }
+}

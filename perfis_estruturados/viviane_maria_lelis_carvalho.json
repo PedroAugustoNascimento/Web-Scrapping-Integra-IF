@@ -1,0 +1,178 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Tecnologías Informáticas",
+                "instituicao": "Universidad de Málaga",
+                "titulo": "SISTEMA INTELIGENTE DE AYUDA A LA DECISIÓN PARA EL DIAGNÓSTICO TEMPRANO DE LA MENINGITIS",
+                "orientador": "Eduardo Guzman de los Riscos",
+                "ano_inicio": 2013,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ingeniería del Software e Inteligencia Artificial",
+                "instituicao": "Universidad de Málaga",
+                "titulo": "Study on the application of multi-agent technology to public healthcare management",
+                "orientador": "María Victoria Belmonte Martínez",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Mecânica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "DESENVOLVIMENTO DE METODOLOGIA E PLUGIN PARA MODELAGEM DE MÓVEIS MODULADOS",
+                "orientador": "CARLOS MAGNO DE LIMA",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Projeto e Desenvolvimentos de Aplicações",
+                "instituicao": "Universidade Salvador",
+                "ano_inicio": 1999,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "TECNOLOGIA EM PROCESSAMENTO DE DADOS",
+                "instituicao": "Universidade Vale do Rio Doce",
+                "ano_inicio": 1989,
+                "ano_fim": 1993
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 1994,
+                "ano_fim": 1996,
+                "funcao": "PROGRAMADORA",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "ano_inicio": 1996,
+                "ano_fim": null,
+                "funcao": "PROFESSOR ENSINO BÁSICO",
+                "vinculo": "TÉCNICO",
+                "descricao": "TECNOLÓGICO"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "nome": "ALTAS CAPACIDADES: avaliação, identificação e atendimento",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Maria Lelis Carvalho",
+                    "Josilene Domingues Santos Pereira",
+                    "Cristiane Santos Barreto Bastos",
+                    "Thiago Leonardo Bastos Da Silva",
+                    "África Borges Del Rosal",
+                    "Rosemeire De Araújo Rangni",
+                    "Gabriela Dos Santos Dias Mol"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CARVALHO",
+                    "titulo": "V. M. L.,  Palestra: O que é ser aluno do IFBA em tempos de pandemia?",
+                    "ano": "2021",
+                    "instituicao_promotora": "IFBA - Campus Vitória da Conquista."
+                },
+                {
+                    "autores": "Lelis Carvalho",
+                    "titulo": "Viviane Maria,  An Agent-Based Decision Support Environment for Public Health",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidad de Salamanca."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "Lelis Carvalho",
+                    "curso": "Viviane Maria,  Ambiente de Simulação Netlogo",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "BARRETO",
+                    "evento": "L. C.,  COUTO, M. S.,  CARNEIRO, L. O.,  Lelis Carvalho, Viviane Maria,  SEMANA ACADÊMICA WEEK-IT",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "GUZMÁN, EDUARDO",
+                "titulo": "BELMONTE, MARÍA'VICTORIA;  Lelis, Viviane M.;  Ensemble methods for meningitis aetiology diagnosis",
+                "ano": "2022",
+                "periodico": "EXPERT SYSTEMS. ISBN: 02664720   ."
+            },
+            {
+                "autores": "Lelis, Viviane M.",
+                "titulo": "GUZMAN, EDUARDO;  BELMONTE, MARIA-VICTORIA;  Non-Invasive Meningitis Diagnosis Using Decision Trees",
+                "ano": "2020",
+                "periodico": "IEEE Access. ISBN: 21693536   ."
+            },
+            {
+                "autores": "LÉLIS, VIVIANE-MARIA",
+                "titulo": "GUZMÁN, EDUARDO;  BELMONTE, MARÍA-VICTORIA;  A Statistical Classifier to Support Diagnose Meningitis in Less Developed Areas of Brazil",
+                "ano": "2017",
+                "periodico": "JOURNAL OF MEDICAL SYSTEMS. ISBN: 01485598   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Lelis Carvalho, Viviane Maria",
+                "titulo": "An Agent-Based Decision Support Environment for Public Health",
+                "evento": "PAAM´S 2015",
+                "local": "Salamanca",
+                "ano": "2015"
+            },
+            {
+                "autores": "Walkyso dos Santos Júnior",
+                "titulo": "LIMA, C",
+                "evento": "M.; CARVALHO",
+                "local": "V. M. L.; GUERRA, A. R. O.; DEVELOPMENT OF A SOFTWARE TOOL FOR APPLICATION OF CAD3D-BIM TECHNOLOGY IN FURNITURE INDUSTRY. COBEM 2011, NATAL",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.6872018575668335,
+            "indian": 4.362760543823242,
+            "black": 1.1354824304580688,
+            "white": 42.599281311035156,
+            "middle eastern": 27.42447853088379,
+            "latino hispanic": 22.790794372558594
+        }
+    }
+}

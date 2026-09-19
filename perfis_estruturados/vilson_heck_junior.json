@@ -1,0 +1,412 @@
+{
+    "campus": "- Câmpus Lages",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Engenharia de Automação e Sistemas",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Estereoscopia Passiva em Tempo Linear de Computação para Imagens com Variação na Iluminação",
+                "orientador": "Marcelo Ricardo Stemmer",
+                "ano_inicio": 2009,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Criação de uma Metodologia Computacional para a Segmentação Bimodal de Patologias Timpânicas",
+                "orientador": "Eros Comunello",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Oeste de Santa Catarina",
+                "ano_inicio": 2002,
+                "ano_fim": 2006
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Diebold Procomp",
+                "ano_inicio": 2001,
+                "ano_fim": 2006,
+                "funcao": "Técnico em Automação Bancária",
+                "vinculo": "Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Interativa Eletro Eletronicos",
+                "ano_inicio": 1999,
+                "ano_fim": 2001,
+                "funcao": "Técnico em Manutenção de Computadores",
+                "vinculo": "Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Net Line Informática",
+                "ano_inicio": 1998,
+                "ano_fim": 1999,
+                "funcao": "Técnico em Manutenção de Computadores",
+                "vinculo": "Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "João Baroni Informática",
+                "ano_inicio": 1997,
+                "ano_fim": 1998,
+                "funcao": "Programador",
+                "vinculo": "Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Aluno Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "Aluno Pesquisador",
+                "vinculo": "Bolsista Grupo Cyclops",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Contestado Campus Curitibanos",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Câmpus Lages (2020) : Direção-geral Do Câmpus.\nInstituto Federal de Santa Catarina - Câmpus Lages (2017 - 2020) : Chefia Do Departamento De Ensino, Pesquisa E Extensão.\nInstituto Federal de Santa Catarina - Câmpus Lages (2014 - 2017) : Coordenação Do Curso Técnico Em Informática.\nCentro Tecnológico (2006 - 2008): Processamento Digital de Imagens,\nInstituto Federal de Santa Catarina - Câmpus Lages (2011): Processamento Digital de Imagens, Robótica Móvel,",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2015) - Ciência Da Computação.\nEnsino-medio (2011) .",
+        "comissoes": ": Instituto Federal de Santa Catarina\nRepresentante Docente - Colegiado Do Câmpus (2012 - 2014).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "S2i - Sistemas Indústriais Inteligentes (Robótica Móvel)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vilson Heck Junior",
+                    "Marcelo Ricardo Stemmer"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "The Cyclops Project - Cyclops Auris",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vilson Heck Junior"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Semana da Informática",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vilson Heck Junior",
+                    "Marcos André Pisching",
+                    "Alexandre Perin",
+                    "Juliano Lucas Gonçalves",
+                    "Felipe Costa",
+                    "Carlos Andrés Ferrero"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Navegação e Processamento de Imagens em Robótica Móvel",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vilson Heck Junior",
+                    "Alan Lanceloth Rodrigues Silva",
+                    "Adriano Pereira Silva Filho",
+                    "Matheus Almeida Nunes"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Contagem visual do fluxo de entrada e saída de pessoas e carros no Câmpus",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vilson Heck Junior",
+                    "Andrey De Aguiar Salvi",
+                    "Gabriel Tizatto Stefen"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Visão Estereoscópica para Robótica Móvel",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vilson Heck Junior",
+                    "Carlos Augusto Neto Lima",
+                    "Maycon Kevin Ribeiro",
+                    "Mihael Zamin Sousa",
+                    "Alan Lanceloth Rodrigues Silva"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Universidade Federal de Santa Catarina,",
+                "ano_inicio": 2011,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "HECK JUNIOR",
+                    "software": "V.,  Sistema de cadastramento de disciplinas do Câmpus Lages",
+                    "ano": "2018",
+                    "finalidade": "Gerenciamento de disciplinas para geração de horários dos cursos."
+                },
+                {
+                    "autor": "HECK JUNIOR",
+                    "software": "V.,  ABDALA, D. D.,  COMUNELLO, E.,  WANGENHEIM, A.,  COSTA, S. S.,  DORNELLES, C. C.,  Auris",
+                    "ano": "2009",
+                    "finalidade": "Mensuração de Patologias Timpânicas."
+                },
+                {
+                    "autor": "HECK JUNIOR",
+                    "software": "V.,  ABDALA, D. D.,  COMUNELLO, E.,  WANGENHEIM, A.,  COSTA, S. S.,  DORNELLES, C. C.,  Auris",
+                    "ano": "2009",
+                    "finalidade": "Mensuração de Patologias Timpânicas.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 0000280904940021."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "HECK JUNIOR",
+                    "titulo": "V.,  Visão Computacional - O mundo aos 'olhos' de um computador",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFC - Instituto Federal Catarinense."
+                },
+                {
+                    "autores": "Heck Junior",
+                    "titulo": "Vilson,  Stemmer, M. R.,  Linear-Time Computation of Segment-Based Stereo Correspondence",
+                    "ano": "2013",
+                    "instituicao_promotora": "FURG."
+                },
+                {
+                    "autores": "Heck Junior",
+                    "titulo": "Vilson,  Visão Computacional - O mundo aos 'olhos' de um computador",
+                    "ano": "2013",
+                    "instituicao_promotora": "Unoesc."
+                },
+                {
+                    "autores": "HECK JUNIOR",
+                    "titulo": "V.,  Stemmer, M. R.,  LINEAR COMPLEXITY STEREO CORRESPONDENCE: From Interpolation to Segment-Based Approach",
+                    "ano": "2011",
+                    "instituicao_promotora": "Institute for Systems and Technologies of Information, Control and Communication (INSTICC)."
+                },
+                {
+                    "autores": "DORNELLES",
+                    "titulo": "C. C.,  COSTA, S. S.,  WANGENHEIM, A.,  ROSITO, L. P. S.,  COMUNELLO, E.,  HECK JUNIOR, V.,  Análise quantitativa de patologias da membrana timpânica: uma técnica computacional semi-automática para acompanhamento e mensuração",
+                    "ano": "2007",
+                    "instituicao_promotora": "Associação Brasileira de Otorrinolaringologia e Cirurgia Cérvico-Facial."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "JUNIOR, VILSON HECK",
+                "titulo": "STIVANELLO, MAURÍCIO E.;  STEMMER, MARCELO R.;  Linear-Time Computation of Indexing Based Stereo Correspondence for Cameras with Automatic Gain Control",
+                "ano": "2017",
+                "periodico": "Journal of Signal Processing Systems for Signal, Image, and Video Technology. ISBN: 19398018   ."
+            },
+            {
+                "autores": "Comunello, Eros",
+                "titulo": "von Wangenheim, Aldo;  HECK JUNIOR, V.;  Dornelles, Cristina;  Costa, Sady Selamen;  A computational method for the semi-automated quantitative analysis of tympanic membrane perforations and tympanosclerosis",
+                "ano": "2009",
+                "periodico": "Computers in Biology and Medicine. ISBN: 00104825   ."
+            },
+            {
+                "autores": "COSTA, Sady Selaimen",
+                "titulo": "DORNELLES, Cristina Carvalho;  ROSITO, Letícia Petersen Schmidt;  WANGENHEIM, Aldo Von;  COMUNELLO, E.;  HECK JUNIOR, V.;  Correlação do percentual de timpanoesclerose na membrana timpânica com a perda auditiva",
+                "ano": "2008",
+                "periodico": "Revista Brasileira de Otorrinolaringologia (Impresso). ISBN: 00347299   ."
+            },
+            {
+                "autores": "DORNELLES, C. C.",
+                "titulo": "COSTA, S. S.;  WANGENHEIM, A.;  ROSITO, L. P. S.;  COMUNELLO, E.;  HECK JUNIOR, V.;  Análise quantitativa de patologias da membrana timpânica: uma técnica computacional semi-automática para acompanhamento e mensuração",
+                "ano": "2007",
+                "periodico": "Revista Brasileira de Otorrinolaringologia (Online). ISBN: 18069312   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Isabel Christina Tosetto Madruga",
+                "titulo": "Fernando Andrade Godoi1; Ailton Durigon; HECK JUNIOR, V",
+                "evento": "; DESENVOLVIMENTO DE UM APLICATIVO PARA O ESTUDO DE GEOMETRIA PLANA. Congresso Internacional Conhecimentos Pertinentes para a Educação na América Latina - EDUPALA",
+                "local": "Lages",
+                "ano": "2018"
+            },
+            {
+                "autores": "Heck Junior, Vilson",
+                "titulo": "LIMA, CARLOS AUGUSTO NETO LIMA; RIBEIRO, MAYCON KEVIN; SOUSA, MIHAEL ZAMIN; Visão Estereoscópica para Robótica Móvel",
+                "evento": "Seminário de Pesquisa Extensão e Inovação do IFSC",
+                "local": "Lages",
+                "ano": "2013"
+            },
+            {
+                "autores": "HECK JUNIOR, V.",
+                "titulo": "Stemmer, M",
+                "evento": "R.; Linear Complexity Stereo Correspondence: From Interpolation to Segment-Based Approach. 8th ICINCO",
+                "local": "International Conference on Informatics in Control, Automation and Robotics, Noodwijkerhout",
+                "ano": "2011"
+            },
+            {
+                "autores": "DORNELLES, C. C.",
+                "titulo": "COSTA, S",
+                "evento": "S.; WANGENHEIM",
+                "local": "A.; ROSITO, L. P. S.; COMUNELLO, E.; HECK JUNIOR, V.; Análise quantitativa de patologias da membrana timpânica: uma técnica computacional semi-automática para acompanhamento e mensuração. 5º Congresso Triológico de Otorrinolaringologia, Brasília",
+                "ano": "2007"
+            },
+            {
+                "autores": "HECK JUNIOR, V.",
+                "titulo": "ABDALA, D",
+                "evento": "D.; COMUNELLO",
+                "local": "E.; WANGENHEIM, A.; DORNELLES, C. C.; COSTA, S. S.; Técnicas Computacionais para Acompanhamento e Mensuração de Patologias em Otologia. Congresso Brasileiro de Informática na Saúde, Florianopolis",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Daniel Melo Ramos",
+                "titulo": "Desenvolvimento de portal para a realização de testes vocacionais",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ana Lucia Pereira",
+                "titulo": "Desenvolvimento de um software para cadastro de estagiários",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Caroline Lara Olibeira",
+                "titulo": "Desenvolvimento de um Portal de Ofertas",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marcelo Paes de Farias",
+                "titulo": "Desenvolvimento de um Portal de Ofertas",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Andressa Pereira Marcolino",
+                "titulo": "Desenvolvimento de um software para cadastro de estagiários",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Maycon Kevin Ribeiro",
+                "titulo": "Visão Estéreo para Robótica Móvel",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Enedir Guimarães de Oliveira Junior",
+                "titulo": "Visão Estéreo para Robótica Móvel",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Alan Lanceloth Rodrigues Silva",
+                "titulo": "Visão Estereoscópica para Robótica Móvel",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Lucas Emanoel Machiavelli",
+                "titulo": "Desenvolvimento de um software para controle de estagiários",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Renata Caroline Lima",
+                "titulo": "Filtragem de Imagens Médicas Tridimensionais",
+                "ano": "2009",
+                "curso": "Sistemas de Informações",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Michella Michelli",
+                "titulo": "Desenvolvimento do jogo sudoku para dispositivos móveis",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado Campus Curitibanos"
+            },
+            {
+                "orientando": "Maurício Rosa",
+                "titulo": "DESENVOLVIMENTO DE UMA METODOLOGIA COMPUTACIONAL PARA GERENCIAMENTO DE PRONTUÁRIOS OTOLOGICOS",
+                "ano": "2007",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Vale do Itajaí"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.7157058715820312,
+            "indian": 5.650737762451172,
+            "black": 1.6242128610610962,
+            "white": 35.5648193359375,
+            "middle eastern": 27.44894790649414,
+            "latino hispanic": 25.995582580566406
+        }
+    }
+}

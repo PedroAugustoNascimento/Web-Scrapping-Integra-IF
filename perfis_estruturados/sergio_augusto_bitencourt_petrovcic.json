@@ -1,0 +1,840 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Engenharia Mecânica",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Medição Óptica de Forma 3D em 360o de Superfícies Externas Cilíndricas Utilizando Triangulação Inversa",
+                "orientador": "Tiago Loureiro Fígaro da Costa P",
+                "ano_inicio": 2016,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Metrologia Científica e Industrial",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "PROPOSTA DE ARQUITETURA DO SISTEMA DE AUTOMAÇÃO EM ENSAIOS DE DESEMPENHO DE COMPRESSORES HERMÉTICOS DE REFRIGERAÇÃO",
+                "orientador": "Carlos Alberto Flesch",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Controle e Automação Industrial",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 1998,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2005,
+                "ano_fim": 2008,
+                "funcao": "Bolsista",
+                "vinculo": "Outro (especifique)",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade SENAI de Tecnologia (SC)",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "Docente",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Catarinense",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Docente",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Aromark Tecnologia em Consultoria e Engenharia Ltda",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Sócio Gerente",
+                "vinculo": "Engenheiro Responsável Técnico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Catarinense\nCampus Ibirama (2011 - 2012) : Coordenador Do Curso Técnico Em Eletromecânica.\nPesquisa e Desenvolvimento\nLabmetro - Laboratório de Metrologia e Automatização (2016): Medição de formas 3D e triangulação laser,\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2024): Desenvolvimento Tecnológico e Instrumentação,\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2021): Realidade virtual e aumentada, modelagem e simulação,\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2021): Internet das coisas (IoT), robótica e embarcados,\nInstituto Federal de Santa Catarina - Câmpus Itajaí (2021): Desenvolvimento de softwares e sistemas, visão computacional,",
+        "ensino": ": Instituto Federal Catarinense\nOutro (2011 - 2011) .\nOutro (2011 - 2011) .\nOutro (2011 - 2011) .",
+        "comissoes": ": Instituto Federal de Santa Catarina\nMembro Do Comitê Técnico-científico (2022).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Geração e aprimoramento de recursos avançados de medição para garantia da qualidade e desenvolvimento de compressores de refrigeração",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Antonio Carlos Xavier De Oliveira",
+                    "Cesar Alberto Penz",
+                    "André Paz Rosa",
+                    "Pedro Moritz Penteado",
+                    "Alexandre Victor Casella",
+                    "Flavio Renato Ramos De Lima Filho",
+                    "Igor Gavilon",
+                    "Miguel Burg Demay",
+                    "Rodolfo Cesar Costa Flesch",
+                    "Julio Nelson Scussel",
+                    "Maikon Ronsani Borges",
+                    "Marco Aurélio De Oliveira",
+                    "Guilherme Lima Nesi",
+                    "Carlos Alberto Flesch"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, Whirlpool S/A - Unidade Embraco, Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Automação de ensaio de compresores de refrigeração",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Antonio Carlos Xavier De Oliveira",
+                    "Miguel Burg Demay",
+                    "Julio Nelson Scussel",
+                    "Carlos Alberto Flesch",
+                    "Pedro Henklein"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Geração e aprimoramento de recursos avançados de medição para garantia da qualidade e desenvolvimento de compressores de refrigeração",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Antonio Carlos Xavier De Oliveira",
+                    "Cesar Alberto Penz",
+                    "André Paz Rosa",
+                    "Pedro Moritz Penteado",
+                    "Alexandre Victor Casella",
+                    "Flavio Renato Ramos De Lima Filho",
+                    "Igor Gavilon",
+                    "Miguel Burg Demay",
+                    "Rodolfo Cesar Costa Flesch",
+                    "Julio Nelson Scussel",
+                    "Maikon Ronsani Borges",
+                    "Marco Aurélio De Oliveira",
+                    "Carlos Alberto Flesch",
+                    "Filipe Schimitz"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Medição Óptica de Forma 3D em 360o de Superfícies Externas Cilíndricas Utilizando Triangulação Inversa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Sistema robotizado de inspeção para linhas de distribuição de energia elétrica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "SILICCOM - Sistema laser para inspeção de cilindros leves de materiais compósitos para aplicações de gás natural veicular",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Armando Albertazzi Gonçalves Júnior",
+                    "Daniel Hofmann",
+                    "Luiz Guilherme De Sousa Schweitzer",
+                    "Dênis Takeo Goto",
+                    "Juliana Marques Schöntag",
+                    "Everton Teixeira",
+                    "Leonardo Lameira Do Nascimento",
+                    "Alexandre Lúcio Gontijo Da Silva",
+                    "Daniel Pedro Willemann"
+                ],
+                "financiador": "Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Reutilização de lixo eletrônico para fins didáticos",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Thiago Pereira Alves"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um sistema para simulação do consumo de água, energia elétrica e gás residencial, capaz de ser monitorado e controlado remotamente através de dispositivos móveis.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de um Centro de Destinação de Resíduos Eletrônicos (CEDRE) no Campus Itajaí",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Thiago Pereira Alves",
+                    "Osmarilda De Borba"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Estudo experimental dos tipos de corrosão em metais sob condições salinas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Cássio Aurélio Suski",
+                    "Nilceu Novicki",
+                    "Taylor Soares Rosa"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de equipamento, ferramentas e de novo método de extração industrial da carne do siri, em substituição ao processo manual praticado no Brasil",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Cássio Aurélio Suski",
+                    "Thiago Pereira Alves",
+                    "Carlos Alberto Souza",
+                    "Luiz Alberto Caldas Do Valle",
+                    "Mathias Alberto Schramm",
+                    "Wilson Valente Junior",
+                    "Lisandra Kittel Ries",
+                    "Luis Antonio De Oliveira Proença"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Prospecção de infraestrutura de software e hardware e de novas áreas de aplicação para um laboratório tecnológico gerenciado multidisciplinar de simulação, projeto e programação, com foco nas áreas de Automação Industrial, Robótica Industrial, Programação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Webinários semanais para a área elétrica",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Thiago Pereira Alves",
+                    "Guilherme Ranzolin Piazzetta",
+                    "Daniel Carlos Oro"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Produção de divulgação digital para o projeto de fluxo contínuo PJ184-2020.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Thiago Pereira Alves",
+                    "Guilherme Ranzolin Piazzetta",
+                    "Daniel Carlos Oro"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Simulador 3D imersivo para treinamento em máquinas tipo reach stacker e espelhamento remoto de operação em tempo real",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Fabrício Simões Fonseca Hermes",
+                    "Nefi Augusto De Nóbrega Estork",
+                    "Isabelli Sasdelli Tavares",
+                    "Gustavo Henrique Silva Zanetti"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Regulador automático de pH e Leitor de temperatura da água",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Daniel Da Silva",
+                    "Hugo Alves Crispim"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de monitoramento de encostas",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Gabriel Farias Grumiche",
+                    "Leonardo Filipe Serafim"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Smart chessboard",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Gabriel Slongo Rocha",
+                    "Mariana Charao Da Fonseca"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Identificação, Segmentação e contagem de veículos com Deep Learning",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Leonardo Sokolowski De Albuquerque",
+                    "Matheus Alves Monteiro"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de Visão Computacional para Esteira Transportadora",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Bernardo Santiago De Souza",
+                    "Vinícius Amandio Dos Santos Couto"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Identificação e contagem de microrganismos utilizando IA",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Giordano Bruno Mazaron",
+                    "Fábio Manoel Da Silva"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Inspeção visual de placas de circuito impresso utilizando processamento de imagem",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Pedro Augusto Dos Reis",
+                    "Ênio Dos Santos Silva"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de simulador 3D de máquina portuária do tipo reach stacker",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Fabrício Simões Fonseca Hermes",
+                    "Nefi Augusto De Nóbrega Estork",
+                    "Isabelli Sasdelli Tavares"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de cenário 3D do complexo portuário de Itajaí",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,",
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Modelagem 3D do IFSC Câmpus Itajaí",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Agnaldo Luiz Do Amaral Junior"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Plugin para AutoCAD: Automação para esquemas unifilares com base em um quadro de cargas",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Gustavo Henrique Silva Zanetti"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Campus 3D interativo",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Matheus Eduardo Tesch",
+                    "Pamela Regina Dos Santos Do Amaral"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Plugin para Obtenção de Informações de Simuladores de Voo",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Gabriel Mota"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Uso de realidade virtual na área elétrica",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Luiz Felipe Nazario Da Silva"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Framework de Programação de Aplicações para Integração de Dados Meteorológicos em Ambiente Visual Unity",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Marcelo Antunes Vanz"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Monitoramento da poluição atmosférica no município de Itajaí - SC, por meio de estações de qualidade do ar de baixo custo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Cássio Aurélio Suski",
+                    "Roddy Alexander Romero Antayhua",
+                    "Sergio Roberto Sanches"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Avaliação da Qualidade do Ar no Estado de Santa Catarina: Medição, Reanálise e Sensoriamento Remoto",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Cássio Aurélio Suski",
+                    "Roddy Alexander Romero Antayhua",
+                    "Debora Souza Alvim Rodrigues",
+                    "Dirceu Luis Herdies",
+                    "Sergio Roberto Sanches"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Verificação do comportamento de uma rede neural treinada com imagens virtuais para classificação de resíduos sólidos flutuantes em rios",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Juliana Marques Schöntag",
+                    "Adriano Vitor",
+                    "Luiz Felipe Nazario Da Silva",
+                    "Gilmar Florêncio"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de medição de Temperatura para baterias de automóveis",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Gustavo Henrique Silva Zanetti",
+                    "Yan Schneider"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rock & Metal Racing",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Saimon Miranda Fagundes"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Programa para testagem de joystick e software de simulação em ambiente 3D para reach stacker",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Fabrício Simões Fonseca Hermes",
+                    "Nefi Augusto De Nóbrega Estork"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rock & Metal Racing EAD",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Saimon Miranda Fagundes"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de Navegação Inercial",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Sérgio Augusto Bitencourt Petrovcic",
+                    "Giordano Bruno Mazaron",
+                    "Rubens Blenke Venturi"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PETROVCIC",
+                    "titulo": "S. A. B.,  SILVA, L. F. N. da,  Verificação do comportamento de uma rede neural treinada com imagens virtuais para classificação de resíduos sólidos flutuantes em rios",
+                    "ano": "2025",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "PETROVCIC",
+                    "titulo": "S. A. B.,  SANTOS, K. L.,  SILVA, A. V. T.,  Protótipo de empilhadeira portuária Reach Stacker para treinamento",
+                    "ano": "2025",
+                    "instituicao_promotora": "Ministério da Educação."
+                },
+                {
+                    "autores": "ZANETTI",
+                    "titulo": "G. H. S.,  PETROVCIC, S. A. B.,  Movimentação em Tempo Real de um Gêmeo Digital (Digital Twin) de Empilhadeira Tipo Reach Stacker",
+                    "ano": "2022",
+                    "instituicao_promotora": "UFSC e IFSC."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PETROVCIC",
+                    "curso": "S. A. B.,  VEIGA, R.,  SUSKI, C. A.,  Qulificação em Processos de Fabricação Nível 1",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "PETROVCIC",
+                    "curso": "S. A. B.,  NR13 - Treinamento de segurança na operação de unidades de processos - Elétrica e Instrumentação",
+                    "ano": "2009"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "NUERNBERG, ALEXANDRE",
+                "titulo": "PETROVCIC, Sergio;  Sistema de monitoramento e alerta prévio modular com foco em eventos climáticos extremosModular early warning and monitoring system focused on extreme weather eventsSistema modular de monitoreo y alerta temprana para eventos climáticos extremos",
+                "ano": "2025",
+                "periodico": "Estrabão. ISBN: 27637824   ."
+            },
+            {
+                "autores": "PETROVCIC, S. A. B.",
+                "titulo": "BUSCHINELLI, P. D. V.;  CAVACO, M. A. M.;  PINTO, T. L. F. C.;  SINGLE IMAGE LASER TRIANGULATION SYSTEM FOR 360° EXTERNAL INSPECTION OF CYLINDRICAL SHAPED OBJECTS USING INVERSE TRIANGULATION ALGORITHM",
+                "ano": "2022",
+                "periodico": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences. ISBN: 21949034   ."
+            },
+            {
+                "autores": "PETROVCIC, S. A. B.",
+                "titulo": "Arquiteturas para sistemas de medição",
+                "ano": "2008",
+                "periodico": "MECATRÔNICA ATUAL. ISBN: 16760972   ."
+            },
+            {
+                "autores": "PETROVCIC, S. A. B.",
+                "titulo": "O PAC vai substituir o CLP?",
+                "ano": "2007",
+                "periodico": "MECATRÔNICA ATUAL. ISBN: 16760972   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ZANETTI, G. H. S.",
+                "titulo": "PETROVCIC, S",
+                "evento": "A. B.; MOVIMENTAÇÃO EM TEMPO REAL DE UM GÊMEO DIGITAL (DIGITAL TWIN) DE EMPILHADEIRA TIPO REACH STACKER. SIMPÓSIO DE INTEGRAÇÃO CIENTÍFICA E TECNOLÓGICA DO SUL CATARINENSE",
+                "local": "Sombrio",
+                "ano": "2022"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Gabriel Mota",
+                "titulo": "DESENVOLVIMENTO DE UM MAIN CONTROL DISPLAY UNIT PARA AERONAVES EMBRAER E-195 PARA USO EM SIMULADORES DE VOO X-PLANE",
+                "ano": "2026",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Pamela Regina dos Santos do Amaral",
+                "titulo": "Modelagem 3D da foz do rio Itajaí-Açu",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Matheus Eduardo Tesch",
+                "titulo": "Comunicação entre software simulador e software monitor",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gustavo Henrique Silva Zanetti",
+                "titulo": "Avaliação de um Plugin para Automação de Esquemas Unifilares",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Matheus Eduardo Tesch e Pamela Regina dos Santos do Amaral",
+                "titulo": "Desenvolvimento de um metaverso do IFSC Câmpus Itajaí",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gustavo Henrique Silva Zanetti",
+                "titulo": "Plugin para AutoCAD: Automação para esquemas unifilares com base em um quadro de cargas",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Agnaldo Luiz do Amaral Junior",
+                "titulo": "Desenvolvimento de um modelo 3D do IFSC Câmpus Itajaí",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Jose Celso Vicente do Nascimento",
+                "titulo": "Desenvolvimento de um software usando óculos de realidade virtual",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gabriel Mota",
+                "titulo": "Desenvolvimento de um simulador virtual de voo",
+                "ano": "2023",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gabriel Farias Grumiche e Leonardo Filipe Serafim",
+                "titulo": "Sistema de monitoramento de encostas",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Pedro Augusto dos Reis",
+                "titulo": "Inspeção visual de placas de circuito impresso utilizando processamento de imagem",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Daniel da Silva e Hugo Alves Crispim",
+                "titulo": "Regulador automático de pH e leitor de temperatura da água",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Leonardo Sokolowski De Albuquerque e Matheus Alves Monteiro",
+                "titulo": "Identificação, segmentação e contagem de veículos com deep learning",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Fabricio Simões Fonseca Hermes",
+                "titulo": "Implementação de um Sistema de Fases e Tarefas Utilizando o Simulador 3D de Empilhadeira do Tipo Reach Stacker para Treinamento e Reciclagem de Operadores",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Isabelli Sasdelli Tavares",
+                "titulo": "Análise dos Indicadores de Desempenho da Máquina Reach Stacker Após a Implementação de Software Testador de Joystick no Setor de Manutenção Portuária",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Nefi Augusto De Nobrega Estork",
+                "titulo": "Uso de Simulador Virtual 3D de Máquina Tipo Reach Stacker Aplicado à Análise de Acidentes de um Porto Real",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Matheus Eduardo Tesch e Pamela Regina dos Santos do Amaral",
+                "titulo": "Metaverso do IFSC Campus Itajaí",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Fábio Manoel da Silva e Giordano Bruno Mazaron",
+                "titulo": "Identificação e contagem de microorganismos utilizando IA",
+                "ano": "2022",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Giordano Bruno Mazaron e Rubens Blenke Venturi",
+                "titulo": "Sistema de Navegação Inercial",
+                "ano": "2021",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Gustavo Henrique Silva Zanetti e Yan Schneider",
+                "titulo": "Sistema de medição de Temperatura para baterias de automóveis",
+                "ano": "2021",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Fabrício Simões Fonseca Hermes e Nefi Augusto de Nóbrega Est",
+                "titulo": "Programa para testagem de joystick e software de simulação em ambiente 3D para reach stacker",
+                "ano": "2021",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Bernardo Santiago de Souza e Vinícius Amandio dos Santos",
+                "titulo": "Sistema de Visão Computacional para Esteira Transportadora",
+                "ano": "2021",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Fabrício S",
+                "titulo": "F. Hermes, Isabelli S. Tavares e Nefi A. N. Esto.  Desenvolvimento de simulador 3D de máquina portuária do tipo reach stacker",
+                "ano": "2021",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Adriano Cardoso",
+                "titulo": "Proposta de melhoria na iluminação da oficina da transportes dalçóquio",
+                "ano": "2009",
+                "curso": "Superior de Tecnologia em Manutenção Industrial",
+                "instituicao": "Faculdade SENAI de Tecnologia (SC)"
+            },
+            {
+                "orientando": "Carlos Eduardo Leal Machado",
+                "titulo": "Supervisão de inversores de frequência via rede modbus rtu e as vantagens do supervisório para a manutenção",
+                "ano": "2009",
+                "curso": "Superior de Tecnologia em Manutenção Industrial",
+                "instituicao": "Faculdade SENAI de Tecnologia (SC)"
+            }
+        ]
+    }
+}

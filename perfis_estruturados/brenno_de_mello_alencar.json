@@ -1,0 +1,272 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Efficient Delay-Aware Experience Replay for Online Continual Learning under Delayed Label Streams",
+                "orientador": "Ricardo Araújo Rios",
+                "ano_inicio": 2020,
+                "ano_fim": 2026
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Aprendizado de Máquina para Redução do Tráfego de Dados e da Latência na Névoa das Coisas",
+                "orientador": "Cassio Vinicius Serafim Prazeres",
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2016
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "RPS Contabil",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "RPS Contabil",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Programador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Monitor de Informática",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "Mestrado",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista CAPES, Brasil"
+            },
+            {
+                "empresa": "Fundação para o Desenvolvimento Científicio e Tecnológico em Saúde",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "SOFTWARE: PRACTICE AND EXPERIENCE",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Softwarex",
+                "ano_inicio": 2022,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ALENCAR",
+                    "titulo": "B. M.,  Recicle++: Construção de um aplicativo móvel de apoio à responsabilidade ambiental",
+                    "ano": "2016",
+                    "instituicao_promotora": "IFBA."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "L. B. ANDRADE, CAIO",
+                "titulo": "C. S. E SILVA, MARIA I.;  D. R. P. ROSA, IZABELA M.;  C. DE CARVALHO, GILSON;  M. SANTOS, HERBERT H.;  L. SANTOS, MÁRCIA M.;  MEYER, ROBERTO;  P. B. KNOP, LUCIANA M.;  M. FREIRE, SONGELI;  A. RIOS, RICARDO;  N. RIOS, TATIANE;  FERREIRA, MARCOS V.;  M. ALENCAR, BRENNO;  S. B. FILHO, JORGE L.;  A. GUIMARAES, MATHEUS;  PORTO CRUZ MORAES, IARLEY;  S. LOPES, TIAGO J.;  S. DOS SANTOS, ALLAN;  M. DOS SANTOS, MARIANE;  PCMMD: A Novel Dataset of Plasma Cells to Support the Diagnosis of Multiple Myeloma",
+                "ano": "2025",
+                "periodico": "Scientific Data. ISBN: 20524463   ."
+            },
+            {
+                "autores": "NETO, RUIVALDO",
+                "titulo": "ALENCAR, BRENNO;  GOMES, HEITOR MURILO;  BIFET, ALBERT;  GAMA, JOÃO;  CASSALES, GUILHERME;  RIOS, RICARDO;  RMIDDM: an unsupervised and interpretable concept drift detection method for data streams",
+                "ano": "2025",
+                "periodico": "DATA MINING AND KNOWLEDGE DISCOVERY (DORDRECHT. ONLINE). ISBN: 1573756X   ."
+            },
+            {
+                "autores": "ANDRADE, CAIO L. B.",
+                "titulo": "FILHO, JORGE L. S. B.;  GUIMARAES, MATHEUS A.;  DE CARVALHO, GILSON C.;  SANTOS, HERBERT H. M.;  SANTOS, MÁRCIA M. L.;  MEYER, ROBERTO;  RIOS, TATIANE N.;  RIOS, RICARDO A.;  FREIRE, SONGELI M.;  FERREIRA, MARCOS V.;  ALENCAR, BRENNO M.;  JUNIOR, ARIEL M. A.;  LOPES, TIAGO J. S.;  DOS SANTOS, ALLAN S.;  DOS SANTOS, MARIANE M.;  SILVA, MARIA I. C. S.;  ROSA, IZABELA M. D. R. P.;  Enhancing diagnostic accuracy of multiple myeloma through ML-driven analysis of hematological slides: new dataset and identification model to support hematologists",
+                "ano": "2024",
+                "periodico": "Scientific Reports. ISBN: 20452322   ."
+            },
+            {
+                "autores": "BATISTA, ERNANDO",
+                "titulo": "ALENCAR, BRENNO;  SILVA, ELIABE;  CANÁRIO, JOÃO;  RIOS, RICARDO A.;  DUSTDAR, SCHAHRAM;  FIGUEIREDO, GUSTAVO;  PRAZERES, CÁSSIO;  A new intelligent scheduler to improve reactive OpenFlow communication in SDN-based IoT data streams",
+                "ano": "2024",
+                "periodico": "Discover Internet of Things. ISBN: 27307239   ."
+            },
+            {
+                "autores": "FERREIRA-MARTINS, ANDRÉ J.",
+                "titulo": "CASTALDONI, RODRIGO;  ALENCAR, BRENNO M.;  FERREIRA, MARCOS V.;  NOGUEIRA, TATIANE;  RIOS, RICARDO A.;  LOPES, TIAGO J. S.;  Full-scale network analysis reveals properties of the FV protein structure organization",
+                "ano": "2023",
+                "periodico": "Scientific Reports. ISBN: 20452322   ."
+            },
+            {
+                "autores": "ALENCAR, BRENNO M.",
+                "titulo": "CANÁRIO, JOÃO PAULO;  NETO, RUIVALDO LOBÃO;  PRAZERES, CÁSSIO;  BIFET, ABERT;  RIOS, RICARDO A.;  Fog-DeepStream: A new approach combining LSTM and Concept Drift for data stream analytics on Fog computing",
+                "ano": "2023",
+                "periodico": "Internet Of Things. ISBN: 25426605   ."
+            },
+            {
+                "autores": "ANDRADE, LEANDRO",
+                "titulo": "DE SANTANA, CLEBER JORGE LIRA;  ALENCAR, BRENNO DE MELLO;  SILVA, CLAUDIO JR.;  PRAZERES, CÁSSIO;  Data interplay: A model to optimize data usage in the Internet of Things",
+                "ano": "2023",
+                "periodico": "SOFTWARE: PRACTICE AND EXPERIENCE. ISBN: 1097024X   ."
+            },
+            {
+                "autores": "LOPES, TIAGO J S",
+                "titulo": "RIOS, RICARDO A;  RIOS, TATIANE N;  ALENCAR, BRENNO M;  FERREIRA, MARCOS V;  MORISHITA, ERIKO;  Computational Analyses Reveal Fundamental Properties of the AT Structure Related to Thrombosis",
+                "ano": "2022",
+                "periodico": "Bioinformatics Advances. ISBN: 26350041   ."
+            },
+            {
+                "autores": "SANTANA, CLEBER",
+                "titulo": "BATISTA, ERNANDO;  MELLO, BRENNO;  PRAZERES, CASSIO;  FoT-Rules: A Semantic Rule-based Approach for Smart Spaces Through Fog of Things",
+                "ano": "2021",
+                "periodico": "International Journal of Semantic Computing. ISBN: 1793351X   ."
+            },
+            {
+                "autores": "ALENCAR, BRENNO M.",
+                "titulo": "RIOS, RICARDO A.;  SANTANA, CLEBER;  PRAZERES, CÁSSIO;  FoT-Stream: A Fog platform for data stream analytics in IoT",
+                "ano": "2020",
+                "periodico": "COMPUTER COMMUNICATIONS. ISBN: 01403664   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "XAVIER, BRUNO MISSI",
+                "titulo": "MARTINELLO, MAGNOS; TROIS, CELIO; ALENCA, BRENNO M",
+                "evento": "; RIOS",
+                "local": "RICARDO A.; Fast Learning Enabled by In-Network Drift Detection. APNet 2024: The 8th AsiaPacific Workshop on Networking, Sydney Australia",
+                "ano": "2024"
+            },
+            {
+                "autores": "DE SANTANA, CLEBER JORGE LIRA",
+                "titulo": "DE MELLO ALENCAR, BRENNO; PRAZERES, CÁSSIO V",
+                "evento": "SERAFIM; Reactive microservices for the internet of things. the 34th ACM/SIGAPP Symposium",
+                "local": "Limassol",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTANA, CLEBER",
+                "titulo": "ANDRADE, LEANDRO; MELLO, BRENNO; BATISTA, ERNANDO; SAMPAIO, JOSÉ VITOR; PRAZERES, CÁSSIO; A reliable architecture based on reactive microservices for IoT applications",
+                "evento": "the 25th Brazillian Symposium",
+                "local": "Rio de Janeiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "ANDRADE, LEANDRO",
+                "titulo": "LIRA, CLEBER; MELLO, BRENNO; ANDRADE, ANDRESSA; COUTINHO, ANTONIO; GREVE, FABIOLA; PRAZERES, CÁSSIO; SOFT-IoT Platform in Fog of Things",
+                "evento": "the 24th Brazilian Symposium on Multimedia and the Web",
+                "local": "Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTANA, CLEBER",
+                "titulo": "ALENCAR, BRENNO; PRAZERES, CASSIO; Microservices: A Mapping Study for Internet of Things Solutions",
+                "evento": "2018 IEEE 17th International Symposium on Network Computing and Applications (NCA)",
+                "local": "Cambridge",
+                "ano": "2018"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "GIOVANNA SOARES DA SILVA",
+                "titulo": "ESTÁGIO CURRICULAR SUPERVISIONADO",
+                "ano": "2024",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "SABRINA DE SOUZA SILVA",
+                "titulo": "ESTÁGIO CURRICULAR SUPERVISIONADO",
+                "ano": "2024",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "ESTHÉR LAYSSA FLORÊNCIO DE ALCÂNTARA",
+                "titulo": "ESTÁGIO CURRICULAR SUPERVISIONADO",
+                "ano": "2024",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Paulo Bleno Silva",
+                "titulo": "UMA COMPARAÇÃO ENTRE LLMS E SLMS EM QUESTÕES DA FILOSOFIA",
+                "ano": "2024",
+                "curso": "Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rodrigo Ornellas Santos",
+                "titulo": "Aplicação de Métodos de Detecção de Mudança de Conceito em Fluxo de dados ambientais do Brasil",
+                "ano": "2022",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 24.341012954711914,
+            "indian": 6.949141025543213,
+            "black": 2.618990182876587,
+            "white": 25.099924087524414,
+            "middle eastern": 15.198370933532715,
+            "latino hispanic": 25.79256820678711
+        }
+    }
+}

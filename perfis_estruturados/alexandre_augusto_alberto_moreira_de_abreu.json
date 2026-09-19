@@ -1,0 +1,653 @@
+{
+    "campus": "- Câmpus Canoinhas",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras",
+                "titulo": "Reduções de largura de banda e de profile de matrizes por mapa auto-organizável",
+                "orientador": "Dr",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Docência para a Educação Profissional",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "orientador": "Alessandra Paulo Carneiro",
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras",
+                "ano_inicio": 2008,
+                "ano_fim": 2012
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Lavras",
+                "ano_inicio": 2012,
+                "ano_fim": 2018,
+                "funcao": "Técnico em Tecnologia da Informação",
+                "vinculo": "Servidor público",
+                "descricao": "Desenvolvedor de Software. Banco de Dados. Otimização e manutenção de sistemas e servidores. Analista de Sistemas"
+            },
+            {
+                "empresa": "Laboratório de Inteligência Computacional e Siistemas Avançados",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Mineração de Dados",
+                "vinculo": "Programador",
+                "descricao": "DBA, Bolsista, Laboratório de Inteligência Computacional e Sistemas Avançados (LICESA / UFLA). Mineração de Dados. Banco de Dados MySQL. Programador web (PHP, JQuery, AJAX, MySQL, GIT, SVN)"
+            },
+            {
+                "empresa": "AJA Soluções Tecnológicas Inteligentes",
+                "ano_inicio": 2011,
+                "ano_fim": 2012,
+                "funcao": "Desenvolvedor e DBA",
+                "vinculo": "AJA Soluções Tecnológicas Inteligentes Webdesigner e programador web (PHP",
+                "descricao": "JQuery, AJAX, MySQL). Trabalhos esporádicos com sistemas CMS"
+            },
+            {
+                "empresa": "Câmara Municipal de Inconfidentes",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Programador Web",
+                "vinculo": "Webdesigner e programador web(PHP",
+                "descricao": "HTML, CSS, JavaScript)"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",
+                "ano_inicio": 2006,
+                "ano_fim": 2006,
+                "funcao": "Monitor de linguagens de programação.",
+                "vinculo": "Bolsista",
+                "descricao": "Monitor de linguagens de programação"
+            },
+            {
+                "empresa": "Faculdade Presbiteriana Gammon",
+                "ano_inicio": 2015,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina - Campus Canoinhas (2020) : Coordenador Do Curso Técnico Em Manutenção E Suporte Em Informática.\nInstituto Federal de Santa Catarina - Campus Canoinhas (2018): Recuperação de Informação, Internet of things, Inteligência artificial, Automação, Servidores web,",
+        "ensino": ": Instituto Federal de Santa Catarina\nOutro (2018) .\nGraduacao (2018) - Análise E Desenvolvimento De Sistemas.\nExtensão Universitária: Instituto Federal de Santa Catarina\nInstituto Federal de Santa Catarina: Ii Workshop De Informática (2018 - 2018) - Ii Workshop De Informática.\nInstituto Federal de Santa Catarina: Tecnologia Inclusiva Mediada Pelas Tics No Ensino De Química (2018 - 2018) - Tecnologia Inclusiva Mediada Pelas Tics No Ensino De Química.",
+        "comissoes": ": Instituto Federal de Santa Catarina\nComissão Sobre Ambiente Virtual De Aprendizagem (ava) (2020).\nComissão De Atividades Esportivas E Recreativas Do Câmpus Canoinhas (2020).\nComitê Gestor De Tecnologia Da Informação E Comunicação - Cgtic (2019 - 2021).\nNúcleo Docente Estruturante (curso Superior De Análise E Desenvolvimento De Sistemas) (2018).\nColegiado De Curso (curso Superior De Análise E Desenvolvimento De Sistemas) (2018).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Máquinas de aprendizado extremo (ELM) aplicadas à análise de sentimentos (Sentiment analysis e opinion mining)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Ahmed A. A. Esmin",
+                    "Tiago A. Coelho"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Desenvolvimento de um Dashboard (Painel de Controle) para visualização amigável de dados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Leandro Silva Alonso",
+                    "Alexandre Augusto Alberto Moreira De Abreu"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "GiAva: Ambiente Inteligente de Acompanhamento e Gestão de Qualidades em AVA",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Reduções de largura de banda e de profile de matrizes por mapa auto-organizável",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Sanderson L. Gonzaga De Oliveira"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "Criação de Design Responsivo e Adaptativo",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Luiz Gustavo Ferreira Celio"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "SIGUFLA",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Ramon Simões Abílio",
+                    "Erasmo Evangelista De Oliveira"
+                ],
+                "ano_inicio": 2012,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Universidade Federal de Lavras",
+                "nome": "F10",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Faculdade Presbiteriana Gammon",
+                "nome": "Redes sociais para a melhor idade",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "TECNOLOGIAS NA EDUCAÇÃO INCLUSIVA MEDIADA PELAS TICS NO ENSINO DE QUÍMICA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Thiago Aguiar Portela",
+                    "Alexandre Augusto Alberto Moreira De Abreu"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "II WORKSHOP DE INFORMÁTICA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Valdemar Cavalheiro Junior",
+                    "Eduardo Gomes",
+                    "Lucas Bueno",
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Maurício Begnini",
+                    "Gláucio Luis Wachinski",
+                    "Denilson Fagundes Barbosa",
+                    "Diocélio Larsen"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de um sistema de informação para gerenciamento dos pacientes atendidos pela Associação dos Pacientes Oncológicos da Região de Canoinhas (APOCA)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Denilson Fagundes Barbosa"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Promoção da visibilidade da AMA (Associação dos pais e amigos do autista de Canoinhas) através de website informativo",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Denilson Fagundes Barbosa",
+                    "Luciando Barreto",
+                    "Giovanni Bruno Da Silva",
+                    "Gustavo Ferreira Souza"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Criação de sistema web para divulgação de instituições públicas de ensino, seus cursos, programas de assistência estudantil e ações afirmativas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Luciano Barreto",
+                    "Maurício Begnini",
+                    "Eduardo Henrique De Oliveira"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "III Workshop Informática",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Luciano Barreto",
+                    "Eduardo Gomes",
+                    "Maurício Begnini",
+                    "Gláucio Luis Wachinski",
+                    "Denilson Fagundes Barbosa",
+                    "Diocélio Larsen",
+                    "Lucas Bueno"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Representação Visual da evolução das espécies analisadas por Fritz Muller",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Micheline Raquel De Barros",
+                    "Fernanda Maria Trentini Carneiro",
+                    "Luana Porfirio Da Luz",
+                    "Eduardo Henrique Goulin",
+                    "Gustavo Bail"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "APRIMORAMENTO DO TRATAMENTO DE RESÍDUOS SÓLIDOS ORGÂNICOS POR COMPOSTAGEM EM REATOR FACULTATIVO",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Karine Marcondes Da Cunha",
+                    "Mario Augusto Camargo",
+                    "João Victor Tischiler Nizer",
+                    "Alana Caroline Da Silva Campos",
+                    "Maher Ben David Ramos Daoud",
+                    "Bruna Alves De Oliveira"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "ARQUITETURA RESPONSIVA APLICADA EM CONSTRUÇÕES RURAIS",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Gabriel De Bem",
+                    "Geraldo Rodrigues"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Promoção da visibilidade de associações beneficentes em Canoinhas/SC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Mateus Medeiros"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ABREU",
+                    "software": "A. A. A. M.,  Sistema de gerenciamento de finanças",
+                    "ano": "2019",
+                    "finalidade": "Sistema de gerenciamento de finanças."
+                },
+                {
+                    "autor": "ABREU",
+                    "software": "A. A. A. M.,  Balanceador F10",
+                    "ano": "2017",
+                    "finalidade": "Balanceamento de carga e controle de usuários utilizando"
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "Gonzaga de Oliveira",
+                    "titulo": "S. L.,  ABREU, A. A. A. M.,  An evaluation of pseudoperipheral vertex finders for the Reverse Cuthill-McKee method for bandwidth and profile reductions of symmetric matrices",
+                    "ano": "2018",
+                    "instituicao_promotora": "Chilean Computer Science Society."
+                },
+                {
+                    "autores": "Gonzaga de Oliveira",
+                    "titulo": "S. L.,  BERNARDES, J. A. B.,  ABREU, A. A. A. M.,  A variant of Snay's algorithm",
+                    "ano": "2018",
+                    "instituicao_promotora": "Chilean Computer Science Society."
+                },
+                {
+                    "autores": "GONZAGA DE OLIVEIRA",
+                    "titulo": "S. L. G.,  ABREU, A. A. A. M.,  A pseudoperipheral vertex finder based on the George-Liu and Kaveh's B algorithms for small symmetric matrices",
+                    "ano": "2018",
+                    "instituicao_promotora": "SBPO."
+                },
+                {
+                    "autores": "ABREU",
+                    "titulo": "A. A. A. M.,  Introdução ao Google Chart Tools",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal de Lavras."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ABREU",
+                    "curso": "A. A. A. M.,  ABILIO, R. S.,  Capacitação em Sistemas de Informação - SIG-UFLA (Framework SIMP)",
+                    "ano": "2016"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ABREU",
+                    "evento": "A. A. A. M.,  BEGNINI, M.,  GOMES, E.,  LARSEN, D.,  PEREIRA, F. R.,  GUERBER, C. R.,  WACHINSKI, G. L.,  CERUTTI JUNIOR, A.,  BUENO, L.,  IV Workshop de Informática",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DE SANTA CATARINA."
+                },
+                {
+                    "autores": "BARRETO",
+                    "evento": "L.,  ABREU, A. A. A. M.,  BUENO, L.,  BEGNINI, M.,  BARBOSA, D. F.,  ANJOS, B.,  WACHINSKI, G. L.,  LARSEN, D.,  III WORKSHOP DE INFORMÁTICA",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "BARRETO",
+                    "evento": "L.,  GOMES, E.,  ABREU, A. A. A. M.,  BEGNINI, M.,  WACHINSKI, G. L.,  BARBOSA, D. F.,  LARSEN, D.,  II WORKSHOP DE INFORMÁTICA",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "GONZAGA DE OLIVEIRA, S.L.",
+                "titulo": "DE ABREU, A.A.A.M.;  A survey of heuristics for the minimum linear arrangement problem",
+                "ano": "2026",
+                "periodico": "Computer Science Review. ISBN: 15740137   ."
+            },
+            {
+                "autores": "Gonzaga de Oliveira, S. L.",
+                "titulo": "de Abreu, Alexandre A. A. M.;  Small boundary: a family of linear-time greedy heuristics for the minimum linear arrangement problem",
+                "ano": "2026",
+                "periodico": "JOURNAL OF HEURISTICS (DORDRECHT. ONLINE). ISBN: 15729397   ."
+            },
+            {
+                "autores": "DE BEM, GABRIEL",
+                "titulo": "KRÜGER, EDUARDO;  LA ROCHE, PABLO;  DE ABREU, ALEXANDRE A.A.M.;  LUU, LINA;  Development of ReShadS, a climate-responsive shading system: Conception, design, fabrication, and small-scale testing",
+                "ano": "2024",
+                "periodico": "JOURNAL OF BUILDING ENGINEERING. ISBN: 23527102   ."
+            },
+            {
+                "autores": "DA CUNHA, KARINE MARCONDES",
+                "titulo": "NIZER, JOÃO VICTOR TISCHLER;  DE ABREU, ALEXANDRE AUGUSTO ALBERTO MOREIRA;  DE CAMPOS, SANDRO XAVIER;  Compostagem de resíduos orgânicos domésticos em reator: um estudo sobre a formação de CH4 NH3 e a influência do isolamento térmico / Domestic organic waste reactor composting: a study on the formation of CH4 NH3 and the influence of thermal insulation",
+                "ano": "2021",
+                "periodico": "Brazilian Journal of Development. ISBN: 25258761   ."
+            },
+            {
+                "autores": "Gonzaga de Oliveira, S. L.",
+                "titulo": "ABREU, A. A. A. M.;  An Experimental Analysis of Three Pseudo-peripheral Vertex Finders in conjunction with the Reverse Cuthill-McKee Method for Bandwidth Reduction",
+                "ano": "2019",
+                "periodico": "TEMA. Tendências em Matemática Aplicada e Computacional. ISBN: 16771966   ."
+            },
+            {
+                "autores": "OLIVEIRA, SANDERSON L. GONZAGA DE",
+                "titulo": "ABREU, ALEXANDRE A.A.M. DE;  ROBAINA, DIOGO;  KISCHINHEVSKY, MAURICIO;  An evaluation of four reordering algorithms to reduce the computational cost of the Jacobi-preconditioned conjugate gradient method using high-precision arithmetic",
+                "ano": "2017",
+                "periodico": "International Journal of Business Intelligence and Data Mining. ISBN: 17438195   ."
+            },
+            {
+                "autores": "ABREU, A. A. A. M.",
+                "titulo": "GONZAGA DE OLIVEIRA, S. L. G.;  LACERDA, W. S.;  Uma resolução do problema do caixeiro-viajante por mapa auto-organizável com aprendizado winner takes all",
+                "ano": "2015",
+                "periodico": "Revista Brasileira de Computação Aplicada. ISBN: 21766649   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "BEM, GABRIEL MORAES DE",
+                "titulo": "KRÜGER, EDUARDO LEITE; ABREU, ALEXANDRE AUGUSTO ALBERTO MOREIRA DE; Avaliação experimental do desempenho térmico e lumínico de um brise-soleil responsivo",
+                "evento": "XX ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO",
+                "local": "Maceió",
+                "ano": "2024"
+            },
+            {
+                "autores": "ABREU, A. A. A. M.",
+                "titulo": "GONZAGA DE OLIVEIRA, S",
+                "evento": "L. G.; Otimização de largura de banda em grafos por programação linear inteira. XXVI Encontro Nacional de Modelagem Computacional (XXVI ENMC)",
+                "local": "Nova Friburgo",
+                "ano": "2023"
+            },
+            {
+                "autores": "BEM, G.",
+                "titulo": "LA ROCHE, PABLO; KRUGER, EDUARDO; ABREU, A",
+                "evento": "A. A. M.; Responsive Brise-soleil: Design Concept and Performance Analysis. 36th PLEA Conference on Passive and Low Energy Architecture",
+                "local": "Santiago",
+                "ano": "2022"
+            },
+            {
+                "autores": "OLIVEIRA, C. S.",
+                "titulo": "NASCIMENTO, A",
+                "evento": "S.; DE ABREU",
+                "local": "ALEXANDRE AUGUSTO ALBERTO MOREIRA; IRILAN, Y.; PERDONA, B.; Juventudes negras e ações afirmativas: linkando direitos sociais através das Ciências Humanas e do desenvolvimento de Sistema Web. VIII Simpósio Internacional desigualdades, direitos e políticas públicas., Porto Alegre",
+                "ano": "2022"
+            },
+            {
+                "autores": "GONZÁLEZ CRUZ, EDUARDO MANUEL",
+                "titulo": "KRÜGER, EDUARDO; CARRARO, FABRICIO; MORAES DE BEM, GABRIEL; MOREIRA DE ABREU, ALEXANDRE AUGUSTO; TRENTO, DANIEL; Implementação de um sistema de aquecimento e resfriamento radiante-capacitivo (RC-HCS) em uma câmara climática",
+                "evento": "XIX ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO",
+                "local": "Canela-RS",
+                "ano": "2022"
+            },
+            {
+                "autores": "ABREU, ALEXANDRE A.A.M. DE",
+                "titulo": "BARBOSA, D",
+                "evento": "F.; CARNEIRO",
+                "local": "A. P.; Projeto de Extensão como Exercício Interdisciplinar das Técnicas de Análise e Desenvolvimento de Sistemas: Estudo de Caso. XII Computer on the Beach, Online",
+                "ano": "2021"
+            },
+            {
+                "autores": "ALMEIDA, L. A.",
+                "titulo": "SIQUEIRA, A",
+                "evento": "M.; BEM",
+                "local": "G.; ABREU, A. A. A. M.; Arquitetura responsiva aplicada em construções rurais. Feira Brasileira de Ciência e Tecnologia, São Paulo",
+                "ano": "2020"
+            },
+            {
+                "autores": "ABREU, ALEXANDRE A.A.M. DE",
+                "titulo": "BERNARDES, J",
+                "evento": "A. B.; Gonzaga de Oliveira",
+                "local": "S. L.; A comparison of pseudoperipheral vertex finders for the Reverse Cuthill-McKee method. LII Simpósio Brasileiro de Pesquisa Operacional, João Pessoa",
+                "ano": "2020"
+            },
+            {
+                "autores": "Gonzaga de Oliveira, S. L.",
+                "titulo": "ABREU, A",
+                "evento": "A. A. M.; OSTHOFF",
+                "local": "C.; HENDERSON, L. N.; A variant of the George-Liu algorithm. International Conference on Computational Science and Its Applications - ICCSA, Saint Petersburg",
+                "ano": "2019"
+            },
+            {
+                "autores": "Gonzaga de Oliveira, S. L.",
+                "titulo": "ABREU, A",
+                "evento": "A. A. M.; Efeitos de permutações simétricas no tempo de execução de um método direto para resolução de sistemas de equações lineares esparsos e assimétricos (aceito",
+                "local": "aguardando publicação). LI Simpósio Brasileiro de Pesquisa Operacional (SBPO 2019), Limeira",
+                "ano": "2019"
+            },
+            {
+                "autores": "Gonzaga de Oliveira, S. L.",
+                "titulo": "ABREU, A",
+                "evento": "A. A. M.; An evaluation of the use of the Reverse Cuthill-McKee method along with pseudoperipheral vertex finders. WCMNA 2019 - Workshop on Computational Modeling and Numerical Analysis",
+                "local": "Petrópolis",
+                "ano": "2019"
+            },
+            {
+                "autores": "GONZAGA DE OLIVEIRA, S. L. G.",
+                "titulo": "ABREU, ALEXANDRE A",
+                "evento": "A.M. DE; The use of the reverse Cuthill-McKee method with an alternative pseudo-peripheral vertice finder for profile optimization. XXXVII Congresso Nacional de Matemática Aplicada e Computacional",
+                "local": "São José dos Campos",
+                "ano": "2018"
+            },
+            {
+                "autores": "GONZAGA DE OLIVEIRA, S. L. G.",
+                "titulo": "de Abreu, Alexandre A",
+                "evento": "A. M.; A pseudoperipheral vertex finder based on the George-Liu and Kaveh's B algorithms for small symmetric matrices (to apear). 50° Simpósio Brasileiro de Pesquisa Operacional (SBPO 2018)",
+                "local": "Rio de Janeiro",
+                "ano": "2018"
+            },
+            {
+                "autores": "GONZAGA DE OLIVEIRA, S. L. G.",
+                "titulo": "ABREU, A",
+                "evento": "A. A. M.; An evaluation of pseudoperipheral vertex finders for the Reverse Cuthill-McKee method for bandwidth and profile reductions of symmetric matrices. 37th International Conference of the Chilean Computer Science Society (SCCC)",
+                "local": "Santiago",
+                "ano": "2018"
+            },
+            {
+                "autores": "GONZAGA DE OLIVEIRA, S. L. G.",
+                "titulo": "BERNARDES, J",
+                "evento": "A. B.; ABREU",
+                "local": "A. A. A. M.; A variant of Snay's algorithm. 37th International Conference of the Chilean Computer Science Society (SCCC), Santiago",
+                "ano": "2018"
+            },
+            {
+                "autores": "Gonzaga de Oliveira, S. L.",
+                "titulo": "ABREU, A",
+                "evento": "A. A. M.; ROBAINA",
+                "local": "D. T.; KISCHINHEVSKY, MAURICIO; Finding a Starting Vertex for the Reverse Cuthill-McKee Method for Bandwidth Reduction: A Comparative Analysis Using Asymmetric Matrices. International Conference on Computational Science and Its Applications - ICCSA, Melbourne",
+                "ano": "2018"
+            },
+            {
+                "autores": "SEGUNDO, C. A. C. B.",
+                "titulo": "ESMIN, A",
+                "evento": "A. A.; ABREU",
+                "local": "A. A. A. M.; Previsão de Resultados de Jogos do Campeonato Brasileiro de Futebol: Uma Abordagem de Mineração de Dados. Brazilian Conference on Intelligent Systems (BRACIS) and Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), Natal",
+                "ano": "2015"
+            },
+            {
+                "autores": "POSSATO, E. L.",
+                "titulo": "ISAAC JUNIOR, M",
+                "evento": "A.; MELO",
+                "local": "E. A.; CALEGARIO, N.; ABREU, A. A. A. M.; ESTIMATIVA DE ALTURA TOTAL DE EUCALIPTO UTILIZANDO REDE NEURAL ARTIFICIAL E MODELO DE REGRESSÃO NÃO LINEAR. Congresso Brasileiro de Eucalipto, São Paulo",
+                "ano": "2013"
+            },
+            {
+                "autores": "SOUZA, W.",
+                "titulo": "OLIVEIRA JUNIOR, R",
+                "evento": "L.; ESMIN",
+                "local": "A. A. A.; COELHO, T. A.; ABREU, A. A. A. M.; BERNARDES, J. M.; Uma Abordagem Semi-supervisionada Aplicada a Classificação de Mensagens de Fóruns de AVA. Encontro Nacional de Inteligência Artificial, Curitiba",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Alcemir Nabir Kowal e Thiago Aguiar Portela",
+                "titulo": "Integração de Tecnologias Digitais no Ensino de Química na Educação Inclusiva para alunos do Ensino Médio do município de Canoinhas/SC",
+                "ano": "2019",
+                "curso": "Especialização em Tecnologias para Educação Profissional",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "EVELIN KARPAVICIUS DOS SANTOS",
+                "titulo": "Sistema inteligente de automação rural de baixo custo",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de sistemas",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "MATEUS MEDEIROS e SILVIO MIRANDA JUNIOR",
+                "titulo": "Predição da evasão escolar nos Institutos Federais no Brasil",
+                "ano": "2019",
+                "curso": "Análise e Desenvolvimento de sistemas",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "MATEUS MEDEIROS, SILVIO MIRANDA JUNIOR",
+                "titulo": "PREDIÇÃO DA EVASÃO UNIVERSITÁRIA NOS CURSOS DE GRADUAÇÃO PRESENCIAL DO INSTITUTO FEDERAL DE SANTA CATARINA - CÂMPUS CANOINHAS",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de sistemas",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Mhaycke Wilian de Araújo Andrade",
+                "titulo": "Análise e reestruturação da segurança da informação em uma instituição de ensino profissionalizante",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Presbiteriana Gammon"
+            },
+            {
+                "orientando": "Gilberto José de Andrade e Rick Douglas Miranda",
+                "titulo": "Migração de sistemas entrerprise resource planning (ERP): um estudo de caso em uma empresa de autopeças",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Presbiteriana Gammon"
+            },
+            {
+                "orientando": "Geraldo Roberto Mendes Silva",
+                "titulo": "Uso de software livre para gerenciamento de serviços e ativos da tecnologia da informação em um grupo de empreendimentos imobiliários",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Faculdade Presbiteriana Gammon"
+            },
+            {
+                "orientando": "Carlos A",
+                "titulo": "C. Bezerra Segundo.  Previsão de Resultados de Jogos do Campeonato Brasileiro de Futebol: Uma Abordagem de Mineração de Dados",
+                "ano": "2015",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Lavras"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.5578867793083191,
+            "indian": 0.16630829870700836,
+            "black": 0.02353619784116745,
+            "white": 85.7332763671875,
+            "middle eastern": 5.115002155303955,
+            "latino hispanic": 8.403986930847168
+        }
+    }
+}

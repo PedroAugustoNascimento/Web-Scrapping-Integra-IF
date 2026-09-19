@@ -1,0 +1,936 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Inovação e Modelagem de Materiais",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "titulo": "Aplicação de imagens microtomográficas na caracterização de compósitos cimentícios leves reforçados com fibras de piaçava",
+                "orientador": "Dany Sanchez Dominguez",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Administração de Sistemas de Informação",
+                "instituicao": "Universidade Federal de Lavras",
+                "orientador": "André Luiz Zambalde",
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em projeto de aplicações para dispositivos móveis",
+                "instituicao": "Instituto de Gestão em Tecnologia da Informação",
+                "orientador": "Otávio Lube dos Santos",
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2001,
+                "ano_fim": 2005
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Coordenador 2 - Analista de Sistemas",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "ACDGN Tecnologia",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Programador de Computadores",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Fotografia - percepções e olhares sobre a bioeconomia rural no entorno do campus Ilhéus",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Regilan Meira Silva",
+                    "Esequias Souza De Freitas",
+                    "Moises Nascimento Santana",
+                    "Bianca Vieira França Nascimento Cardoso",
+                    "Caio Ribeiro Rios"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de aplicativos voltados para o suporte ao Ensino de Biologia",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Regilan Meira Silva",
+                    "Bruna Carmo Rehem",
+                    "Lorena Rodrigues De Souza Pio",
+                    "Ana Júlia Santana Dos Santos",
+                    "Gabriel Guimarães Silva",
+                    "Hortência Carvalho Da Costa"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de um aplicativo para smartphones intitulado Banco de Remedios",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Regilan Meira Silva",
+                    "Heitor Da Silva Santos"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  SANTOS, A. J. S.,  REHEM, B. C.,  SILVA, G. G.,  COSTA, H. C.,  PIO, L. R. S.,  Álbum Biomas do Sul da Bahia",
+                    "ano": "2025",
+                    "finalidade": "Apresentar e catalogar espécies dos biomas do sul da Bahia.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025004138-1."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  AMORIM, C. A. L.,  SILVA, R. S. B.,  SOUZA, R. S.,  Kattar",
+                    "ano": "2025",
+                    "finalidade": "Apoiar a organização de coleta seletiva através de cooperativas e catadores.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025004520-4."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "G. G.,  REHEM, B. C.,  SANTOS, A. J. S.,  COSTA, H. C.,  SILVA, R. M.,  Atlas anatomia vegetal",
+                    "ano": "2022",
+                    "finalidade": "O aplicativo Atlas digital de anatomia vegetal foi desenvolvido para dar suporte ao ensino dos conteúdos ligados a área da Botânica Estrutural. Com o desenvolvimento deste aplicativo, espera-se oferecer ao aluno certa mobilidade de estudo, na qual ele pod."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  COSTA, H. C.,  SILVA, G. G.,  SANTOS, A. J. S.,  REHEM, B. C.,  Album biomas do sul da Bahia",
+                    "ano": "2022",
+                    "finalidade": "Apresentar a fauna e flora dos biomas do sul da Bahia."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Aplicativo WEB - Observatório da COVID 19 no Campus Ilhéus",
+                    "ano": "2021",
+                    "finalidade": "Obter dados relacionados aos impactos da COVID-19 na comunidade do Campus Ilhéus."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Calculadora de impressão fotográfica",
+                    "ano": "2020",
+                    "finalidade": "Calcular parâmetros para impressão de fotografias."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Leitores de Papel",
+                    "ano": "2019",
+                    "finalidade": "Gerenciar o espaço Leitores de Papel do IFBA Campus Ilhéus."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Falando de Vida",
+                    "ano": "2019",
+                    "finalidade": "Devocional com leituras diária de versículos da Biblia."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  ICNV Ilhéus",
+                    "ano": "2018",
+                    "finalidade": "Aplicativo para integração e divulgação de informações aos membros da Igreja Cristã Nova Vida de Ilhéus."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Vai Vencer:controle a validade",
+                    "ano": "2017",
+                    "finalidade": "O aplicativo Vai Vender controla a validade de produtos, independente do segmento, evitando que seus produtos expirem.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Dindin: controle de finanças",
+                    "ano": "2017",
+                    "finalidade": "Aplicativo para controlar de movimentações financeiras pessoais e pequenos negócios.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Gasosa: cálculo de combustível",
+                    "ano": "2017",
+                    "finalidade": "Calcuar o consumo médio do seu veiculo a partir do registro de abastecimentos.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Igreja Fácil: Gestão de Igrejas",
+                    "ano": "2017",
+                    "finalidade": "Este aplicativo tem como objetivo auxiliar pastores ou responsáveis por igrejas na gestão de membros, finanças, patrimônio, agenda de compromissos, mensagens, grupos, avisos e pedidos de oração.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Manual do Aluno do IFBA Campus Ilhéus",
+                    "ano": "2017",
+                    "finalidade": "Auxiliar os estudantes do Campus Ilhéus com relação as normas, regimentos e informações acadêmicias."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Aplicativo para registro de chaves",
+                    "ano": "2015",
+                    "finalidade": "Gerenciar a entrada e saída de chaves das salas do Campus Ilhéus."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Sistema de Agendamento de Atividades",
+                    "ano": "2011",
+                    "finalidade": "Agendar atividades programadas pelos professores com os alunos."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Questionário Sócio-Econômico",
+                    "ano": "2011",
+                    "finalidade": "Traçar o perfil sócio-econômico dos alunos do IFBA - Campus Eunápolis."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Sistema CAPS AD - Eunápolis",
+                    "ano": "2010",
+                    "finalidade": "Gerenciar o controle de medicamentos e pacientes da farmácia do CAPS AD."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  SANTOS, F.E,  NASCIMENTO, D. E,  Vestibular Simulado Virutal",
+                    "ano": "2009",
+                    "finalidade": "Sistema de apoio aos vestibulandos do IFBA."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  SCP - Sistema Controle de Processo",
+                    "ano": "2007",
+                    "finalidade": "Gerenciamento do setor Administrativo da Universidade Estadual de Santa Cruz."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Six - Transporte",
+                    "ano": "2007",
+                    "finalidade": "Controle de Transportadora."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  IP Caixa",
+                    "ano": "2007",
+                    "finalidade": "Gestão de Livro Caixa de Empresas."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Ip Trans",
+                    "ano": "2007",
+                    "finalidade": "Gerenciamento de Frotas de Veículos de Empresa de Transporte de Cacau."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  E.Tool Wall config",
+                    "ano": "2005",
+                    "finalidade": "Configurar Video Wall produzidos pela Helmut Mauell do Brasil."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  E.Tool Me 3011",
+                    "ano": "2005",
+                    "finalidade": "Configurar anunciadores de alarmes produzidos pela Helmut Mauell do Brasil."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Gefin",
+                    "ano": "2005",
+                    "finalidade": "Gerenciador Financeiro."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  BATISTA, R. S.,  Plano de Curso Técnico de Nível Médio Subsequente em Informática",
+                    "ano": "2011",
+                    "finalidade": "Plano de Curso Técnico de Nível Médio Subsequente em Informática."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Formulação de Projeto de Curso Superior no Eixo Tecnológico de Informação e Comunicação",
+                    "ano": "2009",
+                    "finalidade": "Elaborar um projeto para curso superior na área de TI no Campus Eunápolis."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Plano de Desenvolvimento Institucional",
+                    "ano": "2009",
+                    "finalidade": "Elaborar propostas ao plano de desenvolvimento institucional do Campus Eunápolis."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Elaboração do Plano de Curso Técnico Integrado em Informática",
+                    "ano": "2008",
+                    "finalidade": "Atualizar plano do curso técnico de informática para 4 anos.."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  Normas da Organização Didática",
+                    "ano": "2008",
+                    "finalidade": "Elaborar propostas para a construção da nova organização didática."
+                },
+                {
+                    "autor": "SILVA",
+                    "software": "R. M.,  NASCIMENTO, D. E,  SANTOS, F.E,  Vestibular Simulado Virutal",
+                    "ano": "2009",
+                    "finalidade": "Desenvolver um sistema web para apoio ao vestibular."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. M.,  Aplicativo manual do aluno do IFBA Campus Ilhéus",
+                    "ano": "2017",
+                    "instituicao_promotora": "IFBA Campus Ilhéus."
+                },
+                {
+                    "autores": "SOUZA",
+                    "titulo": "H. V. S. E.,  SILVA, R. M.,  ADAO, J. C. S.,  ARAUJO, J. G. C.,  DESENVOLVIMENTO DO APLICATIVO MANUAL DO ALUNO DO IFBA CAMPUS ILHÉUS",
+                    "ano": "2016",
+                    "instituicao_promotora": "IFAL."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "A. S. R.,  SILVA, R. M.,  Sistema de gestão informatizada da Tenda do Teatro Popular de Ilhéus",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFBA Campus Ilhéus."
+                },
+                {
+                    "autores": "REIS",
+                    "titulo": "J. S.,  SILVA, M. L. S.,  SILVA, R. M.,  Aplicação móvel na plataforma Android para área turística da cidade de Ilhéus ? BA",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFBA Campus Ilhéus."
+                },
+                {
+                    "autores": "GESTEIRA",
+                    "titulo": "M. D.,  SILVA, R. M.,  Sistema de gestão ONG caso do obeso",
+                    "ano": "2014",
+                    "instituicao_promotora": "IFBA Campus Ilhéus."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. M.,  Minicursos: TICs na Educação",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. M.,  Minicurso Fundamentos da programação para Android",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. M.,  DOMINGUEZ, D. S.,  ALVIM, R. C.,  Uso de resíduos industriais de EVA e fibras de piaçava para fabricação e caracterização de uma argamassa leve",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. M.,  DOMINGUEZ, D. S.,  ALVIM, R. C.,  ASSIS, J. T.,  Aplicação de imagens microtomográficas na caracterização de compósitos cimentícios leves reforçados com fibras de piaçava",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal de Uberlândia."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. M.,  Minicurso CMS Joomla!",
+                    "ano": "2010",
+                    "instituicao_promotora": "IFBA - Campus Camaçari - Núcleo Avançado Dias D'Avila."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "R. M.,  Curso de Extensão em Formatação de Trabalhos Acadêmicos",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. M.,  'Curso de Extensão em Adobe Lightroom",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "SILVA",
+                    "curso": "R. M.,  Curso de introdução a programação para dispositivos Android",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  1º Workshop de gerenciamento de código fonte com o GitHub",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  SANTOS, B. J.,  ARAUJO, J. G. C.,  1º Workshop de Tecnologia da Informação do IFBA Campus Ilhéus",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA Campus Ilhéus."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Minicurso Busca de Patentes",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Semana de Ciência e Tecnologia",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Campus Eunápolis."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Semana da Consciência Negra",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA - Campus Eunápolis."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Minicurso JAVA",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Minicurso Corel Drawn",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Datamaskin 2008 - Intercâmbio de InfoTecnologia",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "CEFET BAHIA - Unidade de Eunápolis."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "R. M.,  Semana de Informática",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "DOMINGUEZ, D. S.;  Microtomografia na caracterização de compósitos cimenticios leves",
+                "ano": "2015",
+                "informacoes_adicionais": "Impresso. ISBN: 9786130158620, Saarbrücken, Alemanhã (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "DOMINGUEZ, D. S.;  ALVIM, R. C.;  IGLESIAS, S. M.;  Análise da resistência mecânica e porosidade de um compósito cimentício leve com EVA e reforçado com fibras de piaçava",
+                "ano": "2013",
+                "periodico": "Revista Eletrônica de Materiais e Processos (UFCG). ISBN: 18098797   ."
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "DOMINGUEZ, D. S.;  ASSIS, J. T.;  IGLESIAS, S. M.;  Characterization of Lightweight Cementitious Composites Reinforced with Piassava Fibers using Mechanical Tests and Micro-Tomography",
+                "ano": "2013",
+                "periodico": "International Review of Chemical Engineering - Rapid Communications (IRECHE). ISBN: 20351763   ."
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "ALVIM, R. C.;  DOMINGUEZ, D. S.;  ESTUDO DA RESISTÊNCIA MECÂNICA DE UM COMPÓSITO CIMENTÍCIO LEVE REFORÇADO COM FIBRAS DE PIAÇAVA",
+                "ano": "2011",
+                "periodico": "E.T.C. Educação, Tecnologia e Cultura. ISBN: 18080588   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "ADAO, J",
+                "evento": "C. S.; ARAUJO",
+                "local": "J. G. C.; SOUZA, H. V. S. E.; Desenvolvimento do aplicativo manual do aluno do IFBA - campus Ilhéus. Connepi, Maceió",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "DOMINGUEZ, D",
+                "evento": "S.; ASSIS",
+                "local": "J. T.; IGLESIAS, S. M.; CHARACTERIZATION OF LIGHTWEIGHT CEMENTITIOUS COMPOSITES REINFORCED WITH PIASSAVA FIBERS USING MECHANICAL TESTS AND MICRO-TOMOGRAPHY. XVI Encontro de Modelagem Computacional, IV Encontro de Ciência e Tecnologia de Materiais e III Encontro Regional de Matemática Aplicada e Computacional, Ilhéus",
+                "ano": "2013"
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "DOMINGUEZ, D",
+                "evento": "S.; ALVIM",
+                "local": "R. C.; Uso de resíduos industriais de EVA e fibras de piaçava para fabricação e caracterização de uma argamassa leve. Seminário Sustentabilidade, Desenvolvimento Regional e Recursos Naturais, Salvador",
+                "ano": "2012"
+            },
+            {
+                "autores": "SILVA, R. M.",
+                "titulo": "DOMINGUEZ, D",
+                "evento": "S.; ALVIM",
+                "local": "R. C.; ASSIS, J. T.; APLICAÇÃO DE IMAGENS MICROTOMOGRÁFICAS NA CARACTERIZAÇÃO DE COMPÓSITOS CIMENTÍCIOS LEVES REFORÇADOS COM FIBRAS DE PIAÇAVA. XV Encontro de Modelagem Computacional & III Encontro de Ciência e Tecnologia de Materiais, Uberlândia",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "PEDRO HENRIQUE CARVALHO MATOS",
+                "titulo": "Estágio supervisionado na Santa Cruz Tecnologia",
+                "ano": "2025",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ELISÂNGELA SANTOS ARAGÃO",
+                "titulo": "Orientação de Estágio Profissional Obrigatório",
+                "ano": "2025",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "RAFAEL SENA BARRETO SILVA",
+                "titulo": "Orientação de Estágio Profissional Obrigatório",
+                "ano": "2025",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "GUILHERME RIBEIRO ALVES DE MELO",
+                "titulo": "Orientação de Estágio Profissional Obrigatório",
+                "ano": "2025",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "CAMILE SACRAMENTO DIAS DA SILVA",
+                "titulo": "Orientação de Estágio Profissional Obrigatório",
+                "ano": "2025",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ISADORA SANTOS OLIVEIRA",
+                "titulo": "Estágio supervisionado na Prefeitura de Itabuna",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "PEDRO HENRIQUE CARVALHO MATOS",
+                "titulo": "Estágio supervisionado no CEPEDI",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "JAMILI SILVA SANTOS",
+                "titulo": "Estágio supervisionado no Museu da Capitania",
+                "ano": "2024",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ISA BELLA GUESDES RAMOS",
+                "titulo": "ESTÀGIO SUPERVISIONADO NO CENTRO DE ESTUDSO E PESQUISA DE OLIVENÇA E ILHÉUS",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Pedro Henrique Carvalho Matos",
+                "titulo": "Estágio supervisionado no : CEPEDI- CENTRO DE PESQUISA E DESENVOLVIMENTO TECNOLOGICO EM INFORMATICA E ELETROELETRÔNICA DE ILHÉUS",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "TARIS HENRIQUE QUERINO DOS SANTOS",
+                "titulo": "Estágio supervisionado na EDZA Tecnologia",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "YOHANAN SANTOS DE SANTANA",
+                "titulo": "Estágio supervisionado no Centro de Biologia e Genética da UESC",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "NÁTHALIE LIMA BOMFIM",
+                "titulo": "Estágio supervisionado no CEPEDI",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "GABRIEL DOS SANTOS TELES",
+                "titulo": "Estágio supervisionado no CEPEDI",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ERICK BARBOSA DE ARAÚJO SILVA",
+                "titulo": "Estágio supervisionado na UFSB",
+                "ano": "2023",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Calebe Nonato Luz",
+                "titulo": "Estágio profissional supervisionado realizado na Loja Planet Surf",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "FELIPE GAIOTTO BRAMUCCI",
+                "titulo": "Estágio profissional supervisionado no Instituto Federal da Bahia - Campus Ilhéus",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "SARA SANTOS CORRÊA",
+                "titulo": "Estágio profissional supervisionado realizado no Colegiado de Ciências da Computação da UESC",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "MICHAEL GABRIEL CAVALCANTE BATISTA",
+                "titulo": "Estágio profissional supervisionado",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "NIBALDO RODRIGUES DE ARAÚJO NETO",
+                "titulo": "Um estudo sobre Frameworks de Design Responsivo",
+                "ano": "2021",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "RUAN CASTRO DE ASSIS",
+                "titulo": "Estágio profissional supervisionado na Secretaria de Educação de Ilhéus",
+                "ano": "2020",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "SABRINA NANINE MIQUELINE DOS SANTOS",
+                "titulo": "Estágio profissional supervisionado na Secretaria de Educação de Ilhéus",
+                "ano": "2020",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "EMILY VIEIRA DOS SANTOS MUNIZ BARRETO",
+                "titulo": "Estágio profissional supervisionado no Cyber Office Café",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ISRAEL SEBASTIAN NASCIMENTO CARVALHO",
+                "titulo": "Estágio profissional supervisionado na Ceplac",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ÁLEF ARAÚJO DA FONSECA",
+                "titulo": "Estágio profissional supervisionado na Ligmax provedor de internert",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "ANA MARIA ALVES RIBEIRO",
+                "titulo": "Estágio profissional supervisionado na Virtual Service",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "DIANA PIRES REIS",
+                "titulo": "Estágio profissional supervisionado na Grafica Leandro Comunicação Visual",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "HEVERTON SOARES DOS SANTOS OLIVEIRA",
+                "titulo": "Estágio profissional supervisionado no CETEP Litoral Sul II",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "IGOR OLIVEIRA GALVÃO",
+                "titulo": "Estágio profissional supervisionado na Live Connect",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "PEDRO AFONSO VIEIRA FERNANDES BRAGA",
+                "titulo": "Estágio profissional supervisionado na Microlins",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "SANTIAGO DEL VALLE ALVAREZ MARTINEZ",
+                "titulo": "Estágio profissional supervisionado na Universidade Estadual de Santa Cruz",
+                "ano": "2019",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Kaneva de Araujo Santos",
+                "titulo": "Estágio profissional supervisionado na Fundação Pau Brasil",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "RICARDO HENRIQUE OLIVEIRA DA CONCEIÇÃO",
+                "titulo": "Estágio profissional supervisionado na Prefeitura de Ilhéus",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "SAMUEL CORREIA NASCIMENTO",
+                "titulo": "Estágio profissional supervisionado no IFBA Campus Ilhéus",
+                "ano": "2018",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Joana Bleza Cunha Alves",
+                "titulo": "Estágio profissional supervisionado na Secretaria de Educação de Ilhéus",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Luan Souza Coelho",
+                "titulo": "Estágio profissional supervisionado na Rota Transportes",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "JHEIMYS VITOR SOUZA E SOUZA",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "GUARABIRA GRAÇA DIAS",
+                "titulo": "Orientação de estágio supervisionado",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "MATHEUS DOS SANTOS",
+                "titulo": "Orientação de estágio supervisionado na Prefeitura de Ilhéus",
+                "ano": "2017",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Heitor da Silva Santos",
+                "titulo": "DESENVOLVIMENTO DE UM APLICATIVO PARA SMARTPHONE INTITULADO ?BANCO DE REMÉDIOS?",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Carina Lopes Gama",
+                "titulo": "Estágio profissional supervisionado na Prefeitura Municipal de Ilhéus",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Matheus Sousa Silva",
+                "titulo": "Aplicativo Android para controle e liberação de chaves do IFBA Campus Ilhéus",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Vanessa de Paiva Silva",
+                "titulo": "Estágio profissional supervisionado na empresa Daten Tecnologia",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Matheus Sousa Silva",
+                "titulo": "Estágio profissional supervisionado no setor CGTI do IFBA Campus Ilhéus",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Wanessa Oliveira Barreto",
+                "titulo": "Estágio profissional supervisionado na empresa Intellisys",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Gessiane Campos Santana",
+                "titulo": "Estágio profissional supervisionado no setor CGTI do IFBA Campus Ilhéus",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Jheimys Vitor Souza e Souza, José Carlos da Silva Adão",
+                "titulo": "Projeto de iniciação a aprendizagem (PINA) com o tema",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Marcos Antonio Farias Costa",
+                "titulo": "Estágio profissional supervisionado realizado na Infraero Ilhéus",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Ariel Narciso de Sousa Leal",
+                "titulo": "Estágio profissional supervisionado no setor de TI do IFBA Campus Ilhéus",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Thaiana Batista Montalvao dos Santos",
+                "titulo": "Estágio profissional supervisionado na Daten Tecnologia",
+                "ano": "2016",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Maria Luíza Teixeira Santos",
+                "titulo": "Estágio supervisionado na Prefeitura Municipal de Itabuna",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Luiza de Souza Fontes",
+                "titulo": "Estágio supervisionado na Prefeitura Municipal de Itabuna",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Matheus Alves da Cruz",
+                "titulo": "Estágio supervisionado no setor de TI do IFBA Campus Ilhéus",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Lucimara da Silva Santos",
+                "titulo": "Estágio supervisionado no setor de TI do IFBA Campus Ilhéus",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Roger de Jesus Santos",
+                "titulo": "Estágio supervisionado na Home Tech Comercio e Industria LTDA",
+                "ano": "2015",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Almir Souza Ribeiro da Silva",
+                "titulo": "Sistema de gestão informatizada da Tenda do Teatro Popular de Ilhéus",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Marcos Dapena Gesteira",
+                "titulo": "Sistema de gestão ONG caso do obeso",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            },
+            {
+                "orientando": "Mariana Lopes Santos Silva",
+                "titulo": "Aplicação móvel na plataforma Android para área turística da cidade de Ilhéus ? BA",
+                "ano": "2014",
+                "curso": "Técnico em Informática",
+                "instituicao": "Instituto Federal da Bahia - Campus Ilhéus"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.0630132406949997,
+            "indian": 0.14316171407699585,
+            "black": 0.013180119916796684,
+            "white": 82.88611602783203,
+            "middle eastern": 7.820018768310547,
+            "latino hispanic": 9.074509620666504
+        }
+    }
+}

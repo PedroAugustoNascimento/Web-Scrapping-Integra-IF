@@ -36,16 +36,6 @@
         ],
         "atuacoes_profissionais": [
             {
-                "empresa": "Revista Técnico-Científica (IFSC)",
-                "periodo": "2013",
-                "cargo": ", Membro de corpo editorial, Segundo Portaria 006 de 03 de janeiro de 2013.."
-            },
-            {
-                "empresa": "Faculdade de Engenharia da Universidade do Porto",
-                "periodo": "2014 - 2015",
-                "cargo": "Pesquisador, Estágio Pós-Doutoral - Faculdade de Engenharia Electrotécnica e de Computadores (FEUP)."
-            },
-            {
                 "empresa": "Id7 Internet Design e Multimídia Ltda",
                 "periodo": "2004 - 2005",
                 "cargo": "Desenvolvedor, Estágio, Desenvolvedor de Web sites e aplicações em PHP."
@@ -91,6 +81,16 @@
                 "cargo": "Professor, Pesquisador Visitante."
             },
             {
+                "empresa": "Revista Técnico-Científica (IFSC)",
+                "periodo": "2013",
+                "cargo": ", Membro de corpo editorial, Segundo Portaria 006 de 03 de janeiro de 2013.."
+            },
+            {
+                "empresa": "Faculdade de Engenharia da Universidade do Porto",
+                "periodo": "2014 - 2015",
+                "cargo": "Pesquisador, Estágio Pós-Doutoral - Faculdade de Engenharia Electrotécnica e de Computadores (FEUP)."
+            },
+            {
                 "empresa": "International Journal of Wireless Information Networks",
                 "periodo": "2014",
                 "cargo": ", Revisor de periódico."
@@ -121,8 +121,8 @@
                 "periodo": "2007 - 2009",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Fabian Luis Vargas",
-                    "Tiago Semprebom"
+                    "Tiago Semprebom",
+                    "Fabian Luis Vargas"
                 ],
                 "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
             },
@@ -155,8 +155,8 @@
                 "periodo": "2013 - 2014",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Tiago Semprebom",
                     "Eraldo Silveira e Silva",
+                    "Tiago Semprebom",
                     "Pedro Armando da Silva Jr"
                 ],
                 "financiador": "Instituto Federal de Santa Catarina,"

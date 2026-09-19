@@ -1,0 +1,79 @@
+{
+    "campus": "- Campus Recanto das Emas",
+    "instituto": "IFB",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Graduação",
+                "curso": "Jogos Digitais",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2018,
+                "ano_fim": 2021
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação e Tecnologia do Rio",
+                "ano_inicio": 2020,
+                "ano_fim": 2021,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE BRASILIA",
+                "ano_inicio": 2025,
+                "ano_fim": null,
+                "funcao": "Professor de Ensino Básico Técnico",
+                "vinculo": "Servidor público",
+                "descricao": "PORTARIA No 3.838/REITORIA/IFB, DE 22 DE AGOSTO DE 2025"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação e Tecnologia do Rio",
+                "nome": "PLATAFORMA DE JOGO EDUCACIONAL COM DADOS GERADOS DINAMICAMENTE",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Clara Cordeiro Alonso Dobarro",
+                    "Gabriel Montoto Dutra",
+                    "Jose Ricardo Da Silva Junior"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.11080555617809296,
+            "indian": 0.018362535163760185,
+            "black": 0.0011391367297619581,
+            "white": 92.06472778320312,
+            "middle eastern": 3.032987356185913,
+            "latino hispanic": 4.771977424621582
+        }
+    }
+}

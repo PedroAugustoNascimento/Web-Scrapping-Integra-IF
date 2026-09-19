@@ -1,0 +1,750 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia e Gestão do Conhecimento",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "DIRETRIZES PARA DESENVOLVIMENTO DE ÍCONES DIGITAIS ACESSÍVEIS AO PÚBLICO SURDO",
+                "orientador": "Tarcísio Vanzin",
+                "ano_inicio": 2013,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Design e Expressão Gráfica",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Como o site do ambiente de letras libras à distância está utilizando os conceitos de usabilidade",
+                "orientador": "Alice Theresinha Cybis Pereira",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Desenvolvimento de Software para Web",
+                "instituicao": "Universidade do Vale do Itajaí",
+                "orientador": "Não possui monografia",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Sistema Barddal de Ensino",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Sistema Barddal de Ensino",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Educacional",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Tribunal Regional Eleitoral",
+                "ano_inicio": 2004,
+                "ano_fim": 2004,
+                "funcao": "Analista de Sistema",
+                "vinculo": "Contratação Temporária",
+                "descricao": "Atuação nas áreas de informática enfocando o atendimento a funcionários e às Zonas eleitorais. Suporte aos Softwares Instalados nas Zonas eleitorais e no TRE (Windows NT, Cand Convoc, Título On-line, Ghost, Oracle e outros). Suporte às urnas eletrônicas e aos mesários (Help desk)"
+            },
+            {
+                "empresa": "Sigma",
+                "ano_inicio": 2004,
+                "ano_fim": 2006,
+                "funcao": "Analista de suporte",
+                "vinculo": "Suporte técnico Help Desk",
+                "descricao": "Atuação nas áreas de informática enfocando o atendimento ao cliente via telefone e e-mail. Suporte aos Softwares desenvolvido na empresa (Projuris 5 e 7) Suporte a banco de dados (Interbase, Mysql, Paradox)"
+            },
+            {
+                "empresa": "Datacontrol",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Professor",
+                "vinculo": "Aulas de informática",
+                "descricao": ""
+            },
+            {
+                "empresa": "Caixa Econômica Federal de Tocantins",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "Analista desenvolvedor",
+                "vinculo": "Terceirizado",
+                "descricao": "Manutenção e desenvolvimento aos Softwares (PHP, ASP e XML); Futura migração da linguagem PHP para Java. Banco de dados PostgreSQL, MySQL e SQL. WEB design / design Teste em usabilidade"
+            },
+            {
+                "empresa": "Data 3D",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Instrutor",
+                "descricao": "Professor de WEB Design"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor Substituto",
+                "descricao": "Professor de introdução a ciências da computação"
+            },
+            {
+                "empresa": "Faculdade de Tecnologia SENAC Florianópolis",
+                "ano_inicio": 2009,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Celetista formal",
+                "descricao": "Curso em atuação TGTI e EAD Disciplinas Algoritmo, Plano de Negocio, SIG"
+            },
+            {
+                "empresa": "Horizonte",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Temporário",
+                "vinculo": "Professor temporário da ong Horizonte Florianópolis. Ministrante do curso de capacitação há funcionários ou voluntários dos Telecentros de Santa Catarina. O curso oferece: sustentabilidade",
+                "descricao": "criação de projetos e/ou gestão de projetos, e informática"
+            },
+            {
+                "empresa": "Faculdade SATC",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Professor",
+                "vinculo": "Celetista formal",
+                "descricao": "Professor WEB Design: Usabilidade para WEB Desenvolvimento de Projetos para WEB Ferramentas de criação da WEB Sites"
+            },
+            {
+                "empresa": "Universidade Bandeirante de São Paulo",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Professor",
+                "vinculo": "Celetista formal",
+                "descricao": "Professor do Curso de Publicidade e propaganda e Serviço social"
+            },
+            {
+                "empresa": "Faculdade Borges de Mendonça",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Professor",
+                "vinculo": "Celetista formal",
+                "descricao": "Professor de Sistemas de Informações Gerenciais"
+            },
+            {
+                "empresa": "Associação de Ensino de Santa Catarina",
+                "ano_inicio": 2012,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Professor das Disciplinas: -Sistemas de Informação; -Design de Informação"
+            },
+            {
+                "empresa": "Universidade Estácio de Sá",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Sul de Santa Catarina",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Professor do curso de Publicidade e Propaganda e Jornalismo.Disciplinas:Produções Visuais Gráficas e Discursos e Comunicação"
+            },
+            {
+                "empresa": "Universidade do Sul de Santa Catarina",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Professor dos cursos de Design e Sistemas de Informação;Disciplinas ministras: Ergonomia de Interfaces e Usabilidade; Arquitetura e Design de Informação; Ferramentas Linguagens Digitais (HTML5",
+                "descricao": "CSS3 Design Responsivo); Design de Interfaces Interação (UX Design de interação, UI);Governança e serviços de TI;Arquiteturas empresariais;Modelagem de Software;Projetos integrados: Interfaces do futuro;Dentre Outras"
+            },
+            {
+                "empresa": "Centro Universitário Municipal de São José",
+                "ano_inicio": 2020,
+                "ano_fim": 2022,
+                "funcao": "Professor Subistituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário Municipal de São José",
+                "ano_inicio": 2014,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário Municipal de São José",
+                "ano_inicio": 2014,
+                "ano_fim": 2017,
+                "funcao": "Coordenador",
+                "vinculo": "Servidor público",
+                "descricao": "Criou o curso Tecnólogo em Analise e Desenvolvimento de Sistemas Coordenador do curso Tecnólogo em Analise e Desenvolvimento de Sistemas"
+            },
+            {
+                "empresa": "Centro Universitário Municipal de São José",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Professor de informática básica curso de Ciências Contábeis"
+            },
+            {
+                "empresa": "Faculdade Estácio Florianópolis",
+                "ano_inicio": 2012,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "Professor",
+                "vinculo": "Professor de várias Disciplinas",
+                "descricao": "Empreendedorismo, Lógica, Qualidade de Software, Segurança da Informação, IHC, Usabilidade, UX e UI, Design e UX, Qualidade de Software"
+            },
+            {
+                "empresa": "Secretária de Administração de Santa Cataria",
+                "ano_inicio": 2021,
+                "ano_fim": 2023,
+                "funcao": "Analista de UX",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado de Santa Catarina",
+                "ano_inicio": 2025,
+                "ano_fim": 2026,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": "Atuei como professor Substituto e como Design Instrucional"
+            }
+        ],
+        "direcao_administracao": ": Faculdade de Tecnologia SENAC Florianópolis\nFaculdade de Tecnologia SENAC Florianópolis - SC - BRA (2011 - 2011) : Coordenador De Curso Tgti.\nDepartamento de Ciências Sociais Aplicadas (2017): Design e inovação, Design em Acessibilidade, Ergonomia Informacional, Usabilidade para WEB,",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2018 - 2019) - Gestão Da Tecnologia Da Informação.\nTreinamento Ministrado: Horizonte\nHorizonte - Sc - Bra (2009 - 2009) - Horizonte - Sc - Bra - Temporário.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Educação Inclusiva: Ambiente Web acessível com Objetos de Aprendizagem para Representação Gráfica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Armando Cardoso Ribas",
+                    "Alice Theresinha Cybis Pereira",
+                    "Tarcísio Vanzin",
+                    "Vania Ribas Ulbricht",
+                    "Ana Lucia Alexandre De Oliveira Zandomeneghi",
+                    "Angela Flores",
+                    "Marília Matos Gonçalves"
+                ],
+                "financiador": "CAPES - Centro Anhanguera de Promoção e Educação Social,",
+                "ano_inicio": 2009,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "nome": "Ambientes Vrtuais enfocando Usabilidade",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Armando Cardoso Ribas",
+                    "Berenice Santos Gonçalves",
+                    "Alice Theresinha Cybis Pereira"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2010
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CORREA",
+                    "software": "A. C.,  RIBAS, Armando Cardoso,  MEES",
+                    "ano": "2010",
+                    "finalidade": "Avaliação de nível superior."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  SR CONEX",
+                    "ano": "2008",
+                    "finalidade": "Organização das informações e periféricos da Caixa Econômica Federal (CAIXA)."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  Chamados",
+                    "ano": "2007",
+                    "finalidade": "Organizar e registrar Chamados da Caixa Econômica Federal (CAIXA)."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso, Consultoria em Plano DE Negócio",
+                    "ano": "2010",
+                    "finalidade": "Consultoria."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso, wwwt engenharia",
+                    "ano": "2008",
+                    "finalidade": "divulvação."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso, Consultoria em Design digital",
+                    "ano": "2008",
+                    "finalidade": "Consultoria em Design digital."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso, Paraiso das Ostras",
+                    "ano": "2006",
+                    "finalidade": "Divolgação do produto."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  Assessoria Empresa R2INFRA",
+                    "ano": "2012",
+                    "finalidade": "Assessoria de planejamento da Empresa e da Logo."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  Consultoria",
+                    "ano": "2012",
+                    "finalidade": "Consultória para a criação da Logo da empresa."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  Pós-Graduação SENAC",
+                    "ano": "2012",
+                    "finalidade": "Educacional."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  Vicente Bauer Neto",
+                    "ano": "2011",
+                    "finalidade": "Consultoria em Informática e Plano de Negocio."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  Gerenciamento de projetos",
+                    "ano": "2010",
+                    "finalidade": "Gerenciamento de projetos."
+                },
+                {
+                    "autor": "RIBAS",
+                    "software": "Armando Cardoso,  CORREA, A. C.,  MEES",
+                    "ano": "2010",
+                    "finalidade": "Sistema para Avaliação de cursos de educação Superior."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  ULBRICHT, V. R.,  VANZIN, T.,  DESIGN RESPONSIVO E ACESSIBILIDADE PARA DISPOSITIVOS MÓVEIS: UMA REVISÃO SISTEMÁTICA DE LITERATURA",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade Federal de Pernambuco."
+                },
+                {
+                    "autores": "BERG",
+                    "titulo": "C.,  RIBAS, Armando Cardoso,  ULBRICHT, V. R.,  VANZIN, T.,  Usability Teste: A Evaluation framework for the inclusive learning management system WEBGD",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade da Região de Joinville (UNIVILLE)."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  VANZIN, T.,  PEREIRA, A. T. C.,  A importância do design da informação na educação e aprendizado do público surdo na web",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade da Região de Joinville (UNIVILLE)."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  A Importância das Tecnologias e da Acessibilidade para Usuários Surdos na WEB",
+                    "ano": "2012",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "FLORES",
+                    "titulo": "A.,  RIBAS, Armando Cardoso,  ULBRICHT, V. R.,  VANZIN, T.,  Habitação da Terceira Idade: Considerando os Aspectos Afetivos dos Idosos",
+                    "ano": "2010",
+                    "instituicao_promotora": "PucRJ."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  AVALIAÇÃO DA USABILIDADE DO AMBIENTE VIRTUAL DE ENSINO-APRENDIZAGEM DO CURSO LETRASLIBRAS ENFOCANDO A CULTURA SURDA E QUAIS TECNOLOGIAS SÃO ADEQUADAS PARA O DESENVOLVIMENTO DA EDUCAÇÃO A DISTANCIA PARA O PÚBLICO SURDO",
+                    "ano": "2010",
+                    "instituicao_promotora": "Universidade Federal de Pelotas."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  PEREIRA, A. T. C.,  Usabilidade e os critérios de avaliação para ambiente virtual de ensino-aprendizagem do Curso Letras Libras enfocando a cultura surda",
+                    "ano": "2009",
+                    "instituicao_promotora": "UFPR."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  PEREIRA, A. T. C.,  Hipermídia no enfoque da cultura surda",
+                    "ano": "2009",
+                    "instituicao_promotora": "UFSC."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  PEREIRA, A. T. C.,  Avaliação de interface: AVA - LIBRAS",
+                    "ano": "2008",
+                    "instituicao_promotora": "UFSC."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  PEREIRA, A. T. C.,  A INTERFACE DO AMBIENTE VIRTUAL DE ENSINO-APRENDIZAGEM DO CURSO LETRASLIBRAS SEGUNDO AS CARACTERÍSTICAS DA CULTURA SURDA E OS CRITÉRIOS DE USABILIDADE",
+                    "ano": "2008",
+                    "instituicao_promotora": "CEFET."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  Gonçalves S. B.,  LIMA, M.,  SHIRAIWA, J.,  Análise do ambiente de aprendizado AVA - AD",
+                    "ano": "2007",
+                    "instituicao_promotora": "sbdi."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  Portal de Informação Wireless",
+                    "ano": "2003",
+                    "instituicao_promotora": "Barddal University."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  Sistema de Informação Wirelless - WAP",
+                    "ano": "2003",
+                    "instituicao_promotora": "Universidade Federal de Santa Catarina."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  REGINA, Tatiana,  MIRANDA, Fernada,  DUARTE, Plinio,  EV - Estação Virtual - Sistema de Consulta às Linhas de Transporte",
+                    "ano": "2002",
+                    "instituicao_promotora": "Faculdade Barddal."
+                },
+                {
+                    "autores": "RIBAS",
+                    "titulo": "Armando Cardoso,  REGINA, Tatiana,  MIRANDA, Fernada,  DUARTE, Plinio,  EV -Estação Virtual - Sistemas de Consulta às Linhas de Transporte Coletivo",
+                    "ano": "2002",
+                    "instituicao_promotora": "UNIRONDOn."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "RIBAS",
+                    "curso": "Armando Cardoso,  Importância da Acessibilidade e Usabilidade para WEB",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "RIBAS",
+                    "curso": "Armando Cardoso,  Sustentabilidade para o Terceiro Setor",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "RIBAS",
+                    "curso": "Armando Cardoso,  WEB Design",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "PEREIRA",
+                    "evento": "A. T. C.,  FLORES, A.,  RIBAS, Armando Cardoso,  BERG, C.,  ULBRICHT, V. R.,  VANZIN, Tarcísio,  QUEVEDO, S. R. P. Q.,  FADEL, L. M.,  16° Ergodesign ? Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Tecnológica: Produto, Informações Ambientes Construídos e Transporte, o 16° USIHC ? Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Computador e o CINAHPA | 2017 ? Congresso Internacional de Ambientes Hipermídia para Aprendizagem",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFSC."
+                },
+                {
+                    "autores": "RIBAS",
+                    "evento": "Armando Cardoso,  CONAHPA 2009",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal de Santa Catarina."
+                },
+                {
+                    "autores": "RIBAS",
+                    "evento": "Armando Cardoso,  CONAHPA",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFSC."
+                },
+                {
+                    "autores": "RIBAS",
+                    "evento": "Armando Cardoso,  CONAHPA",
+                    "ano": "2004",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "UFSC."
+                },
+                {
+                    "autores": "RIBAS",
+                    "evento": "Armando Cardoso,  I2TS'2003",
+                    "ano": "2003",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Faculdade Barddal."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "USABILIDADE NA WEB: UMA AVALIAÇÃO",
+                "ano": "2025",
+                "informacoes_adicionais": "Varios. ISBN: 9786501692, Portugal (Publicado)."
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "Design Responsivo uma Revisão",
+                "ano": "2021",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786500185188, Espanha (Publicado)."
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "ULBRICHT, V. R.;  VANZIN, T.;  FADEL, L. M.;  Design, User Experience, and Usability Design Thinking and Methods. Título do capítulo: Accessible Icons for Deaf: An UX Approach",
+                "ano": "2016",
+                "informacoes_adicionais": "ISBN: 9783319404080, Berkeley,."
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "SAITO, D. S.;  PIVETTA, E. M.;  Conceitos e práticas em ambiente virtual de aprendizagem inclusivo. Título do capítulo: Avaliação de acessibilidade web com ênfase na cultura dos surdos",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9788566832068, São Paulo."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "ZANDOMENEGHI, A. L. A. O.;  VANZIN, T.;  ULBRICHT, V. R.;  Importância do Design da Informação na WEB",
+                "ano": "2010",
+                "periodico": "Culturas Midiáticas. ISBN: 19835930   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "VANZIN, Tarcísio; FADEL, L",
+                "evento": "M.; ULBRICHT",
+                "local": "V. R.; Avaliação de elementos visuais icônicos que atendam a usuários surdos nas interfaces digitais. 16° Ergodesign ? Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Tecnológica: Produto, Informações Ambientes Construídos e Transporte, 16° USIHC ? Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Computador e, Florianópolis, Santa Catarina,",
+                "ano": "2017"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "ULBRICHT, V",
+                "evento": "R.; VANZIN",
+                "local": "T.; DESIGN RESPONSIVO E ACESSIBILIDADE PARA DISPOSITIVOS MÓVEIS: UMA REVISÃO SISTEMÁTICA DE LITERATURA. 15º ERGODESIGN - Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano-tecnologia I 15º USIHC - Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano-computador, Recife",
+                "ano": "2015"
+            },
+            {
+                "autores": "BERG, C.",
+                "titulo": "RIBAS, Armando Cardoso; ULBRICHT, V",
+                "evento": "R.; VANZIN",
+                "local": "T.; Usability Teste: A Evaluation framework for the inclusive learning management system WEBGD. 14o CONGRESSO INTERNACIONAL DE ERGONOMIA E USABILIDADE DE INTERFACES HUMANO-TECNOLOGIA: PRODUTO, INFORMAÇÕES, AMBIENTE CONSTRUÍDO E TRANSPORTE, Joinville",
+                "ano": "2014"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "VANZIN, T",
+                "evento": "; PEREIRA",
+                "local": "A. T. C.; ?A importância do design da informação na educação e aprendizado do público surdo na web. 14o CONGRESSO INTERNACIONAL DE ERGONOMIA E USABILIDADE DE INTERFACES HUMANO-TECNOLOGIA: PRODUTO, INFORMAÇÕES, AMBIENTE CONSTRUÍDO E TRANSPORTE, Joinville",
+                "ano": "2014"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "A Importância das Tecnologias e da Acessibilidade para Usuários Surdos na WEB",
+                "evento": "II Fórum Mundial de Educação Profissional e Tecnológica",
+                "local": "Florianópolis",
+                "ano": "2012"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "ULBRICHT, V",
+                "evento": "R.; VANZIN",
+                "local": "T.; Gonçalves; FLORES, A.; AMARAL, M. A.; A CRIATIVIDADE E AS NARRATIVAS HIPERMIDIÁTICAS. I CONGRESSO INTERNACIONAL DE CRIATIVIDADE E INOVAÇÃO, Manaus",
+                "ano": "2011"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "SILVA, C",
+                "evento": "H.; Das Cavernas para o universo digital:brave história do Design da Informação e principais impactos no cotodiano da Humanidade. CIDI Congresso Internacional de DESIGN DA INFORMAÇÃO e 4 InfoDesign Brasil",
+                "local": "Florianópolis",
+                "ano": "2011"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "A IMPORTÂNCIA DA SEMIÓTICA NA EDUCAÇÃO E O APRENDIZADO DO PÚBLICO SURDO NA WEB",
+                "evento": "V Simpósio ABCiber 2011",
+                "local": "Florianópolis",
+                "ano": "2011"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "OBREGON, R",
+                "evento": "F. A.; RIBAS",
+                "local": "L.; Inteligências Múltiplas e Criatividade: relações estimulantes na Educação Infantil. V Simpósio ABCiber 2011, Florianópolis",
+                "ano": "2011"
+            },
+            {
+                "autores": "FLORES, A.",
+                "titulo": "RIBAS, Armando Cardoso; ULBRICHT, V",
+                "evento": "R.; VANZIN",
+                "local": "T.; Habitação da Terceira Idade: Considerando os Aspectos Afetivos dos Idosos. Ergodesign - Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano-Tecnologia: Produto, Informação, Ambiente Construído, Transporte, 2010, Rio de Janeiro, Rio de Janeiro",
+                "ano": "2010"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "AVALIAÇÃO DA USABILIDADE DO AMBIENTE VIRTUAL DE ENSINO-APRENDIZAGEM DO CURSO LETRASLIBRAS ENFOCANDO A CULTURA SURDA E QUAIS TECNOLOGIAS SÃO ADEQUADAS PARA O DESENVOLVIMENTO DA EDUCAÇÃO A DISTANCIA PARA O PÚBLICO SURDO",
+                "evento": "1º CIED/UFPEL",
+                "local": "Pelotas",
+                "ano": "2010"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "RIBAS, L",
+                "evento": "; As inteligências múltiplas e a criatividade na educação: Uma experiência na Educação Infantil. Congresso de Educação Cariri",
+                "local": "Juaziro do Norte CE",
+                "ano": "2009"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "PEREIRA, A",
+                "evento": "T. C.; Hipermídia no enfoque da cultura surda. CONAHPA 4º",
+                "local": "Florianópolis",
+                "ano": "2009"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "PEREIRA, A",
+                "evento": "T. C.; Usabilidade e os critérios de avaliação para ambiente virtual de ensino-aprendizagem do Curso Letras Libras enfocando a cultura surda. 9º Congresso internacional de Ergonomia e Usabilidade de Interfaces Humano-Computador",
+                "local": "Curitiba",
+                "ano": "2009"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "SCHROEDER, M",
+                "evento": "; Gonçalves S. B.; Avaliação de interface: AVA - LIBRAS. Conahpa",
+                "local": "São paulo",
+                "ano": "2008"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "SHIRAIWA, J",
+                "evento": "; LIMA",
+                "local": "M.; VIEIRA, C.; TRISKA, R.; Análise do Ambiente de aprendizado AVA - AD no contexto do PósDesign UFSC. 3º Congresso Internacional de Design da Informação | 2º InfoDesign Brasil, 2007, Curitiba",
+                "ano": "2007"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "Sistema de Informação Via Wirelles - WAP",
+                "evento": "International Information Technology Symposium",
+                "local": "Florianópolis",
+                "ano": "2003"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "MIRANDA, Fernada; VIDAL, Jaiciele Buss; DUARTE, Plinio; REGINA, Tatiana; Sistema de Consulta às Linhas de Transporte Coletivo",
+                "evento": "International Information Technology Symposium",
+                "local": "Florianópolis",
+                "ano": "2002"
+            },
+            {
+                "autores": "RIBAS, Armando Cardoso",
+                "titulo": "DUARTE, Plínio P; MIRANDA, Fernada; REGIAN, Tatiana; VIDAL, Jaiciele Buss; Sistema de Consulta às Linhas de Transporte Coletivo",
+                "evento": "IT Conference Sucesu - MT",
+                "local": "Cuiabá",
+                "ano": "2002"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Yasmin de S C Marcaccini",
+                "titulo": "Redesign de Identidade Visual de Marca para Empresa Mítica Presente",
+                "ano": "2019",
+                "curso": "Design",
+                "instituicao": "Universidade do Sul de Santa Catarina"
+            },
+            {
+                "orientando": "GIULIANA LAMBERT SLONGO",
+                "titulo": "Melhorando a Interação da Interface do Site da Previdência Social Para a Terceira Idade",
+                "ano": "2017",
+                "curso": "Design",
+                "instituicao": "Universidade do Sul de Santa Catarina"
+            },
+            {
+                "orientando": "Alexandre Paulo Caetano de Souza",
+                "titulo": "Ferramenta virtual para auxilio na detecção de problemas de visão em crianças",
+                "ano": "2014",
+                "curso": "Design",
+                "instituicao": "Universidade do Sul de Santa Catarina"
+            },
+            {
+                "orientando": "Armando Cardoso Ribas",
+                "titulo": "Transporte coletivo com GPS",
+                "ano": "2012",
+                "curso": "Talento Profissional Seanc",
+                "instituicao": "Faculdade SENAC Florianópolis"
+            },
+            {
+                "orientando": "Armando Cardoso Ribas",
+                "titulo": "Porta de Musica apra WEB",
+                "ano": "2010",
+                "curso": "TGTI",
+                "instituicao": "Faculdade SENAC Florianópolis"
+            },
+            {
+                "orientando": "Armando Cardoso Ribas",
+                "titulo": "DigiGuard",
+                "ano": "2010",
+                "curso": "TGTI",
+                "instituicao": "Faculdade SENAC Florianópolis"
+            },
+            {
+                "orientando": "Armando Cardoso Ribas",
+                "titulo": "Equilibrium Consultoria em TIC",
+                "ano": "2010",
+                "curso": "TGTI",
+                "instituicao": "Faculdade SENAC Florianópolis"
+            },
+            {
+                "orientando": "Armando Cardoso Ribas",
+                "titulo": "MADITH",
+                "ano": "2010",
+                "curso": "TGTI",
+                "instituicao": "Faculdade SENAC Florianópolis"
+            },
+            {
+                "orientando": "Armando Cardoso Ribas",
+                "titulo": "Plano de negócio BYTECH",
+                "ano": "2010",
+                "curso": "TGTI",
+                "instituicao": "Faculdade SENAC Florianópolis"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 6.055403709411621,
+            "indian": 6.115268707275391,
+            "black": 1.8586084842681885,
+            "white": 34.40789031982422,
+            "middle eastern": 21.37144660949707,
+            "latino hispanic": 30.19138526916504
+        }
+    }
+}

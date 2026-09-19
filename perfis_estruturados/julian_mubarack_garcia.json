@@ -1,0 +1,415 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Investigação sobre aplicação de métodos formais para a consistência de modelos",
+                "orientador": "Adolfo Duran",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "titulo": "O Desenvolvimento do Pensamento Computacional na Perspectiva dos Fundamentos Teóricos de Aprendizagem: Um Estudo Sistemático da Literatura",
+                "orientador": "Roberto Almeida Bittencourt",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Metodologia do Ensino Superior",
+                "instituicao": "Faculdade Batista Brasileira",
+                "orientador": "Iracema dos Santos Lemos",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Salvador",
+                "ano_inicio": 1991,
+                "ano_fim": 1995
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "BYTE Informática",
+                "ano_inicio": 1987,
+                "ano_fim": 1992,
+                "funcao": "Instrutor",
+                "vinculo": "Celetista formal",
+                "descricao": "Comecei como estagiário em monitoria da linguagem Advanced Basic, planilhas Lotus 1-2-3 e SuperCalc 3, editores de texto Wordstar e Word, e banco de dados dBase II e dBase III plus (1987 a 1988). Ministrei aulas das mesmas tecnologias com as quais exerci a monitoria (1989 a 1992). Proferi palestras sobre computação gráfica"
+            },
+            {
+                "empresa": "Empreendimentos Educacionais Aplicação Ltda",
+                "ano_inicio": 1992,
+                "ano_fim": 1992,
+                "funcao": "Instrutor",
+                "vinculo": "Celetista formal",
+                "descricao": "Desenvolvi um software para controle acadêmico-administrativo em Clipper e fui professor de informática das séries sétima e oitava do ensino fundamental"
+            },
+            {
+                "empresa": "Colégio Apoio ltda",
+                "ano_inicio": 1996,
+                "ano_fim": 1997,
+                "funcao": "Programador",
+                "vinculo": "Celetista formal",
+                "descricao": "Analisei e desenvolvi um software em Access com Visual Basic for Applications (VBA) para controle acadêmico-administrativo"
+            },
+            {
+                "empresa": "Engenharia e Teleinformática Ltda",
+                "ano_inicio": 1997,
+                "ano_fim": 2003,
+                "funcao": "Analista de Sistemas I",
+                "vinculo": "Celetista formal",
+                "descricao": "Na Companhia de Processamento de Dados da Bahia (PRODEB), atuei para a Secretaria de Administração do Estado da Bahia (SAEB) na equipe do projeto do Redesenho do Sistema de Recursos Humanos do Estado - SRH, fazendo sua especificação procedimental e modelagem de dados, documentando com fundamento na Análise Essencial e customizando o projeto através da Análise por Ponto de Função ? FPA. Estive também à frente do projeto para controle da Emissão de Documentos Oficiais do Estado - SEDDO Web, utilizando tecnologias HTML, ASP, Com+ e SQL-Server. Na SEFAZ-Ba atuei nos projetos CFAMT para o Controle Fiscal de Mercadorias em Trânsito, no SIST para gerir informações sobre o contribuinte substituto tributário e no ECF para gerir informações sobre os Equipamentos de Emissão de Cupons Fiscais na Bahia. Sistemas desenvolvidos para a plataforma cliente-servidor, tendo o VB e o SQL-Server como tecnologias dominantes"
+            },
+            {
+                "empresa": "Potenza Consultoria e Tecnologia Ltda",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Analista de Sistemas (nível 04)",
+                "vinculo": "Celetista formal",
+                "descricao": "No Departamento de Tecnologia de Informação (DTI) da Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) atuei na equipe de fiscalização, sendo o responsável pelos projetos INC, que consolida diversas informações dos contribuintes e que engloba os módulos inspetoria e fiscal, e pelo SENF que permite a emissão de notas fiscais avulsas, funcionando na rede corporativa e intranet. Os projetos foram acompanhados em todas as fases do seu ciclo, abrangendo a especificação, pontuação documentação e a gestão do tempo. Foram utilizadas tecnologias WEB (HTML/ASP/Java Script), MS-Project, Análise por Pontos por Função (FPA), Engenharia de Software Assistida por Computador (CASE-System Architect) e Visual Basic sob a arquitetura cliente-servidor do SQL-Server e Ms-Access"
+            },
+            {
+                "empresa": "Mubarack Consultoria Ltda.",
+                "ano_inicio": 2003,
+                "ano_fim": 2004,
+                "funcao": "Proprietário - sócio",
+                "vinculo": "Sócio diretor",
+                "descricao": "Pelo contrato da Stefanini IT Solutions, atuei como gerente de projetos na TI Bahia Norte da Petrobras-Petróleo Brasileiro S/A, acompanhando projetos de software desde a etapa de concepção do produto até a distribuição para produção, através do método PERT/CPM, utilizando uma aplicação proprietária/específica para gestão de projetos da Petrobrás, o GPS, integrado ao MS-Project, para alocação de recursos, tempos e custos de projetos. A engenharia de sistemas foi elaborada atraves da ferramenta CASE System Architect, e o controle de versoes de software atraves do IBM Rational ClearCase. Os projetos sob minha responsabilidade eram o SISPREV, para gestão das previsões financeiras das corporações da empresa e seu histórico, alimentando o sistema gerencial da Petrobrás - SIGER, e o Sistema SID, com diversos indicadores da empresa, ambos de âmbito internacional. Desenvolvidos para o ambiente WEB, via internet corporativa, nas plataformas Oracle e ASP, através da Fábrica de Software da Stefanni IT Solutions"
+            },
+            {
+                "empresa": "Politec Global IT Services",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Analista Sênior",
+                "vinculo": "Celetista formal",
+                "descricao": "No Departamento de Tecnologia de Informação (DTI) da Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) atuei na equipe de fiscalização, sendo o responsável pelos projetos INC, que consolida diversas informações dos contribuintes e que engloba os módulos inspetoria e fiscal, e pelo SENF que permite a emissão de notas fiscais avulsas, funcionando na rede corporativa e intranet. Participei do processo de migração dos sistemas devido a nova versão do sistema gerenciador da base de dados e do editor de relatórios Crystal Reports. Os projetos foram acompanhados em todas as fases do seu ciclo, abrangendo a especificação, pontuação documentação e a gestão do tempo. Foram utilizadas tecnologias WEB (HTML/ASP/Java Script), MS-Project, Análise por Pontos por Função (FPA), Engenharia de Software Assistida por Computador (CASE-System Architect) e Visual Basic sob a arquitetura cliente-servidor do SQL-Server e Ms-Access"
+            },
+            {
+                "empresa": "Faculdades Integradas Olga Mettig",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Professor",
+                "vinculo": "Ministrou o componente Elementos de Lógica de Programação",
+                "descricao": "no curso de Especialização em Projetos Educacionais e Informática. No mesmo curso também ministrou os componentes de Análise de Sistemas e Modelagem de Banco de Dados, . desde 1997"
+            },
+            {
+                "empresa": "Faculdades Integradas Olga Mettig",
+                "ano_inicio": 2000,
+                "ano_fim": 2000,
+                "funcao": "Professor",
+                "vinculo": "Ministrou o componente Elementos de Lógica de Programação",
+                "descricao": "no curso de Especialização em Projetos Educacionais e Informática. No mesmo curso também ministrou os componentes de Análise de Sistemas e Modelagem de Banco de Dados, desde 1997"
+            },
+            {
+                "empresa": "Kylix Comércio de Bebidas Ltda",
+                "ano_inicio": 2004,
+                "ano_fim": 2009,
+                "funcao": "Diretor",
+                "vinculo": "Sócio-Diretor",
+                "descricao": "Fui o responsável administrativo, financeiro e da especialização do estabelecimento no segmento de vinhos finos. Designer de todos os informativos quinzenais enviados pela adega, site web e demais materiais publicitários. Ministrei dezenas de confrarias didáticas e cursos sobre vinhos. Desenvolvi um sistema de automação de vendas específico para o segmento e gestão específica do negócio"
+            },
+            {
+                "empresa": "Eletrosiderúrgica Brasileira S/A",
+                "ano_inicio": 1993,
+                "ano_fim": 1993,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Trabalhei com ambientes operacionais DOS e Unix; protocolo TCP-IP; treinamento de usuários; programação de aplicativos técnicos e administrativos; banco de dados Clipper e Dataflex"
+            },
+            {
+                "empresa": "Serviço Federal de Processamento de Dados",
+                "ano_inicio": 1994,
+                "ano_fim": 1994,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Documetação de sistemas e programação de microcomputadores"
+            },
+            {
+                "empresa": "Performance Consultoria Tributária",
+                "ano_inicio": 1994,
+                "ano_fim": 1995,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Análise e desenvolvimento de sistemas em FoxBase; manutenção de programas em rede"
+            },
+            {
+                "empresa": "Serconsul Serviços de Engenharia Ltda",
+                "ano_inicio": 1995,
+                "ano_fim": 1995,
+                "funcao": "Estagiário",
+                "vinculo": "Estágio",
+                "descricao": "Desenvolvimento e manutenção de sistemas em Visual Basic for Applications (VBA); apoio e treinamento de usuários em aplicativos para automação de escritórios"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Professor",
+                "vinculo": "Ministrou a disciplina Recursos de Informática",
+                "descricao": "no curso de Extensão em Educação Física"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Ministrou as disciplinas de Introdução à Metodologia Científica",
+                "descricao": "Recursos de Informática aplicados à Gestão e Sistemas de Gestão Empresarial, nos cursos de Pedagogia e Gestão Empresarial"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Ministrou a disciplina Metodologia da Pesquisa Científica II",
+                "descricao": "no curso de Extensão em Pedagogia"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Ministrou a disciplina Informática aplicada á gestão no curso de extensão em Gestão Empresarial"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Ministrou a disciplina Sistemas de Informação",
+                "descricao": "no cursao de extensão em Gestão empresarial"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Ministrou a disciplina Método e Técnica da Pesquisa Educacional",
+                "descricao": "no curso de Extensão em Pedagogia"
+            },
+            {
+                "empresa": "Faculdade de Ciências Educacionais",
+                "ano_inicio": 2007,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Serviço prestado.",
+                "descricao": "Ministrou as disciplinas: Introdução à Metodologia Científica, Pesquisa Científica, Recursos de Informática Aplicados à Gestão e Sistemas de Gestão Empresarial, nos cursos de Pedagogia e Gestão Empresarial"
+            },
+            {
+                "empresa": "Faculdade Batista Brasileira",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Serviço prestado",
+                "descricao": "Ministrou as disciplinas Novas Tecnologias na Educação e Sistemas de Informações Gerenciais nos cursos de Especialização em Metodologia do Ensino Superior em nível de pós-graduação Lato Sensu e curso de graduação em Gestão Empresarial respectivamente"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": "Professor do Curso de Bachar elado em Ciências Exatas e Tecnológicas - BCET do Centro de Ciências e Exatas e Tecnológicas - CETEC. Ministrou os componentes: Processamento de dados I e II, com linguagem C++ e Python, e Introdução à Ciência da Computação (arquitetura e aplicativos). Semestres e componentes: 2017.1 - Introdução á ciência da computação - Prática (34 h + 34h) 2017.1 - Processamento de dados I - Prática (34h + 34h + 34h) 2017.1 - Processamento de dados I - Teórica (34h + 34h) 2017.1 - Processamento de dados - Prática (34h) 2017.1 - Processamento de dados - Teórica (34h) 2017.2 - Introdução á ciência da computação - Prática (34 h + 34h + 34h + 34h) 2017.2 - Introdução á ciência da computação - Teórica (34 h + 34h) 2017.2 - Processamento de dados I - Teórica (34h + 34h) 2017.2 - Processamento de dados - Prática (34h) 2017.2 - Processamento de dados - Teórica (34h) 2018.1 - Introdução á ciência da computação - Prática (34 h + 34h + 34h + 34h + 34h + 34h) 2018.1 - Introdução á ciência da computação - Teórica (34 h + 34h + 34h) 2018.2 - Introdução á ciência da computação - Prática (34 h + 34h +34h) 2018.2 - Introdução á ciência da computação - Teórica (34 h + 34h) 2018.2 - Processamento de dados II - Prática (34h) 2018.2 - Processamento de dados II - Teórica (34h) 2018.2 - Processamento de dados I - Prática (34h + 34h) 2018.2 - Processamento de dados I - Teórica (34h)"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Professor Pesquisador Formador I",
+                "vinculo": "Professor Bolsista",
+                "descricao": "Professor do componente curricular Tecnologias da Informação e Comunicação, com total de 68 horas"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Professor pesquisador I",
+                "vinculo": "Bolsista",
+                "descricao": "Semestre 2015.2. Componente: Tecnologias da Informação e Comunicação nos Processos Educativos (68h)"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Professor Pesquisador Formador I",
+                "vinculo": "Bolsista",
+                "descricao": "Ministrou o componente; informática e estatística aplicadas a educação (68 h + 68 h) nos semestres 2014.1 e 2014.2; arquitetura, aplicativos, tabelas, médias, moda, mediana e desvio padrão"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor Pesquisador Formador I",
+                "vinculo": "professor bolsista",
+                "descricao": "Semestre 2013.2: Informática e estatística aplicados á educação (68 h)"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Professor Temporário",
+                "vinculo": "Professor temporário",
+                "descricao": "Atuou no Centro de Ciências Exatas e Tecnológicas (CETEC) da Universidade, ministrando os componentes de Introdução à Ciência da Computação (ICC) e Processamento de Dados I e II (lógica de programação através de algoritmos e linguagem C++) e Processamento de Dados (lógica através de algoritmos na pseudolinguagem Portugol). Semestres: 2012.1: Introdução à Ciência da Computação (102 h + 34 h) 2012.1: Processamento de Dados I (136 h) 2012.1: Processamento de Dados II (68 h + 204 h +68 h) 2012.2: Introdução à Ciência da Computação (102 h + 68 h) 2012.2: Processamento de Dados (34 h + 34 h) 2012.2: Processamento de Dados I: (204 h +68 h + 136 h) Contrato renovado até 06/06/2013"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Professor Pesquisador Formador I",
+                "vinculo": "Professor Bolsista",
+                "descricao": "Professor pesquisador do curso de Licenciatura em Pedagogia do componente curricular de informática e estatística aplicadas à educação, do Plano Nacional de Formação de Professores da Educação Básica (PARFOR). Semestre 2012.1: Informática e estatística aplicadas à educação (68 h)"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Professor Pesquisador Formador I",
+                "vinculo": "Professor Bolsista",
+                "descricao": "Professor pesquisador do curso de Licenciatura em Pedagogia do componente curricular de informática e estatística aplicadas à educação, do Plano Nacional de Formação de Professores da Educação Básica (PARFOR). Semestre 2011.1: informática e estatística aplicadas à educação (68 h)"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2011,
+                "ano_fim": 2016,
+                "funcao": "Professor Colaborador",
+                "vinculo": "Professor colaborador do PET Educação e Sustentabilidade",
+                "descricao": "da Tutora Profa. Dra. Rosineide Mubarack, vinculado ao Centro de Formação de Professores - CFP da UFRB"
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Professor Pesquisador Formador I",
+                "vinculo": "Professor Bolsista",
+                "descricao": "Professor pesquisador do curso de Licenciatura em Ciências da Natureza do componente curricular Introducao a Informática e Tecnologias da Informacao no Ensino de Ciências (68 h), do Plano Nacional de Formação de Professores da Educação Básica (PARFOR). Presidiu comissão para avaliação do PARFOR da UFRB. Semestre 2010.2 - Introdução a Informática e Tecnologias da Informação no Ensino de Ciências (68 h + 68 h)"
+            },
+            {
+                "empresa": "Faculdade Adventista da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor",
+                "vinculo": "Professor do curso de Gestão de Tecnologias da Informação - GTI",
+                "descricao": "das disciplinas de Analise de Sistemas I (Ciclo de vida de um sistema. Modelos de processos de sistemas. Modelagem de sistemas através da Análise Orientada a Objetos . Engenharia de requisitos.) e Banco de Dados II(Projeto de banco de dados. Implementação de SGBDs. Armazenamento de dados. Estruturas de índices. Processamento e otimização de consultas. Processamento de transações. Controle de concorrência. Recuperação. Data warehousing e data Mining Distribuição de dados). Semestres e componentes: 2017.1: Análise e Projeto de Sistemas I (54 h) 2017.1: Banco de Dados I (54 h) 2017.2: Análise e Projeto de Sistemas II (40 h) 2017.2: Arquitetura de Computadores (60 h)"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia, Campus SAJ",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal da Bahia, Campus SAJ\nEnsino-medio (2026) .",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "GARCIA",
+                    "software": "J. M.,  Site da Adega Kylix",
+                    "ano": "2006",
+                    "finalidade": "Divulgar e disseminar a cultura do vinho através de informativos periodicos e avaliações de vinhos."
+                },
+                {
+                    "autor": "GARCIA",
+                    "software": "J. M.,  KySys - Sistema de Gestão Empresarial",
+                    "ano": "2005",
+                    "finalidade": "Gerenciamento financeiro, administrativo, estoque e vendas."
+                },
+                {
+                    "autor": "GARCIA",
+                    "software": "J. M.,  SISPLAN - Sistema de Planejamento e Estudo de Viabilidade",
+                    "ano": "1998",
+                    "finalidade": "Estudar a viabilidade técnica e econômica de projetos.."
+                },
+                {
+                    "autor": "GARCIA",
+                    "software": "J. M.,  Sistema Controle Estoque",
+                    "ano": "1993",
+                    "finalidade": "Controlar o estoque do almoxarifado do Instituto Baiano de Reabilitação - IBR."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "GARCIA",
+                    "titulo": "J. M.,  Rosineide Pereira Mubarack Garcia,  Educação e a Tecnologia da Informação Verde",
+                    "ano": "2011",
+                    "instituicao_promotora": "UFAM-Universidade Federal do Amazonas."
+                },
+                {
+                    "autores": "GARCIA",
+                    "titulo": "J. M.,  Os Sentidos do Vinho",
+                    "ano": "2011",
+                    "instituicao_promotora": "UFRB - Universidade Federal do Recôncavo da Bahia."
+                },
+                {
+                    "autores": "GARCIA",
+                    "titulo": "J. M.,  Os Sentidos do Vinho",
+                    "ano": "2011",
+                    "instituicao_promotora": "UFRB-Universidade Federal do Recôncavo da Bahia."
+                },
+                {
+                    "autores": "GARCIA",
+                    "titulo": "J. M.,  Os Cinco Sentidos",
+                    "ano": "2008",
+                    "instituicao_promotora": "UNIFACS-Universidade Salvador."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "GARCIA, J. M.",
+                "titulo": "GARCIA, R. P. M.;  Educação como princípio da Sustentabilidade",
+                "ano": "2016",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788559710175, Cruz das Almas-Ba (Publicado)."
+            }
+        ],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "GARCIA, J. M.",
+                "titulo": "BITTENCOURT, R",
+                "evento": "A.; Um Mapeamento Sistemático da Literatura sobre Pensamento Computacional na Perspectiva dos Fundamentos Teóricos de Aprendizagem. Educomp 2023",
+                "local": "Porto Alegre _RS",
+                "ano": "2023"
+            },
+            {
+                "autores": "GARCIA, J. M.",
+                "titulo": "GARCIA, R",
+                "evento": "P. M.; Educação e a Tecnologia da Informação Verde. XX EPENN - Encontro de Pesquisa Educacional do Norte e Nordeste",
+                "local": "Manaus-AM",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luciana Marques da Paz da Silva",
+                "titulo": "As tecnologias de informação e comunicação (TICS) no processo de mediação no ensino-aprendizagem no 4o. e 5o. ano do ensino fundamental",
+                "ano": "2014",
+                "curso": "Licenciatura em Pedagogia",
+                "instituicao": "Universidade Federal do Recôncavo da Bahia"
+            }
+        ]
+    }
+}

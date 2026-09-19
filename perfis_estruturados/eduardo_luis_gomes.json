@@ -1,0 +1,410 @@
+{
+    "campus": "- Câmpus Canoinhas",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica e Informática Industrial",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "titulo": "Aprendizagem de máquina para sistemas de localização em ambientes internos RFID",
+                "orientador": "Mauro Sérgio Pereira Fonseca",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica e Informática Industrial",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "titulo": "Arquitetura RF-Miner - Uma Solução para Localização em Ambientes Internos",
+                "orientador": "Mauro Sérgio P",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência para Educação Profissional",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "orientador": "Andreia de Bem Machado",
+                "ano_inicio": 2020,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Contabilidade e Finanças",
+                "instituicao": "Universidade Federal do Paraná",
+                "orientador": "Dr",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado Campus Mafra",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Agro Comercial Afubra Ltda.",
+                "ano_inicio": 1999,
+                "ano_fim": 2005,
+                "funcao": "Assistente de Gestão de Estoques",
+                "vinculo": "Não informado",
+                "descricao": "Forte atuação na operação do Sistema de Gestão ERP da empresa"
+            },
+            {
+                "empresa": "Curtume Bannach Ltda.",
+                "ano_inicio": 2005,
+                "ano_fim": 2010,
+                "funcao": "Coordenador Administrativo e Financeiro",
+                "vinculo": "Não informado",
+                "descricao": "Responsável pela gestão e implantação do sistema de gestão da empresa e desenvolvimento do software de controle de produção e custos"
+            },
+            {
+                "empresa": "Universidade do Contestado",
+                "ano_inicio": 2015,
+                "ano_fim": 2018,
+                "funcao": "Gerente de TI",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Contestado",
+                "ano_inicio": 2008,
+                "ano_fim": 2018,
+                "funcao": "Professor",
+                "vinculo": "Bacharel. Sistemas de Informação",
+                "descricao": "Disciplinas Ministradas - Programação de Computadores I - C++ e Java - Programação de Computadores II - Java - Estrutura de Dados - Java - Modelagem de Processos - Fundamentos de Sistemas de Informação - Tópicos Especiais em Sistemas de Informação (Ênfase em Programação Mobile) - Tecnologia de Orientação a Objetos - Java, Delphi XE5 - Programação WEB - PHP, Servlet(Java), JSP(Java) - Projeto Integrador"
+            },
+            {
+                "empresa": "I2F Sistemas e Tecnologia Ltda.",
+                "ano_inicio": 2010,
+                "ano_fim": 2015,
+                "funcao": "Sócio e Analista de Sistemas",
+                "vinculo": "Analista de Sistemas. Analista de Sistemas RFID. Modelagem de Dados. Modelagem de Software com UML (Casos de Uso",
+                "descricao": "Descrição de Cenários). Modelagem de Processos de Negócio (BPMN) com Bizagi. Utilização de metodologias ágeis (RAD, SCRUM e KANBAM). Desenvolvedor de software com MySql, Delphi XE(2), PHP, Mobile (Android, iOS, Windows Phone)"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "Campus Canoinhas",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Contestado",
+                "nome": "Gestão e Inovação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Luis Gomes",
+                    "Carlos Otavio Senff",
+                    "Luciano Bendlin",
+                    "Kátia Adrieli Vichinheski",
+                    "João Carlos De Lima",
+                    "Gabriel Bonetto Bampi"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Robótica e Aprendizagem Baseada em Problemas para Ensino de Inteligência Artificial no Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS).",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Eduardo Luis Gomes"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "II Workshop de Informática",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Luis Gomes",
+                    "Glaucio Luis Wachinski",
+                    "Alexandre Augusto Alberto Moreira De Abreu",
+                    "Mauricio Begnini",
+                    "Denilson Fagundes Barbosa",
+                    "Lucas Bueno"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aplicativo Mobile Para Divulgar E Auxiliar A Organização Das Informações De Eventos Utilizando A Tecnologia Instant App",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Luis Gomes",
+                    "Matheus Renan Araújo",
+                    "Julian Patrick Waldmann"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Formação Acessível",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Luis Gomes",
+                    "Gabriel Moraes De Bem",
+                    "Jorge Armindo Sell",
+                    "Vilson Cesar Schenato",
+                    "Edina Aparecida Da Silva Enevan"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Aplicativo Transporte Coletivo Urbano Inteligente Na Cidade De Canoinhas/SC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Eduardo Luis Gomes",
+                    "Daniel Frutos"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "GOMES, EDUARDO LUIS",
+                "titulo": "FONSECA, MAURO SERGIO PEREIRA;  LAZZARETTI, ANDRÉ EUGENIO;  MUNARETTO, ANELISE;  GUERBER, CARLOS RAFAEL;  Sliding Window, Hierarchical Classification, Regression, and Genetic Algorithm for RFID Indoor Positioning Systems",
+                "ano": "2024",
+                "periodico": "EXPERT SYSTEMS WITH APPLICATIONS. ISBN: 09574174   ."
+            },
+            {
+                "autores": "GOMES, EDUARDO LUIS",
+                "titulo": "FONSECA, MAURO;  LAZZARETTI, ANDRE EUGENIO;  MUNARETTO, ANELISE;  GUERBER, CARLOS;  Clustering and Hierarchical Classification for High-Precision RFID Indoor Location Systems",
+                "ano": "2021",
+                "periodico": "IEEE SENSORS JOURNAL. ISBN: 1530437X   ."
+            },
+            {
+                "autores": "GUERBER, CARLOS RAFAEL",
+                "titulo": "GOMES, EDUARDO LUIS;  PEREIRA FONSECA, MAURO SÉRGIO;  MUNARETTO, ANELISE;  SILVA, THIAGO HENRIQUE;  Transmission Opportunities: A New Approach to Improve Quality in V2V Networks",
+                "ano": "2019",
+                "periodico": "WIRELESS COMMUNICATIONS & MOBILE COMPUTING. ISBN: 15308669   ."
+            },
+            {
+                "autores": "BENDLIN, L.",
+                "titulo": "SILVA, S. S. S.;  GOMES, E. L.;  GRUBER, B. S.;  Cost Management from the Application of the Target Cost in the Educational Resources of a University",
+                "ano": "2017",
+                "periodico": "INTERNATIONAL JOURNAL OF INNOVATION AND RESEARCH IN EDUCATIONAL SCIENCES. ISBN: 23495219   ."
+            },
+            {
+                "autores": "BENDLIN, L.",
+                "titulo": "GOMES, E. L.;  LIMA, J. C.;  VICHINHESKI, K. A.;  Analysis of The Application of Mathematical Methods in the Cost By Absorption in the Customization of the Cost of Joint Products In A Moe Industry: A Management Contribution",
+                "ano": "2017",
+                "periodico": "INTERNATIONAL JOURNAL OF ENGINEERING AND SCIENCE INVENTION. ISBN: 23196734   ."
+            },
+            {
+                "autores": "SENFF, Carlos O.",
+                "titulo": "KUDLAWICZ-FRANCO, C.;  CARIOLATTI, T.;  GOMES, E. L.;  FONSECA, V. S.;  DUCLOS, L. C.;  Information Technology and Organizational Performance of Micro and Small Enterprises in South Brazil",
+                "ano": "2016",
+                "periodico": "EUROPEAN JOURNAL OF ECONOMICS, FINANCE AND ADMINISTRATIVE SCIENCES. ISBN: 14502275   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "GOMES, E. L.",
+                "titulo": "FONSECA, M",
+                "evento": "S.; LAZZARETTI",
+                "local": "ANDRE EUGENIO; GUERBER, CARLOS RAFAEL; MUNARETTO, A.; Drift Detection e Machine Learning para Sistemas de Localização indoor RFID em Ambientes Dinâmicos. XXXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Uberlândia, MG, Brasil",
+                "ano": "2021"
+            },
+            {
+                "autores": "GOMES, E. L.",
+                "titulo": "FONSECA, M",
+                "evento": "S.; GUERBER",
+                "local": "Carlos Rafael; MUNARETTO, A.; Etiquetas RFID Passivas e Aprendizagem de Máquina para Sistema de Localização Indoor de Alta Precisão. XXXVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Rio de Janeiro",
+                "ano": "2020"
+            },
+            {
+                "autores": "GUERBER, C. R.",
+                "titulo": "GOMES, E",
+                "evento": "L.; FONSECA",
+                "local": "M. S.; MUNARETTO, A.; Classificação GeoSocial de Contatos para Disseminação de Dados em Redes Veiculares Oportunistas. XXXVI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), Campos do Jordão - SP",
+                "ano": "2018"
+            },
+            {
+                "autores": "GOMES, E. L.",
+                "titulo": "FONSECA, M",
+                "evento": "S.; MUNARETTO",
+                "local": "A.; GUERBER, C. R.; Arquitetura RF-Miner - Uma solução para localização indoor. XXII Workshop de Gerência e Operação de Redes e Serviços (WGRS), BELEM, PARÁ",
+                "ano": "2017"
+            },
+            {
+                "autores": "BENDLIN, L.",
+                "titulo": "GOMES, E",
+                "evento": "L.; VICHINHESKI",
+                "local": "K. A.; APLICAÇÃO DO CUSTEIO BASEADO EM ATIVIDADES - ABC NO GERENCIAMENTO DOS CUSTOS CONJUNTOS NA ATIVIDADE INDUSTRIAL DE BENEFICIAMENTO E CURTIMENTO DE COUROS. XXIV Congresso Brasileiro de Custos, Florianópolis",
+                "ano": "2017"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Julian Patrik Waldmann E Matheus Renan Araujo",
+                "titulo": "Aplicativo Mobile Para Divulgar E Auxiliar A Organização Das Informações De Eventos Utilizando A Tecnologia Instant App",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Daniel Frutos",
+                "titulo": "Aplicativo Transporte Coletivo Urbano Inteligente Na Cidade De Canoinhas/SC",
+                "ano": "2018",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rafael Henrique e Nathan Alves",
+                "titulo": "ARI Lajes ? Sistema de Controle",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Ariel Juhny e Thiago Gabriel",
+                "titulo": "Sistema de Agendamento para Distribuidora de Bebidas",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Rodrigo Dobrychtop e Ivan Felipe",
+                "titulo": "Sistema Gerenciador de Cemitério",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Dionísio de Lima e Sthephani Veiga",
+                "titulo": "Sistema da Associação de Universitários",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Bruno Tauscheck",
+                "titulo": "Time Table Schedule para Institituições De Ensino Superior",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "João Vittor Henrique",
+                "titulo": "Sistema Gerenciamento de Gestão Imobiliária",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Lucas Frogel e GIlmar Ferreira Terres Correa",
+                "titulo": "Sistema para Gestão de Banco de Questões",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Luciano Gulka",
+                "titulo": "Sistema de gestão para assessorias do portal de periódico da UFSC",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Júlio Jair Vieira e Tayná Arantes Cardoso da Silva",
+                "titulo": "SIGMOVEC - Emissão de Notas Fiscais para Produtores Rurais",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Jhonatan Jourdy Keretz e Diogo Levandovski",
+                "titulo": "BemEstar - Sistema para atendimento fisioterápico",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Andreza Aparecida Hau Ratkoski",
+                "titulo": "Cyberspace Coffee Ice - Sistema de Gerenciamento para Cafeteria",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Luis Eduardo Goldbach",
+                "titulo": "Sistema para Restaurantes e Lanchonetes",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Thiago Luiz Skibinski",
+                "titulo": "Sistema para Consulta e Gerenciamento de Lojas",
+                "ano": "2015",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Eduardo Alexandro Kalil e Lucas Guilherme Mordaski",
+                "titulo": "Site Survey para Implantação de Sistema RFID em Ambiente de Biblioteca",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Eny Cátilo Gos e Vladson Farias",
+                "titulo": "Análise Comparativa de Desempenho entre Web Services na Plataforma Mobile",
+                "ano": "2014",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            },
+            {
+                "orientando": "Diego Tambosi Soethe e Daniel Salazar Jr",
+                "titulo": ".  Sistema de Rastreamento Agropecuário.",
+                "ano": "2010",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade do Contestado"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.1174018383026123,
+            "indian": 13.616235733032227,
+            "black": 1.739650845527649,
+            "white": 12.722615242004395,
+            "middle eastern": 44.48701477050781,
+            "latino hispanic": 25.31708526611328
+        }
+    }
+}

@@ -1,0 +1,743 @@
+{
+    "campus": "- Campus Coari",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Uma Abordagem Computacional para Detectar Emoções de Alunos em Cursos Online",
+                "orientador": "José Francisco de Magalhães Netto",
+                "ano_inicio": 2013,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Sistema MultiAgente para Apoiar a Percepção e o Acompanhamento de Atividades em Ambientes Virtuais de Aprendizagem",
+                "orientador": "José Francisco de Magalhães Netto",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Sistemas",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Cleyverson Pereira Costa",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Processamento de Dados",
+                "instituicao": "Centro Universitário do Norte",
+                "ano_inicio": 2002,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2008,
+                "ano_fim": 2012,
+                "funcao": "Administrador Moodle",
+                "vinculo": "Não informado",
+                "descricao": "Administrador Moodle / Administrador Joomla / Administrador de Banco de Dados Mysql / Analista de Sistemas / Professor Conteudista / Professor Formador / Tutor a Distância"
+            },
+            {
+                "empresa": "Centro de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Técnico em Informática",
+                "vinculo": "Não informado",
+                "descricao": "1. Administrador Moodle e Administrador Joomla do CETAM EAD 2. Manutenção em Servidores Windows e Linux: 2.1 Active Director ? Windows 2003 Server; 2.2 Servidor de Proxy - SQUID; 2.3 Servidor DHCP ; 2.4 Servidor LTSP ; 2.5 Servidor Banco de Dados (Oracle e SQL Server ) 2.6 Servidor Web ( Apache+MySQL+PHP) 2.7 Firewall"
+            },
+            {
+                "empresa": "Centro de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2005,
+                "ano_fim": 2008,
+                "funcao": "Instrutor de Informática",
+                "vinculo": "Professor vistante",
+                "descricao": "Disciplinas: Linguagem de Manipulação de Dados (SQL) ; Banco de Dados ; Tecnologias de Desenvolvimento WEB; Introdução a Computação Adm. de Sistema Operacional de Rede Projeto de Desenvolvimento de Software Introdução ao Ambiente Windows Introdução ao Ambiente Linux Curso de Qualificação Profissional em PHP"
+            },
+            {
+                "empresa": "Ministério do Exército",
+                "ano_inicio": 2000,
+                "ano_fim": 2006,
+                "funcao": "Sargento Técnico Temporário",
+                "vinculo": "Analista de Sistemas",
+                "descricao": ""
+            },
+            {
+                "empresa": "Escola Superior Batista do Amazonas",
+                "ano_inicio": 2011,
+                "ano_fim": 2015,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor vistante",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor Horista",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Amazonas Distribuidora de Energia - Matriz",
+                "ano_inicio": 2014,
+                "ano_fim": 2021,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": "Analista de Sistemas / Analista de Projetos / Analista de Negócios"
+            },
+            {
+                "empresa": "Secretaria de Estado de Educação e Qualidade de Ensino do Amazonas",
+                "ano_inicio": 2021,
+                "ano_fim": 2021,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria Municipal de Saúde de Manaus",
+                "ano_inicio": 2021,
+                "ano_fim": 2024,
+                "funcao": "Analista Desenvolvedor de Software",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Dígitos - Cursos Datilografia e Informática",
+                "ano_inicio": 1995,
+                "ano_fim": 1999,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "1. Instrutor de Cursos de Informática / 2. Instrutor de Curso de Linguagem de Programação"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor Efetivo",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Metropolitana de Manaus",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professor Horista",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Faculdade Metropolitana de Manaus\nGraduacao (2008 - 2008) - Sistemas De Informação.",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ALENCAR",
+                    "software": "M. A. S.,  NETTO, J. F. M.,  SentiEduc - Sentiment Analysis Framework for Virtual Learning Environment",
+                    "ano": "2017",
+                    "finalidade": "Realizar análise de sentimentos de cursos a distância."
+                },
+                {
+                    "autor": "ALENCAR",
+                    "software": "M. A. S.,  NETTO, J. F. M.,  TUCUMÃ - TUtor Collaborator Using Multi-Agent System",
+                    "ano": "2014",
+                    "finalidade": "Tutor auxiliar de cursos a distância."
+                },
+                {
+                    "autor": "ALENCAR",
+                    "software": "M. A. S.,  CYBERTPOTY - Assistente Virtual",
+                    "ano": "2010",
+                    "finalidade": "Atender usuários interessados em cursos a distância do CETAM EAD."
+                },
+                {
+                    "autor": "ALENCAR",
+                    "software": "M. A. S.,  SISACAD - Sistema Acadêmico Integrado ao Moodle",
+                    "ano": "2010",
+                    "finalidade": "Realizar acompanhamento de alunos de cursos a distância."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ALENCAR",
+                    "titulo": "M. A. S.,  Melhorando a Atenção Primária à Saúde usando Telessaúde",
+                    "ano": "2022",
+                    "instituicao_promotora": "Sociedade Brasileira de Informática em Saúde ? SBIS."
+                },
+                {
+                    "autores": "ALENCAR",
+                    "titulo": "M. A. S.,  NETTO, J. F. M.,  Melhorando a Colaboração de um Ambiente Virtual de Aprendizagem usando um Agente Pedagógico Animado 3D",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade Federal de Pernanbuco."
+                },
+                {
+                    "autores": "ALENCAR",
+                    "titulo": "M. A. S.,  NETTO, J. F. M.,  Facilitando a Tutoria Ead Utilizando o SISACAD",
+                    "ano": "2013",
+                    "instituicao_promotora": "ABED."
+                },
+                {
+                    "autores": "ALENCAR",
+                    "titulo": "M. A. S.,  NETTO, J. F. M.,  CyberPoty: Um Chatterbot 3D para Interação com Usuários de um Portal de Educação a Distância",
+                    "ano": "2010",
+                    "instituicao_promotora": "SBC."
+                },
+                {
+                    "autores": "ALENCAR",
+                    "titulo": "M. A. S.,  NETTO, J. F. M.,  Uma Estratégia Híbrida Combinando Sistemas Multiagente e AIML para Apoiar Fóruns de Discussão de Ambientes Virtuais de Aprendizagem",
+                    "ano": "2010",
+                    "instituicao_promotora": "SBC."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "Fundamentos de Redes de Computadores",
+                "ano": "2010",
+                "informacoes_adicionais": "Impresso. ISBN: 9788563576040, Santa Catarina (Publicado)."
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J. F. M.;  TUtor Collaborator Using Multi-Agent System. Título do capítulo: TUtor Collaborator Using Multi-Agent System",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9783031530."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J. F. M.;  Modelo para Análise de Sentimentos no AVA: Um estudo de Caso",
+                "ano": "2022",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J. F. M.;  MORAIS, F.;  A Sentiment Analysis Framework for Virtual Learning Environment",
+                "ano": "2021",
+                "periodico": "APPLIED ARTIFICIAL INTELLIGENCE. ISBN: 08839514   ."
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J. F. M.;  Improving Learning in Virtual Learning Environments Using Affective Pedagogical Agent",
+                "ano": "2020",
+                "periodico": "INTERNATIONAL JOURNAL OF DISTANCE EDUCATION TECHNOLOGIES. ISBN: 15393100   ."
+            },
+            {
+                "autores": "XAVIER, N. B.",
+                "titulo": "NETTO, J. F. M.;  ALENCAR, M. A. S.;  MANAGER: um Sistema Multiagente para auxiliar a gestão de cursos EaD em um Ambiente Virtual de Aprendizagem",
+                "ano": "2014",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            },
+            {
+                "autores": "SOUSA, F. O.",
+                "titulo": "ALENCAR, M. A. S.;  SOUZA; M. B.;  NETTO, J. F. M.;  GAES - Guia de Acesso ao Ensino Superior",
+                "ano": "2013",
+                "periodico": "RENOTE. Revista Novas Tecnologias na Educação. ISBN: 16791916   ."
+            },
+            {
+                "autores": "SILVA, R. G.",
+                "titulo": "SOUZA; M. B.;  SILVA, M. A. A.;  ALENCAR, M. A. S.;  Tutoria Virtual Baseada em Sistemas Multiagente",
+                "ano": "2013",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            },
+            {
+                "autores": "SOUZA",
+                "titulo": "M. B.;  MOREIRA, J. L.;  LOBO, F.;  ALENCAR, M. A. S.;  Uma Abordagem Metodológica voltada para o Ensino-Aprendizagem de Algoritmos",
+                "ano": "2013",
+                "periodico": "RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO. ISBN: 16791916   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA, A. J. S.",
+                "titulo": "OLIVEIRA, M",
+                "evento": "H. S.; SANTANA",
+                "local": "E. S.; ALENCAR, M. A. S.; Usando Micro:Bit para ensinar Robótica Educacional e Pensamento Computacional. 16ª edição do Computer on the Beach, Itajaí-SC",
+                "ano": "2025"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "CORREA, N",
+                "evento": "C. C.; SOUZA",
+                "local": "S. E.; Telemonitoramento de Agravos como Estratégia na Atenção Primária à Saúde. XXIV Simpósio Brasileiro de Computação Aplicada à Saúde, Goiania-GO",
+                "ano": "2024"
+            },
+            {
+                "autores": "ROSA",
+                "titulo": "A",
+                "evento": "L.; SARAIVA",
+                "local": "A. R.; ALENCAR, M. A. S.; Aplicações da Inteligência Artificial no Moodle. 29º Congresso Internacional ABED de Educação a Distância, Brasilia",
+                "ano": "2024"
+            },
+            {
+                "autores": "MACHADO, M. C.",
+                "titulo": "ALENCAR, M",
+                "evento": "A. S.; SILVA",
+                "local": "I. F.; SOUZA, S. E.; Proposta de agentes inteligentes para monitorar ocorrências do SAMU. XX Congresso Brasileiro de Informática em Saúde, Minas Gerais",
+                "ano": "2024"
+            },
+            {
+                "autores": "CARMINE, R. L. A.",
+                "titulo": "HERNANDES, I",
+                "evento": "C.; MUNIZ",
+                "local": "A. F.; CHUI, F. M. S.; FERREIRA, R. A.; ALENCAR, M. A. S.; TORRES, M. S. S.; SANTOS, M. P. F. M.; CORREA, N. C. C.; SOUZA, S. E. S.; Desafios da Vacinação Contra a Covid-19 em Manaus: Um Aspecto Tecnológico. XXXVII Congresso Nacional de Secretarias Municipais de Saúde, Goiania-GO",
+                "ano": "2023"
+            },
+            {
+                "autores": "CORDEIRO, D. C.",
+                "titulo": "SACRAMENTO, D",
+                "evento": "S.; SILVA",
+                "local": "S. L.; GALDINO, J. A.; ALENCAR, M. A. S.; OLIVEIRA, L. B.; PINHEIRO, J. S.; JARDIM, T. A. P.; Perfil clínico-epidemiológico e desfecho do monitoramento de pessoas em tratamento de tuberculose na plataforma Telessaúde. 58º Congresso da Sociedade Brasileira de Medicina Tropical, Salvador - BA",
+                "ano": "2023"
+            },
+            {
+                "autores": "GALDINO, J. A.",
+                "titulo": "CORREA, N",
+                "evento": "C. C.; SOUZA",
+                "local": "S. E. S.; ALENCAR, M. A. S.; Uso da Telessaúde no Apoio à Atenção Primária à Saúde na cidade de Manaus. 1º Simpósio Internacional de Transformação Digital no SUS, São Paulo-SP",
+                "ano": "2023"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "SILVA, J",
+                "evento": "M.; CORREA",
+                "local": "N. C. C.; SOUZA, S. E.; Melhorando a Atenção Primária à Saúde usando Telessaúde. XIX Congresso Brasileiro de Informática em Saúde, Campinas/SP",
+                "ano": "2022"
+            },
+            {
+                "autores": "COSTA, A. F.",
+                "titulo": "SACRAMENTO, D",
+                "evento": "S.; CORDEIRO",
+                "local": "D. C.; CUNHA, J. B.; SOUTO, F. L.; GALDINO, J. A.; SILVA, J. M.; ALENCAR, M. A. S.; PINHEIRO, J. S.; Telemonitoramento de Casos de Tuberculose em Manaus durante a Pandemia de Covid-19. 13º Congresso Brasileiro de Saúde Coletiva, Salvador/Bahia",
+                "ano": "2022"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Measuring Student Emotions in an Online Learning Environment. ICAART-International Conference on Agents and Artificial Intelligence -",
+                "local": "Valletta, Malta",
+                "ano": "2020"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Melhorando a Colaboração de um Ambiente Virtual de Aprendizagem usando um Agente Pedagógico Animado. XXVIII Simpósio Brasileiro de Informática na Educação",
+                "local": "Recife-PE",
+                "ano": "2017"
+            },
+            {
+                "autores": "XAVIER, N. B.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; ALENCAR",
+                "local": "M. A. S.; Acompanhamento de Cursos On-line Apoiado por Agentes Inteligentes. 21º CIAED - Congresso Internacional ABED de Educação a Distância, Bento Gonçalves-RS",
+                "ano": "2015"
+            },
+            {
+                "autores": "XAVIER, N. B.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; ALENCAR",
+                "local": "M. A. S.; Análise de Requisitos para Viabilidade da proposta de um Sistema de Gestão em EaD. 21° CIAED - Congresso Internacional ABED de Educação a Distância, Bento Gonçalves-RS",
+                "ano": "2015"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Identifying Students with Evasion Risk Using Data Mining. EdMedia - World Conference on Educational Media and Technology",
+                "local": "Montréal, Québec, Canada",
+                "ano": "2015"
+            },
+            {
+                "autores": "MOTA, R. C.",
+                "titulo": "ALENCAR, M",
+                "evento": "A. S.; EDUCPLAY - Jogo Educativo destinado ao Letramento no Ensino Infantil. IV Encontro Regional de Computação e Sistemas de Informação",
+                "local": "Manaus-AM",
+                "ano": "2015"
+            },
+            {
+                "autores": "NAZARETH, D. R.",
+                "titulo": "ALENCAR, M",
+                "evento": "A. S.; NETTO",
+                "local": "J. F. M.; ELRA - Teaching Brazilian Sign Language Using Augmented Reality. SVR - Symposium on Virtual and Augmented Reality, Salvador, Bahia",
+                "ano": "2014"
+            },
+            {
+                "autores": "NASCIMENTO, S. P.",
+                "titulo": "ALENCAR, M",
+                "evento": "A. S.; FAASE - Ferramenta de Acompanhamento de Atividades via SMS e Email. Moodle Moot Brasil",
+                "local": "São Paulo-SP",
+                "ano": "2013"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Facilitando a Tutoria EAD Utilizando o SISACAD. 17º CIAED - Congresso Internacional ABED de Educação a Distância",
+                "local": "Manaus-AM",
+                "ano": "2013"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; An Experiment with Multi-Agent System In Virtual Learning Environment.. EdMedia - World Conference on Educational Media and Technology",
+                "local": "Colorado-USA",
+                "ano": "2012"
+            },
+            {
+                "autores": "LEITE JUNIOR, D. A.",
+                "titulo": "BRASIL, I",
+                "evento": "B.; ALENCAR",
+                "local": "M. A. S.; SEEMOBILE ? Monitoramento e Manipulação de Um Sistema de Segurança Eletrônico por um Dispositivo Móvel. ENSOSSI - Encontro Regional de Computação e Sistemas de Informação, Manaus-AM",
+                "ano": "2012"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Sistema Multiagente para Apoiar a Percepção e o Acompanhamento de Atividades em Ambientes Virtuais de Aprendizagem.. Simpósio Brasileiro de Informática na Educação",
+                "local": "Rio de Janeiro-RJ",
+                "ano": "2012"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Developing a 3D Conversation Agent Talking About Online Courses. EDMEDIA - World Conference on Educational Media and Technology",
+                "local": "Lisbon-Portugal",
+                "ano": "2011"
+            },
+            {
+                "autores": "NETTO, J. F. M.",
+                "titulo": "ALENCAR, M",
+                "evento": "A. S.; Improving Cooperation in Virtual Learning Environments Using Multi-Agent Systems and AIML. 41th ASEE/IEEE Frontiers in Education Conference",
+                "local": "Rapid City, South Dakota, USA",
+                "ano": "2011"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "ROSA; A",
+                "evento": "L.; MOURA; C. B.; NETTO",
+                "local": "J. F. M.; Melhorando As Rotinas Administrativas e Pedagógicas Usando o SISACAD-CETAM EaD. MoodleMoot Brasil, São Paulo-SP",
+                "ano": "2011"
+            },
+            {
+                "autores": "SOUZA",
+                "titulo": "M",
+                "evento": "B.; NETTO",
+                "local": "J. F. M.; ALENCAR, M. A. S.; SILVA; M. M.; Arcabouço de um Ambiente Telerobótico Educacional Baseado em Sistemas Multiagente. Simpósio Brasileiro de Informática na Educação, Aracajú - Sergipe",
+                "ano": "2011"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; Uma Estratégia Híbrida Combinando Sistemas Multiagente e AIML para Apoiar Fóruns de Discussão de Ambientes Virtuais de Aprendizagem. Simpósio Brasileiro de Informática na Educação",
+                "local": "João Pessoa-PB",
+                "ano": "2010"
+            },
+            {
+                "autores": "ALENCAR, M. A. S.",
+                "titulo": "NETTO, J",
+                "evento": "F. M.; CyberPoty: Um Chatterbot 3D para Interação com Usuários de um Portal de Educação a Distância. XVI Workshop Sobre Informática na Escola",
+                "local": "Belo Horizonte-MG",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "JOSÉ RICARDO SILVA BRAGA",
+                "titulo": "RESOUNI: SISTEMA COLABORATIVO PARA COMPATILHAMENTP DE CONHECIMENTO E MATERIAIS MULTIDISCIPLINAR PARA A UEA",
+                "ano": "2014",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade do Estado do Amazonas"
+            },
+            {
+                "orientando": "Yan Mesquita Barbosa",
+                "titulo": "Livro Interativo de Língua Inglesa usando Realidade Aumentanda",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Gardenia Gomes Calazans",
+                "titulo": "SICROW - Sistema de Consulta de Rota de Ônibus via web",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Willian Barroso de Oliveira",
+                "titulo": "Finanças Fácil - Aplicativo móvel para Controle Financeiro Pessoal",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Anatalimar Mauricio de Lemos",
+                "titulo": "Sistema de Gestão e Controle de Processos de Documentos na Instituição Grande Oriente do Estado do Amazonas",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Fábio Oliveira de Sousa",
+                "titulo": "GAES - Guia de Acesso ao ensino Superior",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Aline Albuquerque da Silva Oliveira",
+                "titulo": "SISCONFE - Sistema web para Controle de Frequência Escolar",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Adriano Araújo dos Santos",
+                "titulo": "Sistema web para Controle de Membros de Igreja Evangélica",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "Obede da Silva Batista",
+                "titulo": "GPNET - Gerenciador de Provas na Intranets",
+                "ano": "2013",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "JORDAN HOZANNAH DE ALBUQUERQUE",
+                "titulo": "GERÊNCIA E MONITORAMENTO DE REDES UTILIZANDO ZABBIX",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "ERIVAN DO NASCIMENTO DA SILVA",
+                "titulo": "A BIOMETRIA UTILIZADA NO PROCESSO DE MATRÍCULA DE ALUNOS NAS INSTITUIÇÕES DE ENSINO EM MANAUS",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "RODRIGO DE LIMA RODRIGUES",
+                "titulo": "DICLIBRAS: UM APLICATIVO MÓVEL PARA AUXILIAR NO APRENDIZADO DE SURDOS",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "GILDO NUNES DA SILVA",
+                "titulo": "SICOE - SISTEMA DE CONTROLE DE ESTACIONAMENTO",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "ARLSON DE SOUZA PEDROSA JUNIOR",
+                "titulo": "PANDORA - UM CHATTERBOT 3D PARA AUXILIAR ALUNOS DO CURSO DE SISTEMAS DE INFORMAÇÃO DA ESBAM",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "DAVID FELIPE SANTOS OLIVEIRA",
+                "titulo": "SIMULVEST - APLICATIVO ANDROID SIMULADOR DE PROVAS PARA VESTIBULAR",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "RENATO FREITAS DE MORAIS",
+                "titulo": "JOMLI - JOGOS MATEMÁTICOS EM LIBRAS",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "ALEXANDER PAIVA RUBIM",
+                "titulo": "MATEMAX - JOGO EDUCATIVO DE MATEMÁTICA PARA A 2a. SÉRIE DO ENSINO FUNDAMENTAL",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "RENATO CORRÊA DE ARAÚJO JÚNIOR",
+                "titulo": "ZAIMON: UMA PLATAFORMA PARA AUXÍLIO NO ENSINO DE ALGORITMOS E ESTRUTURA DE DADOS",
+                "ano": "2012",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "PAULO COSTA TEIXEIRA",
+                "titulo": "SIARSAE- SISTEMA DE ACESSO REMOTO À SECRETARIA ACADÊMICA DA ESBAM",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "GEYSÉ SOUZA DA SILVA",
+                "titulo": "SIMCAP-Sistema Móvel de Captura de Preços de Combustíveis via Web",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "ALEX VAZ DE MORAES",
+                "titulo": "SISTEMA DE AGENDAMENTOS DE EQUIPAMENTOS",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "FRANCISCO FERREIRA ROQUE JÚNIOR",
+                "titulo": "HELPDESK DE GESTÃO E SUPORTE EM INFORMÁTICA",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "DIOGO FEITOSA DE OLIVEIRA",
+                "titulo": "SAD UNIMED - SISTEMA DE APOIO A DECISÃO DA UNIMED MANAUS",
+                "ano": "2011",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Escola Superior Batista do Amazonas"
+            },
+            {
+                "orientando": "EDUARDO DA SILVA FEITOSA",
+                "titulo": "SISTEMA ESCOLAR VIA WEB",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "FABÍOLA ROCHA DUARTE",
+                "titulo": "SISTEMA DE CADASTRO DE MATÉRIAS JORNALÍSTICAS",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "MIKAELLEN VARGAS DE FREITAS",
+                "titulo": "GERENCIADOR DE PROJETOS",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "AMARILDO FERREIRA SIMÕES",
+                "titulo": "SÍTIO DE INFORMAÇÃO DE LÍNGUA INGLESA",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "MÁRCIA DE ALMEIDA LOPES",
+                "titulo": "SISTEMA DE CONTROLE DE ORDEM DE SERVIÇO",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "ALESSANDRO DOS SANTOS ANDRADE",
+                "titulo": "GERENCIADOR DE ACADEMIA",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "JEFERSON ANTONIO SOUZA",
+                "titulo": "SISTEMA DE CONTROLE DE BIBLIOTECA",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "THIAGO FARIAS SOUZA",
+                "titulo": "SISTEMA DE CONTROLE DE LOCADORA",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "GREYCE KELLY FIGUEIREDO CHAGAS",
+                "titulo": "SISTEMA ACADÊMICO DO IBC",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "EDELSON SOUZA DOS SANTOS",
+                "titulo": "SISTEMA DE CONTROLE DE BIBLIOTECA",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "PEDRO AUGUSTO DO S",
+                "titulo": "DIAS JUNIOR.  SISTEMA DE CONTROLE DE VENDAS PARA SAPATARIA",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "WENDEL MARTINS DO NASCIMENTO",
+                "titulo": "SISTEMA MULTIPLATAFORMA DE AUTOMAÇÃO EDUCACIONAL",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "SHIRLEY RODRIGUES DABELA",
+                "titulo": "CONTROLE DE ESTOQUE DE MATÉRIAS",
+                "ano": "2007",
+                "curso": "Curso Técnico em Desenvolvimento de Software",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 12.172135353088379,
+            "indian": 6.527316570281982,
+            "black": 2.610887050628662,
+            "white": 31.78915023803711,
+            "middle eastern": 19.7762451171875,
+            "latino hispanic": 27.124265670776367
+        }
+    }
+}

@@ -1,0 +1,467 @@
+{
+    "campus": "- Campus Rio de Janeiro",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Processos Químicos e Meio Ambiente",
+                "instituicao": "Universidade do Estado do Rio de Janeiro",
+                "titulo": "Modelagem, Simulação e Otimização Operacional de Redes de Trocadores de Calor",
+                "orientador": "André Luiz Hemerly Costa",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em química",
+                "instituicao": "S B I",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Química",
+                "instituicao": "Universidade do Estado do Rio de Janeiro",
+                "ano_inicio": 1999,
+                "ano_fim": 2004
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Estado do Rio de Janeiro",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Professor substituto",
+                "vinculo": "Professor",
+                "descricao": "Disciplinas:Processos de Transferência II.Laboratório de engenharia Química II"
+            },
+            {
+                "empresa": "Universidade do Estado do Rio de Janeiro",
+                "ano_inicio": 2008,
+                "ano_fim": 2011,
+                "funcao": "Pesquisadora de projeto",
+                "vinculo": "Não informado",
+                "descricao": "Desenvolvimento de rotinas no Software Scilab para a otimização térmica em baterias de pré-aquecimento de trocadores de calor de refinarias de petróleo"
+            },
+            {
+                "empresa": "Universidade do Estado do Rio de Janeiro",
+                "ano_inicio": 2001,
+                "ano_fim": 2002,
+                "funcao": "Bolsista da Sub-Reitoria de graduação",
+                "vinculo": "Bolsita",
+                "descricao": "Divulgação do curso de Licenciatura em Química"
+            },
+            {
+                "empresa": "Cromos Tintas Gráficas S/A",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Estagiário de pesquisa",
+                "vinculo": "Estagiário",
+                "descricao": "Realização de leitura de amostras de tintas pastosas impressas em papel couchê por meio de espectrofotômetro. Foco na geração de um banco de dados de todas as tintas fabricadas pelo empresa para o desenvolvimento de novas tonalidades de tintas"
+            },
+            {
+                "empresa": "Pensalab Equipamentos Industriais S.A.",
+                "ano_inicio": 2005,
+                "ano_fim": 2008,
+                "funcao": "Especialista de aplicação",
+                "vinculo": "Celetista formal",
+                "descricao": "A Pensalab é uma empresa especializada em instrumentação analítica. Instrumentação Analítica, Instrumentação Analítica para Laboratório, Integração de Sistemas, Instrumentação Analítica para Processo, instrumentação para qualidade, engenharia de processos de qualidade, instrumentos para qualidade, serviços para qualidade, peças para instrumentos de qualidade e manutenção de instrumentos para qualidade.Atua em diversos ramos da indústria brasileira, como: Óleo e Gás; Farmacêuticas e Cosméticos; Alimentos e Bebidas. O atendimento de suporte ao cliente e de atividades comerciais era feito na filial da empresa no Rio de Janeiro. Participação em feiras para a divulgação da linha de equipamentos"
+            },
+            {
+                "empresa": "Pensalab Equipamentos Industriais S.A.",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Estagiário de aplicação",
+                "vinculo": "Estagiário",
+                "descricao": "Instalação e validação de equipamentos analíticos da linha Metrohm, como: tituladores automáticos, phmetros e condutivímetros.Treinamentos sobre os equipamentos da linha Metrohm nas Indústrias de: Óleo e Gás;Farmacêuticas e Cosméticos;Alimentos e Bebidas"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2019,
+                "ano_fim": 2019,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Avaliação de trabalhos discentes da Semana da Química 2019"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Avaliação de projeto de pesquisa edital n° PIVICT 2018/2019. Estudos sobre transporte de massa, envolvendo eletrodo rotatório"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Avaliação de trabalhos discentes da Semana da Química 2017"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Avaliação de trabalhos discentes da Semana da Química 2016"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "",
+                "vinculo": "Revisor de projeto de fomento",
+                "descricao": "Avaliação de trabalhos discentes da Semana da Química 2015"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2011,
+                "ano_fim": null,
+                "funcao": "Prof. Ensino Básico",
+                "vinculo": "Técnico e Tecnológico.",
+                "descricao": "Disciplinas ministradas: Atualmente: Processos Inorgânicos, Programação, Fundamentos de Cálculo de Processos. Atuando nos cursos técnico em Química integrado e subsequente, Engenharia Química e CST em Processos Químicos. Atendimento colocaborativo no CONAPNE, de forma individualizada, a alunos com necessidades específicas de todos os cursos técnicos do Campus"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2020,
+                "ano_fim": null,
+                "funcao": "Não informada",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nGraduacao (2011) - Processos Químicos.\nEnsino-medio (2011) .",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nMembro Do Núcleo Docente Estruturante Do Curso Superior De Processos Químicos (2015).",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Estado do Rio de Janeiro",
+                "nome": "Desenvovimento de Soluções para o Gerenciamento da Deposição em Baterias de Pré-Aquecimento",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Barbosa Guimarães Tavares",
+                    "Fernando Luiz Pellegrini Pessoa",
+                    "Eduardo Mach Queiroz",
+                    "Sérgio Gregório De Oliveira",
+                    "Fabio Dos Santos Liporace",
+                    "André Luiz Hemerly Costa",
+                    "Joana Lopes Borges"
+                ],
+                "financiador": "Petróleo Brasileiro - Rio de Janeiro - Matriz,",
+                "ano_inicio": 2008,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Otimização de projeto e operação de redes de escoamento",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Barbosa Guimarães Tavares",
+                    "Paula Anastácia Moraes Cairo Gomes"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Ferramentas Computacionais de acompanhamento de processos químicos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Barbosa Guimarães Tavares",
+                    "Elene De Souza Freitas",
+                    "Leonard Guimarães De Carvalho",
+                    "Flávia De Souza Carvalho"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Trocando calor com muito amor (Semana de Química XXXVII)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Viviane Barbosa Guimarães Tavares",
+                    "Adam Tabacof",
+                    "Elene Freitas"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Produção de faces shields (escudos faciais) em manufatura aditiva para a prevenção e combate ao COVID-19",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Barbosa Guimarães Tavares",
+                    "Grazielle Rodrigues Pereira",
+                    "Chrystian Carletti",
+                    "Luciana Castaneda Ribeiro"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Desenvolvimento de protótipo usando Arduino para a medição da viscosidade em Biodiesel",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Barbosa Guimarães Tavares",
+                    "Flávia De Souza Carvalho",
+                    "Érica Cruz Faria",
+                    "Gustavo Furiati Luiz Martins"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "Alves",
+                    "evento": "Simone,  TAVARES, VIVIANE BARBOSA GUIMARÃES,  FERREIRA, T. F.,  Workshop Processos Químicos em Foco",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "ifrj."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DE SOUZA, JAIME N. M.",
+                "titulo": "VENTIN, FABYANA F.;  TAVARES, VIVIANE B. G.;  COSTA, ANDRÉ L. H.;  A MATRIX APPROACH FOR OPTIMIZATION OF PIPE NETWORKS IN COOLING WATER SYSTEMS",
+                "ano": "2014",
+                "periodico": "Chemical Engineering Communications (Print). ISBN: 00986445   ."
+            },
+            {
+                "autores": "COSTA, André Luiz Hemerly",
+                "titulo": "TAVARES, V. B. G.;  BORGES, Joana Lopes;  QUEIROZ, Eduardo Mach;  PESSOA, Fernando Luiz Pellegrini;  LIPORACE, FÁBIO DOS SANTOS;  DE OLIVEIRA, SERGIO GREGÓRIO;  Parameter Estimation of Fouling Models in Crude Preheat Trains",
+                "ano": "2013",
+                "periodico": "Heat Transfer Engineering. ISBN: 01457632   ."
+            },
+            {
+                "autores": "TAVARES, V. B. G.",
+                "titulo": "André Luiz Hemerly Costa;  Joana Lopes Borges;  Eduardo Mach Queiroz;  Fernando Luiz Pellegrini Pessoa;  Fabio dos Santos Liporace;  Sérgio Gregório de Oliveira;  Thermohydraulic Simulation of Heat Exchanger Networks",
+                "ano": "2010",
+                "periodico": "Industrial & Engineering Chemistry Research. ISBN: 08885885   ."
+            },
+            {
+                "autores": "TAVARES, V. B. G.",
+                "titulo": "COSTA, André Hermerly;  Borges, J.L.;  QUEIROZ, E. M.;  PESSOA, Fernando Luiz Pellegrini;  LIPORACE, F. S.;  OLIVEIRA, S. G.;  Analysis of an Operational Optimisation Procedure of Refinery Crude Pre-heat Trains for Fouling Management",
+                "ano": "2010",
+                "periodico": "Hydrocarbon World (Print). ISBN: 17533899   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "André Luiz Hemerly Costa",
+                "titulo": "TAVARES, V",
+                "evento": "B. G.; Joana Lopes Borges; Eduardo Mach Queiroz; Fernando Luiz Pellegrini Pessoa; Fabio dos Santos Liporace; Sérgio Gregório de Oliveira; Parameter Estimation of Fouling Models in Crude Preheat Trains. Heat Exchanger Fouling and Cleaning",
+                "local": "Creta",
+                "ano": "2011"
+            },
+            {
+                "autores": "TAVARES, V. B. G.",
+                "titulo": "André Luiz Hemerly Costa; MATTOS, K",
+                "evento": "B.; Fabio dos Santos Liporace; Sérgio Gregório de Oliveira; Fernando Luiz Pellegrini Pessoa; Eduardo Mach Queiroz; Hydraulic Investigation of Fouling in a Crude Preheat Train. 21st International Congress of Mechanical Engineering",
+                "local": "Natal",
+                "ano": "2011"
+            },
+            {
+                "autores": "André Luiz Hemerly Costa",
+                "titulo": "TAVARES, V",
+                "evento": "B. G.; Eduardo Mach Queiroz; Fernando Luiz Pellegrini Pessoa; Fabio dos Santos Liporace; Sérgio Gregório de Oliveira; Joana Lopes Borges; Analysis of the Enviromental and Economic Impact of Fouling in the Petroleum Distillation. Heat Exchanger Fouling and Cleaning",
+                "local": "Creta",
+                "ano": "2011"
+            },
+            {
+                "autores": "Joana Lopes Borges",
+                "titulo": "André Luiz Hemerly Costa; Eduardo Mach Queiroz; Fabio dos Santos Liporace; Fernando Luiz Pellegrini Pessoa; Sérgio Gregório de Oliveira; TAVARES, V",
+                "evento": "B. G.; Thermohydraulic Analysis of Heat Exchanger Cleaning.. 2nd International Conference on Engineering Optimization",
+                "local": "Lisboa",
+                "ano": "2010"
+            },
+            {
+                "autores": "André Luiz Hemerly Costa",
+                "titulo": "TAVARES, V",
+                "evento": "B. G.; Eduardo Mach Queiroz; Fabio dos Santos Liporace; Fernando Luiz Pellegrini Pessoa; Joana Lopes Borges; Sérgio Gregório de Oliveira; Thermohydraulic Optimization of Crude Preheat Trains. 7th European Congress of Chemical Engineering",
+                "local": "Praga",
+                "ano": "2010"
+            },
+            {
+                "autores": "TAVARES, V. B. G.",
+                "titulo": "André Luiz Hemerly Costa; Joana Lopes Borges; Eduardo Mach Queiroz; Fabio dos Santos Liporace; Fernando Luiz Pellegrini Pessoa; Sérgio Gregório de Oliveira; Simulação Termohidráulica de Baterias de Pré-Aquecimento Sujeitas à Deposição",
+                "evento": "XVIII Congresso Brasileiro de Engenharia Química",
+                "local": "Foz do Iguaçu",
+                "ano": "2010"
+            },
+            {
+                "autores": "TAVARES, V. B. G.",
+                "titulo": "André Luiz Hemerly Costa; Eduardo Mach Queiroz; Fernando Luiz Pellegrini Pessoa; Sérgio Gregório de Oliveira; Fabio dos Santos Liporace; Thermohydraulic Simulation of Heat Exchanger Networks Subjected to Fouling",
+                "evento": ". 10th International Symposium on Process Systems Engineering - PSE2009",
+                "local": "Salvador",
+                "ano": "2009"
+            },
+            {
+                "autores": "TAVARES, V. B. G.",
+                "titulo": "André Luiz Hemerly Costa; Fabio dos Santos Liporace; Joana Lopes Borges; Sérgio Gregório de Oliveira; Fouling Mitigation Through Optimization of Heat Exchanger Cleaning Schedules",
+                "evento": "22nd International Conference on Efficiency",
+                "local": "Cost, Optimisation, Simulation and Environmental Impact of Energy Systems, Foz do Iguaçu",
+                "ano": "2009"
+            },
+            {
+                "autores": "André Luiz Hemerly Costa",
+                "titulo": "TAVARES, V",
+                "evento": "B. G.; Sérgio Gregório de Oliveira; Joana Lopes Borges; Fernando Luiz Pellegrini Pessoa; Fabio dos Santos Liporace; Eduardo Mach Queiroz; Simulação e Otimização das Paradas para Limpeza de Trocadores de Calor Críticos de uma Planta Industrial. 5º Congresso Brasileiro de P&D em Petróleo e Gás",
+                "local": "Fortaleza",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Thiago Ferreira Paes Cavalcante",
+                "titulo": "Processo de produção de clorito de sódio na reação de clarato e peróxido de hidrogênio",
+                "ano": "2022",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Mariana Medeiros de Andrade",
+                "titulo": "Produção de cachaça com processo de aceleração do envelhecimento",
+                "ano": "2021",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Carlos Eduardo Rodrigues da Silva",
+                "titulo": "Produção de cerveja sustentável à base de trigo e guaraná.",
+                "ano": "2021",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Matheus de Oliveira Dias Rocha",
+                "titulo": "Unidade de produção de Bicarbonato de sódio",
+                "ano": "2020",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Natália Álvaro",
+                "titulo": "Unidade de produção de Bioetanol hidratado a partir de cana-de-acçucar.",
+                "ano": "2020",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Gustavo Furiatti",
+                "titulo": "Ferrramentas computacionais de acompanhamento de processos químicos",
+                "ano": "2019",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Raphael Valente",
+                "titulo": "Unidade de produção de alumina",
+                "ano": "2019",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Karine Gomes Chaves",
+                "titulo": "Unidade de produção de ácido sulfúrico",
+                "ano": "2019",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Gabriel Furiati",
+                "titulo": "Unidade de produção do ácido tricloroisocianúrico (TCCA)",
+                "ano": "2019",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Priscilla Peeters de Oliveira",
+                "titulo": "Unidade de produção da amônia Processo Haber-Bosch",
+                "ano": "2019",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Victor Magno Paiva",
+                "titulo": "Aplicação da bioflotação para o beneficiamento de minério de ferro de baixo teor de ferro.",
+                "ano": "2017",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Camila Sá de Jesus",
+                "titulo": "Análise Granulométrica na Indústria do Café Torrado e Moído",
+                "ano": "2016",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "LUANA SUEKO PERES",
+                "titulo": "BENEFICIAMENTO E EXTRAÇÃO POR SOLVENTE DE FERROCOLUMBITA PARA PRODUÇÃO DE NIÓBIO",
+                "ano": "2015",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Paula Anastácia Moraes Cairo Gomes",
+                "titulo": "Otimização de projeto e operação de redes de escoamento",
+                "ano": "2013",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Rodrigo Coutinho da Silva",
+                "titulo": "Estudo de Modelos para Distribuição Granulométrica da Nitropenta Bruta",
+                "ano": "2013",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Felipe Pereira de Moura",
+                "titulo": "Otimização de projeto e operação de redes de escoamento",
+                "ano": "2013",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            },
+            {
+                "orientando": "Bernard Moufron Alessio",
+                "titulo": "ANÁLISE DO NÍVEL DE COBRE EM CACHAÇA ATRAVÉS DO MÉTODO ESPECTROFOTOMÉTRICO DE DIETILDITIOCARBAMATO DE SÓDIO",
+                "ano": "2012",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.2378951758146286,
+            "indian": 0.7993782758712769,
+            "black": 0.12269893288612366,
+            "white": 62.79522705078125,
+            "middle eastern": 19.312328338623047,
+            "latino hispanic": 16.732471466064453
+        }
+    }
+}

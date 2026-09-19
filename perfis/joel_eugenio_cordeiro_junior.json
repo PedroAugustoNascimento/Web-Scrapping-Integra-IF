@@ -1,0 +1,372 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2019 - 2023",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Análise do Efeito da Interferência Epidêmica em Sistemas de Comunicações Digitais",
+                "orientador": "Marcelo Sampaio de Alencar"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "periodo": "2016 - 2018",
+                "instituicao": "Universidade Federal de Campina Grande",
+                "titulo": "Avaliação de Métodos para Alocação de Recursos em Acesso Múltiplo Não Ortogonal no Domínio da Potência",
+                "orientador": "Marcelo Sampaio de Alencar"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "periodo": "2013 - 2016",
+                "instituicao": "Universidade Federal do Recôncavo da Bahia"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciências Exatas e Tecnológicas",
+                "periodo": "2010 - 2013",
+                "instituicao": "Universidade Federal do Recôncavo da Bahia"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "periodo": "2014 - 2016",
+                "cargo": "Professor Substituto, Professor Substituto no Centro de Ciências Exatas e Tecnológicas.."
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "periodo": "2013 - 2014",
+                "cargo": "Bolsista PIBIC/CNPq, Bolsista, Bolsista no Programa Institucional de Bolsas de Iniciação Científica/CNPq de 2013 a 2014."
+            },
+            {
+                "empresa": "Universidade Federal do Recôncavo da Bahia",
+                "periodo": "2012 - 2013",
+                "cargo": "Bolsista PIBIC/FAPESB, Bolsista, Bolsista no Programa Institucional de Bolsas de Iniciação Científica/FAPESB de 2012 a 2013.."
+            },
+            {
+                "empresa": "Universidade Federal de Campina Grande",
+                "periodo": "2016 - 2018",
+                "cargo": "Estudante de Mestrado, Estudante."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "periodo": "2017 - 2024",
+                "cargo": "Analista de Tecnologia da Informação, Servidor público, Atuou nas áreas de Infraestrutura de TI, Sistemas Operacionais, Virtualização, Redes de Computadores e Telecomunicações.."
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+                "periodo": "2024",
+                "cargo": "Professor, Servidor público, Professor EBTT efetivo no campus Valença."
+            },
+            {
+                "empresa": "JCOMSS - Journal of Communications Software and Systems",
+                "periodo": "2024",
+                "cargo": ", Revisor de periódico."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Federal do Recôncavo da Bahia\nGraduacao (2014 - 2016) - Engenharia De Pesca.\nGraduacao (2014 - 2014) - Engenharia Sanitária E Ambiental.\nGraduacao (2014 - 2016) - Bacharelado Em Ciências Exatas E Tecnológicas.",
+        "comissoes": ": Universidade Federal do Recôncavo da Bahia\nMembro Do Conselho Diretor Do Cetec (2013 - 2014).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Recôncavo da Bahia",
+                "nome": "Caracterização de Nós Sensores em uma Rede de Sensores sem Fio Zigbee",
+                "periodo": "2012 - 2013",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Joel Eugênio Cordeiro Junior",
+                    "José Valentim dos Santos Filho"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,"
+            },
+            {
+                "instituicao": "Universidade Federal do Recôncavo da Bahia",
+                "nome": "Desenvolvimento do Sistema do Conselho Tutelar Cruz das Almas - SysConT",
+                "periodo": "2014 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Joel Eugênio Cordeiro Junior",
+                    "Tiago Palma Pagano"
+                ]
+            },
+            {
+                "instituicao": "Universidade Federal do Recôncavo da Bahia",
+                "nome": "Avaliação de Técnicas de Sensoriamento Espectral Cooperativas em Rádios Cognitivos",
+                "periodo": "2013 - 2014",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Joel Eugênio Cordeiro Junior",
+                    "José Valentim dos Santos Filho"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,"
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "CORDEIRO JUNIOR",
+                    "software": "J. E.,  NOMA Simulation",
+                    "ano": "2018",
+                    "finalidade": "Simular em nível de sistemas uma rede celular NOMA."
+                },
+                {
+                    "autor": "CORDEIRO JUNIOR",
+                    "software": "J. E.,  Sistema de Monitoramento de Salas de Aulas (SMSA)",
+                    "ano": "2015",
+                    "finalidade": "Monitorar e exibir em um painel as atividades em andamento nas salas de aulas da UFRB."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  ALENCAR, M. S.,  O Efeito da Interferência Epidêmica na Estimação de Fase da Portadora em Sistemas M-PSK",
+                    "ano": "2022",
+                    "instituicao_promotora": "Sociedade Brasileira de Micro-ondas e Optoeletrônica."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  ALENCAR, M. S.,  Probabilidade de Erro de Sistemas BPSK em Canais com Interferência Epidêmica",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto de Estudos Avançados em Comunicações e Instituto Federal da Paraíba."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  ALENCAR, M. S.,  Capacidade Ergódica de Canais Sujeitos à Interferência Epidêmica",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto de Estudos Avançados em Comunicações e Instituto Federal da Paraíba."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  SANTOS FILHO, J. V.,  Avaliação de Desempenho das Técnicas de Sensoriamento Espectral em Redes Cognitivas",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto de Estudos Avançados em Comunicações - IECOM."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  SANTOS FILHO, J. V.,  Avaliação de Desempenho das Técnicas de Sensoriamento Espectral em Redes Cognitivas (Poster)",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade Federal do Recôncavo da Bahia."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  PAGANO, T. P.,  SISCONT: Sistema de Atendimento do Conselho Tutelar de Cruz das Almas",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade Federal do Recôncavo da Bahia."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  SANTOS FILHO, J. V.,  Monitoramento Ambiental Utilizando Nó Sensor Zigbee De Baixo Custo",
+                    "ano": "2013",
+                    "instituicao_promotora": "Universidade Federal do Rencôncavo da Bahia."
+                },
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "titulo": "J. E.,  Minicuso Introdução a Microcontroladores",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal do Rencôncavo da Bahia."
+                },
+                {
+                    "autores": "CORDEIRO",
+                    "titulo": "JOEL E.,  MATOS, S. R. C.,  Motor Stirling",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universidade Federal do Recôncavo da Bahia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "CORDEIRO",
+                    "curso": "JOEL E.,  Curso CCNA: Introdução a Redes",
+                    "ano": "2021"
+                },
+                {
+                    "autor": "OLIVEIRA NETO",
+                    "curso": "J. S.,  CORDEIRO JUNIOR, J. E.,  DIAS, T. C.,  Introdução à lingugagem de programação Java",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "CORDEIRO JUNIOR",
+                    "curso": "J. E.,  Projeto Preparando e Descobrindo Novos Talentos para as Olimpíadas de Matemática",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CORDEIRO JUNIOR",
+                    "evento": "J. E.,  I RECONBITS I Encontro de Computação do Recôncavo da Bahia",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Federal do Recôncavo da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "CORDEIRO JR, JOEL E.",
+                "titulo": "ALENCAR, MARCELO S.;  YASHINA, MARINA V.;  TATASHEV, ALEXANDER G.;  Effect of Epidemic Interference on the Performance of M-ASK, M-PSK and M-QAM Modulation Schemes",
+                "ano": "2021",
+                "periodico": "JCOMSS - Journal of Communications Software and Systems. ISBN: 18456421   ."
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "ALENCAR, M. S.;  SANTOS FILHO, J. V.;  ASSIS, K. D. R.;  A Fair Power Allocation for Non-Orthogonal Multiple Access in the Power Domain",
+                "ano": "2019",
+                "periodico": "The ISC International Journal of Information Security. ISBN: 20083076   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "DE ALENCAR, MARCELO S.",
+                "titulo": "CORDEIRO JÚNIOR, JOEL E",
+                "evento": "; Flat Optical Frequency Comb Generation Using Woodward's Theorem. 2024 SBFoton International Optics and Photonics Conference (SBFoton IOPC)",
+                "local": "Salvador",
+                "ano": "2024"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "ALENCAR, M",
+                "evento": "S.; Avaliação de Desempenho da Estimação de Fase da Portadora na Presença da Interferência Epidêmica. XII Conferência Nacional em Comunicações",
+                "local": "Redes e Segurança da Informação ? Encom 2022, Guaramiranga, CE",
+                "ano": "2022"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "ALENCAR, M",
+                "evento": "S.; O Efeito da Interferência Epidêmica na Estimação de Fase da Portadora em Sistemas M-PSK. 20º Simpósio Brasileiro de Micro-ondas e Optoeletrônica",
+                "local": "Natal, RN",
+                "ano": "2022"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "ALENCAR, M",
+                "evento": "S.; Probabilidade de Erro de Sistemas BPSK em Canais com Interferência Epidêmica. XI Conferência Nacional em Comunicações",
+                "local": "Redes e Segurança da Informação,",
+                "ano": "2021"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "ALENCAR, M",
+                "evento": "S.; Capacidade Ergódica de Canais Sujeitos à Interferência Epidêmica. XI Conferência Nacional em Comunicações",
+                "local": "Redes e Segurança da Informação,",
+                "ano": "2021"
+            },
+            {
+                "autores": "CORDEIRO, JOEL E.",
+                "titulo": "ALENCAR, MARCELO S",
+                "evento": "; YASHINA",
+                "local": "MARINA V.; TATASHEV, ALEXANDER G.; Effect of Epidemic Interference on the Performance of Digital Communication Systems. 2021 International Conference on Software, Telecommunications and Computer Networks (SoftCOM), Split",
+                "ano": "2021"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "ALENCAR, M",
+                "evento": "S.; SANTOS FILHO",
+                "local": "J. V.; ASSIS, K. D. R.; A Fair Power Allocation for Non-Orthogonal Multiple Access in the Power Domain. Fifth International Conference on Communication, Management and Information Technology (ICCMIT 2019), Vienna",
+                "ano": "2019"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "SANTOS FILHO, J",
+                "evento": "V.; ALENCAR",
+                "local": "M. S.; Avaliação de Desempenho do Acesso Múltiplo Não Ortogonal no Dom&#305;&#769;nio da Potência. VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação - ENCOM 2018, Savador",
+                "ano": "2018"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "SANTOS FILHO, J",
+                "evento": "V.; ALENCAR",
+                "local": "M. S.; Simulação de Sistemas de Comunicações Móveis com Software Livre. VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação - ENCOM 2018, Savador",
+                "ano": "2018"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "SANTOS FILHO, J",
+                "evento": "V.; AVALIAÇÃO DE DESEMPENHO DAS TÉCNICAS DE SENSORIAMENTO ESPECTRAL EM REDES COGNITIVAS. III Reunião Anual de Ciência",
+                "local": "Tecnologia, Inovação e Cultura no Recôncavo da Bahia (III Reconcitec), Cruz das Almas, Bahia",
+                "ano": "2014"
+            },
+            {
+                "autores": "CORDEIRO JUNIOR, J. E.",
+                "titulo": "SANTOS FILHO, J",
+                "evento": "V.; Avaliação de Desempenho das Técnicas de Sensoriamento Espectral em Redes Cognitivas. ENCONTRO ANUAL DO IECOM EM COMUNICAÇÕES",
+                "local": "REDES E CRIPTOGRAFIA, João Pessoa",
+                "ano": "2014"
+            },
+            {
+                "autores": "CORDEIRO, JOEL E.",
+                "titulo": "SANTOS FILHO, J",
+                "evento": "V.; MONITORAMENTO AMBIENTAL UTILIZANDO NÓ SENSOR ZIGBEE DE BAIXO CUSTO. Seminário Estudantil de Pesquisa",
+                "local": "Inovação e Pós-Graduação, Cruz das Almas",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ananda S",
+                "titulo": "Paciência, Maria E. J. Santos, Murilo S. Santos.  SISTEMA DE MENSAGEM PARA INTERNET DAS COISAS",
+                "ano": "2025",
+                "curso": "Técnico de Nível Médio em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "C",
+                "titulo": "S. Menezes, F. S. Pedroso, J. P. S. Guimarães et al.  Desenvolvimento de um Robô Seguidor de Linha para Fins Educacionais",
+                "ano": "2025",
+                "curso": "Técnico de Nível Médio em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "A",
+                "titulo": "M. dos Santos, D. J. dos Santos, K. G. Santiago et al.  Desenvolvimento de um Sistema de Irrigação Automático com Arduino para Pequenas Hortas Urbanas",
+                "ano": "2025",
+                "curso": "Técnico de Nível Médio em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "C",
+                "titulo": "S. Viera, F. E. C. Barbosa, G. B, Laytynher et al.  CONTROLADOR PID: Conceitos, Aplicações e Demonstração Prática em um Robô Autobalanceado",
+                "ano": "2025",
+                "curso": "Técnico de Nível Médio em Informática",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Amanda K",
+                "titulo": "L. Santos, Lucas O. Santos, Paula N. Santos et al.  SENSORIAMENTO DE TEMPERATURA EM TANQUES EXPERIMENTAIS DE PISCICULTURA",
+                "ano": "2025",
+                "curso": "Técnico de Nível Médio em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+            },
+            {
+                "orientando": "Davi Carvalho Cerqueira",
+                "titulo": "EXPLORANDO FERRAMENTAS DE BUSCA E PROCESSAMENTO DE DADOS: Um Estudo com Ênfase no Elasticsearch.",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.5931239128112793,
+            "indian": 6.4834065437316895,
+            "black": 0.645572304725647,
+            "white": 16.57001495361328,
+            "middle eastern": 46.860939025878906,
+            "latino hispanic": 27.846940994262695
+        }
+    }
+}

@@ -33,6 +33,11 @@
                 "cargo": "Professor Substituto, Professor."
             },
             {
+                "empresa": "Faculade Padrão",
+                "periodo": "2003 - 2006",
+                "cargo": "Professor Horista, Professor Horista."
+            },
+            {
                 "empresa": "Centro Universitário de Brasília",
                 "periodo": "2001 - 2003",
                 "cargo": "Professor Horista, Professor Horista."
@@ -45,11 +50,6 @@
             {
                 "empresa": "Instituto de Educação Superior de Brasília",
                 "periodo": "2002 - 2003",
-                "cargo": "Professor Horista, Professor Horista."
-            },
-            {
-                "empresa": "Faculade Padrão",
-                "periodo": "2003 - 2006",
                 "cargo": "Professor Horista, Professor Horista."
             },
             {
@@ -84,7 +84,7 @@
             }
         ],
         "direcao_administracao": "",
-        "ensino": ": Universidade Evangélica de Goiás\nGraduacao (2007 - 2009) - Ciência Da Computação.\nGraduacao (2007 - 2009) - Sistemas De Informação.",
+        "ensino": ": Universidade Evangélica de Goiás\nGraduacao (2007 - 2009) - Sistemas De Informação.\nGraduacao (2007 - 2009) - Ciência Da Computação.",
         "comissoes": "",
         "projetos": [
             {
@@ -111,23 +111,23 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
+                "nome": "Percepção Multimodal em Sistemas IoT para Agricultura de Precisão: Uma Abordagem Integrada com Visão Computacional, Computação Sônica e Dados de Sensores Ambientais",
+                "periodo": "2024",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "SERGIO SOUZA NOVAK",
+                    "Adriano Soares de Oliveira Bailão",
+                    "HÉCTOR ALEXIS MIRANDA"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
                 "nome": "Modelo automático de irrigação inteligente",
                 "periodo": "2019 - 2020",
                 "natureza": "Pesquisa",
                 "equipe": [
                     "Adriano Soares de Oliveira Bailão",
                     "Emanuel Silva Araujo"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
-                "nome": "Percepção Multimodal em Sistemas IoT para Agricultura de Precisão: Uma Abordagem Integrada com Visão Computacional, Computação Sônica e Dados de Sensores Ambientais",
-                "periodo": "2024",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Adriano Soares de Oliveira Bailão",
-                    "SERGIO SOUZA NOVAK",
-                    "HÉCTOR ALEXIS MIRANDA"
                 ]
             },
             {
@@ -287,8 +287,8 @@
     "producao_bibliografica": {
         "livros": [
             {
-                "autores": "BAILAO, A. S. O.",
-                "titulo": "SANTOS, W. V.;  COSTA, A. C.;  Coutinho, W. B. G.;  NOVAK, S. S.;  OLIVEIRA, A. V.;  MELO, G. A. F.;  CABRAL, I. M.;  Estatística Experimental, do Iniciante ao Iniciado",
+                "autores": "COSTA, A. C.",
+                "titulo": "BAILAO, A. S. O.;  SANTOS, W. V.;  Coutinho, W. B. G.;  NOVAK, S. S.;  OLIVEIRA, A. V.;  MELO, G. A. F.;  CABRAL, I. M.;  Estatística Experimental, do Iniciante ao Iniciado",
                 "ano": "2026",
                 "informacoes_adicionais": "Nao_informado. ISBN: 9786502001578, Goiânia (Publicado)."
             },
@@ -301,8 +301,14 @@
         ],
         "artigos": [
             {
-                "autores": "ROSA, MÁRCIO",
-                "titulo": "DIAS SILVA, MARLUS;  GUIMARÃES SILVA, FABIANO;  MARTINS VASCONCELOS, JAQUELINE;  BARBOSA DA SILVA, FÁBIA;  SOARES DE OLIVEIRA BAILÃO, ADRIANO;  MORAES ROCHA GUEDES, ÍTALO;  DA SILVA VILELA, MÁRCIO;  CARVALHO COSTA, ADRIANO;  LORAM LOURENÇO, LUCAS;  An Open-Architecture Precision Vertical Farming System for Sesame Microgreens: Audit-Ready Telemetry for Dynamic Lighting and Energy-Biomass Benchmarking",
+                "autores": "DE ALMEIDA, GUILHERME PIRES SILVA",
+                "titulo": "STIRLE, JÉSSICA LAUANDA;  DOS SANTOS, LEONARDO NAZÁRIO SILVA;  DE OLIVEIRA, RUY;  TEIXEIRA, MARCONI BATISTA;  DE OLIVEIRA, MARIO;  GONTIJO, PABLO DA COSTA;  DE OLIVEIRA BAILÃO, ADRIANO SOARES;  DO CARMO FRANÇA, HEYDE FRANCIELLE;  NOVAK, SERGIO SOUZA;  AgroInsect: A hybrid AI-driven edge-cloud architecture for precision pest detection and geostatistical interpolation in agriculture",
+                "ano": "2027",
+                "periodico": "COMPUTERS AND ELECTRONICS IN AGRICULTURE. ISBN: 01681699   ."
+            },
+            {
+                "autores": "DIAS SILVA, MARLUS",
+                "titulo": "GUIMARÃES SILVA, FABIANO;  MARTINS VASCONCELOS, JAQUELINE;  BARBOSA DA SILVA, FÁBIA;  SOARES DE OLIVEIRA BAILÃO, ADRIANO;  MORAES ROCHA GUEDES, ÍTALO;  DA SILVA VILELA, MÁRCIO;  CARVALHO COSTA, ADRIANO;  ROSA, MÁRCIO;  LORAM LOURENÇO, LUCAS;  An Open-Architecture Precision Vertical Farming System for Sesame Microgreens: Audit-Ready Telemetry for Dynamic Lighting and Energy-Biomass Benchmarking",
                 "ano": "2026",
                 "periodico": "Smart Agricultural Technology. ISBN: 27723755   ."
             },
@@ -317,6 +323,12 @@
                 "titulo": "Bailão, Adriano Soares de Oliveira;  BARROS, GUSTAVO MOURA;  NOVAK, SERGIO SOUZA;  OLIVEIRA, MANOEL HENRIQUE REIS DE;  LOPES, VALBER SARDI;  ARQUITETURA IOT COM OTIMIZAÇÃO MPMAS E CAMADA INTELIGENTE BASEADA EM REGRAS PARA APOIO À DECISÃO EM AGRICULTURA DE PRECISÃO",
                 "ano": "2026",
                 "periodico": "Revista Tópicos. ISBN: 29656672   ."
+            },
+            {
+                "autores": "VIEIRA, DANIEL XAVIER",
+                "titulo": "Bailão, Adriano Soares de Oliveira;  BARROS, GUSTAVO MOURA;  BRASILEIRO, LUIZ ANTONIO ANACLETO;  Detecção automática de rebanhos bovinos em campo aberto utilizando arquitetura YOLO V8 e implementação do software cattlevision",
+                "ano": "2026",
+                "periodico": "Revista de Derecho y Câmbio Social. ISBN: 22244131   ."
             },
             {
                 "autores": "NOVAK, SERGIO SOUZA",

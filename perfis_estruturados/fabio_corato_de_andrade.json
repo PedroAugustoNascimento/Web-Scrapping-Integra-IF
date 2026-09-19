@@ -1,0 +1,571 @@
+{
+    "campus": "- Campus Engenheiro Paulo de Frontin",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal Fluminense",
+                "titulo": "Uma proposta de arquitetura extensível para mapas dinâmicos de deslocamento na GPU para jogos digitais",
+                "orientador": "Aura Conci",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Jogos Digitais",
+                "instituicao": "Universidade Estácio de Sá",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Mecânica",
+                "instituicao": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+                "ano_inicio": 1997,
+                "ano_fim": 1998
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro de Estudos e Sistemas Avançados do Recife",
+                "ano_inicio": 2011,
+                "ano_fim": 2014,
+                "funcao": "Professor (Consultor de Qualificação Sênior)",
+                "vinculo": "Professor do Curso Técnico de Programação de Jogos do NAVE - Oi Futuro",
+                "descricao": "Colégio Estadual José Leite Lopes, RJ. Disciplinas lecionadas: Lógica de Programação (1o ano); Arquitetura das Plataformas para Jogos Digitais, Oficina Integrada II, Técnica de Programação de Jogos (2o ano); Metodologia para Desenvolvimento de Jogos, Oficina Integrada III, Programação de Jogos II, Projeto de Jogos Digitais, Técnica de Programação de Jogos II (3o ano)"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor (PEBTT)",
+                "vinculo": "Servidor público",
+                "descricao": "Professor do CST em Jogos Digitais, Engenheiro Paulo de Frontin - RJ. Disciplinas lecionadas: Criação de Personagens, Game Design e Roteirização, Programação de Jogos 2D (1o período); Jogos 3D com Engines, Trabalho de Conclusão de Período II - Jogo 3D (2o período); Jogos para Redes Sociais, Trabalho de Conclusão de Período III - Jogo em Rede (3o período); Inteligência Artificial Aplicada a Jogos, Trabalho de Conclusão de Período IV - Jogo para Dispositivo Móvel (4o período); Trabalho de Conclusão de Período V - Jogo para Console (5o período); Prototipagem em Jogos Digitais, Introdução a Programação de GPU para Jogos Digitais (optativas). Outras atividades: Coordenação do CST em Jogos Digitais; Núcleo Docente Estruturante - NDE; Conselho Acadêmico de Ensino de Graduação - CAEG; Coordenação de Pesquisa, Inovação e Incubadora - COPII"
+            },
+            {
+                "empresa": "Riachuelo Games",
+                "ano_inicio": 2011,
+                "ano_fim": 2014,
+                "funcao": "Desenvolvedor de Jogos",
+                "vinculo": "Participação em diversos projetos de jogos como: game designer",
+                "descricao": "coordenador técnico, programador, produtor e level designer"
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "Professor (MBA)",
+                "vinculo": "Não informado",
+                "descricao": "Professor convidado para lecionar a disciplina de Jogos e Animação nas turmas MBCA-16 e MBCA-17 (maio 2017) do curso de MBA em Engenharia de Sistemas e Computação"
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "Professor (MBA)",
+                "vinculo": "Não informado",
+                "descricao": "Professor convidado para lecionar a disciplina de Jogos e Animação nas turmas MBCA-14 e MBCA-15 (maio 2016) do curso de MBA em Engenharia de Sistemas e Computação"
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor (MBA)",
+                "vinculo": "Não informado",
+                "descricao": "Professor convidado para lecionar a disciplina de Jogos e Animação nas turmas MBCA-12 e MBCA-13 (julho 2015) do curso de MBA em Engenharia de Sistemas e Computação"
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Professor (MBA)",
+                "vinculo": "Não informado",
+                "descricao": "Professor convidado para lecionar a disciplina de Jogos e Animação na turma MBCA-10 (maio 2014) do curso de MBA em Engenharia de Sistemas e Computação"
+            },
+            {
+                "empresa": "Universidade Federal do Rio de Janeiro",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Professor (MBA)",
+                "vinculo": "Não informado",
+                "descricao": "Professor convidado para lecionar a disciplina de Jogos e Animação na turma MBCA-11 (dezembro 2014) do curso de MBA em Engenharia de Sistemas e Computação"
+            },
+            {
+                "empresa": "Super Uber",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Analista Programador",
+                "vinculo": "Desenvolvimento de softwares gráficos geralmente utilizando C++",
+                "descricao": "Openframeworks, OpenGL e eventualmente Unity3D e C#"
+            },
+            {
+                "empresa": "Vaca Vitória Software",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Consultor",
+                "vinculo": "Não informado",
+                "descricao": "Atuando como consultor em projetos de jogos nas etapas de planejamento e desenvolvimento"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nInstituto Federal de Educação,Ciência e Tecnologia do Rio de Janeiro (2023) : Coordenador Do Curso Superior De Tecnologia Em Jogos Digitais Do Ifrj - Engenheiro Paulo De Frontin.\nInstituto Federal de Educação,Ciência e Tecnologia do Rio de Janeiro (2019 - 2023) : Coordenador Substituto Do Curso Superior De Tecnologia Em Jogos Digitais Do Ifrj - Engenheiro Paulo De Frontin.\nInstituto Federal de Educação,Ciência e Tecnologia do Rio de Janeiro (2016 - 2017) : Coordenador De Pesquisa, Inovação E Incubadora Do Ifrj - Engenheiro Paulo De Frontin..\nPesquisa e Desenvolvimento\nNúcleo Avançado de Ensino - NAVE (2011 - 2014): Objetos de Aprendizagem ( Gamificação ),\nInstituto Federal de Educação,Ciência e Tecnologia do Rio de Janeiro (2022 - 2023): Grupo de pesquisa GSimCoG-IFRJ: Construção e Avaliação de um Jogo Sério Utilizando Conteúdo Dinâmico Baseado na Web Semântica,",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nEnsino-medio (2014 - 2015) .\nExtensão Universitária: Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nInstituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro: Jogando Junto: Aprender É Divertido (2024) - Jogando Junto: Aprender É Divertido.",
+        "comissoes": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro\nMembro Do Núcleo Docente Estruturante - Nde Do Curso Superior De Tecnologia Em Jogos Digitais Do Ifrj - Engenheiro Paulo De Frontin (2020).\nMembro Do Conselho Acadêmico De Ensino De Graduação - Caeg (2015).\nMembro Do Núcleo Docente Estruturante - Nde Do Curso Superior De Tecnologia Em Jogos Digitais Do Ifrj - Engenheiro Paulo De Frontin (2015 - 2016).",
+        "projetos": [
+            {
+                "instituicao": "Centro de Estudos e Sistemas Avançados do Recife",
+                "nome": "Objetos de Aprendizagem",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Corato De Andrade",
+                    "Antônio Marcelo Ferreira Da Fonseca",
+                    "Ernani Lodalgiro",
+                    "Flávio Castro",
+                    "Francisco Evandro",
+                    "Hamilton Lima",
+                    "Jackson Machado"
+                ],
+                "ano_inicio": 2011,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Jogando Junto: Aprender é Divertido",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fábio Corato De Andrade",
+                    "Henrique Bandeira Diaz",
+                    "Manuela Dos Reis Silva",
+                    "Pãmela Ketulin Mattos Gomes"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Construção e Avaliação de um Jogo Sério Utilizando Conteúdo Dinâmico Baseado na Web Semântica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Corato De Andrade",
+                    "Fernando Bento Moura De Souza",
+                    "Gustavo Dolavale De Melo",
+                    "Mateus Costa Pinto De Souza",
+                    "José Ricardo Da Silva Junior"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  SOUZA, L. C.,  OLIVEIRA, L. A. C.,  LORANDES, M. V. R.,  MARTINS, M. T.,  RODRIGUES, M. C.,  TAVARES, R. S. A.,  SILVA, J. G. C.,  PEREIRA, L. C.,  NASCIMENTO, L. M. C.,  ALVES, N. F.,  UNO, A. Y. M.,  PRADO, B. A.,  CAMARGO, E. I. H.,  CARDOSO, E. C.,  NEVES, F. J. C.,  VASCONCELOS, H. L. L.,  SOUZA, I. S.,  SANTOS, I. C. T.,  Jogo Digital 'MMORPG': Arquipélago dos Legados",
+                    "ano": "2026",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  Jogo Digital: Arkanoid",
+                    "ano": "2026",
+                    "finalidade": "Educacional e Didática (Ensino de Programação Web, Canvas API, POO, Game Loop e Integração com Facebook SDK).."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  Jogo Digital: Plumet",
+                    "ano": "2026",
+                    "finalidade": "Educacional e Didática (Ensino de Física de Plataforma 2D, Gravidade, Colisão AABB com Pouso Dinâmico, Lock de 60 FPS e Progressão de Dificuldade).."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  NASCIMENTO, L. M. C.,  ALVES, N. F.,  SILVA, A. G.,  FARIAS, F. S.,  BACKX, G. A.,  OLIVEIRA, M. R. M.,  ARAUJO, N. D. D.,  REZENDE, P. H. N.,  ALMEIDA, V. S. N.,  COSTA, L. M.,  Jogo Digital 'Multiplayer Online First Person Shooter': Splash Island",
+                    "ano": "2025",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  ALVES, N. F.,  SILVA, A. P. M.,  SILVA, B. A.,  FREITAS, L. F. E.,  PAULA, M. H. L.,  JESUS, P. N. P.,  LOURENCO, R. S. N.,  CARDOZO JUNIOR, M. A. F.,  NASCIMENTO, L. M. C.,  Jogo Digital 'Multiplayer Online Battle Royale': Elementar",
+                    "ano": "2025",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  Jogo Digital: Tiny Medievals",
+                    "ano": "2024",
+                    "finalidade": "Desenvolver jogo usando Godot e publicar na plataforma https://itch.io/."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  MANFRO, M. F.,  FARIA, M. T.,  MIRANDA, N. S.,  OLIVEIRA, P. L. B.,  PONTES, V. G.,  SILVA, E. W.,  NASCIMENTO, L. M. C.,  ALVES, N. F.,  AVILA, A. A.,  PONTES, A. G.,  PINTO, C. H. S.,  MARCELINO, E. L.,  GOMES, G. F. S.,  REIS, J. S. X.,  NASCIMENTO, L. F.,  SILVA, M. R.,  Jogo Digital 'Multiplayer Online Survival Game': Lost in Sundown",
+                    "ano": "2024",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  COSTA, L. M.,  REZENDE, L. L. R.,  AZEREDO FILHO, C. R. A.,  SILVA, F. R. O.,  MELO, H. G.,  BASTOS, J. M.,  CARDOZO JUNIOR, M. A. F.,  GONCALVES, M. L. E. L.,  GASTAO, R. D.,  RIBEIRO, W. R. G.,  Jogo Digital 'Multiplayer Online Battle Royale': Let it Goose",
+                    "ano": "2023",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  BOMFIM, P. H. R. S.,  GUARNIERE, R. N.,  MAGALHAES, V. E.,  SOUSA, A. C. P. P.,  NASCIMENTO, L. M. C.,  ALVES, N. F.,  SANTOS, A. S. S.,  ZOQBI, C. G. O.,  GODOI, E. V.,  SANTIAGO, F. S. D.,  DIAZ, H. B.,  BARROS, L. A.,  GONZAGA, M. C.,  HAYASSAKA, N. O.,  Jogo Digital 'Multiplayer Online First Person Shooter': Server.Clash",
+                    "ano": "2023",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  FREITAS, V. M. N.,  NASCIMENTO, L. M. C.,  SANTOS, L. P.,  ALVES, N. F.,  RAMOS, A. S.,  NASCIMENTO, B. F.,  MENEZES, D. H. R.,  SANTOS, G. R.,  OLIVEIRA, J. V. R. C.,  SILVEIRA, M. K. R.,  SILVA, M. F.,  COSTA, P. T. A.,  Jogo Digital 'Multiplayer Online RTS': Ouro e Espada",
+                    "ano": "2023",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  MARINHO, J. C. D.,  FIGUEIREDO, J. P. L.,  MARTINS, L. B.,  TRAVASSOS, L. S.,  SANTOS, L. P.,  SOUZA, M. C. P.,  BELLO, P. R. F.,  RAMOS, R. T.,  SARTORE, S. L.,  SILVA, V. B. R.,  FONTES, A. A. B. L.,  SANTOS, Y. S.,  PINHEIRO, A. B.,  SOUSA, B. C. M.,  OLIVEIRA, E. F. R.,  SOUZA, F. B. M.,  ABEGAO, G. G.,  MELO, G. D.,  BREDER, J. S. M.,  et.al,  Jogo Digital 'Multiplayer Online Battle Arena': In a Bad EggXistence",
+                    "ano": "2022",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  ALMEIDA, S. M. T.,  MATTA, S. S.,  OLIVEIRA, E. F. R.,  SILVA, G. M.,  ALVES, N. F.,  ROCHA, W. L. T.,  NASCIMENTO, L. M. C.,  PINTO JUNIOR, A. G. T.,  SILVA, B. C.,  NASCIMENTO, E. S.,  SANTANA, M. A. A.,  JESUS, P. S.,  SANTOS, P. S. L.,  CORREIA, P. G. F.,  MARINATO, R. F.,  Jogo Digital 'Multiplayer Online First Person Shooter': Cristal Rising",
+                    "ano": "2021",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  PICOLO, G. S.,  VIANA, G. S.,  NASCIMENTO, J. A. F.,  SILVA, J. H. R.,  RUFFO, L. M.,  MARINATO, R. F.,  ALMEIDA, V. S. N.,  ALVES, N. F.,  CASTRO, A. P. P.,  CASTANHEIRA, A. S.,  SILVA, A. L. P.,  LOUREIRO, A. L. B.,  SIQUEIRA, A. L. C.,  OLIVEIRA, D. H. S.,  GONCALVES, G. A.,  SANTOS, G. S.,  Jogo Digital 'Multiplayer Online Battle Arena': Elementalista",
+                    "ano": "2021",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  SANTIAGO, H. O.,  CAVALCANTI, I. H. L.,  COSTA, I. I.,  OSINAGA, J. A. E.,  NUNES, K. M.,  GIRAO, L.,  REZENDE, L. L. R.,  LOURENCO, R. S. N.,  ALMEIDA, R. M. R.,  MOREIRA, R. A.,  FERNANDES, G. A.,  COSTA, S. C.,  PRADO, A. C.,  CALDEIRA, A. C. C.,  BITTENCOURT, B. F.,  DRUMOND, C. K.,  BARBOSA, D. C.,  MIGUEL, E. S.,  OLIVEIRA, G. S. M.,  et.al,  Jogo Digital 'MMORPG': Eris Online",
+                    "ano": "2021",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  TAVARES, H. D. B.,  MANHAES, J. R.,  AGUIAR, J. P. F.,  POTENGY, J. L.,  SIQUEIRA, K. G.,  MACHADO, L. S. S.,  COSTA, L. M.,  MOREIRA, P. B.,  OLIVEIRA, P. A.,  SILVA, R. C.,  FURTADO, A. S.,  OLIVEIRA, S. A.,  CYPRIANO, C. L. O.,  SANTOS, F. A. S.,  COELHO, F. C. G.,  MOTTA, G. C.,  FONINI, G. M.,  DUTRA, G. M.,  GRUND, G. A.,  et.al,  Jogo Digital 'Multiplayer Online Battle Arena': Dyspair",
+                    "ano": "2019",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  SILVA, F. B.,  BORGES, F. C.,  ROCHA, F. E. P.,  BARRINHA, G. D.,  MELO, G. M.,  RODRIGUES, G.,  NEVES, G. L. G.,  DIONISIO, H. S. C.,  SILVA, I. A.,  DAVID, I. F.,  SILVA, J. G.,  MARRA, J. W.,  VALOURA, A. G. C.,  HAUGONTE, B. L.,  DOBARRO, C. C. A.,  KLEIN, D. G. A.,  QUINTANILHA, D. M. S.,  MARTINS, E. G.,  SALVADOR, E. R.,  et.al,  Jogo Digital 'Multiplayer Online Battle Royale': Dodge Ball Royale",
+                    "ano": "2019",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  GOMES, G. F. S.,  OTREIRA, I.,  BARBOSA, I. O. D.,  CALAZANS, J. P. R. T.,  SILVA, J. V. F. S.,  SILVA, L. L.,  COUTO, L. S.,  ALMEIDA, M. N. S.,  FONSECA, M. P. N.,  ALBUQUERQUE, P. H. S. B. M.,  SILVA, J. G.,  SANTIAGO, P. C.,  SANTOS, A. L. B.,  COELHO, B. C.,  OLIVEIRA, C. E. N.,  DORNAS, D. M.,  MOREIRA, D. V. B. S.,  SANTOS, F. C. N.,  ARAUJO, G. W. C.,  et.al,  Jogo Digital 'Multiplayer Online Battle Arena': Mecha Wars",
+                    "ano": "2018",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  PEREIRA, L. C.,  SOUZA, L. F. M.,  ARAUJO, L. G.,  PISMEL JUNIOR, L. C. M.,  OLIVEIRA, M. A. B. M.,  CARRION, R. F. C.,  CABRAL, R. R.,  SOUZA, R. S.,  DIAS, R. M.,  FONSECA, R. S.,  NASCIMENTO, A. G. F. S.,  MIRANDA, V. A.,  CORREA, A. S.,  OLIVEIRA, B. H. D.,  SILVA, G. F.,  ROCHA, G. R. D.,  SILVA, G. E. V. B.,  SANDRE, L. S.,  CARVALHO, L. S.,  et.al,  Jogo Digital 'Multiplayer Online Augmented Reality': Ouroboros",
+                    "ano": "2018",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  TEIXEIRA, J. V. S.,  SILVA, L. C.,  RIBEIRO, L. F.,  SOUZA, M. O.,  DIAS, M. H. A. G.,  SILVA, M. V. S.,  ALMEIDA, R. L.,  MACHADO, W. P.,  SILVA, E. W.,  BARBOSA, A. D. M.,  MORAES, A. K. C.,  CASTRO, D. A.,  SOARES, D. S.,  NEVES, E. E.,  FIGUEIRA, F. M. A.,  NORONHA, G. F.,  COSTA, J. P. N.,  Jogo Digital 'Multiplayer Online First Person Shooter': Techno Mages",
+                    "ano": "2017",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  ALMEIDA, G. S.,  CARDOSO JUNIOR, G. G.,  ALMEIDA, L. V. N.,  LEAL, L. G.,  MUNIZ, L. E. S.,  SANTANNA, L. S.,  ARARIPE, L. E. S. Z.,  TELES, M. L. S.,  CORDEIRO, M. G.,  SILVA, M. R.,  SILVA, J. P. N.,  ASSUMPCAO, P. F.,  COSTA, A. L. D.,  GARCEZ, A. Y. S.,  AMARAL, B. S.,  ASSUNCAO, D. C. M.,  CARREIRO, F. B. V.,  FERRO, F. C. E.,  OLIVEIRA, G. C.,  et.al,  Jogo Digital 'MMORPG': Awakening of Phaedros",
+                    "ano": "2017",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  SANTIAGO, P. C.,  FREITAS, R. P.,  MELLO, A. P.,  SILVA, E. W.,  LOCASSO, G. V.,  OLIVEIRA, H. H. C.,  CHAGAS, J. V. S.,  NAIFF, L. G. H.,  ALVES, N. F.,  OLIVEIRA, P. A.,  Jogo Digital 'Multiplayer Online Battle Arena': Mercenários da Galáxia",
+                    "ano": "2016",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  SILVA, R. M. M.,  COSTA, A. L. D.,  CASTRO, D. A.,  SILVA, F. M.,  SOUSA, I. O.,  SILVA, L. F. C.,  PEREIRA, M. A.,  PAOLINO, M. E. B.,  OLIVEIRA, N. S.,  Jogo Digital 'Multiplayer Online Third Person Shooter': Armagetron - Ascensão",
+                    "ano": "2016",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  SOUSA, A. C. P. P.,  RAMOS, D. M.,  SERDEIRO, E. A. L.,  DELLY, G. T.,  FREIRE, J. V. S.,  ALMEIDA, L. C. M.,  XISTO, L. M. P.,  FERNANDES, Y. M.,  Jogo Digital 'Multiplayer Online First Person Shooter': Piratas do Calibre",
+                    "ano": "2015",
+                    "finalidade": "Trabalho de Conclusão de Período III - Jogo em Rede."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  VIDAL, J. A. M.,  ROCHA, A.,  LEAL, W.,  CAVALCANTI, M.,  FRAGA, E.,  MEDEIROS, R. L.,  MONTEIRO, C.,  MELO, F. C.,  SOUZA, B.,  OLIVEIRA, C.,  SCUDIERE, A.,  AZEVEDO, F.,  RAMOS, V.,  Jogo Digital: Legends: The Awakening",
+                    "ano": "2012",
+                    "finalidade": "Concurso da empresa Square-Enix."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  FONSECA, A. M. F.,  MELO, F. C.,  CAVALCANTI, M.,  Jogo Digital: Christmas Jumper",
+                    "ano": "2011",
+                    "finalidade": "Entretenimento."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  MELO, F. C.,  Jogo Digital: Bird Island",
+                    "ano": "2009",
+                    "finalidade": "Aprendizado."
+                },
+                {
+                    "autor": "ANDRADE",
+                    "software": "F. C.,  MAIA, L.,  BOLPAS, C.,  MELO, F. C.,  OLIVEIRA, H.,  RIBEIRO, L.,  Jogo Digital: Curtição",
+                    "ano": "2007",
+                    "finalidade": "Entretenimento e propaganda."
+                },
+                {
+                    "autor": "VALE",
+                    "software": "W.,  ANDRADE, F. C.,  MAIA, L.,  BOLPAS, C.,  GOMES, F.,  MELO, F. C.,  CASTILHO, E.,  CASTRO, R.,  RIBEIRO, L.,  Jogo Digital: Presente Relâmpago",
+                    "ano": "2007",
+                    "finalidade": "Entretenimento e propaganda."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Do Zero à Publicação: Criando Jogos com JavaScript",
+                    "ano": "2026",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Desenvolvimento de Jogos assistidos por IA: MCP + Unity na prática",
+                    "ano": "2026",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Carreira em Desenvolvimeto de Jogos Digitais",
+                    "ano": "2026",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Introdução a Shaders no Unity",
+                    "ano": "2026",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Construindo Mundos combinando Programação e Arte",
+                    "ano": "2025",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Carreira em Desenvolvimento de Jogos Digitais",
+                    "ano": "2025",
+                    "instituicao_promotora": "Colégio Nossa Senhora de Lourdes."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Desenvolvendo Jogos com Programação Orientada a Objetos: Uma Abordagem Prática",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "SILVA JUNIOR",
+                    "titulo": "J. R.,  ANDRADE, F. C.,  SOUZA, F. B. M.,  SOUZA, M. C. P.,  MELO, G. D.,  Construção e Avaliação de um Jogo Sério Utilizando Conteúdo Dinâmico Baseado na Web Semântica",
+                    "ano": "2023",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Desmistificando a Programação para Games",
+                    "ano": "2021",
+                    "instituicao_promotora": "Secretaria Especial da Cultura."
+                },
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "L. C.,  SOUSA, A. C. P. P.,  ROCHA, W. L. T.,  BRAZIL, A. L.,  ANDRADE, F. C.,  TRINDADE, E. S.,  A Aplicação do Framework SCRUM no Desenvolvimento de Jogos Multiplayer Online na Academia: A Experiência com o Jogo Dyspair.",
+                    "ano": "2020",
+                    "instituicao_promotora": "Universidade de Coimbra."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  SOUSA, A. C. P. P.,  DELLY, G. T.,  FREIRE, J. V. S.,  SILVA, E. W.,  ALENCAR, V. G. S.,  Apresentação do processo de desenvolvimento de jogos multiplayer online",
+                    "ano": "2016",
+                    "instituicao_promotora": "Cinema Nosso."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "titulo": "F. C.,  Desenvolvimento de Jogos usando Programação Orientada a Objetos",
+                    "ano": "2011",
+                    "instituicao_promotora": "Oi Futuro."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "ANDRADE",
+                    "curso": "F. C.,  Fundamentos do Game Design",
+                    "ano": "2008"
+                },
+                {
+                    "autor": "ANDRADE",
+                    "curso": "F. C.,  Fundamentos do Game Design",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  DIAZ, H. B.,  SILVA, M. R.,  SILVA, A. P. M.,  SILVA, B. A.,  OLIVEIRA, L. A. C.,  IX Semana de Jogos Digitais (2026-1)",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  SILVA, A. P. M.,  SILVA, B. A.,  DIAZ, H. B.,  OLIVEIRA, L. A. C.,  SILVA, M. R.,  MANFRO, M. F.,  X Semana de Jogos Digitais (2026-1)",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  DIAZ, H. B.,  MARCELINO, E. L.,  SILVA, M. R.,  VIII Semana de Jogos Digitais (2025-2)",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  MARCELINO, E. L.,  SILVA, M. R.,  DIAZ, H. B.,  IV Semana de Jogos Digitais (2024-2)",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  SILVA, M. R.,  DIAZ, H. B.,  V Semana de Jogos Digitais (2025-1)",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  MARCELINO, E. L.,  DIAZ, H. B.,  SILVA, M. R.,  VI Semana de Jogos Digitais (2025-1)",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  GOMES, P. K. M.,  DIAZ, H. B.,  SILVA, M. R.,  MARCELINO, E. L.,  VII Semana de Jogos Digitais (2025-2)",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  SILVA, G. M.,  SILVA, M. R.,  I Semana de Jogos Digitais (2024-1)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  SILVA, G. M.,  SILVA, M. R.,  II Semana de Jogos Digitais (2024-1)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, M. R.,  BOMFIM, P. H. R. S.,  SILVA, J. G.,  BRAZIL, A. L.,  TRINDADE, E. S.,  FERNANDES, G. A.,  SILVA JUNIOR, J. R.,  MARCELINO, E. L.,  SILVA, G. M.,  BARROS, L. A.,  Semana de Jogos Digitais - 10 Anos",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  XIV Semana Acadêmica ? Biomas do Brasil: Diversidade, Saberes e Tecnologias Sociais",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  SILVA, J. G.,  MARCELINO, E. L.,  SILVA, M. R.,  III Semana de Jogos Digitais (2024-2)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "ANDRADE",
+                    "evento": "F. C.,  X Jornada Interna de Iniciação Científica e Tecnológica",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFRJ - Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "ANDRADE, F. C.",
+                "titulo": "SHAFAATDOOST, M",
+                "evento": "; CONCI",
+                "local": "A.; CLUA, E. W. G.; Displacement Stage: Arquitetura extensível para mapas dinâmicos de deslocamento na GPU.. XI Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2012), Brasilia",
+                "ano": "2012"
+            },
+            {
+                "autores": "MUNIZ, C. E. V.",
+                "titulo": "ANDRADE, F",
+                "evento": "C.; MARQUES",
+                "local": "H. S.; CONCI, A.; MONTENEGRO, A. A.; CLUA, E. W. G.; Classificação de nódulos em mamogramas a partir de um novo método adaptativo de limiarização. Encontro Nacional de Engenharia Biomecânica, Foz do Iguaçu",
+                "ano": "2011"
+            },
+            {
+                "autores": "CLUA, E. W. G.",
+                "titulo": "ANDRADE, F",
+                "evento": "C.; Using Real Time Hardware Tessellation for Morphing of Geometry in GPU. II Workshop Argentino sobre Videojuegos - Wavi 2011",
+                "local": "Buenos Aires",
+                "ano": "2011"
+            },
+            {
+                "autores": "LIMA, H.",
+                "titulo": "ANDRADE, F",
+                "evento": "C.; CLUA",
+                "local": "E. W. G.; MONTENEGRO, A. A.; An evaluation of JavaFX as 2D game creation tool. VIII Simpósio Brasileiro de Jogos e Entretenimento Digital - Computing - Tecnical Posters, Rio de Janeiro",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.41534310579299927,
+            "indian": 1.094604730606079,
+            "black": 0.13685868680477142,
+            "white": 64.92132568359375,
+            "middle eastern": 16.52431297302246,
+            "latino hispanic": 16.90755844116211
+        }
+    }
+}

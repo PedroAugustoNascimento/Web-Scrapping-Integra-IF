@@ -1,0 +1,276 @@
+{
+    "campus": "- Campus Nova Cruz",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Uma Arquitetura Hardware/Software de um Núcleo NCAP segundo o Padrão IEEE 1451: uma prova de conceito",
+                "orientador": "Ivan Saraiva Silva",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2010,
+                "ano_fim": 2013,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado do Rio Grande do Norte",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "Pesquisador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Tutor",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Tutor",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "Pesquisador",
+                "vinculo": "Aluno de Mestrado",
+                "descricao": "Programação de comportamento de hardware usando a linguagem de descrição de hardware VHDL. Uso da ferramenta Quartus II e NIOS II IDE para desenvolvimento dos trabalhos. Uso da linguagem de programação C e C++ para programar o processador embarcado NIOS II. Prototipação na placa DE2 da Altera"
+            },
+            {
+                "empresa": "Centro Universitário FACEX",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Professor Universitário",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Indra Politec",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Empregado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nGraduacao (2014) - Sistemas Para Internet.\nEnsino-medio (2014) .\nEnsino-medio (2014 - 2014) .\nEnsino-medio (2013 - 2013) .\nEnsino-medio (2013 - 2014) .\nExtensão Universitária: Universidade do Estado do Rio Grande do Norte\nUniversidade do Estado do Rio Grande do Norte: Curso De Capacitação Em Informática Para Professores Das Escolas De Ensino Médio, Dentro Do Programa Nacional De Incentivo À Formação Continuada De Professores De Ensino Médio (pro-ifem). (2005 - 2005) - Curso De Capacitação Em Informática Para Professores Das Escolas De Ensino Médio, Dentro Do Programa Nacional De Incentivo À Formação Continuada De Professores De Ensino Médio (pro-ifem)..\nExtensão Universitária: Universidade Federal do Rio Grande do Norte\nUniversidade Federal do Rio Grande do Norte: Tutoria No Projeto Metrópole Digital (2012 - 2012) - Tutoria No Projeto Metrópole Digital.\nUniversidade Federal do Rio Grande do Norte: Tutoria No Projeto Metrópole Digital (2010 - 2011) - Tutoria No Projeto Metrópole Digital.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "nome": "Fieldbus para Comunicação de Redes de Sensores Sem Fio",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos",
+                    "João Batista Borges Neto",
+                    "Pedro Fernandes Ribeiro Neto"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "nome": "Programa Nacional de Incentivo à Formação Continuada de Professores do Ensino Médio - PRO-IFEM",
+                "natureza": "Extensão",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2005,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "nome": "Algoritmo de balanceamento para Redes de Sensores Sem Fio Hierárquicas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos",
+                    "Pedro Fernandes Ribeiro Neto"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Projeto de Pesquisa: Arquiteturas HW/SW para Sensores Inteligentes",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos",
+                    "Ivan Saraiva Silva"
+                ],
+                "financiador": "Agência Nacional de Petróleo,",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Metrópole Digital",
+                "natureza": "Extensão",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2012,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "nome": "Metrópole Digital",
+                "natureza": "Extensão",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "PRONATEC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos",
+                    "Thiago De Oliveira Loureiro"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Informática básica para alunos da Escola Estadual Julia Auta de Oliveira",
+                "natureza": "Extensão",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos",
+                    "Jardiele De Souza Lima",
+                    "Victor Oliveira De Lima"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Informática Básica na Escola Estadual Alberto Maranhão",
+                "natureza": "Extensão",
+                "equipe": [
+                    "José De Anchieta Gomes Dos Santos",
+                    "José Camilo De Oliveira Neto",
+                    "Mariana Martins De Oliveira"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTOS",
+                    "titulo": "José de Anchieta G. dos,  RIBEIRO NETO, P. F.,  Algoritmo de Balanceamento para Redes de Sensores Sem Fio Hierárquicas",
+                    "ano": "2007",
+                    "instituicao_promotora": "Universidade do Estado do Rio Grande do Norte."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SANTOS",
+                    "curso": "José de Anchieta G. dos,  Ferramenta de Desenho GIMP",
+                    "ano": "2007"
+                },
+                {
+                    "autor": "SANTOS",
+                    "curso": "José de Anchieta G. dos,  Programa Nacional de Incentivo à Formação Continuada de Professores do Ensino Médio - PRO-IFEM",
+                    "ano": "2005"
+                }
+            ],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "SANTOS, José de Anchieta G. dos",
+                "titulo": "SILVA, I",
+                "evento": "S.; Arquitetura HW/SW de um módulo NCAP segundo o padrão IEEE 1451.1:uma prova de conceito. XXVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+                "local": "Gramado, RS",
+                "ano": "2010"
+            },
+            {
+                "autores": "SANTOS, José de Anchieta G. dos",
+                "titulo": "Algoritmo de balanceamento para Redes de Sensores Sem Fio Hierárquicas",
+                "evento": "XIV Encontro de Pesquisa e Extensão - ENCOPE",
+                "local": "Mossoró",
+                "ano": "2007"
+            },
+            {
+                "autores": "SANTOS, José de Anchieta G. dos",
+                "titulo": "Projeto de site acadêmico para Mossoró",
+                "evento": "II Encontro de Iniciação Científica de Sistemas de Informação",
+                "local": "Mossoró",
+                "ano": "2007"
+            },
+            {
+                "autores": "SANTOS, José de Anchieta G. dos",
+                "titulo": "BORGES NETO, J",
+                "evento": "B.; Fieldbus para Comunicação de Redes de Sensores Sem Fio. III Salão de Iniciação Científica",
+                "local": "Mossoró",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 5.200321197509766,
+            "indian": 24.788114547729492,
+            "black": 22.29127311706543,
+            "white": 6.277358531951904,
+            "middle eastern": 7.547906875610352,
+            "latino hispanic": 33.89501953125
+        }
+    }
+}

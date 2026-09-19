@@ -1,0 +1,149 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Metodologia para a classificação automática de doenças em plantas utilizando redes neurais convolucionais",
+                "orientador": "Roberto Célio Limão de Oliveira",
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Sul e Sudeste do Pará",
+                "ano_inicio": 2011,
+                "ano_fim": 2016
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Sul e Sudeste do Pará",
+                "ano_inicio": 2017,
+                "ano_fim": 2023,
+                "funcao": "Técnico de Tecnologia da Informação",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Sul e Sudeste do Pará",
+                "ano_inicio": 2013,
+                "ano_fim": 2016,
+                "funcao": "Bolsista - Desenvolvedor de Software",
+                "vinculo": "Bolsista",
+                "descricao": "Desenvolvimento de Software, Análise de Sistemas Computacionais, Tecnologias WEB e afins, Manipulação de Bancos de Dados, entre outros"
+            },
+            {
+                "empresa": "Instituto Federal do Pará",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade do Estado do Pará",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal do Pará",
+                "nome": "Inclusão Digital através da Informática Básica",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vanessa Castro Rezende"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade do Estado do Pará",
+                "nome": "Click Seguro: Promovendo a Segurança Digital na Infância e Adolescência em Parauapebas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vanessa Castro Rezende"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "MORAIS, W. S.",
+                "titulo": "REZENDE, V. C.;  Desenvolvimento de um sistema para extração e envio deNotícias do IFPA utilizando web scraping",
+                "ano": "2026",
+                "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC. ISBN: 22372903   ."
+            },
+            {
+                "autores": "COSTA, MICHEL",
+                "titulo": "REZENDE, VANESSA;  MARTINS, CLEDISSON;  SANTOS, ADAM;  Methodology for Classifying Diseases in Plants Using Convolutional Neural Networks",
+                "ano": "2021",
+                "periodico": "LEARNING AND NONLINEAR MODELS. ISBN: 16762789   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "REZENDE, VANESSA CASTRO",
+                "titulo": "COSTA, MICHEL; SANTOS, ADAM; DE OLIVEIRA, ROBERTO C",
+                "evento": "L.; Image Processing with Convolutional Neural Networks for Classification of Plant Diseases. 2019 8th Brazilian Conference on Intelligent Systems (BRACIS)",
+                "local": "Salvador",
+                "ano": "2019"
+            },
+            {
+                "autores": "REZENDE, V. C.",
+                "titulo": "COSTA, MICHEL; SANTOS, ADAM; DE OLIVEIRA, ROBERTO C",
+                "evento": "L.; Aplicação de redes neurais convolucionais na classificação de doenças de plantas. XIV Congresso Brasileiro de Inteligência Computacional",
+                "local": "Belém",
+                "ano": "2019"
+            },
+            {
+                "autores": "COUTO, D. C. C.",
+                "titulo": "REZENDE, V",
+                "evento": "C.; LIMA",
+                "local": "A. R. J.; COUTO, F. C.; DALLAGNOL, L. T.; GONCALVES, E. C.; Software Assessment for Prediction of Gene Clusters: An Analysis in silico with Cyanobacteria of Chroococcales Order. X-Meeting 2016 - 12th International Conference of the AB3C, Belo Horizonte - MG",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "WENDELL DOS SANTOS MORAIS",
+                "titulo": "DESENVOLVIMENTO DE UM SISTEMA PARA EXTRAÇÃO E ENVIO DE NOTÍCIAS DO IFPA UTILIZANDO WEB SCRAPING: UMA ANÁLISE COMPARATIVA ENTRE ARQUITETURAS MONOLÍTICAS E DE MICROSSERVIÇOS",
+                "ano": "2024",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal do Pará"
+            },
+            {
+                "orientando": "Michel Victor Carvalho Costa",
+                "titulo": "Methodology for Classifying Diseases in Plants using Convolutional Neural Networks",
+                "ano": "2020",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Federal do Sul e Sudeste do Pará"
+            }
+        ]
+    }
+}

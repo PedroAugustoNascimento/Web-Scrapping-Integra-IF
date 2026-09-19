@@ -1,0 +1,200 @@
+{
+    "campus": "- Campus Duque de Caxias",
+    "instituto": "IFRJ",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Ciência e Tecnologia de Alimentos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "orientador": "Sergio Thode Filho",
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Docência do Ensino Superior",
+                "instituicao": "S B I",
+                "orientador": "Monica Ferreira de Melo",
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnologia em Informática",
+                "instituicao": "Centro Universitário da Cidade",
+                "ano_inicio": 2003,
+                "ano_fim": 2005
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro",
+                "ano_inicio": 1998,
+                "ano_fim": 2011,
+                "funcao": "Instrutor I",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "ATLAS: Sistema de Apoio de descarte de resíduos farmacêuticos no município de Duque de Caxias",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Franklin Parrini Sampaio",
+                    "Welsing Moreira Pereira",
+                    "Emanuele Nunes De Lima Figueiredo Jorge",
+                    "Sergio Thode Filho",
+                    "Claudio M. De Farias",
+                    "Cristiane Gomes Da Silva"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Desenvolvimento de Horta Urbana com o Uso da Plaraforma Arduíno",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Franklin Parrini Sampaio",
+                    "Welsing Moreira Pereira",
+                    "Emanuele Nunes De Lima Figueiredo Jorge",
+                    "Sergio Thode Filho"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "Segurança Familiar na Internet",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Franklin Parrini Sampaio",
+                    "Welsing Moreira Pereira",
+                    "Emanuele Nunes De Lima Figueiredo Jorge",
+                    "Raquel Santos De Oliveira Guedes"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "LÓLIProg: LÓgica e LInguagem de Programação em ambiente remoto",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Franklin Parrini Sampaio",
+                    "Welsing Moreira Pereira"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
+                "nome": "ESTUDO E APLICAÇÃO DOS SERVIÇOS E APLICATIVOS DA COMPUTAÇÃO EM NUVEM COMO FERRAMENTA AUXILIAR EM SALA DE AULA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Franklin Parrini Sampaio",
+                    "Welsing Moreira Pereira",
+                    "Isabel Alves Da Luz",
+                    "André Guimarães Valente",
+                    "Emanuele Nunes De Lima Figueiredo Jorge",
+                    "Marcelo Dolores De Carvalho"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2015
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SAMPAIO",
+                    "titulo": "F. P.,  PEREIRA, W. M.,  JORGE, E. N. L. F.,  ESTUDO E APLICAÇÃO DOS SERVIÇOS E APLICATIVOS DA COMPUTAÇÃO EM NUVEM COMO FERRAMENTA AUXILIAR EM SALA DE AULA",
+                    "ano": "2015",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "SENA",
+                    "titulo": "A. M. P.,  ALMEIDA, D. A. R.,  PEREIRA, W. M.,  JORGE, E. N. L. F.,  SAMPAIO, F. P.,  Segurança Familiar na Internet",
+                    "ano": "2015",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "W. M.,  SAMPAIO, F. P.,  JORGE, E. N. L. F.,  Segurança Familiar na Internet",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "PEREIRA",
+                    "titulo": "W. M.,  SAMPAIO, F. P.,  JORGE, E. N. L. F.,  ALMEIDA, D. A. R.,  Segurança Familiar na Internet",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                },
+                {
+                    "autores": "SAMPAIO",
+                    "titulo": "F. P.,  VALENTE, A. G.,  JORGE, E. N. L. F.,  PEREIRA, W. M.,  ESTUDO E APLICAÇÃO DOS SERVIÇOS E APLICATIVOS DA COMPUTAÇÃO EM NUVEM COMO FERRAMENTA AUXILIAR EM SALA DE AULA",
+                    "ano": "2014",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "FRANCO, H. A.",
+                "titulo": "JORGE, E. N. L. F.;  PEREIRA, W. M.;  SAMPAIO, F. P.;  THODE FILHO, S.;  CARVALHO, M. D.;  GESTÃO DE RESÍDUOS PÓS-CONSUMO: AVALIAÇÃO DE RECIPIENTES PARA PRODUÇÃO DE ALFACE (Lactuca sativa L.) EM HORTA URBANA",
+                "ano": "2016",
+                "periodico": "Revista de Educação, Gestão e Sociedade. ISBN: 21799636   ."
+            },
+            {
+                "autores": "LUZ, I. A.",
+                "titulo": "VALENTE, A. G.;  JORGE, E. N. L. F.;  SAMPAIO, F. P.;  PEREIRA, W. M.;  CET O17 - ESTUDO E APLICAÇÃO DOS SERVIÇOS E APLICATIVOS DA COMPUTAÇÃO EM NUVEM COMO FERRAMENTA AUXILIAR EM SALA DE AULA",
+                "ano": "2015",
+                "periodico": "JIT - IX JORNADA INTERNA DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA. ISBN: 2178518X   ."
+            },
+            {
+                "autores": "ALMEIDA, D. A. R.",
+                "titulo": "SENA, A. M. P.;  JORGE, E. N. L. F.;  SAMPAIO, F. P.;  PEREIRA, W. M.;  CET O18 - SEGURANÇA FAMILIAR NA INTERNET",
+                "ano": "2015",
+                "periodico": "JIT - IX JORNADA INTERNA DE INICIAÇÃO CIENTÍFICA E TECNOLÓGICA. ISBN: 2178518X   ."
+            }
+        ],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.497864007949829,
+            "indian": 6.128312110900879,
+            "black": 1.293725848197937,
+            "white": 41.17000198364258,
+            "middle eastern": 29.411588668823242,
+            "latino hispanic": 19.498498916625977
+        }
+    }
+}

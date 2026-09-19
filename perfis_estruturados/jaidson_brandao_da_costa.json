@@ -1,0 +1,853 @@
+{
+    "campus": "- Campus Avançado Manacapuru",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Engenharia de Processos",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Desenvolvimento de um Aplicativo Web para Auxiliar o Processo de Fabricação de TV de uma Indústria do PIM",
+                "orientador": "Emanuel Negrão Macêdo",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia de Software",
+                "instituicao": "Fundação Centro de Análise Pesquisa e Inovação Tecnológica",
+                "orientador": "William Roberto Malvezzi",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Nilton Lins",
+                "ano_inicio": 2006,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Conselho Regional de Economia 13° Região AM/RR",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Estagiário de Informática",
+                "vinculo": "Estagiário",
+                "descricao": ""
+            },
+            {
+                "empresa": "Office Data Ltda - ME",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Programador Junior II",
+                "vinculo": "Não informado",
+                "descricao": "Trabalhava com desenvolvimento de sistemas na ferramenta MAKE ALL e com JSE"
+            },
+            {
+                "empresa": "Tribunal de Justiça do Amazonas",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Analista e Desenvolvedor de Sistemas",
+                "vinculo": "Servidor público",
+                "descricao": "Trabalhava com Desenvolvimento, Implantação, Manutenção, Migração de Sistemas e Replicação de Dados. Trabalhou no projeto do Sistema Projudi para atender as Comarcas do interior do estado do Amazonas"
+            },
+            {
+                "empresa": "Tribunal de Justiça do Amazonas",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Analista e Desenvolvedor de Sistemas",
+                "vinculo": "Servidor público",
+                "descricao": "Trabalhava com migração e implantação do Sistema Projudi"
+            },
+            {
+                "empresa": "Tap4Mobile ME",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Analista de Sistema Pleno",
+                "vinculo": "Não informado",
+                "descricao": "Trabalhava com Análise e Desenvolvimento de Games para Mobile na Plataforma Android"
+            },
+            {
+                "empresa": "Centro de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Instrutor de Especialização Técnica",
+                "vinculo": "Prestador de Serviço",
+                "descricao": "Trabalhava como Instrutor do Curso de Especialização Técnica em Desenvolvimento de Aplicativos Móveis"
+            },
+            {
+                "empresa": "Centro de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Instrutor de Curso Técnico",
+                "vinculo": "Prestador de Serviço",
+                "descricao": "Trabalhava como instrutor de Curso Técnico em Informática"
+            },
+            {
+                "empresa": "Centro de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2014,
+                "ano_fim": 2014,
+                "funcao": "Instrutor de Especialização Técnica",
+                "vinculo": "Prestador de Serviço",
+                "descricao": "Trabalhava como instrutor do Curso de Especialização Técnica em Java"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Coordenador de Projeto",
+                "vinculo": "Bolsista",
+                "descricao": "Coordenador do Projeto PD - TAMBAGI 4.0"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Diretor Geral",
+                "vinculo": "Servidor público",
+                "descricao": "Nomeado Diretor Geral em 01/01/2026 conforme o Diário Oficial da União DOU n 245, de 24/12/2025, Seção 2, pág. 33. - PORTARIA N 2.003/GR/IFAM, DE 30 DE DEZEMBRO DE 2025"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Diretor Geral Pró Tempore",
+                "vinculo": "Servidor público",
+                "descricao": "Nomeação:Portaria de nomeação de n 301/GR/IFAM, DE 29 DE FEVEREIRO DE 2024.Exoneração:Portaria de exoneração de n 2.002/GR/IFAM, DE 30 DE DEZEMBRO DE 2025"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2024,
+                "ano_fim": 2025,
+                "funcao": "Coordenador Técnico",
+                "vinculo": "Bolsista",
+                "descricao": "Projeto de PDI - Capacitação e Interiorização em Tecnologias Habilitadoras Na Amazônia CITHA- Equipes envolvidas : Gestor do Projeto, Apoio Acadêmico, Apoio Pedagógico, Laboratoristas, Monitores, Instrutores;- Atividades que desempenho como Coordenador Técnico tem relação a execução dos cursos do projeto:Metodologias Ágeis:Design Thinking e Scrum Algoritmos e Programação na Linguagem PythonCiência de DadosInteligência Artificial - Aprendizado de Máquina (Machine Learning) Inteligência Artificial Redes Neurais (Deep Learning) Inteligência Artificial - Visão ComputacionalInternet das Coisas (IoT) Realidade Virtual Conectividade e Segurança Cibernética"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2022,
+                "ano_fim": 2023,
+                "funcao": "Professor Pesquisador de Software",
+                "vinculo": "Bolsista",
+                "descricao": "Projeto de PDI - Desenvolvimento de Solução para automação de testes junto ao IFAM com GERTEC e EMBRAPII.-Equipes envolvidas das áreas de: Software, Hardware e Visão Computacional;-Atividades que desempenho como Professor Pesquisador de Software: Líder Técnico do Projeto;-Tecnologias utilizadas no software: TypeScript; TypeORM; Python; Jetson nano; BPMN; Angular; Visão Computacional;"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2022,
+                "ano_fim": 2023,
+                "funcao": "Colaborador de Software",
+                "vinculo": "Bolsista",
+                "descricao": "Projeto de PDI - Desenvolvimento de Solução IoT para rastreamento de embarcações em execução no IFAM com Hana e EMBRAPII.-Equipes envolvidas das áreas de: Software e Hardware;-Atividades que desempenho como Professor Pesquisador: Engenheiro de Software;-Tecnologias utilizadas no software: TypeScript; TypeORM; NestJS; React Native; ChirpStack;"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Professor Formador EAD",
+                "vinculo": "Bolsista",
+                "descricao": "Professor Formador EAD da disciplina de INFORMÁTICA do Curso FIC - Monitor de Atividade de Lazer"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Professor Formador EAD",
+                "vinculo": "Bolsista",
+                "descricao": "Professor Formador EAD da disciplina de Introdução a Programação Android do Curso FIC - Programador de Dispositivos Móveis"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Professor Formador EAD",
+                "vinculo": "Bolsista",
+                "descricao": "Professor Formador EAD da disciplina de Criação e Instalação de Aplicativos para Dispositivos Móveis do Curso FIC - Programador de Dispositivos Móveis"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2018,
+                "ano_fim": 2024,
+                "funcao": "Coordenador do Curso de Informática",
+                "vinculo": "Servidor público",
+                "descricao": "Portaria de nomeação GAB/DG/CAM/IFAM N 259 de 09/10/2018Portaria de destituição GAB/DG/CAM/IFAM, DE 29 DE FEVEREIRO DE 2024"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Professor EBTT de Informática",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor Formador EAD",
+                "vinculo": "Bolsista",
+                "descricao": "Professor Formador do PRONATEC do Curso Operador de Computador, ministrando as disciplinas:Tecnologia da Informação, Sistemas Operacionais, Informática Básica e Instalação de Softwares"
+            },
+            {
+                "empresa": "Instituto de Pesquisa e Desenvolvimento Amazônico",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Instrutor de Conhecimentos Gerais",
+                "vinculo": "Contrato",
+                "descricao": "Instrutor de Conhecimentos Gerais no curso técnico de conservação e beneficiamento de pescado"
+            },
+            {
+                "empresa": "REVISTA DE ESTUDOS E PESQUISAS SOBRE ENSINO TECNOLÓGICO",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Atuando como Parecerista de forma voluntária e ocasional"
+            },
+            {
+                "empresa": "Universidade do Estado do Amazonas",
+                "ano_inicio": 2021,
+                "ano_fim": 2022,
+                "funcao": "Professor Pesquisador - Arquiteto de Software",
+                "vinculo": "Bolsista",
+                "descricao": "Projeto de PDI - Desenvolvimento de Solução para área Médica: Tratamento de Câncer junto a UEA com SAMSUNG e FUEA.-Equipes envolvidas das áreas de: Software, Hardware, Materiais, Medicina e Bioquímica;-Atividades que desempenhei como Professor Pesquisador na área de Software dentro do processo SAMSUNG: 1 - Líder Técnico da Equipe de Software; 2 - Scrum Master; 3 - Arquiteto de Software;-Tecnologias utilizadas no software: React; Java/Android; TypeScript; TypeORM; Jenkins; SVACE; OSKB; PROTEX; Jira; Confluence; Bitbucket; Machine Learning; IoT;-Aplicação WEB e APP Android produzidos com comunicação com Hardware Hospitalar"
+            },
+            {
+                "empresa": "MAP Innovation",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Consultar JAVA - J2EE",
+                "vinculo": "Consultor",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Realidade Virtual",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Metodologias Ágeis: Design Thinking e Scrum",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Inteligência Artificial - Redes Neurais (Deep Learning)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Internet das Coisas (IoT)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Inteligência Artificial - Aprendizado de Máquina (Machine Learning)",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Ciências de Dados",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Conectividade e Segurança Cibernética",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Centro de Educação Tecnológica do Amazonas",
+                "nome": "Inteligência Artificial Visão Computacional",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Estudo da Ferramenta Findbugs na Analise de Game",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Wyllian Moreno Turman",
+                    "André Júnior De Lima Figueiredo",
+                    "Andrew Raphael Moreno De Oliveira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Um Estudo da Ferramenta Alice no Ensino de Desenvolvimento de um Game 3D",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Wyllian Moreno Turman",
+                    "André Júnior De Lima Figueiredo"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Um Estudo da Ferramenta PMD nos Testes de um Game 2D",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Andrew Raphael Moreno De Oliveira",
+                    "Jéssica De Araújo Farias"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um Protótipo de Game 2D para Conscientização da Preservação da Fauna e Flora da Amazônia",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Cristiane Barros Praia",
+                    "Jairo Vinicius Souza Franco"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Jogos para Demonstração da Gamificação na Educação",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Maurício Nogueira De Oliveira",
+                    "Max William Moreira De Carvalho",
+                    "Raylson Trindade De Oliveira"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um Game Digital voltado a Crianças para uso da Gamificação no Ensino de Fotossíntese",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Adriano Pereira Da Silva Martins",
+                    "Alexandre Ricardo Von Ehnert",
+                    "Criscian Kellen Amaro De Oliveira",
+                    "José Pinheiro De Queiroz Neto"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Luz da Vida: Ciência que Alimenta a Amazônia",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Adriano Pereira Da Silva Martins",
+                    "Alexandre Ricardo Von Ehnert",
+                    "Criscian Kellen Amaro De Oliveira",
+                    "José Pinheiro De Queiroz Neto"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "As Possibilidades do uso do Celular como um Recurso Didático pedagógico em sala de aula",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Dalmi Alves Alcantara",
+                    "Marcus Vinícius Martins De Oliveira"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de Jogos Educacionais para Exemplificação da Gamificação",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Dalmi Alves Alcantara"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de games digitais como alternativa para integralização da matemática, física e artes na disciplina de programação.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Diogo Gonçalves"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Maratona Educacional ? Apresentação dos Cursos de Informática do IFAM",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "I Semana de Meio Ambiente - Tema \"Lixo transformando vidas\"",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Criscian Kellen Amaro De Oliveira"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de uma Ferramenta para execução lúdica de códigos Java",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Anne Beatriz Vieira Nascimento"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um aplicativo para geração de códigos Java a partir da leitura via QR CODE dos Diagramas da UML",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Thais Pinheiro De Souza"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Criação de um Material Didático sobre Algoritmo com Exibição cos Resultados no Smartphone",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Thereza Raquel De Lima Gomes"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Desenvolvimento de um Material Didático Digital para Ensino de Física com Auxílio de um App Inteligente",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Wyllian Moreno Turman"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Jogo para Gamificação do Ensino de Língua Inglesa",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Felipe Santos Ramos"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Track System desenvolvimento de uma plataforma de dispositivos Iot para rastreabilidade automatizada de insumos de produção e/ou produtos nos rios da Amazônia",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Alyson De Jesus Dos Santos"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "GerFactory 4.0",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Gabriel Pinheiro Compto",
+                    "Alyson De Jesus Dos Santos"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Algoritmos e Programação na Linguagem Python",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Capacitação e Interiorização em Tecnologias Habilitadoras na Amazônia CITHA",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Curso de Informática Básica, Direito Administrativo e Conhecimentos Específicos de Tecnologia da Informação voltados para Concursos Públicos",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jaidson Brandão Da Costa"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Universidade do Estado do Amazonas",
+                "nome": "Lively Internet of Things Catheter - LIC",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Jaidson Brandão Da Costa",
+                    "Otoniel Da Cunha Mendes",
+                    "João Victor Silva De Sousa",
+                    "Kennedy Do N. Lima Marques",
+                    "Luan Carlos Amorim Da Silva",
+                    "Iranildo Santos Batalha",
+                    "Walter Claudino Da Silva Júnior",
+                    "Carlos Gabriel Da Silva Machado",
+                    "Roberto Alves Neto"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "COSTA",
+                    "software": "J. B.,  Desenvolvimento de Sistema em Java",
+                    "ano": "2011",
+                    "finalidade": "Desenvolvimento de Sistema em JSE."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "COSTA",
+                    "titulo": "J. B.,  Dia da Informática",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "titulo": "J. B.,  Uma Proposta de Integralização das Disciplinas do Núcleo Básico com as do Núcleo Tecnológico",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "COSTA",
+                    "curso": "J. B.,  Java Básico",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "J. B.,  Formação Profissional Andorid",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "J. B.,  Java Básico",
+                    "ano": "2014"
+                },
+                {
+                    "autor": "COSTA",
+                    "curso": "J. B.,  Formação Profissional Android",
+                    "ano": "2014"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  V Semana de Meio Ambiente",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  GONCALVES, J. M.,  Luau Cultural e Bibliofest",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  X Seminário de Planejamento Pedagógico",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  I Seminário de Práticas Pedagógicas e Empreendedorismo",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  III Mostra Extensão",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  ALCANTARA, D. A.,  I Seminário de Práticas Pedagógicas e Empreendedorismo de Manacapuru",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM e CNPQ."
+                },
+                {
+                    "autores": "COSTA",
+                    "evento": "J. B.,  Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "LUZ, E. A.",
+                "titulo": "COSTA, J. B.;  Desenvolvimento de Jogos 3D no Unity",
+                "ano": "2023",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786559419, Recife (Publicado)."
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "BATISTA, V. L. G.;  Física - App Inteligente",
+                "ano": "2022",
+                "informacoes_adicionais": "Meio_digital. ISBN: 1029327560600 (Publicado)."
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "GOMES, T. R. L.;  Algoritmos e Lógica de Programação",
+                "ano": "2022",
+                "informacoes_adicionais": "Meio_digital. ISBN: 1029327560599 (Publicado)."
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "SOUZA, T. P.;  UML exemplificada em Java",
+                "ano": "2020",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786586090895, Recife (Publicado)."
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "CERVINO, F. R. C.;  Função Composta Resolução em C",
+                "ano": "2019",
+                "informacoes_adicionais": "Varios. ISBN: 9788557222687, Recife (Publicado)."
+            },
+            {
+                "autores": "SILVA, E. A.",
+                "titulo": "COSTA, J. B.;  RIBEIRO, R. G. D. C.;  Questões de Física resolvidas com linguagem C",
+                "ano": "2019",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9788557222755, Recife (Publicado)."
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "www.even3.com.br/Anais/SNEMI/55248-UMA-PROPOSTA-DE-INTEGRALIZACAO-DAS-DISCIPLINAS-DO-NUCLEO-BASICO-COM-AS-DO-NUCLEO-TECNOLOGICO-NO-CURSO-TECNICO-DE-N. Título do capítulo: Uma Proposta de Integralização das Disciplinas do Núcleo Básico com as do Núcleo Tecnológico no Curso Técnico de Nível Médio em Informática na Forma Integrada",
+                "ano": "2017",
+                "informacoes_adicionais": "ISBN: 9788564124493, Brasilia."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "DA COSTA, JAIDSON BRANDÃO",
+                "titulo": "Desenvolvimento de uma arquitetura de game para auxiliar o processo de ensino-aprendizagem em programação de jogos digitais no curso técnico de informática",
+                "ano": "2019",
+                "periodico": "REVISTA DE ESTUDOS E PESQUISAS SOBRE ENSINO TECNOLÓGICO. ISBN: 2446774X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "COSTA, R",
+                "evento": "S.; Usando o Desenvolvimento de Games Digitais para fortalecer a Indissociabilidade do Ensino",
+                "local": "Pesquisa e Extensão no Ensino Médio Integrado. II Seminário Nacional do Ensino Médio Integrado, Brasília",
+                "ano": "2018"
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "GONCALVES, D",
+                "evento": "; Desenvolvimento de Games Digitais como Alternativa para Integralização da Matemática",
+                "local": "Física e Artes na Disciplina de Programação. Congresso Norte-Nordeste de Pesquisa e Inovação (Connepi), Recife",
+                "ano": "2018"
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "MARTINS, A",
+                "evento": "P. S.; EHNERT",
+                "local": "A. R. V.; OLIVEIRA, C. K. A.; QUEIROZ NETO, J. P.; Desenvolvimento de um Game Digital voltado a Crianças para uso da Gamificação no Ensino de Fotossíntese. XI Congresso Norte Nordeste de Pesquisa e Inovação - CONNEPI, Alagoas",
+                "ano": "2016"
+            },
+            {
+                "autores": "OLIVEIRA, C. K. A.",
+                "titulo": "MARTINS, A",
+                "evento": "P. S.; EHNERT",
+                "local": "A. R. V.; COSTA, J. B.; QUEIROZ NETO, J. P.; O Ensino da Fotossíntese para Alunos da Zona Rural: Projeto Luz da Vida: Ciência que Alimenta a Amazônia. XI Congresso Norte Nordeste de Pesquisa e Inovação - CONNEPI, Alagoas",
+                "ano": "2016"
+            },
+            {
+                "autores": "COSTA, J. B.",
+                "titulo": "Um Estudo da Ferramenta de Análise Automatizada de Código Fonte: FindBugs no Desenvolvimento de um Game 2D para Android",
+                "evento": "III Encontro Regional de Computação e Sistemas de Informação",
+                "local": "Manaus",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Gabriel Clavila Soares",
+                "titulo": "Desenvolvimento de game 2D para aprimoramento em Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "Gabriel Pinheiro Compto",
+                "titulo": "Desenvolvimento de game 2D para aprimoramento em Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "Ewerton Maia Barbosa",
+                "titulo": "Desenvolvimento de game 2D para aprimoramento em Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "Jackson Gonçalves Gomes",
+                "titulo": "Sistema de Controle de Incidentes",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "Wesllei Garcia de Sena",
+                "titulo": "Relatório de Prática em Especialização em Linguagem de Programação Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "Renato dos Santos Barbosa",
+                "titulo": "Relatório de pratica em especialização em Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "João Natalino da Silva Rodrigues",
+                "titulo": "Relatório final da prática em Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            },
+            {
+                "orientando": "Kamila dos Santos Souza",
+                "titulo": "Relatório final da prática em desenvolvimento Java",
+                "ano": "2014",
+                "curso": "Especialização Técnica em Java",
+                "instituicao": "Centro de Educação Tecnológica do Amazonas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 15.12795639038086,
+            "indian": 10.297313690185547,
+            "black": 9.982839584350586,
+            "white": 20.99281883239746,
+            "middle eastern": 18.289390563964844,
+            "latino hispanic": 25.309682846069336
+        }
+    }
+}

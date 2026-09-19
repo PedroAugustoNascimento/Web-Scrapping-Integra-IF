@@ -1,0 +1,158 @@
+{
+    "campus": "- Campus Natal - Zona Norte",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "A Family of Coverage Criteria Based on Patterns to the Test of Metaprograms",
+                "orientador": "Anamaria Martins Moreira",
+                "ano_inicio": 2013,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Sistemas e Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Geração de Testes a partir de gramáticas",
+                "orientador": "Anamaria Martins Moreira",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Ciência da Computação",
+                "instituicao": "Faculdade Lourenço Filho",
+                "ano_inicio": 2002,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Softium Informática",
+                "ano_inicio": 2000,
+                "ano_fim": 2007,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Livre",
+                "descricao": ""
+            },
+            {
+                "empresa": "Softium Informática",
+                "ano_inicio": 1998,
+                "ano_fim": 2000,
+                "funcao": "Programador de computador",
+                "vinculo": "Livre",
+                "descricao": ""
+            },
+            {
+                "empresa": "Núcleo de Desenvolvimento de Engenharia & Software",
+                "ano_inicio": 2007,
+                "ano_fim": 2008,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Livre",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Docente de Sistemas de Informação",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nEnsino-medio (2010) .",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "HENTZ",
+                    "software": "C.,  Moreira, A. M.,  Lua Language Generator (LGen)",
+                    "ano": "2011",
+                    "finalidade": "Ferramenta para geração de casos de teste baseados em gramáticas.."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": [
+            {
+                "autores": "Moreira, A. M.",
+                "titulo": "HENTZ, C",
+                "evento": "; DEHARBE",
+                "local": "D. B. P.; MATOS, E. C. B.; SOUZA NETO, J. B.; MEDEIROS JUNIOR, V. G.; Verifying Code Generation Tools for the B-Method Using Tests: A Case Study. 9th International Conference, TAP 2015, L?Aquila",
+                "ano": "2015"
+            },
+            {
+                "autores": "HENTZ, C.",
+                "titulo": "VINJU, J",
+                "evento": "J.; Moreira",
+                "local": "A. M.; Reducing the Cost of Grammar-Based Testing Using Pattern Coverage. 27th IFIP WG 6.1 International Conference, ICTSS 2015, Dubai",
+                "ano": "2015"
+            },
+            {
+                "autores": "Moreira, A. M.",
+                "titulo": "HENTZ, C",
+                "evento": "; RAMALHO",
+                "local": "V. M.; Grammars for Test Generation. Latin American Workshop on Formal Methods, Buenos Aires",
+                "ano": "2013"
+            },
+            {
+                "autores": "Moreira, A. M.",
+                "titulo": "HENTZ, C",
+                "evento": "; RAMALHO",
+                "local": "V. M.; Application of a Syntax-based Testing Method and Tool to Software Product Lines. 7th Brazilian Workshop on Systematic and Automated Software Testing, Brasília",
+                "ano": "2013"
+            },
+            {
+                "autores": "Santos, J. P.",
+                "titulo": "HENTZ, C",
+                "evento": "; Avaliação do Uso da Linguagem Lua e Gramáticas de Expressão de Parsing no Reconhecimento de Sentenças. Congresso de Pesquisa e Inovação da Rede Norte Nordeste de Educação Tecnológica",
+                "local": "Natal",
+                "ano": "2011"
+            },
+            {
+                "autores": "HENTZ, C.",
+                "titulo": "Moreira, A",
+                "evento": "M.; Geração de Sentenças para Teste a partir de Descrições de Linguagens. Workshop Brasileiro de Teste de Software Sistemático e Automatizado",
+                "local": "Gramado",
+                "ano": "2009"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Jailson Pereira dos Santos",
+                "titulo": "Construção de Tradutor da Notação EBNF para Gerador de Testes",
+                "ano": "2010",
+                "curso": "Técnico Subsequente em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 1.6676356792449951,
+            "indian": 2.757578134536743,
+            "black": 0.8626648783683777,
+            "white": 48.027591705322266,
+            "middle eastern": 22.469417572021484,
+            "latino hispanic": 24.215116500854492
+        }
+    }
+}

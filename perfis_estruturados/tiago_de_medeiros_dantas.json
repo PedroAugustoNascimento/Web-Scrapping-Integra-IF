@@ -1,0 +1,90 @@
+{
+    "campus": "- Câmpus Canoinhas",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em sistemas de informação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Universidade Paulista",
+                "ano_inicio": 2016,
+                "ano_fim": 2021
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Atividades de atuação em projeto",
+                "vinculo": "Não informado",
+                "descricao": "Trabalho como voluntário desenvolvendo o software de automação do Hospital Infantil Varela Santiago"
+            },
+            {
+                "empresa": "Instituto Municipal João Cândido Filho",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Professor de informática básica",
+                "vinculo": "Não informado",
+                "descricao": "Ministrei aulas de informática básica para alunos de ensino fundamental"
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Monitor",
+                "vinculo": "Bolsista",
+                "descricao": "Monitor da disciplina de algoritmos e lógica de programação e da disciplina de programação"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "Técnico de TI",
+                "vinculo": "Não informado",
+                "descricao": "Atuo como técnico de TI no campus Picuí"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "TEIXEIRA",
+                    "software": "L. R. L.,  DANTAS, T. M.,  Sistema de automação do Hospital Infantil Varela Santiago",
+                    "ano": "2011",
+                    "finalidade": "Facilitar o gerenciamento dos dados dos pacientes do hospital Varela Santiago por parte das pedagogas do hospital."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

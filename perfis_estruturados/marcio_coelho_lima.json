@@ -1,0 +1,65 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Graduação",
+                "curso": "Agronomia",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2002,
+                "ano_fim": 2004
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências Sociais",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "ano_inicio": 2011,
+                "ano_fim": null
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Nucleo de Tecnologia Educacional",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Assistente de Tecnologia da Informação I",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 14.586734771728516,
+            "indian": 14.615260124206543,
+            "black": 6.708725452423096,
+            "white": 6.6410698890686035,
+            "middle eastern": 3.4730427265167236,
+            "latino hispanic": 53.97517013549805
+        }
+    }
+}

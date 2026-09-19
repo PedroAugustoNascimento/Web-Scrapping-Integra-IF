@@ -1,0 +1,669 @@
+{
+    "campus": "-",
+    "instituto": "IFPA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Doctor of Philosophy in Electrical and Computer Engineering",
+                "instituicao": "University of Alberta",
+                "orientador": "Wilsun Xu",
+                "ano_inicio": 2015,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "titulo": "Planejamento Ótimo de Redes de Distribuição de Energia na Redução de Perdas e Melhoria do Perfil de Tensão",
+                "orientador": "Ubiratan Holanda Bezerra",
+                "ano_inicio": 2002,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Pará",
+                "ano_inicio": 1997,
+                "ano_fim": 2001
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Pará",
+                "ano_inicio": 2002,
+                "ano_fim": 2015,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista da FADESP: Fundação de Amparo e Desenvolvimento da Pesquisa da UFPA"
+            },
+            {
+                "empresa": "Universidade Federal do Pará",
+                "ano_inicio": 1999,
+                "ano_fim": 2002,
+                "funcao": "Estagiário",
+                "vinculo": "Bolsista",
+                "descricao": "Bolsista da FADESP: Fundação de Amparo e Desenvolvimento da Pesquisa da UFPA"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Engenharia de Computação em Revista",
+                "ano_inicio": 2005,
+                "ano_fim": 2010,
+                "funcao": "",
+                "vinculo": "Membro de corpo editorial",
+                "descricao": "Engenharia de Computação em Revista é um periódico técnico-científico publicado anualmente através da compilação de todas as produções acadêmicas do corpo discente e docente do curso de Engenharia de Computação do IESAM - Instituto de Estudos Superiores da Amazônia a partir de 2005. Site: http://www3.iesam-pa.edu.br/ojs/index.php/computacao/index ISSN 1983-6589"
+            },
+            {
+                "empresa": "Faculdade Estácio de Belém",
+                "ano_inicio": 2004,
+                "ano_fim": 2010,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Ipiranga",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "Professor convidado",
+                "vinculo": "Contratado",
+                "descricao": ""
+            },
+            {
+                "empresa": "IBYTU COMPVTING",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Fundador",
+                "vinculo": "Acionista Majoritário",
+                "descricao": "A IBYTU COMPVTING é uma start-up em desenvolvimento de software sob medida para os setores das engenharias (Elétrica, Civil, Mecânica, Ambiental, Química, Alimentos, Petróleo e Gás, dentre outras). Os softwares produzidos (stand-alone, web based, mobile app) servirão para modelagem e simulação, otimizações, reconhecimentos de padrões e previsões aplicados aos processos das áreas diversas das engenharias. Os softwares são baseados em métodos matemáticos e/ou baseados em inteligência computacional"
+            },
+            {
+                "empresa": "Faculdade de Estudos Avançados do Pará",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Ministério da Educação",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Avaliador SETEC EBTT/RSC",
+                "vinculo": "Avaliador",
+                "descricao": "Avaliador para Reconhecimento de Saberes e Competências no âmbito da Carreira do Magistério do Ensino Básico, Técnico e Tecnológico"
+            }
+        ],
+        "direcao_administracao": ": Faculdade Estácio de Belém\nDiretor Geral (2008 - 2009) : Coordenador De Estágio.\nCampus Belém (2014): Redes Elétricas Inteligentes - SmartGrid, Fontes Renováveis de Energia, Geração Distribuída,\nCampus Belém (2013): Sistemas Elétricos de Potência,\nCampus Belém (2011): Qualidade de Energia,",
+        "ensino": ": Faculdade de Estudos Avançados do Pará\nGraduacao (2008 - 2008) - Sistemas De Informação.",
+        "comissoes": ": Faculdade Estácio de Belém\nMembro Do Núcleo Docente Estruturante (nde) (2009 - 2010).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Sistema Integrado de Apoio ao Planejamento da Operação de Redes de Distribuição de Energia Elétrica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "Et Al",
+                    "Ghendy Cardozo Júnior"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica, Centrais Elétricas do Pará S/A,",
+                "ano_inicio": 2003,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Sistema Redundante de Medição de Energia com Detecção de Violação de Medidores, Corte e Religamento",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "Et Al"
+                ],
+                "financiador": "Centrais Elétricas do Pará S/A, Agência Nacional de Energia Elétrica,",
+                "ano_inicio": 2002,
+                "ano_fim": 2003
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Redução da Perdas Técnicas e a Melhoria da Qualidade Serviço no Sistema de Distribuição Metropolitano de Belém",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Et Al",
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "Jurandyr Nascimento Garcez"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica, Centrais Elétricas do Pará S/A,",
+                "ano_inicio": 2001,
+                "ano_fim": 2002
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Avaliação do Impacto Técnico-Econômico de Harmônicos em Sistemas de Distribuição de Energia Elétrica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "Jurandyr Nascimento Garcez"
+                ],
+                "financiador": "Centrais Elétricas do Pará S/A, Agência Nacional de Energia Elétrica,",
+                "ano_inicio": 2000,
+                "ano_fim": 2001
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Desenvolvimento e Implantação em Projeto Piloto de um Instrumento para Monitoração e Análise das Condições Operativas de uma Concessionária de Energia Elétrica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "Jurandyr Nascimento Garcez",
+                    "Et Al"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica, Centrais Elétricas do Pará S/A,",
+                "ano_inicio": 1999,
+                "ano_fim": 2000
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Controle Ótimo de Tensão por Meio da Minimização de Transitórios em Chaveamento de Compensadores Reativos Estáticos, Série e Shunt, com Abordagem Via Algoritmo Genético",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "Et Al",
+                    "Ghendy Cardozo Júnior"
+                ],
+                "financiador": "Centrais Elétricas do Norte do Brasil, Agência Nacional de Energia Elétrica,",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Desenvolvimento de um Estimador de Estados Robusto Utilizando Nova Técnica de Processamento de Erros",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Et Al",
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra",
+                    "João Crisóstomo Weyl"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica, Centrais Elétricas do Norte do Brasil,",
+                "ano_inicio": 2004,
+                "ano_fim": 2005
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Desenvolvimento de Ferramentas para o Planejamento Ótimo de Modo a Maximizar a Capacidade de Transporte de Linhas de Transmissão Considerando Restrições Elétricas, Mecânicas e Ambientais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica, Centrais Elétricas do Norte do Brasil,",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Desenvolvimento de Sistema Gestão da Rede Elétrica de Alta e Média Tensão da CEA - Companhia de Eletricidade do Amapá através do Monitoramento e Extração de Conhecimentos de Base de Dados.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica,",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Sistema de Programas On-line para Setores Estratégicos: Estudo de Caso em Energia Elétrica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Adriana Castro"
+                ],
+                "financiador": "FUNDACAO AMAZONIA DE AMPARO A ESTUDOS E PESQUISAS - FAPESPA,",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Chamada MCTI/CNPq/CT-ENERG Nº 33/2013 ? Tecnologia em Smart Grids: Estudo de Minirredes Inteligentes Aplicadas a Sistemas Isolados e Interconectados",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "André Cavalcante Do Nascimento",
+                    "André Maurício Damasceno Ferreira",
+                    "Carlos Ednaldo Ueno Costa",
+                    "João Tavares Pinho",
+                    "Luís Carlos Macêdo Blasques"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2013,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Ferramentas de Apoio à Concessionária e ao Consumidor para a Decisão de Inserção de Micro e Minigeração Distribuída com Fontes Solar Fotovoltaica e Eólica em Redes de Distribuição de Energia Elétrica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "André Maurício Damasceno Ferreira",
+                    "Carlos Ednaldo Ueno Costa",
+                    "João Tavares Pinho",
+                    "Luís Carlos Macêdo Blasques"
+                ],
+                "financiador": "Centrais Elétricas do Pará,",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Universidade Federal do Pará",
+                "nome": "Metodologia de Controle Preventivo Baseado em Árvore de Decisão para a Melhoria da Segurança Estática e Dinâmica do Sistema Interligado da Eletonorte",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Ubiratan Holanda Bezerra"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica, Centrais Elétricas do Norte do Brasil,",
+                "ano_inicio": 2012,
+                "ano_fim": 2014
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Otimização do despacho econômico das unidades a gás e a vapor da UTENF utilizando técnicas de inteligência computacional",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "Raimundo Nonato Das Mercês Machado"
+                ],
+                "financiador": "Agência Nacional de Energia Elétrica,",
+                "ano_inicio": 2009,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Modelagem e simulação para o planejamento de redes de distribuição de energia: Localização de Banco de capacitores",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Pará,",
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Avaliação do Sistema de Proteção contra Descargas Atmosféricas (SPDA) dos Campus Belém e suas Áreas Vizinhas: Estudos e Mitigações",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Pará,",
+                "ano_inicio": 2011,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Implantação do Programa de Avaliação Energética (PAE) em Consumidores Residenciais de Energia Elétrica",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Pará,",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Estudos de redes elétricas inteligentes (smart grid) no IFPA Campus Belém",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho"
+                ],
+                "financiador": "Instituto Federal de Educação, Ciência e Tecnologia do Pará,",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "nome": "Avaliação Operacional de dois Sistemas de Geração de Energia Solar Fotovoltaica Conectados à Rede Elétrica no IIFPA/Campus Belém, Estado do Pará",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Edgar Modesto Amazonas Filho",
+                    "André Cavalcante Do Nascimento",
+                    "Luís Carlos Macêdo Blasques",
+                    "Silvio Bispo Do Vale"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  FERREIRA, A. M. D.,  MERCES, R. N.,  ALENCAR, R. J. N.,  COSTA, C. E. U.,  DUTE 1.0",
+                    "ano": "2012",
+                    "finalidade": "Despacho Econômico de Unidades de Geração Termelétrica."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  Gestor de Perdas 1.0",
+                    "ano": "2010",
+                    "finalidade": "Gestão de perdas técnicas em redes de distribuição de energia."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  PRIMAL 1.0",
+                    "ano": "2008",
+                    "finalidade": "Otimimização da Capacidade de Transporte em Redes de Transmissão."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  Marcus Guerra,  OCORE 1.0",
+                    "ano": "2007",
+                    "finalidade": "Otimização de Chaveamentos de Dispositivos de Compensação de Reativo - Regime Permanente e Transitório."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  FONSECA, Wellington Alex dos Santos,  BEZERRA, Ubiratan Holanda,  Alocação de Bancos de Capacitores",
+                    "ano": "2005",
+                    "finalidade": "Determinar a dimensão e localização de bancos de capacitores em redes de distribuição de energia elétrica usando algoritmos genéticos."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  BEZERRA, Ubiratan Holanda,  NEVES, Andrey da Costa,  FONSECA, Wellington Alex dos Santos,  Fluxo de Carga",
+                    "ano": "2004",
+                    "finalidade": "Determinar o estado operativo de redes elétricas usando o Método de Newton-Raphson."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  BEZERRA, Ubiratan Holanda,  Reconfigurador de Redes",
+                    "ano": "2004",
+                    "finalidade": "Determinar a melhor configuração de chaves normalmente abertas e normalmente fechadas em uma rede elétrica usando algoritmo genético."
+                },
+                {
+                    "autor": "AMAZONAS FILHO",
+                    "software": "E. M.,  BEZERRA, Ubiratan Holanda,  Alocação de Cargas em Transformadores",
+                    "ano": "2004",
+                    "finalidade": "Determinar o carregamento dos transformadores de distribuição de energia elétrica usando dados medições."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "AMAZONAS FILHO",
+                    "titulo": "E. M.,  Redução de Perdas Técnicas em Redes de Distribuição Através da Reconfiguração de Redes e Compensação de Potência Reativa",
+                    "ano": "2002",
+                    "instituicao_promotora": "ANEEL."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Nicácio, D.",
+                "titulo": "Corecha, J.;  AMAZONAS FILHO, E. M.;  Aplicação Móvel para Suporte ao Planejamento de Redes de Distribuição de Energia Elétrica",
+                "ano": "2009",
+                "periodico": "Engenharia de Computação em Revista. ISBN: 19836589   ."
+            },
+            {
+                "autores": "Melo, J.",
+                "titulo": "Gomes, C.;  AMAZONAS FILHO, E. M.;  Sistema Móvel para Auxiliar a Alocação Ótima de Bancos de Capacitores",
+                "ano": "2009",
+                "periodico": "Engenharia de Computação em Revista. ISBN: 19836589   ."
+            },
+            {
+                "autores": "Sato, R.",
+                "titulo": "AMAZONAS FILHO, E. M.;  D&#8208;loggerNet, Datalogger Distribuído para Dados Ambientais Monitorados e Controlados Remotamente",
+                "ano": "2007",
+                "periodico": "Engenharia de Computação em Revista. ISBN: 19836589   ."
+            },
+            {
+                "autores": "Duarte, E.",
+                "titulo": "Pinho, E.;  AMAZONAS FILHO, E. M.;  Digitalização de Medidores Eletromecânicos de Energia Elétrica",
+                "ano": "2007",
+                "periodico": "Engenharia de Computação em Revista. ISBN: 19836589   ."
+            },
+            {
+                "autores": "CARVALHO, André Cutrim",
+                "titulo": "AMAZONAS FILHO, E. M.;  Análise de viabilidade da aplicação de redes neurais no mercado financeiro",
+                "ano": "2005",
+                "periodico": "Engenharia de Computação em Revista. ISBN: 19836589   ."
+            },
+            {
+                "autores": "AMAZONAS FILHO, E. M.",
+                "titulo": "BEZERRA, Ubiratan Holanda;  GARCEZ, Jurandyr Nascimento;  Optimal Reactive Power Allocation in Electrical Distribution Feeder using a Genetic Multi-objective Approach",
+                "ano": "2004",
+                "periodico": "European Power and Energy Systems. ISBN: 14827891   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Antonio de Jesus Barra",
+                "titulo": "Marcus Guerra; AMAZONAS FILHO, E",
+                "evento": "M.; Ferramenta computacional em C++ para auxiliar a análise das sobretensões provocadas por manobras no sistema de transmissão de Mato Grosso utilizando simulações desenvolvidas no ATP. XIX SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica",
+                "local": "Rio de Janeiro",
+                "ano": "2007"
+            },
+            {
+                "autores": "NEVES, Andrey da Costa",
+                "titulo": "FONSECA, Wellington Alex dos Santos; AMAZONAS FILHO, E",
+                "evento": "M.; Estudo e Aplicação de Técnicas de Esparsidade na Programação Orientada a Objeto e Viabilidade Prática de sua Utilização em Programa para Análise de Fluxo De Carga. 27th Iberian Latin- American Congress on Computational Methods in Engineering",
+                "local": "Belém",
+                "ano": "2006"
+            },
+            {
+                "autores": "Francês, C. R.",
+                "titulo": "BEZERRA, Ubiratan Holanda; WEYL, João Crisóstomo; AMAZONAS FILHO, E",
+                "evento": "M.; AL",
+                "local": "Et; Estimador de Estado Generalizado com Técnica Robusta de Processamento de Erros de Topologia. III Congresso de Inovação Tecnológica em Energia Elétrica, Florianópolis",
+                "ano": "2005"
+            },
+            {
+                "autores": "AMAZONAS FILHO, E. M.",
+                "titulo": "BEZERRA, Ubiratan Holanda; REIS, Mauro Ricardo; JUCÁ, Gastão; Alocação de Bancos de Capacitores em Alimentadores de Distribuição Utilizando Função Objetivo Multicritério para Redução de Perdas e Minimização de Desvios de Tensão e Redução de Custos",
+                "evento": "XVI Seminário de Distribuição de Energia",
+                "local": "Brasília",
+                "ano": "2004"
+            },
+            {
+                "autores": "AMAZONAS FILHO, E. M.",
+                "titulo": "BEZERRA, Ubiratan Holanda; JUCÁ, Gastão; GARCEZ, Jurandyr Nascimento; Optimal Reactive Power Allocation in Electrical Distribution Feeder Using a Genetic Multi-Objective Approach",
+                "evento": "4th IASTED International Conference on Power and Energy Systems",
+                "local": "Rhodes",
+                "ano": "2004"
+            },
+            {
+                "autores": "AMAZONAS FILHO, E. M.",
+                "titulo": "BEZERRA, Ubiratan Holanda; JUCÁ, Gastão; AL, Et; Planejamento Ótimo de Alimentadores de Distribuição de Energia Elétrica para Redução de Perdas Ativas e Minimização dos Desvios de Tensão",
+                "evento": "IEEE Transmission and Distribution 2004 Latin América",
+                "local": "São Paulo",
+                "ano": "2004"
+            },
+            {
+                "autores": "BEZERRA, Ubiratan Holanda",
+                "titulo": "FRANCES, C",
+                "evento": "R.; COUTINHO",
+                "local": "M. M.; AMAZONAS FILHO, E. M.; Avaliação de Desempenho de Tecnologias de Transmissão de Dados para Supervisão do Sistema de Distribuição de Energia. XVI SEMINÁRIO NACIONAL DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA,",
+                "ano": "2004"
+            },
+            {
+                "autores": "AMAZONAS FILHO, E. M.",
+                "titulo": "BEZERRA, Ubiratan Holanda; GARCEZ, Jurandyr Nascimento; Redução de Perdas Técnicas em Redes de Distribuição Através da Reconfiguração de Redes e Compensação de Potência Reativa",
+                "evento": "2.o CONGRESSO DE INOVAÇÃO TECNOLÓGICA EM ENERGIA ELÉTRICA",
+                "local": "Natal",
+                "ano": "2003"
+            },
+            {
+                "autores": "GARCEZ, Jurandyr Nascimento",
+                "titulo": "BEZERRA, Ubiratan Holanda; AMAZONAS FILHO, E",
+                "evento": "M.; AL",
+                "local": "Et; Instrumento para Monitoramento da Qualidade da Energia em Rede de Distribuição de Energia Elétrica. IV Seminário Brasileiro de Qualidade de Energia Elétrica,",
+                "ano": "2001"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Luizy Gabrielly Modesto da Silva",
+                "titulo": "Avaliação do Impacto de Sistemas Fotovoltáicos em Redes Elétricas de Distribuição",
+                "ano": "2014",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Renata Torres Farias",
+                "titulo": "Estudos de Redes Elétricas Inteligentes (Smart Grid) no IFPA Campus Belém",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Daltro Santos Leão Junior",
+                "titulo": "Estudos de Redes Elétricas Inteligentes (Smart Grid) no IFPA Campus Belém",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Jose Edson Pereira da Silva Junior",
+                "titulo": "Implantação do Programa de Avaliação Energética (PAE) em Consumidores Residenciais de Energia Elétrica",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Michelle Pinheiro Farias",
+                "titulo": "Avaliação da Manutenção a partir da Correlação das Variáveis Medidas em Equipamentos Elétricos de Alta Tensão",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Eduardo Luiz Soares Costa",
+                "titulo": "O Impacto da Localização e do Dimensionamento de Banco de Capacitores em um Alimentador de Distribuição de Energia Elétrica",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "José Leonardo da Silva Brito",
+                "titulo": "Estudos de Redes Elétricas Inteligentes (Smart Grid) no IFPA Campus Belém",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Rafael Souza Conceição",
+                "titulo": "Implantação do Programa de Avaliação Energética (PAE) em Consumidores Residenciais de Energia Elétrica",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Maria Jerleane Luz França",
+                "titulo": "Implantação do Programa de Avaliação Energética (PAE) em Consumidores Residenciais de Energia Elétrica",
+                "ano": "2012",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Paulo Henrique Pantoja Magno",
+                "titulo": "Afundamentos de Tensão: Investigando o Distúrbio nas Instalações Industriais e Propondo Mitigações",
+                "ano": "2011",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Elaine Rodrigues Queiroz",
+                "titulo": "Avaliação do Sistema de Proteção contra Descargas Atmosféricas (SPDA) dos Campus Belém e suas Áreas Vizinhas: Estudos e Mitigações",
+                "ano": "2011",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Matheus Gomes Duarte",
+                "titulo": "Avaliação do Sistema de Proteção contra Descargas Atmosféricas (SPDA) dos Campus Belém e suas Áreas Vizinhas: Estudos e Mitigações",
+                "ano": "2011",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Eduardo Luiz Soares Costa",
+                "titulo": "Modelagem e Simulação para o Planejamento de Redes de Distribuição de Energia: Localização de Banco de Capacitores",
+                "ano": "2011",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Suzy dos Santos Magno",
+                "titulo": "Modelagem e Simulação para o Planejamento de Redes de Distribuição de Energia: Localização de Banco de Capacitores",
+                "ano": "2011",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Nayara Cristina Magalhães de Souza",
+                "titulo": "Modelagem e Simulação para o Planejamento de Redes de Distribuição de Energia: Localização de Banco de Capacitores",
+                "ano": "2011",
+                "curso": "Tecnologia em Eletrotécnica Industrial",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+            },
+            {
+                "orientando": "Daniel Benchimol Nicácio",
+                "titulo": "Aplicação Móvel para Suporte à Operação de Redes de Distribuição de Energia Elétrica",
+                "ano": "2009",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Estácio de Belém"
+            },
+            {
+                "orientando": "Carlos Tiago Nascimento Lopes",
+                "titulo": "Sistema Móvel para Auxiliar a Alocação Ótima de Bancos de Capacitores",
+                "ano": "2009",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Estácio de Belém"
+            },
+            {
+                "orientando": "Roberto M",
+                "titulo": "Vale Sato.  D-loggerNet, Datalogger Distribuído para Dados Ambientais Monitorados e Controlados Remotamente",
+                "ano": "2007",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Estácio de Belém"
+            },
+            {
+                "orientando": "Elyane de Cássia Cabral Duarte e Erica Mercês Pinho",
+                "titulo": "Digitalização de Medidores Eletromecânicos de Energia Elétrica",
+                "ano": "2007",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Estácio de Belém"
+            },
+            {
+                "orientando": "André Cutrim Carvalho",
+                "titulo": "Análise de viabilidade da aplicação de redes neurais artificiais no mercado financeiro",
+                "ano": "2005",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Faculdade Estácio de Belém"
+            }
+        ]
+    }
+}

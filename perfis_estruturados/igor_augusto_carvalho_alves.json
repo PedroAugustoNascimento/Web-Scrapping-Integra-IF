@@ -1,0 +1,129 @@
+{
+    "campus": "- Campus Canguaretama",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ufersa",
+                "instituicao": "Universidade do Estado do Rio Grande do Norte",
+                "titulo": "ESPECIFICAÇÃO FORMAL DE ESCALONADOR DE HARDWARE PARA SISTEMAS DE TEMPO REAL",
+                "orientador": "Karla Darlene Nepomuceno Ramos",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores",
+                "instituicao": "Liga de Ensino do Rio Grande do Norte",
+                "orientador": "ALUÍZIO FERREIRA DA ROCHA NETO",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2005,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura em Formação Pedagógica de Docentes",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Professor de Redes de Computadores",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Coordenador de TI",
+                "vinculo": "Empregado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "AGRICULTURA DE PRECISÃO COM ARDUINO E ANDROID",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Igor Augusto Carvalho Alves"
+                ],
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "COSTA FILHO, R. V.",
+                "titulo": "ARAUJO, S. R. F.;  NUNES, D. F. L.;  SILVA, J. L.;  ALVES, I. A. C.;CARVALHO, IGOR AUGUSTO;IGOR AUGUSTO DE CARVALHO ALVES;ALVES, IGOR AUGUSTO DE CARVALHO;  DANTAS, W. K. da S.;  Exploração de Espaço de Projeto do Roteamento na Arquitetura IPNoSys",
+                "ano": "2014",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            },
+            {
+                "autores": "DE ARAÚJO, SÍLVIO FERNANDES",
+                "titulo": "LOPES, DÊNIS FR;  DA SILVA, JONATHAN LOPES;  CARVALHO, IGOR AUGUSTO;  DA SILVA DANTAS, WANNYEMBERG KLAYBIN;  Exploração de Espaço de Projeto do Roteamento na Arquitetura IPNoSys",
+                "ano": "2014",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ALVES, I. A. C.",
+                "titulo": "SANTOS, J",
+                "evento": "B.; CARVALHO",
+                "local": "D. M. P.; AGRICULTURA DE PRECISÃO COM ANDROID E ARDUINO. Feira Brasileira de Colégios de Aplicação e Escolas Técnicas ? FEBRAT, Belo Horizonte",
+                "ano": "2015"
+            },
+            {
+                "autores": "ALVES, I. A. C.",
+                "titulo": "Agricultura de precisão com Android e Arduíno",
+                "evento": "CONNEPI",
+                "local": "SÃO LUIZ",
+                "ano": "2014"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 18.165449142456055,
+            "indian": 10.0340576171875,
+            "black": 2.9873554706573486,
+            "white": 23.22750473022461,
+            "middle eastern": 17.394880294799805,
+            "latino hispanic": 28.19075584411621
+        }
+    }
+}

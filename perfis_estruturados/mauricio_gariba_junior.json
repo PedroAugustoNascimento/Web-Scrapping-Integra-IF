@@ -1,0 +1,632 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "ano_inicio": 2009,
+                "ano_fim": 2009
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Um modelo de avaliação cursos superiores de tecnologia baseado na ferramenta benchmarking",
+                "orientador": "Fernando Álvaro Ostuni Gauthier",
+                "ano_inicio": 2001,
+                "ano_fim": 2005
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Produção",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "EDUCAÇÃO A DISTÂNCIA: AMBIENTE DE GERENCIAMENTO, VIA INTERNET, DE PROJETOS",
+                "orientador": "Fernando Álvaro Ostuni Gauthier",
+                "ano_inicio": 1999,
+                "ano_fim": 2000
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Metodologia do Ensino",
+                "instituicao": "Faculdade de Ciências e Letras Plínio Augusto do Amaral",
+                "ano_inicio": 1993,
+                "ano_fim": 1993
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura Plena para graduação de professores",
+                "instituicao": "Centro Federal de Educação Tecnológica do Paraná",
+                "ano_inicio": 1990,
+                "ano_fim": 1991
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Eletrica",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 1979,
+                "ano_fim": 1983
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Santa Catarina",
+                "ano_inicio": 2002,
+                "ano_fim": 2008,
+                "funcao": "Professor Ensino Básico Técnico e Tecnológico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Weg Acionamentos S A",
+                "ano_inicio": 1986,
+                "ano_fim": 1986,
+                "funcao": "Analista de Vendas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Infotec Informática Ltda",
+                "ano_inicio": 1986,
+                "ano_fim": 1988,
+                "funcao": "Gerente Técnico",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Informaq Comércio e Assistência Técnica Ltda",
+                "ano_inicio": 1988,
+                "ano_fim": 1990,
+                "funcao": "Supervisor Técnico de Manutenção",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Cobra Computadores e Sistemas Brasileiros S A",
+                "ano_inicio": 1985,
+                "ano_fim": 1986,
+                "funcao": "Técnico de Manutenção",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Tv Barriga Verde",
+                "ano_inicio": 1984,
+                "ano_fim": 1985,
+                "funcao": "Técnico de laboratório",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Decisão",
+                "ano_inicio": 2001,
+                "ano_fim": 2003,
+                "funcao": "Professor de graduação",
+                "vinculo": "Professor de graduação",
+                "descricao": "Prestação de serviços como professor de graduação por meio de convênio entre a Fundação de Ensino Técnico de Santa Catarina e Faculdade Decisão"
+            },
+            {
+                "empresa": "Universidade do Sul de Santa Catarina",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Professor cooperativado",
+                "vinculo": "Professor cooperativado",
+                "descricao": "Curso ministrado por meio de convenio entre Unisul e Instituto do Saber"
+            },
+            {
+                "empresa": "Ministério da Educação",
+                "ano_inicio": 2006,
+                "ano_fim": 2011,
+                "funcao": "Avaliador de Cursos Superiores de Tecnologia",
+                "vinculo": "Avaliador de Cursos",
+                "descricao": "Comissão avaliadora do INEP para Cursos Superiores de Tecnologia na área profissional de Informática"
+            },
+            {
+                "empresa": "Ministério da Educação",
+                "ano_inicio": 2002,
+                "ano_fim": 2006,
+                "funcao": "Avaliador de Cursos Superiores de Tecnologia",
+                "vinculo": "Avaliador de Cursos",
+                "descricao": "Comissão de Verificação da SETEC/MEC para os Cursos Superiores de Tecnologia na área profissional de Informática"
+            },
+            {
+                "empresa": "Faculdade Estácio de Sá de Santa Catarina",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Professor convidado",
+                "vinculo": "Professor convidado",
+                "descricao": "Professor da disciplina de Gestão da Tecnologia da Informação (12h) no Curso de Especialização em Gestão Empresarial nos dias 26 e 27 de fevereiro de 2010"
+            },
+            {
+                "empresa": "Faculdade Estácio de Sá de Santa Catarina",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Professor convidado",
+                "vinculo": "Professor de pós-graduação",
+                "descricao": "Disciplina de Sistemas de Informação e da Inteligência Competitiva"
+            },
+            {
+                "empresa": "Faculdade Estácio de Sá de Santa Catarina",
+                "ano_inicio": 2006,
+                "ano_fim": 2006,
+                "funcao": "Professor convidado",
+                "vinculo": "Professor de pós-graduação",
+                "descricao": "Disciplina de Sistemas de Informação e Inteligência Competitiva"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2021,
+                "ano_fim": 2025,
+                "funcao": "Reitor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2016,
+                "ano_fim": 2018,
+                "funcao": "Membro titular representante docente CONSUP",
+                "vinculo": "Servidor público",
+                "descricao": "Membro titular representante docente do Conselho Superior (CONSUP)"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2016,
+                "ano_fim": 2020,
+                "funcao": "Assessor de Relações Externas",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2011,
+                "ano_fim": 2016,
+                "funcao": "Diretor Geral do Campus",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2011,
+                "ano_fim": 2016,
+                "funcao": "Membro do Colégio de Dirigentes do IFSC",
+                "vinculo": "Servidor público",
+                "descricao": "O Colégio de Dirigentes é um fórum consultivo da Reitoria do IFSC, conforme prevê seu regimento"
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2008,
+                "ano_fim": null,
+                "funcao": "Prof. do Ensino Básico",
+                "vinculo": "Tecnico e Tecnologico",
+                "descricao": "Servidor público"
+            },
+            {
+                "empresa": "Escola Técnica Federal de Santa Catarina",
+                "ano_inicio": 1988,
+                "ano_fim": 2002,
+                "funcao": "Professor de 1. e 2. graus",
+                "vinculo": "Servidor público",
+                "descricao": "Professor vinculado ao Curso Técnico em Eletrônica"
+            }
+        ],
+        "direcao_administracao": ": Escola Técnica Federal de Santa Catarina\nGerência de Tecnologia e Informação (1994 - 1999) : Gerente Da Gti.\nCoordenadoria do Curso Técnico em Eletrônica (1992 - 1994) : Coordenador Do Curso.\nGrupo ÍCONE (1995 - 1999): Tecnologia de Informação e Comunicação integradas na educação, Educação a distância,",
+        "ensino": ": Instituto Federal de Santa Catarina\nGraduacao (2009) - Curso Superior De Tecnologia Sistemas Eletronicos.\nPos-graduacao (2009 - 2009) - Curso De Especialização Dsv. De Prod. Eletrônicos.\nGraduacao (2009 - 2009) - Curso Superior De Tecnologia Gestão Pública.",
+        "comissoes": ": Escola Técnica Federal de Santa Catarina\nRepresentante Docente Do Curso Técnico Em Eletrônica (1991 - 1993).",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Observatório de Políticas Públicas para a Educação Profissional e Tecnológica em Santa Catarina",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maurício Gariba Júnior",
+                    "Golberi De Salvador Ferreira",
+                    "Joel Lacerda",
+                    "Muriel Bittencourt De Liz",
+                    "Marco Valério M. Villaça",
+                    "Luiz Alberto De Azevedo",
+                    "Jony Laureano Silveira",
+                    "Paulo Ricardo T. Rangel"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "A formação de tecnólogos a partir da primeira e segunda geração de Cursos Superiores de Tecnologia (CST) desenvolvido pelo Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina (IF-SC)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maurício Gariba Júnior",
+                    "Marival Coan",
+                    "Luz Alberto De Azevedo"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Um estudo sobre o curso de Engenharia Eletrônica do Departamento Acadêmico de Eletrônica: tendências e desafios!",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Maurício Gariba Júnior",
+                    "Andréa Martins Andujar",
+                    "Luiz Alberto De Azevedo",
+                    "Fabio Cabral Pacheco"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Worshop ELECON - Dissemination and transfer of knowledge",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Maurício Gariba Júnior",
+                    "Antonio Galdino Da Costa"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PANIAGUA",
+                    "titulo": "Angeles Sánchez-Elvira,  CUADRADO, Ana Maria Martín,  GARIBA JÚNIOR, M.,  El papel y la importancia de la tutoria en cursos a distancia desarrollado por las instituciones de educación superior: un estudio comparativo entre IFSC/UAB (Brasil) y Uned (España)",
+                    "ano": "2012",
+                    "instituicao_promotora": "Universitat de Barcelona."
+                },
+                {
+                    "autores": "ANDUJAR",
+                    "titulo": "A. M.,  GARIBA JÚNIOR, M.,  GEVAERD, E. A. P.,  V SEMIME - Seminário de Exclusão Digital na Sociedade de Informação",
+                    "ano": "2011",
+                    "instituicao_promotora": "Faculdade de Mutricidade Humana - FMH."
+                },
+                {
+                    "autores": "Azevedo",
+                    "titulo": "Luiz Alberto,  GARIBA JÚNIOR, M.,  COAN, Marival,  Seminário de Ensino, Pesquisa e Extensão do IF-SC",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Santa Catarina."
+                },
+                {
+                    "autores": "GARIBA JÚNIOR",
+                    "titulo": "M.,  Benchmarking: ferramenta de avaliação?",
+                    "ano": "2006",
+                    "instituicao_promotora": "Faculdade Estácio de Sá de Santa Catarina."
+                },
+                {
+                    "autores": "GARIBA JÚNIOR",
+                    "titulo": "M.,  Semana das profissões",
+                    "ano": "2003",
+                    "instituicao_promotora": "Curso e Colégio Energia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "GARIBA JÚNIOR",
+                    "curso": "M.,  Curso de Semicondutores Orgânicos",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "GARIBA JÚNIOR",
+                    "evento": "M.,  XVII Encuentro Internacional Virtual Educa",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Gobierno del Estado Libre Asociado de Puerto Rico y Virtual Educa."
+                },
+                {
+                    "autores": "Azevedo",
+                    "evento": "Luiz Alberto,  Lacerda, Joel,  Neves, Marcos,  COAN, Marival,  Villaça, Marco Valério Miorim,  Liz, Muriel Bittencourt de Liz,  Bitencourt, Fernando Gonçalves,  Caetano, Saul Silva,  GARIBA JÚNIOR, M.,  Fórum Ciência, Tecnologia e Sociedade",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia de Santa Catariba."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "Um modelo de avaliac&#807;a&#771;o de Cursos Superiores de Tecnologia: utilizando a ferramenta Benchmarking",
+                "ano": "2018",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786139669844, São Paulo (Publicado)."
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "Tecnologia, innovación e investigación en los procesos de enseñanza-aprendizaje. Título do capítulo: Abandono escolar en cursos superiores a distancia: un estudio entre las instituciones IFSC/UAB (brasileña) y la UNED (española)",
+                "ano": "2016",
+                "informacoes_adicionais": "ISBN: 9788499218489, Barcelona."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "GEVAERD, E. A. P.;  GARIBA JÚNIOR, M.;  Curso Superior de Tecnologia em Gestão Pública na modalidade a distância: uma experiência empreendedora",
+                "ano": "2008",
+                "periodico": "Revista Estácio Papirus. ISBN: 18085350   ."
+            },
+            {
+                "autores": "MARTINS, Anderson Antônio Mattos",
+                "titulo": "ANDUJAR, A. M.;  HAEMING, Waléria Külkamp;  GARIBA JÚNIOR, M.;  Competência na formação tecnológica: uma experiência empreendedora",
+                "ano": "2008",
+                "periodico": "Revista Estácio Papirus. ISBN: 18085350   ."
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos;  ANDUJAR, A. M.;  GARIBA, C. M. S.;  LAPOLLI, Edis Mafra;  GAUTHIER, Fernando Augusto;  MICHELS, G.;  WEIGMANN, P. R.;  HAEMING, Waléria Külkamp;  Um enfoque empreendedor para a educação a distância: LED/UFSC",
+                "ano": "2001",
+                "periodico": "Revista Produção Online. ISBN: 16761901   ."
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "ROSA, A. E.;  SANTOS, Consuelo Sielski;  CASAGRANDE, J. H. B.;  SCHNEIDER, Maria Clara Kaschny;  Construção do conhecimento: desafio para transpor o ensino tradicional",
+                "ano": "2000",
+                "periodico": "Revista da Educação Ceap   ."
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "ROSA, A. E.;  CASAGRANDE, J. B.;  SANTOS, Consuelo Sielski;  SCHNEIDER, M. C. K.;  Superando a avaliação da aprendizagem tradicional, através da lógica de conjuntos fuzzy",
+                "ano": "1999",
+                "periodico": "Revista Scripta   ."
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "ROSA, A. E.;  CASAGRANDE, J. B.;  SANTOS, Consuelo Sielski;  SCHNEIDER, M. C. K.;  Um modelo inteligente para sistemas educacionais auxiliados por computador",
+                "ano": "1999",
+                "periodico": "Revista Scripta   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "CUADRADO, Ana Maria Martín; GARIBA, C",
+                "evento": "M. S.; GARIBA JÚNIOR",
+                "local": "M.; Estrategias pedagógicas utilizadas como posibilidad de prevención del abandono en los cursos superiores a distancia del IFSC/UAB (Brasil) y de la UNED (España). XIX Congreso Internacional Educación y Tecnologia - EDUTEC 2016, Alicante",
+                "ano": "2016"
+            },
+            {
+                "autores": "GARIBA, C. M. S.",
+                "titulo": "GARIBA JÚNIOR, M",
+                "evento": "; Cursos de Especialização",
+                "local": "modalidade a distancia do IFSC: uma experiência exitosa nos processos de permanência e êxito. VIII SEMIME Exclusão Digital na Sociedade da Informação, Lisboa",
+                "ano": "2014"
+            },
+            {
+                "autores": "CUADRADO, Ana Maria Martín",
+                "titulo": "PANIAGUA, Angeles Sánchez-Elvira; GARIBA JÚNIOR, M",
+                "evento": "; El papel y la importancia de la tutoria en cursos a distancia desarrollado por las instituciones de educación superior: un estudio comparativo entre IFSC/UAB (Brasil) y Uned (España). III Congresso Europeu de Tecnologias da Informação na Educação e na Sociedade: Uma Visão Crítica",
+                "local": "Barcelona",
+                "ano": "2012"
+            },
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "GARIBA, C",
+                "evento": "M. S.; GARIBA JÚNIOR",
+                "local": "M.; Curso Superior de Tecnología en Gestión Pública en la modalidad a distancia: una experiencia basada en currículo por competencias. XV Encuentro Iberoamericano de Educación Superior a distancia de la AIESAD, Cartagena das Indias",
+                "ano": "2012"
+            },
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "GARIBA JÚNIOR, M",
+                "evento": "; GEVAERD",
+                "local": "E. A. P.; Uma experiência em EaD: Curso Superior de Tecnologia em Gestão Pública do IF-SC. V SEMIME - Seminário de Exclusão Digital na Sociedade de Informação, Lisboa",
+                "ano": "2011"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "ARADAS, Alfonso Rodriguez-Patón; Análisis del proyecto pedagogico del curso de grado de Ingeniería Informática de la Universidad Politécnica de Madrid, como consecuencias de los ajustes al Espacio Europeo de Educación Superior",
+                "evento": "XVI Congreso Mundial de Ciencias de la Educación",
+                "local": "Monterrey",
+                "ano": "2010"
+            },
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "GARIBA JÚNIOR, M",
+                "evento": "; GEVAERD",
+                "local": "E. A. P.; Curso Superior de Tecnologia em Gestão Pública na modalidade a distância: uma experiência empreendedora. International Conference ICBL2008 - Interactive Computer aided Blended Learning, Florianópolis",
+                "ano": "2008"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MEDEIROS, Caroline de; A implementação de um ambiente virtual de aprendizagem no curso de graduação tecnológica em Radiologia do CEFET-SC, na modalidade presencial",
+                "evento": "ICBL 2007",
+                "local": "Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; Modelo de dimensões internas e externas para orientar as condições de autorização e de reconhecimento dos Cursos Superiores de Tecologia",
+                "evento": "I Jornada da Produção Científica da Educação Profissional e Tecnológica da Região Sul",
+                "local": "Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "GARIBA JÚNIOR, M",
+                "evento": "; MARTINS",
+                "local": "Anderson Antônio Mattos; HAEMING, Waléria Külkamp; Competência na formação tecnológica: uma abordagem empreendedora. I Jornada da Produção Científica da Educação Profissional e Tecnológica da Região Sul, Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "ANDUJAR, A. M.",
+                "titulo": "GARIBA JÚNIOR, M",
+                "evento": "; MARTINS",
+                "local": "Anderson Antônio Mattos; HAEMING, Waléria Külkamp; Capital Intelectual e empreendedorismo: (re)significando o contexto organizacional. I Jornada da Produção Científica da Educação Profissional e Tecnológica da Região Sul, Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "MEDEIROS, Caroline de",
+                "titulo": "GARIBA JÚNIOR, M",
+                "evento": "; Uma alternativa para o processo de avaliação dos Cursos Superiores de Tecnologia. I Jornada da Produção Científica da Educação Profissional e Tecnológica da Região Sul",
+                "local": "Florianópolis",
+                "ano": "2007"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; Um modelo de avaliação de Cursos Superiores de Tecnologia baseado na ferramenta benchmarking",
+                "evento": "Cobenge 2006",
+                "local": "Passo Fundo",
+                "ano": "2006"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MEDEIROS, Caroline de; Projeto Integrador: uma alternativa para o processo de avaliação discente dos Cursos Superiores de Tecnologia",
+                "evento": "Cobenge 2006",
+                "local": "Passo Fundo (RS)",
+                "ano": "2006"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "LAPOLLI, Edis Mafra; SANTOS, Consuelo Sielski; GAUTHIER, Fernando Álvaro Ostuni; The construction of curriculum for graduate courses on technology conceiving evaluation in the form of competences",
+                "evento": "Global Congress on Engineering and Technology Education - GCETE 2005",
+                "local": "Santos",
+                "ano": "2005"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; SANTOS, Consuelo Sielski; SCHNEIDER, Maria Clara Kaschny; Administração hospitalar: uma proposta de curso de pós-graduação a distância",
+                "evento": "VII CREAD - Congreso de Educación a distancia - Mercosur 2003",
+                "local": "Florianópolis/SC",
+                "ano": "2003"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "GARIBA, C",
+                "evento": "M. S.; GAUTHIER",
+                "local": "Fernando Álvaro Ostuni; Personal dance: um profissional empreendedor. 5o. Encontro Nacional de Empreendedores - ENEMPRE, Florianópolis",
+                "ano": "2003"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; SCHNEIDER, Maria Clara Kaschny; LAPOLLI, E",
+                "evento": "; GAUTHIER",
+                "local": "Fernando Augusto; A Educação a distância na capacitação de profissionais da área da saúde. VII Conferência Internacional de Educação em Engenharia e Tecnologia - INTERTECH 2001, Santos",
+                "ano": "2002"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; ANDUJAR, A",
+                "evento": "M.; LAPOLLI",
+                "local": "Edis Mafra; GAUTHIER, Fernando Augusto; ANDUJAR, M. F.; HAEMING, Waléria Külkamp; Conhecimento disponibilizado de forma assertiva: a inteligência empreendedora aplicada a educação. 4. ENEMPRE Encontro Nacional de Empreendedorismo, Florianópolis - SC",
+                "ano": "2002"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; ANDUJAR, A",
+                "evento": "M.; GARIBA",
+                "local": "C. M. S.; LAPOLLI, Edis Mafra; GAUTHIER, Fernando Augusto; HAEMING, Waléria Külkamp; Um enfoque empreendedor para a educação a distância: LED/UFSC. XXII Encontro Nacional de Engenharia de Produção, Curitiba - PR",
+                "ano": "2002"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "GARIBA, C",
+                "evento": "M.; ANDUJAR",
+                "local": "A. M.; HAEMING, Waléria Külkamp; MARTINS, Anderson Antônio Mattos; WEIGMANN, P. R.; Uma abordagem empreendedora para Projetos Interdisciplinares. 3° Encontro Nacional de Empreendedorismo - ENEMPRE, Florianópolis",
+                "ano": "2001"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "MARTINS, Anderson Antônio Mattos; Um enfoque empreendedor para a Educação a Distância: Ícone/CEFETSC",
+                "evento": "Seminário Educação 2001",
+                "local": "Cuiabá",
+                "ano": "2001"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "Ambiente de gerenciamento, via Internet, de projetos interdisciplinares baseados na construção do conhecimento",
+                "evento": "COBENGE 2000",
+                "local": "Ouro Preto",
+                "ano": "2000"
+            },
+            {
+                "autores": "GARIBA JÚNIOR, M.",
+                "titulo": "Educação a distância: ambiente de gerenciamento, via Internet, de projetos interdisciplinares baseados na construção do conhecimento",
+                "evento": "X Aniversario del consorcio red de educacion a distancia - CREAD",
+                "local": "Caracas",
+                "ano": "2000"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Araci Maria Muller",
+                "titulo": "Gestão Pública e o deficit habitacional em Florianópolis",
+                "ano": "2009",
+                "curso": "Especialização em Gestão Pública",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Marlene Aparecida Dias",
+                "titulo": "Gestão Pública - da perspectiva federal à ação municipal: diagnóstico do impacto social do PAI/CRAS - Florianópolis",
+                "ano": "2009",
+                "curso": "Especialização em Gestão Pública",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Diana Duarte Garcia",
+                "titulo": "Música: uma proposta metodológica de ensino/aprendizagem na educação de jovens e adultos",
+                "ano": "2007",
+                "curso": "Especialização Em Educação Proeja",
+                "instituicao": "Centro Federal de Educação Tecnológica de Santa Catarina"
+            },
+            {
+                "orientando": "José L",
+                "titulo": "A. da Rocha, Magda C. Matos e Petrônio L. de Souza.  Trabalho de Conclusão de Curso",
+                "ano": "2007",
+                "curso": "Especialização em educação PROEJA",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Giovani Cavalheiro Nogueira",
+                "titulo": "Pesquisa como princípio educativo na EJA/PMF: um olhar avaliativo",
+                "ano": "2007",
+                "curso": "Especialização Em Educação Proeja",
+                "instituicao": "Centro Federal de Educação Tecnológica de Santa Catarina"
+            },
+            {
+                "orientando": "José Tadeu da Cruz",
+                "titulo": "Sistema de pagamentos brasileiro",
+                "ano": "2006",
+                "curso": "Curso seqüencial em Gestão de Negócios",
+                "instituicao": "Universidade do Sul de Santa Catarina"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 7.3592433182057e-05,
+            "indian": 0.0006118217715993524,
+            "black": 3.654497731986339e-06,
+            "white": 98.51326751708984,
+            "middle eastern": 0.6553604006767273,
+            "latino hispanic": 0.830686628818512
+        }
+    }
+}

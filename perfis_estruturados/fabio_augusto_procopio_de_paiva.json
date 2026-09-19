@@ -1,0 +1,625 @@
+{
+    "campus": "- Campus Parnamirim",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica e da Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Estudo do Conceito de Serendipidade como Base para Novas Abordagens ao Problema da Convergência Prematura",
+                "orientador": "José Alfredo Ferreira Costa",
+                "ano_inicio": 2011,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica e da Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Especificação e Implementação de um protótipo de serviço web para buscas baseadas em contextos compartilhados definidos a partir de sintagmas e de correlações",
+                "orientador": "Cláudio Rodrigues Muniz da Silva",
+                "ano_inicio": 2005,
+                "ano_fim": 2007
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Potiguar",
+                "ano_inicio": 1996,
+                "ano_fim": 2000
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Faculdade de Natal",
+                "ano_inicio": 2008,
+                "ano_fim": 2009,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Politec Tecnologia da Informação S.A",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Caixa Econômica Federal",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Prestador de serviço",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Analista de Banco de Dados",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Horizonte Gestão Empresarial",
+                "ano_inicio": 2001,
+                "ano_fim": 2005,
+                "funcao": "Analista de sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria de Planejamento e Finanças do RN",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": "Prestador de serviços da SEPLAN/RN"
+            },
+            {
+                "empresa": "HOLOS (NATAL. ONLINE)",
+                "ano_inicio": 2019,
+                "ano_fim": 2021,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de corpo editorial"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nCampus João Câmara (2011 - 2012) .",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte\nGraduacao (2012) - Licenciatura Em Informática.\nEnsino-medio (2009) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Estudo e Implementação de Estratégias para Diversificação de Soluções no Algoritmo Fish School Search",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Lucas Vieira Bazante"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "IFRN GEEKS III",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "João Maria Araújo Do Nascimento",
+                    "Ariadne Sarynne Barbosa De Lima"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Um estudo do algoritmo inspirado no comportamento inteligente do pássaro corvo",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Alexya Ferreira De Santana Brito",
+                    "Emanuel Lázaro Porpino Campos",
+                    "Rafaela Ribeiro Marques Dos Santos"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "IFRN GEEKS IV",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Rodrigo Siqueira Martins",
+                    "Juliana Ribeiro Da Cunha"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Controle e monitoramento dos ares-condicionados do campus",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Alexya Ferreira De Santana Brito",
+                    "Emanuel Lázaro Porpino Campos",
+                    "Rafaela Ribeiro Marques Dos Santos"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Uma Variante do Algoritmo Firefly Baseada em Serendipidade",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Izabele Vitória Oliveira Leite",
+                    "Marcone",
+                    "Marcos H. F."
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "UNIONE: UM AMBIENTE VIRTUAL DE APRENDIZAGEM (AVA) MEDIADOR DO PROCESSO DE ENSINO PARA A DISCIPLINA DE BIOLOGIA",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Thalía Natasha Silva Barbalho",
+                    "João Victor Soares Oliveira",
+                    "Airton Araújo De Souza Júnior"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Uma Nova Variante da Meta-heurística Inspirada no Comportamento do Pássaro Cuco para Otimização de Problemas Contínuos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Fábio Augusto Procópio De Paiva",
+                    "Cácio Lucas Nobre De Almeida Bezerra",
+                    "Pedro Victor Miranda De Carvalho",
+                    "Fábio Gabriel Bila Couceiro Costa"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "PAIVA",
+                    "software": "F. A. P.,  UMBELINO, L. G. O.,  PlutoPig: um gerenciador para portfólios de criptoativos",
+                    "ano": "2022",
+                    "finalidade": "Gerenciamento de carteira de criptoativos.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512022000788-6."
+                },
+                {
+                    "autor": "PAIVA",
+                    "software": "F. A. P.,  CoEGi - Controle de Exames Ginecológicos",
+                    "ano": "2008",
+                    "finalidade": "Emissão de laudos ginecológicos."
+                },
+                {
+                    "autor": "PAIVA",
+                    "software": "F. A. P.,  SiCON - Sistema de Controle de Contratos e Convênios",
+                    "ano": "2008",
+                    "finalidade": "Controlar contratos e convênios da Prefeitura Municipal de Parnamirim."
+                },
+                {
+                    "autor": "PAIVA",
+                    "software": "F. A. P.,  SARC - Sistema de Atendimento, Recepção e Contabilidade",
+                    "ano": "2005",
+                    "finalidade": "Atender à demanda clinica."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "PAIVA",
+                    "titulo": "F. A. P.,  LEITE, IZABELE V. O.,  MARCONE, MARCOS H. F.,  Meta-heurística Inspirada na Bioluminescência dos Vaga-lumes usando Aprendizagem Baseada em Oposição Elite",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Vale do Itajaí."
+                },
+                {
+                    "autores": "BEZERRA",
+                    "titulo": "C. L. N. A.,  COSTA, F. G. B. C.,  NASCIMENTO, G. M.,  CARVALHO, P. V. M.,  PAIVA, F. A. P.,  Uma Variante Melhorada do Algoritmo Busca Cuco usando uma Estratégia de Quasi Opposition?Based Learning",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Vale do Itajaí (UNIVALI)."
+                },
+                {
+                    "autores": "BEZERRA",
+                    "titulo": "C. L. N. A.,  COSTA, F. G. B. C.,  BAZANTE, L. V.,  CARVALHO, P. V. M.,  PAIVA, F. A. P.,  Flower Pollination Algorithm Combined with Multiple Strategies of Opposition?Based Learning",
+                    "ano": "2018",
+                    "instituicao_promotora": "IBM Brasil."
+                },
+                {
+                    "autores": "LEITE",
+                    "titulo": "I. V. O.,  MARCONE, M. H. F.,  PAIVA, F. A. P.,  Algoritmo de Polinização das Flores Modificado usando Aprendizagem Baseada em Oposição",
+                    "ano": "2017",
+                    "instituicao_promotora": "Universidade Vale do Itajaí."
+                },
+                {
+                    "autores": "PAIVA",
+                    "titulo": "F. A. P.,  COSTA, J. A. F.,  SILVA, C. R. M.,  Uma Meta-Heurística Alternativa de Inteligência de Enxames Baseada em Serendipidade Guiada",
+                    "ano": "2015",
+                    "instituicao_promotora": "Agência Brasileira de Inteligência Computacional - ABRICOM."
+                },
+                {
+                    "autores": "PAIVA",
+                    "titulo": "F. A. P.,  COSTA, J. A. F.,  SILVA, C. R. M.,  A Hierarchical Architecture for Ontology-based Recommender Systems",
+                    "ano": "2013",
+                    "instituicao_promotora": "Sociedade Brasileira de Inteligência Computacional - SBIC."
+                },
+                {
+                    "autores": "PAIVA",
+                    "titulo": "F. A. P.,  COSTA, J. A. F.,  Using SOM to clustering of web sessions extracted by techniques of Web Usage Mining",
+                    "ano": "2012",
+                    "instituicao_promotora": "Sociedade Brasileira de Inteligência Computacional ? SBIC."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PAIVA",
+                    "curso": "F. A. P.,  Propriedade Intelectual: uma abordagem introdutória",
+                    "ano": "2022"
+                },
+                {
+                    "autor": "PAIVA",
+                    "curso": "F. A. P.,  Implementando Stored Procedures no SQL Server 2008",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "PAIVA",
+                    "curso": "F. A. P.,  Construindo aplicações com Access",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "PAIVA",
+                    "curso": "F. A. P.,  Informática para a Terceira Idade",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "PAIVA",
+                    "curso": "F. A. P.,  Programação de Banco de Dados MySQL",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "PAIVA",
+                    "curso": "F. A. P.,  Otimização de Sentenças SQL",
+                    "ano": "2009"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "PAIVA",
+                    "evento": "F. A. P.;PAIVA, FÁBIO A. P. DE;PAIVA, F. A. P. DE;PAIVA, FÁBIO A. PROCÓPIO DE;PAIVA, FABIO A. P.;PAIVA, FÁBIO;PAIVA, FÁBIO AUGUSTO PROCÓPIO,  SIMG - Simpósio de Informática do Mato Grande",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Coordenação do Curso de Informática."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "NASCIMENTO, J. M. A.;  SOUZA, G. R.;  MARTINS, R. S.;  Introdução a Python com Aplicações de Sistemas Operacionais",
+                "ano": "2020",
+                "informacoes_adicionais": "Varios. ISBN: 9786586293388, Natal (Publicado)."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "Otimização por Enxame de Partículas usando uma Adaptação de Serendipidade",
+                "ano": "2018",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9788594137548, Natal (Publicado)."
+            },
+            {
+                "autores": "PAIVA, FABIO A. P.",
+                "titulo": "LEITE, IZABELE V. O.;  MARCONE, MARCOS H. F.;  IFRN, 10 anos de criação em mais de um século de história. Título do capítulo: Algoritmo do Morcego Modificado com o Voo de Lévy e Aprendizagem Baseada em Oposição Elite",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9788594137579, Natal."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J. A. F.;  SILVA, CLÁUDIO R. M.;  Lecture Notes in Artificial Intelligence. Título do capítulo: A Personality-Based Recommender System for Semantic Searches in Vehicles Sales Portals",
+                "ano": "2017",
+                "informacoes_adicionais": "ISBN: 9783319596501, Berlin."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J. A. F.;  SILVA, C. R. M.;  Lecture Notes in Computer Science. Título do capítulo: An Ontology-based Recommender System Architecture for Semantic Searches in Vehicles Sales Portals",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9783319076164, Berlin."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J. A. F.;  Lecture Notes in Computer Science. Título do capítulo: Using SOM to clustering of web sessions extracted by techniques of Web Usage Mining",
+                "ano": "2012",
+                "informacoes_adicionais": "ISBN: 9783642326, Berlin."
+            },
+            {
+                "autores": "PASA, LEANDRO A.",
+                "titulo": "COSTA, J. A. F.;  TOSIN, M. C.;  PAIVA, F. A. P.;  Lecture Notes in Computer Science. Título do capítulo: Using SOM maps for clustering and visualization of diamond films deposited by HFCVD process",
+                "ano": "2012",
+                "informacoes_adicionais": "ISBN: 9783642346, Berlin."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "LEITE, IZABELE",
+                "titulo": "MARCONE, MARCOS;  PAIVA, FÁBIO;  UM BREVE ESTUDO SOBRE OS ALGORITMOS DOS VAGA-LUMES E DOS MORCEGOS PARA OTIMIZAÇÃO DE FUNÇÕES DE REFERÊNCIA",
+                "ano": "2018",
+                "periodico": "HOLOS (NATAL. ONLINE). ISBN: 18071600   ."
+            },
+            {
+                "autores": "PAIVA, FÁBIO AUGUSTO PROCÓPIO",
+                "titulo": "COSTA, JOSÈ ALFREDO FERREIRA;  SILVA, CLÁUDIO RODRIGUES MUNIZ;  An alternative approach for particle swarm optimisation using serendipity",
+                "ano": "2018",
+                "periodico": "INTERNATIONAL JOURNAL OF BIO-INSPIRED COMPUTATION (ONLINE). ISBN: 17580374   ."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, JOSÉ ALFREDO F.;  SILVA, C. R. M.;  A Serendipity-Based Approach to Enhance Particle Swarm Optimization Using Scout Particles",
+                "ano": "2017",
+                "periodico": "IEEE Latin America Transactions. ISBN: 15480992   ."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J. A. F.;  SILVA, C. R. M.;  A Serendipity-Based PSO Approach to Delay Premature Convergence Using Scout Particle",
+                "ano": "2016",
+                "periodico": "International Journal of Innovative Computing, Information & Control. ISBN: 13494198   ."
+            },
+            {
+                "autores": "CEZARIO, S. F.",
+                "titulo": "SOUZA, L. F.;  COSTA, G. M.;  PAIVA, F. A. P.;  Especificação e implementação de um protótipo para gerenciamento de projetos",
+                "ano": "2013",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J. A. F.;  Sistemas de Recomendação Baseados em Web Usage Mining",
+                "ano": "2012",
+                "periodico": "Holos (Natal. Online). ISBN: 18071600   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "BRITO, A",
+                "evento": "F. S.; CAMPOS",
+                "local": "E. L. P.; SANTOS, R. R. M.; Metaheurística Inspirada no Comportamento do Corvo com Multiestratégias de Aprendizagem Baseada em Oposição. XII Computer on the Beach, Florianópolis",
+                "ano": "2021"
+            },
+            {
+                "autores": "BEZERRA, C. L. N. A.",
+                "titulo": "COSTA, F",
+                "evento": "G. B. C.; BAZANTE",
+                "local": "L. V.; CARVALHO, P. V. M.; PAIVA, F. A. P.; Meta-heurística Inspirada no Comportamento de Cardumes usando Voo de Lévy. X Computer on the Beach, Florianópolis",
+                "ano": "2019"
+            },
+            {
+                "autores": "BEZERRA, C. L. N. A.",
+                "titulo": "CARVALHO, P",
+                "evento": "V. M.; COSTA",
+                "local": "F. G. B. C.; NASCIMENTO, G. M.; PAIVA, F. A. P.; Uma Variante Melhorada do Algoritmo Busca Cuco usando uma Estratégia de Quasi Opposition?Based Learning. IX Computer on the Beach, Florianópolis",
+                "ano": "2018"
+            },
+            {
+                "autores": "LEITE, I. V. O.",
+                "titulo": "MARCONE, M",
+                "evento": "H. F.; PAIVA",
+                "local": "F. A. P.; Meta-heurística Inspirada na Bioluminescência dos Vaga-lumes usando Aprendizagem Baseada em Oposição Elite. IX Computer on the Beach, Florianópolis",
+                "ano": "2018"
+            },
+            {
+                "autores": "BEZERRA, C. L. N. A.",
+                "titulo": "COSTA, F",
+                "evento": "G. B. C.; PAIVA",
+                "local": "F. A. P.; CARVALHO, P. V. M.; BAZANTE, L. V.; Flower Pollination Algorithm Combined withMultiple Strategies of Opposition?Based Learning. XIV Encontro Nacional de Inteligência Artificial e Computacional, São Paulo / sp",
+                "ano": "2018"
+            },
+            {
+                "autores": "LEITE, I. V. O.",
+                "titulo": "MARCONE, M",
+                "evento": "H. F.; PAIVA",
+                "local": "F. A. P.; Algoritmo de Polinização das Flores Modificado usando Aprendizagem Baseada em Oposição. Computer on the Beach, Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "SILVA, C",
+                "evento": "R. M.; LEITE",
+                "local": "I. V. O.; MARCONE, M. H. F.; COSTA, J. A. F.; Uma Nova Abordagem do Conceito de Serendipidade como base para a Meta-heurística Inspirada no Processo de Polinização das Flores. XIII Congresso Brasileiro de Inteligência Computacional (CBIC 2017), Niteroi",
+                "ano": "2017"
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "LEITE, I",
+                "evento": "V. O.; MARCONE",
+                "local": "M. H. F.; Uma Nova Variante do Algoritmo do Morcego Baseada em uma Modificação no Operador de Mutação de Michalewicz. XIV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2017), Uberlândia / MG",
+                "ano": "2017"
+            },
+            {
+                "autores": "PAIVA, FABIO A. P.",
+                "titulo": "SILVA, CLAUDIO R",
+                "evento": "M.; LEITE",
+                "local": "IZABELE V. O.; MARCONE, MARCOS H. F.; COSTA, JOSE A. F.; Modified bat algorithm with cauchy mutation and elite opposition-based learning. 2017 IEEE Latin American Conference on Computational Intelligence (LACCI), Arequipa",
+                "ano": "2017"
+            },
+            {
+                "autores": "BARBALHO, T. N. S.",
+                "titulo": "OLIVEIRA, J",
+                "evento": "V. S.; VALE",
+                "local": "H. A.; SOUZA JUNIOR, A. A.; PAIVA, F. A. P.; Protótipo de um Mecanismo de Comunicação para Debates em Ambientes Virtuais de Aprendizagem. Anais III CONEDU, Natal",
+                "ano": "2016"
+            },
+            {
+                "autores": "LEITE, I. V. O.",
+                "titulo": "MARCONE, M",
+                "evento": "H. F.; PAIVA",
+                "local": "F. A. P.; COSTA, JOSÉ ALFREDO F.; Algoritmo dos Morcegos Modificado com a Mutação de Cauchy. Congresso Norte Nordeste de Pesquisa e Inovação, Maceió",
+                "ano": "2016"
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J",
+                "evento": "A. F.; SILVA",
+                "local": "C. R. M.; A Hierarchical Architecture for Ontology-based Recommender Systems. 1st BRICS Countries Congress, Porto de Galinhas/PE",
+                "ano": "2013"
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "COSTA, J",
+                "evento": "A. F.; SILVA",
+                "local": "C. R. M.; FRANCA, R. L. S.; Arquitetura de um Sistema de Recomendação Baseado em Ontologia para Anúncios de Carros. Ontobras - Seminário de Pesquisa em Ontologias no Brasil, Belo Horizonte/MG",
+                "ano": "2013"
+            },
+            {
+                "autores": "VERAS, W. C.",
+                "titulo": "COSTA, J",
+                "evento": "A. F.; PAIVA",
+                "local": "F. A. P.; PASA, L. A.; SOFFIATTI, André; Um Sistema Autonômico Multiagente Baseado em Ontologias Para Segurança Em Ambientes Computacionais. 10. Congresso Brasileiro de Inteligência Computacional Fortaleza, Fortaleza",
+                "ano": "2011"
+            },
+            {
+                "autores": "PAIVA, F. A. P.",
+                "titulo": "SILVA, C",
+                "evento": "R. M.; Protótipo de Serviço de Busca para a Web baseado em Contextos",
+                "local": "Sintagmas e Correlações. 5th CollECTeR Iberoamérica 2007 (Collaborative Electronic Commerce Technology and Research Conference), Cordoba",
+                "ano": "2007"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "JERLÂNDIA EDUARDA DE FRANÇA BASÍLIO",
+                "titulo": "PORTAL INFOPOLITIZADO: A PARTICIPAÇÃO DOS JOVENS NA POLÍTICA BRASILEIRA",
+                "ano": "2019",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "LUCAS VIEIRA BAZANTE",
+                "titulo": "UMA VARIANTE MELHORADA DO ALGORITMO BUSCA POR CARDUMES UTILIZANDO O VOO DE LÉVY",
+                "ano": "2019",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "PEDRO VICTOR MIRANDA DE CARVALHO",
+                "titulo": "ALGORITMO BUSCA CUCO USANDO UMA ESTRATÉGIA DE QUASI OPPOSITION?BASED LEARNING PARA AUMENTAR A VELOCIDADE DE CONVERGÊNCIA E DIVERSIDADE DAS SOLUÇÕES",
+                "ano": "2019",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ROGERS DE LIMA FREIRE MOREIRA",
+                "titulo": "QUYSHOW - QUIZ DE QUÍMICA ORGÂNICA",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MATHEUS COELHO GURGEL DO AMARAL",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR NA DOUTOR PC",
+                "ano": "2017",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MARCOS HENRIQUE FERNANDES MARCONE",
+                "titulo": "UM ALGORITMO DE POLINIZAÇÃO DAS FLORES MELHORADO COM APRENDIZAGEM BASEADA EM OPOSIÇÃO",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "IZABELE VITÓRIA OLIVEIRA LEITE",
+                "titulo": "ALGORITMO DOS MORCEGOS MODIFICADO COM A MUTAÇÃO DE CAUCHY E APRENDIZAGEM BASEADA EM OPOSIÇÃO",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "THALIA NATASHA BARBALHO",
+                "titulo": "PROTÓTIPO DE UM MECANISMO DE COMUNICAÇÃO PARA DEBATES EM AMBIENTES VIRTUAIS DE APRENDIZAGEM",
+                "ano": "2016",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ABNER ERNESTO DE SOUZA SANTANA",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR NA OAK HILLS CHURCH-REFÚGIO DA GRAÇA",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ITALO RAMON FERREIRA SOUTO",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR NA PREFEITURA MUNICIPAL DE PARNAMIRIM",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "ARTHUR GABRIEL MATIAS LIMA DA SILVA",
+                "titulo": "RELATÓRIO DE ESTÁGIO CURRICULAR NA PREFEITURA MUNICIPAL DE PARNAMIRIM",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MATHEUS MIGUEL SOARES DE MEDEIROS LIMA",
+                "titulo": "UNIONE: UM AMBIENTE VIRTUAL DE APRENDIZAGEM (AVA) MEDIADOR DO PROCESSO DE ENSINO PARA A DISCIPLINA DE BIOLOGIA",
+                "ano": "2015",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "MARCELO JOSÉ BARBOSA RODRIGUES DE LIMA",
+                "titulo": "JOGOS DIGITAIS EDUCACIONAIS COMO FERRAMENTA PEDAGÓGICA NO PROCESSO DE ENSINO E APRENDIZAGEM",
+                "ano": "2014",
+                "curso": "Licenciatura em Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "SIDEMAR FIDELES CEZARIO",
+                "titulo": "ESPECIFICAÇÃO E IMPLEMENTAÇÃO DE UM PROTÓTIPO PARA GERENCIAMENTO DE PROJETOS",
+                "ano": "2011",
+                "curso": "Informática",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "middle eastern",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 4.4077863693237305,
+            "indian": 11.031033515930176,
+            "black": 11.465129852294922,
+            "white": 20.622543334960938,
+            "middle eastern": 27.419221878051758,
+            "latino hispanic": 25.054285049438477
+        }
+    }
+}

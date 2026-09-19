@@ -1,0 +1,638 @@
+{
+    "campus": "- Câmpus Florianópolis",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia de Automação e Sistemas",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Design and Evaluation of a VLIW Processor for Real-Time Systems",
+                "orientador": "Rômulo Silva de Oliveira",
+                "ano_inicio": 2012,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia de Automação e Sistemas",
+                "instituicao": "Universidade Federal de Santa Catarina",
+                "titulo": "Uma abordagem de escalonamento heterogêneo preemptivo e não preemptivo para sistemas de tempo real com garantia em multiprocessadores",
+                "orientador": "Rômulo Silva de Oliveira",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Centro Universitário ? Católica de Santa Catarina em Jaraguá do Sul",
+                "ano_inicio": 2005,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "WEG - Matriz",
+                "ano_inicio": 2005,
+                "ano_fim": 2010,
+                "funcao": "Técnico",
+                "vinculo": "Não informado",
+                "descricao": "Atuação no Departamento de desenvolvimento de produtos da WEG Automação"
+            },
+            {
+                "empresa": "Universidade Federal de Santa Catarina",
+                "ano_inicio": 2010,
+                "ano_fim": 2016,
+                "funcao": "Bolsista de Doutorado/Mestrado",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "REVISTA ILHA DIGITAL",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Sistema de visão estereoscópica para reconhecimento e localização de objetos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Fernando Miranda"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento, fabricação e caracterização de uma matriz flexível de sensores capacitivos para aplicações em robótica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Fernando Miranda"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rede sem fio de sensores e atuadores para movimentação e controle de robôs humanoides",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Hugo Marcondes"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Impressão de robô humanoide",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Aurélio Da Costa Sabino Netto"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de sistema de fabricação de dispositivos semicondutores pelo método de spray pirólise",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Fernando Henrique Miranda"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Integração de Tecnologias do Mundo Analógico com Tecnologias do Mundo Digital: um diferencial para a construção de um perfil profissional.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Fernando Henrique Miranda",
+                    "Everton Luiz Ferret Dos Santos&Quot;",
+                    "Reginaldo Steinbach"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Rede de sensores para monitoramento e automação da planta industrial da cervejaria Kairós",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Flábio Alberto Bardemaker",
+                    "Charles Borges Lima"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Uma abordagem educacional à formação de profissionais para a indústria 4.0",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Fernando Miranda",
+                    "Reginaldo Steinbach",
+                    "Luiz Alberto De Azevedo"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de Tecnologia e implantação de novos processos para serem aplicados na Ampliação e Modernização da Infraestrutura do LabCEM",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Reginaldo Steinbach",
+                    "Luis Carlos Matinhago Schlichting",
+                    "Daniel Dezan De Bona"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Projeto de um produto eletrônico para simulações de resposta à emergência radiológica",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Fernando Miranda"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Framework de um veículo autônomo e multiplataforma para atividades de ensino e extensão",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Reginaldo Steinbach"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "A Compatibilidade Eletromagnética no Projeto e desenvolvimento de equipamentos eletroeletrônicos - integração do ensino, pesquisa e extensão utilizando o Laboratório de Compatibilidade Eletromagnética LabCEM",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Luis Carlos Matinhago Schlichting",
+                    "Daniel Dezan De Bona"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "A Compatibilidade Eletromagnética no Projeto e desenvolvimento de equipamentos eletroeletrônicos - integração do ensino, pesquisa e extensão utilizando o Laboratório de Compatibilidade Eletromagnética - LabCEM",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Reginaldo Steinbach",
+                    "Luis Carlos Matinhago Schlichting",
+                    "Daniel Dezan De Bona"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2021
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de dispositivo eletrônico para medição de ruído industrial usando Internet das Coisas",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Roberto Alexandre Dias",
+                    "Valdir Noll",
+                    "Aldrwin Farias Hamad"
+                ],
+                "financiador": "Serviço de Apoio às Micro e Pequenas Empresas de Florianópolis, Associação Brasileira de Pesquisa e Inovação Industrial,",
+                "ano_inicio": 2023,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Plataforma inteligente de mapeamento e análise de ruído para detecção de anomalias em ambientes industriais",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Gregory Chagas Da Costa Gomes"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina, Associação Brasileira de Pesquisa e Inovação Industrial,",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Desenvolvimento de dispositivo eletrônico para medição de parâmetros elétricos e sensores em ambientes hospitalares",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Renan Augusto Starke",
+                    "Daniel Lohmann",
+                    "Aldrwin Farias Hamad"
+                ],
+                "financiador": "Associação Brasileira de Pesquisa e Inovação Industrial, SEBRAE,",
+                "ano_inicio": 2024,
+                "ano_fim": 2026
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "STARKE",
+                    "software": "R. A.,  LOHMANN, D.,  Interface de calibração e depuração para medidores de energia baseados em MSP430 Energy Measurement Design Center",
+                    "ano": "2025",
+                    "finalidade": "Calibração de medidores de energia.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026001594-4."
+                },
+                {
+                    "autor": "STARKE",
+                    "software": "R. A.,  LOHMANN, D.,  HAMAD, A. F.,  Firmware do subsistema de gerenciamento de um dispositivo eletrônico de medição de parâmetros elétricos e sensores em ambientes hospitalares",
+                    "ano": "2025",
+                    "finalidade": "Sistema de monitoramento de energia e processos em ambientes industriais.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512026001595-2."
+                },
+                {
+                    "autor": "STARKE",
+                    "software": "RENAN,  NOLL, V.,  HAMAD, A. F.,  DIAS, R. A.,  Firmware para um dispositivo end-point Zigbee para medição de ruído industrial",
+                    "ano": "2024",
+                    "finalidade": "Medição de ruído para dispositivos embarcados.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025000217-3."
+                },
+                {
+                    "autor": "STARKE",
+                    "software": "RENAN,  NOLL, V.,  HAMAD, A. F.,  DIAS, R. A.,  Firmware para um dispositivo roteador Zigbee para medição de ruído industrial",
+                    "ano": "2024",
+                    "finalidade": "Medição de ruído para dispositivos embarcados.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512025000219-0."
+                },
+                {
+                    "autor": "STARKE",
+                    "software": "R. A.,  KLOSTERMANN, A. M.,  REINERT, M. R.,  Central de controle de temperatura microcontrolada didática",
+                    "ano": "2004",
+                    "finalidade": "Trabalho final nível técnico."
+                },
+                {
+                    "autor": "STARKE",
+                    "software": "R. A.,  Controle de orçamentos para oficina mecânica",
+                    "ano": "2000",
+                    "finalidade": "Controle e banco de dados de clientes para sistema de orçamento para oficina mecânica automotiva."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "BANDERCHUK",
+                    "titulo": "A. C.,  ALLEBRANDT, D. S.,  STARKE, R. A.,  Rede sem fio de sensores e atuadores para movimentação e controle de robôs humanoides",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "MARTINS JUNIOR",
+                    "titulo": "S. L.,  RAMOS, R. B.,  STARKE, R. A.,  Sistema de controle e proteção de servomotores para o robô Humanoide InMoov",
+                    "ano": "2018",
+                    "instituicao_promotora": "IFSC."
+                },
+                {
+                    "autores": "STARKE",
+                    "titulo": "R. A.,  Silva de Oliveira, Rômulo,  Estudo Empírico sobre o uso da Ferramenta aiT no Cálculo do WCET",
+                    "ano": "2011",
+                    "instituicao_promotora": "Universidade Federal de Santa Catarina."
+                },
+                {
+                    "autores": "STARKE",
+                    "titulo": "R. A.,  Robson,  Sistemas de aquisição de dados em Tempo Real",
+                    "ano": "2008",
+                    "instituicao_promotora": "UNERJ."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "STARKE, RENAN AUGUSTO",
+                "titulo": "GERGES, RAFAEL NAGI CRUZ;  DIAS, ROBERTO ALEXANDRE;  NOLL, VALDIR;  HAMAD, ALDRWIN FARIAS;  LAPORTE, JOAO VICTOR FELIPE;  RATOLA, FERNANDA CARDOSO;  Real Time Industrial Noise Mapping with IoT systems",
+                "ano": "2024",
+                "periodico": "INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS. ISBN: 09758887   ."
+            },
+            {
+                "autores": "COELHO, B.",
+                "titulo": "LOHMANN, D.;  STARKE, R. A.;  Central de controle de sensores de oxigênio dissolvido",
+                "ano": "2024",
+                "periodico": "REVISTA ILHA DIGITAL. ISBN: 21772649   ."
+            },
+            {
+                "autores": "CARMINATI, ANDREU",
+                "titulo": "STARKE, R. A.;  OLIVEIRA, RÔMULO S.;  On the use of static branch prediction to reduce the worst-case execution time of real-time applications",
+                "ano": "2018",
+                "periodico": "REAL-TIME SYSTEMS. ISBN: 09226443   ."
+            },
+            {
+                "autores": "STARKE, RENAN AUGUSTO",
+                "titulo": "CARMINATI, ANDREU;  DE OLIVEIRA, RÔMULO SILVA;  Evaluation of a Low Overhead Predication System for a Deterministic VLIW Architecture Targeting Real-Time Applications",
+                "ano": "2017",
+                "periodico": "Microprocessors and Microsystems. ISBN: 01419331   ."
+            },
+            {
+                "autores": "CARMINATI, ANDREU",
+                "titulo": "STARKE, RENAN AUGUSTO;  DE OLIVEIRA, RÔMULO SILVA;  Combining Loop Unrolling Strategies and Code Predication to Reduce the Worst-Case Execution Time of Real-Time Software",
+                "ano": "2017",
+                "periodico": "Applied Computing and Informatics. ISBN: 22108327   ."
+            },
+            {
+                "autores": "STARKE, RENAN AUGUSTO",
+                "titulo": "CARMINATI, ANDREU;  OLIVEIRA, RÔMULO SILVA DE;  Evaluating the Design of a VLIW Processor for Real-Time Systems",
+                "ano": "2016",
+                "periodico": "ACM Transactions on Embedded Computing Systems. ISBN: 15399087   ."
+            },
+            {
+                "autores": "DE OLIVEIRA, ROMULO SILVA",
+                "titulo": "CARMINATI, ANDREU;  STARKE, RENAN AUGUSTO;  Using an adversary simulator to evaluate global EDF scheduling of sporadic task sets on multiprocessors",
+                "ano": "2014",
+                "periodico": "Journal of Parallel and Distributed Computing (Print). ISBN: 07437315   ."
+            },
+            {
+                "autores": "DE OLIVEIRA, ROMULO SILVA",
+                "titulo": "CARMINATI, ANDREU;  STARKE, RENAN AUGUSTO;  On using adversary simulators to evaluate global fixed-priority and FPZL scheduling of multiprocessors",
+                "ano": "2013",
+                "periodico": "The Journal of Systems and Software. ISBN: 01641212   ."
+            },
+            {
+                "autores": "STARKE, RENAN AUGUSTO",
+                "titulo": "OLIVEIRA, RÔMULO S.;  System-Management-Mode in Real-Time PC-Based Control Applications",
+                "ano": "2013",
+                "periodico": "Journal of Control, Automation and Electrical Systems. ISBN: 21953899   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PINTO, MATHEUS LEITZKE",
+                "titulo": "STARKE, RENAN AUGUSTO; VITOR, ADRIANO; Juca, An Embedded Mobile Robotics Board for Education",
+                "evento": "2025 Brazilian Symposium on Robotics (SBR) and 2025 Workshop on Robotics in Education (WRE)",
+                "local": "Vitoria",
+                "ano": "2025"
+            },
+            {
+                "autores": "STARKE, RENAN A.",
+                "titulo": "STARKE, ALLAN R",
+                "evento": "; SCUSSEL",
+                "local": "JULIO NELSON; COLLE, SERGIO; On Using IoT Protocols for Automation and Monitoring Solar Tracker Devices. ISES Solar World Congress 2019/IEA SHC International Conference on Solar Heating and Cooling for Buildings and Industry 2019, Santiago",
+                "ano": "2019"
+            },
+            {
+                "autores": "BANDERCHUK, A. C.",
+                "titulo": "ALLEBRANDT, D",
+                "evento": "S.; LOHMANN",
+                "local": "D.; STARKE, R. A.; Organização de uma rede machine to machine (M2M) para controle distribuído de um robô humanoide. SBESC, Salvador",
+                "ano": "2018"
+            },
+            {
+                "autores": "BANDERCHUK, A. C.",
+                "titulo": "ALLEBRANDT, D",
+                "evento": "S.; STARKE",
+                "local": "R. A.; Rede De Sensores E Atuadores Para Controle De Robos Humanoides. SEPEI, Florianópolis",
+                "ano": "2018"
+            },
+            {
+                "autores": "MARTINS JUNIOR, S. L.",
+                "titulo": "STARKE, R",
+                "evento": "A.; RAMOS",
+                "local": "R. B.; Sistema de visão estereoscópica para reconhecimento e localização de objetos. SEPEI, Itajaí - SC",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, KARILA PALMA",
+                "titulo": "STARKE, RENAN AUGUSTO; DE OLIVEIRA, ROMULO SILVA; Value analysis for the determination of memory instruction latency in a WCET tool",
+                "evento": "2015 IEEE 13th International Conference on Industrial Informatics (INDIN)",
+                "local": "Cambridge",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA DE OLIVEIRA, ROMULO",
+                "titulo": "CARMINATI, ANDREU; STARKE, RENAN; A Necessary Test for Fixed-Priority Real-Time Multiprocessor Systems based on Lazy-adversary Simulation",
+                "evento": "4th International Conference on Simulation and Modeling Methodologies",
+                "local": "Technologies and Applications, Vienna",
+                "ano": "2014"
+            },
+            {
+                "autores": "STARKE, R. A.",
+                "titulo": "DE OLIVEIRA, R",
+                "evento": "S.; A Heterogeneous Preemptive and Non-preemptive Scheduling Approach for Real-Time Systems on Multiprocessors. 2012 Second Brazilian Conference on Critical Embedded Systems (CBSEC 2012)",
+                "local": "Campinas",
+                "ano": "2012"
+            },
+            {
+                "autores": "STARKE, RENAN AUGUSTO",
+                "titulo": "OLIVEIRA, ROMULO SILVA DE; Cache Preemption Related Delay Accounting via Static Analysis and Functional Simulation",
+                "evento": "2012 Brazilian Symposium on Computing System Engineering (SBESC)",
+                "local": "Natal",
+                "ano": "2012"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Grecili dos Santos Ferreira",
+                "titulo": "Desenvolvimento do firmware de uma placa de comunicação celular proprietária",
+                "ano": "2026",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Yuri Marques Barboza",
+                "titulo": "Estudo e aplicação do ESP32-H2 em redes IoT baseadas no protocolo Zigbee",
+                "ano": "2025",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Conrado Becker Gressler",
+                "titulo": "Desenvolvimento de um sistema de controle para bancada de testes de módulo de controle de carroceria",
+                "ano": "2025",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sarah Giovanna Bararua Santos",
+                "titulo": "Estudo e aplicação do CC2652R7 em redes IoT baseada no protocolo Zigbee",
+                "ano": "2025",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Maitê Luisa da Silva",
+                "titulo": "Utilizando o microcontrolador CC1350 para desenvolver um sistema de medição de temperatura e umidade sem fio",
+                "ano": "2024",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Carolina de Farias",
+                "titulo": "Desenvolvimento de uma jiga de testes automatizados para componentes eletrônicos digitais utilizando o Robot Framework",
+                "ano": "2023",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Henrique da Silva Bento",
+                "titulo": "Desenvolvimento de uma interface G-Code embarcada para máquinas CNC",
+                "ano": "2023",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rayan Martins Steinbach",
+                "titulo": "Definição de procedimentos para a confecção de placas de circuito impresso em máquinas CNC",
+                "ano": "2022",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "MIKAEL FERRAZ ALDEBRAND",
+                "titulo": "Implementação redes neurais em VHDL e interação com CPU",
+                "ano": "2022",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Nycolas Abreu",
+                "titulo": "Estudo e desenvolvimento de programações low-code e no-code para um sistema embarcado",
+                "ano": "2022",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Hellen Avila Rosa",
+                "titulo": "Estudo de caso: processos de desenvolvimento de software embarcado utilizando ferramentas de automatização",
+                "ano": "2021",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ricardo Schons Cirio",
+                "titulo": "Implementação e análise do controle adaptativo da potência de transmissão e uma rede pessoal sem fio &#65279;",
+                "ano": "2021",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Lucas Odair Silva",
+                "titulo": "Controlador de interrupções para um softcore Risc-V",
+                "ano": "2021",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Bárbara Coelho",
+                "titulo": "Central de controle de sensores de oxigênio dissolvido",
+                "ano": "2020",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM DESENVOLVIMENTO DE PRODUTOS ELETRÔNICOS PÓS-GRAD",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rafael Hiller",
+                "titulo": "Desenvolvimento de um sistema de testes térmicos para produtos eletrônicos",
+                "ano": "2020",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Ian Schmiegelow Dannapel",
+                "titulo": "Desenvolvimento de uma solução para controle automático da iluminação urbana",
+                "ano": "2019",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Victor Fachinelli",
+                "titulo": "Desenvolvimento de um protótipo para análise automática de campo elétrico próximo",
+                "ano": "2019",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Cleisson Fernandes da Silva",
+                "titulo": "Desenvolvimento de uma superfície sintetizadora de áudio com interface tangível para usuário",
+                "ano": "2019",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Lucas Seara Manoel",
+                "titulo": "Integração do Framework Robot Operating System e de um sistema de sensoriamento via mapa de profundidade a um robô do DAELN",
+                "ano": "2019",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sérgio Luiz Martins Junior",
+                "titulo": "Atualização e aprimoramento de um sistema controlado por robô para realização de medidas magnéticas",
+                "ano": "2018",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Edilberto Costa Neto",
+                "titulo": "Desenvolvimento de luvas para realidade virtual e aumentada.",
+                "ano": "2018",
+                "curso": "CURSO DE ESPECIALIZAÇÃO EM DESENVOLVIMENTO DE PRODUTOS ELETRÔNICOS PÓS-GRAD",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Diesson Stefano Allebrandt",
+                "titulo": "Rede sem fio de sensores e atuadores para movimentação e controle de robôs humanoides",
+                "ano": "2017",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Sérgio Luiz Martins Junior",
+                "titulo": "Sistema de visão estereoscópica para reconhecimento e localização de objetos",
+                "ano": "2016",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            },
+            {
+                "orientando": "Rodrigo Belisário Ramos",
+                "titulo": "Sistema de visão estereoscópica para reconhecimento e localização de objetos",
+                "ano": "2016",
+                "curso": "Engenharia Eletrônica",
+                "instituicao": "Instituto Federal de Santa Catarina"
+            }
+        ]
+    }
+}

@@ -42,6 +42,11 @@
         ],
         "atuacoes_profissionais": [
             {
+                "empresa": "DYNA-BILBAO",
+                "periodo": "2015 - 2015",
+                "cargo": ", Revisor de periódico."
+            },
+            {
                 "empresa": "Serviço Nacional de Aprendizagem Comercial",
                 "periodo": "1999 - 2001",
                 "cargo": "Professor, Disciplinas de Redes/Comunicação de Dados e Introdução a Informática Orientação de Estágio."
@@ -107,11 +112,6 @@
                 "cargo": "Profesor de Informática, Servidor público."
             },
             {
-                "empresa": "DYNA-BILBAO",
-                "periodo": "2015 - 2015",
-                "cargo": ", Revisor de periódico."
-            },
-            {
                 "empresa": "Congresso brasileiro de automática",
                 "periodo": "2018 - 2018",
                 "cargo": ", Revisor de periódico, CBA2018 - XXII Congresso Brasileiro de Automática, João Pessoa, Paraíba, Brasil.."
@@ -175,8 +175,8 @@
                 "periodo": "2017 - 2018",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Marcos André Pisching",
                     "Luis Felipe Mattos de Brito Souza",
+                    "Marcos André Pisching",
                     "Gabriel José Pfluck",
                     "Luana Gabriely Spricigo",
                     "Ezequias de Souza Serafim Filho"
@@ -226,16 +226,6 @@
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
-                "nome": "Ensino de programação orientada a objetos com o Kit Didático de Robótica Lego Mindstorm",
-                "periodo": "2020 - 2021",
-                "natureza": "Pesquisa",
-                "equipe": [
-                    "Marcos André Pisching"
-                ],
-                "financiador": "Instituto Federal de Santa Catarina,"
-            },
-            {
-                "instituicao": "Instituto Federal de Santa Catarina",
                 "nome": "Indústria 4.0: Sistema para rastreabilidade e localização de produtos da linha de produção",
                 "periodo": "2020 - 2021",
                 "natureza": "Pesquisa",
@@ -245,6 +235,16 @@
                     "GUILHERME DE CASTILHOS NUNES"
                 ],
                 "financiador": "Instituto Federal de Santa Catarina, Instituto Federal de Santa Catarina,"
+            },
+            {
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "nome": "Ensino de programação orientada a objetos com o Kit Didático de Robótica Lego Mindstorm",
+                "periodo": "2020 - 2021",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Marcos André Pisching"
+                ],
+                "financiador": "Instituto Federal de Santa Catarina,"
             },
             {
                 "instituicao": "Instituto Federal de Santa Catarina",
@@ -303,9 +303,9 @@
                 "periodo": "2022 - 2023",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "PITER DUARTE DA SILVA",
                     "Marcos André Pisching",
                     "RAQUEL DARELLI MICHELON",
+                    "PITER DUARTE DA SILVA",
                     "RYAN VINAGRE MELO",
                     "JUNO COSTA KIM"
                 ]
@@ -414,8 +414,8 @@
                     "instituicao_promotora": "IFSC."
                 },
                 {
-                    "autores": "PISCHING",
-                    "titulo": "M. A.,  KIM, J. C.,  SOUZA, H. M.,  FONTAO, W. D.,  PROTÓTIPO DE UM SISTEMA ANTIFURTO DE CABOS DE ENERGIA EM INSTALAÇÕES AÉREAS",
+                    "autores": "KIM",
+                    "titulo": "J. C.,  PISCHING, M. A.,  SOUZA, H. M.,  FONTAO, W. D.,  PROTÓTIPO DE UM SISTEMA ANTIFURTO DE CABOS DE ENERGIA EM INSTALAÇÕES AÉREAS",
                     "ano": "2024",
                     "instituicao_promotora": "IFSC."
                 },

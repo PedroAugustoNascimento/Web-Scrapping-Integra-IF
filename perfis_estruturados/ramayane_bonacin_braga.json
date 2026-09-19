@@ -1,0 +1,621 @@
+{
+    "campus": "- Campus Ceres",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "orientador": "Humberto Luiz Razente",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "em Educação Profissional e Tecnológico",
+                "instituicao": "Instituto Federal Goiano",
+                "titulo": "MENINAS DIGITAIS NO CERRADO: um estudo de caso sobre um projeto de empoderamento feminino na computação do IF Goiano - Campus Ceres",
+                "orientador": "Marcos de Moraes Sousa",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "MBA em Governança em TI",
+                "instituicao": "Universidade Ceuma",
+                "orientador": "Carla Priscila Alves Braga",
+                "ano_inicio": 2011,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Estadual de Goiás - Goianésia",
+                "ano_inicio": 2006,
+                "ano_fim": 2009
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "SENAI - Departamento Regional de Goiás",
+                "ano_inicio": 2011,
+                "ano_fim": 2014,
+                "funcao": "Instrutor de Educação Profissional",
+                "vinculo": "Não informado",
+                "descricao": "- Ministrar cursos de capacitação profissional na área de Tecnologia da Informação. - Ministrar cursos de aprendizagem na área de Redes e Manutenção de Computadores. - Ministrar disciplinas para cursos técnicos em diversas áreas"
+            },
+            {
+                "empresa": "Centro de Educação Profissional Governador Otávio Lage",
+                "ano_inicio": 2009,
+                "ano_fim": 2010,
+                "funcao": "Professor Substituto/Técnico de Informática",
+                "vinculo": "Servidor público",
+                "descricao": "- Responsável pela segurança e gerenciamento da rede; - Manutenção dos equipamentos de informática; - Ministrar cursos de formação profissional na área de Tecnologia de Informação; Capacitação dos funcionários; - Ministrar a Disciplina de Segurança de Informação para o Curso Técnico de Informática"
+            },
+            {
+                "empresa": "Universidade Estadual de Goiás",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Responsável pelas seguintes disciplinas do curso de Sistemas de Informação: - Engenharia de Software; - Arquitetura de Computadores; - Eletricidade e Lógica Digital"
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor Substituto",
+                "vinculo": "Não informado",
+                "descricao": "Atualmente ministro as seguintes disciplinas: - Fundamentos de Informática e Operação de Computadores - 1° ano Ensino Médio Integrado ao curso Técnico em Informática. - Análise e Desenvolvimento de Projeto de Sistema - 3° ano Ensino Médio Integrado ao curso Técnico em Informática. - Análise e Desenvolvimento de Projeto de Sistema - 3° período do curso Técnico em Informática"
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2015,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Estadual de Goiás",
+                "nome": "Gênios de Turing",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Elton César Silva Morais",
+                    "Silas Augusto Alves Júnior",
+                    "Mateus Nascimento Da Silva",
+                    "Munike Alves Lamounier",
+                    "Túlio Vital Ayres",
+                    "Thalia Santos De Santana"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Ciências da Computação como instrumento integrador entre o Projeto Bombeiros Mirins e o câmpus Ceres do IF Goiano",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Adriano Honorado Braga",
+                    "Gleidson Caetano Da Silveira Pinto"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Meninas Digitais no Cerrado",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Thalia Santos De Santana",
+                    "Natalia Do Carmos Louzada"
+                ],
+                "ano_inicio": 2016,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Gênios de Turing",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Adriano Honorado Braga",
+                    "Thalia Santos De Santana",
+                    "Ianka Talita Bastos De Assis",
+                    "Kleyton Carlos Do Valle"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desafios à permanência na área de Computação: uma análise com as estudantes do Técnico em Informática para Internet no IF Goiano Campus Ceres",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Janiele Farias Machado"
+                ],
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Uma década de transformação: Análise das contribuições da Olimpíada Brasileira de Informática no Campus Ceres do IF Goiano",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Sara Luiz De Farias"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Criando Artes Digitais: Curso Online de Canva",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Meninas Digitais no Cerrado: trabalhando o empoderamento feminino por meio da história das mulheres na computação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Adriano Honorado Braga",
+                    "Thalia Santos De Santana",
+                    "Natália Do Carmo Louzada",
+                    "Sara Luiz De Farias"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Conhecendo uma nova forma de programar",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Ramayane Bonacin Braga",
+                    "Adriano Honorado Braga"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2014
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SANTANA",
+                    "titulo": "T. S.,  BRAGA, R. B.,  Por que discutir feminismo no IF Goiano - Campus Ceres? (Feminismo em Quadrinhos)",
+                    "ano": "2022",
+                    "instituicao_promotora": "Instituto Federal Goiano - Campus Ceres."
+                },
+                {
+                    "autores": "BRAGA",
+                    "titulo": "R. B.,  LOUZADA, N. C.,  SANTANA, T. S.,  Onde estão as mulheres nessa história?",
+                    "ano": "2020",
+                    "instituicao_promotora": "IF Goiano Catalão/Cristalina."
+                },
+                {
+                    "autores": "BRAGA",
+                    "titulo": "A. H.,  BRAGA, R. B.,  Gênios de Turing",
+                    "ano": "2017",
+                    "instituicao_promotora": "INSTITUTO FEDERAL DO TRIÂNGULO MINEIRO - CAMPUS PARACATU."
+                },
+                {
+                    "autores": "BRAGA",
+                    "titulo": "R. B.,  Era uma vez Lovelace: A história das mulheres na Tecnologia",
+                    "ano": "2017",
+                    "instituicao_promotora": "Google Developers Group."
+                },
+                {
+                    "autores": "BRAGA",
+                    "titulo": "R. B.,  LOUZADA, N. C.,  SANTANA, T. S.,  ASSIS, I. T. B.,  Histórias para meninas nerds: mulheres incríveis na linha do tempo da computação",
+                    "ano": "2017",
+                    "instituicao_promotora": "Mulheres na Tecnologia."
+                },
+                {
+                    "autores": "BRAGA",
+                    "titulo": "R. B.,  BRAGA, A. H.,  SANTANA, T. S.,  ALVES JUNIOR, S. A.,  LAMOUNIER, M. A.,  Laboratório com Gênios de Turing: Oficina de Programação para Crianças",
+                    "ano": "2016",
+                    "instituicao_promotora": "Comunidade"
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "BRAGA",
+                    "curso": "R. B.,  SANTANA, T. S.,  ASSIS, I. T. B.,  Introdução à Robótica com Meninas Digitais no Cerrado (II IntegraTec)",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "BRAGA",
+                    "curso": "A. H.,  BRAGA, R. B.,  SANTANA, T. S.,  VALLE, K. C.,  Gênios de Turing (FLISOL Paracatu)",
+                    "ano": "2017"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "BRAGA",
+                    "evento": "Ramayane B.,  Escola Regional de Informática (ERI - GO)",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano - Campus Ceres."
+                },
+                {
+                    "autores": "BRAGA",
+                    "evento": "R. B.,  BRAGA, A. H.,  RIBEIRO, J.,  Scratch Day",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano Campus Ceres."
+                },
+                {
+                    "autores": "BRAGA",
+                    "evento": "R. B.,  I SIMTEC",
+                    "ano": "2016",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano Campus Ceres."
+                },
+                {
+                    "autores": "BRAGA",
+                    "evento": "A. H.,  BRAGA, R. B.,  FERREIRA, A. L. N.,  PINTO, G. C. S.,  CAMPOS, L. M. C.,  RIGO, R.,  TELES, R. M.,  MELO, P. C. F.,  1º Dia da Informática",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano Campus Ceres."
+                },
+                {
+                    "autores": "BRAGA",
+                    "evento": "A. H.,  BRAGA, R. B.,  MELO, P. C. F.,  XVII Olimpíada Brasileira de Informática (OBI 2015)",
+                    "ano": "2015",
+                    "duracao_semanas": "8",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação."
+                },
+                {
+                    "autores": "MENDONCA",
+                    "evento": "W. F.,  BRAGA, R. B.,  Desfile Cívico Estudantil",
+                    "ano": "2015",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano Campus Ceres."
+                },
+                {
+                    "autores": "BRAGA",
+                    "evento": "A. H.,  BRAGA, R. B.,  Conhecendo uma nova forma de programar",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Estadual de Goiás."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "REZENDE, S. E. F.",
+                "titulo": "BRAGA, R. B.;  SOUSA, M. M.;  SOUSA, J. C. M.;  Educação e trabalho, utopias possíveis nos espaços da EPT",
+                "ano": "2022",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786559175, Porto Alegre (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "SOARES DE SANTANA FILHO, ORLANDO",
+                "titulo": "CARDOSO FERREIRA, TIAGO CARDOSO FERREIRA;  LUIZ DE FARIAS, SARA;  SANTOS DE SANTANA, THALIA;  BRAGA, Adriano Honorato;  BRAGA, R. B.;  Análise do Desenvolvimento de Pensamento Computacional por meio de Ações de Programação Aplicada na Educação Básica",
+                "ano": "2025",
+                "periodico": "Anais do Computer on the Beach. ISBN: 23580852   ."
+            },
+            {
+                "autores": "VICTOR ALVES SANTOS, GABRIEL",
+                "titulo": "PONTES ROMUALDO, ISAQUE;  UMEZU, PALLOMA;  SANTOS DE SANTANA, THALIA;  BRAGA, Adriano Honorato;  FRANÇA, MARCELA;  BRAGA, R. B.;  Explorando o Pensamento Computacional nos Anos Iniciais: Uma Jornada de Ensino e Extensão no Ensino Fundamental",
+                "ano": "2025",
+                "periodico": "Anais do Computer on the Beach. ISBN: 23580852   ."
+            },
+            {
+                "autores": "BRAGA, RAMAYANE BONACIN",
+                "titulo": "SÃO BERNARDO, MIRELLE AMARAL DE;  FARIAS, SARA LUIZ DE;  SANTANA, THALIA SANTOS DE;  SOUSA, MARCOS DE MORAES;  Initiatives of Female Empowerment in Computing Implemented at the High School Level: A Systematic Mapping",
+                "ano": "2024",
+                "periodico": "SOCIETIES. ISBN: 20754698   ."
+            },
+            {
+                "autores": "BRAGA, R. B.",
+                "titulo": "REZENDE, S. E. F.;  SOUSA, M. M.;  BERNARDO, M. A. S.;  SOUSA, J. C. M.;  Politecnia e apropriações teórico-metodológicas no ensino médio integrado do IF Goiano ?Campus Ceres",
+                "ano": "2023",
+                "periodico": "PESQUISA E DEBATE EM EDUCAÇÃO. ISBN: 22379444   ."
+            },
+            {
+                "autores": "BRAGA, R. B.",
+                "titulo": "REZENDE, S. E. F.;  SOUSA, M. M.;  BERNARDO, M. A. S.;  SOUSA, J. C. M.;  POLITECNIA E APROPRIAÇÕES TEÓRICO-METODOLÓGICAS NO ENSINO MÉDIO INTEGRADO DO IF GOIANO ?CAMPUS CERES",
+                "ano": "2023",
+                "periodico": "PESQUISA E DEBATE EM EDUCAÇÃO. ISBN: 22379444   ."
+            },
+            {
+                "autores": "BRAGA, Adriano Honorato",
+                "titulo": "FARIAS, S. L.;  NUNES, M. I. S.;  LOUZADA, N. C.;  SANTANA, T. S.;  BRAGA, R. B.;  The Brazilian professional, scientific, and technological education system as an instrument for promoting gender equality in computing",
+                "ano": "2023",
+                "periodico": "CENTRAL EUROPE CEUR WORKSHOP PROCEEDINGS. ISBN: 16130073   ."
+            },
+            {
+                "autores": "REZENDE, S. E. F.",
+                "titulo": "BRAGA, R. B.;  SOUSA, M. M.;  FATORES DE EVASÃO ESCOLAR NOS CURSOS TÉCNICOS INTEGRADOS AO ENSINO MÉDIO: PROTOCOLO DE REVISÃO SISTEMÁTICA DA LITERATURA",
+                "ano": "2022",
+                "periodico": "TEMAS EM EDUCACAO. ISBN: 23597003   ."
+            },
+            {
+                "autores": "NUNES, M. I. S.",
+                "titulo": "FARIAS, S. L.;  BRAGA, A. H.;  SANTANA, T. S.;  BRAGA, R. B.;  LOUZADA, N. C.;  Promoção da equidade de gênero por meio de ações extensionistas das Meninas Digitais no Cerrado em tempos de Pandemia",
+                "ano": "2021",
+                "periodico": "Computer on the Beach. ISBN: 23580852   ."
+            },
+            {
+                "autores": "LOUZADA, N. C.",
+                "titulo": "SANTANA, T. S.;  ASSIS, I. T. B.;  BRAGA, R. B.;  BRAGA, A. H.;  Agindo sobre a diferença: atividades de empoderamento feminino em prol da permanência de mulheres em cursos de Tecnologia da Informação. XXX Congresso da Sociedade Brasileira de Computação",
+                "ano": "2019",
+                "periodico": "XXX Congresso da Sociedade Brasileira de Computação. ISBN: 21752761   ."
+            },
+            {
+                "autores": "BRAGA, Adriano Honorato",
+                "titulo": "CAMARGO, L. S.;  BRAGA, R. B.;  Meninas Digitais no Cerrado: Ações que empoderam e ajudam na permanência de meninas em cursos de TI",
+                "ano": "2019",
+                "periodico": "Computer on the beach. ISBN: 23580852   ."
+            },
+            {
+                "autores": "LOUZADA, N. C.",
+                "titulo": "SANTANA, T. S.;  ASSIS, I. T. B.;  BRAGA, R. B.;  BRAGA, Adriano Honorato;  Agindo sobre a diferença: atividades de empoderamento feminino em prol da permanência de mulheres em cursos de Tecnologia da Informação",
+                "ano": "2019",
+                "periodico": "XXX Congresso da Sociedade Brasileira de Computação. ISBN: 21752761   ."
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "ASSIS, I. T. B.;  BRAGA, R. B.;  LOUZADA, N. C.;  A importância de atividades de empoderamento feminino como forma de minimizar a evasão das mulheres nos cursos de Tecnologia da Informação",
+                "ano": "2017",
+                "periodico": "XXX Congresso da Sociedade Brasileira de Computação. ISBN: 21752761   ."
+            },
+            {
+                "autores": "BRAGA, Adriano Honorato",
+                "titulo": "BRAGA, R. B.;  OLIVEIRA, M. H. P.;  DOURADO, Thalia Eloisa P. S.;  Desenvolvimento de jogos com ferramentas gratuitas",
+                "ano": "2016",
+                "periodico": "Computer on the beach. ISBN: 23580852   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "ROMUALDO, I. P.",
+                "titulo": "SANTANA, T",
+                "evento": "S.; BRAGA",
+                "local": "R. B.; Computação nos Anos Iniciais: Um Diálogo Pedagógico Fundamentado na BNCC. Edupomp, Campo Grande - MS",
+                "ano": "2026"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "BRAGA, R",
+                "evento": "B.; RIGO",
+                "local": "R.; ARAUJO, R. D.; Expedição Lógica: Jogando e Aprendendo Lógica Proposicional e de Predicados. Educomp, Campo Grande - MS",
+                "ano": "2026"
+            },
+            {
+                "autores": "ROMUALDO, I. P.",
+                "titulo": "SANTOS, G",
+                "evento": "V. A.; UMEZU",
+                "local": "P. S.; SANTANA, T. S.; BRAGA, R. B.; BRAGA, A. H.; FRANCA, M. D.; Explorando o Pensamento Computacional nos anos iniciais: uma jornada de ensino e extensão no Ensino Fundamental. 16° Computer on the Beach, Itajai - SC",
+                "ano": "2025"
+            },
+            {
+                "autores": "OS de Santana Filho",
+                "titulo": "FERREIRA, T",
+                "evento": "C.; FARIAS",
+                "local": "S. L.; SANTANA, T. S.; BRAGA, Adriano Honorato; BRAGA, R. B.; Análise do Desenvolvimento de Pensamento Computacional por meio de Ações de Programação Aplicada na Educação Básica. 16° Computer on the Beach, Itajai - SC",
+                "ano": "2025"
+            },
+            {
+                "autores": "SANTOS, A.",
+                "titulo": "FERREIRA, T",
+                "evento": "C.; BONFIM",
+                "local": "I.; CARNEIRO, R. J.; ROMUALDO, ISAQUE P.; REIS, V. P. F.; FRANCISCO, C. A.; BRAGA, R. B.; SANTOS, M. M.; The Science Truck: A Mobile Scientific Exploration of Physics, Chemistry, Biology, and Computer Science. Hands-on Science: science education and sustainability, Pirenópolis - GO",
+                "ano": "2024"
+            },
+            {
+                "autores": "SANTOS, GABRIEL V. A.",
+                "titulo": "UMEZU, P",
+                "evento": "S.; FRANCA",
+                "local": "M. D.; BRAGA, RAMAYANE BONACIN; The Role of the ?Scientific Practices? Axis in the Disseminationof Science and Technology. Hands-on Science: science education and sustainability, Pirenópolis - GO",
+                "ano": "2024"
+            },
+            {
+                "autores": "FERREIRA, T. C.",
+                "titulo": "FARIAS, S",
+                "evento": "L.; ALVES",
+                "local": "MATHEUS RODRIGUES; SILVA, MARIA LUIZA F.; BRAGA, Ramayane B.; SANTANA, T. S.; BRAGA, A. H.; NEPeTI: A Decade of Encouraging Computing in the Saint Patrick's Valley-GONEPeTI: A Decade of Encouraging Computing in the Saint Patrick's Valley-GO. Hands-on Science: science education and sustainability, Pirenópolis - GO",
+                "ano": "2024"
+            },
+            {
+                "autores": "FARIAS, S. L.",
+                "titulo": "NUNES, M",
+                "evento": "I. S.; LOUZADA",
+                "local": "N. C.; SANTANA, T. S.; BRAGA, R. B.; BRAGA, A. H.; The Brazilian professional, scientific, and technological education system as an instrument for promoting gender equality in computing. Congress of Latin American Women in Computing, La Paz - Bolivia",
+                "ano": "2023"
+            },
+            {
+                "autores": "FARIAS, S. L.",
+                "titulo": "SANTANA, T",
+                "evento": "S.; BRAGA",
+                "local": "R. B.; GARCIA, G. S.; LOUZADA, N. C.; BRAGA, A. H.; A relevância de projetos como o Meninas Digitais no Cerrado para a diversidade de gênero na computação brasileira. Computer on the Beach, Itajaí - SC",
+                "ano": "2022"
+            },
+            {
+                "autores": "NUNES, M. I. S.",
+                "titulo": "FARIAS, S",
+                "evento": "L.; LOUZADA",
+                "local": "N. C.; SANTANA, T. S.; BRAGA, R. B.; BRAGA, A. H.; ÊXITOS E DESAFIOS NA EXPERIÊNCIA DE EXTENSÃO ONLINE: CURSO MENINAS DIGITAIS NO CERRADO ?TRABALHANDO O EMPODERAMENTO FEMININO POR MEIO DA HISTÓRIA DAS MULHERES NA COMPUTAÇÃO?. Encontro de Licenciaturas e Pesquisa em Educação, Ceres",
+                "ano": "2021"
+            },
+            {
+                "autores": "OS de Santana Filho",
+                "titulo": "MARTINS, C",
+                "evento": "H. M.; CONCEICAO",
+                "local": "T. H. F. C. R.; SILVA, A. V. R. F.; BRAGA, A. H.; BRAGA, R. B.; Desenvolvimento de um Protótipo Automatizado de Detecção e Focalização de Raios Solares com Hardware Livre. Computer on the Beach, Florianópolis",
+                "ano": "2020"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "LOPES, A",
+                "evento": "F.; BRAGA",
+                "local": "R. B.; BRAGA, A. H.; Permanência e Êxito em Cursos de Computação: Uma Análise Quantitativa em Nível Técnico e Superior. Computer on the Beach, Florianópolis",
+                "ano": "2020"
+            },
+            {
+                "autores": "SILVA, M. A. N.",
+                "titulo": "SANTANA, T",
+                "evento": "S.; CAMARGO",
+                "local": "L. S.; LOUZADA, N. C.; BRAGA, R. B.; BRAGA, A. H.; Onde estão as mulheres nessa história? Uma oficina sobre representatividade feminina nas ciências.. XIV WOMEN IN INFORMATION TECHNOLOGY, Cuiabá",
+                "ano": "2020"
+            },
+            {
+                "autores": "SANTOS, L. S.",
+                "titulo": "SANTANA, T",
+                "evento": "S.; BRAGA",
+                "local": "R. B.; BRAGA, A. H.; O RENDIMENTO ACADÊMICO COMO ANÁLISE DE GÊNERO NOS CURSOS DE INFORMÁTICA DO CAMPUS CERES.. III Semana Acadêmica da Graduação e Pós-graduação do Campus Ceres do IF Goiano, Ceres",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTOS, L. S.",
+                "titulo": "SILVA, G",
+                "evento": "M. R.; BRAGA",
+                "local": "A. H.; SANTANA, T. S.; BRAGA, R. B.; MENINAS DIGITAIS NO CERRADO: MULHERES NOS CURSOS TÉCNICOS E DE GRADUAÇÃO EM INFORMÁTICA E NO CAMPO DE TRABALHO DE TECNOLOGIA DA INFORMAÇÃO. 7º CEICT, 7º CPPG e 8º Semapós, Rio Verde",
+                "ano": "2018"
+            },
+            {
+                "autores": "OLIVEIRA, I. F. R.",
+                "titulo": "SANTANA, T",
+                "evento": "S.; BRAGA",
+                "local": "R. B.; BRAGA, A. H.; Verticalização de ensino: uma breve análise realizada nos cursos de Informática do Campus Ceres do IF Goiano.. II Semana Acadêmica dos Cursos de Graduação e Pós-graduação do Campus Ceres do IF Goiano, Ceres",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "ASSIS, I",
+                "evento": "T. B.; BRAGA",
+                "local": "R. B.; BRAGA, A. H.; GÊNIOS DE TURING: PROGRAMAÇÃO COMO INSTRUMENTO DE AUXÍLIO À APRENDIZAGEM INFANTIL MULTIDISCIPLINAR. III ELPED E IV ELICPIBID, Rio Verde",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "VALLE, K",
+                "evento": "C.; BRAGA",
+                "local": "R. B.; BRAGA, A. H.; A IMPORTÂNCIA DO APRENDIZADO DE PROGRAMAÇÃO DE COMPUTADORES NO ENSINO MÉDIO TÉCNICO. III ELPED E IV ELICPIBID, Rio Verde",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "ASSIS, I",
+                "evento": "T. B.; BRAGA",
+                "local": "A. H.; BRAGA, R. B.; Velha Molar, um software livre como instrumento didático no ensino de química. XV FGSL - Fórum Goiano de Software Livre, Goiânia",
+                "ano": "2018"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "ASSIS, I",
+                "evento": "T. B.; BRAGA",
+                "local": "R. B.; LOUZADA, N. C.; A importância de atividades de empoderamento feminino como forma de minimizar a evasão das mulheres nos cursos de Tecnologia da Informação.. XXXVII Congresso da Sociedade Brasileira de Computação, São Paulo",
+                "ano": "2017"
+            },
+            {
+                "autores": "SANTANA, T. S.",
+                "titulo": "ASSIS, I",
+                "evento": "T. B.; COSTA",
+                "local": "D. P.; TELES, R. M.; BRAGA, R. B.; Calibração e determinação de precisão do sensor de pH SEN0161. I Semana Acadêmica, Ceres",
+                "ano": "2017"
+            },
+            {
+                "autores": "BRAGA, A. H.",
+                "titulo": "BRAGA, R",
+                "evento": "B.; FAQUIM",
+                "local": "G.; A Olimpíada Brasileira de Informática como forma de atrair estudantes do Ensino Médio aos cursos de Tecnologia da Informação. IV ERI-GO 2016, Goiânia",
+                "ano": "2016"
+            },
+            {
+                "autores": "SANTOS, J. V. O.",
+                "titulo": "CASTRO, K",
+                "evento": "; BRAGA",
+                "local": "A. H.; BRAGA, R. B.; A EFICÁCIA NO DESENVOLVIMENTO E UTILIZAÇÃO DE UM APLICATIVO MÓVEL COMO FORMA DE VOTAÇÃO E RANQUEAMENTO DE PROJETOS. XVI FEIRA DE CIÊNCIA E TECNOLOGIA, Ceres",
+                "ano": "2015"
+            },
+            {
+                "autores": "SANTOS, J. V. O.",
+                "titulo": "CASTRO, K",
+                "evento": "; BRAGA",
+                "local": "A. H.; BRAGA, R. B.; Desenvolvimento de Jogos. XVI FEIRA DE CIÊNCIA E TECNOLOGIA, Ceres",
+                "ano": "2015"
+            },
+            {
+                "autores": "KANDIDA, R.",
+                "titulo": "BRANQUIM, G",
+                "evento": "; BRAGA",
+                "local": "A. H.; BRAGA, R. B.; NÃO AO PRECONCEITO: UM QUIZ SOCIAL SOBRE SEXUALIDADE. XVI FEIRA DE CIÊNCIA E TECNOLOGIA, Ceres",
+                "ano": "2015"
+            },
+            {
+                "autores": "FAQUIM, G.",
+                "titulo": "SOUZA, H",
+                "evento": "; BRAGA",
+                "local": "R. B.; BRAGA, A. H.; SCRATCH COMO FERRAMENTA DE ENSINO. XVI FEIRA DE CIÊNCIA E TECNOLOGIA, Ceres",
+                "ano": "2015"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Gabriel Victor Alves Santos",
+                "titulo": "UMA ANÁLISE EXPLORATÓRIA DAS CONTRIBUIÇÕES DOS PROJETOS EXTENSIONISTAS EM TECNOLOGIA DA INFORMAÇÃO NO CAMPUS CERES DO IF GOIANO",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Goiano - Campus Ceres"
+            },
+            {
+                "orientando": "Carlos Henrique Mota Martins",
+                "titulo": "Desafios e estratégias para a segurança da informação em ambientes digitais do serviço público nas prefeituras de pequenos municípios do Vale do São Patricio",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Goiano - Campus Ceres"
+            },
+            {
+                "orientando": "Isaque Pontes Romualdo",
+                "titulo": "COMPORTAMENTO E CULTURA DIGITAL: uma Disciplina para Despertar o Interesse pela Computação em Estudantes do Ensino Fundamental ? Anos Iniciais",
+                "ano": "2025",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Instituto Federal Goiano - Campus Ceres"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.6577680110931396,
+            "indian": 0.5336436033248901,
+            "black": 0.1628970056772232,
+            "white": 64.88555145263672,
+            "middle eastern": 7.982729434967041,
+            "latino hispanic": 22.77741050720215
+        }
+    }
+}

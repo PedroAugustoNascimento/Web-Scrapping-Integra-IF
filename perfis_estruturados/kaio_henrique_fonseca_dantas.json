@@ -1,0 +1,107 @@
+{
+    "campus": "- Campus Pau dos Ferros",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Graduação",
+                "curso": "Redes de Computadores",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2009,
+                "ano_fim": 2013
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2018,
+                "ano_fim": null,
+                "funcao": "PROFESSOR EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor Substituto de Redes de Computadores",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "nome": "Curso de Formação Inicial e Continuada de Modelista e Costureira em Geral: Ampliando Horizontes e Tecendo Novos Desafios",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Kaio Henrique Fonseca Dantas",
+                    "Natieli Piovesan"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "MOREIRA",
+                    "software": "I. A. T.,  SANTOS, C. H. F.,  SILVA, J. L. P.,  OLIVERA, L. K. M.,  BERNARDO, J. H. J. A.,  DANTAS, K. H. F.,  CNC - CLASSROOM NETWORK CONTROLLER",
+                    "ano": "2021",
+                    "finalidade": "Controlar acesso a internet de computadores dos laboratórios de informática.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: BR512021002446-0."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "DANTAS",
+                    "titulo": "K. H. F.,  Experiência Profissional em Redes e Suporte",
+                    "ano": "2015",
+                    "instituicao_promotora": "IFRN - São Gonçalo do Amarante."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "FELIPE GABRIEL QUEIROZ RÊGO",
+                "titulo": "LEVELWATER: PROTÓTIPO DE BAIXO CUSTO PARA MEDIÇÃO DE NÍVEL DE ÁGUA SEM CONTATO",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+            },
+            {
+                "orientando": "Emerson Fernandes de Oliveira",
+                "titulo": "SINAT: SISTEMA DE NOTIFICAÇÃO DE ACIDENTES DE TRÂNSITO",
+                "ano": "2019",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "IFRN - Campus Pau dos Ferros"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.9831792116165161,
+            "indian": 1.2147611379623413,
+            "black": 0.23670372366905212,
+            "white": 51.437103271484375,
+            "middle eastern": 11.783185005187988,
+            "latino hispanic": 34.34505844116211
+        }
+    }
+}

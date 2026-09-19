@@ -1,0 +1,124 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "orientador": "Fabrízzio Alphonsus Alves de Melo Nunes Soares",
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "A Comparative Study of Text Classification Techniques for Hate Speech Detection",
+                "orientador": "Thierson Couto Rosa",
+                "ano_inicio": 2019,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "em Currículo e Prática Docente nos Anos Iniciais",
+                "instituicao": "Universidade Federal do Piauí",
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciências da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "ano_inicio": 2011,
+                "ano_fim": 2018
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2020,
+                "ano_fim": 2021,
+                "funcao": "Estagiário Docente",
+                "vinculo": "Bolsista",
+                "descricao": "Estagiário Docente nas disciplinas de \"Compiladores\" e \"Compiladores 1\" para os cursos de graduação de Ciência da Computação e Engenharia da Computação, respectivamente"
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2012,
+                "ano_fim": 2012,
+                "funcao": "Monitor de Cálculo 1",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Goiano- Campus Trindade",
+                "ano_inicio": 2022,
+                "ano_fim": 2023,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": "Disciplinas Ministradas : Banco de Dados; Linguagem de Programação; Fundamentos e Operação de Computadores; Introdução à Engenharia de Computadores; Arquitetura de Computadores; Compiladores; Programação Básica; Linguagens Formais e Autômatos; Sistemas Operacionais; Linguagens e Técnicas para Programação"
+            },
+            {
+                "empresa": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "PROFESSOR EBTT",
+                "vinculo": "Professor do Ensino Básico",
+                "descricao": "Técnico e Tecnológico do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campus Valença, na área de Ciência da Computação, ministrando disciplinas nos cursos superiores de Análise e Desenvolvimento de Sistemas e Licenciatura em Computação, e para o curso técnico integrado em Informática"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": []
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C. C.,  FERNANDES, D. S. A.,  FERNANDES, M. G. C.,  Caracterização De Mensagens Em Lingua Portuguesa Com Traços De Racismo No Twitter",
+                    "ano": "2018",
+                    "instituicao_promotora": "Escola Regional de Informática de Goiás."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "R. C. C.,  FERNANDES, D. S. A.,  FERNANDES, M. G. C.,  Racismo Em Tweets De Língua Portuguesa",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Federal de Goias."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 9.658727645874023,
+            "indian": 9.223613739013672,
+            "black": 11.57824993133545,
+            "white": 19.875850677490234,
+            "middle eastern": 15.77393627166748,
+            "latino hispanic": 33.88962936401367
+        }
+    }
+}

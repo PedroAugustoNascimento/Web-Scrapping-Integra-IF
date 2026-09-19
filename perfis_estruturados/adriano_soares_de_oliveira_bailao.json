@@ -1,0 +1,566 @@
+{
+    "campus": "- Campus Rio Verde",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "titulo": "Reconhecimento de padrões por processos adaptativos de compressão",
+                "orientador": "Anderson da Silva Soares",
+                "ano_inicio": 2015,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade de Brasília",
+                "titulo": "MADM Modelo de Apoio a Decisão para seleção de Métodos de desenvolvimento de software com base em conhecimento",
+                "orientador": "Maria Elenita Menezes Nascimento",
+                "ano_inicio": 2000,
+                "ano_fim": 2003
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal de Goiás",
+                "ano_inicio": 1996,
+                "ano_fim": 1999
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade de Brasília",
+                "ano_inicio": 2000,
+                "ano_fim": 2003,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculade Padrão",
+                "ano_inicio": 2003,
+                "ano_fim": 2006,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Universitário de Brasília",
+                "ano_inicio": 2001,
+                "ano_fim": 2003,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro de Estudos Superiores Planalto",
+                "ano_inicio": 2001,
+                "ano_fim": 2003,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto de Educação Superior de Brasília",
+                "ano_inicio": 2002,
+                "ano_fim": 2003,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Ávila",
+                "ano_inicio": 2005,
+                "ano_fim": 2007,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Faculdade Latino Americana",
+                "ano_inicio": 2006,
+                "ano_fim": 2009,
+                "funcao": "Professor Horista",
+                "vinculo": "Professor Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Evangélica de Goiás",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Professor",
+                "vinculo": "Horista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "JOURNAL OF COMPUTER SCIENCES",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Atuação como revisor ad hoc de manuscrito submetido ao periódico Journal of Computer Sciences, no âmbito do processo de avaliação por pares (peer review)"
+            },
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2017,
+                "ano_fim": 2020,
+                "funcao": "Sem vínculo empregatício",
+                "vinculo": "Sem vínculo empregatício",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Universidade Evangélica de Goiás\nGraduacao (2007 - 2009) - Sistemas De Informação.\nGraduacao (2007 - 2009) - Ciência Da Computação.",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade de Brasília",
+                "nome": "Projeto Fábrica de Software 2.0: Ferramentas para Implantação e Automação de Processos de Negócio",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Mário Gorini",
+                    "Adriano Soares De Oliveira Bailão"
+                ],
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Evangélica de Goiás",
+                "nome": "Estudo e aplicação do MPS.BR na (fábrica de tecnologia turing FTT)",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Lucas Correia Evangelista",
+                    "Eduardo Camargo Sirqueira",
+                    "Adriano Soares De Oliveira Bailão"
+                ],
+                "financiador": "Fundação Nacional de Desenvolvimento do Ensino Superior Particular,",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Percepção Multimodal em Sistemas IoT para Agricultura de Precisão: Uma Abordagem Integrada com Visão Computacional, Computação Sônica e Dados de Sensores Ambientais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Sergio Souza Novak",
+                    "Adriano Soares De Oliveira Bailão",
+                    "Héctor Alexis Miranda"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Modelo automático de irrigação inteligente",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Adriano Soares De Oliveira Bailão",
+                    "Emanuel Silva Araujo"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Universidade Federal de Goiás",
+                "nome": "Plataforma integrada de autorrecuperação considerando geração distribuída, estimação de demanda, corte de carga, direcionamento de equipes de campo e mudanças topológicas visando redes inteligentes",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Adriano Soares De Oliveira Bailão",
+                    "Telma Woerle De Lima Soares",
+                    "Anderson Silva Soares",
+                    "Eduardo Henrique Alves Amorim",
+                    "Francisco Calaça Xavier",
+                    "Leidiane Beatriz Passos Rodrigues",
+                    "João Bosco Augusto London Junior",
+                    "Marcos Henrique Marçal Camillo",
+                    "Alexandre Cláudio Botazzo Delbem",
+                    "Luana Locatelli Avelino",
+                    "José Paulo Ramos Fernandes",
+                    "Rosvando Marques Gonzaga Junior",
+                    "Vanderlei Zarnicinski",
+                    "Fausto Augusto De Souza",
+                    "Rodrigo Zempulski Fanucchi",
+                    "Jorge Felisbino Alves Junior",
+                    "Erica Regina Toth",
+                    "Cláudia Cristina Prado"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  SADMOO - Sistema de Apoio a Decisão de Métodos Orientados a Objetos com base em",
+                    "ano": "2002",
+                    "finalidade": "Protótipo para validação de modelo."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  DATACPT Banco de Dados de Conflitos de Terra",
+                    "ano": "2002",
+                    "finalidade": "Gerenciamento dos conflitos de terra de todo o país."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Sistema da Reserva de Laboratório",
+                    "ano": "1999",
+                    "finalidade": "Protótipo para validação de modelo."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O., GONTIJO, P., ALMEIDA, G., NAZARIO, L., TEIXEIRA, M. B., STIRLE, J., FRANCA, H. F. C., OLIVEIRA, M., OLIVEIRA, R., NOVAK, S. S., AGROINSECT: A dataset for identifying agricultural insects and pests of interest DOI: 10.17632/4jyp4m9gxj.1 https://data.mendeley.com/datasets/4jyp4m9gxj/1",
+                    "ano": "2025",
+                    "finalidade": "Base de dados científica rastreável e reutilizável para apoiar pesquisa aplicada e desenvolvimento tecnológico em visão computacional e inteligência artificial aplicada à agricultura.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na modelagem, análise e melhoria do processo VENDAS da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a organização, compreensão e otimização do processo de vendas, promovendo maior eficiência operacional, clareza de responsabilidades e melhoria na gestão dos fluxos comerciais.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na modelagem, análise e melhoria do processo LOTEAMENTO da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a padronização, organização e otimização do processo de loteamento, promovendo maior clareza nos fluxos operacionais, redução de retrabalho, melhor integração entre áreas envolvidas e apoio à tomada de decisão gerencial.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na modelagem, análise e melhoria do processo LOCAÇÃO da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a organização, padronização e otimização do processo de LOCAÇÃO, promovendo maior eficiência operacional, redução de falhas, melhoria no atendimento ao cliente e maior controle dos fluxos administrativos e contratuais.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na modelagem, análise e melhoria do processo FINANCEIRO da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a padronização, organização e otimização do processo FINANCEIRO, promovendo maior controle, transparência, rastreabilidade das informações financeiras e suporte à tomada de decisão gerencial.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na modelagem, análise e melhoria do processo RECRUTAMENTO da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a organização, padronização e otimização do processo de RECRUTAMENTO, promovendo maior eficiência na seleção de talentos, redução do tempo de contratação, melhor alinhamento entre perfis e funções, e maior transparência no fluxo decisório.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na criação, modelagem, análise e melhoria do processo RECEPÇÃO da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a organização, padronização e otimização do processo de RECEPÇÃO, promovendo maior eficiência no acolhimento, melhor organização do fluxo de entrada de clientes, integração com os processos de atendimento e aumento da qualidade do serviço prestado.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  BPMN na modelagem, análise e melhoria do processo ATENDIMENTO da Imobiliária Liderança de Rio Verde ( AS-IS e TO-BE ), em colaboração com o SEBRAE Rio Verde e BPCompany Ap. de Goiânia",
+                    "ano": "2014",
+                    "finalidade": "Apoiar a organização, padronização e otimização do processo de ATENDIMENTO, promovendo maior agilidade, padronização das respostas, melhoria da comunicação interna e externa, e aumento da qualidade do serviço prestado aos clientes.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Consolidação da Infraestrutura de Laboratórios IF Marker",
+                    "ano": "2026",
+                    "finalidade": "Consolidação da infraestrutura de Laboratórios IF Maker, com foco em inovação tecnológica, prototipagem e espaços de trabalho compartilhado, no âmbito do Programa de Laboratórios Abertos de Prototipagem, com apoio da FINEP.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Participação na comissão organizadora do workshop: Tópicos em Internet das Coisas e Visão Computacional",
+                    "ano": "2025",
+                    "finalidade": "Participação na comissão organizadora do workshop ?Tópicos em Internet das Coisas e Visão Computacional com estudo de caso em um sistema de irrigação de tomate cereja?, ação extensionista promovida pelo IF Goiano, com carga horária certificada de 30 horas."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Organização do evento Luau NEPEDS",
+                    "ano": "2025",
+                    "finalidade": "Promover ação extensionista voltada à valorização da diversidade, inclusão social e integração da comunidade acadêmica e externa, no âmbito do Núcleo de Estudos e Pesquisas em Diversidade Sexual e Gênero (NEPEDS) do IF Goiano ? Campus Rio Verde.."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Parecer técnico-científico (revisão ad hoc) em periódico científico internacional da área de Ciência da Computação abr/jun",
+                    "ano": "2024",
+                    "finalidade": "Avaliação técnico-científica de manuscrito submetido a periódico científico, no contexto do processo de revisão por pares (peer review).."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Parecer técnico-científico (revisão ad hoc) em periódico científico internacional da área de Ciência da Computação mai/jun",
+                    "ano": "2023",
+                    "finalidade": "Avaliação técnico-científica de manuscrito submetido a periódico científico, no contexto do processo de revisão por pares (peer review).."
+                },
+                {
+                    "autor": "BAILÃO",
+                    "software": "A. S. O.,  Parecer técnico-científico (revisão ad hoc) em periódico científico internacional da área de Ciência da Computação ago",
+                    "ano": "2016",
+                    "finalidade": "Avaliação técnico-científica de manuscrito submetido a periódico científico, no contexto do processo de revisão por pares (peer review).."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "BAILÃO",
+                    "evento": "A. S. O.,  I semana de informática de Sist. Inf. e Ciência da Comp. - SISC",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Unievangélica."
+                },
+                {
+                    "autores": "BAILÃO",
+                    "evento": "A. S. O.,  Morais, M. G.,  Martins, E. F.,  III Seminário de Educação a distância de Anápolis",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Unievangélica."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "COSTA, A. C.",
+                "titulo": "BAILAO, A. S. O.;  SANTOS, W. V.;  Coutinho, W. B. G.;  NOVAK, S. S.;  OLIVEIRA, A. V.;  MELO, G. A. F.;  CABRAL, I. M.;  Estatística Experimental, do Iniciante ao Iniciado",
+                "ano": "2026",
+                "informacoes_adicionais": "Nao_informado. ISBN: 9786502001578, Goiânia (Publicado)."
+            },
+            {
+                "autores": "BAILÃO, A. S. O.",
+                "titulo": "NOVAK, S. S.;  RIBEIRO, F. G.;  NOVAK, R.;  TEIXEIRA, M. B.;  SANCHES, L. M. P.;  Tópicos em Confiabilidade e Qualidade de Software",
+                "ano": "2026",
+                "informacoes_adicionais": "Meio_digital. ISBN: 9786502215739, Rio Verde, GO (Publicado)."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "DE ALMEIDA, GUILHERME PIRES SILVA",
+                "titulo": "STIRLE, JÉSSICA LAUANDA;  DOS SANTOS, LEONARDO NAZÁRIO SILVA;  DE OLIVEIRA, RUY;  TEIXEIRA, MARCONI BATISTA;  DE OLIVEIRA, MARIO;  GONTIJO, PABLO DA COSTA;  DE OLIVEIRA BAILÃO, ADRIANO SOARES;  DO CARMO FRANÇA, HEYDE FRANCIELLE;  NOVAK, SERGIO SOUZA;  AgroInsect: A hybrid AI-driven edge-cloud architecture for precision pest detection and geostatistical interpolation in agriculture",
+                "ano": "2027",
+                "periodico": "COMPUTERS AND ELECTRONICS IN AGRICULTURE. ISBN: 01681699   ."
+            },
+            {
+                "autores": "DIAS SILVA, MARLUS",
+                "titulo": "GUIMARÃES SILVA, FABIANO;  MARTINS VASCONCELOS, JAQUELINE;  BARBOSA DA SILVA, FÁBIA;  SOARES DE OLIVEIRA BAILÃO, ADRIANO;  MORAES ROCHA GUEDES, ÍTALO;  DA SILVA VILELA, MÁRCIO;  CARVALHO COSTA, ADRIANO;  ROSA, MÁRCIO;  LORAM LOURENÇO, LUCAS;  An Open-Architecture Precision Vertical Farming System for Sesame Microgreens: Audit-Ready Telemetry for Dynamic Lighting and Energy-Biomass Benchmarking",
+                "ano": "2026",
+                "periodico": "Smart Agricultural Technology. ISBN: 27723755   ."
+            },
+            {
+                "autores": "BARROS, GUSTAVO MOURA",
+                "titulo": "Bailão, Adriano Soares de Oliveira;  TEIXEIRA, MARCONI BATISTA;  NOVAK, SERGIO SOUZA;  SARDI, ANDREA BARBOZA PROTO;  DANTAS, VITOR DINIZ;  VIEIRA, DANIEL XAVIER;  MOURA, RAFAELA BORGES;  PAIVA, VITOR BARROS;  Avaliação comparativa de arquiteturas Yolo para identificação de jabutis e implementação do software Tortoisevisiony Detect",
+                "ano": "2026",
+                "periodico": "Revista de Derecho y Câmbio Social. ISBN: 22244131   ."
+            },
+            {
+                "autores": "SARDI, ANDREA BARBOZA PROTO",
+                "titulo": "Bailão, Adriano Soares de Oliveira;  BARROS, GUSTAVO MOURA;  NOVAK, SERGIO SOUZA;  OLIVEIRA, MANOEL HENRIQUE REIS DE;  LOPES, VALBER SARDI;  ARQUITETURA IOT COM OTIMIZAÇÃO MPMAS E CAMADA INTELIGENTE BASEADA EM REGRAS PARA APOIO À DECISÃO EM AGRICULTURA DE PRECISÃO",
+                "ano": "2026",
+                "periodico": "Revista Tópicos. ISBN: 29656672   ."
+            },
+            {
+                "autores": "VIEIRA, DANIEL XAVIER",
+                "titulo": "Bailão, Adriano Soares de Oliveira;  BARROS, GUSTAVO MOURA;  BRASILEIRO, LUIZ ANTONIO ANACLETO;  Detecção automática de rebanhos bovinos em campo aberto utilizando arquitetura YOLO V8 e implementação do software cattlevision",
+                "ano": "2026",
+                "periodico": "Revista de Derecho y Câmbio Social. ISBN: 22244131   ."
+            },
+            {
+                "autores": "NOVAK, SERGIO SOUZA",
+                "titulo": "BAILÃO, ADRIANO SOARES DE OLIVEIRA;  TEIXEIRA, MARCONI BATISTA;  MIRANDA, HECTOR ALEXIS;  DAMKE, CAÍKE DA ROCHA;  NOVAK, ROSILEI DE SOUZA;  SARDI, ANDREA BARBOZA PROTO;  BARROS, GUSTAVO MOURA;  DANTAS, VITOR DINIZ;  Sistema de irrigação inteligente baseado em lógica fuzzy integrado com internet das coisas para a cultura do tomate cereja",
+                "ano": "2025",
+                "periodico": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE). ISBN: 19830882   ."
+            },
+            {
+                "autores": "BAILÃO, A. S. O.",
+                "titulo": "NOVAK, SERGIO SOUZA;  MIRANDA, H. A.;  TEIXEIRA, M. B.;  MORAIS, W. A.;  DAMKE, C. R.;  Implementação prática de um sistema automatizado de irrigação com lógica fuzzy e IoT para horticultura protegida",
+                "ano": "2025",
+                "periodico": "ITEM. IRRIGAÇÃO E TECNOLOGIA MODERNA. ISBN: 0102115X   ."
+            },
+            {
+                "autores": "SILVA, MARLUS DIAS",
+                "titulo": "VASCONCELOS, JAQUELINE MARTINS;  SILVA, FÁBIA BARBOSA DA;  BAILÃO, ADRIANO SOARES DE OLIVEIRA;  GUEDES, ÍTALO MORAES ROCHA;  VILELA, MÁRCIO DA SILVA;  COSTA, ADRIANO CARVALHO;  ROSA, MÁRCIO;  SILVA, FABIANO GUIMARÃES;  Growing in red: impact of different light spectra and lighting conditions on lentil microgreens growth in vertical farming",
+                "ano": "2024",
+                "periodico": "Frontiers in Plant Science. ISBN: 1664462X   ."
+            },
+            {
+                "autores": "FEITOSA, RAFAEL DIVINO FERREIRA",
+                "titulo": "SANTOS, VINÍCIUS ARAÚJO;  DE OLIVEIRA, LEANDRO LUÍS GALDINO;  BORGES, DÍBIO LEANDRO;  PEREYRA, LUCAS CALABREZ;  BAILÃO, ADRIANO SOARES DE OLIVEIRA;  Statistical Pattern Recognition for Thresholding between Human Skin and Background in Color Images",
+                "ano": "2017",
+                "periodico": "JOURNAL OF COMPUTER SCIENCES. ISBN: 15493636   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "BAILÃO, A. S. O.",
+                "titulo": "NOVAK, S",
+                "evento": "S.; DAMKE",
+                "local": "C. R.; SILVA, M. D.; CellularAutomataGraph 3: sistema educacional de autômatos celulares elementares e redes de autômato celular do tipo pequeno mundo. VII INTEGRA e 14º CPPG do IF Goiano, Rio Verde",
+                "ano": "2025"
+            },
+            {
+                "autores": "BAILÃO, A. S. O.",
+                "titulo": "NOVAK, S",
+                "evento": "S.; SILVA",
+                "local": "M. D.; DAMKE, C. R.; GraphicalAnt: sistema educacional de algoritmos de colônia de formigas. VII INTEGRA e 14º CPPG do IF Goiano, Rio Verde",
+                "ano": "2025"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ivan Alves de Jesus Junior",
+                "titulo": "SimuSensor - Arquitetura Model-View-Controller (MVC) para Inserção Automatizada de Sensores por meio de Simulação",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGOIANO - Rio Verde"
+            },
+            {
+                "orientando": "Silvestre Pereira de Oliveira Netto",
+                "titulo": "Plataforma de Backend em Django (MTV) para Gestão de Veículos Apreendidos, Baixas e Evidências.",
+                "ano": "2026",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGOIANO - Rio Verde"
+            },
+            {
+                "orientando": "Gustavo Moura Barros",
+                "titulo": "@DIA Aplicativo para dimensionamento de Irrigação por Aspersão",
+                "ano": "2025",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGOIANO - Rio Verde"
+            },
+            {
+                "orientando": "Higor Henrique Lopes Guimarães",
+                "titulo": "Técnicas de Visão Computacional a partir da Detecção de Padrões comprimidos em imagens digitais.",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGOIANO - Rio Verde"
+            },
+            {
+                "orientando": "Fabiano Moreira da Silva",
+                "titulo": "Reconhecimento de Padrões por Compressão aplicado ao Processamento da Linguagem Natural.",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGOIANO - Rio Verde"
+            },
+            {
+                "orientando": "Mário Douglas Alves Cabral",
+                "titulo": "Análise de Séries Numéricas utilizando Aprendizado Não Supervisionado.",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "IFGOIANO - Rio Verde"
+            },
+            {
+                "orientando": "Emanuel Silva Araujo",
+                "titulo": "Modelo automático de irrigação inteligente",
+                "ano": "2019",
+                "curso": "Ciência da Computação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Lucas Correia Evangelista",
+                "titulo": "III Programa de Bolsas de Iniciação Ciêntífica",
+                "ano": "2009",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Eduardo Camargo Sirqueira",
+                "titulo": "III Programa de Bolsas de Iniciação Ciêntífica",
+                "ano": "2009",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Elisângela Maria Lourenço",
+                "titulo": "Tradutor de palavras e termos da Web para português utilizando autômatos finitos",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Andressa Sodré de Assis",
+                "titulo": "Estudo, análise e soluções de BI (Business Intelligence) para apoio a decisão de gestores na área administrativa",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Sandra do Carmo Fernandes",
+                "titulo": "Estudo Comparativo dos Ambientes Virtuais de ensino a distância Teleduc e o Moodle",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Gleybson Souza Manso",
+                "titulo": "Controle e Monitoração Residencial através de dispositivos utilizando protocolo ZIGBEE",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Thiago dos Santos Correia",
+                "titulo": "MODAPLIC - Modelo de Aplicação Movél para Automação Residencial",
+                "ano": "2008",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Mateus Ricardo Provensi",
+                "titulo": "Desenvolvimento de sistemas com a utilização de Design Patterns e Frameworks de alta performance.",
+                "ano": "2008",
+                "curso": "Análise e Devenvolvimento WEB",
+                "instituicao": "Universidade Evangélica de Goiás"
+            },
+            {
+                "orientando": "Renilda Aparecida de Souza",
+                "titulo": "Sistemas Computacionais de apoio a decisão na área administrativa financeira.",
+                "ano": "2006",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Latino Americana"
+            },
+            {
+                "orientando": "André Luiz Santos M",
+                "titulo": "de Sousa.  Sistemas Inteligentes na Análise e Reconhecimento individual da Íris Humana.",
+                "ano": "2006",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Latino Americana"
+            },
+            {
+                "orientando": "Carlos Alexandre R",
+                "titulo": "de Araújo.  Sistemas de Buscas na Web",
+                "ano": "2006",
+                "curso": "Ciência da Computação",
+                "instituicao": "Faculdade Latino Americana"
+            },
+            {
+                "orientando": "Claudio Roberto",
+                "titulo": "Sistema de Gerenciamento de Operadoras de Turismo",
+                "ano": "2001",
+                "curso": "Ciência da Computação",
+                "instituicao": "Centro de Estudos Superiores Planalto"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00021979196753818542,
+            "indian": 0.0010897144675254822,
+            "black": 2.555075116106309e-05,
+            "white": 96.53336334228516,
+            "middle eastern": 1.4397811889648438,
+            "latino hispanic": 2.0255212783813477
+        }
+    }
+}

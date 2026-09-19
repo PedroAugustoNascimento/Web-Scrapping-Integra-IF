@@ -1,0 +1,670 @@
+{
+    "campus": "- Campus Manaus Centro",
+    "instituto": "IFAM",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Tecnologia Educativa",
+                "instituicao": "Universidade do Minho",
+                "titulo": "Dos dispositivos móveis à aprendizagem ubíqua ? da usabilidade técnica à usabilidade pedagógica",
+                "orientador": "Maria João da Silva Ferreira Gomes",
+                "ano_inicio": 2013,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Informática",
+                "instituicao": "Universidade Federal do Amazonas",
+                "titulo": "Um Esquema de Anotação Semântica para Mapas Conceituais",
+                "orientador": "Alberto Nogueira de Castro Junior",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Estudos Avançados da Informática",
+                "instituicao": "Universidade de Mogi das Cruzes",
+                "ano_inicio": 1997,
+                "ano_fim": 1998
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade de Mogi das Cruzes",
+                "ano_inicio": 1991,
+                "ano_fim": 1995
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2005,
+                "ano_fim": null,
+                "funcao": "professor concursado",
+                "vinculo": "Professora dos cursos técnico de Informática e Curso Superior de Tecnologia e Desenvolvimento de Software",
+                "descricao": "ministrando as disciplinas de Lógica de Programação, Análise de Sistemas e Redes de Computadores e Informática na Educação para Licenciaturas em Biologia e Química. Professora de orientação de trabalhos de conclusão de curso de Tecnologia em Desenvolvimento de Software, projeto interdisciplinares e artigos no curso de especialização de Informática na Educação. Coordenação do programa de inclusão digital através do Telecentro. Pesquisadora do SIEP (Sistema de Informação Educação Profissional); Apoio o grupo implantação de Educação à Distância"
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2005,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Servidor público",
+                "descricao": "Coordenação da Tutoria da Diretoria de Educação a Distância do IFAM (Instituto Federal de Educação, Ciência e Tecnologia do Amazonas) Treinamento para professores e tutores que trabalham na EaD do IFAM"
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica do Amazonas",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "temporário",
+                "vinculo": "Servidor público",
+                "descricao": "Atuei como professora temporária do curso de Tecnologia em Desenvolvimento de Software e curso Técnigo de Programação de Computadores nas disciplinas de Lógica de Programação, Redes de Computadores, Sistemas Distribuidos e Programação Web"
+            },
+            {
+                "empresa": "Universidade do Norte",
+                "ano_inicio": 2004,
+                "ano_fim": 2007,
+                "funcao": "Professor horista",
+                "vinculo": "Professor",
+                "descricao": "Professor do curso de Tecnologia e Desenvolvimento de Software, ministrei disciplinas de lógica de programação com linguagem C e Software Básico. Lecionei na disciplina de Informática na Educação para Licenciaturas em Matemática e Química. Orientei trabalhos de conclusão de curso de Adminstração com ênfase em Análise de Sistemas e do curso de Tecnologia em Desenvolvimento de Software"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano_inicio": 2005,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Servidor público",
+                "descricao": "Professor do ensino básico, técnico, tecnológico, pro-eja, pro-funcionário, licenciaturas, especialização e mestrado profissional de educação inclusiva, na área de informática na educação, na modalidade presencial e a distância"
+            }
+        ],
+        "direcao_administracao": ": Centro Federal de Educação Tecnológica do Amazonas\nConselho do Ensino Superior - CEFET (2007 - 2008) : Coordenador Do Curso De Tecnologia Em Desenvolvimento De Software.\nINSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO AMAZONAS (2005): Tecnologia Educativa, Informática aplicada à Educação, Interface Homem Computador, Mobile Learning,",
+        "ensino": ": Universidade do Norte\nGraduacao (2004 - 2008) - Tecnologia E Desenvolvimento De Software.\nTreinamento Ministrado: Centro Federal de Educação Tecnológica do Amazonas\nGerência De Serviços (2002 - 2004) - Gerência De Serviços - temporário.",
+        "comissoes": ": Centro Federal de Educação Tecnológica do Amazonas\nMembro Do Conselho De Concurso Público (2007 - 2007).\nProfessor (2004).",
+        "projetos": [
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica do Amazonas",
+                "nome": "Telecentro - Projeto de Inclusão Digital",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Sandra Magni Darwich",
+                    "Marcia Da Costa Pimenta"
+                ],
+                "ano_inicio": 2006,
+                "ano_fim": 2012
+            },
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica do Amazonas",
+                "nome": "Projeto Escola Tecnica Aberta do Brasil - e-Tec",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Mirlem Rodrigues Ribeiro",
+                    "Marcia Pimenta Da Costa"
+                ],
+                "ano_inicio": 2008,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Formação GESAC",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Renido Azevedo Viana",
+                    "Marcia Da Costa Pimenta"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Projeto SIEP - Sistema de Informações da Educação Profissional e Tecnológica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Renildo Viana Azevedo",
+                    "Marcelo Chammy Machado"
+                ],
+                "ano_inicio": 2007,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Acessibilidade como fator Inclusão educacional de estudantes com deficiência visual no portal do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Alice Karolyn Gomes Da Silva E Silva"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2025
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Tecnologias Digitais Educativas, Interação Humano-Computador e Tecnologia Assistiva na Educação Inclusiva: desenvolvimento, avaliação e aplicação de recursos acessíveis para apoiar a aprendizagem",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Suzely Da Silva Nobre",
+                    "Maria Angélica Carvalho Figueiredo",
+                    "Elaine Dos Santos Sarah Vieira",
+                    "Clissia Reis Da Silva"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "nome": "Projeto Conectando Futuros: Oficinas de Orientação Acadêmica e Profissional sobre a área de Tecnologia da Informação para Estudantes do Ensino Médio da Zona Centro-Sul de Manaus",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Viviane Gomes Da Silva",
+                    "Anne Caroline Cavalheiro",
+                    "Giordana Oliveira E Sousa"
+                ],
+                "ano_inicio": 2026,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "VIANA",
+                    "software": "R. A.,  MARCELO,,  SILVA, Viviane Gomes da,  SIEP-GERENCIAL MÓDULO RELATOR",
+                    "ano": "2006",
+                    "finalidade": "Projeto de Pesquisa."
+                },
+                {
+                    "autor": "MARCELO",
+                    "software": ",  VIANA, R. A.,  SILVA, Viviane Gomes da,  SIEP Sistema de Informação de Educação Profissional",
+                    "ano": "2007",
+                    "finalidade": "Orientação de bolsistas para desenvolvimento do sistema Relator."
+                }
+            ],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "Viviane Gomes da,  Souza, Ranniéry. M.S.,  E-Learning, B-Learning, M-Learning and the Technical and Pedagogical Aspects on the New Platform Trends as Massive Open Online Courses",
+                    "ano": "2016",
+                    "instituicao_promotora": "IATED."
+                },
+                {
+                    "autores": "SILVA",
+                    "titulo": "Viviane Gomes da,  Usabilidade Técnica e Pedagógica para Mobile Learning",
+                    "ano": "2015",
+                    "instituicao_promotora": "Universidade do Minho."
+                },
+                {
+                    "autores": "VIANA",
+                    "titulo": "R. A.,  MARCELO,,  SILVA, Viviane Gomes da,  Gabriel Armelin,  Paulo Lins,  Diego Cruz,  Módulo Relator do Sist. de Informações da Educação Profissional e Tecnológica (SIEP-GERENCIAL): UM WEBSERVICE PARA GERAÇÃO DE RELATÓRIOS UTILIZANDO TECNOLOGIA LIVRE",
+                    "ano": "2008",
+                    "instituicao_promotora": "CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DO CEARÁ."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SILVA",
+                    "curso": "Viviane Gomes da,  Revisão Sistemática da Literatura",
+                    "ano": "2023"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "SILVA",
+                    "evento": "Viviane Gomes da,  PEREIRA, M. R. R.,  MARTINS, M.C.P.,  Oficina de Preparação dos estudantes na participação da Olimpíadas Brasileira de Informática",
+                    "ano": "2023",
+                    "duracao_semanas": "3",
+                    "instituicao_promotora": "Unicamp."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "Viviane Gomes da,  Minicurso Revisão Sistemática da Literatura",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFAM."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "Viviane Gomes da,  Costa, Marcia Pimenta,  Lima, G. B.,  I Encontro de Informática na Educação",
+                    "ano": "2009",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Centro Federal de Educação Tecnológica do Amazonas."
+                },
+                {
+                    "autores": "SILVA",
+                    "evento": "Viviane Gomes da,  DARWICH, S. M.,  Pimenta, M. C.,  I Encontro de Telecentros do CEFET-AM",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Centro Federal de Educação Tecnológica do Amazonas."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Mapas Conceituais",
+                "ano": "2008",
+                "informacoes_adicionais": "Nao_informado, Manaus (Publicado)."
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Introdução ao Sistema de Informação",
+                "ano": "2007",
+                "informacoes_adicionais": "Varios. ISBN: 9788560739080, Manaus (Publicado)."
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Hilário, A. C.;  Souza, Ranniéry. M.S.;  Gomes, M. J.;  Um comparativo de métodos de usabilidade pedagógica em ambientes virtuais de aprendizagem. Título do capítulo: Eixo III ? Avaliação de aprendizagens e de dispositivos em contextos digitais",
+                "ano": "2017",
+                "informacoes_adicionais": "ISBN: 9789899737457, Braga."
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Gomes, M. J.;  d.&#09;Usabilidade Técnica e Usabilidade Pedagógica em Mobile Learning: Um Estudo de Revisão Sistemática. Título do capítulo: E-learning e aplicações educativas emergentes",
+                "ano": "2016",
+                "informacoes_adicionais": "ISBN: 9789898753373, Lisboa."
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Gomes, M. J.;  AVALIAÇÃO DE USABILIDADE NO AMBIENTE VIRTUAL DE APRENDIZAGEM DO IFAM EM MANAUS- AMAZONAS-BRASIL. Título do capítulo: Avaliação Digital",
+                "ano": "2015",
+                "informacoes_adicionais": "ISBN: 9789899737433, Braga."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "Souza, Ranniéry. M.S.",
+                "titulo": "SILVA, Viviane Gomes da;  OLIVEIRA, M.;  The Expansion of ICT Use in Society and Web Accessibility for all: A Case Study in Portugal.",
+                "ano": "2017",
+                "periodico": "International Association of Schools and Institutes of Administration. ISBN: 13379038   ."
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Gomes, M. J.;  Souza, Ranniéry. M.S.;  Desenho Universal, Acessibilidade, Usabilidade e Usabilidade Pedagógica para E-Learning: Convergências e Divergências.",
+                "ano": "2017",
+                "periodico": "REVISTA DE ESTUDIOS E INVESTIGACION EN PSICOLOGIA Y EDUCACIÓN. ISBN: 23867418   ."
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Souza, Ranniéry. M.S.;  OLIVEIRA, M.;  MEDEIROS, R. L.;  Web Accessibility for Elderly",
+                "ano": "2016",
+                "periodico": "Government Information Quarterly. ISBN: 0740624X   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "Machado, Hívina Dorzane",
+                "titulo": "SILVA, Viviane Gomes da; Soluções para Amazônia por meio da Aprendizagem Baseada em Problemas e tecnologias digitais no ensino de ecologia",
+                "evento": "IX SETA - Simpósio em Ensino Tecnológico do Amazonas",
+                "local": "Manaus",
+                "ano": "2023"
+            },
+            {
+                "autores": "Azevedo, M.L.C.",
+                "titulo": "SILVA, Viviane Gomes da; Azevedo, R",
+                "evento": "V.; TPgame uma proposta de jogo digital em química para estudantes com autismo no ensino médio. Simpósio de Ensino Técnológico do Amazonas - SETA",
+                "local": "Manaus",
+                "ano": "2020"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Hilário, A",
+                "evento": "C.; Souza",
+                "local": "Ranniéry. M.S.; Gomes, M. J.; Um Comparativo de Métodos de Usabilidade em Ambientes Virtuais de Aprendizagem. X Conferência Internacional de TIC na Educação- Challenges 2017, Braga",
+                "ano": "2017"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Gomes, M",
+                "evento": "J.; Usabilidade Técnica e Pedagógica em Mobile Learning: Um Estudo de Revisão Sistemática. IV Congresso Internacional das TIC na Educação ?Tecnologias Digitais e a Escola do Futuro",
+                "local": "Lisboa",
+                "ano": "2016"
+            },
+            {
+                "autores": "Souza, Ranniéry. M.S.",
+                "titulo": "SILVA, Viviane Gomes da; Accessibility As An Element Of Social And Digital Inclusion Through The Development Of Virtual Learning Environments In The Use Of Ict In Society",
+                "evento": "8th International Conference of Education",
+                "local": "Research and Innovation, Sevilha",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Souza, Ranniéry",
+                "evento": "M.S.; OLIVEIRA",
+                "local": "M.; MEDEIROS, R. L.; Web Accessibility for Elderly. 9th International Conference on Theory and Practice of Electronic Governance, Montevidéu",
+                "ano": "2016"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Ribeiro, Mirlem R",
+                "evento": "; Costa",
+                "local": "Marcia Pimenta; Souza, Ranniéry. M.S.; Avaliação De Usabilidade No Ambiente Virtual De Aprendizagem Do Ifam Em Amazonas Manaus?Brasil. IX Conferência Internacional de TIC na Educação, Braga",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Gomes, M",
+                "evento": "J.; Dos dispositivos móveis à aprendizagem ubíqua ? da usabilidade técnica à usabilidade pedagógica. XIII Congreso Internacional Galego-Portugués de Psicopedagoxia 2015",
+                "local": "Corunã",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Souza, Ranniéry",
+                "evento": "M.S.; Gomes",
+                "local": "M. J.; Desafios da computação móvel e usabilidade em sala de aula. XIII Congreso Internacional Galego-Portugués de Psicopedagoxia 2015, Coruña",
+                "ano": "2015"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "CASTRO JR",
+                "evento": ", A. N.; A Semantic Annotation Scheme for Concept Maps. Frontiers in Education Conference",
+                "local": "Seattle",
+                "ano": "2012"
+            },
+            {
+                "autores": "SILVA, Viviane Gomes da",
+                "titulo": "Bremgartner, V; Ribeiro, Mirlem R",
+                "evento": "; CASTRO",
+                "local": "A.; Nascimento, Rogerio P.C.; Uma Experiência de Virtualização de Disciplina em Cursos de Graduação. Simpósio Brasileiro de Informática na Educação, Aracaju - SE",
+                "ano": "2011"
+            },
+            {
+                "autores": "CASTRO, A.",
+                "titulo": "Gomes, S",
+                "evento": "; SILVA",
+                "local": "Viviane Gomes da; Mapeando Mapas Conceituais por meio de Metadados para Objetos de Aprendizagem. Simpósio Brasileiro de Informática na Educação, João Pessoal - PB",
+                "ano": "2010"
+            },
+            {
+                "autores": "Magalhães, E.",
+                "titulo": "SILVA, Viviane Gomes da; Rodrigues, A; Santos, L",
+                "evento": "; Conte",
+                "local": "T.; Impacto da usabilidade na educação à distância: um estudo de caso no Moodle IFAM. Simpósio de Fatores Humanos e Sistemas Colaborativos, Belo Horizonte - MG",
+                "ano": "2010"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Wesllen Vasconcelos Costa",
+                "titulo": ".  Super Elements - Jogo para Aprendizagem de Química no ensino médio",
+                "ano": "2026",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Thiago Lima de Andrade",
+                "titulo": "Sistema Web de Gestão de Convênios",
+                "ano": "2025",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Thayna de Araujo Lino",
+                "titulo": "A Química no Ensino Médio e o letramento científico: análise para prevenção das fake news no cotidiano escolar",
+                "ano": "2025",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Wesllen Vasconcelos Costa",
+                "titulo": "Super Elements Um Game para Motivar Aprendizagem de Química no Ensino Médio",
+                "ano": "2025",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Andreson Malaquias de Almeida",
+                "titulo": "Web Glossário em Libras para ensino de lógica de programação para surdos",
+                "ano": "2024",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Alice Karolyn Gomes da Silva e Silva",
+                "titulo": "Acessibilidade como fator Inclusão educacional de estudantes com deficiência visual no portal do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",
+                "ano": "2024",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Kamila dos Reis Pedroso",
+                "titulo": "Repositório de Tecnologias Educativas Digitais no Ensino Médio para aprendizagem de Química no contexto da Pandemia de Covid-19",
+                "ano": "2023",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Luana Caroline de Souza Bastos",
+                "titulo": "Uso das Tecnologias Digitais no Ensino-Aprendizagem de Química no Contexto da Pandemia",
+                "ano": "2023",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Pedro Henrique Nascimento Rodrigues,",
+                "titulo": "Estude aqui: Website para Apoiar a Alfabetização de Estudantes Autistas",
+                "ano": "2022",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Kamila dos Reis Pedroso",
+                "titulo": "Repositório de Tecnologias Educativas Digitais no ensino médio para aprendizagem de química no contexto da Pandemia de Covid-19",
+                "ano": "2022",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Alessandro Negrão dos Santos",
+                "titulo": "?LECTIO: JOGO SÉRIO EDUCACIONAL PARA ALFABETIZAÇÃO DE CRIANÇAS COM TRANSTORNO DO ESPECTRO AUTISTA?",
+                "ano": "2022",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Hívina Dorzane Machado",
+                "titulo": "Uso de Aprendizagem Baseada em Problemas por Meio de Tecnologias Educativas Digitais no Ensino de Ecologia em uma Escola de Manaus - AM",
+                "ano": "2022",
+                "curso": "Ciências Biológicas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Anne Cristine de Oliveira Mota",
+                "titulo": "Rise Up - Aplicativo móvel para apoiar pessoas com sintomas de depressão",
+                "ano": "2021",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Alice Hedwiges Rodrigues Jean",
+                "titulo": "Repositório de Aplicativos Móveis para o Ensino de Química Orgânica para Alunos Surdos no 3º Ano do Ensino",
+                "ano": "2021",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Patrícia de Barros Andrade",
+                "titulo": "PERSCRUTAÇÃO SOBRE O USO DAS TDIC NO ENSINO DE CIÊNCIAS DURANTE A PANDEMIA DA COVID-19 NO ENSINO FUNDAMENTAL II",
+                "ano": "2021",
+                "curso": "Ciências Biológicas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria Luisa Coelho Azevedo",
+                "titulo": "TPGAME: UM JOGO VIRTUAL NO ENSINO DE QUÍMICA PARA ALUNOS DO ENSINO MÉDIO COM TRANSTORNO DO ESPECTRO AUTISTA (TEA)",
+                "ano": "2020",
+                "curso": "Processos Químicos",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Alice Hedwiges Rodrigues Jean",
+                "titulo": "Repositório de aplicativos móveis para o ensino de Química Orgânica para alunos surdos no 3º ano do ensino médio",
+                "ano": "2020",
+                "curso": "Química",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Anne Cristine de Oliveira Mota",
+                "titulo": "Rise Up - Aplicativo móvel para apoiar pessoas com sintomas de depressão",
+                "ano": "2020",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "RAYMISON ASTHON MAKLOUF RAMOS",
+                "titulo": "UMA REDE SOCIAL DE COMPRAS COMPARTILHADAS COM ABORDAGEM USER EXPERIENCE",
+                "ano": "2019",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Paulo Cezar Madeira de Souza",
+                "titulo": "UTILIZAÇÃO DE MAPAS CONCEITUAIS EM AULAS DE INGLÊS INSTRUMENTAL PARA FUNCIONÁRIOS DA AGÊNCIA DISTRITO INDUSTRIAL DO BANCO DO BRASIL",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Alexandre Nicolette Sodré de Oliveira",
+                "titulo": "Novas Tecnologias e formação de professores: Superando a resistência ao uso da TIC em sala de aula",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Críssia Passos ROSA",
+                "titulo": "O COMPUTADOR COMO FERRAMENTA PEDAGÓGICA NA EDUCAÇÃO INFANTIL",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Diana Azevedo de Souza",
+                "titulo": "A importância de informática educativa no processo de ensino aprendizagem dos alunos do 1o a 5o da Escola Estadual Jacimar da Silva Gama",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Mirlem Rodrigues Ribeiro",
+                "titulo": "Educação a distância mediada por computador: formação de tutores e professores orientadores no profuncionário",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Rosinaldo de Souza dos Santos",
+                "titulo": "A Internet na sala de aula, o professor está preparado?",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Vânia Ofélia de Medeiros Cintra",
+                "titulo": "Educação a Distância mediada por computador: formação de tutores e professores orientadores no profuncionário",
+                "ano": "2011",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Almir de Oliveira Costa Junior",
+                "titulo": "Utilização da Linguagem Logo como introdução da lógica de programação na robótica educacional",
+                "ano": "2010",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Davi Serrão de Oliveira",
+                "titulo": "Inclusão Social e Digital na Escola Municipal Professor Sebastião Norões, Manaus, AM",
+                "ano": "2010",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Márcio Silveira Nascimento",
+                "titulo": "Desafio da Inclusão Digital mediada pela Internet e o uso da Biblioteca Virtual do Amazonas",
+                "ano": "2010",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria de Lourdes de Souza Oliveira",
+                "titulo": "Uso das TIC na sala de aula de Educação de Jovens e Adultos (EJA)",
+                "ano": "2010",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Maria Aparecida de Freitas Souza Figueira",
+                "titulo": "Correio eletrônico: Uma nova possibilidade de comunicação na biblioteca escolar",
+                "ano": "2007",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Meng Huey Hsu",
+                "titulo": "A importância do Xadrez como Recurso Estratégico na Aprendizagem da Matemática",
+                "ano": "2007",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Sergio Azevedo Seixas",
+                "titulo": "O jogo de memória virtual no processo de ensino",
+                "ano": "2007",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Tereza Cristina de Oliveira Maia",
+                "titulo": "A importância da inclusão digital no processo de aprendizagem em uma Escola Estadual Pública de Manaus",
+                "ano": "2007",
+                "curso": "Informática na Educação",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+            },
+            {
+                "orientando": "Roberto Alves Pereira Junior",
+                "titulo": "Os Recursos da Intranet para Gerenciamento de Sistemas de Informação: Um Estudo de Caso da Empresa Telemar Norte Leste S.A.",
+                "ano": "2006",
+                "curso": "Administração de Empresa com ênfase em Sistemas",
+                "instituicao": "Centro Universitário do Norte"
+            },
+            {
+                "orientando": "Michele Caroline Monteiro Pires Buiati",
+                "titulo": "O Uso da Tecnologia da Informação no Marketing Logístico como Estratégia Competitiva: Um Estudo de Caso na Empresa X do Distrito Industrial de Manaus",
+                "ano": "2006",
+                "curso": "Administração de Empresa com ênfase em Sistemas",
+                "instituicao": "Centro Universitário do Norte"
+            },
+            {
+                "orientando": "Claudia da Silveira Bardales",
+                "titulo": "Segurança da Informação nos Serviços Bancários Oferecidos via Internet: Estudo de caso do Banco X",
+                "ano": "2006",
+                "curso": "Administração de Empresa com ênfase em Sistemas",
+                "instituicao": "Centro Universitário do Norte"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 2.030482053756714,
+            "indian": 3.0347189903259277,
+            "black": 0.6882023811340332,
+            "white": 48.917423248291016,
+            "middle eastern": 21.699691772460938,
+            "latino hispanic": 23.629491806030273
+        }
+    }
+}

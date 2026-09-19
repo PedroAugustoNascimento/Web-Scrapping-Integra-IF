@@ -1,0 +1,984 @@
+{
+    "campus": "- Campus Urutaí",
+    "instituto": "IF Goiano",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "ano_inicio": 2020,
+                "ano_fim": 2021
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Algorithms for Super-resolution of Images based on Sparse Representation and Manifolds",
+                "orientador": "Gilberto Arantes Carrijo",
+                "ano_inicio": 2011,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Signal Processing and Telecommunication",
+                "instituicao": "Universidade de Rennes 1",
+                "titulo": "Algorithms for Super-resolution of Images based on Sparse Representation and Manifolds",
+                "orientador": "Christine Guillemot",
+                "ano_inicio": null,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal de Uberlândia",
+                "titulo": "Eficiência de Compressive Sensing baseado em Modelo QuadTree em Imagens na presença de ruído",
+                "orientador": "Prof",
+                "ano_inicio": 2009,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "docência universitária",
+                "instituicao": "Faculdade de Ciências e Educação de Rubiataba",
+                "orientador": "Prof",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática",
+                "instituicao": "Universidade Federal de Goiás",
+                "ano_inicio": 2001,
+                "ano_fim": 2005
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal de Goiás",
+                "ano_inicio": 2006,
+                "ano_fim": 2007,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Federal de Educação Tecnológica de Urutaí",
+                "ano_inicio": 2007,
+                "ano_fim": 2009,
+                "funcao": "Professor Ensino Básico",
+                "vinculo": "Tec. e Tecnológico",
+                "descricao": "Servidor público"
+            },
+            {
+                "empresa": "Laboratório Eletrônico Digital Ltda",
+                "ano_inicio": 1993,
+                "ano_fim": 2000,
+                "funcao": "Técnico Industrial em Telecomunicações",
+                "vinculo": "Celetista formal",
+                "descricao": "Operação, execução e consultoria na área de processamento digital"
+            },
+            {
+                "empresa": "Escola Técnica Federal de Goiás",
+                "ano_inicio": 1991,
+                "ano_fim": 1991,
+                "funcao": "Assistente de Laboratório de Telecomunicações",
+                "vinculo": "Bolsista",
+                "descricao": "Assistência a alunos nas áreas de Telecomunicações e Eletrônica: operação de ociloscópio, multímetros, etc"
+            },
+            {
+                "empresa": "Escola Técnica Federal de Goiás",
+                "ano_inicio": 1990,
+                "ano_fim": 1990,
+                "funcao": "Assistente Coordenação de Recursos Didáticos",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Itautec.com Serviços S.A.",
+                "ano_inicio": 2002,
+                "ano_fim": 2007,
+                "funcao": "Técnico Industrial em Telecomunicações",
+                "vinculo": "Celetista formal",
+                "descricao": "Executando serviços em telecomunicações (Vsat, banda Ku, etc) e serviços de rede NT"
+            },
+            {
+                "empresa": "Escola Estadual Cora Coralina",
+                "ano_inicio": 2001,
+                "ano_fim": 2001,
+                "funcao": "Professor temporário",
+                "vinculo": "Servidor público",
+                "descricao": "Professor de matemática e física do ensino médio"
+            },
+            {
+                "empresa": "Instituto Federal Goiano",
+                "ano_inicio": 2010,
+                "ano_fim": null,
+                "funcao": "Prof. do Ensino Básico",
+                "vinculo": "Técnico e Tecnológico",
+                "descricao": "Servidor público, A troca de vínculo empregatício do Cefet Urutaí para o Instituto Federal Goiano - campus Urutaí é devida ao fato da Autarquia em questão ter trocado de razão social"
+            },
+            {
+                "empresa": "Centre de recherche Inria Rennes - Bretagne Atlantique",
+                "ano_inicio": 2013,
+                "ano_fim": 2015,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Latin American Applied Research",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Signal, Image and Video Processing (Internet)",
+                "ano_inicio": 2016,
+                "ano_fim": 2016,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "IEEE TRANSACTIONS ON IMAGE PROCESSING",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Revista Inova Ciência & Tecnologia (ISSN 2447-4924)",
+                "ano_inicio": 2017,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Urutaí",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de comitê assessor"
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Urutaí",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de comitê assessor"
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Urutaí",
+                "ano_inicio": 2017,
+                "ano_fim": 2019,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Revisor de projeto de fomento"
+            },
+            {
+                "empresa": "Instituto Federal Goiano - Câmpus Urutaí",
+                "ano_inicio": 2017,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de comitê assessor"
+            },
+            {
+                "empresa": "Catec Peças e Serviços Técnicos Ltda",
+                "ano_inicio": 2001,
+                "ano_fim": 2002,
+                "funcao": "Técnico Industrial em Telecomunicações",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Revista Eletrônica de Educação Matemática (Revemat)",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": ""
+            },
+            {
+                "empresa": "Institut National des Sciences Appliquées Centre Val de Loire",
+                "ano_inicio": 2020,
+                "ano_fim": 2021,
+                "funcao": "Estágio de pós-doutorado",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "PLOS ONE",
+                "ano_inicio": 2023,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "PONE-D-23-22156Computer vision techniques for anatomically inspired classification of the endangered rusty-patched bumble bee (Bombus affinis)"
+            },
+            {
+                "empresa": "Editora IF Goiano",
+                "ano_inicio": 2021,
+                "ano_fim": null,
+                "funcao": "",
+                "vinculo": "Não informado",
+                "descricao": "Membro de corpo editorial"
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal Goiano\nIF Goiano - Campus Urutaí (2025) : Coordenador Da Pós-graduação Lato Sensu Ia Aplicada A Dados Corporativos.\nIF Goiano - Campus Urutaí (2021) : Coordenador Substituto Do Curso De Pós- Graduação Lato Sensu Em Análise De Dados Corporativos E Ciências Aplicadas Definido Pela Portaria N. 173 De 28 De Julho De 2021.\nIF Goiano - Campus Urutaí (2020) : Participação Na Equipe Gestora Do Lab Ifmaker.\nLaboratório de Visão Computacional (2017) : Coordenador Geral Do Laboratório.\nIF Goiano - Campus Morrinhos (2017): Práticas Educativas em EPT,\nIF Goiano - Campus Urutaí (2016): Visão Computacional e Processamento Digital de Imagens: aplicações.,",
+        "ensino": ": Instituto Federal Goiano\nGraduacao (2020 - 2020) - Licenciatura Em Química.\nPos-graduacao (2019) - Programa De Pós-graduação Em Ensino Para A Educação Básica.\nPos-graduacao (2018) - Programa De Pós-graduação Em Educação Profissional E Tecnológica.\nGraduacao (2017 - 2017) - Engenharia Agrícola.\nGraduacao (2016 - 2016) - Tecnologia Em Análise E Desenvolvimento De Sistemas.\nGraduacao (2016) - Sistema Da Informação.\nEnsino-medio (2016) .\nGraduacao (2011 - 2011) - Licenciatura Em Ciências Biológicas.\nGraduacao (2011 - 2011) - Licenciatura Em Matemática.\nGraduacao (2011 - 2011) - Licenciatura Em Matemática.\nGraduacao (2010 - 2010) - Agronomia.\nGraduacao (2010 - 2010) - Tecnologia Em Gestão Ambiental.\nGraduacao (2010 - 2020) - Licenciatura Em Matemática.",
+        "comissoes": ": Instituto Federal Goiano\nMembro Titular Do Conselho Superior (2025).\nMembro Titular Do Conselho Superior (2023 - 2024).\nMembro Do Colegiado Mestrado Profept (2023).\nMembro Da Câmara Consultiva De Administração E De Desenvolvimento Institucional (caadi) (2023).\nMembro Da Câmara Consultiva De Ensino E De Assuntos Estudantis (ceae) (2023).\nComissão Responsável Pelo(a) Processo Seletivo Do Programa De Pós-graduação Em Ensino Para A Educação Básica - Ppgeneb 2024/1 (2023).\nElaboração Das Ementas E Reformulação Do Ppc Cursos Técnicos Integrados Ao Ensino Médio (2022 - 2023).\nComissão Do Processo Seletivo 2022 Do Ppg-eneb. (2022 - 2022).\nMembro Colegiado Mestrado Eneb (2022).\nMembro Do Nde Da Licenciatura Em Matemática (2022).\nComissão Permanente De Avaliação E Planejamento Estratégico Do Mestrado Profept Da Instituição Associada Ifgoiano (2021).\nMembro Colegiado Mestrado Profept (2021 - 2022).\nMembro Do Colegiado Do Mestrado Eneb (2021 - 2022).\nMembro Do Colegiado Do Mestrado Eneb (2021 - 2022).\nComissão Para Conduzir O Processo De Seletivo 2020 Ppg-eneb (2020 - 2021).\nAvaliação De Alteração Hora Aula De 55 Para 45 Minutos No Âmbito Do Campus Urutaí (2020 - 2020).\nConselho Ex-tempore Para Estabelecimento De Critérios E Métricas Para Credenciamento No Ppg-eneb (2020 - 2020).\nMembro Do Colegiado Do Mestrado Profept (2020 - 2021).\nMembro Do Colegiado Mestrado Eneb (2020 - 2022).\nMembro Do Nde Do Curso De Sistema Da Informação (2019 - 2021).\nComissão Científica Do Iii Congresso De Educação E Seminário De Educação E Relações Étnico-raciais (2019 - 2019).\nComissão Responsável Pela Elaboração Do Projeto Pedagógico De Curso (ppc) Da Pós-graduação Lato Sensu Em Análise De Dados Corporativos E Ciências Aplicadas Do If Goiano - Campus Urutaí. (2019 - 2020).\nMembro Do Colegiado Do Mestrado Ppg Eneb (2019 - 2020).\nPresidente Do Nde Da Licenciatura Em Matemática (2019 - 2020).\nComissão Organizadora Do I Seminário De Pesquisa Em Educação Básica Do Curso De Mestrado Profissional Em Ensino Para A Educação Básica (2019 - 2020).\nComissão Eleitoral Para A Eleição Da Coordenação Do Curso De Licenciatura Em Matemática Do If Goiano- Campus Urutaí (portaria N° 201 De 02 De Maio De 2018) (2018 - 2018).\nMembro Do Colegiado Do Curso De Licenciatura Em Matemática (portaria N. 453, De 30/06/2016) (2018 - 2020).\nPresidente Do Nde Do Curso De Licenciatura Em Matemática (2018 - 2020).\nAvaliador De Resumos Expandidos. (2018 - 2018).\nCoordenar Eleição Para Coordenação Do Curso De Licenciatura Em Matemática (2018 - 2018).\nMembro Do Colegiado Do Mestrado Profept (2018 - 2019).\nComissão De Atualização Do Ppc Do Bacharelado Em Sistema Da Informação (portaria N. 220 De 11 De Julho De 2017) (2017 - 2020).\nComissão Responsável Pela Proposta Do Curso De Mestrado Profissional Em Ensino (portaria N. 222 De 11 De Julho De 2017) (2017 - 2018).\nMembro Do Comitê Institucional De Pesquisa (2017 - 2019).\nMembro De Comissão Para Construir O Apcn Do Mestrado Profissional Eneb (2017 - 2019).\nConselheiro Eleito Do Conselho Superior Do If Goiano (2010 - 2011).\nPresidente Eleito Da Cppd, Definida Pelo Decreto 94664/87 E Portaria Do Mec 475/87 (2010 - 2011).",
+        "projetos": [
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica de Urutaí",
+                "nome": "Desenvolvimento e Produção de Recursos Educacionais Digitais",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Rael Antônio Carneiro Vaz",
+                    "Júlio César Ferreira"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2007,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "Centro Federal de Educação Tecnológica de Urutaí",
+                "nome": "Métodos de Amostragem no Levantamento Fitossociológico da Mata Nativa da Fazenda Pedra Branca",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Gilson Dourado Da Silva",
+                    "Eduardo Mendes Marchito",
+                    "Júlio César Ferreira",
+                    "Adriano Ribeiro Mendonça",
+                    "Clícia Barreto Rosa",
+                    "Lara Bernardes Da Silva"
+                ],
+                "financiador": "Centro Federal de Educação Tecnológica de Urutaí,",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Desenvolvimento de software baseado em processamento digital de imagens para avaliação de dor em equinos por meio da escala de expressão facial.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Pedro Henrique Martins Portes",
+                    "Paulo Victor Bueno Flores"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Super-resolução de imagens Light Fields no espaço de variedades",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Otávio Murilo Da Paz",
+                    "Júlio César Ferreira"
+                ],
+                "financiador": "Instituto Federal Goiano - Câmpus Urutaí,",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Classificação e contagem de moscas brancas aprisionadas em armadilhas por meio de imagens digitais adquiridas em campo.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Adriley Samuel Ribeiro Barbosa",
+                    "Júlio César Ferreira"
+                ],
+                "financiador": "Instituto Federal Goiano - Câmpus Urutaí,",
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Curso de Conversação Básica em Francês: Parlons Français: c'est facile",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Jerrany Pereira Da Silva",
+                    "Júlio César Ferreira"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "O uso de metodologia ativa no ensino de matemática: efeito do uso do Geogebra na aprendizagem de alunos do ensino técnico integrado ao médio",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Vinicius Vieira Da Silva Dutra",
+                    "Lorenna Gondim Silva"
+                ],
+                "financiador": "Instituto Federal Goiano - Câmpus Urutaí,",
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Avaliação e desenvolvimento de metodologias, práticas e tecnologias de ensino de matemática.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Jordana Vilela Martins",
+                    "Lorenna Gondim Silva",
+                    "Leoneide Paula Da Costa",
+                    "Patrícia Garcia Souza Padovani",
+                    "Heloísa Candido De Sousa",
+                    "Tatiane De Andrade Resende"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Curso de Formação Inicial e Continuada de Língua Estrangeira ? Conversação em Francês Básico",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Jerrany Pereira Da Silva",
+                    "Elias Correa De Freitas Neto"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Grupo Literando: Compreensão leitora/ Café Pedagógico",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Leonice De Andrade Carvalho"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "IFMaker Urutaí: FabLab de robótica aplicada",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Cristiane De Fátima Dos Santos Cardoso",
+                    "Júlio César Ferreira",
+                    "Júnio César De Lima"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "PROJETO VIVA MAIS ORGÂNICOS: Produção e consumo de alimentos Orgânicos em Pires do Rio e região.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Milton Sérgio Dornelles",
+                    "Milton Luiz Da Paz Lima"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "\"Ensino de programação aplicada utilizando Aprendizagem baseada em Problema integrada com Gamificação",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Paulo Henrique Garcia Mansur",
+                    "Cristiane De Fátima Dos Santos Cardoso",
+                    "Júnio César De Lima",
+                    "Jorcivan Silva Ramos"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "IFMaker Urutaí: FabLab de robótica aplicada",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Júnio César De Lima",
+                    "Victor Tomaz De Oliveira",
+                    "Amaury Walbert De Carvalho",
+                    "Jhennyf Lima Santana",
+                    "Júlio César Ferreira"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "A VIDA EM PROSA E VERSO: reflexões profundas do cotidiano",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Leandro Nériton Cândido Máximo",
+                    "Leonice De Andrade Carvalho",
+                    "Luciana De Gois Aquino Teixeira",
+                    "Monica Isabel Canuto Nunes",
+                    "Fernando Da Rocha Rodrigues",
+                    "Letícia Tavares De Faria",
+                    "Miqueias Ferreira Gomes",
+                    "Simone Da Costa Estrela",
+                    "Thiago De Araujo Costa",
+                    "Christian Dany De Lima",
+                    "Mariana Lucas Mendes",
+                    "Luciana Teles Dos Santos Mesquita De Sousa"
+                ],
+                "ano_inicio": 2022,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Ciência orientada por dados: computação intensiva para processamento de dados de pesquisa aplicada, reconhecimento de padrões e aprendizado de máquina.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Anderson Rodrigo Da Silva",
+                    "Daniel De Paiva Silva",
+                    "Marcos Fernandes Sobrinho",
+                    "Tavvs Micael Alves",
+                    "Tania Maria De Moura",
+                    "Estevão Alves Da Silva"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Classificação de Espécies Vegetais do Gênero Brachiaria por meio de Processamento de Imagens",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Júlio César Ferreira",
+                    "Antonio Marcos Da Silva Leite"
+                ],
+                "financiador": "Instituto Federal Goiano - Câmpus Urutaí,",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "MATOS",
+                    "titulo": "J. D. V.,  MATOS, F. B.,  FERREIRA, J. C.,  Catálogo Mineral",
+                    "ano": "2021",
+                    "instituicao_promotora": "Instituto Federal Farroupilha."
+                },
+                {
+                    "autores": "BARBOSA",
+                    "titulo": "A. S. R.,  FERREIRA, J. C.,  SANTOS, J. C. M.,  CARDOSO, C. F. S.,  Pré-processamento de imagens para classificação e contagem de moscas brancas aprisionadas em armadilhas por meio de imagens digitais adquiridas em campo",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "ALVES",
+                    "titulo": "M. A. C.,  FERREIRA, J. C.,  Educação e Trabalho: perspectivas profissionais de egressos do curso técnico em agropecuária no Instituto Federal Goiano - Campus Morrinhos",
+                    "ano": "2019",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "MATOS",
+                    "titulo": "J. D. V.,  FERREIRA, J. C.,  As potencialidades da utilização de OAS no processo de ensino-aprendizagem em EPT: um estudo bibliográfico",
+                    "ano": "2018",
+                    "instituicao_promotora": "Universidade Federal de Goiás."
+                },
+                {
+                    "autores": "PAZ",
+                    "titulo": "O. M.,  FERREIRA, J. C.,  Estudo sobre Deep Learning e Aplicações Práticas em Super-resolução e Classificação de imagem",
+                    "ano": "2018",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "FERREIRA",
+                    "curso": "J. C.,  Minicurso - Processamento Digital de Imagem (PDI)",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "J. C.,  SILVA, J. P.,  Curso de Formação Inicial e Continuada de Língua Estrangeira - Parlons français! C'est facile.",
+                    "ano": "2018"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "J. C.,  Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio - PAPMEM",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "J. C.,  Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio - PAPMEM",
+                    "ano": "2016"
+                },
+                {
+                    "autor": "FERREIRA",
+                    "curso": "J. C.,  SANTOS, A. A.,  Introdução à Medida de Lebesgue",
+                    "ano": "2005"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "PEREIRA JUNIOR",
+                    "evento": "C. X.,  MELLO, R. F. L.,  FERREIRA, J. C.,  Congresso Brasileiro de Informática na Educação - CBIE",
+                    "ano": "2026",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação - SBC."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Lançamento da Coleção Ciências da Natureza no tempo presente",
+                    "ano": "2020",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "VIANA",
+                    "evento": "E. F.,  OLIVEIRA, P. C.,  OLIVEIRA, R. V.,  SILVEIRA, R. D. D.,  SILVA, S. C.,  SILVA, T. F. F.,  BASTOS, T. A.,  FERREIRA, J. C.,  NUNES, L. G.,  RIBEIRO, C. M.,  MARCAL, D. J.,  FRAZAO, E. B.,  VAZ, F. E.,  CANTUARIO, F. S.,  CANTUARIO, J. N. E.,  SOUZA, J. L.,  SILVA, L. R.,  Fórum Internacional Brasil/França",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Conif / Instituto Federal Goiano / Ministério da Agricultura Francês."
+                },
+                {
+                    "autores": "CARVALHO",
+                    "evento": "L. A.,  MORENO, V. J.,  MÁXIMO, L. N. C.,  FERREIRA, J. C.,  SILVA, D. P.,  BORGES, H. S.,  ROSA, T. O.,  LIMA, V. C.,  SCHWERZ, T.,  ALMEIDA, I. C. P.,  TEIXEIRA, L. G. A.,  NUNES, M. I. C.,  SILVA, H. R. E.,  OSAVA, C. F.,  CAIXETA, E. C.,  GONTIJO, L. C.,  RODRIGUES, F. R.,  LIMA, C. D.,  IV Café Pedagógico",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "RIBEIRO",
+                    "evento": "C. M.,  FARIA, L. T.,  FERNANDES SOBRINHO, M.,  NOVAES, S. F.,  GONCALVES, E. A.,  SANTOS, A. S.,  TEIXEIRA, A. L.,  LIMA, C. D.,  CAIXETA, E. C.,  ROCHA, E. A. V.,  RODRIGUES, F. R.,  FERREIRA, J. C.,  III Congresso de Educação e Seminário de Educação e Relações Étnico-Raciais",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "BARBOZA",
+                    "evento": "M. B.,  PASSOS, L. S.,  SANTOS, A. A.,  SANTOS, D. F. R.,  FERREIRA, J. C.,  SANTOS, J. C. M.,  SANTOS, W. P. O. V.,  MELO, C. U.,  LUZ, G. P. S.,  SANTANA, T. S.,  VI Encontro de Matemática e Educação Matemática (VI EMEM)",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  SANTOS, J. C. M.,  Programa de Aperfeiçoamento de Professores de Matemática do Ensino Médio",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto de Matemática Pura e Aplicada (IMPA)."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  II Congresso de Educação e I Seminário de Educação e Relações Étnico-raciais",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "SANTOS",
+                    "evento": "A. A.,  FERREIRA, J. C.,  V EMEM e XI Seminfo",
+                    "ano": "2018",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal Goiano - Câmpus Urutaí."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  SANTOS, J. C. M.,  Programa de Aperfeiçoamento de Professores de Matemática do Ensino Médio",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto de Matemática Pura e Aplicada (IMPA)."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio - PAPMEM",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IMPA e IF Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Comissão Organizadora do I Encontro de Licenciaturas",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IF Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio - PAPMEM",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IMPA e IF Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio - PAPMEM",
+                    "ano": "2010",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IMPA e IF Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Programa Curta Intervalo na Escola",
+                    "ano": "2009",
+                    "duracao_semanas": "32",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Programa de Aperfeiçoamento para Professores de Matemática do Ensino Médio",
+                    "ano": "2008",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Nacional de Matemática Pura e Aplicada."
+                },
+                {
+                    "autores": "FERREIRA",
+                    "evento": "J. C.,  Programa Curta Intervalo na Escola",
+                    "ano": "2008",
+                    "duracao_semanas": "32",
+                    "instituicao_promotora": "Instituto Federal Goiano."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "Oliveira, João Paulo Henrique Pereira de",
+                "titulo": "ASSUNCAO, R. G.;  FERREIRA, J. C.;  Relato de Experiência: ensino de geometria através de aprendizado baseada em projetos em um ambiente maker",
+                "ano": "2026",
+                "periodico": "e-Mosaicos. ISBN: 23169303   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA&#3660",
+                "titulo": ";, I",
+                "evento": "V. R. R.; FERREIRA",
+                "local": "J. C.; CARVALHO, A. W.; LIMA, J. C.; SOARES, A. S.; SENA, F. R.; VAZ, A. F. G.; MARQUES, P. H.; Construção do protótipo de adição dos sensores para veículos autônomos aplicado à agricultura. VI Integra do IF Goiano: ciência, cultura e trabalho na era da infodemia., Hidrolândia",
+                "ano": "2024"
+            },
+            {
+                "autores": "NOGUEIRA, E. A.",
+                "titulo": "FELIX, J",
+                "evento": "P.; FONSECA",
+                "local": "A. U.; VIEIRA, G. S.; FERREIRA, J. C.; FERNANDES, D. S. A.; OLIVEIRA, B. M.; SOARES, F. A. A. M. N.; Upsampling of Unmanned Aerial Vehicle Images of Sugarcane Crop Lines with a REAL-ESRGAN.. Canadian Conference on Electrical and Computer Engineering, Regina",
+                "ano": "2023"
+            },
+            {
+                "autores": "NOGUEIRA, E. A.",
+                "titulo": "FELIX, J",
+                "evento": "P.; FONSECA",
+                "local": "A. U.; FERREIRA, J. C.; FERNANDES, D. S. A.; OLIVEIRA, B. M.; SOARES, F. A. A. M. N.; Deep Learning for Super Resolution of Sugarcane Crop Line Imagery from Unmanned Aerial Vehicles. In: International Symposium on Visual Computing. International Symposium on Visual Computing, Seville",
+                "ano": "2023"
+            },
+            {
+                "autores": "FONSECA, A. U.",
+                "titulo": "ROCHA, B",
+                "evento": "M.; NOGUEIRA",
+                "local": "E. A.; VIEIRA, G. S.; FERNANDES, D. S. A.; LIMA, J. C.; Ferreira, JC; SOARES, F. A. A. M. N.; Tuberculosis Detection in Chest Radiography A Combined Approach of Local Binary Pattern Features and Monarch Butterfly Optimization Algorithm. COMPSAC 2022, Turin",
+                "ano": "2022"
+            },
+            {
+                "autores": "ROCHA, B. M.",
+                "titulo": "VIEIRA, G",
+                "evento": "S.; PEDRINI",
+                "local": "H.; FONSECA, A. U.; FERNANDES, D. S. A.; LIMA, J. C.; FERREIRA, J. C.; SOARES, F. A. A. M. N.; Skew Angle Detection and Correction in Text Images Using RGB Gradient.. International Conference on Image Analysis and Processing, Lecce",
+                "ano": "2022"
+            },
+            {
+                "autores": "SILVA, R. M. F.",
+                "titulo": "FELICIO, C",
+                "evento": "M.; FERREIRA",
+                "local": "J. C.; NOLL, M.; A chat about sedentarism in adolescence: An educational practice. 1st International Conference on Science and Technology Education (STE 2020), Porto",
+                "ano": "2020"
+            },
+            {
+                "autores": "SOUZA FILHO, V. R.",
+                "titulo": "FERREIRA, J",
+                "evento": "C.; Detecção de linhas de plantio: uma abordagem baseada em CNN aplicada em imagens adquiridas por robôs automáticos de solo.. XIII Semana de Informática (SEMINFO) 2020",
+                "local": "Urutaí",
+                "ano": "2020"
+            },
+            {
+                "autores": "MATOS, J. D. V.",
+                "titulo": "FERREIRA, J",
+                "evento": "C.; FELICIO",
+                "local": "C. M.; NOLL, M.; Prática educativa crítico-reflexiva em gestão ambiental e responsabilidade social: um relato de experiência. II Seminário Internacional de Formação de Professores, Rio Verde",
+                "ano": "2020"
+            },
+            {
+                "autores": "PADOVANI, P. G. S.",
+                "titulo": "FERREIRA, J",
+                "evento": "C.; Resolução de problemas: uma experiência metodológica para o ensino da matemática. II Seminário Internacional de Formação de Professores",
+                "local": "Rio Verde",
+                "ano": "2020"
+            },
+            {
+                "autores": "MARTINS, J. V.",
+                "titulo": "FERREIRA, J",
+                "evento": "C.; PAIXAO",
+                "local": "C. Z. F.; Integração curricular no ensino médio integrado: uma proposta de sistema integrador. II Seminário Internacional de Formação de Professores, Rio Verde",
+                "ano": "2020"
+            },
+            {
+                "autores": "RESENDE, T. A.",
+                "titulo": "JESUS, R",
+                "evento": "P.; FERREIRA",
+                "local": "J. C.; O uso do Kahoot! para o ensino remoto de razão e proporção em uma turma do 9 ano. I Colóquio da Pós-graduação do IF Goiano - Campus Urutaí, Urutaí",
+                "ano": "2020"
+            },
+            {
+                "autores": "RIBEIRO, D. J. S.",
+                "titulo": "LIMA, J",
+                "evento": "C.; FERREIRA",
+                "local": "J. C.; VIEIRA, G. S.; Uso de contêineres para desenvolvimento de infraestrutura multi-nuvem para aplicações de Smart Farming. VIII Escola Regional de Informática de Goiás, Goiânia",
+                "ano": "2020"
+            },
+            {
+                "autores": "MARTINS, J. V.",
+                "titulo": "MORAIS, G",
+                "evento": "R.; MATOS",
+                "local": "F. B.; FERREIRA, J. C.; Ferramentas Digitais e o Ensino nos Cursos Técnicos Integrados do IFTM Campus Uberlândia Centro. II Congresso Nacional de Ensino de Ciências e Formação de Professores, Catalão",
+                "ano": "2019"
+            },
+            {
+                "autores": "MORAIS, G. R.",
+                "titulo": "MARTINS, J",
+                "evento": "V.; MATOS",
+                "local": "F. B.; FERREIRA, J. C.; Necessidade de Formação Tecnológica Docente. II Congresso Nacional de Ensino de Ciências e Formação de Professores, Catalão",
+                "ano": "2019"
+            },
+            {
+                "autores": "MATOS, J. D. V.",
+                "titulo": "SILVA, J",
+                "evento": "R. C.; RIBEIRO",
+                "local": "A. F. S.; FERREIRA, J. C.; MATOS, F. B.; Aplicação de TICs para Geração de Aprendizagem Significativa: levantamento de produções entre 2016 e 2018. 4 Congresso de Pesquisa, Ensino e Extensão - CONPEEX, Catalão",
+                "ano": "2019"
+            },
+            {
+                "autores": "VIEIRA, G. S.",
+                "titulo": "ROCHA, B",
+                "evento": "M.; SOARES",
+                "local": "F. A. A. M. N.; LIMA, J. C.; PEDRINI, H.; COSTA, R. M.; FERREIRA, J. C.; Extending the Aerial Image Analysis from the Detection of Tree Crowns. 31st International Conference on Tools with Artificial Intelligence, Portland",
+                "ano": "2019"
+            },
+            {
+                "autores": "DA SILVA VIEIRA, GABRIEL",
+                "titulo": "ALPHONSUS A",
+                "evento": "M.N. SOARES",
+                "local": "FABRIZZIO; DE LIMA, JUNIO CESAR; DO NASCIMENTO, HUGO A. D.; LAUREANO, GUSTAVO T.; MARTINS DA COSTA, RONALDO; FERREIRA, JULIO C.; GALVAO RODRIGUES, WELLINGTON; A Disparity Computation Framework. 2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC), Milwaukee",
+                "ano": "2019"
+            },
+            {
+                "autores": "MOTTA, A. C. O.",
+                "titulo": "BARBOSA, M",
+                "evento": "L. O.; FERREIRA",
+                "local": "J. C.; Práticas pedagógicas em educação ambiental: uma revisão sistemática d. IV Workshop de Conservação dos Recursos Naturais do Cerrado e IX Semana de Ciências Biológicas, Urutaí",
+                "ano": "2019"
+            },
+            {
+                "autores": "VIEIRA, G. S.",
+                "titulo": "SOARES, F",
+                "evento": "A. A. M. N.; LAUREANO",
+                "local": "G. T.; PARREIRA, R. T.; FERREIRA, J. C.; COSTA, R. M.; FERREIRA, C. B. R.; Disparity refinement through grouping areas and support weighted windows. 2018 IEEE Canadian Conference on Electrical & Computer Engineering (CCECE) - Machine & Computer Vision, Quebec",
+                "ano": "2018"
+            },
+            {
+                "autores": "VIEIRA, G. S.",
+                "titulo": "SOARES, F",
+                "evento": "A. A. M. N.; LAUREANO",
+                "local": "G. T.; PARREIRA, R. T.; FERREIRA, J. C.; COSTA, R. M.; FERREIRA, C. B. R.; Stereo Matching Enhancement by Statistical Analysis and Weighted Functions. 2018 IEEE Canadian Conference on Electrical & Computer Engineering (CCECE) - Machine & Computer Vision, Quebec",
+                "ano": "2018"
+            },
+            {
+                "autores": "VIEIRA, G. S.",
+                "titulo": "SOARES, F",
+                "evento": "A. A. M. N.; LAUREANO",
+                "local": "G. T.; PARREIRA, R. T.; FERREIRA, J. C.; SALVINI, R.; Disparity Map Adjustment: a Post-Processing Technique. IEEE Symposium on Computers and Communications, Natal",
+                "ano": "2018"
+            },
+            {
+                "autores": "VIEIRA, GABRIEL DA SILVA",
+                "titulo": "SOARES, FABRIZZIO ALPHONSUS A",
+                "evento": "M.N.; LAUREANO",
+                "local": "GUSTAVO TEODORO; DE SOUSA, NAIANE MARIA; OLIVEIRA, JEHYMISON GIL ALVES; PARREIRA, RAFAEL TOMAZ; Ferreira, J'LIO C'SAR; DA COSTA, RONALDO MARTINS; Stereo Vision Methods: From Development to the Evaluation of Disparity Maps. 2017 Workshop of Computer Vision (WVC), Natal",
+                "ano": "2017"
+            },
+            {
+                "autores": "FERREIRA, J. C.",
+                "titulo": "LE MEUR, O",
+                "evento": "; GUILLEMOT",
+                "local": "C.; DA SILVA, E. A. B.; CARRIJO, G. A.; Single image super-resolution using sparse representations with structure constraints. 2014 IEEE International Conference on Image Processing (ICIP), Paris",
+                "ano": "2014"
+            },
+            {
+                "autores": "FERREIRA, J. C.",
+                "titulo": "PAIS, M",
+                "evento": "S.; CARRIJO",
+                "local": "G. A.; YAMANAKA, K.; Previsão de Vazão da Bacia do Ribeirão João Leite Utilizando Redes Neurais com treinamento Levenberg-Marquardt. IX Congresso Brasileiro de Redes Neurais Inteligência Computacional ISSN 2177-1200 (CD-ROM), Ouro Preto",
+                "ano": "2009"
+            },
+            {
+                "autores": "SILVA, G. D.",
+                "titulo": "FERREIRA, J",
+                "evento": "C.; MENDONCA",
+                "local": "A. R.; MARCHITO, E. M.; SILVA, L. B.; ROSA, C. B.; Métodos de Amostragem no Levantamento Fitossociológico da Mata Nativa da Fazenda Pedra Branca. II Jornada da Produção Científica da Educação Profissional e Tecnológica da Região Centro Oeste., Cuiabá",
+                "ano": "2008"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Isaias Valdemir Rodrigues Ribeiro de Souza",
+                "titulo": "Construção e adição de barra mecânica pulverizadora e sensores de coletas de dados ao protótipo do Veículo Autônomo Aplicado à Agricultura",
+                "ano": "2024",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Clarice Alves Pinto",
+                "titulo": "Super-resolução de imagens da base de dados de insetos IP102 utilizando ESRGAN",
+                "ano": "2023",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Isaias Valdemir Rodrigues Ribeiro de Souza",
+                "titulo": "Construção do protótipo e adição dos sensores para Veículo Autônomo Aplicado à Agricultura",
+                "ano": "2023",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Adamo Gonçalves Maia",
+                "titulo": "Detecção de linhas de plantio: uma abordagem baseada em redes neurais convolucionais aplicada em imagens adquiridas por robôs automáticos de solo",
+                "ano": "2022",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Valtenis Rodrigues de Souza Filho",
+                "titulo": "Detecção de linhas de plantio: uma abordagem baseada em refinamento da transformada Hough aplicada em imagens adquiridas por robôs automáticos de solo.",
+                "ano": "2021",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Nicolas Neia Thomaz da Silva",
+                "titulo": "Transformada de Wavelet como Aplicações em Compressão de Imagens: padrão jpeg2000",
+                "ano": "2019",
+                "curso": "Licenciatura em Matemática",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Adriley Samuel Ribeiro Barbosa",
+                "titulo": "Classificação e contagem de moscas brancas aprisionadas em armadilhas por meio de imagens digitais adquiridas em campo.",
+                "ano": "2019",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Paulo Victor Bueno Flores",
+                "titulo": "Desenvolvimento de software baseado em processamento digital de imagens para avaliação de dor em equinos por meio de escala de expressão facial",
+                "ano": "2018",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Pedro Henrique Martins Portes",
+                "titulo": "Desenvolvimento de software baseado em processamento digital de imagens para avaliação de dor em equinos por meio de escala de expressão facial",
+                "ano": "2018",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Otávio Murilo da Paz",
+                "titulo": "Classificação de cebolas utilizando processamento digital de imagens e aprendizado de máquina",
+                "ano": "2018",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Mayk Suel Oliveira das Neves",
+                "titulo": "Super-resolução de imagens light fields no espaço de variedades",
+                "ano": "2018",
+                "curso": "Sistema da Informação",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Antonio Marcos da Silva Leite",
+                "titulo": "Classificação de Espécies Vegetais do Gênero Brachiaria por meio de Processamento de Imagens",
+                "ano": "2017",
+                "curso": "Matemática",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Jehymison Gil Alves Oliveira",
+                "titulo": "Utilização de imagens estéreo para criação de mapas de disparidade",
+                "ano": "2017",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Naiane Maria de Sousa",
+                "titulo": "Produzindo mapa de profundidade esparso com câmera monocular",
+                "ano": "2017",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Goiano - Câmpus Urutaí"
+            },
+            {
+                "orientando": "Guilherme Oliveira Dias",
+                "titulo": "Monitoria de Matemática Elementar, Álgebra Linear e Matemática Discreta para Análise e Desenvolvimento de Sistemas",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Islan Santos Souza",
+                "titulo": "Importância da inserção de vegetais e aspectos ligados à higiene de preparação: Um estudo de caso no município de Urutaí - Go",
+                "ano": "2010",
+                "curso": "Tecnologia em Alimentos",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Isley Santos Souza",
+                "titulo": "Análise do Desenvolvimento do Dipteryx alata Vog. (Baru) em Pastagem e Fragmento de Cerrado no Campus Urutaí do Instituto Federal Goiano",
+                "ano": "2009",
+                "curso": "Tecnologia em Gestão Ambiental",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Hugo Leonardo da Silva Belisário",
+                "titulo": "Ensino de polinômios: fundamentação teórica.",
+                "ano": "2006",
+                "curso": "Matemática",
+                "instituicao": "Universidade Federal de Goiás"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.00022050252300687134,
+            "indian": 0.0019043300999328494,
+            "black": 2.238223714812193e-05,
+            "white": 97.61832427978516,
+            "middle eastern": 1.492574691772461,
+            "latino hispanic": 0.8869611024856567
+        }
+    }
+}

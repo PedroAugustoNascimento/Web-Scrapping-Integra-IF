@@ -1,0 +1,220 @@
+{
+    "campus": "- Campus Ceará-Mirim",
+    "instituto": "IFRN",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Propostas de Equalização e Beamforming para Sistemas Modernos de Comunicação",
+                "orientador": "Marcelo Augusto da Costa Fernandes",
+                "ano_inicio": 2014,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Engenharia Elétrica",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "titulo": "Equalização Neural Aplicada a Sistemas com Modulação Bidimensional em Fibra Óptica",
+                "orientador": "Marcelo Augusto da Costa Fernandes",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Jogos Digitais",
+                "instituicao": "Centro Universitário das Faculdades Metropolitanas Unidas",
+                "orientador": "Wagner Luiz Sturion",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia de Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2007,
+                "ano_fim": 2011
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Flowkore Entertainment",
+                "ano_inicio": 2012,
+                "ano_fim": 2014,
+                "funcao": "Game Designer",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Laboratório de Realidade Virtual - UFRN",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "LE CENTRE NATIONAL D'ANIMATION ET DE DESIGN",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Programador",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "CENTRO UNIVERSITARIO-UNIFACISA",
+                "ano_inicio": 2013,
+                "ano_fim": 2016,
+                "funcao": "Professor",
+                "vinculo": "Disciplinas Ministradas: Laboratório de Jogos 3D II",
+                "descricao": "Física Aplicada a Jogos Digitais, Tópicos Especiais em Jogos Digitais I"
+            },
+            {
+                "empresa": "Universidade Potiguar",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Professor",
+                "vinculo": "Disciplinas Ministradas: Fundamentos do Design de Jogos",
+                "descricao": "Computação Gráfica, Jogos para Web, Inteligência Artificial Aplicada a Jogos"
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Norte",
+                "ano_inicio": 2015,
+                "ano_fim": 2015,
+                "funcao": "Professor",
+                "vinculo": "Bolsista",
+                "descricao": "Disciplinas Ministradas: Física Aplicada a Jogos I, Motores de Jogos, Criação de Personagens e Narrativas de Jogos"
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",
+                "ano_inicio": 2016,
+                "ano_fim": null,
+                "funcao": "Professor EBTT",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Laboratório de Realidade Virtual - UFRN",
+                "nome": "Produção de filmes e animações em estéreo utilizando o software Autodesk Maya",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Tiago Fernando Barbosa De Sousa",
+                    "Camilla Milena De Araújo Elpídio",
+                    "Thiago Ferreira Paulo",
+                    "Laís Malta",
+                    "Rhaiscya Matos",
+                    "Silvio José Bezerra"
+                ],
+                "financiador": "Fundação Norte Riograndense de Pesquisa e Cultura,",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "SOUSA",
+                    "evento": "T. F. B.,  Melo, M. P. P.,  8º Bit.Byte - Encontro de Desenvolvedores de Jogos",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Bit.Byte."
+                },
+                {
+                    "autores": "Melo",
+                    "evento": "M. P. P.,  SOUSA, T. F. B.,  7º Bit.Byte - Encontro de Desenvolvedores de Jogos",
+                    "ano": "2014",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Bit.Byte."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "DE SOUSA, TIAGO F. B.",
+                "titulo": "FERNANDES, MARCELO A. C.;  Butterfly neural equalizer applied to optical communication systems with two-dimensional digital modulation",
+                "ano": "2018",
+                "periodico": "OPTICS EXPRESS. ISBN: 10944087   ."
+            },
+            {
+                "autores": "SOUSA, TIAGO",
+                "titulo": "ARANTES, DALTON;  FERNANDES, MARCELO;  Adaptive Beamforming Applied to OFDM Systems",
+                "ano": "2018",
+                "periodico": "SENSORS. ISBN: 14248220   ."
+            },
+            {
+                "autores": "SOUSA, T. F. B.",
+                "titulo": "FERNANDES, M. A. C.;  Multilayer Perceptron Equalizer for Optical Communication Systems",
+                "ano": "2014",
+                "periodico": "WSEAS Transactions on Communications. ISBN: 11092742   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUSA, T. F. B.",
+                "titulo": "FERNANDES, M",
+                "evento": "A. C.; Bi-dimensional Neural Equalizer applied to Optical Receiver. 1st BRICS Countries & 11th CBIC Brazilian Congress on Computational Intelligence",
+                "local": "Porto de Galinhas - Recife",
+                "ano": "2013"
+            },
+            {
+                "autores": "Elpídio, C. M. A.",
+                "titulo": "SOUSA, T",
+                "evento": "F. B.; ELPIDIO",
+                "local": "C. M. A.; COSTA, F. A.; VALCACER, S. M.; GOMES, U. U.; Efeito da Moagem de Alta Energia nas Características de um Pó Compósito Heptamolibdato de Amônia e Cobre. 20º Congresso Brasileiro de Engenharia e Ciência dos Materiais - CBECiMat 2012, Joinville",
+                "ano": "2012"
+            },
+            {
+                "autores": "Elpídio, C. M. A.",
+                "titulo": "SOUSA, T",
+                "evento": "F. B.; ELPIDIO",
+                "local": "C. M. A.; COSTA, A. H. F.; MELO, A. C. A.; Aplicação de PRIMA no processo de fabricação de parafusos. VII Congresso Nacional de Engenharia Mecânica - CONEM 2012, São Luiz",
+                "ano": "2012"
+            },
+            {
+                "autores": "Elpídio, C. M. A.",
+                "titulo": "SOUSA, T",
+                "evento": "F. B.; Malta",
+                "local": "L.; Bezerra, S. J.; Avaliação de desempenho de programas para visualização 3D. XXII Congresso de Iniciação Científica, Natal",
+                "ano": "2011"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Antonio Ferreira Dantas Neto",
+                "titulo": "Mountain - Jogo Adventure em 3ª Pessoa",
+                "ano": "2014",
+                "curso": "Graduação em Jogos Digitais",
+                "instituicao": "Faculdade de Ciências Sociais Aplicadas"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "indian",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 3.791163444519043,
+            "indian": 50.730438232421875,
+            "black": 6.479180812835693,
+            "white": 8.669575691223145,
+            "middle eastern": 10.269770622253418,
+            "latino hispanic": 20.059873580932617
+        }
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "campus": "- Câmpus Itajaí",
+    "instituto": "IFSC",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "titulo": "Pi-Calculus Semantic with Values Passing in the Denotational Approach",
+                "orientador": "DALTRO JOSÉ NUNES",
+                "ano_inicio": 2017,
+                "ano_fim": 2019
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "",
+                "instituicao": "Instituto Federal de Santa Catarina",
+                "orientador": "---",
+                "ano_inicio": 2025,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Licenciatura Plena em Matemática",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2010,
+                "ano_fim": 2012
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Matemática Bacharelado",
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": 2015
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "TI - Técnica em Informática",
+                "vinculo": "Bolsista SEAD",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal do Rio Grande do Sul",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Mediadora Museu UFRGS",
+                "vinculo": "Bolsista SAE",
+                "descricao": "Mediação na exposição Alan Turing: legados para a computação e para a humanidade"
+            },
+            {
+                "empresa": "Tribunal Regional Federal da 4ª Região",
+                "ano_inicio": 2010,
+                "ano_fim": 2012,
+                "funcao": "Estagiária na Divisão de Contadoria",
+                "vinculo": "Estagiária",
+                "descricao": "Realização de atividades relacionadas com o melhoramento de planilhas de cálculos do EXCEL e programação em VBA"
+            },
+            {
+                "empresa": "Escola Municipal Valter Alencar",
+                "ano_inicio": 2008,
+                "ano_fim": 2008,
+                "funcao": "Professora Estagiária",
+                "vinculo": "Bolsista",
+                "descricao": "Professora de 6º, 8º e 9º anos"
+            },
+            {
+                "empresa": "EEEF Doutor Mário Sperb",
+                "ano_inicio": 2014,
+                "ano_fim": 2017,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "EEEF Guilherme Balduino Baum",
+                "ano_inicio": 2014,
+                "ano_fim": 2015,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "EEEM Villa Lobos",
+                "ano_inicio": 2015,
+                "ano_fim": 2016,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Escola Estadual de Ensino Médio Emílio Sander",
+                "ano_inicio": 2016,
+                "ano_fim": 2017,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "SBMF 2017",
+                "ano_inicio": 2017,
+                "ano_fim": 2017,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Formal Methods: Foundations and Applications: 20th Brazilian Symposium, SBMF 2017, Recife, Brazil, November 29 ? December 1, 2017, Proceedings"
+            },
+            {
+                "empresa": "Prefeitura Municipal de Balneario Camboriu",
+                "ano_inicio": 2025,
+                "ano_fim": 2026,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Servidor público",
+                "descricao": "Professora no Polo de Atendimento Educacional Especializado em Altas Habilidades/Superdotação com os seguintes laboratórios:- Pensamento Computacional- Maker- Jogos e Raciocínio Lógico"
+            },
+            {
+                "empresa": "Prefeitura Municipal de Balneario Camboriu",
+                "ano_inicio": 2020,
+                "ano_fim": 2020,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Servidor público",
+                "descricao": "Contrato temporário até 10/12/2020"
+            },
+            {
+                "empresa": "Estado do Rio Grande do Sul",
+                "ano_inicio": 2019,
+                "ano_fim": 2020,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Servidor público",
+                "descricao": "Contrato temporário"
+            },
+            {
+                "empresa": "CEM Governador Ivo Silveira",
+                "ano_inicio": 2024,
+                "ano_fim": 2024,
+                "funcao": "Professo",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Santa Catarina",
+                "ano_inicio": 2026,
+                "ano_fim": null,
+                "funcao": "Professora de Matemática",
+                "vinculo": "Servidor público",
+                "descricao": "Atuação como Professora de Cálculo na Graduação e de Matemática no Ensino Médio"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal do Rio Grande do Sul",
+                "nome": "PROCESSOS ESTOCASTICOS E SERIES TEMPORAIS CAOTICAS",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Jaqueline Klein Galli",
+                    "Artur Lopes"
+                ],
+                "ano_inicio": 2010,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "CEM Governador Ivo Silveira",
+                "nome": "Lógica de Programação para construção de Algoritmos Matemáticos",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Jaqueline Klein Galli",
+                    "Deonir Bampi Junior"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            },
+            {
+                "instituicao": "CEM Governador Ivo Silveira",
+                "nome": "Laboratório de Matemática",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Jaqueline Klein Galli"
+                ],
+                "ano_inicio": 2024,
+                "ano_fim": 2024
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "GALLI",
+                    "titulo": "J. K.,  PEZZINI, Eduardo P.,  RIBAS, Estevão,  SPULDARO, Iury,  NONATO, Laura S. O.,  FABER, Mateus F.,  CRIAÇÃO DE JOGOS DE TABULEIRO COM DESAFIOS MATEMÁTICOS E APLICATIVOS DE SUPORTE",
+                    "ano": "2025",
+                    "instituicao_promotora": "IFC Camboriú."
+                },
+                {
+                    "autores": "GALLI",
+                    "titulo": "J. K.,  CUNHA, A. S. T.,  NEVES, E. F.,  CADOSO, I. O.,  SILVA, N. W.,  SANTOS, A. J.,  SILVA, M. L.,  FRACTAIS COMO PORTAIS DO INFINITO: OLHARES ENTRE A ARTE E A MATEMÁTICA DO CORPO",
+                    "ano": "2025",
+                    "instituicao_promotora": "IFC Camboriú."
+                },
+                {
+                    "autores": "GALLI",
+                    "titulo": "J. K.,  BAMPI JUNIOR, D.,  Lógica de Programação para construção de Algoritmos Matemáticos",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal Catarinense - Campos Camboriú."
+                },
+                {
+                    "autores": "ROCHA",
+                    "titulo": "Miriam,  GALLI, J. K.,  PROJETO CRESCER: Desenvolvimento da Metodologia de Projetos",
+                    "ano": "2024",
+                    "instituicao_promotora": "IFC Camboriú."
+                },
+                {
+                    "autores": "GALLI",
+                    "titulo": "J. K.,  TAVARES, R. C. O.,  Maquete do Sistema Solar em Escala",
+                    "ano": "2024",
+                    "instituicao_promotora": "Instituto Federal Catarinense - Campos Camboriú."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": []
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": []
+    }
+}

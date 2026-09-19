@@ -1,0 +1,275 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "em Modelagem Computacional Ciência e Tecnologia",
+                "periodo": "2025",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "titulo": "Desenvolvimento e validação de técnica de deep learning para reconstrução de imagens de CBCT de baixa dose",
+                "orientador": "Esbel Tomas Valero Orellana"
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Modelagem Computacional em Ciência e Tecnologia",
+                "periodo": "2014 - 2016",
+                "instituicao": "Universidade Estadual de Santa Cruz",
+                "titulo": "PARALELIZAÇÃO E ESTUDO DE DESEMPENHO DE SIMULAÇÕES DOSIMÉTRICAS POR MONTE CARLO UTILIZANDO O CÓDIGO GATE/GEANT4",
+                "orientador": "Felix Mas Milian"
+            },
+            {
+                "nivel": "Especialização"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Lato Sensu em Redes de Computadores",
+                "periodo": "2012 - 2016",
+                "instituicao": "Escola Superior Aberta do Brasil"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "periodo": "2003 - 2008",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia"
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Bacharelado em Matemática",
+                "periodo": "2001 - 2003",
+                "instituicao": "Universidade Estadual de Santa Cruz"
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2017 - 2019",
+                "cargo": "Coordenador do Curso de L. em Computação, Servidor público."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2013",
+                "cargo": "Professor Ensino Básico Técnico e Tecnológico, Disciplinas ministradas: Lógica de Programação I e II ( Curso Técnico Informática Subsequente) Redes de Computadores I e II ( Curso Técnico Informática Integrado) Algoritmos (Licenciatura em Computação) Análise e Modelagem de dados ( Curso Técnico Informática Subsequente) Informática ( Curso Técnico Informática Subsequente)."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2013 - 2014",
+                "cargo": "Coordenador de Estágio."
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "periodo": "2013",
+                "cargo": "Professor EBTT, Servidor público."
+            },
+            {
+                "empresa": "Prefeitura Municipal de Vitória da Conquista",
+                "periodo": "2006 - 2011",
+                "cargo": "Técnico em Informática, Atuação na área de Desenvolvimento de Software e Gerência de Redes e Administração de Servidores Linux."
+            },
+            {
+                "empresa": "Secretaria de Educação do Estado da Bahia",
+                "periodo": "2009 - 2013",
+                "cargo": "Professor Ensino Técnico, Servidor público, Disiplinas: Lógica e Técnicas de Programação, Técnicas de Programação Avançada, Circuitos Eletrônicos e Digitais, Redes de Computadores I, Redes de Computadores II , Arquitetura de Computadores, Informática Aplicada, Coordenador do curso de Informática e Coordenador de Estágio.."
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Secretaria de Educação do Estado da Bahia\nEnsino-medio (2009 - 2012) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Programa Institucional de Bolsa de Iniciação à Docência- PIBID/IFBA",
+                "periodo": "2014 - 2017",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Paulo Oliveira Paixão",
+                    "ALESSANDRO BARRETO LAMARÃO",
+                    "ERIKSON DE SOUSA SANTOS",
+                    "LUIZ CARLOS PEREIRA LIMA",
+                    "SILVIA CRISTINA HOROCHOSKI",
+                    "SIMONE DE ABREU SANTOS"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Introdução à Robótica com Arduino",
+                "periodo": "2015 - 2015",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Paulo Oliveira Paixão",
+                    "Kênia Xavier Teodoro de Oliveira",
+                    "Diogo Pereira Silva de Novais",
+                    "Joshua Kiko Abbate"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Subprojeto Programa Residência Pedagógica",
+                "periodo": "2018 - 2020",
+                "natureza": "Ensino",
+                "equipe": [
+                    "Paulo Oliveira Paixão",
+                    "Diogo Pereira Silva de Novais",
+                    "Maria Aparecida F. Gomes e Santos",
+                    "Katia Silva Martins"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto Difusão de Robótica Educacional no Campus Porto Seguro",
+                "periodo": "2018 - 2019",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo Oliveira Paixão",
+                    "Kênia Xavier Teodoro de Oliveira",
+                    "Diogo Pereira Silva de Novais",
+                    "Douglas Xavier Teodoro de Oliveira",
+                    "Ricardo Almeida Cunha"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto de Ensino de Robótica para Crianças e Adolescentes na BCS Baianão para estudantes do Colégio Paulo Souto Frei Calixto",
+                "periodo": "2023 - 2023",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Paulo Oliveira Paixão"
+                ]
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "HERCULANO",
+                    "titulo": "J. F.,  NOVAIS, D. P. S.,  ANDRADE, T. N. C.,  PAIXÃO, P. O.,  Aplicações de autovalores e autovetores em Modelagem Computacional",
+                    "ano": "2014",
+                    "instituicao_promotora": "Universidade Católica de Petrópolis."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  OLIVEIRA, K. X. T.,  Introdução à Robótica com Arduino",
+                    "ano": "2015"
+                },
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  Eletricidade e eletrônica básica",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  Instalação de Sistemas Operacionais - Curso Montador e reparador de computadores",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  Informática Básica",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  Instalação de redes wi-fi home office",
+                    "ano": "2013"
+                },
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  Eletrônica e Eletricidade",
+                    "ano": "2012"
+                },
+                {
+                    "autor": "PAIXÃO",
+                    "curso": "P. O.,  Formatação de Computadores",
+                    "ano": "2011"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "PAIXÃO",
+                    "evento": "P. O.,  TESSMANN, M. S.,  LEITE, A. B.,  IV Semana de Agroindústria do IFBA - Campus Porto Seguro",
+                    "ano": "2025",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação Ciência e Tecnologia."
+                },
+                {
+                    "autores": "PAIXÃO",
+                    "evento": "P. O.,  TESSMANN, M. S.,  LEITE, A. B.,  III Semana do Curso de Agroindústria do IFBA",
+                    "ano": "2024",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia."
+                },
+                {
+                    "autores": "OLIVEIRA",
+                    "evento": "J. C. M.,  OLIVEIRA, I. N.,  LOPES, M. S.,  PAIXÃO, P. O.,  VII ERBASE - Escola Regional de Computação Bahia-Alagoas-Sergipe",
+                    "ano": "2007",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Universidade Estadual do Sudoeste da Bahia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [],
+        "trabalhos_eventos": []
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Udenilson do Espírito Santo",
+                "titulo": "PROTÓTIPO DE UM SISTEMA DE MONITORAMENTO COM AUTOMAÇÃO NO PROCESSO DE COLETA, ARMAZENAMENTO E UTILIZAÇÃO DE ÁGUA DA CHUVA",
+                "ano": "2021",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            },
+            {
+                "orientando": "MARCELO DE SOUZA FREITAS",
+                "titulo": "Protótipo Experimental de uma Estação de Baixo Custo para Monitoramento da Qualidade do Ar em Ambientes: Interno e Externo.",
+                "ano": "2019",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Maurício Jesus da Silva",
+                "titulo": "IMPRESSORA BRAILE ? VIABILIDADE DO USO DE UMA CNC COMO BASE PARA CRIAÇÃO DE UM PROTÓTIPO DE IMPRESSORA BRAILE DE BAIXO CUSTO",
+                "ano": "2019",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Patrick Carmo Souza",
+                "titulo": "PROJETO E DESENVOLVIMENTO DE UMA ESTAÇÃO DE MONITORAMENTO DA QUALIDADE DO AR UTILIZANDO PLATAFORMA ARDUINO",
+                "ano": "2017",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Sebastiao de Jesus Santos",
+                "titulo": "Desenvolvimento de um protótipo como ferramenta de análises ambientais utilizando a plataforma Arduino",
+                "ano": "2017",
+                "curso": "Licenciatura em Computação",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 20.197824478149414,
+            "indian": 14.704733848571777,
+            "black": 7.695408821105957,
+            "white": 17.257614135742188,
+            "middle eastern": 16.955480575561523,
+            "latino hispanic": 23.188940048217773
+        }
+    }
+}

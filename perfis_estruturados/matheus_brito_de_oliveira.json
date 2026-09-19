@@ -1,0 +1,327 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "Administração",
+                "instituicao": "Universidade Federal da Paraíba",
+                "orientador": "Cássio Nobrega Besarria",
+                "ano_inicio": 2023,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "A definir",
+                "orientador": "Laís do Nascimento Salvador",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Computação Aplicada",
+                "instituicao": "Universidade Estadual de Feira de Santana",
+                "titulo": "Desenvolvimento de um pipeline para montagem de genomas bacterianos, através de sequenciadores next-generation",
+                "orientador": "Artur Trancoso Lopo Queiroz",
+                "ano_inicio": 2015,
+                "ano_fim": 2017
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Engenharia em Sistemas",
+                "instituicao": "Escola Superior Aberta do Brasil",
+                "orientador": "Almir da Cruz Souza",
+                "ano_inicio": 2013,
+                "ano_fim": 2014
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Sistema de Informação",
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2006,
+                "ano_fim": 2010
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia Baiano",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Professor Substituto",
+                "vinculo": "Professor Substituto",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2009,
+                "ano_fim": 2009,
+                "funcao": "Monitor",
+                "vinculo": "Atuação como monitor do Programa de Formação de Recursos Humanos em Tecnologia da Informação Área Desenvolvimento de Software",
+                "descricao": "Linguagem PHP, promovido pela Universidade Estadual do Sudoeste da Bahia UESB, Campus de Jequié-BA, em parceria com a Secretaria de Ciência, Tecnologia e Inovação do Estado da Bahia SECTI. Atividades: Ministração de aulas extras, acompanhamento dos alunos em sala de aula, elaboração de material didático, provas e exercícios"
+            },
+            {
+                "empresa": "Universidade Estadual do Sudoeste da Bahia",
+                "ano_inicio": 2007,
+                "ano_fim": 2007,
+                "funcao": "Monitor",
+                "vinculo": "Bolsis",
+                "descricao": "Atuação como monitor da disciplina de Fundamentos de Sistemas de Informação, tal disciplina tem como objetivo, fornecer aos discentes toda a teoria do desenvolvimento de software tais como: ciclos de vida, métricas de softwares, ferramentas, processos de softwares, planejamento de um projeto de software"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2012,
+                "ano_fim": null,
+                "funcao": "Docente",
+                "vinculo": "Não informado",
+                "descricao": "Coordenador de Tecnologia da Informação no período de 30/09/2012 até 03/2014; Chefe do Departamente de Ensino no período de 17/09/2014 até a presente data"
+            },
+            {
+                "empresa": "Batuque Tecnologia E Informação Ltda",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Analista de Sistemas",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "MegaByte Informática, Consultoria e Terceirização LTDA",
+                "ano_inicio": 2004,
+                "ano_fim": 2010,
+                "funcao": "Programador",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "CONNEPI",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "",
+                "vinculo": "Revisor de periódico",
+                "descricao": "Avaliador ad hoc de trabalhos do XII Connepi"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": ": Instituto Federal de Educação, Ciência e Tecnologia Baiano\nOutro (2011 - 2011) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "nome": "Sistemas Hipermídia de Aprendizagem em Saúde: desenvolvimento e avaliação.",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Brito De Oliveira",
+                    "Felipe Santos Couto",
+                    "Mateus Souza",
+                    "Valéria Argolo Rosa"
+                ],
+                "financiador": ",",
+                "ano_inicio": 2008,
+                "ano_fim": 2009
+            },
+            {
+                "instituicao": "Universidade Estadual do Sudoeste da Bahia",
+                "nome": "Bioinformática e Química Computacional Aplicada à Busca Desenvolvimento de Compostos Bioativos",
+                "natureza": "Outra",
+                "equipe": [
+                    "Matheus Brito De Oliveira",
+                    "Bruno Silva Andrade"
+                ],
+                "ano_inicio": 2020,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Robótica na Chapada Diamantina",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Matheus Brito De Oliveira",
+                    "Allysson Fernandes Guedes De Almeida"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "MONTAGENS DE GENOMAS BACTERIANOS, UTILIZANDO FERRAMENTAS COMPUTACIONAIS: UM ESTUDO COMPARATIVO",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Brito De Oliveira",
+                    "Gustavo Jorge Novaes Silva"
+                ],
+                "ano_inicio": 2019,
+                "ano_fim": 2020
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Território, Educação e Sustentabilidade - TESSER",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Matheus Brito De Oliveira",
+                    "Rita De Cassia Souza De Queiroz"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": null
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "SILVA",
+                    "titulo": "G. J. N.,  de Oliveira, M. B.,  Computational tools for the de novo assembly of bacterial genomes: a comparative study",
+                    "ano": "2020",
+                    "instituicao_promotora": "Alumini."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "titulo": "M. B.,  RIBEIRO, T. P.,  LOPES, C. R. S.,  Sistema Web e a sistematização da Atenção Farmacêutica",
+                    "ano": "2013",
+                    "instituicao_promotora": "IFBA e IFBAIANO."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "titulo": "M. B.,  Utilizando Rich Internet Application no desenvolvimento Web",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "titulo": "M. B.,  O mercado de Trabalho em Tecnologia da Informação",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "titulo": "M. B.,  Relato sobre Projeto de Conclusão de Curso",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "titulo": "M. B.,  Concepções e Práticas de Iniciação Científica do IFBaiano",
+                    "ano": "2011",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia."
+                }
+            ],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "de Oliveira",
+                    "curso": "M. B.,  HTML5 & CSS3",
+                    "ano": "2020"
+                },
+                {
+                    "autor": "de Oliveira",
+                    "curso": "M. B.,  Desenvolvendo Animações para a Web",
+                    "ano": "2011"
+                },
+                {
+                    "autor": "de Oliveira",
+                    "curso": "M. B.,  Desenvolvendo aplicações ricas com Adobe Flex e Php",
+                    "ano": "2010"
+                },
+                {
+                    "autor": "de Oliveira",
+                    "curso": "M. B.,  Desenvolvimento de Animações em Flash",
+                    "ano": "2009"
+                },
+                {
+                    "autor": "de Oliveira",
+                    "curso": "M. B.,  Desenvolvimento Web com Adobe Flash",
+                    "ano": "2008"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "de Oliveira",
+                    "evento": "M. B.,  I FLIRFEP - Festa Literária Nacional da Rede Federal de Educação Profissional Tecnológica da Bahia",
+                    "ano": "2023",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "IFBA."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "evento": "M. B.,  VIII SECITEC - Semana de Educação, Ciência e Tecnologia do IFBA campus Jequié",
+                    "ano": "2022",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "evento": "M. B.,  IV Semana Nacional de Ciência e Tecnologia",
+                    "ano": "2017",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia."
+                },
+                {
+                    "autores": "de Oliveira",
+                    "evento": "M. B.,  I Semana de Tecnologia da Informação",
+                    "ano": "2011",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal de Educação, Ciência e Tecnologia."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "OLIVEIRA, MATHEUS BRITO DE",
+                "titulo": "Quem pode ser Nova? O desafio ético da inteligência artificial na concessão de créditoWHO GETS TO BE NOVA? THE ETHICAL CHALLENGE OF ARTIFICIAL INTELLIGENCE IN CREDIT GRANTING-QUIÉN PUEDE SER NOVA? EL DESAFÍO ÉTICO DE LA INTELIGENCIA ARTIFICIAL EN LA CONCESIÓN DE CRÉDITO",
+                "ano": "2026",
+                "periodico": "GVcasos - Revista Brasileira de Casos de Ensino em Administração. ISBN: 2179135X   ."
+            },
+            {
+                "autores": "SILVA, GUSTAVO JORGE NOVAES",
+                "titulo": "DE OLIVEIRA, MATHEUS BRITO;  Ferramentas computacionais para a montagem de genomas bacterianos: um estudo comparativo",
+                "ano": "2023",
+                "periodico": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES. ISBN: 19887833   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "OLIVEIRA, U. G. S. T.",
+                "titulo": "de Oliveira, M",
+                "evento": "B.; DESENVOLVIMENTO DE UM MODELO PARA PREDIÇÃO DE TIPOS DE CRIMES NA REGIÃO DE MONTGOMERY COUNTY",
+                "local": "UTILIZANDO CLASSIFICADORES DE ÁRVORES DE DECISÃO. Connepi - Congresso Norte e Nordeste de Inovação e Pesquisa, Maceió",
+                "ano": "2016"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Alexia Karen",
+                "titulo": "USO DE UM SISTEMA WEB NO AUXÍLIO DA PRÁTICA DA ATENÇÃO FARMACÊUTICA",
+                "ano": "2020",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            },
+            {
+                "orientando": "Karolayne Araújo Santos",
+                "titulo": "Desenvolvimento de uma aplicação web para utilização do BLAST para detecção de plasmídeo em draft de genoma bacteriano",
+                "ano": "2016",
+                "curso": "Técnico Integrado em Informática",
+                "instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGI"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 4.066205978393555,
+            "indian": 10.21302604675293,
+            "black": 3.808922290802002,
+            "white": 28.23607063293457,
+            "middle eastern": 27.687564849853516,
+            "latino hispanic": 25.98821449279785
+        }
+    }
+}

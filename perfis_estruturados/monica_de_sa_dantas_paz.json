@@ -1,0 +1,960 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Doutorado",
+                "curso": "",
+                "ano_inicio": 2021,
+                "ano_fim": null
+            },
+            {
+                "nivel": "Doutorado",
+                "curso": "Comunicação e Cultura Contemporânea",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "Mulheres e Tecnologia: hackeando as relações de gênero na comunidade Software Livre do Brasil",
+                "orientador": "Leonor Graciela Natansohn",
+                "ano_inicio": 2011,
+                "ano_fim": 2015
+            },
+            {
+                "nivel": "Mestrado",
+                "curso": "Comunicação e Cultura Contemporânea",
+                "instituicao": "Universidade Federal da Bahia",
+                "titulo": "A WEB 2",
+                "orientador": "José Carlos Santos Ribeiro",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Desenho Instrucional",
+                "instituicao": "Instituto de Desenho Instrucional",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Segurança da Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Marketing",
+                "instituicao": "Universidade Estácio de Sá",
+                "ano_inicio": 2018,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Ciência da Computação",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2002,
+                "ano_fim": 2007
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Analista de TI",
+                "vinculo": "Servidor público",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Bolsista de doutorado - tirocínio docente",
+                "vinculo": "Bolsista",
+                "descricao": "Com365 - Comunicação e Cultura. 2011.2. Docente: Graciela Natanshon. Ementa: Mulheres e tecnologias digitais. Tecnofeminismo e ciberfeminismo. Analise e compreensão dos processos de apropriação tecnológica de grupos específicos (mulheres). Analise das brechas digitais"
+            },
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Técnica em Informática",
+                "vinculo": "Estágio",
+                "descricao": ""
+            },
+            {
+                "empresa": "União de Moradores do Bairro de Sussuarana",
+                "ano_inicio": 2004,
+                "ano_fim": 2005,
+                "funcao": "Técnico em informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Colivre - Cooperativa de Tecnologias Livres",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "Técnica em Informática",
+                "vinculo": "Cooperante Fundadora",
+                "descricao": ""
+            },
+            {
+                "empresa": "Empresa Brasileira de Correios e Telégrafos",
+                "ano_inicio": 2005,
+                "ano_fim": 2005,
+                "funcao": "Estagiária",
+                "vinculo": "Livre",
+                "descricao": ""
+            },
+            {
+                "empresa": "Betumat Química Ltda.",
+                "ano_inicio": 2000,
+                "ano_fim": 2001,
+                "funcao": "Técnica em Química",
+                "vinculo": "Funcionária",
+                "descricao": ""
+            },
+            {
+                "empresa": "Betumat Química Ltda.",
+                "ano_inicio": 1999,
+                "ano_fim": 2000,
+                "funcao": "Estagiária",
+                "vinculo": "Estagiária",
+                "descricao": ""
+            },
+            {
+                "empresa": "Secretaria da Educação",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "Técnico",
+                "vinculo": "bolsista",
+                "descricao": "Atividades envolvendo: Redes Sociais, Blog, Pesquisa de conteúdos educacionais digitais, Palestras, etc"
+            },
+            {
+                "empresa": "Pontão de Cultura juntaDados (UNEB/MINC)",
+                "ano_inicio": 2010,
+                "ano_fim": 2010,
+                "funcao": "técnico - comunicação visual e web",
+                "vinculo": "bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Avansys Tecnologia LTDA",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "Técnica em Informática",
+                "vinculo": "Prestação de Serviços",
+                "descricao": "Atividades envolvendo: Redes sociais, Blog e Conteúdos Educacionais Digitais"
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Doutorado Sanduiche",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+                "ano_inicio": 2011,
+                "ano_fim": 2015,
+                "funcao": "bolsista",
+                "vinculo": "bolsista",
+                "descricao": "Bolsa de doutorado pelo PósCom/UFBA"
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "ano_inicio": 2011,
+                "ano_fim": 2011,
+                "funcao": "bolsista",
+                "vinculo": "bolsista",
+                "descricao": "Bolsa de Apoio a Difusão do Conhecimento do CNPq - Nível A (ADC-A). Projeto de Pesquisa e Extensão Labdebug: Mulheres e Tecnologia. Teorias e Práticas na cultura digital, coordenado pelas Profs. Karla Brunet e Graciela Natansohn"
+            },
+            {
+                "empresa": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                "ano_inicio": 2008,
+                "ano_fim": 2010,
+                "funcao": "bolsista de mestrado",
+                "vinculo": "bolsista",
+                "descricao": "bolsa de mestrado pelo PósCom/UFBA"
+            },
+            {
+                "empresa": "Revista Espírito Livre",
+                "ano_inicio": 2009,
+                "ano_fim": 2011,
+                "funcao": "Produtora de Conteúdo",
+                "vinculo": "Responsável pela seção \"Notícias\" em coautoria com João Fernando Costa na Edição 25 de Abril de 2011; Responsável pela seção \"Agenda\" da Edição 18 - Setembro de 2010; Autora de artigos: Edição 14 - Maio de 2010",
+                "descricao": "Edição 10 - Janeiro de 2010, Edição 06 de Setembro 2009, Edição 08 de Novembro de 2009. www.revista.espiritolivre.org/ INSS Nº 2236-031X"
+            },
+            {
+                "empresa": "Universitat de Barcelona",
+                "ano_inicio": 2013,
+                "ano_fim": 2013,
+                "funcao": "Investigadora Visitante",
+                "vinculo": "Pesquisadora Visitante",
+                "descricao": "Atuou como pesquisadora visitante no grupo de pesquisa COPOLIS. Bienestar, Comunidad y Control Social da Universtat de Barcelona sob a supervisão da professora doutora Núria Vergés Boch"
+            },
+            {
+                "empresa": "Centro Universitário Estácio da Bahia",
+                "ano_inicio": 2015,
+                "ano_fim": 2019,
+                "funcao": "Professora Títular III",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Superintendência de Educação a Distância da UFBA",
+                "ano_inicio": 2018,
+                "ano_fim": 2018,
+                "funcao": "Professor Formador I",
+                "vinculo": "Bolsista",
+                "descricao": "Docente Orientador(a) para a disciplina EDCJ77 - Trabalho de Conclusão de Curso (TCC) do curso de Especialização Lato sensu em Produção de Mídias para Educação Online, na modalidade a distância (EaD). Atuação em atividades típicas de ensino, participantes de projetos de pesquisa e de desenvolvimento de metodologias de ensino na área de formação inicial e continuada de professores de educação básica no âmbito do Sistema UAB. Aprovada via seleção pública de docentes pelo EDITAL No 07/2018 da SUPERINTENDÊNCIA DE EDUCAÇÃO A DISTÂNCIA - SEAD/UFBA"
+            },
+            {
+                "empresa": "SENAI - Departamento Regional da Bahia",
+                "ano_inicio": 2019,
+                "ano_fim": 2022,
+                "funcao": "Professora",
+                "vinculo": "Prestação de serviço",
+                "descricao": "2019: 3 turmas de Fundamentos de Web Design: 67919; 68695; 66721. 2022: 2 turmas de IHC; 1 turma de TCC; 1 turna de ITI (novo ensino médio)"
+            },
+            {
+                "empresa": "Unidade Acadêmica de Educação a Distância da Universidade do Estado da Bahi",
+                "ano_inicio": 2020,
+                "ano_fim": 2023,
+                "funcao": "Tutora a distância",
+                "vinculo": "Bolsista",
+                "descricao": "EDITAL N 077/2019Curso: Licenciatura em Ciência da Computação. Pólo: Salvador - transferida para IpiaúBolsista pela UAB"
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2021,
+                "ano_fim": 2023,
+                "funcao": "Professor Substituto",
+                "vinculo": "Servidor público",
+                "descricao": "Início em 12/11, 6 meses e prorrogado até 11/11/23"
+            },
+            {
+                "empresa": "Universidade Federal do Cariri",
+                "ano_inicio": 2024,
+                "ano_fim": null,
+                "funcao": "Tutora a distância UAB",
+                "vinculo": "Bolsista",
+                "descricao": "Curso Superior De Tecnologia Em Análise e Desenvolvimento De Sistemas ADS, Na Modalidade A Distância Da UFCA regido Pelo Edital 09/2024 - https://www.ufca.edu.br/cursos/graduacao/ads/COMPONENTE CURRICULAR: ADS0023 - Segurança, testes e validação de sistemas"
+            }
+        ],
+        "direcao_administracao": ": Colivre - Cooperativa de Tecnologias Livres\nConselho Administrativo (2007 - 2008) : Membro Do Conselho Administrativo - Secretária.\nSetor de Sustentabilidade Humana (2006 - 2007) : Coordenação De Setor.\nNúcleo de Pesquisa da Estácio - BA (2019): Tecnologia da Informação; Interação Humano-máquina;,\nNúcleo de Pesquisa da Estácio - BA (2018 - 2019): Cultura Digital, Publicidade e Gênero, Economia Criativa,\nNúcleo de Pesquisa da Estácio - BA (2018 - 2019): Economia criativa; Gênero e Publicidade e propaganda,",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (2022 - 2023) .\nGraduacao (2021 - 2023) - Licenciatura Em Ciência Da Computação.\nExtensão Universitária: Universidade Federal da Bahia\nUniversidade Federal da Bahia: Apoio Da Organização, Instrutora Do Curso De Twiki, Mantenedora Do Site Oficial Da Iii Semana De Software Livre Da Faculdade De Educação Da Ufba (2007 - 2007) - Apoio Da Organização, Instrutora Do Curso De Twiki, Mantenedora Do Site Oficial Da Iii Semana De Software Livre Da Faculdade De Educação Da Ufba.\nUniversidade Federal da Bahia: Instrutora No Curso De Twiki Na I Semana De Software Livre Da Faculdade De Educação Da Ufba (2005 - 2005) - Instrutora No Curso De Twiki Na I Semana De Software Livre Da Faculdade De Educação Da Ufba.\nUniversidade Federal da Bahia: Instrutora No Curso De Twiki Na Ii Semana De Sofware Livre Da Faculdade De Educação Da Ufba (2005 - 2005) - Instrutora No Curso De Twiki Na Ii Semana De Sofware Livre Da Faculdade De Educação Da Ufba.\nUniversidade Federal da Bahia: Atividade Curricular Em Comunidade: Mat456 - Integrando A Tv - Escola Com A Internet&#10;através De Projetos Escolares (2004 - 2005) - Atividade Curricular Em Comunidade: Mat456 - Integrando A Tv - Escola Com A Internet&#10;através De Projetos Escolares.\nUniversidade Federal da Bahia: Organização E Curso De Twiki No Ii Festival De Software Livre Da Bahia (2004 - 2005) - Organização E Curso De Twiki No Ii Festival De Software Livre Da Bahia.\nUniversidade Federal da Bahia: Monitora No Curso De Informática Básica Com Software Livre Para Alunos Da Eletrocooperativa (2004 - 2004) - Monitora No Curso De Informática Básica Com Software Livre Para Alunos Da Eletrocooperativa.\nTreinamento Ministrado: União de Moradores do Bairro de Sussuarana\nBiblioteca Comunitária (2004 - 2005) - Biblioteca Comunitária - Técnico em informática.\nTreinamento Ministrado: Colivre - Cooperativa de Tecnologias Livres\nSetor De Capacitação E Migração (2006 - 2008) - Setor De Capacitação E Migração - Técnica em Informática.",
+        "comissoes": ": Centro Universitário Estácio da Bahia\nIntegrante Do Nde Dos Cursos De Ti E De Comunicação (2015).",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Do MEB a WEB: o rádio e a educação - parte dois",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz",
+                    "Nelson De Luca Pretto",
+                    "Adriana Do Nascimento Cerqueira"
+                ],
+                "financiador": ", Conselho Nacional de Desenvolvimento Científico e Tecnológico, ,",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Educação, Mídias e Software Livre",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz",
+                    "Nelson De Luca Pretto",
+                    "Dart Clea Rios Andrade Araújo",
+                    "Fabricio Araújo De Santana"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2006,
+                "ano_fim": 2007
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "A Web 2.0, a produção colaborativa e commons: estudo de caso do YouTube",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz"
+                ],
+                "financiador": "Conselho Nacional de Desenvolvimento Científico e Tecnológico,",
+                "ano_inicio": 2008,
+                "ano_fim": 2010
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Gênero e Tecnologia: mulheres e empoderamento na comunidade software livre do Brasil",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz"
+                ],
+                "financiador": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,",
+                "ano_inicio": 2011,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "PIBIEX Tessituras 2021-2022: Segurança Digital para Mulheres e Ativistas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz",
+                    "Paul Denis Etienne Regnier",
+                    "Débora Abdalla Santos",
+                    "Juliana Maria Oliveira Dos Santos",
+                    "Jéssica Ellen Miranda Barbosa",
+                    "Paula Da Cunha Vilas Boas"
+                ],
+                "financiador": "Universidade Federal da Bahia,",
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Projeto Meninas Digitais - Regional Bahia",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz",
+                    "Débora Abdalla Santos",
+                    "Juliana Maria Oliveira Dos Santos",
+                    "Ecivaldo De Souza Matos",
+                    "Marlo Vieira Dos Santos E Souza"
+                ],
+                "financiador": "Pro-reitoria de Pesquisa,",
+                "ano_inicio": 2022,
+                "ano_fim": null
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Panorama dos Golpes Digitais na Pandemia da Covid-19: Técnicas, Estratégias E Impactos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz",
+                    "Débora Abdalla Santos"
+                ],
+                "ano_inicio": 2021,
+                "ano_fim": 2022
+            },
+            {
+                "instituicao": "Centro Universitário Estácio da Bahia",
+                "nome": "A Representação da Mulher e o Discurso do Empoderamento Feminino na Publicidade Brasileira",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Mônica De Sá Dantas Paz",
+                    "Tiana Vasconcelos Da Silva Dias"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "BAHIA",
+                    "evento": "Sil,  NATANSOHN, L. Graciela,  PAZ, Mônica de Sá Dantas,  BRUNO, Fernanda,  QUEIROZ, Mari,  LEBLANC, Paola Barreto,  FIRMINO, Rodrigo,  VI Simpósio Internacional LAVITS ? ASSIMETRIAS E (IN)VISIBILIDADES: VIGILÂNCIA, GÊNERO E RAÇA",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Rede LAVITS, IHAC/UFBA e GIG@/UFBA."
+                },
+                {
+                    "autores": "PAZ",
+                    "evento": "Mônica de Sá Dantas,  FERREIRA, S. R.,  Coordenação de Comunicação do VI Simpósio Internacional LAVITS ? ASSIMETRIAS E (IN)VISIBILIDADES: VIGILÂNCIA, GÊNERO E RAÇA",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Rede LAVITS, IHAC/UFBA e GIG@/UFBA."
+                },
+                {
+                    "autores": "PAZ",
+                    "evento": "M. S. D.,  22º Encontro Anual da COMPÓS - Associação Nacional de Programas de Pós-Graduação em Comunicação",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "COMPÓS - Associação Nacional de Programas de Pós-Graduação em Comunicação."
+                },
+                {
+                    "autores": "RIBEIRO",
+                    "evento": "J. C.,  SOUSA, P. V. B.,  MIRANDA, T. B.,  PAZ, M. S. D.,  SIMSOCIAL? Simpósio em Tecnologias Digitais e Sociabilidade: Performances Interacionais e Mediações Sociotécnicas",
+                    "ano": "2013",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "GITS ? Grupo de Pesquisa em Interações, Tecnologias Digitais e Sociedade da UFBA."
+                },
+                {
+                    "autores": "RIBEIRO",
+                    "evento": "J. C.,  MIRANDA, T. B.,  SOARES, A. T.,  PAZ, M. S. D.,  SIMSOCIAL- Simpósio de Pesquisa em Tecnologias Digitais e Sociabilidade",
+                    "ano": "2012",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "GITS ? Grupo de Pesquisa em Interações, Tecnologias Digitais e Sociedade da UFBA."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [
+            {
+                "autores": "PAZ, Mônica",
+                "titulo": "Webdesign",
+                "ano": "2021",
+                "informacoes_adicionais": "Varios. ISBN: 9786555179378, Curitiba (Publicado)."
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "Ciberfeminismos 3.0. Título do capítulo: A pesquisa em gênero e software livre: um percurso pelos eventos WSL e WIT",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9789896546977, Covilhã."
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Análise de Discurso em Rede: cultura e mídia. Título do capítulo: Golpes Digitais de Engenharia Social na Panademia da COVID-19 no Brasil",
+                "ano": "2021",
+                "informacoes_adicionais": "ISBN: 9786556372983, Campinas, SP."
+            },
+            {
+                "autores": "NATANSOHN, L. Graciela",
+                "titulo": "PAZ, Mônica;  Acerca de la apropiación de tecnologías : teoría, estudios y debates. Título do capítulo: Entre usos y apropiaciones de tecnología digital: ciberfeminismos contemporáneos",
+                "ano": "2018",
+                "informacoes_adicionais": "ISBN: 9789874664730, Buenos Aires."
+            },
+            {
+                "autores": "CARRERA, F. A. S.",
+                "titulo": "PAZ, M. S. D.;  Práticas Interacionais em Rede. Título do capítulo: Capital Social, Ethos e Gerenciamento de Impressões de Redes Sociais Temáticas: o caso Skoob",
+                "ano": "2014",
+                "informacoes_adicionais": "ISBN: 9788523200000, Salvador."
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Internet em código feminino. Teorias e práticas. Edição revista e ampliada.. Título do capítulo: A divisão digital de gênero no movimento software livre do Brasil",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9789876012065, Buenos Aires."
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Internet en código femenino. Teorías y prácticas.. Título do capítulo: La brecha digital de género en el movimento software libre del Brasil",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9789876012058, Buenos Aires."
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Internet en código femenino. Teorías y prácticas. E-pub. Título do capítulo: La brecha digital de género en el movimento software libre del Brasil",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9789876012072, Buenos Aires."
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Internet em código feminino. Teorias e práticas. Edição revista e ampliada. E-pub. Título do capítulo: A divisao digital de gênero no movimento software livre do Brasil",
+                "ano": "2013",
+                "informacoes_adicionais": "ISBN: 9789876012072, Buenos Aires."
+            },
+            {
+                "autores": "PRETTO, N. L.",
+                "titulo": "BONILLA, M. H.;  SANTANA, F. A.;  GONCALVES, B.;  MELLO, H.;  PAZ, M. S. D.;  Do MEB à WEB: o rádio na Educação. Título do capítulo: Soluções em software livre para rádio web",
+                "ano": "2010",
+                "informacoes_adicionais": "ISBN: 9788575264, Belo Horizonte."
+            }
+        ],
+        "artigos": [
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "SANTOS, J. M. O.;  BARBOSA, J. E. M.;  VILAS BOAS, P. C.;  SANTOS, D. A.;  Perdi Meu Celular: relato de experiência de um minicurso do Grupo Meninas Digitais - Regional Bahia",
+                "ano": "2023",
+                "periodico": "EXPRESSA EXTENSÃO. ISBN: 23588195   ."
+            },
+            {
+                "autores": "ALMEIDA, M. G. G.",
+                "titulo": "PAZ, M. S. D.;  O Ambiente Virtual de Aprendizagem Moodle como suporte para a mediação da informação na Biblioteca Universitária",
+                "ano": "2022",
+                "periodico": "Revista da ABMG: Biblio em Debate/Associação dos Bibliotecários de Minas Gerais. ISBN: 9999999X   ."
+            },
+            {
+                "autores": "NATANSOHN, L. Graciela",
+                "titulo": "PAZ, Mônica de Sá Dantas;  Ciberfeminismos contemporáneos, entre usos y apropiaciones",
+                "ano": "2019",
+                "periodico": "CADERNOS PAGU. ISBN: 18094449   ."
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Entre o movimento de mulheres da/nas TIC?s e os feminismos: uma análise do grupo /MNT ? Mulheres na Tecnologia",
+                "ano": "2015",
+                "periodico": "CONTEMPORANEA (UFBA. ONLINE). ISBN: 18099386   ."
+            },
+            {
+                "autores": "SILVA, M. A. S.",
+                "titulo": "PAZ, M. S. D.;  Distribuição gratuita de música digital como dádiva no ciberespaço",
+                "ano": "2012",
+                "periodico": "ANIMUS (SANTA MARIA. ONLINE). ISBN: 21754977   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "PROTOTIPAÇÃO COM FIGMA NO ENSINO DO PROJETO DE SOFTWARE EDUCACIONAL",
+                "evento": "III Congresso Brasileiro Online de Ensino",
+                "local": "Pesquisa e Extensão,",
+                "ano": "2024"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "UM RELATO DE EXPERIÊNCIA DE TUTORIA NA JORNADA DO ESTAGIÁRIO EM LICENCIATURA EM CIÊNCIA DA COMPUTAÇÃO",
+                "evento": "II Congresso Brasileiro Online de Ensino",
+                "local": "Pesquisa e Extensão,",
+                "ano": "2023"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "SANTOS, JULIANA MARIA OLIVEIRA DOS; BARBOSA, JÉSSICA ELLEN MIRANDA; BOAS, PAULA DA CUNHA VILAS; ABDALLA, DÉBORA; PERDI MEU CELULAR: RELATO DE EXPERIÊNCIA DE UM MINICURSO DO MENINAS DIGITAIS - REGIONAL BAHIA",
+                "evento": "Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia",
+                "local": "Online",
+                "ano": "2022"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "Segurança da Informação e comunicação organizacional frente a pandemia da COVID-19",
+                "evento": "V Congresso de Comunicação da UNINTER: ajustamentos comunicativos em tempos incomuns",
+                "local": "Curitiba",
+                "ano": "2020"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "Os Golpes Digitais como mais um Riscona Pandemia da COVID-19: relatos e impactos sobre a segurança da informação",
+                "evento": "Encontro Virtual da ABCiber - Associação Brasileira de Pesquisadores em Cibercultura",
+                "local": "",
+                "ano": "2020"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "SANTOS, C",
+                "evento": "E. F.; O fenômeno dos golpes digitais de engenharia social e do vazamento de dados pessoais na pandemia da COVID-19. XIII Simpósio Nacional da ABCiber - Associação Brasileira de Pesquisadores em Cibercultura",
+                "local": "Online",
+                "ano": "2020"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "DIAS, T",
+                "evento": "V. S.; A REPRESENTAÇÃO DAS MULHERES",
+                "local": "O DISCURSO DO EMPODERAMENTO FEMININO E AS REPERCUSSÕES NAS REDES SOCIAIS DAS MARCAS AVON E O BOTICÁRIO. XI Seminário de Pesquisa da Estácio, Rio de Janeiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "MORAIS, M",
+                "evento": "O.; NARRATIVAS TRANSMÍDIA: DO UNIVERSO CINEMATOGRÁFICO À ONIPRESENTE MARVEL?S AGENTS OF S.H.I.E.L.D. XI Seminário de Pesquisa da Estácio",
+                "local": "Rio de Janeiro",
+                "ano": "2019"
+            },
+            {
+                "autores": "MORAIS, M. O.",
+                "titulo": "PAZ, M",
+                "evento": "S. D.; A NARRATIVA TRANSMÍDIA DA MARVEL: A FIXAÇÃO DA MARCA ATRAVÉS DA SÉRIE AGENTS OF S.H.I.E.L.D.. I Seminário de Narrativas Seriadas em Games",
+                "local": "Televisão e Transmídia - Seriais,, Salvador-BA",
+                "ano": "2019"
+            },
+            {
+                "autores": "NATANSOHN, L. Graciela",
+                "titulo": "PAZ, Mônica; Entre usos y apropiaciones de tecnología digital: ciberfeminismos contemporáneos",
+                "evento": "XXVII Encontro Anual da Compós",
+                "local": "Belo Horizonte",
+                "ano": "2018"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "Mulheres que fomentam a perspectiva de gênero no movimento software livre do Brasil",
+                "evento": "X Seminário de Pesquisa da Estácio",
+                "local": "Rio de Janeiro",
+                "ano": "2018"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "LUCAS, Marcos Felipe Oliveira; O Uso da Ficção para Entender a Indústria Cultural e os Produtos Formatados para o Consumo das Massas",
+                "evento": "IV Congresso Internacional sobre Culturas - Memória e Sensibilidade: Cenários da experiência cultural contemporânea",
+                "local": "Cachoeira-BA",
+                "ano": "2018"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "As mulheres da comunidade software livre do Brasil convidam para uma roda de conversa sobre as desigualdades de gênero da TI",
+                "evento": "Encontro da Rede Feminista Norte e Nordeste de Estudos e Pesquisas sobre Mulher e Relações de Gênero",
+                "local": "Salvador-BA",
+                "ano": "2018"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "Ciberfeminismos na comunidade software livre do Brasil",
+                "evento": "13º Congresso Mundo de Mulheres & Seminário Internacional Fazendo Gênero 11",
+                "local": "Florianópolis",
+                "ano": "2017"
+            },
+            {
+                "autores": "PAZ, Mônica de Sá Dantas",
+                "titulo": "MULHERES E SOFTWARE LIVRE NO BRASIL: COMO ELAS ESTÃO HACKEANDO ESTE MOVIMENTO",
+                "evento": "ABCiber 10 - X SIMPÓSIO NACIONAL DA ABCIBER",
+                "local": "São Paulo - SP",
+                "ano": "2017"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "O Software Livre enquanto Bandeira do Movimento de Mulheres na TI",
+                "evento": "Workshop de Software Livre",
+                "local": "Porto Alegre",
+                "ano": "2015"
+            },
+            {
+                "autores": "NATANSOHN, L. Graciela",
+                "titulo": "BRUNET, K",
+                "evento": "S.; PAZ",
+                "local": "M. S. D.; A cultura digital: uma questão de gênero. IX ALAIC - Associação Latinoamericada de investigadores de la Comunicación, Montevideu",
+                "ano": "2012"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Gênero e Comunidade Software Livre Brasileira: considerações iniciais",
+                "evento": "XVII Simpósio Baiano de Pesquisadoras(es) sobre mulheres e relações de gênero",
+                "local": "Salvador",
+                "ano": "2012"
+            },
+            {
+                "autores": "CARRERA, F. A. S.",
+                "titulo": "PAZ, M",
+                "evento": "S. D.; Capital Social",
+                "local": "Ethos e Gerenciamento de Impressões em Redes Sociais Temáticas: o caso Skoob. SIMSOCIAL- Simpósio de Pesquisa em Tecnologias Digitais e Sociabilidade, Salvador",
+                "ano": "2012"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Controvérsias da cadeia produtiva do Software Livre na perspectiva da Teoria Ator-Rede",
+                "evento": "VI Simpósio Nacional da Abciber",
+                "local": "Novo Hamburgo",
+                "ano": "2012"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Gênero e o movimento software livre no Brasil: conhecendo alguns grupos de mulheres",
+                "evento": "5º Congresso de Estudantes de Pós-graduação em Comunicação ? UFF | UFRJ | UERJ | PUC-RIO",
+                "local": "Niterói",
+                "ano": "2012"
+            },
+            {
+                "autores": "NATANSOHN, L. G.",
+                "titulo": "BRUNET, K",
+                "evento": "S.; PAZ",
+                "local": "M. S. D.; Mulheres na Cultura Digital: perspectivas e desafios. Intercom ? Sociedade Brasileira de Estudos Interdisciplinares da Comunicação - XIII Congresso de Ciências da Comunicação na Região Nordeste, Maceió",
+                "ano": "2011"
+            },
+            {
+                "autores": "SILVA, M. A. S.",
+                "titulo": "PAZ, M",
+                "evento": "S. D.; Distribuição Musical Gratuita como Dádiva no Ciberespaço. IV Simpósio Nacional da Abciber",
+                "local": "Rio de Janeiro",
+                "ano": "2010"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "PRETTO, N",
+                "evento": "D. L.; Rádio Web como elemento de inclusão sócio-digital e possibilidades da TV digital",
+                "local": "aliados ao Software Livre. XXVI Seminário Estudantil de Pesquisa da UFBA, Salvador",
+                "ano": "2007"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "Rádio Web, porque, como e quando",
+                "evento": "Seminário Estudantil de Pesquisa da UFBA",
+                "local": "Salvador",
+                "ano": "2006"
+            },
+            {
+                "autores": "PAZ, M. S. D.",
+                "titulo": "PRETTO, N",
+                "evento": "D. L.; Rádio Web: porque",
+                "local": "como e quando. XXV Seminário Estudantil de Pesquisa da UFBA, Salvador",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ana Paula Rocha do Bomfim",
+                "titulo": "Animações: uma ferramenta de incremento à atuação discente",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Camyla Carneiro de Alcântara",
+                "titulo": "Podcast como uma mídia inovadora para inserção no curso de tecnologia em segurança pública",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Inês Teresa Lyra Gaspar da Costa",
+                "titulo": "A utilização do podcast nos ambientes virtuais como ferramenta para fomentar a interatividade entre os sujeitos da aprendizagem",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Jussara Borges",
+                "titulo": "Design Educacional para a promoção de competências infocomunicacionais na educação online",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Laís Rocha de Almeida",
+                "titulo": "Podcast como ferramenta de ensino na Educação à Distância: relato sobre a produção da mídia podcast",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Lorena de Andrade Pinho",
+                "titulo": "O AVA como instrumento de aprendizagem aplicado na modalidade presencial: uma proposta para interação das tecnologias digitais nos modelos tradicionais",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Maria da Graça Gomes Almeida",
+                "titulo": "O Ambiente Virtual de Aprendizagem Moodle como suporte para a mediação da informação na biblioteca universitária: o AVA do Núcleo SIBI-EaD/UFBA",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Felipe Bruno Martins Fernandes",
+                "titulo": "As videoaulas como ferramentas acessórias à leitura de textos complexos: estudo de caso a partir do curso de extensão à distância Pensamento Lésbico Contemporâneo",
+                "ano": "2018",
+                "curso": "Especialização em Produção de Mídias para a Educação Online",
+                "instituicao": "Universidade Federal da Bahia"
+            },
+            {
+                "orientando": "Marcos Felipe Oliveira Lucas",
+                "titulo": "O uso da ficção para entender a indústria cultural e os produtos adaptativos para o consumo das massas",
+                "ano": "2018",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Heitor Bruno Casais Fernandes dos Santos",
+                "titulo": "A produção cultural diante da tradição popular: o caso do carnaval de Maragojipe",
+                "ano": "2018",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Thamires Dias dos Santos",
+                "titulo": "Marketing de Influência e a representatividade dos cabelos crespos e cacheados",
+                "ano": "2018",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Icaro Vinicius Sukerman Vieira",
+                "titulo": "Brand Equity: estudo de caso do fenômeno Fitdance",
+                "ano": "2018",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Ronan de Jesus Nascimento",
+                "titulo": "Análise do marketing digital da campanha eleitoral do candidato Jeferson Andrade à Prefeitura de Madre de Deus",
+                "ano": "2018",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Gleisson Ricardo Santos Matos",
+                "titulo": "Desenvolvimento de aplicativo de mobilidade para automatizar a busca e solicitação de reboques e mecânicos",
+                "ano": "2018",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Tiago Henrique Galdino",
+                "titulo": "Fatores decisivos na escolha de um bar",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Diogo da Conceição Andrade dos Santos",
+                "titulo": "Inbound Marketing: como essa metodologia pode trazer resultados para instituições de ensino superior",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Rafael Neves dos Santos",
+                "titulo": "O marketing com propósito da Euzaria: clientes x apaixonados pela marca",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Helen Evangelista da Silva Lima",
+                "titulo": "A força do marketing no varejo supermercadista: o desconto promocional progressivo do Extra",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Raphael Louzado de Souza",
+                "titulo": "O papel da produção no meio publicitário: o caso Trident",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Ademir Tadeu S",
+                "titulo": "Chagas e Nelson Aragão Neto.  Estudo de Caso do Uso de Tecnologia Mobile no Combate ao Foco do Mosquito Aedes Aegypti: o aplicativo Mosquito Zero",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Ademir Gomes Brandão Junior e Teuassuri Gomes Cardoso",
+                "titulo": "Escola Smart",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Adriano Humberto de Oliveira Maia",
+                "titulo": "Análise da Implantação das Boas e Melhores Práticas da Gestão de Serviços em TI (ITIL) em uma Empresa de Tecnologia com Foco em Seus Colaboradores",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Ian Ralie Barbosa Ferreira",
+                "titulo": "As Estratégias de Marketing Esportivo nas Mídias Digitais: empresas de bebidas alcoólicas e esporte",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Jatel da Silva Barbosa",
+                "titulo": "A Influência Canina no Mundo Digital",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "João Paulo Paim Leão e Rodrigo Santos Santana,",
+                "titulo": "Segurança no E-Commerce: nível de segurança dos estudantes de SI do Centro Universitário Estácio da Bahia",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Laíse Lima Freire Melo",
+                "titulo": "Pepsico e Propaganda Infantil: suas mudanças, uma questão de Linguagem ou Novos Hábitos de Consumo?",
+                "ano": "2017",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Savyo Moreira",
+                "titulo": "Sistema de Divulgação e Localização de Profissionais e Serviços",
+                "ano": "2017",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Roberta Albertina Pereira Souza",
+                "titulo": "A narrativa transmídia da estratégia de comunicação da campanha #zicazero",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "Luana Soares Alves Picanço",
+                "titulo": "PARCERIAS COM YOUTUBERS COMO ESTRATEGIAS DAS MARCAS PARA ALCANÇAR O CONSUMIDOR 3.0 - O CASO ARIEL POWER LIQUID",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "Marcelo Almeida de Lima",
+                "titulo": "A cultura urbana do Hip Hop na comunicação de massa",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "Taís Danasceno Freire",
+                "titulo": "A publicidade informal utilizada pelos vendedores ambulantes em ônibus de Salvador: análise dos influenciadores de consumo na decisão de compra",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "Rafaela Martins Gomes Borges Brandão",
+                "titulo": "Um olhar sobre a representação da mulher negra na publicidade: o caso Avon",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Vânia Oliveira Alves de Figueredo",
+                "titulo": "Marketing de relacionamento: estratégias de fidelização da Produtora Diva e seu aplicativo mobile de clube de benefícios",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "José Benedito Alves Junior",
+                "titulo": "Publicidade de brinquedos na televisão brasileira",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "Alan Silva Herculano",
+                "titulo": "Comportamento do consumidor - novas estratégias de marketing através de influenciadores digitais. Estudo de caso: @ThayanaraOG",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            },
+            {
+                "orientando": "Voldinei Nunes dos Santos",
+                "titulo": "O Processo de Implantação de CRM para Otimizar Marketing de Relacionamento de pequenas e médias empresa: o caso da Ótica Paraguassu",
+                "ano": "2016",
+                "curso": "Sistemas de Informação",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Ederaldo José de Freitas",
+                "titulo": "A técnica de storytelling aplicada na Publicidade",
+                "ano": "2016",
+                "curso": "Publicidade e Propaganda",
+                "instituicao": "Centro Universitário Estácio da Bahia"
+            },
+            {
+                "orientando": "Jeferson dos Santos Souza",
+                "titulo": "O MOBILE MARKETING COMO VERTENTE DO MARKETING 3.0",
+                "ano": "2016",
+                "curso": "Comunicação Social - Publicidade e Propaganda",
+                "instituicao": "Centro Universitário da Bahia"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "latino hispanic",
+        "raca_ibge": "Parda",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 10.657299041748047,
+            "indian": 5.47379732131958,
+            "black": 3.3706111907958984,
+            "white": 10.742341041564941,
+            "middle eastern": 3.547159433364868,
+            "latino hispanic": 66.20879364013672
+        }
+    }
+}

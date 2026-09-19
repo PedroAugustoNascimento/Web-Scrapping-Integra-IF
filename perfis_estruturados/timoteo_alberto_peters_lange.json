@@ -1,0 +1,281 @@
+{
+    "campus": "- Campus Porto Alegre",
+    "instituto": "IFRS",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Ciência da Computação",
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "titulo": "Avaliação das Funcionalidades e Desempenho do Modelo de Banco de Dados Virtual",
+                "orientador": "Cesar Augusto Fonticielha De Rose",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Formação Pedagógica de Professores",
+                "instituicao": "QI Escolas e Faculdades",
+                "ano_inicio": 2014,
+                "ano_fim": 2016
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Redes de Computadores e Teleinformática",
+                "instituicao": "Universidade Tecnológica Federal do Paraná",
+                "orientador": "Heitor Silvério Lopes",
+                "ano_inicio": 2000,
+                "ano_fim": 2001
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Tecnológia em Processamento de Dados",
+                "instituicao": "União das Escolas Superiores do Vale do Ivaí",
+                "ano_inicio": 1996,
+                "ano_fim": 1998
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Luterana do Brasil",
+                "ano_inicio": 2004,
+                "ano_fim": 2007,
+                "funcao": "",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Centro Superior de Tecnologia TECBrasil",
+                "ano_inicio": 2008,
+                "ano_fim": 2012,
+                "funcao": "",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "IOB - Publicações Objetivas Informações Jurídicas",
+                "ano_inicio": 2003,
+                "ano_fim": 2010,
+                "funcao": "Coordenador de Informática",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "ViaFlow Consultoria em Tecnologia",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Gerente de Projetos",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "ano_inicio": 2011,
+                "ano_fim": 2013,
+                "funcao": "Pesquisador",
+                "vinculo": "Bolsista",
+                "descricao": ""
+            },
+            {
+                "empresa": "Universidade de Santa Cruz do Sul",
+                "ano_inicio": 2013,
+                "ano_fim": 2014,
+                "funcao": "Professor Horista",
+                "vinculo": "Disciplina: Sistemas Distribuídos",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor Adjunto",
+                "vinculo": "Servidor público",
+                "descricao": "Professor das Disciplinas de Sistemas Operacionais - Curso Superior de Sistemas para InternetEstruturas de Dados II - Curso Superior de Sistemas para InternetLogica de Programação - Técnico em Redes de ComputadoresLinguagem de Programação - Técnico em Redes de Computadores"
+            }
+        ],
+        "direcao_administracao": "",
+        "ensino": "",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul",
+                "nome": "Virtualization",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Timoteo Alberto Peters Lange",
+                    "Miguel Gomes Xavier",
+                    "Paolo Cemim",
+                    "Cesar Augusto Fonticielha De Rose"
+                ],
+                "financiador": "Dell Computadores do Brasil,",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+                "nome": "Virtualização de Banco de dados Removendo o Hypervisor",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Timoteo Alberto Peters Lange"
+                ],
+                "ano_inicio": 2014,
+                "ano_fim": 2018
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [],
+            "apresentacoes_trabalho": [
+                {
+                    "autores": "LANGE",
+                    "titulo": "T. A. P.,  ROSE, C. A. F.,  Otimizando a Gerência de um Banco de Dados em uma Nuvem Computacional",
+                    "ano": "2013",
+                    "instituicao_promotora": "Sociedade Brasileira de Computação - SBC."
+                },
+                {
+                    "autores": "LANGE",
+                    "titulo": "T. A. P.,  CEMIM, P.,  XAVIER, M. G.,  DE ROSE, CESAR A. F.,  Optimizing the Management of a Database in a Virtual Environment",
+                    "ano": "2013",
+                    "instituicao_promotora": "IEEE."
+                },
+                {
+                    "autores": "LANGE",
+                    "titulo": "T. A. P.,  CEMIM, P.,  ROSSI, F. D.,  XAVIER, M. G.,  BELLE, R. L.,  FERRETO, T. C.,  ROSE, C. A. F.,  Performance Evaluation of Virtualization Technologies for Databases in HPC Environments",
+                    "ano": "2012",
+                    "instituicao_promotora": "SBC."
+                }
+            ],
+            "cursos_curta_duracao": [],
+            "organizacao_eventos": [
+                {
+                    "autores": "LANGE",
+                    "evento": "T. A. P.,  IV Olimpíada Brasileira de Informática",
+                    "ano": "2002",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "SBC - Sociedade Brasileira de Computação."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "OLIVEIRA, ALEX MARTINS DE",
+                "titulo": "PETERS LANGE, TIMOTEO ALBERTO;  CATAFESTA, MANUELA;  Digital inclusion in professional education: a case study in the federal network of vocational education.",
+                "ano": "2026",
+                "periodico": "INFORMÁTICA NA EDUCAÇÃO. ISBN: 19821654   ."
+            },
+            {
+                "autores": "DIAS, R.",
+                "titulo": "XAVIER, M. G.;  ROSSI, F. D.;  NEVES, M. V.;  LANGE, T. A. P.;  GIONGO, A.;  DE ROSE, C. A. F.;  TRIPLETT, E. W.;  MPI-blastn and NCBI-TaxCollector: Improving metagenomic analysis with high performance classification and wide taxonomic attachment",
+                "ano": "2014",
+                "periodico": "Journal of Bioinformatics and Computational Biology (Print). ISBN: 02197200   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SILVA, A. C.",
+                "titulo": "PERES, A",
+                "evento": "; LANGE",
+                "local": "T. A. P.; DOLCI, T. S.; BERTAGNOLLI, S. C.; STOCCHERO, C. M. A.; OLIVEIRA, A. M.; CoworkLab: constituindo um espaço de coworking no IFRS Campus Porto Alegre. Mostra de Pesquisa, Ensino e Extensão do Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul ? Campus Porto Alegre, PORTO ALEGRE",
+                "ano": "2024"
+            },
+            {
+                "autores": "MARTINS, M. G.",
+                "titulo": "LANGE, T",
+                "evento": "A. P.; Otimização de software para análise &#64257;logenética ExaML utilizando arquitetura CUDA. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MoExP), Osório",
+                "ano": "2017"
+            },
+            {
+                "autores": "SANTOS, J. S.",
+                "titulo": "LANGE, T",
+                "evento": "A. P.; Identificando Degraus Em Consumos De Energia Elétrica. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MoExP), Osório",
+                "ano": "2016"
+            },
+            {
+                "autores": "R, Betina",
+                "titulo": "G, Tiago; LANGE, T",
+                "evento": "A. P.; Alfabetização e Inclusão Digital. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MOEXP), Osório",
+                "ano": "2015"
+            },
+            {
+                "autores": "Santos, Josué",
+                "titulo": "N, Yuri; LANGE, T",
+                "evento": "A. P.; Desenvolvimento de um sistema de Controle de Frotas. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MOEXP), Osório",
+                "ano": "2015"
+            },
+            {
+                "autores": "S, Mateus",
+                "titulo": "MORANI, E",
+                "evento": "; LANGE",
+                "local": "T. A. P.; Sistema de Dados de Estágio. Mostra de Ensino, Extensão e Pesquisa (MOEXP), Osório",
+                "ano": "2015"
+            },
+            {
+                "autores": "M, Matheus",
+                "titulo": "LANGE, T",
+                "evento": "A. P.; Estudo sobre a Segurança de Dadeois de Dados Clusterizado. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MOEXP), Osório",
+                "ano": "2015"
+            },
+            {
+                "autores": "B, Andre",
+                "titulo": "S, Lucas; G, Tiago; LANGE, T",
+                "evento": "A. P.; Unidade de Saude de Osório: Ncessidde de informção Online. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MOEXP), Osório",
+                "ano": "2015"
+            },
+            {
+                "autores": "C, Marcos",
+                "titulo": "F, Mirian; N, Yuri; LANGE, T",
+                "evento": "A. P.; BasicSkep - Um sistema colaborativo de Preços. Mostra de Ensino",
+                "local": "Extensão e Pesquisa (MOEXP), Osório",
+                "ano": "2014"
+            },
+            {
+                "autores": "LANGE, T. A. P.",
+                "titulo": "ROSE, C",
+                "evento": "A. F.; Otimizando a Gerência de um Banco de Dados em uma Nuvem Computacional. ERAD/RS - Escola Regional de Alto Desempenho",
+                "local": "Porto Alegre",
+                "ano": "2013"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Robson Rodrigues Da Rosa",
+                "titulo": "Sistema de Gestão de Conteúdo (SGC)",
+                "ano": "2021",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            },
+            {
+                "orientando": "Marcelo Gomes Martins",
+                "titulo": "Otimização de software para análise filogenética (ExaML) utilizando a arquitetura CUDA",
+                "ano": "2017",
+                "curso": "Análise e Desenvolvimento de Sistemas",
+                "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+            }
+        ]
+    },
+    "Cor/Raça": {
+        "raca_original": "white",
+        "raca_ibge": "Branca",
+        "confiança": 1.0,
+        "probabilidades_originais": {
+            "asian": 0.008107921108603477,
+            "indian": 0.23822392523288727,
+            "black": 0.008457648567855358,
+            "white": 73.95298767089844,
+            "middle eastern": 19.415428161621094,
+            "latino hispanic": 6.376784801483154
+        }
+    }
+}

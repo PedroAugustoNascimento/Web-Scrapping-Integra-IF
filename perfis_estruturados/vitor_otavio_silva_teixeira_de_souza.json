@@ -1,0 +1,575 @@
+{
+    "campus": "-",
+    "instituto": "IFBA",
+    "dados_gerais": {
+        "formacao": [
+            {
+                "nivel": "Mestrado",
+                "curso": "Profissionalizante Engenharia de Sistemas e Produtos",
+                "instituicao": "Instituto Federal da Bahia",
+                "titulo": "Método e Sistema para Diagnóstico de Arritmias Cardíacas Baseado em Coeficientes de Predição Linear e Rede Neural Convolucional 1D Implementado em Plataforma Esp32",
+                "orientador": "Fabrício Gerônimo Simões Silva",
+                "ano_inicio": 2022,
+                "ano_fim": 2025
+            },
+            {
+                "nivel": "Especialização",
+                "curso": "Automação Industrial",
+                "instituicao": "Universidade Candido Mendes",
+                "ano_inicio": 2017,
+                "ano_fim": 2020
+            },
+            {
+                "nivel": "Graduação",
+                "curso": "Engenharia Eletrica",
+                "instituicao": "Universidade Federal da Bahia",
+                "ano_inicio": 2000,
+                "ano_fim": 2008
+            }
+        ],
+        "atuacoes_profissionais": [
+            {
+                "empresa": "Universidade Federal da Bahia",
+                "ano_inicio": 2005,
+                "ano_fim": 2006,
+                "funcao": "Bolsista Iniciação Científica",
+                "vinculo": "Aluno Graduação",
+                "descricao": ""
+            },
+            {
+                "empresa": "OmegaZero Desenvolvimento de Sistemas Eletronicos",
+                "ano_inicio": 2006,
+                "ano_fim": 2008,
+                "funcao": "ESTÁGIO",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "NNSOLUTIONS DESENVOLVIMENTO DE SISTEMAS INTEGRADOS",
+                "ano_inicio": 2009,
+                "ano_fim": 2013,
+                "funcao": "ENGENHEIRO",
+                "vinculo": "SÓCIO-GERENTE",
+                "descricao": ""
+            },
+            {
+                "empresa": "Imago Desenvolvimento de Produtos Ltda",
+                "ano_inicio": 2010,
+                "ano_fim": 2011,
+                "funcao": "Engenheiro",
+                "vinculo": "Não informado",
+                "descricao": ""
+            },
+            {
+                "empresa": "Alty Engenharia",
+                "ano_inicio": 2012,
+                "ano_fim": 2013,
+                "funcao": "Engenheiro",
+                "vinculo": "Celetista formal",
+                "descricao": ""
+            },
+            {
+                "empresa": "Instituto Federal da Bahia",
+                "ano_inicio": 2014,
+                "ano_fim": null,
+                "funcao": "Professor",
+                "vinculo": "Não informado",
+                "descricao": ""
+            }
+        ],
+        "direcao_administracao": ": Instituto Federal da Bahia\nIFBA - Campus Jacobina - Ba (2019) : Coordenador Do Curso Técnico Em Eletromecânica.\nIFBA - Campus Jacobina - Ba (2018 - 2019) : Coordenador De Estágio.\nENGENHARIA (2012): DISPOSITIVO DE TRANSMISSÃO DE INFORMAÇÕES,\nInstituto Federal da Bahia - Campus Jacobina (2014): Eficiência Energética, Energias Renováveis, Sistemas Embarcados,",
+        "ensino": ": Instituto Federal da Bahia\nEnsino-medio (2014) .",
+        "comissoes": "",
+        "projetos": [
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "Desenvolvimento de Plataforma Experimental para Estudo da Histerese em Materiais Magnéticos",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Nirado Roberto Ferreira",
+                    "Luiz Alberto Luz De Almeida"
+                ],
+                "financiador": "Fundação Escola Politécnica da Bahia,",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "Universidade Federal da Bahia",
+                "nome": "P&D 008 COELBA",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Luiz Alberto Luz De Almeida",
+                    "Antonio Cezar De Castro Lima",
+                    "Gabriel Reboucas Fernandes"
+                ],
+                "financiador": "Companhia de Eletricidade do Estado da Bahia,",
+                "ano_inicio": 2005,
+                "ano_fim": 2006
+            },
+            {
+                "instituicao": "OmegaZero Desenvolvimento de Sistemas Eletronicos",
+                "nome": "PROJETO SISNAD - Sistema Automático para Controle de Inadimplência via PDA (Personal Digital Assistant) para Consumidores de Energia Elétrica",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Luiz Alberto Luz De Almeida",
+                    "Antonio Cezar De Castro Lima"
+                ],
+                "financiador": "Companhia de Energia de Sergipe,",
+                "ano_inicio": 2006,
+                "ano_fim": 2008
+            },
+            {
+                "instituicao": "NNSOLUTIONS DESENVOLVIMENTO DE SISTEMAS INTEGRADOS",
+                "nome": "Sistema Identificador de Ônibus - B4B",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Joselito Dos Santos Lima",
+                    "Leal",
+                    "J. F.",
+                    "Jovelino Torres Dos Santos"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia, Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "NNSOLUTIONS DESENVOLVIMENTO DE SISTEMAS INTEGRADOS",
+                "nome": "Screen Reader Mobile",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Joselito Dos Santos Lima",
+                    "Leal",
+                    "J. F."
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia, Financiadora de Estudos e Projetos,",
+                "ano_inicio": 2011,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Imago Desenvolvimento de Produtos Ltda",
+                "nome": "CICLOELETROERGOMETRO",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Vinicius Do Rêgo Dias"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2010,
+                "ano_fim": 2011
+            },
+            {
+                "instituicao": "Alty Engenharia",
+                "nome": "DISPOSITIVO TRANSMISSOR DE INFORMAÇÃO",
+                "natureza": "Desenvolvimento",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Antonio De Souza Rodrigues Filho"
+                ],
+                "financiador": "Fundação de Amparo à Pesquisa do Estado da Bahia,",
+                "ano_inicio": 2012,
+                "ano_fim": 2013
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Desenvolvimento de Cartão Eletrônico para Aplicação em Sistema Eletromecânico de Reutilização de Águas Residuais Cinzas Oriunda de Atividades Domésticas para o Uso no Sistema de Descarga do Vaso Sanitário",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "William Guterres Oliveira",
+                    "Iago Santos Jesus",
+                    "Andson Barreto Rocha"
+                ],
+                "ano_inicio": 2015,
+                "ano_fim": 2015
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Auditoria Energética de Escolas Públicas",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Beliato Santana Campos",
+                    "Andson Barreto Rocha",
+                    "Raimison Bezerra Assis",
+                    "Rebeca Bastos Silva"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2017,
+                "ano_fim": 2018
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "NORMAS REGULAMENTADORA NO. 10 (NR10) - Normas de Segurança em Instalações e Serviços em Eletricidade",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "William Guterres Oliveira",
+                    "Andson Barreto Rocha",
+                    "Raimison Bezerra Assis"
+                ],
+                "ano_inicio": 2017,
+                "ano_fim": 2017
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto Robótica Educacional como Ferramenta de Difusão das Engenharias no Ensino Fundamental e Médio",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "William Guterres Oliveira",
+                    "Raimison Bezerra Assis",
+                    "Tercio Graciano Machado",
+                    "Jonei Marques Da Costa"
+                ],
+                "ano_inicio": 2018,
+                "ano_fim": 2019
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Construção de um protótipo (robô trilha) para auxiliar profissionais na Mineração",
+                "natureza": "Pesquisa",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Beliato Santana Campos"
+                ],
+                "ano_inicio": 2023,
+                "ano_fim": 2023
+            },
+            {
+                "instituicao": "Instituto Federal da Bahia",
+                "nome": "Projeto Instalação, Coleta de Dados e Análise das Informações de Estação Meteorológica.",
+                "natureza": "Extensão",
+                "equipe": [
+                    "Vitor Otavio Silva Teixeira De Souza",
+                    "Jailton Bezerra Da Mota",
+                    "Lucas De Jesus Oliveira",
+                    "Raíssa Rego De Souza"
+                ],
+                "financiador": "Instituto Federal da Bahia,",
+                "ano_inicio": 2016,
+                "ano_fim": 2017
+            }
+        ]
+    },
+    "producao_tecnica": {
+        "producao_tecnica": {
+            "softwares": [
+                {
+                    "autor": "SOUZA",
+                    "software": "V. O. S. T.,  LIMA, J. S.,  Jorgean Ferreira Leal,  SLEP - SCANNER LEITOR PORTÁTIL",
+                    "ano": "2011",
+                    "finalidade": "Leitura de texto para pessoas com deficiência visual."
+                },
+                {
+                    "autor": "LIMA",
+                    "software": "J. S.,  Jorgean Ferreira Leal,  SOUZA, V. O. S. T.,  ACHY, A. R. A.,  NNS-1",
+                    "ano": "2011",
+                    "finalidade": "Leitura de textos para deficientes visuais através da câmera de smartpones.Tipo: PROGRAMA_DE_COMPUTADOR_PC. Registro: 12914-0."
+                },
+                {
+                    "autor": "SOUZA",
+                    "software": "V. O. S. T.,  Aiese Cruz Barros,  ALICATE REMOTO",
+                    "ano": "2008",
+                    "finalidade": "Aplicativo para Acionamento do Equipamento Alicate Remoto."
+                },
+                {
+                    "autor": "ALMEIDA",
+                    "software": "L. A. L., LIMA, A. C. de C, SOUZA, V. O. S. T., ALICATE REMOTO",
+                    "ano": "2008",
+                    "finalidade": "CONTROLAR O FORNECIMENTO DE ENERGIA DE CONSUMIDORES DE BAIXA POTÊNCIA SEM A NECESSIDADE DE SUBIR AO POSTE."
+                }
+            ],
+            "apresentacoes_trabalho": [],
+            "cursos_curta_duracao": [
+                {
+                    "autor": "SOUZA",
+                    "curso": "V. O. S. T.,  Sistemas Fotovoltaicos, Aquecimento Solar e Fomento Público",
+                    "ano": "2020"
+                }
+            ],
+            "organizacao_eventos": [
+                {
+                    "autores": "CAMPOS",
+                    "evento": "B. S.,  OLIVEIRA, B. I. S.,  SOUZA, V. O. S. T.,  FRANCA, I. C.,  NASCIMENTO, I. S.,  SANTOS, I. G. S. R.,  LIMA, M. F. S.,  LIMA, R. S.,  REIS, A. O.,  Primeira Olimpíada JacMaker - IFBA Jacobina",
+                    "ano": "2025",
+                    "duracao_semanas": "6",
+                    "instituicao_promotora": "Instituto Federal da Bahia - Campus Jacobina."
+                },
+                {
+                    "autores": "SOUZA",
+                    "evento": "V. O. S. T.,  CAMPOS, B. S.,  OLIVEIRA, B. I. S.,  SILVA, R. B.,  PEREIRA, W. S.,  Semana de Ciência Tecnologia do Campus Jacobina",
+                    "ano": "2019",
+                    "duracao_semanas": "1",
+                    "instituicao_promotora": "Instituto Federal da Bahia - Campus Jacobina."
+                }
+            ]
+        }
+    },
+    "producao_bibliografica": {
+        "livros": [],
+        "artigos": [
+            {
+                "autores": "SOUZA, VITOR O. T.",
+                "titulo": "SILVA, FABRÍCIO G. S.;  ARAÚJO, JOSÉ M.;  LIMA, JAIMILTON S.;",
+                "ano": "2025",
+                "periodico": "Signals. ISBN: 26246120   ."
+            }
+        ],
+        "trabalhos_eventos": [
+            {
+                "autores": "SOUZA, V. O. S. T.",
+                "titulo": "CAMPOS, B",
+                "evento": "S.; OLIVEIRA",
+                "local": "M. B. C.; FRANCA, I. C.; DESENVOLVENDO HABILIDADES EM CIÊNCIA DA COMPUTAÇÃO ATRAVÉS DA PROGRAMAÇÃO DE ROBÔS COM O KIT LEGO. XIV CONNEPI - Congresso Norte-Nordeste de Pesquisa e Inovação, Belém",
+                "ano": "2024"
+            },
+            {
+                "autores": "CAMPOS, B. S.",
+                "titulo": "SOUZA, V",
+                "evento": "O. S. T.; FRANCA",
+                "local": "I. C.; OLIVEIRA, A. D. R.; INTEGRAÇÃO DE TECNOLOGIA EDUCACIONAL: A CONSTRUÇÃO DE UM ROBÔ TRILHA PARA ENSINO DE PROGRAMAÇÃO E INICIAÇÃO NA ROBÓTICA. XIV CONNEPI - Congresso Norte-Nordeste de Pesquisa e Inovação, Belém",
+                "ano": "2024"
+            },
+            {
+                "autores": "ARAUJO, L. M.",
+                "titulo": "MONTENEGRO, M",
+                "evento": "C. L.; OLIVEIRA",
+                "local": "B. I. S.; SOUZA, V. O. S. T.; INTELIGÊNCIA ARTIFICIAL EM APLICATIVOS PARA SMARTPHONES COMO FERRAMENTA DE AUXÍLIO A PESSOAS COM DEFICIÊNCIA VISUAL. VII Congresso Nacional de Educação - Conedu, Maceio-AL",
+                "ano": "2021"
+            },
+            {
+                "autores": "SOUZA, A. B. M.",
+                "titulo": "SANTANA JUNIOR, R",
+                "evento": "A.; SOUZA",
+                "local": "V. O. S. T.; CONCEPÇÃO DE UM RASTREADOR SOLAR PARA PAINÉIS FOTOVOLTAICOS. IX Feira Brasileira de Colégios de Aplicação e Escolas Técnicas ? IX Febrat, Belo Horizonte",
+                "ano": "2021"
+            },
+            {
+                "autores": "ARAUJO, H. S. R.",
+                "titulo": "SILVA FILHO, D",
+                "evento": "I. O.; SANTANA",
+                "local": "K. A.; OLIVEIRA, W. A.; SOUZA, V. O. S. T.; MAQUETE DE SEMÁFORO COM FERRAMENTAS ARDUINO E PROTEUS COMO MÉTODO DIDÁTICO DE ENSINO. VI Congresso Nacional de Educação, Fortaleza-Ce",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTANA, K. A.",
+                "titulo": "GOMES, H",
+                "evento": "L.; SOUZA",
+                "local": "V. O. S. T.; PEREIRA, W. S.; MÉTODO DE DESEMPENHO EDUCATIVO: ESTUDO LABORATORIAL DE CONFIABILIDADE EM EQUIPAMENTO ROTATIVO. VI Congresso Nacional de Educação, Fortaleza",
+                "ano": "2019"
+            },
+            {
+                "autores": "SANTANA, K. A.",
+                "titulo": "OLIVEIRA, W",
+                "evento": "A.; ARAUJO",
+                "local": "H. S. R.; SOUZA, V. O. S. T.; BRUNO, I. R. A. S.; A UTILIZAÇÃO DO CLP COMO TECNOLOGIA NO CURSO DE ELETROMECÂNICA DO IFBA-JACOBINA. VI Congresso Nacional de Educação, Fortaleza-Ce",
+                "ano": "2019"
+            },
+            {
+                "autores": "REIS, I. H. S.",
+                "titulo": "SAMPAIO, R",
+                "evento": "B.; CAMPOS",
+                "local": "B. S.; SOUZA, V. O. S. T.; CONSTRUÇÃO DE ESPECTROSCÓPIO DIGITAL DE BAIXO CUSTOPARA O ENSINO DA ASTRONOMIA. VI Congresso Nacional de Educação, Fortaleza-Ce",
+                "ano": "2019"
+            },
+            {
+                "autores": "BRUNO, I. R. A. S.",
+                "titulo": "SANTANA, K",
+                "evento": "A.; OLIVEIRA",
+                "local": "W. A.; SOUZA, V. O. S. T.; IMPLANTAÇÃO DA PLATAFORMA DE ARDUÍNO COMO MÉTODO DE APRENDIZAGEM DOS ALUNOS DO IFBA-JACOBINA. VI Congresso Nacional de Educação, Fortaleza-CE",
+                "ano": "2019"
+            },
+            {
+                "autores": "SOUZA, A. B. M.",
+                "titulo": "FERNANDES, M",
+                "evento": "S.; BONFIM",
+                "local": "J. W. J.; SANTANA JUNIOR, R. A.; SOUZA, V. O. S. T.; Controlador PID em Robô Seguidor de Linha em Plataforma LEGO EV3. II Simpósio de Engenharia, Gestão e Inovação, Águas de Lindoia",
+                "ano": "2019"
+            },
+            {
+                "autores": "SILVA, J. V. T.",
+                "titulo": "SILVA, B",
+                "evento": "S.; MOTA",
+                "local": "J. B.; OLIVEIRA, L. J.; SOUZA, V. O. S. T.; Avaliação de Demanda: Estudo de Caso do Campus IFBA-Jacobina. X Congresso Nacional de Engenharia Mecânica, Salvador-BA",
+                "ano": "2018"
+            },
+            {
+                "autores": "SILVA, J. V. T.",
+                "titulo": "SOUZA, V",
+                "evento": "O. S. T.; AVALIAÇÃO DA CAPTAÇÃO DE ÁGUA DA CHUVA EM TELHADOS: ESTUDO DE CASO INSTITUTO FEDERAL DA BAHIA ? CAMPUS JACOBINA. VIII Congresso Brasileiro de Engenharia de Produção",
+                "local": "Ponta Grossa - PR",
+                "ano": "2018"
+            },
+            {
+                "autores": "SOUZA, V. O. S. T.",
+                "titulo": "CAMPOS, B",
+                "evento": "S.; RIBEIRO",
+                "local": "B. F.; PEREIRA, U. D. S.; ANALISE DE POTENCIAL FOTOVOLTÁICO: ESTUDO DE CASO DO CAMPUS JACOBINA DO IFBA. XI Congresso Norte Nordeste de Inovação Connepi 2016, Maceio - Al",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOUZA, V. O. S. T.",
+                "titulo": "MEDEIROS, P",
+                "evento": "N.; MELO",
+                "local": "T. M. S.; OLIVEIRA, J. V. S.; CONTROLE AUTOMÁTICO DE ALIMENTAÇÃO ANIMAL. XI Congresso Norte Nordeste de Inovação - Connepi 2016, Maceio - Al - Brasil",
+                "ano": "2016"
+            },
+            {
+                "autores": "JESUS, A. Q. P.",
+                "titulo": "OLIVEIRA, W",
+                "evento": "G.; MACHADO",
+                "local": "T. G.; CARLOS, E. M.; Assis, R. B.; SOUZA, V. O. S. T.; PRODUÇÃO DE MATERIAL DA CONSTRUÇÃO CIVIL DE BAIXO IMPACTO AMBIENTAL: APROVEITAMENTO DE RESÍDUOS DA EXTRAÇÃO DE OURO EM PLACAS SOLO-CIMENTO. Congresso Nacional de Engenharia Mecânica, Fortaleza-Ce",
+                "ano": "2016"
+            },
+            {
+                "autores": "Assis, R. B.",
+                "titulo": "MACHADO, T",
+                "evento": "G.; CUNHA",
+                "local": "R. A. D.; OLIVEIRA, W. G.; SOUZA, V. O. S. T.; AVALIAÇÃO MICROESTRUTURAL DE FERRITAS NiFe2O4 e Ni0,25Zn0,75Fe2O4 OBTIDAS PELO MÉTODO DE POLIMERIZAÇÃO DE COMPLEXOS. XI Congresso Norte Nordeste de Pesquisa e Inovação, Maceio-Al",
+                "ano": "2016"
+            },
+            {
+                "autores": "SOUZA, N.",
+                "titulo": "SOUZA, V",
+                "evento": "O. S. T.; SILVA",
+                "local": "D. A. N.; JADIDI, A.; DESENVOLVIMENTO DE UMA BANCADA DIDÁTICA PARA O ENSINO DO MÉTODO DE ELEVAÇÃO ARTIFICIAL DE PETRÓLEO POR BOMBEIO MECÂNICO. COBENGE 2015, SÃO BERNARDO DOS CAMPOS - SP",
+                "ano": "2015"
+            },
+            {
+                "autores": "SANTOS SOBRINHO, M. O.",
+                "titulo": "LIMA, J",
+                "evento": "S.; SOUZA",
+                "local": "V. O. S. T.; FONTES, A. B.; ALMEIDA, L. A. L.; Caracterização de um Módulo Termoelétrico por Modelo paramétrico Bilinear. XVI Congresso Brasileiro de Automática, Salvador",
+                "ano": "2006"
+            }
+        ]
+    },
+    "producao_outra": {
+        "outras_orientacoes": [
+            {
+                "orientando": "Ana Beatriz da Luz Mirandda",
+                "titulo": "Desenvolvimento de um Sistema Eletromecânico para Medição de Angulação Baseado em Sensor MPU-6050",
+                "ano": "2025",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Hugo César Santos Souza Dias",
+                "titulo": "SISTEMA DE ESTUFA SEMI AUTOMATIZADA",
+                "ano": "2025",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Artur dos Santos Nascimento",
+                "titulo": "Estágio Supervisionado na Empresa Compusist Tecnologia Ltda",
+                "ano": "2020",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Almir Abreu Cunha Júnior",
+                "titulo": "Estágio Supervisionado na Empresa Jacobina Mineração e Comércio",
+                "ano": "2019",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Raphael Alexandre de Souza Alves",
+                "titulo": "Estágio Supervisionado na Empresa Coelho Eletricidade",
+                "ano": "2019",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Rubenal Souza da Silva",
+                "titulo": "Estágio Supervisionado na Empresa Technet Informática Ltda",
+                "ano": "2019",
+                "curso": "Tecnologia em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Andrey Rios Viralonga",
+                "titulo": "Robótica Educacional como Ferramenta de Difusão das Engenharias no Ensino Fundamental e Médio",
+                "ano": "2019",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Maria Cléria de Souza Nascimento",
+                "titulo": "Desemvolvimento de Coletor de Sementes de Capim Buffel Utilizando Materiais Recicláveis",
+                "ano": "2019",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "Paulo Vinícius Marinho Silva",
+                "titulo": "Desenvolvimento de Bobina de Tesla Através de Materiais Recicláveis",
+                "ano": "2019",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "João Victor Teixeira Silva",
+                "titulo": "AUDITORIA ENERGÉTICA EM ESCOLAS PÚBLICAS",
+                "ano": "2017",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "RAÍSSA REGO DE SOUZA",
+                "titulo": "Instalação, Coleta de Dados e Análise das Informações da Estação Meteorológica",
+                "ano": "2016",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "DEISE MARIA RÊGO RODRIGUES SILVA",
+                "titulo": "PROJETO ELÉTRICO DOS LABORATÓRIOS DE ELETROMECÂNICA DO CAMPUS IFBA JACOBINA",
+                "ano": "2016",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "UALLAS DIAS DOS SANTOS PEREIRA",
+                "titulo": "PROJETO DE UNIDADE SELETIVA DE LIXO ELETRÔNICO",
+                "ano": "2016",
+                "curso": "Técnico em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "BEATRIZ FERREIRA RIBEIRO",
+                "titulo": "UTILIZAÇÃO DA ENERGIA SOLAR COMO FONTE ALTERNATIVA: AVALIAÇÃO DO POTENCIAL DE GERAÇÃO DE ENERGIA FOTOVOLTAICA DO TELHADO DO IFBA CAMPUS JACOBINA",
+                "ano": "2015",
+                "curso": "Tecnologia em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "DOUGLAS SANTOS RODRIGUES",
+                "titulo": "ANÁLISE DA ILUMINÂNCIA MANTIDA NAS DEPENDÊNCIA DO IFBA ? JACOBINA",
+                "ano": "2015",
+                "curso": "Tecnologia em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "IANKA CARVALHO DOS SANTOS",
+                "titulo": "ANÁLISE DE DESEMPENHO DA PREVISÃO METEOROLÓGICA FORNECIDA POR APLICATIVOS METEOROLÓGICOS",
+                "ano": "2015",
+                "curso": "Tecnologia em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            },
+            {
+                "orientando": "MARIANA CARNEIRO LAGES VILAS BOAS",
+                "titulo": "DIMENSIONAMENTO DE AR CONDICIONADO PARA AS SALAS DE AULA DO IFBA CAMPUS JACOBINA E ANALISE DA VIABILIDADE ECONÔMICA",
+                "ano": "2015",
+                "curso": "Tecnologia em Eletromecânica",
+                "instituicao": "Instituto Federal da Bahia"
+            }
+        ]
+    }
+}

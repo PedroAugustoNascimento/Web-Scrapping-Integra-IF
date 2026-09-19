@@ -65,17 +65,6 @@
             },
             {
                 "instituicao": "Instituto Federal Goiano",
-                "nome": "Busca ativa para o desenvolvimento de ações de extensão do curso de Sistemas de Informação",
-                "periodo": "2024 - 2024",
-                "natureza": "Extensao",
-                "equipe": [
-                    "Cristiane de Fátima dos Santos",
-                    "Junio César de Lima",
-                    "Amaury Walbert de Carvalho"
-                ]
-            },
-            {
-                "instituicao": "Instituto Federal Goiano",
                 "nome": "Plataforma Educacional Online para Apoio ao Ensino Inovador",
                 "periodo": "2024 - 2024",
                 "natureza": "Extensao",
@@ -83,6 +72,17 @@
                     "Cristiane de Fátima dos Santos",
                     "Jean Tomaz da Silva",
                     "Pedro Artur Ferreira dos Santos Costa"
+                ]
+            },
+            {
+                "instituicao": "Instituto Federal Goiano",
+                "nome": "Busca ativa para o desenvolvimento de ações de extensão do curso de Sistemas de Informação",
+                "periodo": "2024 - 2024",
+                "natureza": "Extensao",
+                "equipe": [
+                    "Cristiane de Fátima dos Santos",
+                    "Junio César de Lima",
+                    "Amaury Walbert de Carvalho"
                 ]
             },
             {
@@ -115,9 +115,9 @@
                 "periodo": "2026",
                 "natureza": "Extensao",
                 "equipe": [
-                    "Junio César de Lima",
                     "Cristiane de Fátima dos Santos",
                     "Jucelino Cardoso Marciano dos Santos",
+                    "Junio César de Lima",
                     "Davidson Freitas Nogueira",
                     "Fabio Numes de Paula",
                     "Carlos Alirio Lozano Ortiz"
@@ -129,8 +129,8 @@
                 "periodo": "2011 - 2012",
                 "natureza": "Pesquisa",
                 "equipe": [
-                    "Cristiane de Fátima dos Santos",
                     "Deivid do Vale Nascimento",
+                    "Cristiane de Fátima dos Santos",
                     "Júlio César Ferreira"
                 ]
             }
@@ -247,10 +247,10 @@
                 "ano": "2017"
             },
             {
-                "autores": "PAIS, M. S.",
-                "titulo": "PEREIRA, D",
-                "evento": "F.; R. JUNIOR",
-                "local": "T.; CARDOSO, C. F. S.; SEGMENTAÇÃO DE COBERTURA VEGETAL EM IMAGENS DE SATÉLITE: COMPARAÇÃO ENTRE K-MEANS E ALGORITMOS GENÉTICOS. VI Congresso Estadual de Iniciação Científica e Tecnológica do IF Goiano, Urutaí",
+                "autores": "PEREIRA, D. F.",
+                "titulo": "R",
+                "evento": "JUNIOR",
+                "local": "T.; PAIS, M. S.; CARDOSO, C. F. S.; SEGMENTAÇÃO DE COBERTURA VEGETAL EM IMAGENS DE SATÉLITE: COMPARAÇÃO ENTRE K-MEANS E ALGORITMOS GENÉTICOS. VI Congresso Estadual de Iniciação Científica e Tecnológica do IF Goiano, Urutaí",
                 "ano": "2017"
             },
             {
@@ -405,13 +405,6 @@
                 "instituicao": "Instituto Federal Goiano"
             },
             {
-                "orientando": "Marcelo Corrêa Silva",
-                "titulo": "Desenvolvimento de software para gerenciamento do laboratório de fertilidade do solo e nutrição de plantas do Instituto Federal Goiano ? Câmpus Urutaí",
-                "ano": "2014",
-                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
-                "instituicao": "Instituto Federal Goiano"
-            },
-            {
                 "orientando": "Marco Antônio Queiroz",
                 "titulo": "Sistema de gerenciamento rural para bovinos de leite",
                 "ano": "2014",
@@ -441,6 +434,13 @@
             },
             {
                 "orientando": "Fábio Fernandes Silva e Oliveira",
+                "titulo": "Desenvolvimento de software para gerenciamento do laboratório de fertilidade do solo e nutrição de plantas do Instituto Federal Goiano ? Câmpus Urutaí",
+                "ano": "2014",
+                "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
+                "instituicao": "Instituto Federal Goiano"
+            },
+            {
+                "orientando": "Marcelo Corrêa Silva",
                 "titulo": "Desenvolvimento de software para gerenciamento do laboratório de fertilidade do solo e nutrição de plantas do Instituto Federal Goiano ? Câmpus Urutaí",
                 "ano": "2014",
                 "curso": "Tecnologia em Análise e Desenvolvimento de Sistema",
