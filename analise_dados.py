@@ -7,6 +7,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from sklearn.tree import DecisionTreeClassifier, plot_tree, export_text
+from scipy.stats import chisquare
 
 class AnaliseDadosTCC:
 
@@ -201,7 +202,16 @@ class AnaliseDadosTCC:
         self.carregar_dados()
         if self.df.empty: return
         self.analises_gerais_com_numeros()
-        #self.arvore_decisao_demografica()
+        self.gerar_graficos_analises()
+        self.analisar_cobertura_completa()
+        self.analises_gerais_com_porcentagem()
+        self.gerar_graficos_porcentagem()
+        self.gerar_mapa_composicao_regioes()
+        self.analisar_evolucao_historica_raca()
+        self.comparar_curriculos_todas_racas()
+        self.listar_campi_coletados()
+        self.gerar_mapa_composicao_censo2022()
+        self.teste_qui_quadrado()
         print("\nAnálise Concluída.")
 
     def gerar_graficos_analises(self):
@@ -549,7 +559,7 @@ class AnaliseDadosTCC:
                     # Fonte menor (9) e caixa mais fina (pad=0.3) com fundo preto bem suave (alpha=0.25)
                     ax.text(
                         centro_x, centro_y, texto,
-                        fontsize=9, fontweight='bold', color='white',
+                        fontsize=12, fontweight='bold', color='white',
                         ha='center', va='center',
                         bbox=dict(facecolor='black', alpha=0.25, edgecolor='none', boxstyle='round,pad=0.3')
                     )
@@ -590,10 +600,7 @@ class AnaliseDadosTCC:
         return None
 
     def analisar_evolucao_historica_raca(self):
-            print("\n" + "="*70)
-            print("EVOLUÇÃO HISTÓRICA DE INGRESSO (DE 5 EM 5 ANOS) POR COR/RAÇA")
-            print("="*70)
-            
+
             if self.df.empty:
                 self.carregar_dados()
 
@@ -608,12 +615,8 @@ class AnaliseDadosTCC:
             tab_abs = pd.crosstab(df_tempo['quinquenio'], df_tempo['raca']).reindex(columns=self.CATEGORIAS_RACA, fill_value=0)
             tab_pct = pd.crosstab(df_tempo['quinquenio'], df_tempo['raca'], normalize='index').reindex(columns=self.CATEGORIAS_RACA, fill_value=0) * 100
 
-            # =====================================================================
-            # 1. SALVAR AS TABELAS (PORCENTAGEM E ABSOLUTA)
-            # =====================================================================
             self.exibir_e_salvar_tabela(tab_pct.round(2), "tabela_evolucao_raca_pct", "PORCENTAGEM DE INGRESSO POR PERÍODO (%)")
             
-            # Cria uma cópia para adicionar a coluna "Total" sem atrapalhar o gráfico
             tab_abs_com_total = tab_abs.copy()
             tab_abs_com_total['Total do Período'] = tab_abs_com_total.sum(axis=1)
             self.exibir_e_salvar_tabela(tab_abs_com_total, "tabela_evolucao_raca_absoluta", "NÚMERO ABSOLUTO DE INGRESSANTES POR PERÍODO")
@@ -622,9 +625,9 @@ class AnaliseDadosTCC:
             cores_raca_dict = {'Branca': '#003f5c', 'Parda': '#78529b', 'Preta': '#ef537d', 'Amarela': '#ffa600'}
             cores_raca_lista = [cores_raca_dict.get(r, 'gray') for r in self.CATEGORIAS_RACA]
 
-            # =====================================================================
-            # 2. GRÁFICO DE PORCENTAGEM (LINHAS)
-            # =====================================================================
+            # ---------------------------------------------------------
+            # GRÁFICO 1: EVOLUÇÃO PERCENTUAL
+            # ---------------------------------------------------------
             fig1, ax1 = plt.subplots(figsize=(12, 6))
             
             for raca in self.CATEGORIAS_RACA:
@@ -633,19 +636,22 @@ class AnaliseDadosTCC:
                             label=raca, color=cores_raca_dict.get(raca, 'gray'))
                     
                     for i, valor in enumerate(tab_pct[raca]):
+                        # Aumentado para fontsize 12 e em negrito para melhor visualização
                         ax1.annotate(f'{valor:.1f}%', 
                                     (i, valor), 
                                     textcoords="offset points", 
                                     xytext=(0,10), 
-                                    ha='center', fontsize=9)
+                                    ha='center', fontsize=12, fontweight='bold')
 
-            ax1.set_title('Evolução do Perfil Racial (Ano de Ingresso nos IFs) - %', fontsize=15, fontweight='bold', pad=15)
-            ax1.set_xlabel('Período de Ingresso', fontsize=12)
-            ax1.set_ylabel('Porcentagem das Vagas no Período (%)', fontsize=12)
+            # Títulos e eixos aumentados para manter proporção com os novos labels
+            ax1.set_title('Evolução do Perfil Racial (Ano de Ingresso nos IFs) - %', fontsize=17, fontweight='bold', pad=15)
+            ax1.set_xlabel('Período de Ingresso', fontsize=14)
+            ax1.set_ylabel('Porcentagem das Vagas no Período (%)', fontsize=14)
+            ax1.tick_params(axis='both', which='major', labelsize=12)
             ax1.grid(True, linestyle='--', alpha=0.6)
             
             ax1.set_ylim(0, tab_pct.max().max() + 15) 
-            ax1.legend(title='Cor/Raça', bbox_to_anchor=(1.05, 1), loc='upper left')
+            ax1.legend(title='Cor/Raça', bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=12, title_fontsize=14)
             
             plt.tight_layout()
             caminho_grafico_pct = os.path.join(self.pasta_resultados, 'grafico_evolucao_historica_pct.png')
@@ -654,23 +660,25 @@ class AnaliseDadosTCC:
             
             print(f" -> Gráfico de evolução (%) salvo em: {caminho_grafico_pct}")
 
-            # =====================================================================
-            # 3. GRÁFICO ABSOLUTO (BARRAS EMPILHADAS)
-            # =====================================================================
+            # ---------------------------------------------------------
+            # GRÁFICO 2: EVOLUÇÃO ABSOLUTA (BARRAS)
+            # ---------------------------------------------------------
             fig2, ax2 = plt.subplots(figsize=(12, 6))
             
             tab_abs.plot(kind='bar', stacked=True, ax=ax2, color=cores_raca_lista, edgecolor='black')
             
-            ax2.set_title('Volume Absoluto de Ingressos por Cor/Raça ao Longo do Tempo', fontsize=15, fontweight='bold', pad=15)
-            ax2.set_xlabel('Período de Ingresso', fontsize=12)
-            ax2.set_ylabel('Número Total de Docentes Contratados', fontsize=12)
-            ax2.tick_params(axis='x', labelrotation=0)
-            ax2.legend(title='Cor/Raça', bbox_to_anchor=(1.05, 1), loc='upper left')
+            # Títulos e eixos aumentados para manter proporção com os novos labels
+            ax2.set_title('Volume Absoluto de Ingressos por Cor/Raça ao Longo do Tempo', fontsize=17, fontweight='bold', pad=15)
+            ax2.set_xlabel('Período de Ingresso', fontsize=14)
+            ax2.set_ylabel('Número Total de Docentes Contratados', fontsize=14)
+            ax2.tick_params(axis='x', labelrotation=0, labelsize=12)
+            ax2.tick_params(axis='y', labelsize=12)
+            ax2.legend(title='Cor/Raça', bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=12, title_fontsize=14)
             
-            # Adicionando os rótulos de dados absolutos dentro das barras
+            # Adicionando os rótulos de dados absolutos dentro das barras (Aumentado para fontsize 12)
             for c in ax2.containers:
                 labels_bar = [f'{int(v.get_height())}' if v.get_height() > 0 else '' for v in c]
-                ax2.bar_label(c, labels=labels_bar, label_type='center', color='white', weight='bold', fontsize=10)
+                ax2.bar_label(c, labels=labels_bar, label_type='center', color='white', weight='bold', fontsize=12)
 
             plt.tight_layout()
             caminho_grafico_abs = os.path.join(self.pasta_resultados, 'grafico_evolucao_absoluta.png')
@@ -785,15 +793,158 @@ class AnaliseDadosTCC:
             print(f"\n -> Lista de campi salva com sucesso em: {caminho_txt}\n")
         except Exception as e:
             print(f"\n -> Erro ao salvar o arquivo txt: {e}\n")
+
+    def gerar_mapa_composicao_censo2022(self):
             
-if __name__ == "__main__":
-    analise = AnaliseDadosTCC()
-    #analise.executar_todas()
-    #analise.gerar_graficos_analises()
-    #analise.analisar_cobertura_completa()
-    #analise.analises_gerais_com_porcentagem()
-    #analise.gerar_graficos_porcentagem()
-    #analise.gerar_mapa_composicao_regioes()
-    #analise.analisar_evolucao_historica_raca()
-    #analise.comparar_curriculos_todas_racas()
-    analise.listar_campi_coletados()
+            print("\nGerando mapa do Brasil com dados do Censo 2022 (baixando malha espacial)...")
+            
+            # Dados oficiais do Censo 2022 (IBGE - Tabela 9605) em porcentagem
+            dados_censo_2022 = {
+                'Norte': {'Brancos': 20.73, 'Pardos': 67.15, 'Pretos': 8.82, 'Amarelos': 0.17},
+                'Nordeste': {'Brancos': 26.66, 'Pardos': 59.57, 'Pretos': 13.04, 'Amarelos': 0.13},
+                'Centro-Oeste': {'Brancos': 37.04, 'Pardos': 52.40, 'Pretos': 9.15, 'Amarelos': 0.37},
+                'Sudeste': {'Brancos': 49.88, 'Pardos': 38.70, 'Pretos': 10.61, 'Amarelos': 0.67},
+                'Sul': {'Brancos': 72.58, 'Pardos': 21.71, 'Pretos': 5.03, 'Amarelos': 0.40}
+            }
+
+            # URL com o GeoJSON público dos Estados do Brasil
+            url_geojson = "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson"
+            
+            try:
+                gdf = gpd.read_file(url_geojson)
+            except Exception as e:
+                print(f"Erro ao obter dados espaciais: {e}")
+                return
+
+            # Mapeamento de Estados para Regiões
+            mapa_regioes = {
+                'Acre': 'Norte', 'Amapá': 'Norte', 'Amazonas': 'Norte', 'Pará': 'Norte', 'Rondônia': 'Norte', 'Roraima': 'Norte', 'Tocantins': 'Norte',
+                'Alagoas': 'Nordeste', 'Bahia': 'Nordeste', 'Ceará': 'Nordeste', 'Maranhão': 'Nordeste', 'Paraíba': 'Nordeste', 'Pernambuco': 'Nordeste', 'Piauí': 'Nordeste', 'Rio Grande do Norte': 'Nordeste', 'Sergipe': 'Nordeste',
+                'Goiás': 'Centro-Oeste', 'Mato Grosso': 'Centro-Oeste', 'Mato Grosso do Sul': 'Centro-Oeste', 'Distrito Federal': 'Centro-Oeste',
+                'Espírito Santo': 'Sudeste', 'Minas Gerais': 'Sudeste', 'Rio de Janeiro': 'Sudeste', 'São Paulo': 'Sudeste',
+                'Paraná': 'Sul', 'Rio Grande do Sul': 'Sul', 'Santa Catarina': 'Sul'
+            }
+            
+            # Criar a coluna 'regiao' e mesclar os polígonos dos estados para formar a Região
+            gdf['regiao'] = gdf['name'].map(mapa_regioes)
+            gdf_regioes = gdf.dissolve(by='regiao').reset_index()
+
+            # Cores atualizadas conforme o mapa de referência
+            cores = {
+                'Norte': '#8BC53F',      
+                'Nordeste': '#25AAE2',    
+                'Centro-Oeste': '#FFC20F', 
+                'Sudeste': '#F16E22',      
+                'Sul': '#E31C23'          
+            }
+            gdf_regioes['cor'] = gdf_regioes['regiao'].map(cores)
+
+            # Plotagem da Imagem
+            fig, ax = plt.subplots(1, 1, figsize=(14, 12))
+            ax.axis('off') 
+            
+            ax.set_title("Composição de Cor/Raça da População por Região (Censo 2022)", 
+                         fontsize=18, fontweight='bold', pad=15)
+
+            # Plota os polígonos usando a paleta de cores criada
+            gdf_regioes.plot(ax=ax, color=gdf_regioes['cor'], edgecolor='white', linewidth=1.5)
+
+            # Adicionar os textos sobrepostos às regiões
+            for idx, row in gdf_regioes.iterrows():
+                regiao = row['regiao']
+                
+                # Pega o centróide (meio geográfico) da região
+                centro_x = row['geometry'].centroid.x
+                centro_y = row['geometry'].centroid.y
+                
+                # Ajustes finos de coordenada
+                if regiao == 'Norte': 
+                    centro_x -= 1.0; centro_y += 1.5
+                elif regiao == 'Nordeste': 
+                    centro_x += 1.5; centro_y -= 1.0
+                elif regiao == 'Sul': 
+                    # Subtrair no eixo X move a caixa mais para a ESQUERDA
+                    centro_x -= 0.5; centro_y -= 1.5
+                
+                if regiao in dados_censo_2022:
+                    pct = dados_censo_2022[regiao]
+                    
+                    texto = (
+                        f"{pct['Brancos']:.2f}% Brancos\n"
+                        f"{pct['Pardos']:.2f}% Pardos\n"
+                        f"{pct['Pretos']:.2f}% Pretos\n"
+                        f"{pct['Amarelos']:.2f}% Amarelos"
+                    )
+                    
+                    # Renderização do texto (fontsize aumentado para 11)
+                    ax.text(
+                        centro_x, centro_y, texto,
+                        fontsize=11, fontweight='bold', color='white',
+                        ha='center', va='center',
+                        bbox=dict(facecolor='black', alpha=0.25, edgecolor='none', boxstyle='round,pad=0.4')
+                    )
+
+            # --- CRIANDO A LEGENDA ---
+            legend_patches = [mpatches.Patch(color=cor, label=reg) for reg, cor in cores.items()]
+            
+            ax.legend(handles=legend_patches, title="Regiões do Brasil", 
+                      loc='lower left', bbox_to_anchor=(0.05, 0.05),
+                      fontsize=12, title_fontsize=14, frameon=True, shadow=True)
+
+            plt.tight_layout()
+            
+            caminho_mapa = os.path.join(self.pasta_resultados, "mapa_raca_regioes_censo2022.png")
+            plt.savefig(caminho_mapa, dpi=300, bbox_inches='tight')
+            plt.close()
+            
+            print(f" -> Mapa salvo com sucesso em: {caminho_mapa}")   
+
+    def teste_qui_quadrado(self):
+
+            # 1. Dados Observados (Sua coleta)
+            # Ordem das colunas: [Branca, Parda, Preta, Amarela]
+            obs_data = {
+                'Centro-Oeste': [51, 30, 2, 6],
+                'Nordeste': [176, 149, 20, 33],
+                'Norte': [43, 48, 4, 15],
+                'Sudeste': [83, 40, 4, 7],
+                'Sul': [177, 58, 2, 7]
+            }
+
+            # 2. Dados Esperados (Percentuais IBGE / 100)
+            # A soma não dá 100% pois exclui indígenas e não declarados
+            ibge_perc = {
+                'Centro-Oeste': [0.3704, 0.5240, 0.0915, 0.0037],
+                'Nordeste': [0.2666, 0.5957, 0.1304, 0.0013],
+                'Norte': [0.2073, 0.6715, 0.0882, 0.0017],
+                'Sudeste': [0.4988, 0.3870, 0.1061, 0.0067],
+                'Sul': [0.7258, 0.2171, 0.0503, 0.0040]
+            }
+
+            resultados = []
+
+            for regiao, observados in obs_data.items():
+                total_docentes = sum(observados)
+                
+                # NORMALIZAÇÃO: Garante que a soma das 4 proporções seja exatamente 1.0
+                soma_perc = sum(ibge_perc[regiao])
+                perc_normalizado = [p / soma_perc for p in ibge_perc[regiao]]
+                
+                # Calcula a frequência esperada com os percentuais normalizados
+                esperados = [total_docentes * p for p in perc_normalizado]
+                
+                # Aplica o Teste Qui-Quadrado
+                chi2_stat, p_val = chisquare(f_obs=observados, f_exp=esperados)
+                
+                resultados.append({
+                    'Região': regiao,
+                    'N_Docentes': total_docentes,
+                    'Qui-Quadrado (X2)': round(chi2_stat, 2),
+                    'P-Valor': p_val,
+                    'Significativo (p < 0.05)': p_val < 0.05
+                })
+
+            # Exibindo os resultados
+            df_resultados = pd.DataFrame(resultados)
+            print(df_resultados)
+

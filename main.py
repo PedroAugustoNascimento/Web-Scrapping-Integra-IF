@@ -72,6 +72,3 @@ def main():
         if scrapper:
             print("Fechando o navegador (fallback de erro)...")
             scrapper.fechar()
-
-if __name__ == "__main__":
-    main()
