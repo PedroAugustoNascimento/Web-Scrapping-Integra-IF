@@ -18,13 +18,7 @@ def main():
         with open(caminho_arquivo, "r", encoding="utf-8") as file:
             urls_institutos = [linha.strip() for linha in file if linha.strip()]
 
-        # ============================================================
-        # 1. ETAPA DE SCRAPING (COLETA DOS DADOS E FOTOS)
-        # ============================================================
         for url_site in urls_institutos:
-            print(f"\n{'='*50}")
-            print(f"INICIANDO COLETA NO SITE: {url_site}")
-            print(f"{'='*50}")
 
             try:
                 scrapper.acessar_site(url_site)
@@ -48,24 +42,12 @@ def main():
         scrapper.fechar()
         scrapper = None 
 
-        # ============================================================
-        # 2. ETAPA DE RECONHECIMENTO (INSERÇÃO DA RAÇA NOS JSONS)
-        # ============================================================
-        print("\n" + "="*50)
-        print("INICIANDO RECONHECIMENTO FACIAL/RACIAL")
-        print("="*50)
         try:
             recognition.executar_reconhecimento(pasta="fotos", pasta_json="perfis")
         except Exception as e_rec:
             print(f"Erro crítico durante o reconhecimento: {e_rec}")
             return # Se falhar aqui, não adianta analisar, então interrompe
 
-        # ============================================================
-        # 3. ETAPA DE REESTRUTURAÇÃO (LIMPEZA MATEMÁTICA E CATEGORIZAÇÃO)
-        # ============================================================
-        print("\n" + "="*50)
-        print("REESTRUTURANDO JSONS PARA ANÁLISE")
-        print("="*50)
         try:
             restruturador = RestruturadorJSON(pasta_origem="perfis", pasta_destino="perfis_estruturados")
             restruturador.executar()
@@ -73,12 +55,6 @@ def main():
             print(f"Erro na reestruturação dos dados: {e_res}")
             return
 
-        # ============================================================
-        # 4. ETAPA DE ANÁLISE DE DADOS (GRÁFICOS E CSVs)
-        # ============================================================
-        print("\n" + "="*50)
-        print("INICIANDO ANÁLISE DE DADOS")
-        print("="*50)
         try:
             analise = AnaliseDadosTCC(
                 pasta_perfis="perfis_estruturados",

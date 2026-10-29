@@ -154,8 +154,19 @@ class AnaliseDadosTCC:
         print(f"Média total de projetos por docente na carreira: {media_projetos:.2f}")
         print(f"Desvio Padrão: {std_projetos:.2f} (Variação normal esperada entre pesquisadores)")
         
-        tab_proj_raca = self.df.groupby('raca')['total_projetos'].agg(['mean', 'std']).round(2)
-        self.exibir_e_salvar_tabela(tab_proj_raca, "tabela_projetos_raca", "MÉDIA DE PROJETOS POR COR/RAÇA")
+        # Adicionando 'count' para capturar o N de cada grupo
+        tab_proj_raca = self.df.groupby('raca')['total_projetos'].agg(['count', 'mean', 'std']).round(2)
+        
+        # Renomeando as colunas para a tabela exportada ficar clara
+        tab_proj_raca.rename(columns={
+            'count': 'Total de Docentes', 
+            'mean': 'Média de Projetos', 
+            'std': 'Desvio Padrão'
+        }, inplace=True)
+        
+        tab_proj_raca['Total de Docentes'] = tab_proj_raca['Total de Docentes'].astype(int)
+
+        self.exibir_e_salvar_tabela(tab_proj_raca, "tabela_projetos_raca", "MÉDIA DE PROJETOS E NÚMERO DE DOCENTES POR COR/RAÇA")
 
         # 5. Gestão
         self.df['gestao_str'] = self.df['gestao'].map({1: 'Com experiência', 0: 'Sem experiência'})
@@ -190,7 +201,7 @@ class AnaliseDadosTCC:
         self.carregar_dados()
         if self.df.empty: return
         self.analises_gerais_com_numeros()
-        self.arvore_decisao_demografica()
+        #self.arvore_decisao_demografica()
         print("\nAnálise Concluída.")
 
     def gerar_graficos_analises(self):
@@ -245,9 +256,9 @@ class AnaliseDadosTCC:
         
         fig, ax = plt.subplots(figsize=(8, 6))
         tab_proj_mean.plot(kind='bar', yerr=tab_proj_std, capsize=5, ax=ax, color=cores_raca, edgecolor='black')
-        plt.title('Média de Anos em Projetos por Cor/Raça', fontsize=14)
+        plt.title('Média de Projetos por Cor/Raça', fontsize=14)
         plt.xlabel('Cor/Raça', fontsize=12)
-        plt.ylabel('Média de Projetos (anos)', fontsize=12)
+        plt.ylabel('Média de Projetos', fontsize=12)
         plt.xticks(rotation=0)
         plt.tight_layout()
         plt.savefig(os.path.join(self.pasta_resultados, 'grafico_projetos_raca.png'))
@@ -667,7 +678,114 @@ class AnaliseDadosTCC:
             plt.close(fig2)
             
             print(f" -> Gráfico de evolução absoluta salvo em: {caminho_grafico_abs}")
-    
+
+    def comparar_curriculos_todas_racas(self):
+        """
+        Isola a amostra de todas as raças e compara o 
+        'peso' dos currículos (projetos, formação e chefia) em proporção.
+        """
+        if self.df.empty: 
+            self.carregar_dados()
+            
+        # Garante que usaremos apenas as categorias válidas
+        df_racas = self.df[self.df['raca'].isin(self.CATEGORIAS_RACA)].copy()
+        
+        if df_racas.empty:
+            print("Dados insuficientes para essa comparação.")
+            return
+
+        print(f"\n{'='*70}\nCOMPARAÇÃO GERAL DE CURRÍCULOS POR COR/RAÇA\n{'='*70}")
+        
+        # 1. Tamanho da Amostra (N)
+        contagem = df_racas['raca'].value_counts().reindex(self.CATEGORIAS_RACA, fill_value=0)
+        print("\n1. TAMANHO DA AMOSTRA (N):")
+        print(contagem.to_string())
+
+        # 2. Nível de Formação (em Porcentagem da própria raça)
+        print("\n2. FORMAÇÃO ACADÊMICA (% dentro do grupo):")
+        tab_form = pd.crosstab(df_racas['raca'], df_racas['formacao'], normalize='index') * 100
+        tab_form = tab_form.reindex(index=self.CATEGORIAS_RACA, columns=self.CATEGORIAS_FORMACAO, fill_value=0)
+        print(tab_form.round(1))
+
+        # 3. Histórico de Gestão/Chefia (em Porcentagem)
+        print("\n3. EXPERIÊNCIA EM GESTÃO E CHEFIA (%):")
+        df_racas['gestao_str'] = df_racas['gestao'].map({1: 'Já foi Chefe/Gestor', 0: 'Nunca foi Chefe'})
+        tab_gestao = pd.crosstab(df_racas['raca'], df_racas['gestao_str'], normalize='index') * 100
+        tab_gestao = tab_gestao.reindex(index=self.CATEGORIAS_RACA, fill_value=0)
+        print(tab_gestao.round(1))
+
+        # 4. Produção de Projetos (Média e Desvio)
+        print("\n4. VOLUME DE PROJETOS POR DOCENTE:")
+        tab_proj = df_racas.groupby('raca')['total_projetos'].agg(['mean', 'std']).round(2)
+        tab_proj = tab_proj.reindex(self.CATEGORIAS_RACA, fill_value=0)
+        tab_proj.rename(columns={'mean': 'Média', 'std': 'Desvio Padrão'}, inplace=True)
+        print(tab_proj)
+
+        # Salvar em CSV consolidado
+        caminho_csv = os.path.join(self.pasta_resultados, "comparacao_curriculos_todas_racas.csv")
+        
+        # Concatenando tudo para um único DataFrame e exportando
+        relatorio = pd.concat([
+            pd.DataFrame({'Total_Amostra': contagem}),
+            tab_form.round(1).add_suffix('_(%)'),
+            tab_gestao.round(1).add_suffix('_(%)'),
+            tab_proj
+        ], axis=1)
+        
+        relatorio.to_csv(caminho_csv, encoding='utf-8-sig')
+        print(f"\n -> Relatório consolidado salvo em: {caminho_csv}")
+
+    def listar_campi_coletados(self):
+
+        #Dicionário para armazenar os campi de forma única (sem repetição)
+        campi_por_if = {instituto: set() for instituto in self.INSTITUTOS.keys()}
+        
+        arquivos = [a for a in os.listdir(self.pasta_perfis) if a.lower().endswith(".json")]
+        
+        for arquivo in arquivos:
+            caminho = os.path.join(self.pasta_perfis, arquivo)
+            try:
+                with open(caminho, "r", encoding="utf-8") as f:
+                    dados = json.load(f)
+                
+                instituto, _, _ = self.obter_instituto_estado_regiao(dados)
+                
+                # Tenta localizar a chave 'campus' na raiz do JSON ou dentro de 'dados_gerais'
+                campus = dados.get("campus")
+                if not campus:
+                    campus = dados.get("dados_gerais", {}).get("campus", "")
+                
+                campus = str(campus).strip()
+                
+                if instituto in campi_por_if and campus and campus.lower() not in ["none", "null", "-", "não informado", ""]:
+                    # Formata capitalizando corretamente o nome do campus
+                    campus_formatado = campus.title().replace(" Da ", " da ").replace(" De ", " de ").replace(" Do ", " do ")
+                    campi_por_if[instituto].add(campus_formatado)
+            except Exception:
+                pass
+        
+        # Geração da lista em texto puro
+        linhas_resultado = []
+        for instituto in sorted(campi_por_if.keys()):
+            campi = sorted(list(campi_por_if[instituto]))
+            if campi:
+                nomes_campi = ", ".join(campi)
+                linhas_resultado.append(f"{instituto}: {nomes_campi}")
+            else:
+                linhas_resultado.append(f"{instituto}: Campus não identificado nos dados coletados")
+        
+        texto_final = "\n".join(linhas_resultado)
+        print(texto_final)
+        
+        # Salvando o resultado em um arquivo .txt
+        caminho_txt = os.path.join(self.pasta_resultados, "lista_campi_coletados.txt")
+        try:
+            with open(caminho_txt, "w", encoding="utf-8") as arquivo_txt:
+                arquivo_txt.write(texto_final + "\n")
+            print(f"\n -> Lista de campi salva com sucesso em: {caminho_txt}\n")
+        except Exception as e:
+            print(f"\n -> Erro ao salvar o arquivo txt: {e}\n")
+            
 if __name__ == "__main__":
     analise = AnaliseDadosTCC()
     #analise.executar_todas()
@@ -676,4 +794,6 @@ if __name__ == "__main__":
     #analise.analises_gerais_com_porcentagem()
     #analise.gerar_graficos_porcentagem()
     #analise.gerar_mapa_composicao_regioes()
-    analise.analisar_evolucao_historica_raca()
+    #analise.analisar_evolucao_historica_raca()
+    #analise.comparar_curriculos_todas_racas()
+    analise.listar_campi_coletados()
